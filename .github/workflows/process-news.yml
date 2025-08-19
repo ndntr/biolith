@@ -53,15 +53,3 @@ jobs:
           git push
           echo "Data committed and pushed successfully"
         fi
-    
-    - name: Notify Cloudflare Worker of update
-      if: success()
-      env:
-        NEWS_REFRESH_TOKEN: ${{ secrets.NEWS_REFRESH_TOKEN }}
-      run: |
-        echo "Notifying Cloudflare Worker of update..."
-        curl -X POST https://biolith.org/news-api/webhook/update \
-          -H "X-NEWS-TOKEN: $NEWS_REFRESH_TOKEN" \
-          -H "Content-Type: application/json" \
-          -d '{"source": "github-actions", "timestamp": "'$(date -u +%Y-%m-%dT%H:%M:%SZ)'"}'
-        echo "Notification sent"

@@ -50,7 +50,7 @@ class NewsApp {
 
     async loadSection(section) {
         try {
-            const response = await fetch(`https://biolith-news.biolith.workers.dev/news-api/${section}`);
+            const response = await fetch(`https://raw.githubusercontent.com/ndntr/biolith/master/obelisk-engine/data/${section}.json`);
             
             if (!response.ok) {
                 // Use dummy data for testing
