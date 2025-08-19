@@ -1,0 +1,28 @@
+{
+  "name": "obelisk-engine",
+  "version": "1.0.0",
+  "description": "News aggregation and AI summarization engine for biolith.org",
+  "main": "src/github-processor.ts",
+  "scripts": {
+    "build": "tsc",
+    "process-news": "npx tsx src/github-processor.ts",
+    "dev": "npx tsx src/github-processor.ts",
+    "test:local": "node test-local.js",
+    "test:process": "node test-local.js process",
+    "test:serve": "node test-local.js serve",
+    "test:quota": "node test-local.js quota",
+    "test:pipeline": "node test-pipeline.js",
+    "local": "npm run build && npm run test:local"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250813.0",
+    "@types/node": "^20.11.5",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "fast-xml-parser": "^4.3.4",
+    "wink-nlp-utils": "^2.1.0"
+  }
+}
