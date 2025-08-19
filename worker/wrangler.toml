@@ -1,0 +1,17 @@
+name = "biolith-news"
+main = "src/worker.ts"
+compatibility_date = "2025-08-15"
+
+[[kv_namespaces]]
+binding = "NEWS_KV"
+id = "59c19d4fb2b84ffc8e59a4be57d1998b"
+preview_id = "57a72552eaa24afabe60430377a8e3c6"
+
+[triggers]
+crons = ["0 * * * *"]
+
+[vars]
+ALLOWED_ORIGIN = "https://biolith.org"
+
+[ai]
+binding = "AI"
