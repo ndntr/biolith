@@ -1,0 +1,66 @@
+name: Process News Feeds
+
+on:
+  schedule:
+    # Run at 6am, 10am, 2pm, 6pm, 10pm AEST/AEDT (UTC-10/UTC-11)
+    # AEST: UTC+10, so subtract 10 hours: 6am=20:00, 10am=00:00, 2pm=04:00, 6pm=08:00, 10pm=12:00 UTC
+    # AEDT: UTC+11, so subtract 11 hours: 6am=19:00, 10am=23:00, 2pm=03:00, 6pm=07:00, 10pm=11:00 UTC
+    # Using AEDT times (daylight saving) as primary
+    - cron: '0 19,23,3,7,11 * * *'
+  workflow_dispatch:
+
+jobs:
+  process-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: |
+        cd obelisk-engine
+        npm ci
+      
+    - name: Process RSS feeds and generate summaries
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: |
+        echo "GEMINI_API_KEY is set: $([[ -n "$GEMINI_API_KEY" ]] && echo "Yes" || echo "No")"
+        cd obelisk-engine
+        npm run process-news
+      
+    - name: Commit and push generated data
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add obelisk-engine/data/*.json
+        echo "Checking for changes to commit..."
+        if git diff --staged --quiet; then
+          echo "No changes detected in data files"
+        else
+          echo "Changes detected, committing..."
+          git commit -m "Update news data - $(TZ=Australia/Sydney date '+%Y-%m-%d %H:%M:%S %Z')"
+          git push
+          echo "Data committed and pushed successfully"
+        fi
+    
+    - name: Notify Cloudflare Worker of update
+      if: success()
+      env:
+        NEWS_REFRESH_TOKEN: ${{ secrets.NEWS_REFRESH_TOKEN }}
+      run: |
+        echo "Notifying Cloudflare Worker of update..."
+        curl -X POST https://biolith.org/news-api/webhook/update \
+          -H "X-NEWS-TOKEN: $NEWS_REFRESH_TOKEN" \
+          -H "Content-Type: application/json" \
+          -d '{"source": "github-actions", "timestamp": "'$(date -u +%Y-%m-%dT%H:%M:%SZ)'"}'
+        echo "Notification sent"
