@@ -34,7 +34,6 @@ export const FEED_SOURCES: FeedSource[] = [
   { name: '9News', url: 'https://www.9news.com.au/rss', type: 'rss', section: 'australia' },
   { name: 'Crikey', url: 'https://www.crikey.com.au/feed/', type: 'rss', section: 'australia' },
   { name: 'Canberra Times', url: 'https://www.canberratimes.com.au/rss.xml', type: 'rss', section: 'australia' },
-  { name: 'ABC Sport', url: 'https://www.abc.net.au/news/feed/2942460/rss.xml', type: 'rss', section: 'australia' },
 
   // Technology sources  
   { name: 'The Verge', url: 'https://www.theverge.com/rss/index.xml', type: 'rss', section: 'technology' },
