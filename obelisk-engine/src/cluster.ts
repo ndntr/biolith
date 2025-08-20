@@ -1,12 +1,8 @@
 import { NewsItem, NewsCluster } from './types';
-import { 
-  extractShingles, 
-  jaccardSimilarity, 
+import {
+  extractShingles,
+  jaccardSimilarity,
   isSameArticle,
-  normalizeText,
-  generateNeutralHeadline,
-  generateBulletSummary,
-  generateAISummary,
   selectBestHeadline
 } from './normalize';
 
@@ -133,8 +129,8 @@ export function clusterNewsItems(items: NewsItem[], similarityThreshold: number 
   // Build clusters from Union-Find structure
   const clusterMap = uf.getClusters();
   const clusters: NewsCluster[] = [];
-  
-  // Generate clusters with AI summaries
+
+  // Build clusters from grouped items
   for (const [rootId, memberIds] of clusterMap) {
     const clusterItems = memberIds.map(id => uniqueItems.get(id)!);
     
@@ -151,15 +147,13 @@ export function clusterNewsItems(items: NewsItem[], similarityThreshold: number 
     // Select the best headline from available sources
     const clusterTitle = clusterItems[0].title;
     const clusterHeadline = selectBestHeadline(clusterItems);
-    const bulletSummary = generateBulletSummary(clusterItems);
-    
+
     clusters.push({
       id: `cluster_${clusters.length}`,
       coverage: sources.size,
       updated_at: clusterItems[0].published_at,
       title: clusterTitle,
       neutral_headline: clusterHeadline,
-      bullet_summary: bulletSummary,
       items: clusterItems,
       featured_image: clusterItems.find(item => item.image_url)?.image_url
     });
