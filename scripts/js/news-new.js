@@ -653,10 +653,9 @@ function openModal(clusterId) {
     // Add "In Brief" section
     modalHTML += `<h3 class="modal-section-title">In Brief</h3>`;
     
-    // Try different possible summary fields
+    // Only use ai_summary for brief points
     let summaryPoints = null;
-    
-    // Handle ai_summary which can be either array or string with newlines
+
     if (cluster.ai_summary) {
         if (Array.isArray(cluster.ai_summary)) {
             summaryPoints = cluster.ai_summary;
@@ -667,12 +666,8 @@ function openModal(clusterId) {
                 .map(line => line.replace(/^[•\-]\s*/, '').trim())
                 .filter(line => line.length > 0);
         }
-    } else if (cluster.bullet_summary && Array.isArray(cluster.bullet_summary)) {
-        summaryPoints = cluster.bullet_summary;
-    } else if (cluster.summary && Array.isArray(cluster.summary)) {
-        summaryPoints = cluster.summary;
     }
-    
+
     if (summaryPoints && summaryPoints.length > 0) {
         modalHTML += `<ul class="in-brief-list">`;
         summaryPoints.forEach((point, index) => {
@@ -685,15 +680,9 @@ function openModal(clusterId) {
         });
         modalHTML += `</ul>`;
     } else {
-        // Debug: log the cluster structure to console
-        console.log('No summary found for cluster:', cluster);
+        console.log('No ai_summary available for cluster:', cluster);
         modalHTML += `
-            <ul class="in-brief-list">
-                <li class="brief-item">
-                    <div class="brief-number">1</div>
-                    <div class="brief-text">No summary available for this story.</div>
-                </li>
-            </ul>
+            <p class="in-brief-fallback">This story may be too hard for me to put simply. Click through to the full article to learn more instead.</p>
         `;
     }
     
