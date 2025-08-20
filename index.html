@@ -38,9 +38,32 @@
             }
 
             .news-page {
-                max-width: 1400px;
                 margin: 0 auto;
-                padding: 0 225px;
+                width: 1200px;
+            }
+
+            @media (max-width: 1600px) {
+                .news-page {
+                    width: 1100px;
+                }
+            }
+
+            @media (max-width: 1400px) {
+                .news-page {
+                    width: 960px;
+                }
+            }
+
+            @media (max-width: 1200px) {
+                .news-page {
+                    width: 860px;
+                }
+            }
+
+            @media (max-width: 1024px) {
+                .news-page {
+                    width: 708px;
+                }
             }
 
             .news-header {
@@ -80,6 +103,7 @@
             .current-date {
                 font-size: 15px;
                 margin-bottom: 6px;
+                white-space: nowrap;
             }
 
             .current-date strong {
@@ -115,6 +139,7 @@
                 gap: 74px;
                 margin-bottom: 60px;
                 align-items: center;
+                width: 100%;
             }
 
             .news-tab {
@@ -165,6 +190,7 @@
                 cursor: pointer;
                 transition: opacity 0.2s;
                 gap: 15px;
+                width: 100%;
             }
 
             .news-story:hover {
@@ -173,7 +199,7 @@
 
             .story-content {
                 flex: 1;
-                max-width: 708px;
+                max-width: 100%;
             }
 
             .story-title {
@@ -1278,6 +1304,7 @@
 
             @media (max-width: 768px) {
                 .news-page {
+                    width: 100%;
                     padding: 0 20px;
                 }
 
@@ -1290,14 +1317,21 @@
                 }
 
                 .logo-container {
-                    width: 100px;
-                    height: 150px;
+                    width: 100%;
+                    height: auto;
                     margin-left: 0;
                     padding-left: 0;
                 }
 
+                .logo-container img {
+                    width: 100% !important;
+                    height: auto !important;
+                    object-position: center;
+                }
+
                 .current-date {
                     font-size: 14px;
+                    white-space: normal;
                 }
 
                 .weather-line {
