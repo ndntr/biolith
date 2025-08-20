@@ -39,6 +39,10 @@ export async function fetchRSSFeed(source: FeedSource): Promise<NewsItem[]> {
         
       for (let i = 0; i < feedItems.length; i++) {
         const item = feedItems[i];
+        let imageUrl = extractImageFromItem(item);
+        if (imageUrl) {
+          imageUrl = makeAbsoluteUrl(imageUrl, item.link || item.guid || source.url);
+        }
         items.push({
           source: source.name,
           url: cleanUrl(item.link || item.guid || ''),
@@ -47,7 +51,7 @@ export async function fetchRSSFeed(source: FeedSource): Promise<NewsItem[]> {
           standfirst: cleanText(item.description || item.summary || ''),
           content: cleanText(item['content:encoded'] || item.description || ''),
           feed_position: i, // Track position in RSS feed for popularity scoring
-          image_url: extractImageFromItem(item)
+          image_url: imageUrl
         });
       }
     }
@@ -61,6 +65,10 @@ export async function fetchRSSFeed(source: FeedSource): Promise<NewsItem[]> {
       for (let i = 0; i < feedItems.length; i++) {
         const item = feedItems[i];
         const link = item.link?.['@_href'] || item.link || '';
+        let imageUrl = extractImageFromItem(item);
+        if (imageUrl) {
+          imageUrl = makeAbsoluteUrl(imageUrl, link || source.url);
+        }
         items.push({
           source: source.name,
           url: cleanUrl(link),
@@ -69,7 +77,7 @@ export async function fetchRSSFeed(source: FeedSource): Promise<NewsItem[]> {
           standfirst: cleanText(item.summary || ''),
           content: cleanText(item.content || item.summary || ''),
           feed_position: i, // Track position in Atom feed for popularity scoring
-          image_url: extractImageFromItem(item)
+          image_url: imageUrl
         });
       }
     }
@@ -159,6 +167,14 @@ function extractImageFromItem(item: any): string | undefined {
   }
   
   return undefined;
+}
+
+function makeAbsoluteUrl(url: string, base: string): string {
+  try {
+    return new URL(url, base).toString();
+  } catch {
+    return url;
+  }
 }
 
 function cleanText(text: any): string {

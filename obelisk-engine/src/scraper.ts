@@ -62,12 +62,49 @@ export async function scrapeABCPopularArticles(): Promise<NewsItem[]> {
       
       rank++;
     }
-    
+
+    // Fetch images for each article in parallel
+    await Promise.all(
+      articles.map(async article => {
+        const imageUrl = await extractOgImage(article.url);
+        if (imageUrl) {
+          article.image_url = imageUrl;
+        }
+      })
+    );
+
     return articles;
   } catch (error) {
     console.error('Error scraping ABC News:', error);
     return [];
   }
+}
+
+async function extractOgImage(url: string): Promise<string | undefined> {
+  try {
+    const res = await fetch(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (compatible; ActuaNewsBot/1.0)'
+      },
+      signal: AbortSignal.timeout(15000)
+    });
+    if (!res.ok) return undefined;
+    const html = await res.text();
+    const match =
+      html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i) ||
+      html.match(/<meta[^>]+name=["']og:image["'][^>]+content=["']([^"']+)["']/i) ||
+      html.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i);
+    if (match?.[1]) {
+      try {
+        return new URL(match[1], url).toString();
+      } catch {
+        return match[1];
+      }
+    }
+  } catch (err) {
+    console.error('Error fetching ABC article for image:', err);
+  }
+  return undefined;
 }
 
 // Scrape Ars Technica's front page articles (which are typically their most important/popular)
