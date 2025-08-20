@@ -16,7 +16,6 @@ export interface NewsCluster {
   updated_at: string;
   title: string;
   neutral_headline?: string;
-  bullet_summary?: string[];
   ai_summary?: string[] | string; // AI-generated summary (array of bullets or legacy string format)
   items: NewsItem[];
   popularity_score?: number; // Calculated popularity score for sorting
