@@ -179,58 +179,6 @@ export function generateClusterHeadline(items: NewsItem[]): string {
   return generateNeutralHeadline(items[0].title, items[0].content);
 }
 
-export function generateBulletSummary(items: NewsItem[]): string[] {
-  if (items.length === 0) return [];
-
-  const bullets: string[] = [];
-  const processedFacts = new Set<string>();
-
-  // Extract key facts from each article
-  items.forEach(item => {
-    const text = item.standfirst || item.content || '';
-    if (!text || text.length < 50) return;
-
-    // Split into sentences and find informative ones
-    const sentences = text
-      .split(/[.!?]+/)
-      .map(s => s.trim())
-      .filter(s => s.length > 20 && s.length < 200);
-
-    sentences.forEach(sentence => {
-      // Skip if we've seen a similar fact
-      const normalizedSentence = normalizeText(sentence);
-      if (processedFacts.has(normalizedSentence)) return;
-
-      // Look for factual statements (contain numbers, names, specific actions)
-      const hasNumbers = /\d+/.test(sentence);
-      const hasProperNouns = /[A-Z][a-z]+/.test(sentence);
-      const hasActionWords = /(said|announced|reported|confirmed|stated|revealed|showed|found)/i.test(sentence);
-
-      if ((hasNumbers || hasProperNouns) && hasActionWords) {
-        // Clean up the sentence
-        let cleanSentence = sentence
-          .replace(/^(according to|sources say|reports suggest|it is reported)/i, '')
-          .replace(/\s+/g, ' ')
-          .trim();
-
-        if (cleanSentence.length > 15) {
-          bullets.push(cleanSentence);
-          processedFacts.add(normalizedSentence);
-        }
-      }
-    });
-  });
-
-  // If we don't have enough bullets, add source attribution
-  if (bullets.length < 2) {
-    const sources = [...new Set(items.map(item => item.source))];
-    bullets.push(`Reported by ${sources.slice(0, 3).join(', ')}${sources.length > 3 ? ' and others' : ''}`);
-  }
-
-  // Limit to 4 key points
-  return bullets.slice(0, 4);
-}
-
 // Batch process multiple clusters with Gemini API in smaller chunks
 export async function generateBatchAISummaries(clusters: any[], env?: any): Promise<void> {
   if (clusters.length === 0) return;

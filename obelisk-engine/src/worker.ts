@@ -3,7 +3,6 @@ import { FEED_SOURCES, getFeedsBySection } from './feeds';
 import { fetchAllFeeds, fetchEvidenceAlerts } from './fetcher';
 import { clusterNewsItems } from './cluster';
 import { fetchScrapedPopularArticles } from './scraper';
-import { generateAISummary, generateAIHeadline } from './normalize';
 
 export default {
   async fetch(request: Request, env: Env, ctx: ExecutionContext): Promise<Response> {
@@ -59,10 +58,10 @@ export default {
         ]);
 
         const response: MedicalSectionData = {
-          clinical: clinical || { clusters: [], updated_at: new Date().toISOString() },
-          professional: professional || { clusters: [], updated_at: new Date().toISOString() },
-          patient_signals: patientSignals || { clusters: [], updated_at: new Date().toISOString() },
-          month_in_research: monthInResearch || { clusters: [], updated_at: new Date().toISOString() }
+          clinical: (clinical as SectionData) || { clusters: [], updated_at: new Date().toISOString() },
+          professional: (professional as SectionData) || { clusters: [], updated_at: new Date().toISOString() },
+          patient_signals: (patientSignals as SectionData) || { clusters: [], updated_at: new Date().toISOString() },
+          month_in_research: (monthInResearch as SectionData) || { clusters: [], updated_at: new Date().toISOString() }
         };
 
         return new Response(JSON.stringify(response), { headers: corsHeaders });
