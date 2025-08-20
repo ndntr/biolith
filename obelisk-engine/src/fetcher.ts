@@ -9,23 +9,27 @@ const parser = new XMLParser({
 });
 
 export async function fetchRSSFeed(source: FeedSource): Promise<NewsItem[]> {
-  try {
-    const response = await fetch(source.url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; ActuaNewsBot/1.0)'
-      },
-      signal: AbortSignal.timeout(10000) // 10 second timeout
-    });
-    
-    if (!response.ok) {
-      console.error(`Failed to fetch ${source.name}: ${response.status}`);
-      return [];
-    }
-    
-    const text = await response.text();
-    const parsed = parser.parse(text);
-    
-    const items: NewsItem[] = [];
+  const maxAttempts = 3;
+  const timeoutMs = 30000; // 30 second timeout
+
+  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+    try {
+      const response = await fetch(source.url, {
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (compatible; ActuaNewsBot/1.0)'
+        },
+        signal: AbortSignal.timeout(timeoutMs)
+      });
+
+      if (!response.ok) {
+        console.error(`Failed to fetch ${source.name}: ${response.status}`);
+        return [];
+      }
+
+      const text = await response.text();
+      const parsed = parser.parse(text);
+
+      const items: NewsItem[] = [];
     
     // Handle RSS 2.0 format
     if (parsed.rss?.channel?.item) {
@@ -70,39 +74,46 @@ export async function fetchRSSFeed(source: FeedSource): Promise<NewsItem[]> {
       }
     }
     
-    // Filter out items from wrong regions
-    if (source.section === 'global') {
-      // Exclude Australian content from global section
-      return items.filter(item => {
-        const isAustralian = 
-          item.url.includes('.au/') ||
-          item.url.includes('australia') ||
-          item.title.toLowerCase().includes('australia') ||
-          item.title.toLowerCase().includes('aussie');
-        return !isAustralian;
-      });
+      // Filter out items from wrong regions
+      if (source.section === 'global') {
+        // Exclude Australian content from global section
+        return items.filter(item => {
+          const isAustralian =
+            item.url.includes('.au/') ||
+            item.url.includes('australia') ||
+            item.title.toLowerCase().includes('australia') ||
+            item.title.toLowerCase().includes('aussie');
+          return !isAustralian;
+        });
+      }
+
+      if (source.section === 'australia') {
+        // Only include Australian content
+        return items.filter(item => {
+          const isAustralian =
+            item.url.includes('.au/') ||
+            item.url.includes('australia') ||
+            item.title.toLowerCase().includes('australia') ||
+            item.title.toLowerCase().includes('aussie') ||
+            source.name.includes('Australia') ||
+            source.name.includes('AU');
+          return isAustralian;
+        });
+      }
+
+      return items;
+    } catch (error) {
+      if (attempt === maxAttempts) {
+        console.error(`Error fetching ${source.name}:`, error);
+        return [];
+      }
+      // Exponential backoff before retrying
+      const delay = attempt * 1000;
+      await new Promise(resolve => setTimeout(resolve, delay));
     }
-    
-    if (source.section === 'australia') {
-      // Only include Australian content
-      return items.filter(item => {
-        const isAustralian = 
-          item.url.includes('.au/') ||
-          item.url.includes('australia') ||
-          item.title.toLowerCase().includes('australia') ||
-          item.title.toLowerCase().includes('aussie') ||
-          source.name.includes('Australia') ||
-          source.name.includes('AU');
-        return isAustralian;
-      });
-    }
-    
-    return items;
-    
-  } catch (error) {
-    console.error(`Error fetching ${source.name}:`, error);
-    return [];
   }
+
+  return [];
 }
 
 function extractImageFromItem(item: any): string | undefined {
