@@ -139,7 +139,9 @@
                 gap: 74px;
                 margin-bottom: 60px;
                 align-items: center;
-                width: 100%;
+                width: 500px;
+                margin-left: auto;
+                margin-right: auto;
             }
 
             @media (max-width: 1200px) {
@@ -189,6 +191,9 @@
 
             .news-section {
                 display: none;
+                width: 500px;
+                margin-left: auto;
+                margin-right: auto;
             }
 
             .news-section.active {
@@ -1326,14 +1331,18 @@
                 }
             }
 
-            @media (max-width: 708px) {
+            @media (max-width: 550px) {
                 .news-page {
-                    width: 100%;
-                    padding: 0 20px;
+                    width: 350px;
+                    margin: 0 auto;
+                    padding: 0;
                 }
 
                 .news-header {
                     margin: 50px 0 30px 0;
+                    width: 80%;
+                    margin-left: auto;
+                    margin-right: auto;
                 }
 
                 .news-title {
@@ -1367,16 +1376,29 @@
                 }
 
                 .news-tabs {
-                    gap: 20px;
-                    overflow-x: auto;
+                    width: 350px;
+                    margin-left: auto;
+                    margin-right: auto;
+                    gap: 5px;
                     padding-bottom: 5px;
                     margin-bottom: 30px;
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: nowrap;
                 }
 
                 .news-tab {
-                    font-size: 14px;
-                    padding: 4px 8px;
+                    font-size: 11px;
+                    padding: 3px 5px;
                     white-space: nowrap;
+                    flex-shrink: 1;
+                    min-width: 0;
+                }
+
+                .news-section {
+                    width: 350px;
+                    margin-left: auto;
+                    margin-right: auto;
                 }
 
                 .section-title {
