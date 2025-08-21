@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Padding Layout Test</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            padding-left: 50px;
+            background: #e7e6e0;
+            font-family: sans-serif;
+        }
+        
+        .container {
+            padding: 0;
+            margin: 0;
+            background: rgba(255, 0, 0, 0.1);
+            border-left: 2px solid red;
+        }
+        
+        .content {
+            width: 100%;
+            max-width: none;
+            padding: 0;
+            margin: 0;
+            background: rgba(0, 255, 0, 0.1);
+            border-left: 2px solid green;
+        }
+        
+        .news-page {
+            margin: 0;
+            padding: 0;
+            width: 1550px;
+            max-width: calc(100vw - 50px);
+            background: rgba(0, 0, 255, 0.1);
+            border-left: 2px solid blue;
+            min-height: 100vh;
+        }
+        
+        .test-content {
+            padding: 20px;
+        }
+        
+        .measurements {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            background: white;
+            padding: 10px;
+            border: 1px solid #ccc;
+            font-family: monospace;
+            z-index: 1000;
+        }
+        
+        .padding-indicator {
+            position: fixed;
+            top: 50%;
+            left: 0;
+            width: 50px;
+            height: 2px;
+            background: red;
+            z-index: 999;
+        }
+        
+        .padding-label {
+            position: fixed;
+            top: calc(50% + 10px);
+            left: 10px;
+            color: red;
+            font-weight: bold;
+            font-size: 14px;
+            z-index: 999;
+        }
+        
+        @media (max-width: 550px) {
+            body {
+                padding-left: 20px;
+            }
+            
+            .news-page {
+                width: 350px;
+                max-width: calc(100vw - 40px);
+            }
+            
+            .padding-indicator {
+                width: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="padding-indicator"></div>
+    <div class="padding-label">A=50px</div>
+    
+    <div class="measurements">
+        <div>Window Width: <span id="width">-</span>px</div>
+        <div>Padding A: <span id="paddingA">50</span>px</div>
+        <div>Padding B: <span id="paddingB">0</span>px</div>
+        <div>News Page Width: <span id="newsWidth">-</span>px</div>
+    </div>
+    
+    <div class="container">
+        <div class="content">
+            <div class="news-page">
+                <div class="test-content">
+                    <h1>BIOLITH Layout Test</h1>
+                    <p>Red border = container</p>
+                    <p>Green border = content</p>
+                    <p>Blue border = news-page</p>
+                    <p>This layout demonstrates:</p>
+                    <ul>
+                        <li>Padding A (left margin) = 50px fixed for all widths > 550px</li>
+                        <li>Padding B (internal padding) = 0px</li>
+                        <li>News page width = 1550px max, responsive below that</li>
+                        <li>At mobile (≤550px): Padding A = 20px</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        function updateMeasurements() {
+            const width = window.innerWidth;
+            document.getElementById('width').textContent = width;
+            
+            const newsPage = document.querySelector('.news-page');
+            const newsPageWidth = newsPage.offsetWidth;
+            document.getElementById('newsWidth').textContent = newsPageWidth;
+            
+            const paddingA = width <= 550 ? 20 : 50;
+            document.getElementById('paddingA').textContent = paddingA;
+            
+            const paddingLabel = document.querySelector('.padding-label');
+            paddingLabel.textContent = `A=${paddingA}px`;
+        }
+        
+        window.addEventListener('resize', updateMeasurements);
+        updateMeasurements();
+    </script>
+</body>
+</html>

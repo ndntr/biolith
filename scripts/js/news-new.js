@@ -628,7 +628,7 @@ function openModal(clusterId) {
     
     // Build the complete modal HTML structure
     let modalHTML = `
-        <button class="modal-close" onclick="closeModal()"></button>
+        <button class="modal-close" onclick="closeModal()" aria-label="Close modal" title="Close"></button>
         <h2 class="modal-headline">${window.newsApp.escapeHtml(cluster.neutral_headline || cluster.title)}</h2>
     `;
     

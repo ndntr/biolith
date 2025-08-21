@@ -113,7 +113,7 @@
                     width: 100% !important; /* Override desktop fixed width */
                     display: flex;
                     flex-wrap: nowrap; /* Keep tabs in one row */
-                    gap: 1px; /* Tighter spacing between buttons */
+                    gap: 2px; /* Small gap to prevent text collision */
                     justify-content: space-between;
                     margin-bottom: 30px;
                     margin-left: 0 !important;
@@ -124,13 +124,13 @@
                 
                 .news-tab {
                     flex: 1 1 auto !important; /* Allow flexible sizing */
-                    font-size: 16px !important; /* Much larger font for better readability */
-                    padding: 10px 0px !important; /* No horizontal padding to save space */
+                    font-size: 14px !important; /* Smaller font for better fit on narrow screens */
+                    padding: 10px 3px !important; /* Small horizontal padding to prevent cutoff */
                     min-width: 0 !important;
                     white-space: nowrap !important;
                     overflow: hidden !important;
                     text-overflow: ellipsis !important; /* Fallback for very long text */
-                    letter-spacing: -0.8px !important; /* Much tighter letter spacing */
+                    letter-spacing: -0.3px !important; /* Moderate letter spacing */
                     text-transform: none !important; /* Remove uppercase */
                     font-weight: 500 !important; /* Medium weight for readability */
                     line-height: 1 !important; /* Tight line height */
@@ -250,6 +250,20 @@
                 .section-title {
                     font-size: 15px;
                     margin: 20px 0 15px 0;
+                }
+            }
+            
+            /* BlackBerry Key2 and similar narrow devices (360px viewport) */
+            @media (min-width: 351px) and (max-width: 375px) {
+                .news-tabs {
+                    gap: 1px !important;
+                }
+                
+                .news-tab {
+                    font-size: 13px !important;
+                    padding: 10px 2px !important;
+                    letter-spacing: -0.4px !important;
+                    font-weight: 500 !important;
                 }
             }
             
@@ -521,6 +535,106 @@
                 background-size: contain;
                 background-repeat: no-repeat;
                 background-position: center;
+            }
+            
+            /* Mobile-specific modal styles */
+            @media (max-width: 768px) {
+                .news-modal .modal-content {
+                    width: 95%;
+                    max-width: 95%;
+                    padding: 30px 20px 60px; /* Reduced padding, extra bottom for button */
+                    border-radius: 12px;
+                }
+                
+                .news-modal .modal-close {
+                    position: fixed; /* Fixed positioning to float over modal */
+                    bottom: 20px;
+                    right: 20px;
+                    top: auto;
+                    width: 60px;
+                    height: 60px;
+                    z-index: 10001; /* Ensure it's above modal content */
+                    background-color: rgba(231, 230, 224, 0.95); /* Slight background for visibility */
+                    border-radius: 50%;
+                    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+                }
+                
+                .modal-headline {
+                    font-size: 14px; /* Smaller headline font */
+                    margin-bottom: 15px;
+                }
+                
+                .modal-section-title {
+                    font-size: 14px; /* Smaller section titles */
+                    margin: 15px 0 10px 0;
+                }
+                
+                .modal-image {
+                    margin-bottom: 20px; /* Less space below images */
+                }
+                
+                .modal-bullet {
+                    font-size: 13px; /* Smaller bullet text */
+                    line-height: 1.4;
+                    margin-bottom: 8px;
+                }
+                
+                /* Specific styles for list items in modal */
+                .news-modal .in-brief-list {
+                    margin: 15px 0;
+                }
+                
+                .news-modal .brief-item {
+                    margin-bottom: 10px;
+                }
+                
+                .news-modal .brief-text {
+                    font-size: 13px;
+                    line-height: 1.4;
+                }
+                
+                .news-modal .article-item {
+                    margin-bottom: 10px;
+                }
+                
+                .news-modal .article-title {
+                    font-size: 13px;
+                }
+                
+                .news-modal .article-source {
+                    font-size: 12px;
+                }
+            }
+            
+            /* Even smaller screens (like BlackBerry Key2) */
+            @media (max-width: 576px) {
+                .news-modal .modal-content {
+                    padding: 25px 15px 60px; /* Even less padding */
+                }
+                
+                .modal-headline {
+                    font-size: 13px;
+                }
+                
+                .modal-section-title {
+                    font-size: 13px;
+                }
+                
+                .modal-bullet {
+                    font-size: 12px;
+                }
+                
+                .news-modal .brief-text {
+                    font-size: 12px;
+                }
+                
+                .news-modal .article-title {
+                    font-size: 12px;
+                }
+                
+                .news-modal .article-source {
+                    font-size: 11px;
+                }
             }
 
             .modal-headline {
