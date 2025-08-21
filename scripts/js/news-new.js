@@ -1056,10 +1056,32 @@ function updateWeatherModalContent(data) {
     const dailyForecast = document.querySelectorAll('.weather-forecast-section')[1];
     if (dailyForecast) {
         const forecastItems = dailyForecast.querySelectorAll('.weather-forecast-item');
-        const days = ['TMR', 'THU', 'FRI', 'SAT', 'SUN'];
+        
+        // Generate dynamic day labels: TMR for tomorrow, then actual day names
+        const dayNames = ['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT'];
+        const today = new Date();
+        const days = [];
+        
+        for (let i = 0; i < 5; i++) {
+            if (i === 0) {
+                // First slot is always "TMR"
+                days.push('TMR');
+            } else {
+                // Calculate the actual day name for future dates
+                const futureDate = new Date(today);
+                futureDate.setDate(today.getDate() + i + 1); // +1 because we start from tomorrow
+                days.push(dayNames[futureDate.getDay()]);
+            }
+        }
         
         forecastItems.forEach((item, index) => {
             if (index < 5) {
+                // Update day label
+                const timeLabel = item.querySelector('.weather-forecast-time');
+                if (timeLabel) {
+                    timeLabel.textContent = days[index];
+                }
+                
                 // Update weather data if available
                 if (data.daily && data.daily[index + 1]) { // Skip today, start from tomorrow
                     const dayData = data.daily[index + 1];
