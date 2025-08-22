@@ -244,7 +244,8 @@ async function main() {
         const allClusters = [
           ...globalData.clusters,
           ...australiaData.clusters,
-          ...technologyData.clusters
+          ...technologyData.clusters,
+          ...(medicalData.professional?.clusters || [])
         ];
         
         console.log(`Generating AI summaries for ${allClusters.length} clusters from all sections with Gemini API (single batch call)`);

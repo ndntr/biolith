@@ -231,6 +231,8 @@ export async function generateBatchAISummaries(clusters: any[], env?: any): Prom
 1. A neutral headline (max 12 words, no period, no contractions)
 2. A 5-bullet summary (max 26 words per bullet)
 
+SPECIAL CASE: For clusters containing newsGP articles, preserve the original headline exactly and generate ONLY the summary.
+
 Format your response as:
 CLUSTER 1:
 HEADLINE: [headline here]
@@ -245,9 +247,10 @@ CLUSTER 2:
 [repeat format]
 
 Requirements:
-- Headlines: factual, no clickbait, no "Here's what..." endings
+- Headlines: factual, no clickbait, no "Here's what..." endings (EXCEPT for newsGP - preserve exactly)
 - Summaries: specific facts only, no speculation, no generic statements
 - Use full words not contractions (government not govt)
+- For newsGP clusters: use original headline verbatim, focus on generating quality summary bullets
 
 ${batchInput}`;
 
@@ -321,10 +324,14 @@ function parseBatchResponse(response: string, clusters: any[]): void {
   
   for (let i = 0; i < Math.min(clusterBlocks.length, clusters.length); i++) {
     const block = clusterBlocks[i];
+    const cluster = clusters[i];
     
-    // Extract headline
+    // Check if this cluster contains newsGP articles
+    const isNewsGPCluster = cluster.items?.some((item: any) => item.source === 'newsGP');
+    
+    // Extract headline (skip for newsGP clusters)
     const headlineMatch = block.match(/HEADLINE:\s*(.+?)(?:\n|SUMMARY:|$)/i);
-    if (headlineMatch) {
+    if (headlineMatch && !isNewsGPCluster) {
       let headline = headlineMatch[1].trim();
       // Clean up the headline
       headline = headline
