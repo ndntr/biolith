@@ -7,6 +7,7 @@ export interface EvidenceArticle {
   evidenceAlertsUrl: string;
   abstract?: string;  // Scraped from EvidenceAlerts page
   structuredAbstract?: Array<{label: string, text: string}>;  // Structured abstract from PubMed
+  summary?: string;  // AI-generated one-sentence summary
   pubmedUrl?: string;  // Extracted from EvidenceAlerts page
   pubDate?: string;  // Publication date from PubMed
   doi?: string;  // DOI from PubMed

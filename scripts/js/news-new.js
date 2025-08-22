@@ -975,6 +975,16 @@ function openEvidenceModal(articleId) {
         `;
     }
 
+    // Add AI summary if available
+    if (article.summary) {
+        modalHTML += `
+            <h3 class="modal-section-title">Summary</h3>
+            <div class="evidence-summary">
+                ${window.newsApp.escapeHtml(article.summary)}
+            </div>
+        `;
+    }
+
     // Add abstract if available
     if (article.abstract) {
         modalHTML += `<h3 class="modal-section-title">Abstract</h3>`;

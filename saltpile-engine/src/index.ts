@@ -6,6 +6,7 @@ import { RSSFetcher } from './rss-fetcher.js';
 import { parseEmailFile, parseEmailBuffer } from './email-parser.js';
 import { EvidenceScraper } from './evidence-scraper.js';
 import { PubMedFetcher } from './pubmed-fetcher.js';
+import { generateBatchEvidenceSummaries } from './ai-summarizer.js';
 import { EvidenceArticle, EvidenceData, ProcessingOptions } from './types.js';
 import { generateArticleId, isArticleNew, log } from './utils.js';
 
@@ -143,6 +144,18 @@ class SaltpileEngine {
         isNew: true  // All articles from today's email are new
       };
     });
+
+    // Generate AI summaries for articles that have abstracts
+    log('Generating AI summaries...');
+    const articlesWithAbstracts = evidenceArticles.filter(article => 
+      article.abstract || article.structuredAbstract
+    );
+    
+    if (articlesWithAbstracts.length > 0) {
+      await generateBatchEvidenceSummaries(articlesWithAbstracts);
+    } else {
+      log('No articles with abstracts found, skipping summary generation');
+    }
 
     return evidenceArticles;
   }
