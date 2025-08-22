@@ -26,10 +26,44 @@ export class RSSFetcher {
             const xmlContent = await response.text();
             log(`Fetched RSS content (${xmlContent.length} characters)`);
             const parsedFeed = this.xmlParser.parse(xmlContent);
-            if (!parsedFeed.rss?.channel) {
-                throw new Error('Invalid RSS format: missing channel');
+            // Handle different RSS formats more flexibly
+            let channel;
+            let items;
+            if (parsedFeed.rss?.channel) {
+                // Standard RSS 2.0 format
+                channel = parsedFeed.rss.channel;
+                items = channel.item;
             }
-            const items = parsedFeed.rss.channel.item;
+            else if (parsedFeed.channel) {
+                // Direct channel format (some non-standard feeds)
+                channel = parsedFeed.channel;
+                items = channel.item;
+            }
+            else if (parsedFeed.feed?.entry) {
+                // Atom format
+                channel = parsedFeed.feed;
+                items = channel.entry;
+            }
+            else if (parsedFeed.rss) {
+                // RSS without proper channel structure
+                const rssContent = parsedFeed.rss;
+                if (rssContent.item) {
+                    items = rssContent.item;
+                }
+                else {
+                    // Log the structure for debugging
+                    log(`Unexpected RSS structure. Root keys: ${Object.keys(parsedFeed).join(', ')}`, 'warn');
+                    if (parsedFeed.rss) {
+                        log(`RSS keys: ${Object.keys(parsedFeed.rss).join(', ')}`, 'warn');
+                    }
+                    throw new Error(`Invalid RSS format: unexpected structure. Root keys: ${Object.keys(parsedFeed).join(', ')}`);
+                }
+            }
+            else {
+                // Log the structure for debugging
+                log(`Unknown feed format. Root keys: ${Object.keys(parsedFeed).join(', ')}`, 'warn');
+                throw new Error(`Invalid RSS format: unsupported structure. Root keys: ${Object.keys(parsedFeed).join(', ')}`);
+            }
             if (!items) {
                 log('No items found in RSS feed');
                 return [];
@@ -59,15 +93,22 @@ export class RSSFetcher {
         }
     }
     /**
-     * Parse a single RSS item into EmailArticleData format
+     * Parse a single RSS/Atom item into EmailArticleData format
      */
     async parseRSSItem(item) {
-        if (!item.description) {
-            log('RSS item missing description content', 'warn');
+        // Handle both RSS and Atom formats
+        let content = item.description || item.content || item.summary;
+        // For Atom feeds, content might be in a different structure
+        if (!content && item.content) {
+            content = typeof item.content === 'string' ? item.content : item.content['#text'] || item.content.value;
+        }
+        if (!content) {
+            log('RSS/Atom item missing content/description', 'warn');
+            log(`Item keys: ${Object.keys(item).join(', ')}`, 'warn');
             return null;
         }
         // Parse the HTML content from the RSS description (email content)
-        const articles = this.extractArticlesFromHtmlContent(item.description);
+        const articles = this.extractArticlesFromHtmlContent(content);
         // For now, return the first article found in the item
         // RSS items from Kill the Newsletter contain the full email content
         return articles.length > 0 ? articles[0] : null;
