@@ -8,6 +8,7 @@ class NewsApp {
         this.weatherData = null;
         this.weatherCache = { timestamp: 0, data: null };
         this.isAdmin = this.checkAdminAccess();
+        this.medicalLensMode = 'patient'; // 'patient' or 'physician'
         this.init();
     }
 
@@ -93,12 +94,12 @@ class NewsApp {
         try {
             console.log('Loading evidence data...');
             
-            // Try to fetch from saltpile-engine output first (GitHub Pages path)
-            let response = await fetch('https://raw.githubusercontent.com/ndntr/biolith/master/saltpile-engine/data/evidence.json');
+            // Try local path first for testing
+            let response = await fetch('./saltpile-engine/data/evidence.json');
             
             if (!response.ok) {
-                // Fallback to local path for testing
-                response = await fetch('./saltpile-engine/data/evidence.json');
+                // Fallback to GitHub path
+                response = await fetch('https://raw.githubusercontent.com/ndntr/biolith/master/saltpile-engine/data/evidence.json');
             }
             
             if (!response.ok) {
@@ -308,7 +309,7 @@ class NewsApp {
     }
 
     renderMedicalSection(data) {
-        // Combine all medical stories
+        // Store all cluster data for modal access
         const allClusters = [
             ...(data.clinical?.clusters || []).map(c => ({...c, _section: 'medical_clinical'})),
             ...(data.professional?.clusters || []).map(c => ({...c, _section: 'medical_professional'})),
@@ -316,42 +317,63 @@ class NewsApp {
             ...(data.month_in_research?.clusters || []).map(c => ({...c, _section: 'medical_research'}))
         ];
         
-        // Store cluster data
         allClusters.forEach(cluster => {
             const uniqueId = `${cluster._section}_${cluster.id}`;
             this.clusterData[uniqueId] = cluster;
         });
 
-        // Sort by timestamp
-        allClusters.sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at));
+        // Render based on current lens mode
+        this.updateMedicalTopStories(data);
+        
+        // Render more stories (always patient lens content for now)
+        const patientClusters = [
+            ...(data.clinical?.clusters || []).map(c => ({...c, _section: 'medical_clinical'})),
+            ...(data.patient_signals?.clusters || []).map(c => ({...c, _section: 'medical_patient'})),
+            ...(data.month_in_research?.clusters || []).map(c => ({...c, _section: 'medical_research'}))
+        ];
+        
+        patientClusters.sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at));
+        const moreStories = patientClusters.slice(5, 10);
 
-        // Split into top and more stories
-        const topStories = allClusters.slice(0, 5);
-        const moreStories = allClusters.slice(5, 10);
-
-        const topContainer = document.getElementById('medicalTopStories');
         const moreContainer = document.getElementById('medicalMoreStories');
-        
-        if (topContainer) {
-            topContainer.innerHTML = topStories.map(cluster => 
-                this.renderStory(cluster, cluster._section)
-            ).join('') || '<div class="loading">No medical stories available</div>';
-        }
-        
         if (moreContainer) {
             moreContainer.innerHTML = moreStories.map(cluster => 
                 this.renderStory(cluster, cluster._section)
-            ).join('');
+            ).join('') || '';
         }
     }
 
+    updateMedicalTopStories(data) {
+        const topContainer = document.getElementById('medicalTopStories');
+        if (!topContainer) return;
+
+        let topStories = [];
+        
+        if (this.medicalLensMode === 'patient') {
+            // Patient lens: clinical, patient_signals, month_in_research
+            const patientClusters = [
+                ...(data.clinical?.clusters || []).map(c => ({...c, _section: 'medical_clinical'})),
+                ...(data.patient_signals?.clusters || []).map(c => ({...c, _section: 'medical_patient'})),
+                ...(data.month_in_research?.clusters || []).map(c => ({...c, _section: 'medical_research'}))
+            ];
+            patientClusters.sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at));
+            topStories = patientClusters.slice(0, 5);
+        } else {
+            // Physician lens: professional (newsGP)
+            const physicianClusters = (data.professional?.clusters || []).map(c => ({...c, _section: 'medical_professional'}));
+            physicianClusters.sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at));
+            topStories = physicianClusters.slice(0, 5);
+        }
+
+        topContainer.innerHTML = topStories.map(cluster => 
+            this.renderStory(cluster, cluster._section)
+        ).join('') || '<div class="loading">No medical stories available</div>';
+    }
+
     renderEvidenceSection() {
-        // Render evidence articles in all sections
+        // Render evidence articles only in medical section
         const containers = [
-            'evidenceArticles',           // global
-            'evidenceArticlesAustralia',  // australia  
-            'evidenceArticlesMedical',    // medical
-            'evidenceArticlesTechnology'  // technology
+            'evidenceArticlesMedical'     // medical only
         ];
 
         containers.forEach(containerId => {
@@ -379,10 +401,18 @@ class NewsApp {
         // Create a short journal badge
         const journalBadge = this.getJournalBadge(article.journal);
         
-        // Format tags for display
-        const tagsDisplay = article.tags && article.tags.length > 0 
-            ? article.tags.slice(0, 2).join(', ') + (article.tags.length > 2 ? '...' : '')
-            : '';
+        // Format tags for display with shortened names
+        let tagsDisplay = '';
+        if (article.tags && article.tags.length > 0) {
+            const shortenedTags = article.tags.slice(0, 2).map(tag => {
+                // Shorten common long specialty names
+                if (tag === 'Family Medicine (FM)/General Practice (GP)') {
+                    return 'Family Medicine';
+                }
+                return tag;
+            });
+            tagsDisplay = shortenedTags.join(', ') + (article.tags.length > 2 ? '...' : '');
+        }
 
         return `
             <div class="evidence-article" onclick="openEvidenceModal('${article.id}')">
@@ -395,8 +425,11 @@ class NewsApp {
                 </div>
                 <div class="evidence-meta">
                     <div class="evidence-journal">${journalBadge}</div>
-                    <div class="evidence-score">${article.score}</div>
-                    <div class="evidence-time">${timeAgo}</div>
+                    <div class="evidence-score-time">
+                        <span class="evidence-score">${article.score}</span>
+                        <span>•</span>
+                        <span class="evidence-time">${timeAgo}</span>
+                    </div>
                 </div>
             </div>
         `;
@@ -725,6 +758,33 @@ class NewsApp {
 }
 
 // Global functions for onclick handlers
+function toggleMedicalLens() {
+    if (!window.newsApp) return;
+    
+    // Toggle the lens mode
+    window.newsApp.medicalLensMode = window.newsApp.medicalLensMode === 'patient' ? 'physician' : 'patient';
+    
+    // Update UI elements
+    const titleElement = document.getElementById('medicalTopStoriesTitle');
+    const toggleButton = document.getElementById('medicalLensToggle');
+    
+    if (titleElement) {
+        titleElement.textContent = window.newsApp.medicalLensMode === 'patient' 
+            ? 'Top Stories - Patient Lens' 
+            : 'Top Stories - Physician Lens';
+    }
+    
+    if (toggleButton) {
+        toggleButton.classList.toggle('physician', window.newsApp.medicalLensMode === 'physician');
+    }
+    
+    // Update the medical top stories content
+    const medicalData = window.newsApp.newsData.medical;
+    if (medicalData) {
+        window.newsApp.updateMedicalTopStories(medicalData);
+    }
+}
+
 function switchTab(tab) {
     // Update active tab button
     document.querySelectorAll('.news-tab').forEach(button => {

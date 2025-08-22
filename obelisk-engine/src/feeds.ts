@@ -52,6 +52,7 @@ export const FEED_SOURCES: FeedSource[] = [
   { name: 'BBC Health', url: 'https://feeds.bbci.co.uk/news/health/rss.xml', type: 'rss', section: 'medical', subsection: 'patient_signals' },
   { name: 'BBC Science', url: 'https://feeds.bbci.co.uk/news/science_and_environment/rss.xml', type: 'rss', section: 'medical', subsection: 'patient_signals' },
   { name: 'Guardian Health', url: 'https://www.theguardian.com/society/health/rss', type: 'rss', section: 'medical', subsection: 'patient_signals' },
+  { name: 'newsGP', url: 'https://www1.racgp.org.au/newsgp?rss=RACGPnewsGPArticles', type: 'rss', section: 'medical', subsection: 'professional' },
 ];
 
 export function getFeedsBySection(section: string, subsection?: string): FeedSource[] {
