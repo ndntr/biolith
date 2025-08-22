@@ -2,8 +2,8 @@ name: Process Evidence Alerts
 
 on:
   schedule:
-    # Run daily at 10am AEST (00:00 UTC during AEST, 23:00 UTC during AEDT)
-    # This is after typical EvidenceAlerts delivery time
+    # Run daily at 10am AEST (00:00 UTC during AEST, 23:00 UTC during AEDT)  
+    # Process RSS feed from Kill the Newsletter service
     - cron: '0 23 * * *'
   workflow_dispatch:
 
@@ -30,15 +30,13 @@ jobs:
     - name: Install dependencies
       run: npm ci
       
-    - name: Process EvidenceAlerts emails
+    - name: Process EvidenceAlerts RSS feed
       env:
-        INGEST_MAIL: ${{ secrets.INGEST_MAIL }}
-        INGEST_MAIL_KEY: ${{ secrets.INGEST_MAIL_KEY }}
+        EVIDENCE_ALERTS_RSS_URL: ${{ secrets.EVIDENCE_ALERTS_RSS_URL }}
         EVIDENCE_ALERTS_COOKIES: ${{ secrets.EVIDENCE_ALERTS_COOKIES }}
       run: |
-        echo "Processing EvidenceAlerts emails..."
-        echo "INGEST_MAIL is set: $([[ -n "$INGEST_MAIL" ]] && echo "Yes" || echo "No")"
-        echo "INGEST_MAIL_KEY is set: $([[ -n "$INGEST_MAIL_KEY" ]] && echo "Yes" || echo "No")"
+        echo "Processing EvidenceAlerts RSS feed..."
+        echo "EVIDENCE_ALERTS_RSS_URL is set: $([[ -n "$EVIDENCE_ALERTS_RSS_URL" ]] && echo "Yes" || echo "No")"
         echo "EVIDENCE_ALERTS_COOKIES is set: $([[ -n "$EVIDENCE_ALERTS_COOKIES" ]] && echo "Yes" || echo "No")"
         npm run process
       
