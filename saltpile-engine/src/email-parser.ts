@@ -69,6 +69,11 @@ export function extractArticlesFromHtml(htmlContent: string | any): EmailArticle
     const hasScore = content.includes('Score:');
     log(`HTML analysis: ${htmlLength} chars, table:${hasTable}, links:${hasLinks}, score:${hasScore}`);
     
+    // If content is very short, log it for debugging
+    if (htmlLength < 100) {
+      log(`Short content detected: "${content.substring(0, 100)}"`);
+    }
+    
     // Look for table rows with article structure (has score image)
     const $scoreImages = $('img[alt*="Score:"]');
     if ($scoreImages.length > 0) {
