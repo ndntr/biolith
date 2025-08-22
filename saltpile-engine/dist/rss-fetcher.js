@@ -1,4 +1,5 @@
 import { XMLParser } from 'fast-xml-parser';
+import { decode } from 'html-entities';
 import { log } from './utils.js';
 import { extractArticlesFromHtml } from './email-parser.js';
 /**
@@ -10,7 +11,10 @@ export class RSSFetcher {
         this.xmlParser = new XMLParser({
             ignoreAttributes: false,
             parseAttributeValue: true,
-            trimValues: true
+            trimValues: false, // Don't trim to preserve content
+            parseTagValue: false, // Don't parse content as values to prevent truncation
+            processEntities: true, // Process XML entities
+            htmlEntities: true // Handle HTML entities
         });
     }
     /**
@@ -97,21 +101,74 @@ export class RSSFetcher {
      * Returns all articles found in the RSS item
      */
     async parseRSSItem(item) {
-        // Handle both RSS and Atom formats
-        let content = item.description || item.content || item.summary;
-        // For Atom feeds, content might be in a different structure
-        if (!content && item.content) {
-            content = typeof item.content === 'string' ? item.content : item.content['#text'] || item.content.value;
+        log('Parsing RSS item...');
+        log(`Item keys: ${Object.keys(item).join(', ')}`);
+        let content = '';
+        let contentSource = 'none';
+        // Enhanced content extraction for different feed formats
+        if (item.content) {
+            if (typeof item.content === 'string') {
+                content = item.content;
+                contentSource = 'content-string';
+            }
+            else if (typeof item.content === 'object') {
+                // Handle Atom <content type="html"> structure
+                if (item.content.value) {
+                    content = item.content.value;
+                    contentSource = 'content-value';
+                }
+                else if (item.content['#text']) {
+                    content = item.content['#text'];
+                    contentSource = 'content-#text';
+                }
+                else if (item.content._) {
+                    content = item.content._;
+                    contentSource = 'content-_';
+                }
+                else {
+                    // Content object might contain the data directly
+                    content = String(item.content);
+                    contentSource = 'content-stringified';
+                }
+            }
+        }
+        // Fallback to description or summary
+        if (!content && item.description) {
+            content = typeof item.description === 'string' ? item.description : String(item.description);
+            contentSource = 'description';
+        }
+        if (!content && item.summary) {
+            content = typeof item.summary === 'string' ? item.summary : String(item.summary);
+            contentSource = 'summary';
+        }
+        // Log content extraction details
+        log(`Content extracted from: ${contentSource}`);
+        log(`Raw content length: ${content.length} characters`);
+        if (content.length < 100) {
+            log(`Short content detected: "${content}"`);
         }
         if (!content) {
-            log('RSS/Atom item missing content/description', 'warn');
-            log(`Item keys: ${Object.keys(item).join(', ')}`, 'warn');
+            log('RSS/Atom item missing content/description', 'error');
             return [];
         }
-        // Parse the HTML content from the RSS description (email content)
+        // Validate content length (should be substantial for EvidenceAlerts email)
+        if (content.length < 1000) {
+            log(`Warning: Content unusually short (${content.length} chars) - may indicate parsing issue`, 'warn');
+        }
+        // Decode HTML entities
+        let decodedContent;
+        try {
+            decodedContent = decode(content);
+            log(`HTML entity decoding: ${content.length} -> ${decodedContent.length} characters`);
+        }
+        catch (error) {
+            log(`HTML entity decoding failed: ${error.message}`, 'warn');
+            decodedContent = content; // Use original if decoding fails
+        }
+        // Parse the HTML content from the RSS item (email content)
         // Each RSS item from Kill the Newsletter contains the full email content
         // which may have multiple EvidenceAlerts articles
-        const articles = this.extractArticlesFromHtmlContent(content);
+        const articles = this.extractArticlesFromHtmlContent(decodedContent);
         log(`Found ${articles.length} articles in RSS item`);
         return articles;
     }
