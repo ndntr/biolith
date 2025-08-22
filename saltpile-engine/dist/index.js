@@ -106,7 +106,10 @@ class SaltpileEngine {
                 tags: emailArticle.tags,
                 evidenceAlertsUrl: emailArticle.evidenceAlertsUrl,
                 abstract: pubmedData?.abstract,
+                structuredAbstract: pubmedData?.structuredAbstract,
                 pubmedUrl,
+                pubDate: pubmedData?.pubDate,
+                doi: pubmedData?.doi,
                 dateReceived,
                 isNew: true // All articles from today's email are new
             };

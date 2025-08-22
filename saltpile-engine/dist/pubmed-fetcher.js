@@ -148,7 +148,8 @@ export class PubMedFetcher {
         try {
             const parser = new xml2js.Parser({
                 explicitArray: false,
-                ignoreAttrs: true
+                ignoreAttrs: false,
+                mergeAttrs: true
             });
             const result = await parser.parseStringPromise(xmlData);
             if (!result.PubmedArticleSet || !result.PubmedArticleSet.PubmedArticle) {
@@ -160,27 +161,41 @@ export class PubMedFetcher {
                 return null;
             }
             const articleData = medlineCitation.Article;
-            // Extract abstract text
+            // Extract abstract text - preserve structure for better display
             let abstractText = '';
+            let structuredAbstract = null;
             if (articleData.Abstract) {
                 if (typeof articleData.Abstract.AbstractText === 'string') {
                     abstractText = articleData.Abstract.AbstractText;
                 }
                 else if (Array.isArray(articleData.Abstract.AbstractText)) {
-                    // Structured abstract with multiple sections
-                    abstractText = articleData.Abstract.AbstractText
-                        .map((section) => {
+                    // Structured abstract with multiple sections - preserve structure
+                    const sections = [];
+                    for (const section of articleData.Abstract.AbstractText) {
                         if (typeof section === 'string') {
-                            return section;
+                            sections.push({ label: '', text: section });
                         }
                         else if (section._) {
-                            // XML element with text content
-                            return section._;
+                            // XML element with text content and optional label attribute
+                            const label = section.Label || section.NlmCategory || '';
+                            const text = section._;
+                            sections.push({ label, text });
                         }
-                        return '';
-                    })
-                        .filter((text) => text.length > 0)
-                        .join(' ');
+                        else if (typeof section === 'object' && section !== null) {
+                            // Handle case where attributes are merged with text content
+                            const text = section._ || (typeof section === 'string' ? section : '');
+                            const label = section.Label || section.NlmCategory || '';
+                            if (text) {
+                                sections.push({ label, text });
+                            }
+                        }
+                    }
+                    if (sections.length > 0) {
+                        // Store structured format for frontend
+                        structuredAbstract = sections;
+                        // Also create fallback flat text
+                        abstractText = sections.map(s => s.text).join(' ');
+                    }
                 }
                 else if (articleData.Abstract.AbstractText._) {
                     // XML element with text content
@@ -202,6 +217,26 @@ export class PubMedFetcher {
                     }
                 }
             }
+            // Extract publication date
+            let pubDate = '';
+            if (articleData.Journal && articleData.Journal.JournalIssue) {
+                const issue = articleData.Journal.JournalIssue;
+                if (issue.PubDate) {
+                    // Try to build a readable publication date
+                    const year = issue.PubDate.Year || '';
+                    const month = issue.PubDate.Month || '';
+                    const day = issue.PubDate.Day || '';
+                    if (year) {
+                        pubDate = year;
+                        if (month) {
+                            pubDate += ` ${month}`;
+                            if (day) {
+                                pubDate += ` ${day}`;
+                            }
+                        }
+                    }
+                }
+            }
             // Extract DOI if available
             let doi = '';
             if (article.PubmedData && article.PubmedData.ArticleIdList) {
@@ -217,8 +252,10 @@ export class PubMedFetcher {
                 pmid,
                 title,
                 abstract: abstractText,
+                structuredAbstract,
                 journal,
                 authors,
+                pubDate,
                 doi
             };
         }

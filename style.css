@@ -1899,3 +1899,33 @@ body.dark-theme .abstract-section-title {
 body.dark-theme .abstract-section-text {
     color: #E5E5DD;
 }
+
+/* Evidence Modal Publication Info Styles */
+.evidence-modal-publication-info {
+    font-family: 'iA Writer Quattro S', serif;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    color: #666666;
+    margin: 0.25rem 0 0 0;
+}
+
+.evidence-modal-pubdate {
+    margin-right: 0.5rem;
+}
+
+.evidence-modal-doi {
+    font-style: italic;
+}
+
+/* Evidence modal PubMed link - simple underlined text like other article links */
+.evidence-pubmed-link {
+    text-decoration: underline;
+    color: #111;
+    font-size: 0.9rem;
+    display: inline-block;
+    margin-top: 0.5rem;
+}
+
+.evidence-pubmed-link:hover {
+    text-decoration: none;
+}

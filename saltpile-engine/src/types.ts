@@ -8,6 +8,8 @@ export interface EvidenceArticle {
   abstract?: string;  // Scraped from EvidenceAlerts page
   structuredAbstract?: Array<{label: string, text: string}>;  // Structured abstract from PubMed
   pubmedUrl?: string;  // Extracted from EvidenceAlerts page
+  pubDate?: string;  // Publication date from PubMed
+  doi?: string;  // DOI from PubMed
   dateReceived: string;  // ISO string
   isNew: boolean;  // True if received within 24 hours
 }

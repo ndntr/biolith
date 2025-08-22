@@ -276,6 +276,28 @@ export class PubMedFetcher {
         }
       }
 
+      // Extract publication date
+      let pubDate = '';
+      if (articleData.Journal && articleData.Journal.JournalIssue) {
+        const issue = articleData.Journal.JournalIssue;
+        if (issue.PubDate) {
+          // Try to build a readable publication date
+          const year = issue.PubDate.Year || '';
+          const month = issue.PubDate.Month || '';
+          const day = issue.PubDate.Day || '';
+          
+          if (year) {
+            pubDate = year;
+            if (month) {
+              pubDate += ` ${month}`;
+              if (day) {
+                pubDate += ` ${day}`;
+              }
+            }
+          }
+        }
+      }
+
       // Extract DOI if available
       let doi = '';
       if (article.PubmedData && article.PubmedData.ArticleIdList) {
@@ -296,6 +318,7 @@ export class PubMedFetcher {
         structuredAbstract,
         journal,
         authors,
+        pubDate,
         doi
       };
 

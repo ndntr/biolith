@@ -139,6 +139,8 @@ class SaltpileEngine {
         abstract: pubmedData?.abstract,
         structuredAbstract: pubmedData?.structuredAbstract,
         pubmedUrl,
+        pubDate: pubmedData?.pubDate,
+        doi: pubmedData?.doi,
         dateReceived,
         isNew: true  // All articles from today's email are new
       };

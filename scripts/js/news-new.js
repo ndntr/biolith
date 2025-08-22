@@ -953,6 +953,12 @@ function openEvidenceModal(articleId) {
         <div class="evidence-modal-meta">
             <div class="evidence-modal-journal">
                 <strong>${window.newsApp.escapeHtml(article.journal)}</strong>
+                ${article.pubDate || article.doi ? 
+                    `<div class="evidence-modal-publication-info">
+                        ${article.pubDate ? `<span class="evidence-modal-pubdate">${window.newsApp.escapeHtml(article.pubDate)}</span>` : ''}
+                        ${article.doi ? `<span class="evidence-modal-doi">doi: ${window.newsApp.escapeHtml(article.doi)}</span>` : ''}
+                    </div>` : ''
+                }
                 <span class="evidence-modal-score">Score: ${article.score}</span>
             </div>
         </div>
@@ -1014,27 +1020,17 @@ function openEvidenceModal(articleId) {
         `;
     }
 
-    // Add links section
-    modalHTML += `<h3 class="modal-section-title">Links</h3>`;
-    modalHTML += `<div class="evidence-links">`;
-    
-    // EvidenceAlerts link
-    modalHTML += `
-        <a href="${article.evidenceAlertsUrl}" target="_blank" rel="noopener noreferrer" class="evidence-link evidence-alerts-link">
-            View on EvidenceAlerts ↗
-        </a>
-    `;
-    
     // PubMed link if available
     if (article.pubmedUrl) {
+        modalHTML += `<h3 class="modal-section-title">Links</h3>`;
         modalHTML += `
-            <a href="${article.pubmedUrl}" target="_blank" rel="noopener noreferrer" class="evidence-link pubmed-link">
-                View on PubMed ↗
-            </a>
+            <div class="evidence-links">
+                <a href="${article.pubmedUrl}" target="_blank" rel="noopener noreferrer" class="evidence-pubmed-link">
+                    View on PubMed ↗
+                </a>
+            </div>
         `;
     }
-    
-    modalHTML += `</div>`;
 
     // Set the modal content
     modalContent.innerHTML = modalHTML;
