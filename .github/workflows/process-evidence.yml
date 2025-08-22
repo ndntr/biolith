@@ -34,10 +34,12 @@ jobs:
       env:
         EVIDENCE_ALERTS_RSS_URL: ${{ secrets.EVIDENCE_ALERTS_RSS_URL }}
         EVIDENCE_ALERTS_COOKIES: ${{ secrets.EVIDENCE_ALERTS_COOKIES }}
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: |
         echo "Processing EvidenceAlerts RSS feed..."
         echo "EVIDENCE_ALERTS_RSS_URL is set: $([[ -n "$EVIDENCE_ALERTS_RSS_URL" ]] && echo "Yes" || echo "No")"
         echo "EVIDENCE_ALERTS_COOKIES is set: $([[ -n "$EVIDENCE_ALERTS_COOKIES" ]] && echo "Yes" || echo "No")"
+        echo "GEMINI_API_KEY is set: $([[ -n "$GEMINI_API_KEY" ]] && echo "Yes" || echo "No")"
         npm run process
       
     - name: Commit and push evidence data
