@@ -215,25 +215,34 @@ export class PubMedFetcher {
 
       const articleData = medlineCitation.Article;
       
-      // Extract abstract text
+      // Extract abstract text - preserve structure for better display
       let abstractText = '';
+      let structuredAbstract: any = null;
+      
       if (articleData.Abstract) {
         if (typeof articleData.Abstract.AbstractText === 'string') {
           abstractText = articleData.Abstract.AbstractText;
         } else if (Array.isArray(articleData.Abstract.AbstractText)) {
-          // Structured abstract with multiple sections
-          abstractText = articleData.Abstract.AbstractText
-            .map((section: any) => {
-              if (typeof section === 'string') {
-                return section;
-              } else if (section._ ) {
-                // XML element with text content
-                return section._;
-              }
-              return '';
-            })
-            .filter((text: string) => text.length > 0)
-            .join(' ');
+          // Structured abstract with multiple sections - preserve structure
+          const sections: Array<{label: string, text: string}> = [];
+          
+          for (const section of articleData.Abstract.AbstractText) {
+            if (typeof section === 'string') {
+              sections.push({ label: '', text: section });
+            } else if (section._) {
+              // XML element with text content and optional label attribute
+              const label = section.Label || section.NlmCategory || '';
+              const text = section._;
+              sections.push({ label, text });
+            }
+          }
+          
+          if (sections.length > 0) {
+            // Store structured format for frontend
+            structuredAbstract = sections;
+            // Also create fallback flat text
+            abstractText = sections.map(s => s.text).join(' ');
+          }
         } else if (articleData.Abstract.AbstractText._) {
           // XML element with text content
           abstractText = articleData.Abstract.AbstractText._;
@@ -275,6 +284,7 @@ export class PubMedFetcher {
         pmid,
         title,
         abstract: abstractText,
+        structuredAbstract,
         journal,
         authors,
         doi

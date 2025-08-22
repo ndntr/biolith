@@ -971,12 +971,40 @@ function openEvidenceModal(articleId) {
 
     // Add abstract if available
     if (article.abstract) {
-        modalHTML += `
-            <h3 class="modal-section-title">Abstract</h3>
-            <div class="evidence-abstract">
-                ${window.newsApp.escapeHtml(article.abstract)}
-            </div>
-        `;
+        modalHTML += `<h3 class="modal-section-title">Abstract</h3>`;
+        
+        // Check if we have structured abstract data
+        if (article.structuredAbstract && Array.isArray(article.structuredAbstract)) {
+            modalHTML += `<div class="evidence-abstract structured">`;
+            
+            article.structuredAbstract.forEach(section => {
+                if (section.label && section.label.trim()) {
+                    // Display section with label
+                    modalHTML += `
+                        <div class="abstract-section">
+                            <h4 class="abstract-section-title">${window.newsApp.escapeHtml(section.label)}</h4>
+                            <p class="abstract-section-text">${window.newsApp.escapeHtml(section.text)}</p>
+                        </div>
+                    `;
+                } else {
+                    // Display section without label
+                    modalHTML += `
+                        <div class="abstract-section">
+                            <p class="abstract-section-text">${window.newsApp.escapeHtml(section.text)}</p>
+                        </div>
+                    `;
+                }
+            });
+            
+            modalHTML += `</div>`;
+        } else {
+            // Fallback to flat abstract display
+            modalHTML += `
+                <div class="evidence-abstract">
+                    ${window.newsApp.escapeHtml(article.abstract)}
+                </div>
+            `;
+        }
     } else {
         modalHTML += `
             <h3 class="modal-section-title">Abstract</h3>

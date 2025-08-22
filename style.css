@@ -1855,3 +1855,47 @@ body.dark-theme .search-input::selection {
     color: #ffffff;
     background-color: #0B5CFF;
 }
+
+/* Structured Abstract Styles */
+.evidence-abstract.structured {
+    background: none;
+    padding: 0;
+}
+
+.abstract-section {
+    margin-bottom: 1.5rem;
+}
+
+.abstract-section:last-child {
+    margin-bottom: 0;
+}
+
+.abstract-section-title {
+    font-family: 'iA Writer Quattro Variable', sans-serif;
+    font-weight: 500;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: -0.025em;
+    font-variation-settings: 'wdth' 50;
+    color: #5b5b5b;
+    margin: 0 0 0.5rem 0;
+    line-height: 1.2;
+}
+
+.abstract-section-text {
+    font-family: 'iA Writer Quattro S', serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #2a2a2a;
+    margin: 0;
+    text-align: justify;
+}
+
+/* Dark theme styles for structured abstracts */
+body.dark-theme .abstract-section-title {
+    color: #908E8C;
+}
+
+body.dark-theme .abstract-section-text {
+    color: #E5E5DD;
+}
