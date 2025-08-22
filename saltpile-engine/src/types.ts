@@ -6,6 +6,7 @@ export interface EvidenceArticle {
   tags: string[];  // Medical specialties
   evidenceAlertsUrl: string;
   abstract?: string;  // Scraped from EvidenceAlerts page
+  structuredAbstract?: Array<{label: string, text: string}>;  // Structured abstract from PubMed
   pubmedUrl?: string;  // Extracted from EvidenceAlerts page
   dateReceived: string;  // ISO string
   isNew: boolean;  // True if received within 24 hours

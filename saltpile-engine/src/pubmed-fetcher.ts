@@ -7,6 +7,7 @@ interface PubMedSearchResult {
   pmid: string;
   title?: string;
   abstract?: string;
+  structuredAbstract?: Array<{label: string, text: string}>;
   journal?: string;
   authors?: string[];
   pubDate?: string;
@@ -197,7 +198,8 @@ export class PubMedFetcher {
     try {
       const parser = new xml2js.Parser({
         explicitArray: false,
-        ignoreAttrs: true
+        ignoreAttrs: false,
+        mergeAttrs: true
       });
 
       const result = await parser.parseStringPromise(xmlData);
@@ -234,6 +236,13 @@ export class PubMedFetcher {
               const label = section.Label || section.NlmCategory || '';
               const text = section._;
               sections.push({ label, text });
+            } else if (typeof section === 'object' && section !== null) {
+              // Handle case where attributes are merged with text content
+              const text = section._ || (typeof section === 'string' ? section : '');
+              const label = section.Label || section.NlmCategory || '';
+              if (text) {
+                sections.push({ label, text });
+              }
             }
           }
           

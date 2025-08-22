@@ -137,6 +137,7 @@ class SaltpileEngine {
         tags: emailArticle.tags,
         evidenceAlertsUrl: emailArticle.evidenceAlertsUrl,
         abstract: pubmedData?.abstract,
+        structuredAbstract: pubmedData?.structuredAbstract,
         pubmedUrl,
         dateReceived,
         isNew: true  // All articles from today's email are new
