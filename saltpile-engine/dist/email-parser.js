@@ -1,6 +1,6 @@
 import fs from 'fs';
 import * as cheerio from 'cheerio';
-import { cleanText, parseTags, isValidEvidenceAlertsUrl, log } from './utils.js';
+import { cleanText, log } from './utils.js';
 /**
  * Parse an .eml file and extract evidence articles
  * Simplified version for test mode only
@@ -38,29 +38,23 @@ export async function parseEmailBuffer(emailBuffer) {
  */
 /**
  * Extract articles from HTML content using cheerio
+ * Simplified version for PubMed API lookup - only extracts title, journal, and tags
  */
 export function extractArticlesFromHtml(htmlContent) {
     const $ = cheerio.load(htmlContent);
     const articles = [];
     log('Scanning HTML for article data');
-    // Look for the main content table that contains all articles
-    const $mainTable = $('table').filter((i, el) => {
-        return $(el).find('a[href*="plus.mcmaster.ca/EvidenceAlerts/LFE/Article"]').length > 0;
-    }).first();
-    if ($mainTable.length === 0) {
-        log('No main table found with EvidenceAlerts links', 'warn');
+    // Find all article links (don't require specific table structure)
+    const $articleLinks = $('a[href*="plus.mcmaster.ca/EvidenceAlerts/LFE/Article"]');
+    if ($articleLinks.length === 0) {
+        log('No EvidenceAlerts article links found', 'warn');
         return articles;
     }
-    // Find all article link elements
-    const $articleLinks = $mainTable.find('a[href*="plus.mcmaster.ca/EvidenceAlerts/LFE/Article"]');
-    log(`Found ${$articleLinks.length} article links in email`);
+    log(`Found ${$articleLinks.length} article links in content`);
     $articleLinks.each((index, element) => {
         try {
             const $link = $(element);
             const evidenceAlertsUrl = $link.attr('href');
-            if (!evidenceAlertsUrl || !isValidEvidenceAlertsUrl(evidenceAlertsUrl)) {
-                return;
-            }
             // The title is the link text
             const title = cleanText($link.text());
             if (!title) {
@@ -100,27 +94,29 @@ export function extractArticlesFromHtml(htmlContent) {
                 }
                 // Tags row: contains "Tagged for:"
                 if (rowText.includes('Tagged for:')) {
-                    tags = parseTags(rowText);
+                    // Extract tags after "Tagged for:"
+                    const tagText = rowText.replace('Tagged for:', '').trim();
+                    if (tagText) {
+                        tags = tagText.split(',').map(tag => cleanText(tag)).filter(tag => tag.length > 0);
+                    }
                 }
                 $currentRow = $currentRow.next('tr');
             }
-            // Only add if we have minimum required data
-            if (title && evidenceAlertsUrl) {
-                const article = {
-                    title,
-                    journal: journal || 'Unknown',
-                    score: score || '',
-                    tags,
-                    evidenceAlertsUrl
-                };
-                articles.push(article);
-                log(`Extracted article: ${title} (${journal})`);
-            }
+            // Create article data (URL optional since we use PubMed API)
+            const article = {
+                title,
+                journal: journal || 'Unknown',
+                score: score || '',
+                tags,
+                evidenceAlertsUrl: evidenceAlertsUrl || ''
+            };
+            articles.push(article);
+            log(`Extracted article: ${title} (${journal}) - Score: ${score}`);
         }
         catch (error) {
             log(`Error processing article ${index + 1}: ${error.message}`, 'error');
         }
     });
-    log(`Successfully extracted ${articles.length} articles from email`);
+    log(`Successfully extracted ${articles.length} articles from content`);
     return articles;
 }
