@@ -5,17 +5,20 @@ import path from 'path';
 import { EmailFetcher } from './email-fetcher.js';
 import { parseEmailFile, parseEmailBuffer } from './email-parser.js';
 import { EvidenceScraper } from './evidence-scraper.js';
+import { PubMedFetcher } from './pubmed-fetcher.js';
 import { EvidenceArticle, EvidenceData, ProcessingOptions } from './types.js';
 import { generateArticleId, isArticleNew, log } from './utils.js';
 
 class SaltpileEngine {
   private emailFetcher?: EmailFetcher;
   private scraper: EvidenceScraper;
+  private pubmedFetcher: PubMedFetcher;
   private options: ProcessingOptions;
 
   constructor(options: ProcessingOptions = {}) {
     this.options = options;
     this.scraper = new EvidenceScraper();
+    this.pubmedFetcher = new PubMedFetcher();
 
     // Initialize email fetcher if not in test mode or scrape-only mode
     if (!options.testMode && !options.scrapeOnly) {
@@ -106,24 +109,35 @@ class SaltpileEngine {
 
     log(`Found ${emailArticles.length} articles in email`);
 
-    // Scrape additional data for each article
-    const urls = emailArticles.map(article => article.evidenceAlertsUrl);
-    const scrapedData = await this.scraper.scrapeMultipleArticles(urls);
+    // Fetch abstracts from PubMed
+    const searchParams = emailArticles.map(article => ({
+      title: article.title,
+      journal: article.journal
+    }));
+    
+    log('Fetching abstracts from PubMed...');
+    const pubmedResults = await this.pubmedFetcher.fetchMultipleAbstracts(searchParams);
 
-    // Combine email data with scraped data
+    // Combine email data with PubMed data
     const evidenceArticles: EvidenceArticle[] = emailArticles.map(emailArticle => {
-      const scraped = scrapedData.get(emailArticle.evidenceAlertsUrl) || {};
+      const pubmedData = pubmedResults.get(emailArticle.title);
       const dateReceived = new Date().toISOString();
+
+      // Build PubMed URL if we have PMID
+      let pubmedUrl: string | undefined;
+      if (pubmedData?.pmid) {
+        pubmedUrl = `https://pubmed.ncbi.nlm.nih.gov/${pubmedData.pmid}/`;
+      }
 
       return {
         id: generateArticleId(emailArticle.title, emailArticle.journal),
-        title: emailArticle.title, // Always use the email title, which is more reliable
+        title: emailArticle.title, // Always use the email title
         journal: emailArticle.journal,
         score: emailArticle.score,
         tags: emailArticle.tags,
         evidenceAlertsUrl: emailArticle.evidenceAlertsUrl,
-        abstract: scraped.abstract,
-        pubmedUrl: scraped.pubmedUrl,
+        abstract: pubmedData?.abstract,
+        pubmedUrl,
         dateReceived,
         isNew: true  // All articles from today's email are new
       };
@@ -173,11 +187,21 @@ class SaltpileEngine {
       return articleDate >= sevenDaysAgo;
     });
 
-    // Add new articles (avoid duplicates by ID)
-    const existingIds = new Set(existingData.articles.map(a => a.id));
-    const uniqueNewArticles = newArticles.filter(a => !existingIds.has(a.id));
-
-    existingData.articles = [...uniqueNewArticles, ...existingData.articles];
+    // Update existing articles or add new ones
+    const articleMap = new Map<string, EvidenceArticle>();
+    
+    // First add existing articles to the map
+    existingData.articles.forEach(article => {
+      articleMap.set(article.id, article);
+    });
+    
+    // Then add/update with new articles (overwrites existing if ID matches)
+    newArticles.forEach(article => {
+      articleMap.set(article.id, article);
+    });
+    
+    // Convert map back to array
+    existingData.articles = Array.from(articleMap.values());
     existingData.updated_at = new Date().toISOString();
 
     // Sort articles by date (newest first)
@@ -236,14 +260,28 @@ class SaltpileEngine {
    * Test scraping functionality
    */
   private async testScraping(): Promise<void> {
-    log('Testing web scraping functionality...');
-    const success = await this.scraper.testScraping();
+    log('Testing PubMed API functionality...');
+    const success = await this.pubmedFetcher.testConnection();
     
     if (!success) {
-      throw new Error('Scraping test failed');
+      throw new Error('PubMed API test failed');
     }
 
-    log('✅ Scraping test successful');
+    log('✅ PubMed API test successful');
+    
+    // Test with a real article from our email
+    log('Testing abstract fetch with sample article...');
+    const testResult = await this.pubmedFetcher.fetchArticleAbstract({
+      title: 'Alteplase for Acute Ischemic Stroke at 4.5 to 24 Hours: The HOPE Randomized Clinical Trial',
+      journal: 'JAMA'
+    });
+    
+    if (testResult && testResult.abstract) {
+      log(`✅ Successfully fetched abstract (${testResult.abstract.length} chars)`);
+      log(`   PMID: ${testResult.pmid}`);
+    } else {
+      log('⚠️ Could not fetch abstract for test article', 'warn');
+    }
   }
 }
 

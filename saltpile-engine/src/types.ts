@@ -48,4 +48,5 @@ export interface ScrapedArticleData {
   abstract?: string;
   pubmedUrl?: string;
   fullTitle?: string;
+  pmid?: string;
 }
