@@ -44,10 +44,79 @@ export function extractArticlesFromHtml(htmlContent) {
     const $ = cheerio.load(htmlContent);
     const articles = [];
     log('Scanning HTML for article data');
-    // Find all article links (don't require specific table structure)
-    const $articleLinks = $('a[href*="plus.mcmaster.ca/EvidenceAlerts/LFE/Article"]');
+    // Find all article links - try EvidenceAlerts links first, then fall back to article titles
+    let $articleLinks = $('a[href*="plus.mcmaster.ca/EvidenceAlerts/LFE/Article"]');
+    // If no EvidenceAlerts links, look for article titles in table rows with scores
     if ($articleLinks.length === 0) {
-        log('No EvidenceAlerts article links found', 'warn');
+        log('No EvidenceAlerts links found, looking for article patterns in HTML', 'warn');
+        // Look for table rows with article structure (has score image)
+        const $scoreImages = $('img[alt*="Score:"]');
+        if ($scoreImages.length > 0) {
+            log(`Found ${$scoreImages.length} articles by score pattern`);
+            // Process each article by finding its associated title
+            $scoreImages.each((index, scoreImg) => {
+                try {
+                    const $scoreImg = $(scoreImg);
+                    const $articleRow = $scoreImg.closest('tr');
+                    // Look for the title row (usually the previous row with an anchor or bold text)
+                    let $titleRow = $articleRow.prev('tr');
+                    let title = '';
+                    let evidenceAlertsUrl = '';
+                    // Try to find title in previous row
+                    if ($titleRow.length > 0) {
+                        const $titleLink = $titleRow.find('a').first();
+                        if ($titleLink.length > 0) {
+                            title = cleanText($titleLink.text());
+                            evidenceAlertsUrl = $titleLink.attr('href') || '';
+                        }
+                        else {
+                            // Try to find bold text as title
+                            const boldText = $titleRow.find('b, strong').text() || $titleRow.text();
+                            title = cleanText(boldText);
+                        }
+                    }
+                    if (!title) {
+                        log(`No title found for article ${index + 1}`, 'warn');
+                        return;
+                    }
+                    // Extract journal from the same row as score
+                    const $cells = $articleRow.find('td');
+                    let journal = '';
+                    if ($cells.length >= 2) {
+                        journal = cleanText($cells.eq(0).text());
+                    }
+                    // Extract score from image alt
+                    const altText = $scoreImg.attr('alt') || '';
+                    const scoreMatch = altText.match(/Score:\s*(\d+\/\d+)/);
+                    const score = scoreMatch ? scoreMatch[1] : '';
+                    // Extract tags from next row
+                    let tags = [];
+                    const $tagRow = $articleRow.next('tr');
+                    if ($tagRow.length > 0) {
+                        const tagText = $tagRow.text();
+                        if (tagText.includes('Tagged for:')) {
+                            const tagContent = tagText.replace('Tagged for:', '').trim();
+                            tags = tagContent.split(',').map(tag => cleanText(tag)).filter(tag => tag.length > 0);
+                        }
+                    }
+                    const article = {
+                        title,
+                        journal: journal || 'Unknown',
+                        score: score || '',
+                        tags,
+                        evidenceAlertsUrl
+                    };
+                    articles.push(article);
+                    log(`Extracted article: ${title} (${journal}) - Score: ${score}`);
+                }
+                catch (error) {
+                    log(`Error processing article ${index + 1}: ${error.message}`, 'error');
+                }
+            });
+            log(`Successfully extracted ${articles.length} articles from content`);
+            return articles;
+        }
+        log('No articles found in HTML content', 'warn');
         return articles;
     }
     log(`Found ${$articleLinks.length} article links in content`);

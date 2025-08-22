@@ -74,9 +74,9 @@ export class RSSFetcher {
             const articles = [];
             for (const item of itemArray) {
                 try {
-                    const article = await this.parseRSSItem(item);
-                    if (article) {
-                        articles.push(article);
+                    const itemArticles = await this.parseRSSItem(item);
+                    if (itemArticles && itemArticles.length > 0) {
+                        articles.push(...itemArticles);
                     }
                 }
                 catch (error) {
@@ -94,6 +94,7 @@ export class RSSFetcher {
     }
     /**
      * Parse a single RSS/Atom item into EmailArticleData format
+     * Returns all articles found in the RSS item
      */
     async parseRSSItem(item) {
         // Handle both RSS and Atom formats
@@ -105,13 +106,14 @@ export class RSSFetcher {
         if (!content) {
             log('RSS/Atom item missing content/description', 'warn');
             log(`Item keys: ${Object.keys(item).join(', ')}`, 'warn');
-            return null;
+            return [];
         }
         // Parse the HTML content from the RSS description (email content)
+        // Each RSS item from Kill the Newsletter contains the full email content
+        // which may have multiple EvidenceAlerts articles
         const articles = this.extractArticlesFromHtmlContent(content);
-        // For now, return the first article found in the item
-        // RSS items from Kill the Newsletter contain the full email content
-        return articles.length > 0 ? articles[0] : null;
+        log(`Found ${articles.length} articles in RSS item`);
+        return articles;
     }
     /**
      * Extract articles from HTML content using shared email parser logic
