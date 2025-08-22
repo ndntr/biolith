@@ -49,6 +49,12 @@ export function extractArticlesFromHtml(htmlContent) {
     // If no EvidenceAlerts links, look for article titles in table rows with scores
     if ($articleLinks.length === 0) {
         log('No EvidenceAlerts links found, looking for article patterns in HTML', 'warn');
+        // Debug: Log what we're searching in
+        const htmlLength = htmlContent.length;
+        const hasTable = htmlContent.includes('<table');
+        const hasLinks = htmlContent.includes('<a ');
+        const hasScore = htmlContent.includes('Score:');
+        log(`HTML analysis: ${htmlLength} chars, table:${hasTable}, links:${hasLinks}, score:${hasScore}`);
         // Look for table rows with article structure (has score image)
         const $scoreImages = $('img[alt*="Score:"]');
         if ($scoreImages.length > 0) {
@@ -116,7 +122,67 @@ export function extractArticlesFromHtml(htmlContent) {
             log(`Successfully extracted ${articles.length} articles from content`);
             return articles;
         }
-        log('No articles found in HTML content', 'warn');
+        // Final fallback: Look for article patterns in plain text
+        log('Trying plain text pattern matching as final fallback');
+        // Look for lines that match journal patterns
+        const journalPattern = /^(JAMA|N Engl J Med|Lancet|BMJ|Ann Emerg Med|.*Medicine.*|.*Journal.*)/m;
+        const scorePattern = /Score:\s*(\d+\/\d+)/;
+        // Split content into lines and look for patterns
+        const lines = htmlContent.split('\n');
+        let currentArticle = null;
+        for (let i = 0; i < lines.length; i++) {
+            const line = lines[i].trim();
+            // Check if this looks like a title (long line before a journal name)
+            if (i < lines.length - 1) {
+                const nextLine = lines[i + 1].trim();
+                if (line.length > 20 && journalPattern.test(nextLine)) {
+                    // Save previous article if exists
+                    if (currentArticle && currentArticle.title) {
+                        articles.push({
+                            title: currentArticle.title,
+                            journal: currentArticle.journal || 'Unknown',
+                            score: currentArticle.score || '',
+                            tags: currentArticle.tags || [],
+                            evidenceAlertsUrl: ''
+                        });
+                    }
+                    // Start new article
+                    currentArticle = {
+                        title: cleanText(line.replace(/<[^>]*>/g, '')), // Remove HTML tags
+                        journal: cleanText(nextLine.replace(/<[^>]*>/g, ''))
+                    };
+                    log(`Found potential article: ${currentArticle.title}`);
+                }
+            }
+            // Check for score
+            if (currentArticle && scorePattern.test(line)) {
+                const match = line.match(scorePattern);
+                if (match) {
+                    currentArticle.score = match[1];
+                }
+            }
+            // Check for tags
+            if (currentArticle && line.includes('Tagged for:')) {
+                const tagContent = line.replace('Tagged for:', '').trim();
+                currentArticle.tags = tagContent.split(',').map(tag => cleanText(tag)).filter(tag => tag.length > 0);
+            }
+        }
+        // Save last article
+        if (currentArticle && currentArticle.title) {
+            articles.push({
+                title: currentArticle.title,
+                journal: currentArticle.journal || 'Unknown',
+                score: currentArticle.score || '',
+                tags: currentArticle.tags || [],
+                evidenceAlertsUrl: ''
+            });
+        }
+        if (articles.length === 0) {
+            log('No articles found in HTML content', 'warn');
+        }
+        else {
+            log(`Found ${articles.length} articles using plain text matching`);
+        }
         return articles;
     }
     log(`Found ${$articleLinks.length} article links in content`);
