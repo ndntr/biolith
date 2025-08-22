@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>EvidenceAlerts Test Feed</title>
+    <description>Mock RSS feed for testing EvidenceAlerts processing</description>
+    <link>https://kill-the-newsletter.com</link>
+    <item>
+      <title>New articles from EvidenceAlerts for August 22, 2025</title>
+      <description><![CDATA[
+        <html>
+          <body>
+            <table>
+              <tr>
+                <td>
+                  <a href="https://plus.mcmaster.ca/EvidenceAlerts/LFE/Article/12345">
+                    Effectiveness of New Cancer Treatment Protocol
+                  </a>
+                </td>
+                <td>New England Journal of Medicine</td>
+                <td>6/7</td>
+                <td>Oncology, Clinical Research</td>
+              </tr>
+              <tr>
+                <td>
+                  <a href="https://plus.mcmaster.ca/EvidenceAlerts/LFE/Article/12346">
+                    COVID-19 Vaccine Effectiveness in Elderly Population
+                  </a>
+                </td>
+                <td>The Lancet</td>
+                <td>5/7</td>
+                <td>Infectious Disease, Geriatrics</td>
+              </tr>
+              <tr>
+                <td>
+                  <a href="https://plus.mcmaster.ca/EvidenceAlerts/LFE/Article/12347">
+                    Breakthrough in Alzheimer's Disease Treatment
+                  </a>
+                </td>
+                <td>JAMA Neurology</td>
+                <td>7/7</td>
+                <td>Neurology, Geriatrics</td>
+              </tr>
+            </table>
+          </body>
+        </html>
+      ]]></description>
+      <link>https://kill-the-newsletter.com/entries/test</link>
+      <guid>test-item-1</guid>
+      <pubDate>Thu, 22 Aug 2025 07:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

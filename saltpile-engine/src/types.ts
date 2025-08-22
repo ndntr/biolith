@@ -35,17 +35,6 @@ export interface ProcessingOptions {
   scrapeOnly?: boolean;
 }
 
-export interface ImapConfig {
-  host: string;
-  port: number;
-  tls: boolean;
-  tlsOptions?: {
-    rejectUnauthorized?: boolean;
-    servername?: string;
-  };
-  user: string;
-  password: string;
-}
 
 export interface ScrapedArticleData {
   abstract?: string;

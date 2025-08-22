@@ -1,20 +1,20 @@
 import fs from 'fs';
-import { simpleParser, ParsedMail } from 'mailparser';
 import * as cheerio from 'cheerio';
 import { EmailArticleData } from './types.js';
 import { cleanText, parseTags, isValidEvidenceAlertsUrl, log } from './utils.js';
 
 /**
  * Parse an .eml file and extract evidence articles
+ * Simplified version for test mode only
  */
 export async function parseEmailFile(emailPath: string): Promise<EmailArticleData[]> {
   try {
     log(`Parsing email file: ${emailPath}`);
     
-    const emailContent = fs.readFileSync(emailPath);
-    const parsed = await simpleParser(emailContent);
+    const emailContent = fs.readFileSync(emailPath, 'utf-8');
     
-    return extractArticlesFromEmail(parsed);
+    // Simple extraction - assume the file contains HTML content
+    return extractArticlesFromHtml(emailContent);
   } catch (error) {
     log(`Error parsing email file: ${error.message}`, 'error');
     throw error;
@@ -23,13 +23,14 @@ export async function parseEmailFile(emailPath: string): Promise<EmailArticleDat
 
 /**
  * Parse email content buffer and extract evidence articles
+ * Simplified version for test mode only
  */
 export async function parseEmailBuffer(emailBuffer: Buffer): Promise<EmailArticleData[]> {
   try {
     log('Parsing email buffer');
     
-    const parsed = await simpleParser(emailBuffer);
-    return extractArticlesFromEmail(parsed);
+    const emailContent = emailBuffer.toString('utf-8');
+    return extractArticlesFromHtml(emailContent);
   } catch (error) {
     log(`Error parsing email buffer: ${error.message}`, 'error');
     throw error;
@@ -37,38 +38,14 @@ export async function parseEmailBuffer(emailBuffer: Buffer): Promise<EmailArticl
 }
 
 /**
- * Extract articles from a parsed email
+ * Extract articles from HTML content
+ * Used by both RSS fetcher and email parser (test mode)
  */
-function extractArticlesFromEmail(parsed: ParsedMail): EmailArticleData[] {
-  try {
-    // Check if this is from EvidenceAlerts
-    const fromAddress = parsed.from?.value?.[0]?.address;
-    if (!fromAddress?.includes('evidencealerts@mcmasterhkr.com')) {
-      log(`Email not from EvidenceAlerts: ${fromAddress}`, 'warn');
-      return [];
-    }
-
-    // Extract HTML content
-    let htmlContent = '';
-    if (parsed.html) {
-      htmlContent = parsed.html.toString();
-    } else if (parsed.text) {
-      // Fallback to text if no HTML
-      log('No HTML content found, using text content', 'warn');
-      return [];
-    }
-
-    return extractArticlesFromHtml(htmlContent);
-  } catch (error) {
-    log(`Error extracting articles from email: ${error.message}`, 'error');
-    return [];
-  }
-}
 
 /**
  * Extract articles from HTML content using cheerio
  */
-function extractArticlesFromHtml(htmlContent: string): EmailArticleData[] {
+export function extractArticlesFromHtml(htmlContent: string): EmailArticleData[] {
   const $ = cheerio.load(htmlContent);
   const articles: EmailArticleData[] = [];
 
@@ -171,24 +148,3 @@ function extractArticlesFromHtml(htmlContent: string): EmailArticleData[] {
   return articles;
 }
 
-/**
- * Validate that email is from EvidenceAlerts and has expected subject format
- */
-export function validateEvidenceAlertsEmail(parsed: ParsedMail): boolean {
-  const fromAddress = parsed.from?.value?.[0]?.address;
-  const subject = parsed.subject;
-
-  // Check sender
-  if (!fromAddress?.includes('evidencealerts@mcmasterhkr.com')) {
-    log(`Invalid sender: ${fromAddress}`, 'warn');
-    return false;
-  }
-
-  // Check subject format: "New articles from EvidenceAlerts for [Month] [DD], [YYYY]"
-  if (!subject?.includes('New articles from EvidenceAlerts for')) {
-    log(`Invalid subject format: ${subject}`, 'warn');
-    return false;
-  }
-
-  return true;
-}

@@ -2,7 +2,7 @@
 
 import fs from 'fs';
 import path from 'path';
-import { EmailFetcher } from './email-fetcher.js';
+import { RSSFetcher } from './rss-fetcher.js';
 import { parseEmailFile, parseEmailBuffer } from './email-parser.js';
 import { EvidenceScraper } from './evidence-scraper.js';
 import { PubMedFetcher } from './pubmed-fetcher.js';
@@ -10,7 +10,7 @@ import { EvidenceArticle, EvidenceData, ProcessingOptions } from './types.js';
 import { generateArticleId, isArticleNew, log } from './utils.js';
 
 class SaltpileEngine {
-  private emailFetcher?: EmailFetcher;
+  private rssFetcher?: RSSFetcher;
   private scraper: EvidenceScraper;
   private pubmedFetcher: PubMedFetcher;
   private options: ProcessingOptions;
@@ -20,16 +20,16 @@ class SaltpileEngine {
     this.scraper = new EvidenceScraper();
     this.pubmedFetcher = new PubMedFetcher();
 
-    // Initialize email fetcher if not in test mode or scrape-only mode
+    // Initialize RSS fetcher if not in test mode or scrape-only mode
     if (!options.testMode && !options.scrapeOnly) {
-      const email = process.env.INGEST_MAIL;
-      const password = process.env.INGEST_MAIL_KEY;
-
-      if (!email || !password) {
-        throw new Error('INGEST_MAIL and INGEST_MAIL_KEY environment variables are required');
+      const rssUrl = process.env.EVIDENCE_ALERTS_RSS_URL;
+      
+      if (!rssUrl) {
+        throw new Error('EVIDENCE_ALERTS_RSS_URL environment variable is required');
       }
-
-      this.emailFetcher = new EmailFetcher(email, password);
+      
+      this.rssFetcher = new RSSFetcher(rssUrl);
+      log('Using RSS feed from Kill the Newsletter');
     }
   }
 
@@ -42,7 +42,7 @@ class SaltpileEngine {
 
       // Handle different modes
       if (this.options.fetchOnly) {
-        await this.testEmailFetching();
+        await this.testRSSFetching();
         return;
       }
 
@@ -57,7 +57,7 @@ class SaltpileEngine {
       }
 
       // Full processing pipeline
-      const articles = await this.processEmails();
+      const articles = await this.processArticles();
       await this.saveEvidenceData(articles);
       
       log(`✅ Processing complete: ${articles.length} articles processed`);
@@ -69,10 +69,10 @@ class SaltpileEngine {
   }
 
   /**
-   * Process emails and extract articles
+   * Process articles from RSS feed
    */
-  private async processEmails(): Promise<EvidenceArticle[]> {
-    let emailArticles;
+  private async processArticles(): Promise<EvidenceArticle[]> {
+    let articles;
 
     if (this.options.testMode) {
       // Test mode with local email file
@@ -83,34 +83,32 @@ class SaltpileEngine {
         throw new Error(`Test email file not found: ${testPath}`);
       }
 
-      emailArticles = await parseEmailFile(testPath);
+      articles = await parseEmailFile(testPath);
     } else {
-      // Production mode - fetch from Gmail
-      log('Fetching latest email from Gmail...');
+      // Production mode - fetch from RSS feed
+      log('Fetching latest articles from RSS feed...');
       
-      if (!this.emailFetcher) {
-        throw new Error('Email fetcher not initialized');
+      if (!this.rssFetcher) {
+        throw new Error('RSS fetcher not initialized');
       }
 
-      const emailBuffer = await this.emailFetcher.fetchLatestEvidenceEmail();
+      articles = await this.rssFetcher.fetchLatestEvidenceArticles();
       
-      if (!emailBuffer) {
-        log('No new emails found');
+      if (articles.length === 0) {
+        log('No articles found in RSS feed');
         return [];
       }
-
-      emailArticles = await parseEmailBuffer(emailBuffer);
     }
 
-    if (emailArticles.length === 0) {
-      log('No articles found in email');
+    if (articles.length === 0) {
+      log('No articles found');
       return [];
     }
 
-    log(`Found ${emailArticles.length} articles in email`);
+    log(`Found ${articles.length} articles`);
 
     // Fetch abstracts from PubMed
-    const searchParams = emailArticles.map(article => ({
+    const searchParams = articles.map(article => ({
       title: article.title,
       journal: article.journal
     }));
@@ -118,9 +116,9 @@ class SaltpileEngine {
     log('Fetching abstracts from PubMed...');
     const pubmedResults = await this.pubmedFetcher.fetchMultipleAbstracts(searchParams);
 
-    // Combine email data with PubMed data
-    const evidenceArticles: EvidenceArticle[] = emailArticles.map(emailArticle => {
-      const pubmedData = pubmedResults.get(emailArticle.title);
+    // Combine article data with PubMed data
+    const evidenceArticles: EvidenceArticle[] = articles.map(article => {
+      const pubmedData = pubmedResults.get(article.title);
       const dateReceived = new Date().toISOString();
 
       // Build PubMed URL if we have PMID
@@ -130,12 +128,12 @@ class SaltpileEngine {
       }
 
       return {
-        id: generateArticleId(emailArticle.title, emailArticle.journal),
-        title: emailArticle.title, // Always use the email title
-        journal: emailArticle.journal,
-        score: emailArticle.score,
-        tags: emailArticle.tags,
-        evidenceAlertsUrl: emailArticle.evidenceAlertsUrl,
+        id: generateArticleId(article.title, article.journal),
+        title: article.title, // Always use the article title
+        journal: article.journal,
+        score: article.score,
+        tags: article.tags,
+        evidenceAlertsUrl: article.evidenceAlertsUrl,
         abstract: pubmedData?.abstract,
         structuredAbstract: pubmedData?.structuredAbstract,
         pubmedUrl,
@@ -221,23 +219,26 @@ class SaltpileEngine {
   }
 
   /**
-   * Test email fetching functionality
+   * Test RSS feed fetching functionality
    */
-  private async testEmailFetching(): Promise<void> {
-    if (!this.emailFetcher) {
-      throw new Error('Email fetcher not available in test mode');
+  private async testRSSFetching(): Promise<void> {
+    if (!this.rssFetcher) {
+      throw new Error('RSS fetcher not available in test mode');
     }
 
-    log('Testing email connection...');
-    const connectionOk = await this.emailFetcher.testConnection();
+    log('Testing RSS feed connection...');
+    const connectionOk = await this.rssFetcher.testConnection();
     
     if (!connectionOk) {
-      throw new Error('Email connection test failed');
+      throw new Error('RSS feed connection test failed');
     }
 
-    log('Getting unread email count...');
-    const count = await this.emailFetcher.getUnreadEmailCount();
-    log(`✅ Email fetch test successful: ${count} unread emails found`);
+    log('Getting RSS feed info...');
+    const feedInfo = await this.rssFetcher.getFeedInfo();
+    log(`✅ RSS fetch test successful: ${feedInfo.itemCount} items found`);
+    if (feedInfo.title) {
+      log(`   Feed title: ${feedInfo.title}`);
+    }
   }
 
   /**
