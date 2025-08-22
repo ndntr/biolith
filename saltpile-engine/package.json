@@ -1,0 +1,41 @@
+{
+  "name": "saltpile-engine",
+  "version": "1.0.0",
+  "description": "EvidenceAlerts email ingestion and processing engine for Biolith",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "npm run build && node dist/index.js",
+    "process": "npm run build && node dist/index.js",
+    "test:local": "npm run build && node dist/index.js --test-local",
+    "test:fetch": "npm run build && node dist/index.js --test-fetch",
+    "test:parse": "npm run build && node dist/index.js --test-parse",
+    "test:scrape": "npm run build && node dist/index.js --test-scrape",
+    "local": "npm run build && npm run test:local"
+  },
+  "keywords": [
+    "evidence",
+    "medical",
+    "email",
+    "processing",
+    "biolith"
+  ],
+  "author": "Biolith",
+  "license": "MIT",
+  "dependencies": {
+    "imap": "^0.8.19",
+    "mailparser": "^3.7.1",
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.3.2",
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@types/imap": "^0.8.40",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

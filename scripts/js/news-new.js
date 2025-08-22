@@ -4,6 +4,7 @@ class NewsApp {
         this.currentTab = 'global';
         this.newsData = {};
         this.clusterData = {}; 
+        this.evidenceData = null;
         this.weatherData = null;
         this.weatherCache = { timestamp: 0, data: null };
         this.isAdmin = this.checkAdminAccess();
@@ -19,6 +20,7 @@ class NewsApp {
         this.setupUI();
         this.updateCurrentDateTime();
         this.loadWeather();
+        this.loadEvidence();
         this.loadAllSections();
         
         // Update datetime every second
@@ -85,6 +87,63 @@ class NewsApp {
                 this.renderSection(section, dummyData);
             }
         }
+    }
+
+    async loadEvidence() {
+        try {
+            console.log('Loading evidence data...');
+            
+            // Try to fetch from saltpile-engine output first (GitHub Pages path)
+            let response = await fetch('https://raw.githubusercontent.com/ndntr/biolith/master/saltpile-engine/data/evidence.json');
+            
+            if (!response.ok) {
+                // Fallback to local path for testing
+                response = await fetch('./saltpile-engine/data/evidence.json');
+            }
+            
+            if (!response.ok) {
+                console.warn('Evidence data not found, using dummy data');
+                this.evidenceData = this.getDummyEvidenceData();
+            } else {
+                this.evidenceData = await response.json();
+                console.log(`Loaded ${this.evidenceData.articles.length} evidence articles`);
+            }
+            
+            this.renderEvidenceSection();
+            
+        } catch (error) {
+            console.error('Error loading evidence:', error);
+            this.evidenceData = this.getDummyEvidenceData();
+            this.renderEvidenceSection();
+        }
+    }
+
+    getDummyEvidenceData() {
+        return {
+            updated_at: new Date().toISOString(),
+            articles: [
+                {
+                    id: 'dummy1',
+                    title: 'Sample Medical Research: Effects of Treatment X on Condition Y',
+                    journal: 'JAMA',
+                    score: '6/7',
+                    tags: ['Cardiology', 'General Medicine'],
+                    evidenceAlertsUrl: 'https://plus.mcmaster.ca/EvidenceAlerts/',
+                    dateReceived: new Date().toISOString(),
+                    isNew: true
+                },
+                {
+                    id: 'dummy2',
+                    title: 'Clinical Trial Results for New Drug Treatment',
+                    journal: 'NEJM',
+                    score: '7/7',
+                    tags: ['Oncology', 'Pharmacology'],
+                    evidenceAlertsUrl: 'https://plus.mcmaster.ca/EvidenceAlerts/',
+                    dateReceived: new Date().toISOString(),
+                    isNew: true
+                }
+            ]
+        };
     }
 
     getDummyData(section) {
@@ -284,6 +343,78 @@ class NewsApp {
                 this.renderStory(cluster, cluster._section)
             ).join('');
         }
+    }
+
+    renderEvidenceSection() {
+        // Render evidence articles in all sections
+        const containers = [
+            'evidenceArticles',           // global
+            'evidenceArticlesAustralia',  // australia  
+            'evidenceArticlesMedical',    // medical
+            'evidenceArticlesTechnology'  // technology
+        ];
+
+        containers.forEach(containerId => {
+            const container = document.getElementById(containerId);
+            if (!container) return;
+
+            if (!this.evidenceData || !this.evidenceData.articles || this.evidenceData.articles.length === 0) {
+                container.innerHTML = '<div class="loading">No evidence articles available</div>';
+                return;
+            }
+
+            // Show latest 7 articles (one week's worth)
+            const articles = this.evidenceData.articles.slice(0, 7);
+            
+            container.innerHTML = articles.map(article => 
+                this.renderEvidenceArticle(article)
+            ).join('');
+        });
+    }
+
+    renderEvidenceArticle(article) {
+        const timeAgo = this.formatTimeAgo(article.dateReceived);
+        const isNew = article.isNew ? 'new-badge' : '';
+        
+        // Create a short journal badge
+        const journalBadge = this.getJournalBadge(article.journal);
+        
+        // Format tags for display
+        const tagsDisplay = article.tags && article.tags.length > 0 
+            ? article.tags.slice(0, 2).join(', ') + (article.tags.length > 2 ? '...' : '')
+            : '';
+
+        return `
+            <div class="evidence-article" onclick="openEvidenceModal('${article.id}')">
+                <div class="evidence-content">
+                    <div class="evidence-title">
+                        ${this.escapeHtml(article.title)}
+                        ${article.isNew ? '<span class="new-indicator">NEW</span>' : ''}
+                    </div>
+                    <div class="evidence-tags">${tagsDisplay}</div>
+                </div>
+                <div class="evidence-meta">
+                    <div class="evidence-journal">${journalBadge}</div>
+                    <div class="evidence-score">${article.score}</div>
+                    <div class="evidence-time">${timeAgo}</div>
+                </div>
+            </div>
+        `;
+    }
+
+    getJournalBadge(journal) {
+        // Create short badges for common journals
+        const journalMap = {
+            'JAMA': 'JAMA',
+            'N Engl J Med': 'NEJM',
+            'The Lancet': 'Lancet',
+            'Eur Heart J': 'EHJ',
+            'J Thromb Haemost': 'JTH',
+            'Ann Emerg Med': 'AEM',
+            'BJOG': 'BJOG'
+        };
+        
+        return journalMap[journal] || journal.substring(0, 6);
     }
 
     renderStory(cluster, section = 'global') {
@@ -728,6 +859,103 @@ function closeModal() {
         // Restore body scroll
         document.body.style.overflow = '';
     }
+}
+
+function openEvidenceModal(articleId) {
+    if (!window.newsApp.evidenceData || !window.newsApp.evidenceData.articles) {
+        console.error('Evidence data not available');
+        return;
+    }
+
+    const article = window.newsApp.evidenceData.articles.find(a => a.id === articleId);
+    if (!article) {
+        console.error('Evidence article not found:', articleId);
+        return;
+    }
+
+    // Populate modal content
+    const modal = document.getElementById('newsModal');
+    const modalContent = modal.querySelector('.modal-content');
+    
+    if (!modal || !modalContent) {
+        console.error('Modal elements not found');
+        return;
+    }
+
+    // Build the complete modal HTML structure for evidence
+    let modalHTML = `
+        <button class="modal-close" onclick="closeModal()" aria-label="Close modal" title="Close"></button>
+        <h2 class="modal-headline">${window.newsApp.escapeHtml(article.title)}</h2>
+    `;
+
+    // Add journal and score info
+    modalHTML += `
+        <div class="evidence-modal-meta">
+            <div class="evidence-modal-journal">
+                <strong>${window.newsApp.escapeHtml(article.journal)}</strong>
+                <span class="evidence-modal-score">Score: ${article.score}</span>
+            </div>
+        </div>
+    `;
+
+    // Add tags if available
+    if (article.tags && article.tags.length > 0) {
+        modalHTML += `
+            <div class="evidence-modal-tags">
+                <strong>Specialties:</strong> ${article.tags.map(tag => 
+                    `<span class="tag">${window.newsApp.escapeHtml(tag)}</span>`
+                ).join(' ')}
+            </div>
+        `;
+    }
+
+    // Add abstract if available
+    if (article.abstract) {
+        modalHTML += `
+            <h3 class="modal-section-title">Abstract</h3>
+            <div class="evidence-abstract">
+                ${window.newsApp.escapeHtml(article.abstract)}
+            </div>
+        `;
+    } else {
+        modalHTML += `
+            <h3 class="modal-section-title">Abstract</h3>
+            <div class="evidence-abstract">
+                Abstract not available. Click the links below to view the full article.
+            </div>
+        `;
+    }
+
+    // Add links section
+    modalHTML += `<h3 class="modal-section-title">Links</h3>`;
+    modalHTML += `<div class="evidence-links">`;
+    
+    // EvidenceAlerts link
+    modalHTML += `
+        <a href="${article.evidenceAlertsUrl}" target="_blank" rel="noopener noreferrer" class="evidence-link evidence-alerts-link">
+            View on EvidenceAlerts ↗
+        </a>
+    `;
+    
+    // PubMed link if available
+    if (article.pubmedUrl) {
+        modalHTML += `
+            <a href="${article.pubmedUrl}" target="_blank" rel="noopener noreferrer" class="evidence-link pubmed-link">
+                View on PubMed ↗
+            </a>
+        `;
+    }
+    
+    modalHTML += `</div>`;
+
+    // Set the modal content
+    modalContent.innerHTML = modalHTML;
+    
+    // Show modal
+    modal.classList.add('active');
+    
+    // Prevent body scroll when modal is open
+    document.body.style.overflow = 'hidden';
 }
 
 function openWeatherModal() {

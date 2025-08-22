@@ -1,0 +1,59 @@
+name: Process Evidence Alerts
+
+on:
+  schedule:
+    # Run daily at 10am AEST (00:00 UTC during AEST, 23:00 UTC during AEDT)
+    # This is after typical EvidenceAlerts delivery time
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  process-evidence:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    defaults:
+      run:
+        working-directory: saltpile-engine
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        cache: 'npm'
+        cache-dependency-path: saltpile-engine/package-lock.json
+        
+    - name: Install dependencies
+      run: npm ci
+      
+    - name: Process EvidenceAlerts emails
+      env:
+        INGEST_MAIL: ${{ secrets.INGEST_MAIL }}
+        INGEST_MAIL_KEY: ${{ secrets.INGEST_MAIL_KEY }}
+        EVIDENCE_ALERTS_COOKIES: ${{ secrets.EVIDENCE_ALERTS_COOKIES }}
+      run: |
+        echo "Processing EvidenceAlerts emails..."
+        echo "INGEST_MAIL is set: $([[ -n "$INGEST_MAIL" ]] && echo "Yes" || echo "No")"
+        echo "INGEST_MAIL_KEY is set: $([[ -n "$INGEST_MAIL_KEY" ]] && echo "Yes" || echo "No")"
+        echo "EVIDENCE_ALERTS_COOKIES is set: $([[ -n "$EVIDENCE_ALERTS_COOKIES" ]] && echo "Yes" || echo "No")"
+        npm run process
+      
+    - name: Commit and push evidence data
+      working-directory: .
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action - Evidence Processing"
+        git add saltpile-engine/data/evidence.json
+        echo "Checking for changes to commit..."
+        if git diff --staged --quiet; then
+          echo "No changes detected in evidence data"
+        else
+          echo "Changes detected, committing evidence data..."
+          git commit -m "Update evidence data - $(TZ=Australia/Sydney date '+%Y-%m-%d %H:%M:%S %Z')"
+          git push
+          echo "Evidence data committed and pushed successfully"
+        fi
