@@ -41,7 +41,9 @@ export async function parseEmailBuffer(emailBuffer) {
  * Simplified version for PubMed API lookup - only extracts title, journal, and tags
  */
 export function extractArticlesFromHtml(htmlContent) {
-    const $ = cheerio.load(htmlContent);
+    // Ensure htmlContent is a string
+    const content = typeof htmlContent === 'string' ? htmlContent : String(htmlContent || '');
+    const $ = cheerio.load(content);
     const articles = [];
     log('Scanning HTML for article data');
     // Find all article links - try EvidenceAlerts links first, then fall back to article titles
@@ -50,10 +52,10 @@ export function extractArticlesFromHtml(htmlContent) {
     if ($articleLinks.length === 0) {
         log('No EvidenceAlerts links found, looking for article patterns in HTML', 'warn');
         // Debug: Log what we're searching in
-        const htmlLength = htmlContent.length;
-        const hasTable = htmlContent.includes('<table');
-        const hasLinks = htmlContent.includes('<a ');
-        const hasScore = htmlContent.includes('Score:');
+        const htmlLength = content.length;
+        const hasTable = content.includes('<table');
+        const hasLinks = content.includes('<a ');
+        const hasScore = content.includes('Score:');
         log(`HTML analysis: ${htmlLength} chars, table:${hasTable}, links:${hasLinks}, score:${hasScore}`);
         // Look for table rows with article structure (has score image)
         const $scoreImages = $('img[alt*="Score:"]');
@@ -128,7 +130,7 @@ export function extractArticlesFromHtml(htmlContent) {
         const journalPattern = /^(JAMA|N Engl J Med|Lancet|BMJ|Ann Emerg Med|.*Medicine.*|.*Journal.*)/m;
         const scorePattern = /Score:\s*(\d+\/\d+)/;
         // Split content into lines and look for patterns
-        const lines = htmlContent.split('\n');
+        const lines = content.split('\n');
         let currentArticle = null;
         for (let i = 0; i < lines.length; i++) {
             const line = lines[i].trim();

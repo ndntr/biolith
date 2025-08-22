@@ -46,8 +46,11 @@ export async function parseEmailBuffer(emailBuffer: Buffer): Promise<EmailArticl
  * Extract articles from HTML content using cheerio
  * Simplified version for PubMed API lookup - only extracts title, journal, and tags
  */
-export function extractArticlesFromHtml(htmlContent: string): EmailArticleData[] {
-  const $ = cheerio.load(htmlContent);
+export function extractArticlesFromHtml(htmlContent: string | any): EmailArticleData[] {
+  // Ensure htmlContent is a string
+  const content = typeof htmlContent === 'string' ? htmlContent : String(htmlContent || '');
+  
+  const $ = cheerio.load(content);
   const articles: EmailArticleData[] = [];
 
   log('Scanning HTML for article data');
@@ -60,10 +63,10 @@ export function extractArticlesFromHtml(htmlContent: string): EmailArticleData[]
     log('No EvidenceAlerts links found, looking for article patterns in HTML', 'warn');
     
     // Debug: Log what we're searching in
-    const htmlLength = htmlContent.length;
-    const hasTable = htmlContent.includes('<table');
-    const hasLinks = htmlContent.includes('<a ');
-    const hasScore = htmlContent.includes('Score:');
+    const htmlLength = content.length;
+    const hasTable = content.includes('<table');
+    const hasLinks = content.includes('<a ');
+    const hasScore = content.includes('Score:');
     log(`HTML analysis: ${htmlLength} chars, table:${hasTable}, links:${hasLinks}, score:${hasScore}`);
     
     // Look for table rows with article structure (has score image)
@@ -150,7 +153,7 @@ export function extractArticlesFromHtml(htmlContent: string): EmailArticleData[]
     const scorePattern = /Score:\s*(\d+\/\d+)/;
     
     // Split content into lines and look for patterns
-    const lines = htmlContent.split('\n');
+    const lines = content.split('\n');
     let currentArticle: any = null;
     
     for (let i = 0; i < lines.length; i++) {
