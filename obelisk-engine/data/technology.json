@@ -1,12 +1,12 @@
 {
-  "updated_at": "2025-08-23T07:17:10.850Z",
+  "updated_at": "2025-08-23T11:14:40.496Z",
   "clusters": [
     {
-      "id": "cluster_18",
+      "id": "cluster_32",
       "coverage": 4,
       "updated_at": "Fri, 22 Aug 2025 22:16:54 +0000",
       "title": "Bluesky Goes Dark in Mississippi Over Age Verification Law",
-      "neutral_headline": "Bluesky Goes Dark in Mississippi Over Age Verification Law",
+      "neutral_headline": "Bluesky blocks access to its service in Mississippi, saying it doesn't have the resources to comply with the state's broad new law requiring age verification (Sarah Perez/TechCrunch)",
       "items": [
         {
           "source": "Wired Tech",
@@ -15,7 +15,7 @@
           "title": "Bluesky Goes Dark in Mississippi Over Age Verification Law",
           "standfirst": "Bluesky has chosen to block access in the state rather than risk potential fines of up to $10,000 per violation.",
           "content": "Bluesky has chosen to block access in the state rather than risk potential fines of up to $10,000 per violation.",
-          "feed_position": 1,
+          "feed_position": 5,
           "image_url": "https://media.wired.com/photos/68a8d5ae3be8cf1301ced0d1/master/pass/GettyImages-2195830737.jpg"
         },
         {
@@ -25,7 +25,7 @@
           "title": "Bluesky blocks access to its service in Mississippi, saying it doesn't have the resources to comply with the state's broad new law requiring age verification (Sarah Perez/TechCrunch)",
           "standfirst": "Sarah Perez / TechCrunch: Bluesky blocks access to its service in Mississippi, saying it doesn't have the resources to comply with the state's broad new law requiring age verification &mdash; Social networking startup Bluesky has made the decision to block access to its service in the state of Mississippi, rather than comply with a new age assurance law.",
           "content": "Sarah Perez / TechCrunch: Bluesky blocks access to its service in Mississippi, saying it doesn't have the resources to comply with the state's broad new law requiring age verification &mdash; Social networking startup Bluesky has made the decision to block access to its service in the state of Mississippi, rather than comply with a new age assurance law.",
-          "feed_position": 11,
+          "feed_position": 12,
           "image_url": "http://www.techmeme.com/250822/i28.jpg"
         },
         {
@@ -48,17 +48,17 @@
         }
       ],
       "featured_image": "https://media.wired.com/photos/68a8d5ae3be8cf1301ced0d1/master/pass/GettyImages-2195830737.jpg",
-      "popularity_score": 4010.9953194444442,
+      "popularity_score": 4007.0370844444446,
       "ai_summary": [
-        "Bluesky will block access from Mississippi IP addresses due to a new state law.",
+        "Bluesky will block access from Mississippi due to a new age verification law.",
         "The law requires age verification and parental consent for underage users.",
         "Bluesky cites a lack of resources to comply with the law's requirements.",
         "The company is concerned about the law's broad scope and privacy implications.",
-        "The decision will stand until courts decide the fate of the law."
+        "The decision will stand until courts decide the law's fate."
       ]
     },
     {
-      "id": "cluster_21",
+      "id": "cluster_35",
       "coverage": 3,
       "updated_at": "Fri, 22 Aug 2025 22:12:07 +0000",
       "title": "Meta is partnering with Midjourney and will license its technology for &#8216;future models and products&#8217;",
@@ -92,21 +92,77 @@
           "feed_position": 4
         }
       ],
-      "popularity_score": 3010.915597222222,
+      "popularity_score": 3006.9573622222224,
       "ai_summary": [
-        "Meta is partnering with Midjourney to license its AI image and video model technology.",
-        "The partnership involves a \"technical collaboration between our research teams\".",
-        "Details are scarce on the financial aspects of the deal.",
-        "The partnership may involve more than just using Midjourney's existing product.",
-        "The deal raises questions about Midjourney's enterprise API plans."
+        "Meta is partnering with Midjourney for AI image and video models.",
+        "Meta will license Midjourney's aesthetic technology.",
+        "The partnership involves a technical collaboration between research teams.",
+        "The deal may involve more than just using Midjourney's existing product.",
+        "Details on the financial aspects of the deal are scarce."
       ]
     },
     {
-      "id": "cluster_20",
+      "id": "cluster_1",
+      "coverage": 1,
+      "updated_at": "Sat, 23 Aug 2025 11:00:57 +0000",
+      "title": "An inner-speech decoder reveals some mental privacy issues",
+      "neutral_headline": "Inner-Speech Decoder Reveals Mental Privacy Issues",
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/science/2025/08/an-inner-speech-decoder-reveals-some-mental-privacy-issues/",
+          "published_at": "Sat, 23 Aug 2025 11:00:57 +0000",
+          "title": "An inner-speech decoder reveals some mental privacy issues",
+          "standfirst": "Words you'll never speak still cause activity in the brain's speech centers.",
+          "content": "Most experimental brain-computer interfaces (BCIs) that have been used for synthesizing human speech have been implanted in the areas of the brain that translate the intention to speak into the muscle actions that produce it. A patient has to physically attempt to speak to make these implants work, which is tiresome for severely paralyzed people. To go around it, researchers at the Stanford University built a BCI that could decode inner speech—the kind we engage in silent reading and use for all our internal monologues. The problem is that those inner monologues often involve stuff we don’t want others to hear. To keep their BCI from spilling the patients’ most private thoughts, the researchers designed a first-of-its-kind “mental privacy” safeguard. Overlapping signals The reason nearly all neural prostheses used for speech are designed to decode attempted speech is that our first idea was to try the same thing we did with controlling artificial limbs: record from the area of the brain responsible for controlling muscles. “Attempted movements produced very strong signal, and we thought it could also be used for speech,” says Benyamin Meschede Abramovich Krasa, a neuroscientist at Stanford University who, along with Erin M. Kunz, was a co-lead author of the study.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/20250814_Brain_Computer_Interface_JG_02-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/20250814_Brain_Computer_Interface_JG_02-1152x648.jpg",
+      "popularity_score": 358.7712511111111,
+      "ai_summary": [
+        "Brain activity occurs in speech centers even when not speaking.",
+        "The study suggests potential privacy concerns regarding thoughts.",
+        "The research explores the implications of inner speech.",
+        "The findings relate to the decoding of mental processes.",
+        "The article discusses the implications for mental privacy."
+      ]
+    },
+    {
+      "id": "cluster_0",
+      "coverage": 1,
+      "updated_at": "Sat, 23 Aug 2025 11:07:40 +0000",
+      "title": "Why wind farms attract so much misinformation and conspiracy theory",
+      "neutral_headline": "Wind Farms Attract Misinformation and Conspiracy Theories",
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/science/2025/08/why-wind-farms-attract-so-much-misinformation-and-conspiracy-theory/",
+          "published_at": "Sat, 23 Aug 2025 11:07:40 +0000",
+          "title": "Why wind farms attract so much misinformation and conspiracy theory",
+          "standfirst": "If you think climate change is a hoax, you might believe wind turbines poison groundwater.",
+          "content": "When Donald Trump recently claimed, during what was supposed to be a press conference about a European Union trade deal, that wind turbines were a \"con job\" that drive whales \"loco,\" kill birds and even people, he wasn’t just repeating old myths. He was tapping into a global pattern of conspiracy theories around renewable energy—particularly wind farms. (Trump calls them “windmills”—a climate denier trope.) Like 19th century fears that telephones would spread diseases, wind farm conspiracy theories reflect deeper anxieties about change. They combine distrust of government, nostalgia for the fossil fuel era, and a resistance to confronting the complexities of the modern world. And research shows that, once these fears are embedded in someone’s worldview, no amount of fact-checking is likely to shift them.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-520301232-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-520301232-1152x648.jpg",
+      "popularity_score": 352.8831955555556,
+      "ai_summary": [
+        "Wind farms are often targets of misinformation and conspiracy theories.",
+        "Some believe wind turbines can poison groundwater.",
+        "The article explores the spread of false information.",
+        "The focus is on the connection between climate change denial and wind farms.",
+        "The article examines the reasons behind the spread of these theories."
+      ]
+    },
+    {
+      "id": "cluster_34",
       "coverage": 1,
       "updated_at": "Fri, 22 Aug 2025 22:13:56 +0000",
       "title": "College student’s “time travel” AI experiment accidentally outputs real 1834 history",
-      "neutral_headline": "College student’s “time travel” AI experiment accidentally outputs real 1834 history",
+      "neutral_headline": "AI Experiment Outputs Real 1834 History",
       "items": [
         {
           "source": "Ars Technica",
@@ -120,21 +176,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/1800s_protests-1152x648.jpg",
-      "popularity_score": 348.945875,
+      "popularity_score": 344.98764,
       "ai_summary": [
-        "A student trained an AI on Victorian texts.",
-        "The AI generated unexpected historical information.",
-        "The AI experiment produced real historical data from 1834.",
-        "The student's project was an unexpected history lesson.",
-        "The article highlights the AI's unexpected output."
+        "A college student's AI experiment produced unexpected historical data.",
+        "The AI was trained on Victorian texts.",
+        "The AI's output included real historical information from 1834.",
+        "The experiment highlights the potential of AI in historical research.",
+        "The student's project yielded an unexpected history lesson."
       ]
     },
     {
-      "id": "cluster_15",
+      "id": "cluster_29",
       "coverage": 1,
       "updated_at": "Fri, 22 Aug 2025 22:28:42 +0000",
       "title": "Two men fell gravely ill last year; their infections link to deaths in the ’80s",
-      "neutral_headline": "Two men fell gravely ill last year; their infections link to deaths in the ’80s",
+      "neutral_headline": "Infections Link to Deaths in the 1980s",
       "items": [
         {
           "source": "Ars Technica",
@@ -148,21 +204,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/GettyImages_Burkholderia_CROPPED-1152x648.jpeg",
-      "popularity_score": 344.19198611111113,
+      "popularity_score": 340.23375111111113,
       "ai_summary": [
-        "Two men became seriously ill last year.",
-        "Their infections are linked to deaths that occurred in the 1980s.",
+        "Two men fell ill last year with infections.",
+        "The infections are linked to deaths from the 1980s.",
         "The bacterium is known to live in Mississippi.",
         "The new cases may expand the bacterium's range.",
-        "The article discusses the spread of a specific bacterium."
+        "The article discusses the spread of the bacterium."
       ]
     },
     {
-      "id": "cluster_34",
+      "id": "cluster_48",
       "coverage": 1,
       "updated_at": "Fri, 22 Aug 2025 20:14:14 +0000",
       "title": "Trump says US will take 10% stake in Intel because CEO wants to “keep his job”",
-      "neutral_headline": "Trump says US will take 10% stake in Intel because CEO wants to “keep his job”",
+      "neutral_headline": "Trump Says US Will Take 10% Stake in Intel",
       "items": [
         {
           "source": "Ars Technica",
@@ -176,21 +232,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2230318424-1024x648.jpg",
-      "popularity_score": 321.950875,
+      "popularity_score": 317.99264,
       "ai_summary": [
         "Trump stated the US will take a 10% stake in Intel.",
-        "The reason given was to help the CEO retain his position.",
+        "The move is reportedly due to Intel's CEO wanting to keep his job.",
         "The Intel deal could benefit from CHIPS Act funding.",
         "The article discusses the potential financial implications.",
-        "The article highlights the political motivations behind the deal."
+        "The focus is on the political and economic aspects of the deal."
       ]
     },
     {
-      "id": "cluster_43",
+      "id": "cluster_56",
       "coverage": 1,
       "updated_at": "Fri, 22 Aug 2025 18:53:12 +0000",
       "title": "Google says it dropped the energy cost of AI queries by 33x in one year",
-      "neutral_headline": "Google says it dropped the energy cost of AI queries by 33x in one year",
+      "neutral_headline": "Google Says It Dropped Energy Cost of AI Queries",
       "items": [
         {
           "source": "Ars Technica",
@@ -204,21 +260,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2229069552-1024x648.jpg",
-      "popularity_score": 317.60031944444444,
+      "popularity_score": 313.64208444444444,
       "ai_summary": [
-        "Google claims to have reduced AI query energy costs significantly.",
-        "The company says a text query now uses the equivalent of 9 seconds of TV.",
-        "The reduction in energy cost is a 33x improvement in one year.",
-        "The article discusses Google's advancements in AI efficiency.",
-        "The company is focusing on reducing the environmental impact of AI."
+        "Google claims to have reduced the energy cost of AI queries.",
+        "The reduction is by a factor of 33x in one year.",
+        "A text query now uses the equivalent of 9 seconds of TV.",
+        "The article highlights the energy efficiency of AI.",
+        "The focus is on Google's advancements in AI energy use."
       ]
     },
     {
-      "id": "cluster_38",
+      "id": "cluster_51",
       "coverage": 1,
       "updated_at": "Fri, 22 Aug 2025 19:21:32 +0000",
       "title": "Developer gets 4 years for activating network “kill switch” to avenge his firing",
-      "neutral_headline": "Developer gets 4 years for activating network “kill switch” to avenge his firing",
+      "neutral_headline": "Developer Gets 4 Years for Activating Kill Switch",
       "items": [
         {
           "source": "Ars Technica",
@@ -232,21 +288,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-812501178-1152x648.jpg",
-      "popularity_score": 317.07254166666667,
+      "popularity_score": 313.11430666666666,
       "ai_summary": [
-        "A developer was sentenced to four years in prison.",
-        "The developer activated a \"kill switch\" after being fired.",
-        "The \"kill switch\" was named after the developer.",
-        "The developer was caught due to the naming of the kill switch.",
-        "The article discusses the consequences of the developer's actions."
+        "A developer received a four-year sentence.",
+        "The developer activated a network \"kill switch.\"",
+        "The action was in response to being fired.",
+        "The developer named the kill switch after himself.",
+        "The article discusses the consequences of the action."
       ]
     },
     {
-      "id": "cluster_40",
+      "id": "cluster_53",
       "coverage": 1,
       "updated_at": "Fri, 22 Aug 2025 19:04:06 +0000",
       "title": "4chan refuses to pay UK Online Safety Act fines, asks Trump admin to intervene",
-      "neutral_headline": "4chan refuses to pay UK Online Safety Act fines, asks Trump admin to intervene",
+      "neutral_headline": "4chan Refuses to Pay UK Fines, Seeks US Government Intervention",
       "items": [
         {
           "source": "Ars Technica",
@@ -260,21 +316,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-1152x648.jpg",
-      "popularity_score": 300.7819861111111,
+      "popularity_score": 296.8237511111111,
       "ai_summary": [
         "4chan is refusing to pay fines related to the UK Online Safety Act.",
-        "The platform is asking the Trump administration for assistance.",
-        "4chan wants the US to use \"all legal levers\" against the Act.",
-        "The article discusses 4chan's opposition to the UK law.",
-        "The platform is seeking US intervention in the matter."
+        "The platform is asking the Trump administration to intervene in the matter.",
+        "4chan wants the US to use all available legal means to fight the Act.",
+        "The Online Safety Act aims to regulate online content and platforms.",
+        "4chan's actions highlight ongoing debates about online content regulation."
       ]
     },
     {
-      "id": "cluster_53",
+      "id": "cluster_66",
       "coverage": 1,
       "updated_at": "Fri, 22 Aug 2025 17:54:35 +0000",
       "title": "US military’s X-37B spaceplane stays relevant with launch of another mission",
-      "neutral_headline": "US military’s X-37B spaceplane stays relevant with launch of another mission",
+      "neutral_headline": "US Military X-37B Spaceplane Launches Another Mission",
       "items": [
         {
           "source": "Ars Technica",
@@ -288,21 +344,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/f9_otv8_launch1-1152x648.jpg",
-      "popularity_score": 293.623375,
+      "popularity_score": 289.66514,
       "ai_summary": [
-        "The US military's X-37B spaceplane has launched another mission.",
-        "The program began with missions that were not foreseen.",
-        "The X-37B continues to be a relevant part of the military.",
-        "The article discusses the ongoing missions of the spaceplane.",
-        "The spaceplane is still flying missions."
+        "The X-37B spaceplane is currently on another mission in space.",
+        "The program began with missions that were not initially foreseen.",
+        "The spaceplane continues to be relevant in the current space landscape.",
+        "The X-37B is a reusable, unmanned orbital test vehicle.",
+        "The specific details of the current mission remain largely classified."
       ]
     },
     {
-      "id": "cluster_54",
+      "id": "cluster_67",
       "coverage": 1,
       "updated_at": "Fri, 22 Aug 2025 17:44:44 +0000",
       "title": "For some people, music doesn’t connect with any of the brain’s reward circuits",
-      "neutral_headline": "Scientists Study People Who Do Not Enjoy Listening to Music",
+      "neutral_headline": "Study Finds Some People Do Not Enjoy Music",
       "items": [
         {
           "source": "Ars Technica",
@@ -316,21 +372,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-599813440-1024x648.jpg",
-      "popularity_score": 284.4592083333333,
+      "popularity_score": 280.5009733333333,
       "ai_summary": [
-        "Researchers studied individuals who do not experience pleasure from music.",
-        "Brain scans revealed different activity patterns compared to music-enjoying individuals.",
-        "The study focused on brain reward circuits and their response to music.",
-        "Findings may offer insights into the neural basis of musical experience.",
-        "The research could help understand conditions like musical anhedonia."
+        "Neuroscientists are studying people who do not experience pleasure from music.",
+        "Researchers are investigating brain activity in individuals with this condition.",
+        "The study aims to understand the neurological basis of musical anhedonia.",
+        "Musical anhedonia is the inability to derive pleasure from music.",
+        "The research could provide insights into reward circuits in the brain."
       ]
     },
     {
-      "id": "cluster_64",
+      "id": "cluster_77",
       "coverage": 1,
       "updated_at": "Fri, 22 Aug 2025 16:48:32 +0000",
       "title": "Is it illegal to not buy ads on X? Experts explain the FTC’s bizarre ad fight.",
-      "neutral_headline": "Experts Discuss FTC's Dispute Over Advertising on X",
+      "neutral_headline": "Experts Explain FTC's Dispute Over Ads on X",
       "items": [
         {
           "source": "Ars Technica",
@@ -344,21 +400,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/detergent-scared-of-x-1152x648.jpg",
-      "popularity_score": 263.52254166666665,
+      "popularity_score": 259.56430666666665,
       "ai_summary": [
         "The Federal Trade Commission is in a dispute regarding advertising on X.",
-        "Experts are analyzing the legal and business implications of the situation.",
-        "The FTC's actions are related to the platform's advertising practices.",
-        "The case involves questions about consumer protection and platform responsibility.",
-        "The situation highlights the evolving regulatory landscape for social media."
+        "Experts are explaining the complexities of the FTC's actions.",
+        "The situation involves legal and regulatory issues surrounding the platform.",
+        "The FTC is investigating potential violations of advertising regulations.",
+        "The dispute highlights the ongoing scrutiny of social media platforms."
       ]
     },
     {
-      "id": "cluster_58",
+      "id": "cluster_71",
       "coverage": 1,
       "updated_at": "Fri, 22 Aug 2025 17:03:08 +0000",
       "title": "Scientists are building cyborg jellyfish to explore ocean depths",
-      "neutral_headline": "Scientists Develop Cyborg Jellyfish for Ocean Exploration",
+      "neutral_headline": "Scientists Are Building Cyborg Jellyfish for Ocean Exploration",
       "items": [
         {
           "source": "Ars Technica",
@@ -372,21 +428,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/cyborg1-1152x648.jpg",
-      "popularity_score": 258.765875,
+      "popularity_score": 254.80764,
       "ai_summary": [
-        "Researchers are creating jellyfish-inspired robots for ocean exploration.",
-        "These cyborg jellyfish combine biological and artificial components.",
-        "The project aims to study ocean depths and marine environments.",
-        "The robots are designed to mimic the swimming style of moon jellies.",
-        "The technology could provide new ways to observe underwater ecosystems."
+        "Scientists are developing cyborg jellyfish for ocean exploration purposes.",
+        "The project involves integrating technology with living jellyfish.",
+        "The goal is to create a new method for exploring ocean depths.",
+        "Researchers are studying the unique swimming abilities of moon jellies.",
+        "The technology could provide new insights into marine environments."
       ]
     },
     {
-      "id": "cluster_132",
+      "id": "cluster_136",
       "coverage": 1,
       "updated_at": "Thu, 21 Aug 2025 18:46:28 +0000",
       "title": "After successes like Severance and The Studio, Apple TV+ gets a price hike",
-      "neutral_headline": "Apple TV+ Increases Subscription Prices After Successes",
+      "neutral_headline": "Apple TV+ Increases Prices After Successful Shows",
       "items": [
         {
           "source": "Ars Technica",
@@ -403,18 +459,18 @@
       "popularity_score": 151,
       "ai_summary": [
         "Apple TV+ is raising its subscription prices.",
-        "The price increase follows the success of shows like Severance and The Studio.",
-        "The streaming service is facing economic challenges like other competitors.",
-        "Apple is adjusting its pricing strategy to reflect market conditions.",
-        "The move aims to balance content investment with revenue generation."
+        "The price increase follows the success of shows like Severance.",
+        "The streaming service is facing economic challenges like other platforms.",
+        "Apple is adjusting its pricing strategy in the competitive market.",
+        "The move reflects the evolving landscape of streaming services."
       ]
     },
     {
-      "id": "cluster_117",
+      "id": "cluster_121",
       "coverage": 1,
       "updated_at": "Thu, 21 Aug 2025 22:06:37 +0000",
       "title": "Is the AI bubble about to pop? Sam Altman is prepared either way.",
-      "neutral_headline": "Sam Altman Discusses Potential AI Bubble and Fundraising",
+      "neutral_headline": "Sam Altman Discusses the Potential for an AI Bubble",
       "items": [
         {
           "source": "Ars Technica",
@@ -430,19 +486,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2198353376-scaled-1152x648-1739457486.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "OpenAI CEO Sam Altman is preparing for potential AI market fluctuations.",
-        "Altman acknowledges the possibility of significant financial losses in AI.",
-        "The company is currently engaged in fundraising efforts at high valuations.",
-        "The discussion reflects the current investment climate in artificial intelligence.",
-        "Altman's comments highlight the risks and opportunities in the AI sector."
+        "Sam Altman is discussing the possibility of an AI bubble.",
+        "The CEO acknowledges the potential for significant financial losses.",
+        "Altman is currently fundraising at record prices for his company.",
+        "The discussion reflects the high valuations in the AI sector.",
+        "The comments highlight the risks and uncertainties in the industry."
       ]
     },
     {
-      "id": "cluster_135",
+      "id": "cluster_139",
       "coverage": 1,
       "updated_at": "Thu, 21 Aug 2025 17:51:50 +0000",
       "title": "Explaining the Internet’s obsession with Silksong, which (finally) comes out Sept. 4",
-      "neutral_headline": "Internet Anticipates the Release of Hollow Knight: Silksong",
+      "neutral_headline": "Internet Obsession with Silksong, Release Date Set",
       "items": [
         {
           "source": "Ars Technica",
@@ -458,19 +514,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Silksong_Promo_02-1152x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "The game Silksong is scheduled for release on September 4th.",
-        "Fans have developed unique ways to cope with the long wait.",
-        "The game is a highly anticipated sequel to Hollow Knight.",
-        "The community's anticipation reflects the game's popularity.",
-        "The release date has been a source of excitement and speculation."
+        "The Internet is highly anticipating the release of Silksong.",
+        "The game is finally scheduled to be released on September 4.",
+        "Fans have found creative ways to cope with the long wait.",
+        "The game is a sequel to the popular Hollow Knight.",
+        "The release date has generated excitement among fans."
       ]
     },
     {
-      "id": "cluster_102",
+      "id": "cluster_106",
       "coverage": 1,
       "updated_at": "Fri, 22 Aug 2025 10:00:29 +0000",
       "title": "Samsung’s Micro RGB TV isn’t real Micro LED—but it’s so good you may not even care",
-      "neutral_headline": "Samsung's Micro RGB TV Offers High-Quality Visuals",
+      "neutral_headline": "Samsung's Micro RGB TV Offers High Quality Display",
       "items": [
         {
           "source": "Ars Technica",
@@ -486,19 +542,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Samsung-1-1152x648.jpg",
       "popularity_score": 139,
       "ai_summary": [
-        "Samsung's new TV uses Micro RGB technology.",
-        "The TV is priced at $30,000.",
-        "The display aims to enhance the home theater experience.",
-        "The technology offers improved color and picture quality.",
-        "The TV is designed to be a premium home entertainment product."
+        "Samsung's Micro RGB TV is not true Micro LED technology.",
+        "The TV still provides a high-quality viewing experience.",
+        "The $30,000 TV is generating discussion in home theaters.",
+        "The TV offers a new level of color and visual quality.",
+        "The product is positioned as a premium home entertainment option."
       ]
     },
     {
-      "id": "cluster_126",
+      "id": "cluster_130",
       "coverage": 1,
       "updated_at": "Thu, 21 Aug 2025 19:44:44 +0000",
       "title": "Americans’ junk-filled garages are hurting EV adoption, study says",
-      "neutral_headline": "Study Finds Americans' Garages Hinder Electric Vehicle Adoption",
+      "neutral_headline": "Study: Junk-Filled Garages Hinder Electric Vehicle Adoption",
       "items": [
         {
           "source": "Ars Technica",
@@ -514,19 +570,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1155895603-1152x648.jpg",
       "popularity_score": 139,
       "ai_summary": [
-        "A new study examines obstacles to electric vehicle adoption.",
-        "The study identifies Americans' cluttered garages as a barrier.",
-        "The report focuses on challenges related to EV charging infrastructure.",
-        "The findings highlight the need for improved charging accessibility.",
-        "The research aims to inform strategies for increasing EV adoption rates."
+        "A new study examines barriers to the adoption of electric vehicles.",
+        "The study indicates that junk-filled garages are a factor.",
+        "The research focuses on obstacles to EV charging infrastructure.",
+        "The findings highlight practical challenges for EV owners.",
+        "The study aims to inform strategies for promoting EV adoption."
       ]
     },
     {
-      "id": "cluster_141",
+      "id": "cluster_144",
       "coverage": 1,
       "updated_at": "Thu, 21 Aug 2025 16:10:11 +0000",
       "title": "At the top of the market, EV hypercars are a disappearing breed",
-      "neutral_headline": "EV Hypercars Struggle to Connect Emotionally with Buyers",
+      "neutral_headline": "EV Hypercars Struggle to Connect with Buyers",
       "items": [
         {
           "source": "Ars Technica",
@@ -543,18 +599,18 @@
       "popularity_score": 139,
       "ai_summary": [
         "Seven-figure electric vehicle hypercars are facing challenges.",
-        "These high-end EVs are struggling to resonate with buyers.",
-        "The emotional connection with buyers is a key factor.",
+        "These high-end EVs are struggling to connect with buyers emotionally.",
         "The market for these vehicles is experiencing difficulties.",
-        "The report examines the challenges in the EV hypercar segment."
+        "The emotional connection is a key factor in luxury car purchases.",
+        "The challenges reflect the broader EV market dynamics."
       ]
     },
     {
-      "id": "cluster_98",
+      "id": "cluster_102",
       "coverage": 1,
       "updated_at": "Fri, 22 Aug 2025 11:00:18 +0000",
       "title": "Rocket Report: Pivotal Starship test on tap, Firefly wants to be big in Japan",
-      "neutral_headline": "Rocket Report: Starship Test and Firefly's Japan Plans",
+      "neutral_headline": "Rocket Report: Starship Test, Firefly Plans in Japan",
       "items": [
         {
           "source": "Ars Technica",
@@ -570,15 +626,15 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Gy5mgr3XsAAs79t-1152x648.jpg",
       "popularity_score": 138,
       "ai_summary": [
-        "SpaceX's Starship is preparing for another test launch.",
-        "The Starship will return to the launch pad after a three-month hiatus.",
-        "Firefly Aerospace is aiming to expand its presence in Japan.",
+        "Starship is returning to the launch pad for testing.",
+        "The test will be the first in three months.",
+        "Firefly is planning to expand its presence in Japan.",
         "The report covers developments in the space industry.",
-        "The updates include launch schedules and company strategies."
+        "The updates include news from various space companies."
       ]
     },
     {
-      "id": "cluster_114",
+      "id": "cluster_118",
       "coverage": 1,
       "updated_at": "Thu, 21 Aug 2025 23:52:45 +0000",
       "title": "Deeply divided Supreme Court lets NIH grant terminations continue",
@@ -598,15 +654,15 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2202764189-1024x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "The Supreme Court issued a ruling regarding NIH grant terminations.",
-        "The ruling allows the continuation of grant terminations.",
-        "The decision also blocks the policy behind the terminations.",
-        "The case involves legal challenges to the NIH's policies.",
-        "The ruling has implications for research funding and policies."
+        "The Supreme Court issued a ruling on NIH grant terminations.",
+        "The ruling allows the terminations to continue.",
+        "The ruling also blocks the policy behind the terminations.",
+        "The case involves legal challenges to the policy.",
+        "The decision has implications for research funding."
       ]
     },
     {
-      "id": "cluster_133",
+      "id": "cluster_137",
       "coverage": 1,
       "updated_at": "Thu, 21 Aug 2025 18:20:47 +0000",
       "title": "Neolithic people took gruesome trophies from invading tribes",
@@ -626,19 +682,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/neolithic1-1152x648-1755544640.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Neolithic people engaged in gruesome practices after battles.",
-        "They took trophies from invading tribes.",
-        "This treatment may have been part of a public display.",
-        "The practices celebrated victory in battle.",
-        "The findings offer insights into ancient warfare."
+        "Neolithic people took gruesome trophies from invading tribes.",
+        "This practice may have been part of a \"public theater of violence.\"",
+        "The trophies were used to celebrate victory in battle.",
+        "The findings shed light on ancient warfare practices.",
+        "The research provides insights into early human behavior."
       ]
     },
     {
-      "id": "cluster_137",
+      "id": "cluster_140",
       "coverage": 1,
       "updated_at": "Thu, 21 Aug 2025 17:07:55 +0000",
       "title": "Starlink wants billions in grants, but state governments aren’t cooperating",
-      "neutral_headline": "Starlink Seeks Grants, Faces State Government Resistance",
+      "neutral_headline": "Starlink Wants Billions in Grants, State Governments Uncooperative",
       "items": [
         {
           "source": "Ars Technica",
@@ -654,11 +710,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/elon-musk-doge-hat-1152x648-1755794961.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Starlink is seeking billions in government grants.",
+        "Starlink is seeking billions of dollars in government grants.",
         "State governments are not cooperating with Starlink's demands.",
         "The situation involves funding for broadband infrastructure.",
-        "The issue highlights the challenges of expanding internet access.",
-        "The conflict involves Starlink and state-level authorities."
+        "The company has faced resistance from state officials.",
+        "The issue highlights the challenges of expanding internet access."
       ]
     }
   ]
