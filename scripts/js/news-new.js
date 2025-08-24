@@ -99,7 +99,7 @@ class NewsApp {
             
             if (!response.ok) {
                 // Fallback to GitHub path
-                response = await fetch('https://raw.githubusercontent.com/ndntr/biolith/master/saltpile-engine/data/evidence.json');
+                response = await fetch('https://raw.githubusercontent.com/ndntr/biolith/main/saltpile-engine/data/evidence.json');
             }
             
             if (!response.ok) {
