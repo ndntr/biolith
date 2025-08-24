@@ -202,10 +202,57 @@ export function extractArticlesFromHtml(htmlContent) {
                 log(`No title found for article ${index + 1}`, 'warn');
                 return;
             }
-            // Find the containing row for this article
+            // Try to find containing row for this article (old table format)
             const $articleRow = $link.closest('tr');
+            // If no table row found, try the new format (h3 heading + subsequent paragraphs)
             if ($articleRow.length === 0) {
-                log(`No row found for article: ${title}`, 'warn');
+                log(`No table row found for article: ${title}, trying new format`, 'warn');
+                // New format: article data is in sibling elements after the heading
+                const $heading = $link.closest('h3');
+                if ($heading.length > 0) {
+                    let journal = '';
+                    let score = '';
+                    let tags = [];
+                    // Look for journal in next paragraph (usually just the journal name in bold/strong)
+                    let $nextElement = $heading.next();
+                    while ($nextElement.length > 0 && (!journal || !score || tags.length === 0)) {
+                        const elementText = cleanText($nextElement.text());
+                        // Journal is typically in a <p> with <strong> tags
+                        if (!journal && ($nextElement.find('strong').length > 0 || $nextElement.is('strong'))) {
+                            const journalText = cleanText($nextElement.find('strong').text() || $nextElement.text());
+                            if (journalText && !journalText.toLowerCase().includes('alert') && !journalText.includes('⭐')) {
+                                journal = journalText;
+                                log(`Found journal in new format: ${journal}`);
+                            }
+                        }
+                        // Score is typically represented by stars (⭐)
+                        if (!score && elementText.includes('⭐')) {
+                            const starCount = (elementText.match(/⭐/g) || []).length;
+                            score = `${starCount}/7`;
+                            log(`Found score in new format: ${score}`);
+                        }
+                        // Tags are in "Tagged for:" paragraph
+                        if (tags.length === 0 && elementText.includes('Tagged for:')) {
+                            const tagContent = elementText.replace('Tagged for:', '').trim();
+                            tags = tagContent.split(',').map(tag => cleanText(tag)).filter(tag => tag.length > 0);
+                            log(`Found tags in new format: ${tags.join(', ')}`);
+                        }
+                        $nextElement = $nextElement.next();
+                    }
+                    // Create article data for new format
+                    const article = {
+                        title,
+                        journal: journal || 'Unknown',
+                        score: score || '',
+                        tags,
+                        evidenceAlertsUrl: evidenceAlertsUrl || ''
+                    };
+                    articles.push(article);
+                    log(`Extracted article (new format): ${title} (${journal}) - Score: ${score}`);
+                    return;
+                }
+                // If neither table row nor heading format works, skip this article
+                log(`No suitable structure found for article: ${title}`, 'warn');
                 return;
             }
             // Look in the next few rows for journal, score, and tags
