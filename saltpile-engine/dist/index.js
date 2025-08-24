@@ -6,7 +6,8 @@ import { parseEmailFile } from './email-parser.js';
 import { EvidenceScraper } from './evidence-scraper.js';
 import { PubMedFetcher } from './pubmed-fetcher.js';
 import { generateBatchEvidenceSummaries } from './ai-summarizer.js';
-import { generateArticleId, isArticleNew, log } from './utils.js';
+import { generateArticleId, generateArticleIds, isArticleNew, log } from './utils.js';
+import { areTitlesSimilar } from './deduplication.js';
 class SaltpileEngine {
     constructor(options = {}) {
         this.options = options;
@@ -160,18 +161,70 @@ class SaltpileEngine {
             const articleDate = new Date(article.dateReceived);
             return articleDate >= sevenDaysAgo;
         });
-        // Update existing articles or add new ones
-        const articleMap = new Map();
-        // First add existing articles to the map
+        // Create a map for deduplication using normalized IDs
+        const normalizedMap = new Map();
+        const idToNormalizedId = new Map();
+        // Process existing articles
         existingData.articles.forEach(article => {
-            articleMap.set(article.id, article);
+            const { normalizedId } = generateArticleIds(article.title, article.journal);
+            idToNormalizedId.set(article.id, normalizedId);
+            // Keep the best version of duplicates (prefer articles with abstracts)
+            const existing = normalizedMap.get(normalizedId);
+            if (!existing ||
+                (!existing.abstract && article.abstract) ||
+                (!existing.pubmedUrl && article.pubmedUrl)) {
+                normalizedMap.set(normalizedId, article);
+            }
         });
-        // Then add/update with new articles (overwrites existing if ID matches)
-        newArticles.forEach(article => {
-            articleMap.set(article.id, article);
+        // Process new articles with fuzzy matching
+        let duplicatesFound = 0;
+        newArticles.forEach(newArticle => {
+            const { normalizedId } = generateArticleIds(newArticle.title, newArticle.journal);
+            // Check for duplicates using normalized ID
+            const existing = normalizedMap.get(normalizedId);
+            if (existing) {
+                // Update existing article if new one has more data
+                if (!existing.abstract && newArticle.abstract) {
+                    normalizedMap.set(normalizedId, newArticle);
+                    duplicatesFound++;
+                    log(`Updated duplicate article with abstract: "${newArticle.title}"`, 'info');
+                }
+                else if (!existing.pubmedUrl && newArticle.pubmedUrl) {
+                    normalizedMap.set(normalizedId, newArticle);
+                    duplicatesFound++;
+                    log(`Updated duplicate article with PubMed URL: "${newArticle.title}"`, 'info');
+                }
+                else {
+                    duplicatesFound++;
+                    log(`Skipped duplicate article: "${newArticle.title}"`, 'info');
+                }
+            }
+            else {
+                // Check for fuzzy matches with existing articles
+                let foundFuzzyMatch = false;
+                for (const [existingNormId, existingArticle] of normalizedMap) {
+                    if (existingArticle.journal === newArticle.journal &&
+                        areTitlesSimilar(existingArticle.title, newArticle.title, 0.85)) {
+                        foundFuzzyMatch = true;
+                        duplicatesFound++;
+                        log(`Found fuzzy duplicate: "${newArticle.title}" matches "${existingArticle.title}"`, 'info');
+                        // Update if new article has more complete data
+                        if (!existingArticle.abstract && newArticle.abstract) {
+                            normalizedMap.set(existingNormId, newArticle);
+                        }
+                        break;
+                    }
+                }
+                if (!foundFuzzyMatch) {
+                    normalizedMap.set(normalizedId, newArticle);
+                }
+            }
         });
+        if (duplicatesFound > 0) {
+            log(`🔍 Deduplicated ${duplicatesFound} articles`, 'info');
+        }
         // Convert map back to array
-        existingData.articles = Array.from(articleMap.values());
+        existingData.articles = Array.from(normalizedMap.values());
         existingData.updated_at = new Date().toISOString();
         // Sort articles by date (newest first)
         existingData.articles.sort((a, b) => new Date(b.dateReceived).getTime() - new Date(a.dateReceived).getTime());

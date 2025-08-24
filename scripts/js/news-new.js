@@ -412,8 +412,9 @@ class NewsApp {
             sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
             
             const articles = this.evidenceData.articles
-                .sort((a, b) => new Date(b.dateReceived) - new Date(a.dateReceived))
                 .filter(article => new Date(article.dateReceived) >= sevenDaysAgo)
+                .sort((a, b) => new Date(b.dateReceived) - new Date(a.dateReceived))
+                .reverse() // Show articles in reverse order (newest RSS entries first)
                 .slice(0, 15); // Cap at reasonable limit for UI performance
             
             container.innerHTML = articles.map(article => 
