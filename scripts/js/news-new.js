@@ -407,8 +407,14 @@ class NewsApp {
                 return;
             }
 
-            // Show latest 7 articles (one week's worth)
-            const articles = this.evidenceData.articles.slice(0, 7);
+            // Show articles from last 7 days, sorted by recency
+            const sevenDaysAgo = new Date();
+            sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
+            
+            const articles = this.evidenceData.articles
+                .sort((a, b) => new Date(b.dateReceived) - new Date(a.dateReceived))
+                .filter(article => new Date(article.dateReceived) >= sevenDaysAgo)
+                .slice(0, 15); // Cap at reasonable limit for UI performance
             
             container.innerHTML = articles.map(article => 
                 this.renderEvidenceArticle(article)
