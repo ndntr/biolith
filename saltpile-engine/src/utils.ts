@@ -1,11 +1,26 @@
 import crypto from 'crypto';
+import { generateNormalizedId } from './deduplication.js';
 
 /**
  * Generate a unique ID for an evidence article based on title and journal
+ * Maintains backward compatibility with existing IDs
  */
 export function generateArticleId(title: string, journal: string): string {
   const content = `${title.trim()}_${journal.trim()}`;
   return crypto.createHash('md5').update(content).digest('hex').substring(0, 12);
+}
+
+/**
+ * Generate both exact and normalized IDs for deduplication
+ */
+export function generateArticleIds(title: string, journal: string): {
+  id: string;
+  normalizedId: string;
+} {
+  return {
+    id: generateArticleId(title, journal),
+    normalizedId: generateNormalizedId(title, journal)
+  };
 }
 
 /**
