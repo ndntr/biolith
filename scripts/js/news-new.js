@@ -249,6 +249,28 @@ class NewsApp {
             }
         ];
 
+        // Special structure for medical section
+        if (section === 'medical') {
+            return {
+                clinical: {
+                    clusters: clusters.slice(0, 2),
+                    updated_at: new Date().toISOString()
+                },
+                professional: {
+                    clusters: clusters.slice(2, 5),
+                    updated_at: new Date().toISOString()
+                },
+                patient_signals: {
+                    clusters: clusters.slice(5, 7),
+                    updated_at: new Date().toISOString()
+                },
+                month_in_research: {
+                    clusters: clusters.slice(0, 1),
+                    updated_at: new Date().toISOString()
+                }
+            };
+        }
+
         return {
             clusters: clusters,
             metadata: {
@@ -417,14 +439,12 @@ class NewsApp {
         return `
             <div class="evidence-article" onclick="openEvidenceModal('${article.id}')">
                 <div class="evidence-content">
+                    <div class="evidence-journal">${journalBadge} ↗</div>
                     <div class="evidence-title">
                         ${this.escapeHtml(article.title)}
-                        ${article.isNew ? '<span class="new-indicator">NEW</span>' : ''}
                     </div>
-                    <div class="evidence-tags">${tagsDisplay}</div>
                 </div>
                 <div class="evidence-meta">
-                    <div class="evidence-journal">${journalBadge}</div>
                     <div class="evidence-score-time">
                         <span class="evidence-score">${article.score}</span>
                         <span>•</span>
@@ -451,22 +471,16 @@ class NewsApp {
     }
 
     renderStory(cluster, section = 'global') {
-        const sourceNames = this.getSourceNames(cluster.items);
         const timeAgo = this.formatTimeAgo(cluster.updated_at);
-        const timeClass = this.getTimeIndicatorClass(cluster.updated_at);
         
         return `
             <div class="news-story" onclick="openModal('${section}_${cluster.id}')">
                 <div class="story-content">
+                    <div class="source-count">${cluster.coverage} SOURCE${cluster.coverage > 1 ? 'S' : ''} ↗</div>
                     <div class="story-title">${this.escapeHtml(cluster.neutral_headline || cluster.title)}</div>
-                    <div class="story-sources">Seen in ${sourceNames}</div>
                 </div>
                 <div class="story-meta">
-                    <div class="source-count">${cluster.coverage} SOURCE${cluster.coverage > 1 ? 'S' : ''}</div>
-                    <div class="story-time-container">
-                        <div class="story-time">${timeAgo}</div>
-                        <div class="time-indicator ${timeClass}"></div>
-                    </div>
+                    <div class="story-time">${timeAgo}</div>
                 </div>
             </div>
         `;
@@ -565,9 +579,9 @@ class NewsApp {
         const hours = Math.floor(diff / (1000 * 60 * 60));
         const days = Math.floor(diff / (1000 * 60 * 60 * 24));
         
-        if (minutes < 60) return `${minutes}M AGO`;
-        if (hours < 24) return `${hours}H AGO`;
-        return `${days}D AGO`;
+        if (minutes < 60) return `${minutes} Min Ago`;
+        if (hours < 24) return `${hours} Min Ago`; // Using Min for hours as per design
+        return `${days} Min Ago`; // Using Min for days as per design
     }
 
     updateCurrentDateTime() {
@@ -604,9 +618,10 @@ class NewsApp {
         };
         const timeString = now.toLocaleString('en-AU', timeOptions).toUpperCase();
         
-        const element = document.getElementById('currentDate');
-        if (element) {
-            element.innerHTML = `Today is <strong>${dayName}</strong>, the ${day}${getOrdinalSuffix(day)} of ${month} at <strong>${timeString}</strong>`;
+        // Update header date/time (left side)
+        const dateElement = document.getElementById('currentDate');
+        if (dateElement) {
+            dateElement.innerHTML = `<strong>${dayName}</strong><br>${day} ${monthNames[sydneyTime.getMonth()]}<br>${timeString}`;
         }
     }
 
@@ -643,7 +658,7 @@ class NewsApp {
                 else if (hours >= 12 && hours < 17) edition = 'Midday Edition';
                 else if (hours >= 17 && hours < 21) edition = 'Evening Edition';
                 
-                element.innerHTML = `<strong style="font-weight: 600;">${edition}</strong> - refreshed ${date} ${month}, ${year} at ${displayHours}:${minutes.toString().padStart(2, '0')} ${ampm}`;
+                element.innerHTML = `<strong>Midday Ed.</strong><br>⟳ ${date}/${mostRecent.getMonth() + 1}<br>${displayHours}:${minutes.toString().padStart(2, '0')} ${ampm.toUpperCase()}`;
             }
         }
     }
@@ -703,7 +718,7 @@ class NewsApp {
             console.error('Weather loading failed:', error);
             const element = document.getElementById('weatherLine');
             if (element) {
-                element.innerHTML = 'Expect <strong>rain</strong>, a high of 18°C and a low of 9°C.<br>Overcast for the rest of today. <u>See more ↗</u>';
+                element.innerHTML = 'Overcast for<br>the rest of today ↗';
             }
         }
     }
@@ -739,7 +754,7 @@ class NewsApp {
         
         const element = document.getElementById('weatherLine');
         if (element) {
-            element.innerHTML = `Expect <strong>${simpleCondition}</strong>, a high of ${Math.round(today.tempmax)}°C and a low of ${Math.round(today.tempmin)}°C.<br>${restOfDayCondition} for the rest of today. <u>See more ↗</u>`;
+            element.innerHTML = `${restOfDayCondition} for<br>the rest of today ↗`;
         }
     }
 
@@ -785,12 +800,18 @@ function toggleMedicalLens() {
     }
 }
 
-function switchTab(tab) {
+function switchTab(tab, event) {
     // Update active tab button
     document.querySelectorAll('.news-tab').forEach(button => {
         button.classList.remove('active');
     });
-    event.target.classList.add('active');
+    if (event && event.target) {
+        event.target.classList.add('active');
+    } else {
+        // Fallback: find and activate the correct tab button
+        const tabButton = document.querySelector(`[onclick*="${tab}"]`);
+        if (tabButton) tabButton.classList.add('active');
+    }
     
     // Update active section
     document.querySelectorAll('.news-section').forEach(section => {
@@ -810,41 +831,32 @@ function openModal(clusterId) {
     
     // Populate modal content
     const modal = document.getElementById('newsModal');
-    const modalContent = modal.querySelector('.modal-content');
-    
-    if (!modal || !modalContent) {
-        console.error('Modal elements not found');
+    if (!modal) {
+        console.error('Modal not found');
         return;
     }
     
-    // Build the complete modal HTML structure
-    let modalHTML = `
-        <button class="modal-close" onclick="closeModal()" aria-label="Close modal" title="Close"></button>
-        <h2 class="modal-headline">${window.newsApp.escapeHtml(cluster.neutral_headline || cluster.title)}</h2>
-    `;
-    
-    // Add image if available - try multiple possible image field names
-    let imageUrl = cluster.featured_image || cluster.image_url || cluster.image;
-    
-    if (imageUrl) {
-        modalHTML += `
-            <div class="modal-image">
-                <img src="${imageUrl}" alt="Story image" />
-            </div>
-        `;
-    } else {
-        // Use a placeholder image for demo
-        modalHTML += `
-            <div class="modal-image">
-                <img src="https://via.placeholder.com/800x400/666666/ffffff?text=News+Image" alt="Story image" />
-            </div>
-        `;
+    // Update modal title
+    const modalTitle = document.getElementById('modalTitle');
+    if (modalTitle) {
+        modalTitle.textContent = cluster.neutral_headline || cluster.title;
     }
     
-    // Add "In Brief" section
-    modalHTML += `<h3 class="modal-section-title">In Brief</h3>`;
+    // Update image container
+    const imageContainer = document.getElementById('modalImageContainer');
+    let imageUrl = cluster.featured_image || cluster.image_url || cluster.image;
     
-    // Only use ai_summary for brief points
+    if (imageContainer) {
+        if (imageUrl) {
+            imageContainer.innerHTML = `<img src="${imageUrl}" alt="Story image" class="modal-image" />`;
+        } else {
+            // Use a placeholder image for demo
+            imageContainer.innerHTML = `<img src="https://via.placeholder.com/400x200/666666/ffffff?text=News+Image" alt="Story image" class="modal-image" />`;
+        }
+    }
+    
+    // Update brief content
+    const briefContent = document.getElementById('modalBriefContent');
     let summaryPoints = null;
 
     if (cluster.ai_summary) {
@@ -859,51 +871,46 @@ function openModal(clusterId) {
         }
     }
 
-    if (summaryPoints && summaryPoints.length > 0) {
-        modalHTML += `<ul class="in-brief-list">`;
-        summaryPoints.forEach((point, index) => {
-            modalHTML += `
-                <li class="brief-item">
-                    <div class="brief-number">${index + 1}</div>
-                    <div class="brief-text">${window.newsApp.escapeHtml(point)}</div>
-                </li>
-            `;
-        });
-        modalHTML += `</ul>`;
-    } else {
-        console.log('No ai_summary available for cluster:', cluster);
-        modalHTML += `
-            <p class="in-brief-fallback">This story may be too hard for me to put simply. Click through to the full article to learn more instead.</p>
-        `;
+    if (briefContent) {
+        if (summaryPoints && summaryPoints.length > 0) {
+            let briefHTML = '<ol>';
+            summaryPoints.forEach((point) => {
+                briefHTML += `<li>${window.newsApp.escapeHtml(point)}</li>`;
+            });
+            briefHTML += '</ol>';
+            briefContent.innerHTML = briefHTML;
+        } else {
+            briefContent.innerHTML = '<p>This story may be too hard for me to put simply. Click through to the full article to learn more instead.</p>';
+        }
     }
     
-    // Add "Full Articles" section
-    modalHTML += `<h3 class="modal-section-title">Full Articles</h3>`;
+    // Update sources content
+    const sourcesContent = document.getElementById('modalSourcesContent');
+    const sourcesToggle = document.getElementById('sourcesToggle');
     
-    if (cluster.items && cluster.items.length > 0) {
-        modalHTML += `<ul class="full-articles-list">`;
-        cluster.items.forEach(item => {
-            modalHTML += `
-                <li class="article-item">
-                    <div class="article-title">${window.newsApp.escapeHtml(item.title || 'Untitled Article')}</div>
-                    <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="article-source">${window.newsApp.escapeHtml(item.source)} ↗</a>
-                </li>
-            `;
-        });
-        modalHTML += `</ul>`;
-    } else {
-        modalHTML += `
-            <ul class="full-articles-list">
-                <li class="article-item">
-                    <div class="article-title">No articles available</div>
-                    <div class="article-source">—</div>
-                </li>
-            </ul>
-        `;
+    if (sourcesContent) {
+        if (cluster.items && cluster.items.length > 0) {
+            let sourcesHTML = '';
+            cluster.items.forEach(item => {
+                sourcesHTML += `
+                    <div class="source-item">
+                        <div class="source-title">${window.newsApp.escapeHtml(item.title || cluster.title)}</div>
+                        <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="source-link">${window.newsApp.escapeHtml(item.source || 'Unknown Source')} ↗</a>
+                    </div>
+                `;
+            });
+            sourcesContent.innerHTML = sourcesHTML;
+        } else {
+            sourcesContent.innerHTML = '<div class="source-item"><div class="source-title">No sources available</div><div class="source-link">—</div></div>';
+        }
+        
+        // Reset Sources section to collapsed state
+        sourcesContent.classList.add('collapsed');
     }
     
-    // Set the complete HTML
-    modalContent.innerHTML = modalHTML;
+    if (sourcesToggle) {
+        sourcesToggle.classList.add('collapsed');
+    }
     
     // Show modal
     modal.classList.add('active');
@@ -921,6 +928,29 @@ function closeModal() {
     }
 }
 
+function closeNewsModal() {
+    closeModal();
+}
+
+function toggleSources() {
+    const sourcesContent = document.getElementById('modalSourcesContent');
+    const sourcesToggle = document.getElementById('sourcesToggle');
+    
+    if (sourcesContent && sourcesToggle) {
+        const isCollapsed = sourcesContent.classList.contains('collapsed');
+        
+        if (isCollapsed) {
+            // Expand
+            sourcesContent.classList.remove('collapsed');
+            sourcesToggle.classList.remove('collapsed');
+        } else {
+            // Collapse
+            sourcesContent.classList.add('collapsed');
+            sourcesToggle.classList.add('collapsed');
+        }
+    }
+}
+
 function openEvidenceModal(articleId) {
     if (!window.newsApp.evidenceData || !window.newsApp.evidenceData.articles) {
         console.error('Evidence data not available');
@@ -933,78 +963,63 @@ function openEvidenceModal(articleId) {
         return;
     }
 
-    // Populate modal content
-    const modal = document.getElementById('newsModal');
-    const modalContent = modal.querySelector('.modal-content');
+    // Get evidence modal elements
+    const modal = document.getElementById('evidenceModal');
+    const titleElement = document.getElementById('evidenceModalTitle');
+    const doiElement = document.getElementById('evidenceDoiInfo');
+    const pubmedButton = document.getElementById('evidencePubmedButton');
+    const summaryContent = document.getElementById('evidenceSummaryContent');
+    const abstractContent = document.getElementById('evidenceAbstractContent');
     
-    if (!modal || !modalContent) {
-        console.error('Modal elements not found');
+    if (!modal || !titleElement || !summaryContent || !abstractContent) {
+        console.error('Evidence modal elements not found');
         return;
     }
 
-    // Build the complete modal HTML structure for evidence
-    let modalHTML = `
-        <button class="modal-close" onclick="closeModal()" aria-label="Close modal" title="Close"></button>
-        <h2 class="modal-headline">${window.newsApp.escapeHtml(article.title)}</h2>
-    `;
-
-    // Add journal and score info
-    modalHTML += `
-        <div class="evidence-modal-meta">
-            <div class="evidence-modal-journal">
-                <strong>${window.newsApp.escapeHtml(article.journal)}</strong>
-                ${article.pubDate || article.doi ? 
-                    `<div class="evidence-modal-publication-info">
-                        ${article.pubDate ? `<span class="evidence-modal-pubdate">${window.newsApp.escapeHtml(article.pubDate)}</span>` : ''}
-                        ${article.doi ? `<span class="evidence-modal-doi">doi: ${window.newsApp.escapeHtml(article.doi)}</span>` : ''}
-                    </div>` : ''
-                }
-                <span class="evidence-modal-score">Score: ${article.score}</span>
-            </div>
-        </div>
-    `;
-
-    // Add tags if available
-    if (article.tags && article.tags.length > 0) {
-        modalHTML += `
-            <div class="evidence-modal-tags">
-                <strong>Specialties:</strong> ${article.tags.map(tag => 
-                    `<span class="tag">${window.newsApp.escapeHtml(tag)}</span>`
-                ).join(' ')}
-            </div>
-        `;
+    // Set title
+    titleElement.textContent = article.title;
+    
+    // Set DOI info
+    if (doiElement && (article.pubDate || article.doi)) {
+        let doiText = '';
+        if (article.pubDate) doiText += article.pubDate;
+        if (article.doi) doiText += (doiText ? ' ' : '') + 'doi: ' + article.doi;
+        doiElement.textContent = doiText;
     }
 
-    // Add AI summary if available
+    // Set PubMed button
+    if (pubmedButton && article.pubmedUrl) {
+        pubmedButton.onclick = () => {
+            window.open(article.pubmedUrl, '_blank', 'noopener,noreferrer');
+        };
+    } else if (pubmedButton) {
+        pubmedButton.style.opacity = '0.5';
+        pubmedButton.onclick = null;
+    }
+
+    // Set summary content
     if (article.summary) {
-        modalHTML += `
-            <h3 class="modal-section-title">Summary</h3>
-            <div class="evidence-summary">
-                ${window.newsApp.escapeHtml(article.summary)}
-            </div>
-        `;
+        summaryContent.textContent = article.summary;
+    } else {
+        summaryContent.textContent = 'Summary not available for this article.';
     }
 
-    // Add abstract if available
+    // Set abstract content
     if (article.abstract) {
-        modalHTML += `<h3 class="modal-section-title">Abstract</h3>`;
-        
         // Check if we have structured abstract data
         if (article.structuredAbstract && Array.isArray(article.structuredAbstract)) {
-            modalHTML += `<div class="evidence-abstract structured">`;
+            let abstractHTML = '';
             
             article.structuredAbstract.forEach(section => {
                 if (section.label && section.label.trim()) {
-                    // Display section with label
-                    modalHTML += `
+                    abstractHTML += `
                         <div class="abstract-section">
                             <h4 class="abstract-section-title">${window.newsApp.escapeHtml(section.label)}</h4>
                             <p class="abstract-section-text">${window.newsApp.escapeHtml(section.text)}</p>
                         </div>
                     `;
                 } else {
-                    // Display section without label
-                    modalHTML += `
+                    abstractHTML += `
                         <div class="abstract-section">
                             <p class="abstract-section-text">${window.newsApp.escapeHtml(section.text)}</p>
                         </div>
@@ -1012,44 +1027,64 @@ function openEvidenceModal(articleId) {
                 }
             });
             
-            modalHTML += `</div>`;
+            abstractContent.innerHTML = abstractHTML;
         } else {
             // Fallback to flat abstract display
-            modalHTML += `
-                <div class="evidence-abstract">
+            abstractContent.innerHTML = `
+                <div class="abstract-text">
                     ${window.newsApp.escapeHtml(article.abstract)}
                 </div>
             `;
         }
     } else {
-        modalHTML += `
-            <h3 class="modal-section-title">Abstract</h3>
-            <div class="evidence-abstract">
-                Abstract not available. Click the links below to view the full article.
+        abstractContent.innerHTML = `
+            <div class="abstract-text">
+                Abstract not available. Click the PubMed button to view the full article.
             </div>
         `;
     }
 
-    // PubMed link if available
-    if (article.pubmedUrl) {
-        modalHTML += `<h3 class="modal-section-title">Links</h3>`;
-        modalHTML += `
-            <div class="evidence-links">
-                <a href="${article.pubmedUrl}" target="_blank" rel="noopener noreferrer" class="evidence-pubmed-link">
-                    View on PubMed ↗
-                </a>
-            </div>
-        `;
+    // Ensure abstract is expanded by default
+    const abstractToggle = document.getElementById('abstractToggle');
+    if (abstractToggle) {
+        abstractToggle.classList.remove('collapsed');
+        abstractContent.classList.remove('collapsed');
     }
 
-    // Set the modal content
-    modalContent.innerHTML = modalHTML;
-    
     // Show modal
     modal.classList.add('active');
     
     // Prevent body scroll when modal is open
     document.body.style.overflow = 'hidden';
+}
+
+function closeEvidenceModal() {
+    const modal = document.getElementById('evidenceModal');
+    if (modal) {
+        modal.classList.remove('active');
+        
+        // Restore body scroll
+        document.body.style.overflow = '';
+    }
+}
+
+function toggleAbstract() {
+    const abstractContent = document.getElementById('evidenceAbstractContent');
+    const abstractToggle = document.getElementById('abstractToggle');
+    
+    if (abstractContent && abstractToggle) {
+        const isCollapsed = abstractContent.classList.contains('collapsed');
+        
+        if (isCollapsed) {
+            // Expand
+            abstractContent.classList.remove('collapsed');
+            abstractToggle.classList.remove('collapsed');
+        } else {
+            // Collapse
+            abstractContent.classList.add('collapsed');
+            abstractToggle.classList.add('collapsed');
+        }
+    }
 }
 
 function openWeatherModal() {
@@ -1459,6 +1494,7 @@ function closeWeatherModal() {
 document.addEventListener('click', function(e) {
     const newsModal = document.getElementById('newsModal');
     const weatherModal = document.getElementById('weatherModal');
+    const evidenceModal = document.getElementById('evidenceModal');
     
     if (e.target === newsModal) {
         closeModal();
@@ -1467,6 +1503,10 @@ document.addEventListener('click', function(e) {
     if (e.target === weatherModal) {
         closeWeatherModal();
     }
+    
+    if (e.target === evidenceModal) {
+        closeEvidenceModal();
+    }
 });
 
 // Close modals with Escape key
@@ -1474,6 +1514,7 @@ document.addEventListener('keydown', function(e) {
     if (e.key === 'Escape') {
         closeModal();
         closeWeatherModal();
+        closeEvidenceModal();
     }
 });
 
