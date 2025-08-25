@@ -856,7 +856,7 @@ function openModal(clusterId) {
             imageContainer.innerHTML = `<img src="${imageUrl}" alt="Story image" class="modal-image" />`;
         } else {
             // Use a placeholder image for demo
-            imageContainer.innerHTML = `<img src="https://via.placeholder.com/400x200/666666/ffffff?text=News+Image" alt="Story image" class="modal-image" />`;
+            imageContainer.innerHTML = `<img src="images/breaking.gif" alt="Story image" class="modal-image" />`;
         }
     }
     

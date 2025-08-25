@@ -332,8 +332,8 @@
                     grid-template-columns: auto 1fr !important;
                     gap: 12px !important;
                     padding: 10px 0 !important; /* Reduced padding to match news stories */
-                    margin-bottom: 0 !important; /* Remove bottom margin */
-                    border-bottom: 1px solid #e0e0da !important;
+                    margin-bottom: 15px !important; /* Add bottom margin for spacing */
+                    border-bottom: none !important; /* Remove border */
                 }
                 
                 /* Evidence left column: journal and score stacked */
@@ -417,7 +417,7 @@
                 
                 /* Modal elements on mobile */
                 .modal-title {
-                    font-size: 16px !important; /* 20% reduction from 20px */
+                    font-size: 13px !important;
                 }
                 
                 .modal-meta {
@@ -431,6 +431,21 @@
                 /* Summary bullets */
                 .summary-bullets {
                     font-size: 11px !important; /* 20% reduction from 14px */
+                }
+                
+                /* Modal sources */
+                .source-title {
+                    font-size: 13px !important;
+                }
+                
+                .source-link {
+                    font-size: 13px !important;
+                }
+                
+                /* Evidence modal title padding */
+                .evidence-modal-title {
+                    padding-top: 30px !important;
+                    padding-bottom: 15px !important;
                 }
                 
                 /* All header text elements */
@@ -635,6 +650,7 @@
                 gap: 15px;
                 width: 100%;
                 border: none;
+                margin-bottom: 15px; /* Add spacing between articles */
             }
 
 
@@ -1145,7 +1161,7 @@
                 max-height: 85vh;
                 position: relative;
                 box-shadow: 0px 12px 20px rgba(0, 0, 0, 0.31);
-                overflow: hidden;
+                overflow-y: auto;
                 display: flex;
                 flex-direction: column;
             }
@@ -1191,7 +1207,6 @@
                 flex-direction: column;
                 gap: 25px;
                 padding: 25px;
-                overflow-y: auto;
                 flex: 1;
             }
             
@@ -1203,6 +1218,7 @@
                 padding: 8px;
                 overflow: hidden;
                 height: 320px;
+                flex-shrink: 0;
             }
 
             .modal-image {

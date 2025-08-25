@@ -61,8 +61,9 @@ npm run local                 # Build and test locally
 1. **RSS Feed Fetching** (`src/rss-fetcher.ts`): Fetches EvidenceAlerts emails from Kill the Newsletter RSS
 2. **Email Parsing** (`src/email-parser.ts`): Extracts articles with scores and metadata from email content
 3. **PubMed Integration** (`src/pubmed-fetcher.ts`): Fetches abstracts and metadata using PubMed API
-4. **Data Storage**: Outputs evidence data to `saltpile-engine/data/evidence.json`
-5. **Data Management**: Maintains 7-day rolling window, marks new articles (24h), limits to 50 articles
+4. **Fuzzy Deduplication** (`src/deduplication.ts`): Handles US/UK spelling variations in medical titles
+5. **Data Storage**: Outputs evidence data to `saltpile-engine/data/evidence.json`
+6. **Data Management**: Maintains 7-day rolling window, marks new articles (24h), limits to 50 articles
 
 ### Key Components
 
@@ -81,6 +82,7 @@ npm run local                 # Build and test locally
 - **src/email-parser.ts**: Email content parsing for EvidenceAlerts format
 - **src/evidence-scraper.ts**: Evidence data scraping utilities
 - **src/pubmed-fetcher.ts**: PubMed API integration for abstract fetching
+- **src/deduplication.ts**: Fuzzy matching with medical spelling normalization
 - **src/types.ts**: TypeScript interfaces (EvidenceArticle, EvidenceData, ProcessingOptions)
 - **src/utils.ts**: Utility functions for article processing
 
@@ -131,11 +133,16 @@ Requires EvidenceAlerts RSS URL (from Kill the Newsletter):
 
 ## Automation
 
-GitHub Actions workflow (`.github/workflows/process-news.yml`):
-- Runs every 4 hours: 19:00, 23:00, 03:00, 07:00, 11:00 UTC
+**News Processing** (`.github/workflows/process-news.yml`):
+- Runs every 4 hours: 19:00, 23:00, 03:00, 07:00, 11:00 UTC (AEDT times)
 - Processes obelisk-engine news and commits updated JSON files
 - Uses Node.js 20, Ubuntu latest
 - Requires `GEMINI_API_KEY` secret
+
+**Evidence Processing** (`.github/workflows/process-evidence.yml`):
+- Runs daily at 23:00 UTC (10am AEDT)
+- Processes EvidenceAlerts RSS feed from Kill the Newsletter
+- Requires `EVIDENCE_ALERTS_RSS_URL` and `GEMINI_API_KEY` secrets
 
 ## Module Systems
 
