@@ -53,7 +53,7 @@ class NewsApp {
 
     async loadSection(section) {
         try {
-            const response = await fetch(`https://raw.githubusercontent.com/ndntr/biolith/master/obelisk-engine/data/${section}.json`);
+            const response = await fetch(`https://raw.githubusercontent.com/ndntr/biolith/main/obelisk-engine/data/${section}.json`);
             
             if (!response.ok) {
                 // Use dummy data for testing
@@ -445,17 +445,17 @@ class NewsApp {
 
         return `
             <div class="evidence-article" onclick="openEvidenceModal('${article.id}')">
-                <div class="evidence-content">
-                    <div class="evidence-journal">${journalBadge} ↗</div>
-                    <div class="evidence-title">
-                        ${this.escapeHtml(article.title)}
-                    </div>
-                </div>
                 <div class="evidence-meta">
+                    <div class="evidence-journal">${journalBadge} ↗</div>
                     <div class="evidence-score-time">
                         <span class="evidence-score">${article.score}</span>
                         <span>•</span>
                         <span class="evidence-time">${timeAgo}</span>
+                    </div>
+                </div>
+                <div class="evidence-content">
+                    <div class="evidence-title">
+                        ${this.escapeHtml(article.title)}
                     </div>
                 </div>
             </div>
@@ -482,12 +482,12 @@ class NewsApp {
         
         return `
             <div class="news-story" onclick="openModal('${section}_${cluster.id}')">
-                <div class="story-content">
-                    <div class="source-count">${cluster.coverage} SOURCE${cluster.coverage > 1 ? 'S' : ''} ↗</div>
-                    <div class="story-title">${this.escapeHtml(cluster.neutral_headline || cluster.title)}</div>
-                </div>
                 <div class="story-meta">
+                    <div class="source-count">${cluster.coverage} SOURCE${cluster.coverage > 1 ? 'S' : ''} ↗</div>
                     <div class="story-time">${timeAgo}</div>
+                </div>
+                <div class="story-content">
+                    <div class="story-title">${this.escapeHtml(cluster.neutral_headline || cluster.title)}</div>
                 </div>
             </div>
         `;

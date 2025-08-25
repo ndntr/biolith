@@ -107,7 +107,7 @@
                     width: 100%;
                     max-width: 100%;
                     margin: 0;
-                    padding: 0 20px;
+                    padding: 0; /* Remove padding as requested */
                     box-sizing: border-box;
                     overflow-x: hidden; /* Prevent horizontal scroll at this level */
                 }
@@ -129,7 +129,7 @@
                 
                 .news-tab {
                     flex: 1 1 auto !important; /* Allow flexible sizing */
-                    font-size: 13px !important; /* Smaller font for better fit on narrow screens */
+                    font-size: 10px !important; /* 20% reduction from 13px */
                     padding: 8px 8px !important;
                     min-width: 0 !important;
                     white-space: nowrap !important;
@@ -162,27 +162,28 @@
                 /* Tighter header spacing on mobile */
                 .header-row-top {
                     margin-bottom: 8px;
+                    grid-template-columns: 1fr 150px 1fr !important; /* As requested */
                 }
                 
                 .header-row-middle {
-                    margin-top: 5px;
+                    margin-top: 0; /* Remove margin-top as requested */
                 }
                 
                 /* More compact weather info on mobile */
                 .weather-info-left, .weather-info-right {
-                    font-size: 14px !important;
+                    font-size: 11px !important; /* 20% reduction from 14px */
                     line-height: 1.3 !important;
                 }
                 
                 .news-title {
-                    font-size: 36px;
+                    font-size: 29px; /* 20% reduction from 36px */
                     text-align: center;
                     margin: 0;
                     padding: 0;
                 }
                 
                 .logo-container {
-                    width: 100%;
+                    width: 100% !important; /* Ensure full width as requested */
                     height: 80px;
                     margin: 0;
                     padding: 0;
@@ -206,67 +207,77 @@
                 }
                 
                 .current-date, .weather-line {
-                    font-size: 12px;
+                    font-size: 10px; /* 20% reduction from 12px */
                     line-height: 1.3;
                     word-wrap: break-word;
                 }
                 
                 .last-refresh {
                     text-align: center;
-                    font-size: 9px;
+                    font-size: 7px; /* 20% reduction from 9px */
                     margin: 8px 0 15px 0;
                 }
                 
+                /* 2-column layout for mobile cards */
                 .news-story {
-                    flex-direction: row;
-                    justify-content: space-between;
-                    gap: 15px;
-                    padding: 15px 0;
-                    width: 100%;
-                    border-bottom: 1px solid #e0e0da;
+                    display: grid !important;
+                    grid-template-columns: auto 1fr !important;
+                    gap: 12px !important;
+                    padding: 10px 0 !important; /* Reduced padding */
+                    width: 100% !important;
+                    border-bottom: 1px solid #e0e0da !important;
                 }
                 
-                .story-content {
-                    width: 100%;
-                    max-width: 100%;
-                    overflow-wrap: break-word;
-                    word-wrap: break-word;
-                    overflow: hidden; /* Prevent any overflow */
-                }
-                
+                /* Left column: source count and time stacked */
                 .story-meta {
-                    flex-direction: column;
-                    justify-content: flex-start;
-                    align-items: flex-end;
-                    gap: 6px;
-                    flex-shrink: 0;
+                    display: flex !important;
+                    flex-direction: column !important;
+                    justify-content: flex-start !important;
+                    align-items: flex-start !important;
+                    gap: 4px !important;
+                    flex-shrink: 0 !important;
+                    min-width: 60px !important;
+                }
+                
+                /* Right column: title */
+                .story-content {
+                    width: 100% !important;
+                    max-width: 100% !important;
+                    overflow-wrap: break-word !important;
+                    word-wrap: break-word !important;
+                    overflow: hidden !important;
+                    display: flex !important;
+                    align-items: flex-start !important;
                 }
                 
                 .story-title {
-                    font-size: 15px;
-                    line-height: 1.35;
-                    word-break: break-word;
-                    hyphens: auto;
-                    font-weight: 400;
+                    font-size: 12px !important; /* 20% reduction from 15px */
+                    line-height: 1.35 !important;
+                    word-break: break-word !important;
+                    hyphens: auto !important;
+                    font-weight: 400 !important;
                 }
                 
                 .story-sources {
-                    font-size: 11px;
-                    word-break: break-word;
+                    font-size: 9px !important; /* 20% reduction from 11px */
+                    word-break: break-word !important;
                 }
                 
                 .source-count {
-                    font-size: 10px;
-                    white-space: nowrap;
-                    padding: 3px 6px;
-                    background: #e5e5e0;
-                    border-radius: 3px;
+                    font-size: 8px !important; /* 20% reduction from 10px */
+                    white-space: nowrap !important;
+                    padding: 3px 6px !important;
+                    background: #bfdbfd !important;
+                    border-radius: 3px !important;
+                    text-transform: uppercase !important;
+                    letter-spacing: 0px !important;
                 }
                 
                 .story-time {
-                    font-size: 10px;
-                    white-space: nowrap;
-                    text-transform: uppercase;
+                    font-size: 8px !important; /* 20% reduction from 10px */
+                    white-space: nowrap !important;
+                    text-transform: uppercase !important;
+                    color: #999 !important;
                 }
                 
                 .story-time-container {
@@ -275,9 +286,9 @@
                 }
                 
                 .section-title {
-                    font-size: 16px;
-                    margin: 20px 0 12px 0;
-                    font-weight: 600;
+                    font-size: 13px !important; /* 20% reduction from 16px */
+                    margin: 15px 0 10px 0 !important;
+                    font-weight: 600 !important;
                 }
                 
                 /* More compact cards on mobile */
@@ -286,7 +297,23 @@
                 }
                 
                 .news-card-header {
-                    margin-bottom: 12px !important;
+                    margin-bottom: 10px !important; /* Reduced from 12px */
+                }
+                
+                /* Fix medical header to match other sections */
+                .medical-top-stories-header {
+                    margin: 0 !important;
+                    padding: 0 !important;
+                    display: flex !important;
+                    align-items: center !important;
+                    gap: 6px !important;
+                }
+                
+                .medical-top-stories-header .section-title {
+                    margin: 0 !important;
+                    padding: 0 !important;
+                    font-size: 13px !important; /* Match other section titles */
+                    font-weight: 600 !important;
                 }
                 
                 .news-stories-container {
@@ -294,47 +321,127 @@
                     padding: 0 8px !important;
                 }
                 
-                /* Evidence articles more compact on mobile */
+                /* Evidence articles with 2-column layout */
                 .evidence-article {
-                    padding: 12px !important;
-                    margin-bottom: 12px !important;
+                    display: grid !important;
+                    grid-template-columns: auto 1fr !important;
+                    gap: 12px !important;
+                    padding: 10px 0 !important; /* Reduced padding to match news stories */
+                    margin-bottom: 0 !important; /* Remove bottom margin */
+                    border-bottom: 1px solid #e0e0da !important;
+                }
+                
+                /* Evidence left column: journal and score stacked */
+                .evidence-meta {
+                    display: flex !important;
+                    flex-direction: column !important;
+                    justify-content: flex-start !important;
+                    align-items: flex-start !important;
+                    gap: 4px !important;
+                    min-width: 60px !important;
+                }
+                
+                /* Evidence right column: title */
+                .evidence-content {
+                    width: 100% !important;
+                    display: flex !important;
+                    align-items: flex-start !important;
                 }
                 
                 .evidence-journal {
-                    font-size: 8px !important;
-                    padding: 3px 5px !important;
+                    font-size: 8px !important; /* Match source count size */
+                    padding: 3px 6px !important;
                     min-width: 50px !important;
+                    background: #bfdbfd !important;
+                    text-transform: uppercase !important;
+                    letter-spacing: 0px !important;
+                    border-radius: 3px !important;
                 }
                 
                 .evidence-score-time {
-                    font-size: 12px !important;
+                    font-size: 8px !important; /* Match story time size */
+                    color: #999 !important;
+                }
+                
+                .evidence-score-time span {
+                    font-size: 8px !important;
+                }
+                
+                .evidence-score {
+                    font-size: 8px !important;
+                }
+                
+                .evidence-time {
+                    font-size: 8px !important;
+                    text-transform: uppercase !important;
                 }
                 
                 .evidence-title {
-                    font-size: 14px !important;
-                    line-height: 1.4 !important;
-                    margin-bottom: 8px !important;
-                }
-                
-                /* Story cards more compact */
-                .news-story {
-                    padding: 12px !important;
-                }
-                
-                .story-title {
-                    font-size: 14px !important;
-                    line-height: 1.4 !important;
-                }
-                
-                .source-count {
-                    font-size: 8px !important;
-                    padding: 3px 5px !important;
-                    min-width: 50px !important;
+                    font-size: 12px !important; /* Match story title size */
+                    line-height: 1.35 !important;
+                    margin-bottom: 0 !important;
+                    font-weight: 400 !important;
                 }
                 
                 /* Header datetime more compact */
                 .header-datetime-left, .header-datetime-right {
-                    font-size: 13px !important;
+                    font-size: 10px !important; /* 20% reduction from 13px */
+                }
+                
+                /* Page footer with 20% reduction */
+                .page-footer {
+                    font-size: 12px !important; /* 20% reduction from 15px */
+                    margin-top: 20px !important;
+                    padding: 15px 0 !important;
+                }
+                
+                /* Loading text */
+                .loading {
+                    font-size: 11px !important; /* 20% reduction from 14px */
+                }
+                
+                /* Medical lens toggle button */
+                .medical-lens-toggle {
+                    font-size: 11px !important; /* 20% reduction */
+                }
+                
+                /* Any remaining story elements */
+                .story-sources {
+                    font-size: 9px !important; /* 20% reduction from 11px */
+                }
+                
+                /* Modal elements on mobile */
+                .modal-title {
+                    font-size: 16px !important; /* 20% reduction from 20px */
+                }
+                
+                .modal-meta {
+                    font-size: 10px !important; /* 20% reduction from 12px */
+                }
+                
+                .modal-content {
+                    font-size: 11px !important; /* 20% reduction from 14px */
+                }
+                
+                /* Summary bullets */
+                .summary-bullets {
+                    font-size: 11px !important; /* 20% reduction from 14px */
+                }
+                
+                /* All header text elements */
+                .header-datetime-left, .header-datetime-right,
+                .header-date, .header-time {
+                    font-size: 10px !important; /* 20% reduction */
+                }
+                
+                /* Weather container text */
+                .datetime-weather * {
+                    font-size: 10px !important; /* 20% reduction */
+                }
+                
+                /* Tab container background fix */
+                .news-tabs {
+                    font-size: 10px !important; /* Ensure consistent sizing */
                 }
             }
             
