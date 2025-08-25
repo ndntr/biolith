@@ -482,13 +482,11 @@ class NewsApp {
         
         return `
             <div class="news-story" onclick="openModal('${section}_${cluster.id}')">
-                <div class="story-meta">
-                    <div class="source-count">${cluster.coverage} SOURCE${cluster.coverage > 1 ? 'S' : ''} ↗</div>
-                    <div class="story-time">${timeAgo}</div>
-                </div>
+                <div class="source-count">${cluster.coverage} SOURCE${cluster.coverage > 1 ? 'S' : ''} ↗</div>
                 <div class="story-content">
                     <div class="story-title">${this.escapeHtml(cluster.neutral_headline || cluster.title)}</div>
                 </div>
+                <div class="story-time">${timeAgo}</div>
             </div>
         `;
     }

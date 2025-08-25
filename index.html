@@ -129,7 +129,7 @@
                 
                 .news-tab {
                     flex: 1 1 auto !important; /* Allow flexible sizing */
-                    font-size: 10px !important; /* 20% reduction from 13px */
+                    font-size: 12px !important;
                     padding: 8px 8px !important;
                     min-width: 0 !important;
                     white-space: nowrap !important;
@@ -218,25 +218,30 @@
                     margin: 8px 0 15px 0;
                 }
                 
-                /* 2-column layout for mobile cards */
+                /* Mobile layout: source and time stacked in left column, title in right column */
                 .news-story {
-                    display: grid !important;
-                    grid-template-columns: auto 1fr !important;
-                    gap: 12px !important;
-                    padding: 10px 0 !important; /* Reduced padding */
-                    width: 100% !important;
-                    border-bottom: 1px solid #e0e0da !important;
+                    display: grid;
+                    grid-template-columns: auto 1fr;
+                    grid-template-areas: 
+                        "meta content"
+                        "time content";
+                    align-items: start;
+                    gap: 12px 12px;
+                    padding: 10px 0;
+                    width: 100%;
+                    border-bottom: 1px solid #e0e0da;
                 }
                 
-                /* Left column: source count and time stacked */
-                .story-meta {
-                    display: flex !important;
-                    flex-direction: column !important;
-                    justify-content: flex-start !important;
-                    align-items: flex-start !important;
-                    gap: 4px !important;
-                    flex-shrink: 0 !important;
-                    min-width: 60px !important;
+                .source-count {
+                    grid-area: meta;
+                }
+                
+                .story-content {
+                    grid-area: content;
+                }
+                
+                .story-time {
+                    grid-area: time;
                 }
                 
                 /* Right column: title */
@@ -431,7 +436,7 @@
                 /* All header text elements */
                 .header-datetime-left, .header-datetime-right,
                 .header-date, .header-time {
-                    font-size: 10px !important; /* 20% reduction */
+                    font-size: 12px !important;
                 }
                 
                 /* Weather container text */
@@ -442,6 +447,25 @@
                 /* Tab container background fix */
                 .news-tabs {
                     font-size: 10px !important; /* Ensure consistent sizing */
+                }
+                
+                /* Weather info font size */
+                .weather-info-left, .weather-info-right {
+                    font-size: 12px !important;
+                }
+                
+                /* Logo container max-width */
+                .logo-container img {
+                    max-width: 100% !important;
+                }
+                
+                /* Modal content font sizes for mobile */
+                .abstract-text,
+                .evidence-summary-content,
+                .brief-content,
+                .modal-sources-section,
+                .modal-header {
+                    font-size: 13px !important;
                 }
             }
             
@@ -589,9 +613,9 @@
             }
 
             .news-story {
-                display: flex;
-                justify-content: space-between;
-                align-items: center;
+                display: grid;
+                grid-template-columns: auto 1fr auto;
+                align-items: start;
                 padding: 10px;
                 cursor: pointer;
                 transition: all 0.2s;
@@ -599,7 +623,6 @@
                 width: 100%;
                 border: none;
             }
-
 
             /* Evidence Article Styles - Match news story layout */
             .evidence-article {
@@ -774,6 +797,7 @@
                 color: #ffffff;
                 text-transform: uppercase;
                 letter-spacing: 0.5px;
+                white-space: nowrap;
                 font-weight: normal;
             }
 
@@ -1049,13 +1073,6 @@
                 display: none;
             }
 
-            .story-meta {
-                display: flex;
-                flex-direction: column;
-                align-items: flex-end;
-                gap: 6px;
-                flex-shrink: 0;
-            }
 
             .source-count {
                 background: #bfdbfd;
@@ -1358,6 +1375,7 @@
             .modal-image img {
                 width: 100%;
                 height: auto;
+                min-height: 200px;
                 max-height: 500px;
                 object-fit: cover;
                 display: block;
@@ -2338,6 +2356,15 @@
                 .weather-location[style*="margin: 40px 0 10px 0"] {
                     display: block;
                 }
+                
+                /* Modal content font sizes for mobile */
+                .abstract-text,
+                .evidence-summary-content,
+                .brief-content,
+                .modal-sources-section,
+                .modal-header {
+                    font-size: 13px !important;
+                }
             }
 
 
@@ -3030,7 +3057,7 @@
                 <div class="evidence-modal-header">
                     <div class="evidence-modal-actions">
                         <button class="evidence-pubmed-button" id="evidencePubmedButton">
-                            <span class="pubmed-button-text">VIEW ON PUBMED</span>
+                            <span class="pubmed-button-text">PUBMED ↗</span>
                         </button>
                         <div class="evidence-doi-info" id="evidenceDoiInfo">
                             2025 Aug 18 doi: 10.1001/jama.2025.12515
