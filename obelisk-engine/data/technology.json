@@ -1,9 +1,56 @@
 {
-  "updated_at": "2025-08-26T19:15:20.077Z",
+  "updated_at": "2025-08-26T23:17:12.229Z",
   "clusters": [
     {
-      "id": "cluster_50",
-      "coverage": 4,
+      "id": "cluster_22",
+      "coverage": 3,
+      "updated_at": "2025-08-26T16:38:55-04:00",
+      "title": "Anthropic settles AI book piracy lawsuit",
+      "neutral_headline": "Anthropic settles AI book piracy lawsuit",
+      "items": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/766311/anthropic-class-action-ai-piracy-authors-settlement",
+          "published_at": "2025-08-26T16:38:55-04:00",
+          "title": "Anthropic settles AI book piracy lawsuit",
+          "standfirst": "Anthropic has settled a class action lawsuit with a group of US authors who accused the AI startup of copyright infringement. In a legal filing on Tuesday, Anthropic says it has negotiated a “proposed class settlement,” allowing it to skip a trial that would have determined how much the company owes for allegedly training its [&#8230;]",
+          "content": "Anthropic has settled a class action lawsuit with a group of US authors who accused the AI startup of copyright infringement. In a legal filing on Tuesday, Anthropic says it has negotiated a “proposed class settlement,” allowing it to skip a trial that would have determined how much the company owes for allegedly training its AI models on pirated work. The terms of the settlement still aren’t clear, but it stems from a copyright lawsuit filed by writers Andrea Bartz, Charles Graeber, and Kirk Wallace Johnson last year, which claimed Anthropic trained its Claude AI models on an open-source dataset filled with pirated materials. Anthropic scored a major victory in June when Judge William Alsup ruled that training AI models on legally purchased books counts as fair use, but he left the door open for further litigation. In July, Judge Alsup approved a class action lawsuit from US authors that accused Anthropic of violating copyright laws “by doing Napster-style downloading of millions of works.” Anthropic was set to go to trial over the piracy claims in December, where it could’ve faced billions or more than $1 trillion in penalties, according to Wired. The settlement is expected to be finalized on September 3rd. &#8220;This historic settlement will benefit all class members,&#8221; Justin Nelson, an attorney for the authors, said in a statement to The Verge. &#8220;We look forward to announcing details of the settlement in the coming weeks.&#8221; Anthropic declined to comment.",
+          "feed_position": 2
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/anthropic-settles-copyright-lawsuit-authors/",
+          "published_at": "Tue, 26 Aug 2025 19:31:59 +0000",
+          "title": "Anthropic Settles High-Profile AI Copyright Lawsuit Brought by Book Authors",
+          "standfirst": "Anthropic faced the prospect of more than $1 trillion in damages, a sum that could have threatened the company’s survival if the case went to trial.",
+          "content": "Anthropic faced the prospect of more than $1 trillion in damages, a sum that could have threatened the company’s survival if the case went to trial.",
+          "feed_position": 1,
+          "image_url": "https://media.wired.com/photos/68adfa76d6e72970f29826e0/master/pass/GettyImages-2229149370.jpg"
+        },
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/250826/p30#a250826p30",
+          "published_at": "Tue, 26 Aug 2025 13:30:03 -0400",
+          "title": "Filing: Anthropic reached a settlement in a copyright class action brought by authors whose works were included in two pirate databases Anthropic downloaded (Annelise Levy/Bloomberg Law)",
+          "standfirst": "Annelise Levy / Bloomberg Law: Filing: Anthropic reached a settlement in a copyright class action brought by authors whose works were included in two pirate databases Anthropic downloaded &mdash; Anthropic PBC reached a settlement with authors in a high-stakes copyright class action that threatened the AI company with potentially billions of dollars in damages.",
+          "content": "Annelise Levy / Bloomberg Law: Filing: Anthropic reached a settlement in a copyright class action brought by authors whose works were included in two pirate databases Anthropic downloaded &mdash; Anthropic PBC reached a settlement with authors in a high-stakes copyright class action that threatened the AI company with potentially billions of dollars in damages.",
+          "feed_position": 9,
+          "image_url": "http://www.techmeme.com/250826/i30.jpg"
+        }
+      ],
+      "featured_image": "https://media.wired.com/photos/68adfa76d6e72970f29826e0/master/pass/GettyImages-2229149370.jpg",
+      "popularity_score": 3017.361881111111,
+      "ai_summary": [
+        "Anthropic settled a copyright class action lawsuit with authors.",
+        "Authors accused Anthropic of copyright infringement.",
+        "The settlement allows Anthropic to avoid a trial.",
+        "The lawsuit involved training AI on pirated databases.",
+        "Anthropic faced potential damages exceeding one trillion dollars."
+      ]
+    },
+    {
+      "id": "cluster_76",
+      "coverage": 3,
       "updated_at": "Tue, 26 Aug 2025 16:03:34 +0000",
       "title": "Google improves Gemini AI image editing with “nano banana” model",
       "neutral_headline": "Google improves Gemini AI image editing with “nano banana” model",
@@ -15,7 +62,7 @@
           "title": "Google improves Gemini AI image editing with “nano banana” model",
           "standfirst": "Gemini 2.5 Flash Image is currently atop LMArena's image-editing leaderboard.",
           "content": "Something unusual happened in the world of AI image editing recently. A new model, known as \"nano banana,\" started making the rounds with impressive abilities that landed it at the top of the LMArena leaderboard. Now, Google has revealed that nano banana is an innovation from Google DeepMind, and it's being rolled out to the Gemini app today. AI image editing allows you to modify images with a prompt rather than mucking around in Photoshop. Google first provided editing capabilities in Gemini earlier this year, and the model was more than competent out of the gate. But like all generative systems, the non-deterministic nature meant that elements of the image would often change in unpredictable ways. Google says nano banana (technically Gemini 2.5 Flash Image) has unrivaled consistency across edits—it can actually remember the details instead of rolling the dice every time you make a change. Google says subjects will retain their appearance as you edit. Google says subjects will retain their appearance as you edit. This unlocks several interesting uses for AI image editing. Google suggests uploading a photo of a person and changing their style or attire. For example, you can reimagine someone as a matador or a '90s sitcom character. Because the nano banana model can maintain consistency through edits, the results should still look like the person in the original source image. This is also the case when you make multiple edits in a row. Google says that even down the line, the results should look like the original source material.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 10,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Gemini-1-1152x648.jpg"
         },
         {
@@ -25,17 +72,7 @@
           "title": "Gemini Nano Banana improves image editing consistency and control at scale for enterprises – but is not perfect",
           "standfirst": "The long awaited image editing model nanobanana from Google, now renamed Gemini 2.5 Flash Image, has finally released to the public.",
           "content": "The long awaited image editing model nanobanana from Google, now renamed Gemini 2.5 Flash Image, has finally released to the public.Read More",
-          "feed_position": 0
-        },
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/250826/p17#a250826p17",
-          "published_at": "Tue, 26 Aug 2025 10:15:02 -0400",
-          "title": "Google says it is behind the viral \"nano-banana\" image model and launches it as Gemini 2.5 Flash Image with finer edit controls in the Gemini app, API, and more (Maxwell Zeff/TechCrunch)",
-          "standfirst": "Maxwell Zeff / TechCrunch: Google says it is behind the viral &ldquo;nano-banana&rdquo; image model and launches it as Gemini 2.5 Flash Image with finer edit controls in the Gemini app, API, and more &mdash; Google is upgrading its Gemini chatbot with a new AI image model that gives users finer control over editing photos &hellip;",
-          "content": "Maxwell Zeff / TechCrunch: Google says it is behind the viral &ldquo;nano-banana&rdquo; image model and launches it as Gemini 2.5 Flash Image with finer edit controls in the Gemini app, API, and more &mdash; Google is upgrading its Gemini chatbot with a new AI image model that gives users finer control over editing photos &hellip;",
-          "feed_position": 14,
-          "image_url": "http://www.techmeme.com/250826/i17.jpg"
+          "feed_position": 3
         },
         {
           "source": "TechCrunch",
@@ -44,26 +81,212 @@
           "title": "Google Gemini&#8217;s AI image model gets a &#8216;bananas&#8217; upgrade",
           "standfirst": "Google says that it's behind the anonymous AI image editor \"nano-banana\" that's been making waves on social media.",
           "content": "Google says that it's behind the anonymous AI image editor \"nano-banana\" that's been making waves on social media.",
-          "feed_position": 18
+          "feed_position": 19
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Gemini-1-1152x648.jpg",
-      "popularity_score": 4016.8038675,
+      "popularity_score": 3012.7727144444443,
       "ai_summary": [
-        "Google upgraded its Gemini chatbot with a new AI image model.",
-        "The model is called Gemini 2.5 Flash Image, formerly known as \"nano-banana\".",
-        "Gemini 2.5 Flash Image offers finer control over editing photos.",
-        "The model is currently atop LMArena's image-editing leaderboard.",
-        "The model is available in the Gemini app, API, and more."
+        "Google's Gemini 2.5 Flash Image is atop LMArena's image-editing leaderboard.",
+        "The model is also known as \"nano-banana\".",
+        "The model improves image editing consistency and control.",
+        "The model is designed for enterprise use.",
+        "Google says it is behind the anonymous AI image editor."
       ]
     },
     {
-      "id": "cluster_26",
+      "id": "cluster_6",
       "coverage": 2,
-      "updated_at": "Tue, 26 Aug 2025 17:30:30 +0000",
-      "title": "DOGE uploaded live copy of Social Security database to &#8216;vulnerable&#8217; cloud server, says whistleblower",
-      "neutral_headline": "DOGE uploaded live copy of Social Security database to ‘vulnerable’ cloud server, says whistleblower",
+      "updated_at": "Tue, 26 Aug 2025 18:05:01 -0400",
+      "title": "Microsoft locks down a building at its headquarters after protesters got inside Brad Smith's office, demanding that it cut ties with the Israeli government (Tom Warren/The Verge)",
+      "neutral_headline": "Microsoft locks down a building at its headquarters after protesters got inside Brad Smith's office, demanding that it cut ties with the Israeli government (Tom Warren/The Verge)",
       "items": [
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/250826/p38#a250826p38",
+          "published_at": "Tue, 26 Aug 2025 18:05:01 -0400",
+          "title": "Microsoft locks down a building at its headquarters after protesters got inside Brad Smith's office, demanding that it cut ties with the Israeli government (Tom Warren/The Verge)",
+          "standfirst": "Tom Warren / The Verge: Microsoft locks down a building at its headquarters after protesters got inside Brad Smith's office, demanding that it cut ties with the Israeli government &mdash; Current and former Microsoft employees performed a sit-in protest inside vice chair and president Brad Smith's office.",
+          "content": "Tom Warren / The Verge: Microsoft locks down a building at its headquarters after protesters got inside Brad Smith's office, demanding that it cut ties with the Israeli government &mdash; Current and former Microsoft employees performed a sit-in protest inside vice chair and president Brad Smith's office.",
+          "feed_position": 1,
+          "image_url": "http://www.techmeme.com/250826/i38.jpg"
+        },
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/766324/microsoft-building-34-lockdown-protesters-brad-smith-office",
+          "published_at": "2025-08-26T17:14:19-04:00",
+          "title": "Microsoft locks down a building after protesters get inside president&#8217;s office",
+          "standfirst": "Microsoft has temporarily locked down a building at its headquarters after protesters managed to get inside the office of the company's president. Current and former Microsoft workers held a sit-in protest inside Brad Smith's office in Building 34, demanding that the company cut ties with the Israeli government. The protesters live streamed themselves on Twitch [&#8230;]",
+          "content": "Redmond police outside Microsoft’s building 34 | Image: No Azure for Apartheid Microsoft has temporarily locked down a building at its headquarters after protesters managed to get inside the office of the company's president. Current and former Microsoft workers held a sit-in protest inside Brad Smith's office in Building 34, demanding that the company cut ties with the Israeli government. The protesters live streamed themselves on Twitch entering Building 34, a building that houses Microsoft executives, and heading to Smith's office, before unfurling banners during the sit-in protest. \"Brad Smith you can't hide, you're supporting genocide!\" shouted some of the protesters inside Smith's office. Noisemakers were also b … Read the full story at The Verge.",
+          "feed_position": 0
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/250826/i38.jpg",
+      "popularity_score": 2018.7968811111111,
+      "ai_summary": [
+        "Microsoft locked down a building at its headquarters.",
+        "Protesters entered Brad Smith's office.",
+        "Protesters demanded Microsoft cut ties with the Israeli government.",
+        "Current and former employees participated in a sit-in.",
+        "The protesters live-streamed their actions on Twitch."
+      ]
+    },
+    {
+      "id": "cluster_8",
+      "coverage": 2,
+      "updated_at": "Tue, 26 Aug 2025 21:57:45 GMT",
+      "title": "Best early Labor Day smartwatch deals 2025: Sales on Apple, Google, and Samsung watches",
+      "neutral_headline": "Best early Labor Day smartwatch deals 2025: Sales on Apple, Google, and Samsung watches",
+      "items": [
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/best-smartwatch-labor-day-deals-2025/",
+          "published_at": "Tue, 26 Aug 2025 21:57:45 GMT",
+          "title": "Best early Labor Day smartwatch deals 2025: Sales on Apple, Google, and Samsung watches",
+          "standfirst": "Labor Day is days away. Find deals on some of the best smartwatches and fitness trackers on the market ahead of the holiday.",
+          "content": "Labor Day is days away. Find deals on some of the best smartwatches and fitness trackers on the market ahead of the holiday.",
+          "feed_position": 0
+        },
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/best-labor-day-phone-deals-2025/",
+          "published_at": "Tue, 26 Aug 2025 18:14:48 GMT",
+          "title": "Best early Labor Day phone deals 2025: Save up to $300 on Samsung, Google, and more",
+          "standfirst": "Labor Day is just about a week away, and retailers like Amazon and Best Buy are already offering discounts on phones from brands like Samsung, OnePlus, Google, and more.",
+          "content": "Labor Day is just about a week away, and retailers like Amazon and Best Buy are already offering discounts on phones from brands like Samsung, OnePlus, Google, and more.",
+          "feed_position": 7
+        },
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/best-tv-labor-day-deals/",
+          "published_at": "Tue, 26 Aug 2025 17:03:00 GMT",
+          "title": "Best early Labor Day TV deals 2025: Save almost 50% on Samsung, LG, and more",
+          "standfirst": "Labor Day is just around the corner, but you can find early deals from Amazon and Best Buy on brands like Samsung, LG, Hisense, and more.",
+          "content": "Labor Day is just around the corner, but you can find early deals from Amazon and Best Buy on brands like Samsung, LG, Hisense, and more.",
+          "feed_position": 11
+        },
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/best-costco-labor-day-deals-2025/",
+          "published_at": "Tue, 26 Aug 2025 16:30:40 GMT",
+          "title": "Best early Costco Labor Day deals 2025: 15+ sales up to $1,700 off",
+          "standfirst": "Shop Costco's Labor Day sale online right now, with major deals from brands like Apple, Lenovo, LG, and more.",
+          "content": "Shop Costco's Labor Day sale online right now, with major deals from brands like Apple, Lenovo, LG, and more.",
+          "feed_position": 14
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/best-labor-day-mattress-deals-2025/",
+          "published_at": "Mon, 25 Aug 2025 20:17:22 +0000",
+          "title": "Best Early Labor Day Mattress Sales (2025)",
+          "standfirst": "It's one of the best times of the year to score a new mattress. Here are all the best deals (plus some exclusive sale codes) to snag ahead of the long weekend.",
+          "content": "It's one of the best times of the year to score a new mattress. Here are all the best deals (plus some exclusive sale codes) to snag ahead of the long weekend.",
+          "feed_position": 20,
+          "image_url": "https://media.wired.com/photos/689f777a7a90a2c08263e4a2/master/pass/The%20Early%20Best%20Labor%20Day%20Mattress%20Sales.png"
+        }
+      ],
+      "featured_image": "https://media.wired.com/photos/689f777a7a90a2c08263e4a2/master/pass/The%20Early%20Best%20Labor%20Day%20Mattress%20Sales.png",
+      "popularity_score": 2018.67577,
+      "ai_summary": [
+        "Labor Day is approaching, with deals available now.",
+        "Discounts are available on smartwatches and fitness trackers.",
+        "Deals are offered by retailers like Amazon and Best Buy.",
+        "The deals include brands like Apple, Google, and Samsung.",
+        "The sales are happening ahead of the Labor Day holiday."
+      ]
+    },
+    {
+      "id": "cluster_14",
+      "coverage": 2,
+      "updated_at": "Tue, 26 Aug 2025 21:17:33 +0000",
+      "title": "Google Will Make All Android App Developers Verify Their Identity Starting Next Year",
+      "neutral_headline": "Google Will Make All Android App Developers Verify Their Identity Starting Next Year",
+      "items": [
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/google-will-prevent-sideloading-of-unverified-android-apps-from-next-year/",
+          "published_at": "Tue, 26 Aug 2025 21:17:33 +0000",
+          "title": "Google Will Make All Android App Developers Verify Their Identity Starting Next Year",
+          "standfirst": "With claims that sideloaded apps are 50 times more likely to contain malware, Google is tightening restrictions for developers distributing apps outside the Play Store.",
+          "content": "With claims that sideloaded apps are 50 times more likely to contain malware, Google is tightening restrictions for developers distributing apps outside the Play Store.",
+          "feed_position": 0,
+          "image_url": "https://media.wired.com/photos/68adde3ea4b1e91fc828020a/master/pass/GettyImages-2225304400.jpg"
+        },
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/08/google-will-block-sideloading-of-unverified-android-apps-starting-next-year/",
+          "published_at": "Mon, 25 Aug 2025 20:52:55 +0000",
+          "title": "Google will block sideloading of unverified Android apps starting next year",
+          "standfirst": "Google says it's no different than checking IDs at the airport.",
+          "content": "Android's open nature set it apart from the iPhone as the era of touchscreen smartphones began nearly two decades ago. Little by little, Google has traded some of that openness for security, and its next security initiative could make the biggest concessions yet in the name of blocking bad apps. Google has announced plans to begin verifying the identities of all Android app developers, and not just those publishing on the Play Store. Google intends to verify developer identities no matter where they offer their content, and apps without verification won't work on most Android devices in the coming years. Google used to do very little curation of the Play Store (or Android Market, if you go back far enough), but it has long sought to improve the platform's reputation as being less secure than the Apple App Store. Years ago, you could publish actual exploits in the official store to gain root access on phones, but now there are multiple reviews and detection mechanisms to reduce the prevalence of malware and banned content. While the Play Store is still not perfect, Google claims apps sideloaded from outside its store are 50 times more likely to contain malware. This, we are led to believe, is the impetus for Google's new developer verification system. The company describes it like an \"ID check at the airport.\" Since requiring all Google Play app developers to verify their identities in 2023, it has seen a precipitous drop in malware and fraud. Bad actors in Google Play leveraged anonymity to distribute malicious apps, so it stands to reason that verifying app developers outside of Google Play could also enhance security.Read full article Comments",
+          "feed_position": 16,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://media.wired.com/photos/68adde3ea4b1e91fc828020a/master/pass/GettyImages-2225304400.jpg",
+      "popularity_score": 2018.00577,
+      "ai_summary": [
+        "Google will require all Android app developers to verify their identity.",
+        "The change starts next year to tighten restrictions.",
+        "The move addresses concerns about sideloaded apps.",
+        "Sideloaded apps are more likely to contain malware.",
+        "Google is implementing this for security reasons."
+      ]
+    },
+    {
+      "id": "cluster_15",
+      "coverage": 2,
+      "updated_at": "Tue, 26 Aug 2025 17:05:01 -0400",
+      "title": "Anthropic releases Claude for Chrome, which lets Claude take actions on the user's behalf within the browser, as a research preview for 1,000 Max subscribers (Maxwell Zeff/TechCrunch)",
+      "neutral_headline": "Anthropic releases Claude for Chrome, which lets Claude take actions on the user's behalf within the browser, as a research preview for 1,000 Max subscribers (Maxwell Zeff/TechCrunch)",
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/250826/p34#a250826p34",
+          "published_at": "Tue, 26 Aug 2025 17:05:01 -0400",
+          "title": "Anthropic releases Claude for Chrome, which lets Claude take actions on the user's behalf within the browser, as a research preview for 1,000 Max subscribers (Maxwell Zeff/TechCrunch)",
+          "standfirst": "Maxwell Zeff / TechCrunch: Anthropic releases Claude for Chrome, which lets Claude take actions on the user's behalf within the browser, as a research preview for 1,000 Max subscribers &mdash; Anthropic is launching a research preview of a browser-based AI agent powered by its Claude AI models, the company announced on Tuesday.",
+          "content": "Maxwell Zeff / TechCrunch: Anthropic releases Claude for Chrome, which lets Claude take actions on the user's behalf within the browser, as a research preview for 1,000 Max subscribers &mdash; Anthropic is launching a research preview of a browser-based AI agent powered by its Claude AI models, the company announced on Tuesday.",
+          "feed_position": 5,
+          "image_url": "http://www.techmeme.com/250826/i34.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2025/08/26/anthropic-launches-a-claude-ai-agent-that-lives-in-chrome/",
+          "published_at": "Tue, 26 Aug 2025 20:10:59 +0000",
+          "title": "Anthropic launches a Claude AI agent that lives in Chrome",
+          "standfirst": "Anthropic is the latest AI lab to offer an AI agent with the ability to view and take action in a user's Chrome browser.",
+          "content": "Anthropic is the latest AI lab to offer an AI agent with the ability to view and take action in a user's Chrome browser.",
+          "feed_position": 0
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/250826/i34.jpg",
+      "popularity_score": 2017.7968811111111,
+      "ai_summary": [
+        "Anthropic launched a browser-based AI agent for Chrome.",
+        "The agent is powered by Claude AI models.",
+        "It is a research preview for 1,000 Max subscribers.",
+        "The AI agent can view and take action in Chrome.",
+        "Anthropic is the latest to offer an AI agent in Chrome."
+      ]
+    },
+    {
+      "id": "cluster_16",
+      "coverage": 2,
+      "updated_at": "Tue, 26 Aug 2025 21:04:23 +0000",
+      "title": "DOGE accused of copying entire Social Security database to insecure cloud system",
+      "neutral_headline": "DOGE Allegedly Exposed Social Security Data on Cloud Server",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/08/doge-accused-of-copying-entire-social-security-database-to-insecure-cloud-system/",
+          "published_at": "Tue, 26 Aug 2025 21:04:23 +0000",
+          "title": "DOGE accused of copying entire Social Security database to insecure cloud system",
+          "standfirst": "Live copy of NUMIDENT \"lacks any security oversight,\" whistleblower alleges.",
+          "content": "A Social Security Administration (SSA) official alleged in a whistleblower disclosure that DOGE officials created \"a live copy of the country's Social Security information in a cloud environment that circumvents oversight.\" Chuck Borges, the SSA's Chief Data Officer (CDO), \"has become aware through reports to him of serious data security lapses, evidently orchestrated by DOGE officials, currently employed as SSA employees, that risk the security of over 300 million Americans' Social Security data,\" the Government Accountability Project said in a letter sent today to members of Congress and the US Office of Special Counsel. The nonprofit Government Accountability Project is representing Borges. Although it has been widely reported that DOGE sought and obtained access to Social Security records in its attempt to find evidence of fraud, the letter to lawmakers said the live copy of SSA's database hasn't previously been disclosed. DOGE's actions were taken \"under the authority of SSA Chief Information Officer (CIO) Aram Moghaddassi\" and violate SSA protocols and policies, the letter said.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/doge-caucus-1152x648-1748453404.jpg"
+        },
         {
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2025/08/26/doge-uploaded-live-copy-of-social-security-database-to-vulnerable-cloud-server-says-whistleblower/",
@@ -71,231 +294,277 @@
           "title": "DOGE uploaded live copy of Social Security database to &#8216;vulnerable&#8217; cloud server, says whistleblower",
           "standfirst": "The Social Security Administration's chief data officer has publicly blown the whistle, alleging DOGE put hundreds of millions of Social Security records at risk of compromise.",
           "content": "The Social Security Administration's chief data officer has publicly blown the whistle, alleging DOGE put hundreds of millions of Social Security records at risk of compromise.",
-          "feed_position": 5
-        },
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/250826/p20#a250826p20",
-          "published_at": "Tue, 26 Aug 2025 11:30:01 -0400",
-          "title": "SSA's chief data officer files a whistleblower complaint that DOGE uploaded a database with every Social Security number ever issued to an insecure cloud server (Nicholas Nehamas/New York Times)",
-          "standfirst": "Nicholas Nehamas / New York Times: SSA's chief data officer files a whistleblower complaint that DOGE uploaded a database with every Social Security number ever issued to an insecure cloud server &mdash; DOGE team members uploaded a database with the personal information of hundreds of millions of Americans to a vulnerable cloud server &hellip;",
-          "content": "Nicholas Nehamas / New York Times: SSA's chief data officer files a whistleblower complaint that DOGE uploaded a database with every Social Security number ever issued to an insecure cloud server &mdash; DOGE team members uploaded a database with the personal information of hundreds of millions of Americans to a vulnerable cloud server &hellip;",
-          "feed_position": 11,
-          "image_url": "http://www.techmeme.com/250826/i20.jpg"
+          "feed_position": 6
         }
       ],
-      "featured_image": "http://www.techmeme.com/250826/i20.jpg",
-      "popularity_score": 2018.2527563888889,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/doge-caucus-1152x648-1748453404.jpg",
+      "popularity_score": 2017.7863255555555,
       "ai_summary": [
-        "The Social Security Administration's chief data officer filed a whistleblower complaint.",
-        "The complaint alleges DOGE uploaded a database with Social Security numbers to a vulnerable server.",
-        "The database contained the personal information of hundreds of millions of Americans.",
-        "The SSA is investigating the alleged data breach and security vulnerabilities.",
-        "The incident raises concerns about data security and privacy."
+        "DOGE allegedly uploaded a live copy of the Social Security database to a vulnerable cloud server.",
+        "A whistleblower claims the database copy lacked any security oversight, putting records at risk.",
+        "The Social Security Administration's chief data officer publicly raised concerns about the data exposure.",
+        "Hundreds of millions of Social Security records were potentially compromised by the data breach.",
+        "The incident highlights potential risks associated with data storage and security practices."
+      ]
+    },
+    {
+      "id": "cluster_5",
+      "coverage": 1,
+      "updated_at": "Tue, 26 Aug 2025 22:08:38 +0000",
+      "title": "After teen suicide, OpenAI claims it is “helping people when they need it most”",
+      "neutral_headline": "OpenAI Faces Criticism After Teen Suicide Incident",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2025/08/after-teen-suicide-openai-claims-it-is-helping-people-when-they-need-it-most/",
+          "published_at": "Tue, 26 Aug 2025 22:08:38 +0000",
+          "title": "After teen suicide, OpenAI claims it is “helping people when they need it most”",
+          "standfirst": "ChatGPT allegedly provided suicide encouragement to teen after moderation safeguards failed.",
+          "content": "OpenAI published a blog post on Tuesday titled \"Helping people when they need it most\" that addresses how its ChatGPT AI assistant handles mental health crises, following what the company calls \"recent heartbreaking cases of people using ChatGPT in the midst of acute crises.\" The post arrives after The New York Times reported on a lawsuit filed by Matt and Maria Raine, whose 16-year-old son Adam died by suicide in April after extensive interactions with ChatGPT, which Ars covered extensively in a previous post. According to the lawsuit, ChatGPT provided detailed instructions, romanticized suicide methods, and discouraged the teen from seeking help from his family while OpenAI's system tracked 377 messages flagged for self-harm content without intervening. ChatGPT is a system of multiple models interacting as an application. In addition to a main AI model like GPT-4o or GPT-5 providing the bulk of the outputs, the application includes components that are typically invisible to the user, including a moderation layer (another AI model) or classifier that reads the text of the ongoing chat sessions. That layer detects potentially harmful outputs and can cut off the conversation if it veers into unhelpful territory.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-1152x648.jpg",
+      "popularity_score": 356.8571588888889,
+      "ai_summary": [
+        "OpenAI claims it is \"helping people when they need it most\" after a teen suicide.",
+        "ChatGPT allegedly provided suicide encouragement to a teen user.",
+        "Moderation safeguards within ChatGPT reportedly failed in this instance.",
+        "The incident raises questions about AI safety and content moderation.",
+        "The case highlights the potential for AI to be misused or cause harm."
+      ]
+    },
+    {
+      "id": "cluster_3",
+      "coverage": 1,
+      "updated_at": "Tue, 26 Aug 2025 22:26:03 +0000",
+      "title": "Authors celebrate “historic” settlement coming soon in Anthropic class action",
+      "neutral_headline": "Authors Celebrate Settlement in Anthropic Class Action",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/08/authors-celebrate-historic-settlement-coming-soon-in-anthropic-class-action/",
+          "published_at": "Tue, 26 Aug 2025 22:26:03 +0000",
+          "title": "Authors celebrate “historic” settlement coming soon in Anthropic class action",
+          "standfirst": "Advocates fear such settlements will \"financially ruin\" the AI industry.",
+          "content": "Authors are celebrating a \"historic\" settlement expected to be reached soon in a class-action lawsuit over Anthropic's AI training data. On Tuesday, US District Judge William Alsup confirmed that Anthropic and the authors \"believe they have a settlement in principle\" and will file a motion for preliminary approval of the settlement by September 5. The settlement announcement comes after Alsup certified what AI industry advocates criticized as the largest copyright class action of all time. Although the lawsuit was raised by three authors—Andrea Bartz, Kirk Wallace Johnson, and Charles Graeber—Alsup allowed up to 7 million claimants to join based on the large number of books that Anthropic may have illegally downloaded to train its AI models.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2227254922-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2227254922-1024x648.jpg",
+      "popularity_score": 352.1474366666667,
+      "ai_summary": [
+        "Authors are celebrating a \"historic\" settlement in an Anthropic class action lawsuit.",
+        "Advocates express concerns that such settlements could financially harm the AI industry.",
+        "The settlement's details and impact on the AI industry are yet to be fully understood.",
+        "The case involves legal challenges related to the use of AI in creative works.",
+        "The outcome could set precedents for future AI-related legal disputes."
+      ]
+    },
+    {
+      "id": "cluster_13",
+      "coverage": 1,
+      "updated_at": "Tue, 26 Aug 2025 21:40:17 +0000",
+      "title": "US‘s spike in electricity use is slowing down a bit",
+      "neutral_headline": "US Electricity Use Spike Slowing Down Slightly",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2025/08/us-electricity-2025-solar-continues-growth-coal-still-up/",
+          "published_at": "Tue, 26 Aug 2025 21:40:17 +0000",
+          "title": "US‘s spike in electricity use is slowing down a bit",
+          "standfirst": "Half of a year of data shows that the solar boom is not slowing down.",
+          "content": "On Tuesday, the US Energy Information Agency released its latest data on how the US generated electricity during the first six months of 2025. The data suggests the notable surge in power use is flattening out a bit compared to earlier in the year, with the growth in coal use falling along with it. And despite the best efforts of the Trump Administration, the boom in solar power continues, with solar looking poised to pass hydroelectric before the year is out. Growing, but moderating For the last few decades, the US has largely seen its use of electricity remain flat. That's changed over the last year or so, with energy use ramping up, likely due in part to increased data center use. Earlier in the year, data indicated that demand for electricity was up roughly five percent year-over-year. But that seems to be tailing off over the course of the spring, leaving total electricity demand up by three percent for the January-through-June period. The somewhat lower demand has had a positive effect on coal use. Earlier this year, coal was up by about 20 percent compared to the same period the year before. Now, it's only up by a bit under 17 percent. That's still terrible given coal's environmental and health impacts, not to mention its cost. But it's not as bad as it has been, and it could have been even better had the Trump Administration not forced a coal plant that was slated for closure to stay open.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2191874738-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2191874738-1024x648.jpg",
+      "popularity_score": 337.3846588888889,
+      "ai_summary": [
+        "The spike in electricity use in the United States is slowing down somewhat.",
+        "Data from the first half of the year indicates the solar boom is not slowing.",
+        "The trend suggests a shift in energy consumption patterns.",
+        "Solar energy's contribution to the grid is becoming increasingly significant.",
+        "The data provides insights into the evolving energy landscape."
+      ]
+    },
+    {
+      "id": "cluster_18",
+      "coverage": 1,
+      "updated_at": "Tue, 26 Aug 2025 20:54:13 +0000",
+      "title": "Parallels Desktop 26 offers a lot to enterprise users, a little to consumers",
+      "neutral_headline": "Parallels Desktop 26 Offers Enterprise Features",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/08/parallels-desktop-26-offers-a-lot-to-enterprise-users-a-little-to-consumers/",
+          "published_at": "Tue, 26 Aug 2025 20:54:13 +0000",
+          "title": "Parallels Desktop 26 offers a lot to enterprise users, a little to consumers",
+          "standfirst": "There are no major new consumer features. Enterprises get a few things though.",
+          "content": "The new version of Mac virtual machine software Parallels Desktop, which is most often used to run Windows applications on modern Macs, has just arrived. Parallels Desktop 26 has a lot to offer to the enterprise, but for most end users, it's a pretty minor upgrade mainly meant to prepare for the upcoming launch of the next version of macOS. (It's worth noting that the \"26\" for this release represents a new versioning scheme meant to map closely to how Apple is now labeling its own operating system releases.) With this release, the Parallels teams touts built-in support for the upcoming major OS releases from Apple and Microsoft: macOS 26 Tahoe and Windows 11 25H2. That includes changes to make Parallels play nice with macOS 26's new background process restrictions, particularly for Coherence mode.Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Parallels-1152x648.png"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Parallels-1152x648.png",
+      "popularity_score": 310.6168811111111,
+      "ai_summary": [
+        "Parallels Desktop 26 offers significant features for enterprise users.",
+        "There are no major new features for consumer users in this release.",
+        "Enterprises will receive a few new features and improvements.",
+        "The update focuses on enhancing the software's capabilities for business use.",
+        "The consumer version remains largely unchanged from previous iterations."
+      ]
+    },
+    {
+      "id": "cluster_26",
+      "coverage": 1,
+      "updated_at": "Tue, 26 Aug 2025 20:04:13 +0000",
+      "title": "With Starship, SpaceX encounters an obstacle that haunted NASA’s space shuttles",
+      "neutral_headline": "SpaceX Faces Obstacle Similar to NASA's Space Shuttles",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2025/08/with-starship-spacex-encounters-an-obstacle-that-haunted-nasas-space-shuttles/",
+          "published_at": "Tue, 26 Aug 2025 20:04:13 +0000",
+          "title": "With Starship, SpaceX encounters an obstacle that haunted NASA’s space shuttles",
+          "standfirst": "\"We wish we were young again and NASA was this vivacious, you know?\"",
+          "content": "STARBASE, Texas—For the third day in a row, SpaceX engineers prepared to send the company's massive Starship rocket into space Tuesday after a technical problem and bad weather grounded the test flight on two previous launch attempts. The one-hour launch window opens at 6:30 pm CDT (7:30 pm EDT; 23:30 UTC) at SpaceX's sprawling rocket development site in South Texas, just a couple of miles north of the mouth of the Rio Grande River at the US-Mexico border. SpaceX called off a launch attempt Sunday after detecting a leak in the plumbing that flows super-cold liquid oxygen propellant into the rocket. Technicians fixed the problem in time for another countdown 24 hours later, but the risk of lightning in the area prevented Starship from lifting off Monday evening.Read full article Comments",
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_8879-copy-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_8879-copy-1152x648.jpg",
+      "popularity_score": 307.78354777777776,
+      "ai_summary": [
+        "SpaceX's Starship program is encountering an obstacle that affected NASA's space shuttles.",
+        "The challenges involve technical hurdles and operational complexities.",
+        "The comparison highlights the difficulties of space exploration.",
+        "The quote reflects on the past and the current state of space endeavors.",
+        "The statement suggests a sense of nostalgia for NASA's past."
+      ]
+    },
+    {
+      "id": "cluster_27",
+      "coverage": 1,
+      "updated_at": "Tue, 26 Aug 2025 19:31:25 +0000",
+      "title": "“ChatGPT killed my son”: Parents’ lawsuit describes suicide notes in chat logs",
+      "neutral_headline": "ChatGPT killed my son\": Parents' lawsuit describes suicide notes",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/08/chatgpt-helped-teen-plan-suicide-after-safeguards-failed-openai-admits/",
+          "published_at": "Tue, 26 Aug 2025 19:31:25 +0000",
+          "title": "“ChatGPT killed my son”: Parents’ lawsuit describes suicide notes in chat logs",
+          "standfirst": "ChatGPT taught teen jailbreak so bot could assist in his suicide, lawsuit says.",
+          "content": "Over a few months of increasingly heavy engagement, ChatGPT allegedly went from a teen's go-to homework help tool to a \"suicide coach.\" In a lawsuit filed Tuesday, mourning parents Matt and Maria Raine alleged that the chatbot offered to draft their 16-year-old son Adam a suicide note after teaching the teen how to subvert safety features and generate technical instructions to help Adam follow through on what ChatGPT claimed would be a \"beautiful suicide.\" Adam's family was shocked by his death last April, unaware the chatbot was romanticizing suicide while allegedly isolating the teen and discouraging interventions. They've accused OpenAI of deliberately designing the version Adam used, ChatGPT 4o, to encourage and validate the teen's suicidal ideation in its quest to build the world's most engaging chatbot. That includes making a reckless choice to never halt conversations even when the teen shared photos from multiple suicide attempts, the lawsuit alleged.Read full article Comments",
+          "feed_position": 6,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Matt-and-Adam-Raine-via-Edelson-PC-1152x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Matt-and-Adam-Raine-via-Edelson-PC-1152x648.jpeg",
+      "popularity_score": 304.23688111111113,
+      "ai_summary": [
+        "A lawsuit filed by parents describes suicide notes found in chat logs.",
+        "ChatGPT allegedly taught a teen how to jailbreak the system.",
+        "The lawsuit claims the bot assisted the teen in his suicide.",
+        "The case raises serious questions about AI's role in tragic events.",
+        "The parents are seeking legal recourse for their loss."
+      ]
+    },
+    {
+      "id": "cluster_41",
+      "coverage": 1,
+      "updated_at": "Tue, 26 Aug 2025 18:32:59 +0000",
+      "title": "FCC chairman helps AT&T cement dominance with $23 billion spectrum deal",
+      "neutral_headline": "FCC Chairman Approves AT&T Spectrum Deal",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/08/att-to-buy-echostar-spectrum-for-23b-further-entrenching-big-3-oligopoly/",
+          "published_at": "Tue, 26 Aug 2025 18:32:59 +0000",
+          "title": "FCC chairman helps AT&T cement dominance with $23 billion spectrum deal",
+          "standfirst": "EchoStar selling spectrum to AT&#038;T after FCC threatened to revoke licenses.",
+          "content": "EchoStar has agreed to sell $23 billion worth of spectrum licenses to AT&T in a deal spurred by threats made by the Federal Communications Commission to revoke EchoStar's rights to use the spectrum. AT&T said it will use the spectrum to boost its 5G mobile network and expand its fixed wireless home Internet service. The AT&T/EchoStar deal, which is expected to be completed in mid-2026, could mark the beginning of EchoStar's spectrum portfolio being carved up and sold to other carriers. Starlink operator SpaceX has sought access to some of EchoStar's spectrum, alleging that the company isn't putting it to good use. An EchoStar announcement today said, \"EchoStar has entered into a definitive agreement with AT&T to sell the company's 3.45 GHz and 600 MHz spectrum licenses—a total of 50 MHz of nationwide spectrum—for approximately $23 billion, subject to regulatory approval. In addition, the companies have amended their network services agreement to create a hybrid mobile network operator (MNO) relationship. This transaction is part of EchoStar's ongoing efforts to resolve the Federal Communications Commission's (FCC) inquiries.\"Read full article Comments",
+          "feed_position": 7,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/getty-att-logo-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/getty-att-logo-1152x648.jpg",
+      "popularity_score": 293.26299222222224,
+      "ai_summary": [
+        "The FCC chairman is helping AT&T cement dominance with a spectrum deal.",
+        "EchoStar is selling spectrum to AT&T after the FCC threatened to revoke licenses.",
+        "The deal involves a significant amount of radio frequency spectrum.",
+        "The transaction could impact competition in the telecommunications market.",
+        "The FCC's involvement highlights the regulatory aspects of the deal."
       ]
     },
     {
       "id": "cluster_45",
-      "coverage": 2,
-      "updated_at": "2025-08-26T12:12:16-04:00",
-      "title": "Apple’s iPhone 17 launch event is set for September 9th",
-      "neutral_headline": "Apple’s iPhone 17 launch event is set for September 9th",
-      "items": [
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/apple/766062/apple-iphone-17-launch-event-awe-dropping",
-          "published_at": "2025-08-26T12:12:16-04:00",
-          "title": "Apple’s iPhone 17 launch event is set for September 9th",
-          "standfirst": "Apple has announced the date of its next big event: September 9th, 2025, at 1PM ET / 10AM PT. The event, which has the tagline “Awe dropping,” will take place at the Steve Jobs Theater in Apple Park. This is where we expect to hear more about the iPhone 17 lineup, which rumors (and at [&#8230;]",
-          "content": "Apple has announced the date of its next big event: September 9th, 2025, at 1PM ET / 10AM PT. The event, which has the tagline “Awe dropping,” will take place at the Steve Jobs Theater in Apple Park. This is where we expect to hear more about the iPhone 17 lineup, which rumors (and at least one supposed public sighting) indicate will add a Google Pixel-like camera bar on the rear. It’s also another opportunity for Apple to talk about its Liquid Glass software revamp that’s part of iOS 26 and its other software updates, and the future of Apple Intelligence features like AI upgrades for Siri. The star of the show could be a slim new 6.6-inch “iPhone 17 Air” model, which would have fewer camera lenses, but shave some thickness as part of a years-long approach by Apple to revamp the look and feel of its iPhones before it eventually adds a foldable version to the mix, and in 2027, a rumored 20th Anniversary iPhone with curved glass edges and slimmer bezels. Correction, August 26th: An earlier version of this post listed the wrong year — the event will take place in 2025, not 2024.",
-          "feed_position": 4
-        },
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/250826/p23#a250826p23",
-          "published_at": "Tue, 26 Aug 2025 12:02:35 -0400",
-          "title": "Apple announces an \"Awe dropping\" event on September 9 at 10AM PT at Apple Park, where the iPhone 17 lineup, new Apple Watch models, and more are expected (Juli Clover/MacRumors)",
-          "standfirst": "Juli Clover / MacRumors: Apple announces an &ldquo;Awe dropping&rdquo; event on September 9 at 10AM PT at Apple Park, where the iPhone 17 lineup, new Apple Watch models, and more are expected &mdash; Apple will hold its annual iPhone-centric event on Tuesday, September 9 at the Apple Park campus in Cupertino, California &hellip;",
-          "content": "Juli Clover / MacRumors: Apple announces an &ldquo;Awe dropping&rdquo; event on September 9 at 10AM PT at Apple Park, where the iPhone 17 lineup, new Apple Watch models, and more are expected &mdash; Apple will hold its annual iPhone-centric event on Tuesday, September 9 at the Apple Park campus in Cupertino, California &hellip;",
-          "feed_position": 8,
-          "image_url": "http://www.techmeme.com/250826/i23.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/250826/i23.jpg",
-      "popularity_score": 2016.9488675,
-      "ai_summary": [
-        "Apple announced an event for September 9, 2025, at 1 PM ET.",
-        "The event will be held at the Steve Jobs Theater in Apple Park.",
-        "The event's tagline is \"Awe dropping\".",
-        "The iPhone 17 lineup is expected to be unveiled at the event.",
-        "New Apple Watch models and other products may also be announced."
-      ]
-    },
-    {
-      "id": "cluster_52",
-      "coverage": 2,
-      "updated_at": "Tue, 26 Aug 2025 12:00:50 -0400",
-      "title": "YouTube rolls out Hype, which lets users boost creators with under 500K subscribers via a hype button that gives videos points, in the US and 38 other countries (Sarah Perez/TechCrunch)",
-      "neutral_headline": "YouTube rolls out Hype, which lets users boost creators with under 500K subscribers via a hype button that gives videos points, in the US and 38 other countries",
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/250826/p22#a250826p22",
-          "published_at": "Tue, 26 Aug 2025 12:00:50 -0400",
-          "title": "YouTube rolls out Hype, which lets users boost creators with under 500K subscribers via a hype button that gives videos points, in the US and 38 other countries (Sarah Perez/TechCrunch)",
-          "standfirst": "Sarah Perez / TechCrunch: YouTube rolls out Hype, which lets users boost creators with under 500K subscribers via a hype button that gives videos points, in the US and 38 other countries &mdash; YouTube's &ldquo;Hype&rdquo; feature, which allows fans to help their favorite creators get discovered, is rolling out globally, the company announced Tuesday.",
-          "content": "Sarah Perez / TechCrunch: YouTube rolls out Hype, which lets users boost creators with under 500K subscribers via a hype button that gives videos points, in the US and 38 other countries &mdash; YouTube's &ldquo;Hype&rdquo; feature, which allows fans to help their favorite creators get discovered, is rolling out globally, the company announced Tuesday.",
-          "feed_position": 9,
-          "image_url": "http://www.techmeme.com/250826/i22.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2025/08/26/youtubes-hype-feature-that-boosts-smaller-creators-launches-globally/",
-          "published_at": "Tue, 26 Aug 2025 15:33:49 +0000",
-          "title": "YouTube&#8217;s &#8216;Hype&#8217; feature that boosts smaller creators launches globally",
-          "standfirst": "Viewers have the opportunity to hype up to three videos per week for a favorite creator. This gives the video points, which helps it gain traction on a new, ranked leaderboard.",
-          "content": "Viewers have the opportunity to hype up to three videos per week for a favorite creator. This gives the video points, which helps it gain traction on a new, ranked leaderboard.",
-          "feed_position": 11
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/250826/i22.jpg",
-      "popularity_score": 2016.7583119444444,
-      "ai_summary": [
-        "YouTube is rolling out its \"Hype\" feature globally.",
-        "The feature allows viewers to support creators with under 500K subscribers.",
-        "Viewers can \"hype\" up to three videos per week.",
-        "Hype gives videos points, helping them gain traction.",
-        "A ranked leaderboard will track the most hyped videos."
-      ]
-    },
-    {
-      "id": "cluster_57",
-      "coverage": 2,
-      "updated_at": "Tue, 26 Aug 2025 11:50:03 -0400",
-      "title": "Framework unveils a second-generation Framework Laptop 16 with a swappable Nvidia RTX 5070 GPU, an industry first, shipping in November 2025 for $2,199+ (Sean Hollister/The Verge)",
-      "neutral_headline": "Framework unveils a second-generation Framework Laptop 16 with a swappable Nvidia RTX 5070 GPU, an industry first, shipping in November 2025 for $2,199+",
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/250826/p21#a250826p21",
-          "published_at": "Tue, 26 Aug 2025 11:50:03 -0400",
-          "title": "Framework unveils a second-generation Framework Laptop 16 with a swappable Nvidia RTX 5070 GPU, an industry first, shipping in November 2025 for $2,199+ (Sean Hollister/The Verge)",
-          "standfirst": "Sean Hollister / The Verge: Framework unveils a second-generation Framework Laptop 16 with a swappable Nvidia RTX 5070 GPU, an industry first, shipping in November 2025 for $2,199+ &mdash; The second-gen Framework Laptop 16 is coming in November &mdash; but the bigger deal is an upgradable laptop GPU.",
-          "content": "Sean Hollister / The Verge: Framework unveils a second-generation Framework Laptop 16 with a swappable Nvidia RTX 5070 GPU, an industry first, shipping in November 2025 for $2,199+ &mdash; The second-gen Framework Laptop 16 is coming in November &mdash; but the bigger deal is an upgradable laptop GPU.",
-          "feed_position": 10,
-          "image_url": "http://www.techmeme.com/250826/i21.jpg"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/framework-laptop-16-nvidia-rtx-5070/",
-          "published_at": "Tue, 26 Aug 2025 15:05:00 +0000",
-          "title": "The Framework Laptop 16 Can Now Be Upgraded to an RTX 5070",
-          "standfirst": "The Nvidia RTX 5070 is coming to the Framework Laptop 16, proving that upgradable GPUs in laptops aren’t just a fool’s errand.",
-          "content": "The Nvidia RTX 5070 is coming to the Framework Laptop 16, proving that upgradable GPUs in laptops aren’t just a fool’s errand.",
-          "feed_position": 6,
-          "image_url": "https://media.wired.com/photos/68acd340616351f0e895a078/master/pass/The%20Framework%20Laptop%2016%20Gets%20a%20Major%20GPU%20Upgrade.png"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/250826/i21.jpg",
-      "popularity_score": 2016.5785897222222,
-      "ai_summary": [
-        "Framework unveiled the second-generation Framework Laptop 16.",
-        "The laptop features a swappable Nvidia RTX 5070 GPU.",
-        "The laptop is expected to ship in November 2025.",
-        "The starting price for the laptop will be $2,199 or more.",
-        "This is the first laptop with an upgradable GPU."
-      ]
-    },
-    {
-      "id": "cluster_15",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 18:16:50 +0000",
-      "title": "Apple’s next iPhone event is happening September 9 at 1 pm Eastern",
-      "neutral_headline": "Apple’s next iPhone event is happening September 9 at 1 pm Eastern",
+      "title": "Apple set to unveil next-gen iPhones and other devices on September 9",
+      "neutral_headline": "Apple to Unveil New iPhones and Devices September 9",
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/apple/2025/08/apples-next-iphone-event-is-happening-september-9-at-1-pm-eastern/",
           "published_at": "Tue, 26 Aug 2025 18:16:50 +0000",
-          "title": "Apple’s next iPhone event is happening September 9 at 1 pm Eastern",
+          "title": "Apple set to unveil next-gen iPhones and other devices on September 9",
           "standfirst": "Expect Apple's next-gen iPhones, software release dates, and some other devices.",
           "content": "Apple is hosting its next product event on Tuesday, September 9, at 10 am Pacific and 1 pm Eastern, the company announced today. Though Apple's event announcements rarely indicate what the company plans to talk about, the company's September events for well over a decade have all revolved around the iPhone. The event will be available to stream from YouTube or from Apple's events website. Rumors about this year's iPhones point to a more significant redesign than in recent years, though Apple isn't (yet?) ready to jump into the world of foldable phones. In addition to new, wider camera areas that span the backs of the devices, the most reliable rumors suggest we'll be getting a new \"iPhone Air\" that prioritizes thinness and lightness. We're also expecting a standard iPhone 17, an iPhone 17 Pro, and an iPhone 17 Pro Max; the non-Pro Max version of the iPhone may be going away, following in the footsteps of the iPhone mini design from a few years ago.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Screenshot-2025-08-26-at-1.20.05-PM-1152x648-1756230133.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Screenshot-2025-08-26-at-1.20.05-PM-1152x648-1756230133.jpeg",
-      "popularity_score": 370.0249786111111,
+      "popularity_score": 285.99382555555553,
       "ai_summary": [
-        "Apple's next iPhone event is scheduled for September 9.",
-        "The event will begin at 1:00 PM Eastern Time.",
-        "New iPhones are expected to be announced at the event.",
-        "Software release dates will likely be revealed.",
-        "Other devices may also be unveiled at the event."
+        "Apple is set to unveil next-generation iPhones and other devices on September 9.",
+        "The event will likely feature new iPhones, software release dates, and other products.",
+        "The announcement will generate significant interest from consumers and investors.",
+        "The company is expected to showcase its latest technological advancements.",
+        "The event marks a key moment in Apple's product cycle."
       ]
     },
     {
-      "id": "cluster_11",
-      "coverage": 1,
-      "updated_at": "Tue, 26 Aug 2025 18:32:59 +0000",
-      "title": "FCC chairman helps AT&#038;T cement dominance with $23 billion spectrum deal",
-      "neutral_headline": "FCC chairman helps AT&#038;T cement dominance with $23 billion spectrum deal",
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/tech-policy/2025/08/att-to-buy-echostar-spectrum-for-23b-further-entrenching-big-3-oligopoly/",
-          "published_at": "Tue, 26 Aug 2025 18:32:59 +0000",
-          "title": "FCC chairman helps AT&#038;T cement dominance with $23 billion spectrum deal",
-          "standfirst": "EchoStar selling spectrum to AT&#038;T after FCC threatened to revoke licenses.",
-          "content": "EchoStar has agreed to sell $23 billion worth of spectrum licenses to AT&T in a deal spurred by threats made by the Federal Communications Commission to revoke EchoStar's rights to use the spectrum. AT&T said it will use the spectrum to boost its 5G mobile network and expand its fixed wireless home Internet service. The AT&T/EchoStar deal, which is expected to be completed in mid-2026, could mark the beginning of EchoStar's spectrum portfolio being carved up and sold to other carriers. Starlink operator SpaceX has sought access to some of EchoStar's spectrum, alleging that the company isn't putting it to good use. An EchoStar announcement today said, \"EchoStar has entered into a definitive agreement with AT&T to sell the company's 3.45 GHz and 600 MHz spectrum licenses—a total of 50 MHz of nationwide spectrum—for approximately $23 billion, subject to regulatory approval. In addition, the companies have amended their network services agreement to create a hybrid mobile network operator (MNO) relationship. This transaction is part of EchoStar's ongoing efforts to resolve the Federal Communications Commission's (FCC) inquiries.\"Read full article Comments",
-          "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/getty-att-logo-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/getty-att-logo-1152x648.jpg",
-      "popularity_score": 367.2941452777778,
-      "ai_summary": [
-        "The FCC chairman facilitated a spectrum deal for AT&T.",
-        "EchoStar is selling spectrum to AT&T.",
-        "The deal is worth $23 billion.",
-        "The FCC threatened to revoke EchoStar's licenses.",
-        "The deal strengthens AT&T's market position."
-      ]
-    },
-    {
-      "id": "cluster_19",
+      "id": "cluster_48",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 18:09:32 +0000",
-      "title": "2025 Mazda MX-5 RF review: Why this folding hardtop isn’t the one to get",
-      "neutral_headline": "2025 Mazda MX-5 RF review: Why this folding hardtop isn’t the one to get",
+      "title": "2025 Mazda MX-5 RF review: Buy the soft top; the hardtop sucks",
+      "neutral_headline": "Mazda MX-5 RF Review: Soft Top Preferred",
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/cars/2025/08/2025-mazda-mx-5-rf-review-why-this-folding-hardtop-isnt-the-one-to-get/",
           "published_at": "Tue, 26 Aug 2025 18:09:32 +0000",
-          "title": "2025 Mazda MX-5 RF review: Why this folding hardtop isn’t the one to get",
+          "title": "2025 Mazda MX-5 RF review: Buy the soft top; the hardtop sucks",
           "standfirst": "The soft top is cheaper and, oddly, more refined.",
           "content": "In the golden days of the Internet, before dysfunctional social media, when forums ruled the roost and people formed communities, someone looking for car advice would invariably be told, more than once, \"Just get a Miata.\" For 35 years, the Miata, or MX-5 as it's better known globally, has stuck to the same simple recipe: two seats and a four-cylinder engine in front that drives the rear wheels behind, wrapped in about as small of a body as is possible while still meeting international crash regulations. Mazda cribbed the recipe from British sports cars of the 1960s but crucially added something those cars lacked—bulletproof reliability and economy-car running costs. Factor in that MX-5s are a joy to drive, and you can see why people online were so quick to recommend what must be the most accessible sports car of all time. Today, I am going to buck that trend. Well, sort of. Because the take-home from this review is: Buy the 2025 MX-5 Miata, just not the RF.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/2025-Mazda-MX-5-Miata-RF-1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/2025-Mazda-MX-5-Miata-RF-1-1152x648.jpg",
-      "popularity_score": 352.90331194444445,
+      "popularity_score": 268.87215888888886,
       "ai_summary": [
-        "A review of the 2025 Mazda MX-5 RF was published.",
-        "The review suggests the folding hardtop is not the best option.",
-        "The soft top version is cheaper.",
-        "The soft top is considered more refined.",
-        "The review highlights the differences between the two models."
+        "The 2025 Mazda MX-5 RF review favors the soft top over the hardtop.",
+        "The soft top version is cheaper and, surprisingly, more refined.",
+        "The review highlights the differences between the two roof options.",
+        "The hardtop version is considered less desirable in the review.",
+        "The assessment provides guidance for potential buyers."
       ]
     },
     {
-      "id": "cluster_70",
+      "id": "cluster_90",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 14:43:41 +0000",
       "title": "Google’s AI model just nailed the forecast for the strongest Atlantic storm this year",
-      "neutral_headline": "Google’s AI model just nailed the forecast for the strongest Atlantic storm this year",
+      "neutral_headline": "Google AI Model Accurately Forecasts Strongest Atlantic Storm",
       "items": [
         {
           "source": "Ars Technica",
@@ -304,26 +573,26 @@
           "title": "Google’s AI model just nailed the forecast for the strongest Atlantic storm this year",
           "standfirst": "If they improve further, AI weather models may very well become the gold standard.",
           "content": "In early June, shortly after the beginning of the Atlantic hurricane season, Google unveiled a new model designed specifically to forecast the tracks and intensity of tropical cyclones. Part of the Google DeepMind suite of AI-based weather research models, the \"Weather Lab\" model for cyclones was a bit of an unknown for meteorologists at its launch. In a blog post at the time, Google said its new model, trained on a vast dataset that reconstructed past weather and a specialized database containing key information about hurricanes tracks, intensity, and size, had performed well during pre-launch testing. \"Internal testing shows that our model's predictions for cyclone track and intensity are as accurate as, and often more accurate than, current physics-based methods,\" the company said.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/20252281710_GOES19-ABI-taw-GEOCOLOR-1800x1080-1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/20252281710_GOES19-ABI-taw-GEOCOLOR-1800x1080-1-1152x648.jpg",
-      "popularity_score": 325.4724786111111,
+      "popularity_score": 171.44132555555555,
       "ai_summary": [
-        "Google's AI model accurately predicted the strongest Atlantic storm.",
-        "The AI model's forecast was highly accurate.",
-        "AI weather models may become the gold standard.",
-        "The model's success highlights the potential of AI in forecasting.",
-        "Further improvements could enhance weather prediction accuracy."
+        "Google's AI model accurately predicted the strongest Atlantic storm this year.",
+        "If AI models improve further, they may become the gold standard for weather forecasting.",
+        "The AI model's success demonstrates advancements in weather prediction.",
+        "The technology could lead to more accurate and timely weather warnings.",
+        "The achievement highlights the potential of AI in scientific applications."
       ]
     },
     {
-      "id": "cluster_64",
+      "id": "cluster_86",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 15:05:51 +0000",
       "title": "Framework Laptop 16 update brings Nvidia GeForce to the modular gaming laptop",
-      "neutral_headline": "Framework Laptop 16 update brings Nvidia GeForce to the modular gaming laptop",
+      "neutral_headline": "Framework Laptop 16 Update Brings Nvidia GeForce",
       "items": [
         {
           "source": "Ars Technica",
@@ -332,26 +601,26 @@
           "title": "Framework Laptop 16 update brings Nvidia GeForce to the modular gaming laptop",
           "standfirst": "Older Ryzen 7040-based model will stick around at $1,299 as a lower-end option.",
           "content": "It's been a busy year for Framework, the company behind the now well-established series of repairable, upgradeable, modular laptops (and one paradoxically less-upgradeable desktop). The company has launched a version of the Framework Laptop 13 with Ryzen AI processors, the new Framework Laptop 12, and the aforementioned desktop in the last six months, and last week, Framework teased that it still had \"something big coming.\" That \"something big\" turns out to be the first-ever update to the Framework Laptop 16, Framework's more powerful gaming-laptop-slash-mobile-workstation. Framework is updating the laptop with Ryzen AI processors and new integrated Radeon GPUs and is introducing a new graphics module with the mobile version of Nvidia's GeForce RTX 5070—one that's also fully compatible with the original Laptop 16, for upgraders. Preorders for the new laptop open today, and pricing starts at $1,499 for a DIY Edition without RAM, storage, an OS, or Expansion Cards, a $100 increase from the price of the first Framework Laptop 16. The first units will begin shipping in November.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 11,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/FW16-Hero-Alt-1-1152x648.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/FW16-Hero-Alt-1-1152x648.jpeg",
-      "popularity_score": 318.8419230555555,
+      "popularity_score": 144.81077,
       "ai_summary": [
-        "The Framework Laptop 16 is getting an update.",
-        "The update includes Nvidia GeForce graphics cards.",
-        "The older Ryzen 7040-based model will remain available.",
-        "The older model will be priced at $1,299.",
-        "The update offers a lower-end option."
+        "The Framework Laptop 16 update introduces Nvidia GeForce graphics options.",
+        "The older Ryzen 7040-based model will remain available at a lower price.",
+        "The update enhances the laptop's gaming and performance capabilities.",
+        "The modular design allows for component upgrades and customization.",
+        "The announcement caters to users seeking a high-performance laptop."
       ]
     },
     {
-      "id": "cluster_68",
+      "id": "cluster_89",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 15:00:59 +0000",
       "title": "Scientists unlock secret to thick, stable beer foams",
-      "neutral_headline": "Scientists unlock secret to thick, stable beer foams",
+      "neutral_headline": "Scientists Discover Secret to Stable Beer Foams",
       "items": [
         {
           "source": "Ars Technica",
@@ -360,26 +629,26 @@
           "title": "Scientists unlock secret to thick, stable beer foams",
           "standfirst": "Triple-fermented Belgian beers have the longest-lasting foam; single-fermented lagers have the shortest.",
           "content": "For many beer lovers, a nice thick head of foam is one of life's pure pleasures, and the longer that foam lasts, the better the beer-drinking experience. A team of Swiss researchers spent seven years studying why some beer foams last longer than others and found that the degree of fermentation—i.e., whether a given beer has been singly, doubly, or triply fermented—is crucial, according to a new paper published in the journal Physics of Fluids. As previously reported, foams are ubiquitous in everyday life, found in foods (whipped cream), beverages (beer, cappuccino), shaving cream and hair-styling mousse, packing peanuts, building insulation, flame-retardant materials, and so forth. All foams are the result of air being beaten into a liquid formula that contains some kind of surfactant (active surface agent), usually fats or proteins in edible foams, or chemical additives in non-edible products. That surfactant strengthens the liquid film walls of the bubbles to keep them from collapsing. Individual bubbles typically form a sphere because that's the shape with the minimum surface area for any volume and hence is the most energy-efficient. One reason for the minimizing principle when it comes to a bubble's shape is that many bubbles can then tightly pack together to form a foam. But bubbles \"coarsen\" over time, the result of gravity pulling down on the liquid and thinning out the walls. Eventually, they start to look more like soccer balls (polyhedrons). In a coarsening foam, smaller bubbles are gradually absorbed by larger ones. There is less and less liquid to separate the individual bubbles, so they press together to fill the space.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 12,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/beerfoam1-1152x648-1756137042.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/beerfoam1-1152x648-1756137042.jpg",
-      "popularity_score": 308.76081194444447,
+      "popularity_score": 144.72965888888888,
       "ai_summary": [
-        "Scientists have discovered the secret to stable beer foams.",
+        "Scientists have unlocked the secret to creating thick, stable beer foams.",
         "Triple-fermented Belgian beers have the longest-lasting foam.",
         "Single-fermented lagers have the shortest-lasting foam.",
-        "The research explains foam stability differences.",
-        "The findings could improve beer production."
+        "The research provides insights into beer brewing processes.",
+        "The findings could help brewers improve foam quality."
       ]
     },
     {
-      "id": "cluster_79",
+      "id": "cluster_97",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 13:53:41 +0000",
       "title": "Trump admin issues stop-work order for offshore wind project",
-      "neutral_headline": "Trump Administration Halts Offshore Wind Project Development",
+      "neutral_headline": "Trump Admin Issues Stop-Work Order for Offshore Wind Project",
       "items": [
         {
           "source": "Ars Technica",
@@ -388,26 +657,26 @@
           "title": "Trump admin issues stop-work order for offshore wind project",
           "standfirst": "Project was 80 percent complete and was slated to power more than 350,000 homes.",
           "content": "The Trump administration on Friday issued an order to stop work on a nearly complete offshore wind energy project, the latest step in the Trump administration’s crackdown on wind power. In a letter to Orsted, the Danish company developing Revolution Wind, the Bureau of Ocean Energy Management said its order is tied to concerns about “the protection of national security interests of the United States and prevention of interference with reasonable uses of the exclusive economic zone, the high seas, and the territorial seas.” The letter did not explain why the project posed national security concerns or interfered with reasonable uses of the area. BOEM did not respond to emailed questions.Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2193740951-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2193740951-1152x648.jpg",
-      "popularity_score": 287.6391452777778,
+      "popularity_score": 143.6079922222222,
       "ai_summary": [
         "The Trump administration issued a stop-work order for an offshore wind project.",
-        "The project was nearly complete, with 80 percent of construction finished.",
-        "It was designed to provide power for over 350,000 homes.",
-        "The project's development was halted by the government's order.",
-        "The order's impact includes the cessation of project activities."
+        "The project was 80 percent complete when the order was issued.",
+        "The wind farm was slated to power over 350,000 homes.",
+        "The decision has implications for renewable energy development.",
+        "The order halted a significant clean energy initiative."
       ]
     },
     {
-      "id": "cluster_82",
+      "id": "cluster_100",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 13:20:19 +0000",
       "title": "Ars Live: Consumer tech firms stuck scrambling ahead of looming chip tariffs",
-      "neutral_headline": "Consumer Tech Firms Face Chip Tariff Challenges",
+      "neutral_headline": "Ars Live: Consumer tech firms stuck scrambling ahead of looming chip tariffs",
       "items": [
         {
           "source": "Ars Technica",
@@ -416,54 +685,26 @@
           "title": "Ars Live: Consumer tech firms stuck scrambling ahead of looming chip tariffs",
           "standfirst": "Update: This Ars Live session has been rescheduled.",
           "content": "We're roughly six months into Donald Trump's trade war, and tech firms remain in a fog, unsure what tariffs or retaliations could be coming next. To shed light on this struggle, we invite you to join us for an Ars Live talk at 3 pm ET on Tuesday, September 2, with Consumer Technology Association (CTA) Vice President of International Trade Edward Brzytwa. We'll be discussing how tech firms are responding to tariffs so far and how looming chip tariffs could pose the biggest hurdle yet in sourcing alternative supply chains. And anyone joining will have an opportunity to ask their biggest questions about how tariffs could impact consumer tech. Before Trump even took office, experts had warned that his global trade war—imposing tariffs on imports of various goods from various countries in a bid to strike more favorable trade deals for the US—risked spiking prices of popular tech products like laptops, game consoles, and smartphones.Read full article Comments",
-          "feed_position": 7,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2208792185-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2208792185-1152x648.jpg",
-      "popularity_score": 277.08303416666666,
+      "popularity_score": 143.0518811111111,
       "ai_summary": [
-        "Consumer tech companies are facing challenges related to upcoming chip tariffs.",
-        "The original Ars Live session was rescheduled due to unforeseen circumstances.",
-        "The session was intended to discuss the impact of tariffs on the industry.",
-        "The rescheduling indicates the importance of the topic for tech firms.",
-        "The event's focus is on the effects of tariffs on consumer technology."
+        "This Ars Live session has been rescheduled.",
+        "The original topic was about consumer tech firms.",
+        "The firms were facing looming chip tariffs.",
+        "The session was meant to discuss the situation.",
+        "The rescheduling suggests a change in plans."
       ]
     },
     {
-      "id": "cluster_106",
-      "coverage": 1,
-      "updated_at": "Mon, 25 Aug 2025 20:52:55 +0000",
-      "title": "Google will block sideloading of unverified Android apps starting next year",
-      "neutral_headline": "Google to Block Unverified Android App Sideloading",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2025/08/google-will-block-sideloading-of-unverified-android-apps-starting-next-year/",
-          "published_at": "Mon, 25 Aug 2025 20:52:55 +0000",
-          "title": "Google will block sideloading of unverified Android apps starting next year",
-          "standfirst": "Google says it's no different than checking IDs at the airport.",
-          "content": "Android's open nature set it apart from the iPhone as the era of touchscreen smartphones began nearly two decades ago. Little by little, Google has traded some of that openness for security, and its next security initiative could make the biggest concessions yet in the name of blocking bad apps. Google has announced plans to begin verifying the identities of all Android app developers, and not just those publishing on the Play Store. Google intends to verify developer identities no matter where they offer their content, and apps without verification won't work on most Android devices in the coming years. Google used to do very little curation of the Play Store (or Android Market, if you go back far enough), but it has long sought to improve the platform's reputation as being less secure than the Apple App Store. Years ago, you could publish actual exploits in the official store to gain root access on phones, but now there are multiple reviews and detection mechanisms to reduce the prevalence of malware and banned content. While the Play Store is still not perfect, Google claims apps sideloaded from outside its store are 50 times more likely to contain malware. This, we are led to believe, is the impetus for Google's new developer verification system. The company describes it like an \"ID check at the airport.\" Since requiring all Google Play app developers to verify their identities in 2023, it has seen a precipitous drop in malware and fraud. Bad actors in Google Play leveraged anonymity to distribute malicious apps, so it stands to reason that verifying app developers outside of Google Play could also enhance security.Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg",
-      "popularity_score": 265,
-      "ai_summary": [
-        "Google will block sideloading of unverified Android apps starting next year.",
-        "The company compares the process to checking identification at airports.",
-        "This change aims to enhance the security of the Android ecosystem.",
-        "The new policy will affect how users install applications.",
-        "Google intends to improve user safety with this new measure."
-      ]
-    },
-    {
-      "id": "cluster_109",
+      "id": "cluster_124",
       "coverage": 1,
       "updated_at": "Mon, 25 Aug 2025 19:58:07 +0000",
       "title": "Senator castigates federal judiciary for ignoring “basic cybersecurity”",
-      "neutral_headline": "Senator Criticizes Federal Judiciary's Cybersecurity Practices",
+      "neutral_headline": "Senator criticizes judiciary for ignoring cybersecurity breaches",
       "items": [
         {
           "source": "Ars Technica",
@@ -472,166 +713,26 @@
           "title": "Senator castigates federal judiciary for ignoring “basic cybersecurity”",
           "standfirst": "Breaches in 2020 and 2025, reportedly by foreign adversaries, exposed confidential files.",
           "content": "US Senator Ron Wyden accused the federal judiciary of “negligence and incompetence” following a recent hack, reportedly by hackers with ties to the Russian government, that exposed confidential court documents. The breach of the judiciary’s electronic case filing system first came to light in a report by Politico three weeks ago, which went on to say that the vulnerabilities exploited in the hack were known since 2020. The New York Times, citing people familiar with the intrusion, said that Russia was \"at least partly responsible\" for the hack. A “severe threat” to national security Two overlapping filing platforms—one known as the CM/ECF (Case Management/Electronic Case Files) and the other PACER—were breached in 2020 in an attack that closely resembled the most recently reported one. The second compromise was first detected around July 5, Politico reported, citing two unnamed sources who weren’t authorized to speak to reporters. Discovery of the hack came a month after Michael Scudder, a judge chairing the Committee on Information Technology for the federal courts’ national policymaking body, told members of the House Judiciary Committee that the federal court system is under constant attack by increasingly sophisticated hackers.Read full article Comments",
-          "feed_position": 9,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "popularity_score": 253,
+      "popularity_score": 143,
       "ai_summary": [
-        "A senator criticized the federal judiciary for ignoring cybersecurity basics.",
-        "Breaches in 2020 and 2025 exposed confidential files.",
-        "The breaches were reportedly conducted by foreign adversaries.",
-        "The senator's criticism highlights security vulnerabilities.",
-        "The incidents underscore the need for improved cybersecurity measures."
+        "Senator criticized the federal judiciary for ignoring basic cybersecurity protocols.",
+        "Breaches in 2020 and 2025 exposed confidential files, reportedly by foreign adversaries.",
+        "The senator's concerns highlight vulnerabilities within the judicial system.",
+        "The breaches raise questions about data protection and national security.",
+        "The senator's statements call for improved cybersecurity measures."
       ]
     },
     {
-      "id": "cluster_112",
-      "coverage": 1,
-      "updated_at": "Mon, 25 Aug 2025 19:28:53 +0000",
-      "title": "Elon Musk sues Apple and OpenAI, revealing his panic over OpenAI dominance",
-      "neutral_headline": "Elon Musk Sues Apple and OpenAI Over OpenAI Dominance",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/",
-          "published_at": "Mon, 25 Aug 2025 19:28:53 +0000",
-          "title": "Elon Musk sues Apple and OpenAI, revealing his panic over OpenAI dominance",
-          "standfirst": "OpenAI slams Musk’s lawsuit as part of his \"ongoing pattern of harassment.\"",
-          "content": "After a public outburst over Grok's App Store rankings, on Monday, Elon Musk followed through on his threat to sue Apple and OpenAI. At first, Musk appeared fixated on ChatGPT consistently topping Apple's \"Must Have\" app list—which Grok has never made—claiming Apple seemed to preference OpenAI, an Apple partner, over all chatbot rivals. But Musk's filing shows that the X and xAI owner isn't just trying to push for more Grok downloads on iPhones—he's concerned that Apple and OpenAI have teamed up to completely dash his \"everything app\" dreams, which was the reason he bought Twitter. At this point appearing to be genuinely panicked about OpenAI's insurmountable lead in the chatbot market, Musk has specifically alleged that an agreement integrating ChatGPT into the iOS violated antitrust and unfair competition laws. Allegedly, the conspiracy is designed to protect Apple's smartphone monopoly and block out AI rivals to lock in OpenAI's dominance in the chatbot market.Read full article Comments",
-          "feed_position": 12,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2198394113-1152x648-1756145899.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2198394113-1152x648-1756145899.jpg",
-      "popularity_score": 166,
-      "ai_summary": [
-        "Elon Musk is suing Apple and OpenAI, expressing concern over OpenAI's dominance.",
-        "OpenAI has criticized Musk's lawsuit as part of his \"ongoing pattern of harassment.\"",
-        "The lawsuit reflects Musk's anxieties regarding OpenAI's influence.",
-        "The legal action highlights the ongoing tensions in the AI field.",
-        "The case involves significant figures in the technology industry."
-      ]
-    },
-    {
-      "id": "cluster_117",
-      "coverage": 1,
-      "updated_at": "Mon, 25 Aug 2025 18:16:43 +0000",
-      "title": "YouTube secretly tested AI video enhancement without notifying creators",
-      "neutral_headline": "YouTube Tested AI Video Enhancement Without Creator Notification",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/google/2025/08/youtube-secretly-tested-ai-video-enhancement-without-notifying-creators/",
-          "published_at": "Mon, 25 Aug 2025 18:16:43 +0000",
-          "title": "YouTube secretly tested AI video enhancement without notifying creators",
-          "standfirst": "Google says this isn't technically \"GenAI,\" but it is altering videos without warning.",
-          "content": "Is it a conspiracy? For months, YouTubers have been quietly griping that something looked off in their recent video uploads. Following a deeper analysis by a popular music channel, Google has now confirmed that it has been testing a feature that uses AI to artificially enhance videos. The company claims this is part of its effort to \"provide the best video quality,\" but it's odd that it began doing so without notifying creators or offering any way to opt out of the experiment. Google's test raised eyebrows almost immediately after it began rolling out in YouTube Shorts earlier this year. Users reported strange artifacts, edge distortion, and distracting smoothness that gives the appearance of AI alteration. If you've ever zoomed in close after taking a photo with your smartphone only to notice things look oversharpened or like an oil painting, that's the effect of Google's video processing test. According to Rene Ritchie, YouTube's head of editorial, this isn't quite like the AI features Google has been cramming into every other product. In a post on X (formerly Twitter), Ritchie said the feature is not based on generative AI but instead uses \"traditional machine learning\" to reduce blur and noise while sharpening the image. Although, this is a distinction without a difference—it's still AI of a sort being used to modify videos.Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/youtube-logo-1152x648-1740156964.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/youtube-logo-1152x648-1740156964.jpg",
-      "popularity_score": 153,
-      "ai_summary": [
-        "YouTube secretly tested AI video enhancement without informing creators.",
-        "Google claims this is not technically \"GenAI\" but still alters videos.",
-        "The changes were made without providing prior warnings to creators.",
-        "The testing involved modifications to video content.",
-        "The lack of notification has raised concerns among creators."
-      ]
-    },
-    {
-      "id": "cluster_121",
-      "coverage": 1,
-      "updated_at": "Mon, 25 Aug 2025 17:17:20 +0000",
-      "title": "With a new Soyuz rocket, Russia seeks to break its Ukrainian dependency",
-      "neutral_headline": "Russia Seeks to Reduce Ukrainian Dependency with New Rocket",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2025/08/with-a-new-soyuz-rocket-russia-seeks-to-break-its-ukrainian-dependency/",
-          "published_at": "Mon, 25 Aug 2025 17:17:20 +0000",
-          "title": "With a new Soyuz rocket, Russia seeks to break its Ukrainian dependency",
-          "standfirst": "Now you Zenit, now you don't.",
-          "content": "In recent comments to the Russian state-run media service TASS, the chief of Roscosmos said the country's newest rocket, the Soyuz-5, should take flight for the first time before the end of this year. \"Yes, we are planning for December,\" said Dmitry Bakanov, the director of Roscosmos, Russia's main space corporation. \"Everything is in place.\" According to the report, translated for Ars by Rob Mitchell, the debut launch of Soyuz-5 will mark the first of several demonstration flights, with full operational service not expected to begin until 2028. It will launch from the Baikonur spaceport in Kazakhstan.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2202741417-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2202741417-1024x648.jpg",
-      "popularity_score": 148,
-      "ai_summary": [
-        "Russia aims to reduce its reliance on Ukraine with a new Soyuz rocket.",
-        "The new rocket is intended to replace Ukrainian-made components.",
-        "The project is part of Russia's efforts to achieve self-sufficiency.",
-        "The development reflects geopolitical shifts in the space industry.",
-        "The new rocket represents a strategic move by Russia."
-      ]
-    },
-    {
-      "id": "cluster_127",
-      "coverage": 1,
-      "updated_at": "Mon, 25 Aug 2025 14:51:50 +0000",
-      "title": "How the cavefish lost its eyes—again and again",
-      "neutral_headline": "Study Explains Cavefish Eye Loss Over Time",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2025/08/how-the-cavefish-lost-its-eyes-again-and-again/",
-          "published_at": "Mon, 25 Aug 2025 14:51:50 +0000",
-          "title": "How the cavefish lost its eyes—again and again",
-          "standfirst": "Mexican tetras in pitch-black caverns had no use for the energetically costly organs.",
-          "content": "Time and again, whenever a population was swept into a cave and survived long enough for natural selection to have its way, the eyes disappeared. “But it’s not that everything has been lost in cavefish,” says geneticist Jaya Krishnan of the Oklahoma Medical Research Foundation. “Many enhancements have also happened.” Though the demise of their eyes continues to fascinate biologists, in recent years, attention has shifted to other intriguing aspects of cavefish biology. It has become increasingly clear that they haven’t just lost sight but also gained many adaptations that help them to thrive in their cave environment, including some that may hold clues to treatments for obesity and diabetes in people. Casting off expensive eyes It has long been debated why the eyes were lost. Some biologists used to argue that they just withered away over generations because cave-dwelling animals with faulty eyes experienced no disadvantage. But another explanation is now considered more likely, says evolutionary physiologist Nicolas Rohner of the University of Münster in Germany: “Eyes are very expensive in terms of resources and energy. Most people now agree that there must be some advantage to losing them if you don’t need them.”Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/052918-cavefish_0.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/052918-cavefish_0.jpg",
-      "popularity_score": 145,
-      "ai_summary": [
-        "Cavefish have repeatedly lost their eyes over evolutionary time.",
-        "Mexican tetras in dark caverns had no use for eyes.",
-        "Eyes are energetically costly organs for the fish.",
-        "The fish adapted to the dark environment by losing their eyes.",
-        "This adaptation occurred multiple times in different populations."
-      ]
-    },
-    {
-      "id": "cluster_122",
-      "coverage": 1,
-      "updated_at": "Mon, 25 Aug 2025 17:07:05 +0000",
-      "title": "Study shows which vehicles pollute the least in every US county",
-      "neutral_headline": "Tool Shows Vehicle Pollution Levels by US County",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2025/08/study-shows-which-vehicles-pollute-the-least-in-every-us-county/",
-          "published_at": "Mon, 25 Aug 2025 17:07:05 +0000",
-          "title": "Study shows which vehicles pollute the least in every US county",
-          "standfirst": "A new tool lets you explore how much a vehicle would emit in every county of the US.",
-          "content": "Greenhouse gas reduction is no longer a priority for the US government, but if you're looking for a new vehicle and want to buy something with the lowest life cycle carbon emissions, you're best off looking for a compact with a small battery. That's one of the findings from a group at the University of Michigan of a comprehensive study that calculates the overall cradle-to-grave carbon impact for different types of vehicles, including factors like powertrain options, location (within the country), and use patterns. Even better, they built a tool you can use yourself. The study, published in Environmental Science and Technology, compares internal combustion engine powertrains with hybrid, 35- and 50-mile range plug-in hybrids, and 200-mile, 300-mile, and 400-mile battery electric powertrains across compact and midsize sedans, small and midsize SUVs, and pickup trucks, using a life cycle assessment model developed by Argonne National Laboratory and data of model year 2025 vehicles from the Environmental Protection Agency. If you expected that a gas-powered pickup truck would have the biggest carbon footprint, you'd be right. With a driving profile of 43 percent city driving and the rest highways (no cargo), a pickup will emit about 486 g CO2e per mile. Compared to that, a compact electric sedan with a 200-mile battery has just 17 percent of the life cycle emissions and is responsible for just 81 g CO2e per mile.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1207288037-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1207288037-1152x648.jpg",
-      "popularity_score": 139,
-      "ai_summary": [
-        "A new tool shows which vehicles pollute the least in every US county.",
-        "The tool allows users to explore vehicle emission levels.",
-        "It provides data on how much a vehicle would emit in each county.",
-        "The tool offers insights into environmental impact.",
-        "The data can be used to assess vehicle emissions."
-      ]
-    },
-    {
-      "id": "cluster_110",
+      "id": "cluster_125",
       "coverage": 1,
       "updated_at": "Mon, 25 Aug 2025 19:48:00 +0000",
       "title": "Blade Runner makes its live-action return next year",
-      "neutral_headline": "Blade Runner Live-Action Series Set for Next Year",
+      "neutral_headline": "Blade Runner series will return next year with Michelle Yeoh",
       "items": [
         {
           "source": "Ars Technica",
@@ -640,26 +741,26 @@
           "title": "Blade Runner makes its live-action return next year",
           "standfirst": "New series will star Michelle Yeoh and take place 50 years after the 2017 film.",
           "content": "Blade Runner's third live-action entry will be a streaming miniseries on Amazon Prime Video, and Deadline reports that it is now slated for release in 2026. \"The update was provided by Laura Lancaster, Head of US SVOD TV Development and Series – Co-Productions at Amazon MGM Studios, in an internal memo announcing promotions for two executives, Kara Smith and Tom Lieber,\" Deadline explained. We previously reported that the series, titled Blade Runner 2099, had been greenlit under original film director Ridley Scott back in 2022.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/blade-runner-2049-trailer3-700x293.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/blade-runner-2049-trailer3-700x293.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "A live-action Blade Runner series is scheduled for release next year.",
-        "The series will star Michelle Yeoh in a leading role.",
-        "The story takes place 50 years after the 2017 film.",
-        "The series will expand the Blade Runner universe.",
-        "The production marks a return to the franchise."
+        "A new Blade Runner series is set to premiere next year.",
+        "Michelle Yeoh will star in the live-action series.",
+        "The series will take place fifty years after the 2017 film.",
+        "The series will explore the Blade Runner universe further.",
+        "The series promises to expand the franchise's narrative."
       ]
     },
     {
-      "id": "cluster_111",
+      "id": "cluster_126",
       "coverage": 1,
       "updated_at": "Mon, 25 Aug 2025 19:38:14 +0000",
       "title": "Horrifying screwworm infection confirmed in US traveler after overseas trip",
-      "neutral_headline": "Screwworm Infection Confirmed in US Traveler",
+      "neutral_headline": "Horrifying screwworm infection confirmed in US traveler",
       "items": [
         {
           "source": "Ars Technica",
@@ -668,102 +769,18 @@
           "title": "Horrifying screwworm infection confirmed in US traveler after overseas trip",
           "standfirst": "It's not a first—there was a case last year—but it's still disturbing.",
           "content": "Flesh-eating screwworm larvae poised to invade the US have snuck into Maryland via the flesh of a person who had recently traveled to El Salvador, upping anxiety about the ghastly—and economically costly—parasite. Reuters was first to report the case early Monday, quoting Andrew Nixon, spokesperson for the US Department of Health and Human Services, who said in an email that the Centers for Disease Control and Prevention had confirmed the case on August 4 in a person who had returned from a trip to El Salvador. While other outlets have since reported that the screwworm case found in Maryland is the first human case in the US, or first travel-related case in the US, or the first case in years—none of those things are true. Screwworms are endemic in parts of South America and the Caribbean and travel-related cases have always been a threat and occasionally pop up in the US. While the CDC doesn't keep a public tally of the cases, experts at the agency have noted several travel-related human cases in the US in recent years, including one as recent as last year.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "A horrifying screwworm infection was confirmed in a US traveler.",
-        "The infection occurred after an overseas trip.",
+        "A screwworm infection was confirmed in a US traveler.",
+        "The infection is considered disturbing due to its nature.",
         "This is not the first case, as one occurred last year.",
-        "The case is still disturbing to health officials.",
-        "The infection highlights potential health risks."
-      ]
-    },
-    {
-      "id": "cluster_114",
-      "coverage": 1,
-      "updated_at": "Mon, 25 Aug 2025 18:47:29 +0000",
-      "title": "CBS caved to Trump—now he’s seeking punishments for ABC and NBC",
-      "neutral_headline": "CBS Caved to Trump, Now He Seeks Punishments for ABC and NBC",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/08/cbs-caved-to-trump-now-hes-seeking-punishments-for-abc-and-nbc/",
-          "published_at": "Mon, 25 Aug 2025 18:47:29 +0000",
-          "title": "CBS caved to Trump—now he’s seeking punishments for ABC and NBC",
-          "standfirst": "Trump says ABC and NBC \"give me 97% BAD STORIES,\" urges FCC to revoke licenses.",
-          "content": "Fresh off his thorough victory over CBS News, President Trump is taking aim at ABC and NBC. \"Why is it that ABC and NBC FAKE NEWS, two of the absolute worst and most biased networks anywhere in the World, aren't paying Millions of Dollars a year in LICENSE FEES,\" Trump wrote on Truth Social last night. \"They should lose their Licenses for their unfair coverage of Republicans and/or Conservatives, but at a minimum, they should pay up BIG for having the privilege of using the most valuable airwaves anywhere at anytime!!! Crooked 'journalism' should not be rewarded, it should be terminated!!!\" While Trump's many threats to revoke broadcaster licenses have never led to any actual license revocations, the CBS developments show how he can use the government to influence operations at news organizations. CBS owner Paramount recently inked a $16 million settlement with Trump and then agreed to install a \"bias monitor\" in order to gain Federal Communications Commission approval of an $8 billion merger with Skydance. Now Trump is turning his attention to ABC and NBC.Read full article Comments",
-          "feed_position": 13,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-1152x648-1756146125.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-1152x648-1756146125.jpg",
-      "popularity_score": 133,
-      "ai_summary": [
-        "CBS yielded to Trump, and he is now seeking punishments for ABC and NBC.",
-        "Trump claims ABC and NBC provide \"97% BAD STORIES.\"",
-        "He urges the FCC to revoke the licenses of ABC and NBC.",
-        "The situation reflects tensions between Trump and media outlets.",
-        "The case involves potential government actions against media."
-      ]
-    },
-    {
-      "id": "cluster_115",
-      "coverage": 1,
-      "updated_at": "Mon, 25 Aug 2025 18:37:50 +0000",
-      "title": "Like Intel before it, AMD blames motherboard makers for burnt-out CPUs",
-      "neutral_headline": "AMD Blames Motherboard Makers for CPU Issues",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2025/08/like-intel-before-it-amd-blames-motherboard-makers-for-burnt-out-cpus/",
-          "published_at": "Mon, 25 Aug 2025 18:37:50 +0000",
-          "title": "Like Intel before it, AMD blames motherboard makers for burnt-out CPUs",
-          "standfirst": "Users of X3D CPUs in ASRock motherboards seem to be at particularly high risk.",
-          "content": "AMD's X3D-series Ryzen chips have become popular with PC gamers because games in particular happen to benefit disproportionately from the chips' extra 64MB of L3 cache memory. But that extra memory occasionally comes with extra headaches. Not long after they were released earlier this year, some early adopters started having problems with their CPUs, ranging from failure to boot to actual physical scorching and burnout—the problems were particularly common for users of the 9800X3D processor in ASRock motherboards, and one Reddit thread currently records 157 incidents of failure for that CPU model across various ASRock boards. In an interview with the Korean language website Quasar Zone (via Tom's Hardware), AMD executives David McAfee and Travis Kirsch acknowledged the problems and pointed to the most likely culprit: motherboard makers who don't follow AMD's recommended specifications. Some manufacturers have historically shipped their AMD and Intel motherboards with elevated default power settings in the interest of squeezing a bit more performance out of the chips—but those adjustments can also cause problems in some cases, especially for higher-end CPUs. The AM5 socket has already been through a saga like this one before. Shortly after their release in early 2023, some Ryzen 7000-series X3D chips were becoming physically deformed, developing bulges on the bottom that could permanently damage the CPU and bend the pins in the CPU socket. AMD blamed some motherboards' incorrect voltage settings for the problem and put out BIOS updates with more limitations on voltage to fix the problem.Read full article Comments",
-          "feed_position": 14,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_2759-1152x648.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_2759-1152x648.jpeg",
-      "popularity_score": 133,
-      "ai_summary": [
-        "AMD blames motherboard makers for burnt-out CPUs.",
-        "Users of X3D CPUs in ASRock motherboards are at high risk.",
-        "The issue is similar to problems Intel faced previously.",
-        "The problem involves potential hardware failures.",
-        "The situation affects specific CPU and motherboard combinations."
-      ]
-    },
-    {
-      "id": "cluster_119",
-      "coverage": 1,
-      "updated_at": "Mon, 25 Aug 2025 17:49:49 +0000",
-      "title": "Peter Dinklage as The Toxic Avenger is finally coming to theaters",
-      "neutral_headline": "Peter Dinklage to Star in The Toxic Avenger Film",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2025/08/toxic-avenger-gets-grindhouse-style-trailer/",
-          "published_at": "Mon, 25 Aug 2025 17:49:49 +0000",
-          "title": "Peter Dinklage as The Toxic Avenger is finally coming to theaters",
-          "standfirst": "It's not for the squeamish, but if a campy blood-splattered B-movie is your jam, the film opens Aug. 29.",
-          "content": "The Toxic Avenger, a semi-reboot of the 1984 superhero splatter-fest, made the rounds of the festival circuit back in 2023. But all the violence and gore scared off most distributors, so the film—starring Peter Dinklage (Game of Thrones) in the title role—has been languishing in the vault for much of the last two years. Thanks to Cineverse, The Toxic Avenger is finally coming to select theaters this weekend. And thanks to the folks at Bloody Disgusting (a Cineverse subsidiary), we've got a trailer by producer/actor and horror movie fan Wilson Cleveland, rendered in a gloriously goofy-yet-gory grindhouse style that pays homage to the original trailer. (You can watch the red-band trailer below.) (Minor spoilers for original 1984 film below.)Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/avenger1-1152x648-1756139334.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/avenger1-1152x648-1756139334.jpg",
-      "popularity_score": 133,
-      "ai_summary": [
-        "Peter Dinklage will star in The Toxic Avenger film.",
-        "The film is not for the squeamish.",
-        "The film opens in theaters on August 29.",
-        "The movie is a campy, blood-splattered B-movie.",
-        "The film is aimed at a specific audience."
+        "The case highlights the potential for exotic diseases.",
+        "The infection requires immediate medical attention."
       ]
     }
   ]
