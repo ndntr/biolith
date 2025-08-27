@@ -1,12 +1,49 @@
 {
-  "updated_at": "2025-08-27T19:16:05.855Z",
+  "updated_at": "2025-08-27T23:17:16.907Z",
   "clusters": [
     {
-      "id": "cluster_54",
+      "id": "cluster_6",
+      "coverage": 2,
+      "updated_at": "2025-08-27T17:11:53-04:00",
+      "title": "4Chan and Kiwi Farms file joint lawsuit against the UK",
+      "neutral_headline": "4Chan and Kiwi Farms file joint lawsuit against the UK",
+      "items": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/social/767063/4chan-kiwi-farms-lawsuit-uk-ofcom",
+          "published_at": "2025-08-27T17:11:53-04:00",
+          "title": "4Chan and Kiwi Farms file joint lawsuit against the UK",
+          "standfirst": "On Wednesday, 4Chan and Kiwi Farms, two of the most controversial social media sites on the internet, filed a federal lawsuit against the British government, arguing that the requirements of the UK's Online Safety Act infringe on their Constitutional rights as American corporations. In a filing submitted to the U.S. District Court in the District [&#8230;]",
+          "content": "On Wednesday, 4Chan and Kiwi Farms, two of the most controversial social media sites on the internet, filed a federal lawsuit against the British government, arguing that the requirements of the UK's Online Safety Act infringe on their Constitutional rights as American corporations. In a filing submitted to the U.S. District Court in the District of Columbia, Preston Byrne and Ron Coleman, the team representing the two sites, said that their clients are being penalized by Ofcom, the agency that regulates online content in the United Kingdom, for \"engaging in conduct which is perfectly lawful in the territories where their websites are based … Read the full story at The Verge.",
+          "feed_position": 1
+        },
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/250827/p33#a250827p33",
+          "published_at": "Wed, 27 Aug 2025 15:50:06 -0400",
+          "title": "4chan and Kiwi Farms sue the UK's Ofcom in a US court over the Online Safety Act, saying they aren't subject to UK law, after Ofcom tried to fine and block them (404 Media)",
+          "standfirst": "404 Media: 4chan and Kiwi Farms sue the UK's Ofcom in a US court over the Online Safety Act, saying they aren't subject to UK law, after Ofcom tried to fine and block them &mdash; The notorious troll sites filed a lawsuit in U.S. federal court as part of a fight over the UK's Online Safety Act.",
+          "content": "404 Media: 4chan and Kiwi Farms sue the UK's Ofcom in a US court over the Online Safety Act, saying they aren't subject to UK law, after Ofcom tried to fine and block them &mdash; The notorious troll sites filed a lawsuit in U.S. federal court as part of a fight over the UK's Online Safety Act.",
+          "feed_position": 5,
+          "image_url": "http://www.techmeme.com/250827/i33.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/250827/i33.jpg",
+      "popularity_score": 2017.9100258333333,
+      "ai_summary": [
+        "4Chan and Kiwi Farms filed a lawsuit against the British government.",
+        "The lawsuit challenges the UK's Online Safety Act.",
+        "They argue the Act infringes on their Constitutional rights.",
+        "The suit was filed in a U.S. District Court.",
+        "The sites claim they are not subject to UK law."
+      ]
+    },
+    {
+      "id": "cluster_76",
       "coverage": 2,
       "updated_at": "Wed, 27 Aug 2025 14:48:05 +0000",
       "title": "Under pressure after setbacks, SpaceX’s huge rocket finally goes the distance",
-      "neutral_headline": "SpaceX Starship Finally Pulls Off a Successful Test Flight",
+      "neutral_headline": "SpaceX Starship Achieves Successful Test Flight",
       "items": [
         {
           "source": "Ars Technica",
@@ -15,7 +52,7 @@
           "title": "Under pressure after setbacks, SpaceX’s huge rocket finally goes the distance",
           "standfirst": "This was the first successful flight of SpaceX's second-generation Starship after three failures.",
           "content": "STARBASE, Texas—SpaceX launched the 10th test flight of the company's Starship rocket Tuesday evening, sending the stainless steel spacecraft halfway around the world to an on-target splashdown in the Indian Ocean. The largely successful mission for the world's largest rocket was an important milestone for SpaceX's Starship program after months of repeated setbacks, including three disappointing test flights and a powerful explosion on the ground that destroyed the ship that engineers were originally readying for this launch. For the first time, SpaceX engineers received data on the performance of the ship's upgraded heat shield and control flaps during reentry back into the atmosphere. The three failed Starship test flights to start the year ended before the ship reached reentry. Elon Musk, SpaceX's founder and CEO, has described developing a durable, reliable heat shield as the most pressing challenge for making Starship a fully and rapidly reusable rocket.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/ship37splash-1152x648-1756301760.jpg"
         },
         {
@@ -30,142 +67,217 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/ship37splash-1152x648-1756301760.jpg",
-      "popularity_score": 2015.5330958333334,
+      "popularity_score": 2011.5133591666668,
       "ai_summary": [
-        "This was the first successful flight of SpaceX's second-generation Starship.",
-        "The flight was successful after three previous failures.",
-        "Starship's 10th test flight was a success.",
-        "The test flight was postponed twice before.",
-        "There were multiple failed attempts before this success."
-      ]
-    },
-    {
-      "id": "cluster_141",
-      "coverage": 2,
-      "updated_at": "Tue, 26 Aug 2025 16:03:34 +0000",
-      "title": "Google improves Gemini AI image editing with “nano banana” model",
-      "neutral_headline": "Google improves Gemini AI image editing with “nano banana” model",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2025/08/google-improves-gemini-ai-image-editing-with-nano-banana-model/",
-          "published_at": "Tue, 26 Aug 2025 16:03:34 +0000",
-          "title": "Google improves Gemini AI image editing with “nano banana” model",
-          "standfirst": "Gemini 2.5 Flash Image is currently atop LMArena's image-editing leaderboard.",
-          "content": "Something unusual happened in the world of AI image editing recently. A new model, known as \"nano banana,\" started making the rounds with impressive abilities that landed it at the top of the LMArena leaderboard. Now, Google has revealed that nano banana is an innovation from Google DeepMind, and it's being rolled out to the Gemini app today. AI image editing allows you to modify images with a prompt rather than mucking around in Photoshop. Google first provided editing capabilities in Gemini earlier this year, and the model was more than competent out of the gate. But like all generative systems, the non-deterministic nature meant that elements of the image would often change in unpredictable ways. Google says nano banana (technically Gemini 2.5 Flash Image) has unrivaled consistency across edits—it can actually remember the details instead of rolling the dice every time you make a change. Google says subjects will retain their appearance as you edit. Google says subjects will retain their appearance as you edit. This unlocks several interesting uses for AI image editing. Google suggests uploading a photo of a person and changing their style or attire. For example, you can reimagine someone as a matador or a '90s sitcom character. Because the nano banana model can maintain consistency through edits, the results should still look like the person in the original source image. This is also the case when you make multiple edits in a row. Google says that even down the line, the results should look like the original source material.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Gemini-1-1152x648.jpg"
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/ai/gemini-expands-image-editing-for-enterprises-consistency-collaboration-and-control-at-scale/",
-          "published_at": "Tue, 26 Aug 2025 15:55:58 +0000",
-          "title": "Gemini Nano Banana improves image editing consistency and control at scale for enterprises – but is not perfect",
-          "standfirst": "The long awaited image editing model nanobanana from Google, now renamed Gemini 2.5 Flash Image, has finally released to the public.",
-          "content": "The long awaited image editing model nanobanana from Google, now renamed Gemini 2.5 Flash Image, has finally released to the public.Read More",
-          "feed_position": 5
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/Gemini-1-1152x648.jpg",
-      "popularity_score": 2000,
-      "ai_summary": [
-        "Google has improved Gemini AI image editing with the \"nano banana\" model.",
-        "The model is now renamed Gemini 2.5 Flash Image.",
-        "Gemini 2.5 Flash Image is currently atop LMArena's image-editing leaderboard.",
-        "The image editing model is for enterprises.",
-        "The model is not perfect."
-      ]
-    },
-    {
-      "id": "cluster_41",
-      "coverage": 1,
-      "updated_at": "Wed, 27 Aug 2025 16:17:29 +0000",
-      "title": "New AI browser agents create risks if sites hijack them with hidden instructions",
-      "neutral_headline": "AI Browser Agents Face Risks from Hidden Website Instructions",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/information-technology/2025/08/new-ai-browser-agents-create-risks-if-sites-hijack-them-with-hidden-instructions/",
-          "published_at": "Wed, 27 Aug 2025 16:17:29 +0000",
-          "title": "New AI browser agents create risks if sites hijack them with hidden instructions",
-          "standfirst": "Malicious websites can embed invisible commands that AI agents will follow blindly.",
-          "content": "As AI assistants become capable of controlling web browsers, a new security challenge has emerged: users must now trust that every website they visit won't try to hijack their AI agent with hidden malicious instructions. Experts voiced concerns about this emerging threat this week after testing from a leading AI chatbot vendor revealed that AI browser agents can be successfully tricked into harmful actions nearly a quarter of the time. On Tuesday, Anthropic announced the launch of Claude for Chrome, a web browser-based AI agent that can take actions on behalf of users. Due to security concerns, the extension is only rolling out as a research preview to 1,000 subscribers on Anthropic's Max plan, which costs between $100 and $200 per month, with a waitlist available for other users. The Claude for Chrome extension allows users to chat with the Claude AI model in a sidebar window that maintains the context of everything happening in their browser. Users can grant Claude permission to perform tasks such as managing calendars, scheduling meetings, drafting email responses, handling expense reports, and testing website features.Read full article Comments",
-          "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/claude_browser_plugin.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/claude_browser_plugin.jpg",
-      "popularity_score": 365.02309583333334,
-      "ai_summary": [
-        "Malicious websites can embed invisible commands that AI agents will follow.",
-        "These hidden instructions could potentially hijack AI browser agents.",
-        "The agents may execute commands without user awareness or consent.",
-        "This creates a security vulnerability for AI-powered browsing tools.",
-        "Developers must implement safeguards to prevent such exploitation."
-      ]
-    },
-    {
-      "id": "cluster_36",
-      "coverage": 1,
-      "updated_at": "Wed, 27 Aug 2025 16:41:58 +0000",
-      "title": "Intel details everything that could go wrong with US taking a 10% stake",
-      "neutral_headline": "Intel Warns of Potential Losses with US Stake in Company",
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/tech-policy/2025/08/intel-details-everything-that-could-go-wrong-with-us-taking-a-10-stake/",
-          "published_at": "Wed, 27 Aug 2025 16:41:58 +0000",
-          "title": "Intel details everything that could go wrong with US taking a 10% stake",
-          "standfirst": "Intel warns investors to brace for losses and uncertainties.",
-          "content": "Some investors are not happy that Intel agreed to sell the US a 10 percent stake in the company after Donald Trump attacked Intel CEO Lip-Bu Tan with a demand to resign. After Intel accepted the deal at a meeting with the president, it alarmed some investors when Trump boasted that his pressure campaign worked, claiming Tan \"walked in wanting to keep his job, and he ended up giving us $10 billion for the United States.\" \"It sets a bad precedent if the president can just take 10 percent of a company by threatening the CEO,\" James McRitchie, a private investor and shareholder activist in California who owns Intel shares, told Reuters. To McRitchie, Tan's acceptance of the deal effectively sent the message that \"we love Trump, we don't want 10 percent of our company taken away.\"Read full article Comments",
-          "feed_position": 1,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2177041820-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2177041820-1024x648.jpg",
-      "popularity_score": 361.4311513888889,
-      "ai_summary": [
-        "Intel is warning investors to prepare for potential losses.",
-        "The company is also highlighting uncertainties associated with the investment.",
-        "The US government is considering taking a 10% stake in Intel.",
-        "This investment could impact Intel's financial performance.",
-        "Intel is advising investors to carefully consider the risks involved."
+        "SpaceX's Starship completed a successful test flight.",
+        "This was the first successful flight of the second-generation Starship.",
+        "The flight followed three previous failures.",
+        "The test flight was the tenth attempt.",
+        "The success marks a significant milestone for SpaceX."
       ]
     },
     {
       "id": "cluster_4",
       "coverage": 1,
-      "updated_at": "Wed, 27 Aug 2025 19:09:55 +0000",
-      "title": "Judge unhappy with FCC’s “vague and uninformative” response to DOGE lawsuit",
-      "neutral_headline": "Judge Criticizes FCC Response in DOGE Lawsuit",
+      "updated_at": "Wed, 27 Aug 2025 21:25:38 +0000",
+      "title": "CDC director has been ousted just weeks after Senate confirmation",
+      "neutral_headline": "CDC director has been ousted just weeks after Senate confirmation",
       "items": [
         {
-          "source": "Ars Technica Main",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2025/08/report-cdc-director-being-ousted-just-weeks-after-senate-confirmation/",
+          "published_at": "Wed, 27 Aug 2025 21:25:38 +0000",
+          "title": "CDC director has been ousted just weeks after Senate confirmation",
+          "standfirst": "Monarez aligned with evidence-based public health community and had support of experts.",
+          "content": "Just weeks after being confirmed by the Senate, Susan Monarez has been ousted from the now thoroughly battered public health agency. The news was first reported by The Washington Post, which cited multiple officials within the Trump administration. After Ars Technica contacted the Department of Health and Human Services for confirmation of the ouster, HHS responded with a link to a post on the department's X account. The post states: Susan Monarez is no longer director of the Centers for Disease Control and Prevention. We thank her for her dedicated service to the American people. @SecKennedy has full confidence in his team at @CDCgov who will continue to be vigilant in protecting Americans against infectious diseases at home and abroad. The department did not address the circumstances surrounding Monarez's ouster. But reporting from The New York Times suggests that she had clashed with US Health Secretary and fervent anti-vaccine advocate Robert F. Kennedy Jr. by objecting to his changes on the panel of experts that advise the CDC on vaccine policy.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2222107417-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2222107417-1152x648.jpg",
+      "popularity_score": 351.1391925,
+      "ai_summary": [
+        "The CDC director was removed from their position.",
+        "The ousting occurred shortly after Senate confirmation.",
+        "The director aligned with the evidence-based public health community.",
+        "The director had support from various experts.",
+        "The circumstances surrounding the ousting are not specified."
+      ]
+    },
+    {
+      "id": "cluster_15",
+      "coverage": 1,
+      "updated_at": "Wed, 27 Aug 2025 20:32:43 +0000",
+      "title": "CDC slashed food safety surveillance, now tracks only 2 of 8 top infections",
+      "neutral_headline": "CDC slashed food safety surveillance, now tracks only 2 of 8 top infections",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2025/08/cdc-stopped-actively-tracking-6-foodborne-infections-amid-budget-cuts/",
+          "published_at": "Wed, 27 Aug 2025 20:32:43 +0000",
+          "title": "CDC slashed food safety surveillance, now tracks only 2 of 8 top infections",
+          "standfirst": "\"If you want to make foodborne disease go away, then don’t look for foodborne disease.\"",
+          "content": "In July, the Centers for Disease Control and Prevention dramatically, but quietly, scaled back a food safety surveillance system, cutting active tracking from eight top foodborne infections down to just two, according to a report by NBC News. The Foodborne Diseases Active Surveillance Network (FoodNet)—a network of surveillance sites that spans 10 states and covers about 54 million Americans (16 percent of the US population)—previously included active monitoring for eight infections from pathogens. Those include Campylobacter, Cyclospora, Listeria, Salmonella, Shiga toxin-producing E. coli (STEC), Shigella, Vibrio, and Yersinia. Now the network is only monitoring for STEC and Salmonella.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2014/01/SALMON_1-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2014/01/SALMON_1-1152x648.jpg",
+      "popularity_score": 340.2572480555556,
+      "ai_summary": [
+        "The CDC reduced its food safety surveillance efforts.",
+        "The agency now tracks only two of the eight top infections.",
+        "The reduction in tracking raises concerns about food safety.",
+        "The quote suggests a lack of proactive monitoring.",
+        "The CDC's actions may impact the detection of foodborne illnesses."
+      ]
+    },
+    {
+      "id": "cluster_23",
+      "coverage": 1,
+      "updated_at": "Wed, 27 Aug 2025 19:54:54 +0000",
+      "title": "Russian space official: “We need to stop lying to ourselves” about health of industry",
+      "neutral_headline": "Russian space official: “We need to stop lying to ourselves” about health of industry",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2025/08/russias-state-run-human-spaceflight-company-may-be-near-bankruptcy/",
+          "published_at": "Wed, 27 Aug 2025 19:54:54 +0000",
+          "title": "Russian space official: “We need to stop lying to ourselves” about health of industry",
+          "standfirst": "\"A significant part of the team has lost motivation and a sense of shared responsibility.\"",
+          "content": "The chief of Russia's main spacecraft manufacturer issued a dire warning this week, saying that his corporation has reached a \"critical\" condition and cannot continue in its present state. \"The situation is critical: multi-million dollar debts, interest on loans that 'eat up' the budget, many processes that are ineffective, and a significant part of the team has lost motivation and a sense of shared responsibility,\" said Igor Maltsev, chief of RSC Energia, which is located near Moscow. Maltsev's remarks were first published by Gazeta.ru, one of the largest Russian news websites. Later, they were reposted on the \"Forgive us Yura,\" Telegram channel, the name of which references cosmonaut Yuri Gagarin and primarily has content that focuses on critiques of Russia's space program. Multiple sources confirmed that the statement is legitimate.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1747269738-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1747269738-1024x648.jpg",
+      "popularity_score": 337.6269702777778,
+      "ai_summary": [
+        "A Russian space official expressed concerns about the industry.",
+        "The official stated the need to stop self-deception.",
+        "A significant portion of the team has lost motivation.",
+        "The team also lacks a sense of shared responsibility.",
+        "The comments suggest internal problems within the industry."
+      ]
+    },
+    {
+      "id": "cluster_64",
+      "coverage": 1,
+      "updated_at": "Wed, 27 Aug 2025 16:41:58 +0000",
+      "title": "Intel details everything that could go wrong with US taking a 10% stake",
+      "neutral_headline": "Intel details everything that could go wrong with US taking a 10% stake",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/08/intel-details-everything-that-could-go-wrong-with-us-taking-a-10-stake/",
+          "published_at": "Wed, 27 Aug 2025 16:41:58 +0000",
+          "title": "Intel details everything that could go wrong with US taking a 10% stake",
+          "standfirst": "Intel warns investors to brace for losses and uncertainties.",
+          "content": "Some investors are not happy that Intel agreed to sell the US a 10 percent stake in the company after Donald Trump attacked Intel CEO Lip-Bu Tan with a demand to resign. After Intel accepted the deal at a meeting with the president, it alarmed some investors when Trump boasted that his pressure campaign worked, claiming Tan \"walked in wanting to keep his job, and he ended up giving us $10 billion for the United States.\" \"It sets a bad precedent if the president can just take 10 percent of a company by threatening the CEO,\" James McRitchie, a private investor and shareholder activist in California who owns Intel shares, told Reuters. To McRitchie, Tan's acceptance of the deal effectively sent the message that \"we love Trump, we don't want 10 percent of our company taken away.\"Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2177041820-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2177041820-1024x648.jpg",
+      "popularity_score": 327.4114147222222,
+      "ai_summary": [
+        "Intel is warning investors about potential risks.",
+        "The company is preparing for possible losses.",
+        "Uncertainties are also being highlighted by Intel.",
+        "The warning relates to the US taking a 10% stake.",
+        "The details of the risks are not specified."
+      ]
+    },
+    {
+      "id": "cluster_35",
+      "coverage": 1,
+      "updated_at": "Wed, 27 Aug 2025 19:09:55 +0000",
+      "title": "Judge unhappy with FCC’s “vague and uninformative” response to DOGE lawsuit",
+      "neutral_headline": "Judge unhappy with FCC’s “vague and uninformative” response to DOGE lawsuit",
+      "items": [
+        {
+          "source": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2025/08/judge-unhappy-with-fccs-vague-and-uninformative-response-to-doge-lawsuit/",
           "published_at": "Wed, 27 Aug 2025 19:09:55 +0000",
           "title": "Judge unhappy with FCC’s “vague and uninformative” response to DOGE lawsuit",
           "standfirst": "Plaintiffs seek DOGE documents, allege FCC violated Freedom of Information Act.",
           "content": "A judge yesterday chided the Federal Communications Commission for its \"vague and uninformative\" response to a DOGE-related lawsuit and ordered the commission to produce documents sought under the Freedom of Information Act (FoIA). The FCC was sued by journalist Nina Burleigh and Frequency Forward, a group that says it is investigating how Elon Musk's influence in government \"is creating unmanageable conflicts of interest within the FCC.\" Burleigh and Frequency Forward alleged in an April 24 complaint that the FCC violated the Freedom of Information Act by wrongfully withholding records on DOGE's activities within the agency. The plaintiffs filed a motion for preliminary injunction this week and received a quick ruling from US District Judge Amy Berman Jackson in the District of Columbia. Jackson denied the preliminary injunction request but ordered the FCC to \"make ongoing productions of responsive documents on September 15, 2025 and October 6, 2025,\" and to \"file a status report proposing a schedule for the completion of its production of documents to plaintiff by October 13, 2025.\"Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/brendan-carr-1152x648-1756320188.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/brendan-carr-1152x648-1756320188.jpg",
-      "popularity_score": 352.8969847222222,
+      "popularity_score": 318.8772480555556,
       "ai_summary": [
         "A judge expressed dissatisfaction with the FCC's response.",
-        "The judge found the FCC's response to be \"vague and uninformative.\"",
-        "Plaintiffs are seeking documents related to DOGE.",
-        "They allege the FCC violated the Freedom of Information Act.",
-        "The lawsuit concerns the FCC's handling of DOGE-related information."
+        "The response was deemed \"vague and uninformative.\"",
+        "The lawsuit involves documents related to DOGE.",
+        "Plaintiffs allege the FCC violated the Freedom of Information Act.",
+        "The case concerns the FCC's handling of information requests."
       ]
     },
     {
       "id": "cluster_67",
       "coverage": 1,
+      "updated_at": "Wed, 27 Aug 2025 16:17:29 +0000",
+      "title": "Anthropic’s auto-clicking AI Chrome extension raises browser-hijacking concerns",
+      "neutral_headline": "Anthropic’s auto-clicking AI Chrome extension raises browser-hijacking concerns",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2025/08/new-ai-browser-agents-create-risks-if-sites-hijack-them-with-hidden-instructions/",
+          "published_at": "Wed, 27 Aug 2025 16:17:29 +0000",
+          "title": "Anthropic’s auto-clicking AI Chrome extension raises browser-hijacking concerns",
+          "standfirst": "Malicious websites can embed invisible commands that AI agents will follow blindly.",
+          "content": "As AI assistants become capable of controlling web browsers, a new security challenge has emerged: users must now trust that every website they visit won't try to hijack their AI agent with hidden malicious instructions. Experts voiced concerns about this emerging threat this week after testing from a leading AI chatbot vendor revealed that AI browser agents can be successfully tricked into harmful actions nearly a quarter of the time. On Tuesday, Anthropic announced the launch of Claude for Chrome, a web browser-based AI agent that can take actions on behalf of users. Due to security concerns, the extension is only rolling out as a research preview to 1,000 subscribers on Anthropic's Max plan, which costs between $100 and $200 per month, with a waitlist available for other users. The Claude for Chrome extension allows users to chat with the Claude AI model in a sidebar window that maintains the context of everything happening in their browser. Users can grant Claude permission to perform tasks like managing calendars, scheduling meetings, drafting email responses, handling expense reports, and testing website features.Read full article Comments",
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/claude_browser_plugin.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/claude_browser_plugin.jpg",
+      "popularity_score": 311.00335916666666,
+      "ai_summary": [
+        "Anthropic's AI Chrome extension has raised security concerns.",
+        "The extension can automatically click on elements.",
+        "Malicious websites can embed hidden commands.",
+        "AI agents will blindly follow these embedded commands.",
+        "This poses a risk of browser hijacking."
+      ]
+    },
+    {
+      "id": "cluster_68",
+      "coverage": 1,
+      "updated_at": "Wed, 27 Aug 2025 16:05:00 +0000",
+      "title": "Chris Roberts hopes Squadron 42 will be “almost as big” as GTA VI next year",
+      "neutral_headline": "Chris Roberts hopes Squadron 42 will be “almost as big” as GTA VI next year",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2025/08/chris-roberts-hopes-squadron-42-will-be-almost-as-big-as-gta-vi-next-year/",
+          "published_at": "Wed, 27 Aug 2025 16:05:00 +0000",
+          "title": "Chris Roberts hopes Squadron 42 will be “almost as big” as GTA VI next year",
+          "standfirst": "French report also suggests Star Citizen might hit 1.0 release in \"2027 or 2028.\"",
+          "content": "The single-player Star Citizen spin-off Squadron 42 is slated to finally be in players' hands in 2026, 11 full years after its initial 2015 release target. And after all that time, Cloud Imperium Games CEO Chris Roberts says he's hopeful that the title will be received similarly to another 2026 release that happens to be possibly the most anticipated video game of all time: Grand Theft Auto VI. A recent report from French Canadian outlet La Presse (translated) suggests that Squadron 42's launch is being timed so that it \"won't be overshadowed\" by the planned May launch of Grand Theft Auto VI. \"We're hoping it'll be almost as big an event,\" Roberts said in comparing the two upcoming releases in an interview with the French paper. \"Other than GTA VI, it's probably the biggest-budget AAA game [of the year].\" That's a pretty bold claim, considering Squadron 42's very public and tumultuous path to a purported \"feature complete\" status in 2023. But it seems at least somewhat reasonable when you consider that GTA VI's development budget of nearly $1 billion lines up closely with $859 million in crowdfunding currently being reported for Star Citizen as a whole.Read full article Comments",
+          "feed_position": 6,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/sq42-1152x648.png"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/sq42-1152x648.png",
+      "popularity_score": 285.79530361111114,
+      "ai_summary": [
+        "Chris Roberts hopes Squadron 42 will be a major release.",
+        "He anticipates it will be nearly as big as GTA VI.",
+        "A French report suggests a potential Star Citizen 1.0 release.",
+        "The report indicates a possible release in 2027 or 2028.",
+        "The information relates to the development of Star Citizen."
+      ]
+    },
+    {
+      "id": "cluster_84",
+      "coverage": 1,
       "updated_at": "Wed, 27 Aug 2025 14:08:31 +0000",
       "title": "Corsair’s PC-dockable screen helped me monitor my PC components and news feeds",
-      "neutral_headline": "Corsair PC-Dockable Screen Monitors Components and Feeds",
+      "neutral_headline": "Corsair’s PC-dockable screen helped me monitor my PC components and news feeds",
       "items": [
         {
           "source": "Ars Technica",
@@ -174,54 +286,26 @@
           "title": "Corsair’s PC-dockable screen helped me monitor my PC components and news feeds",
           "standfirst": "Corsair's Xeneon Edge is the best at what it does but is software-dependent.",
           "content": "Finding a cheap secondary PC monitor is pretty easy. But if you want one that looks good, is built well, and is easily customizable, you won't find those qualities in a budget screen from a no-name brand on Amazon. Instead, Corsair's Xeneon Edge is a premium alternative that almost justifies its $250 price tag. Corsair first announced the Xeneon Edge at the CES trade show in January. It's a 5-point capacitive touchscreen that can live on your desk and serve as a secondary computer monitor. If you're feeling fun, you can download Corsair's iCUE software to use customizable widgets for displaying things like CPU temperature and usage, the time and date, and media playing. More adventurous users can attach the screen onto their desktop PC's fan mounts or side panel. I used Corsair's monitor for a couple of weeks. From its build to its image quality and software, the monitor is exemplary for a screen of this kind. The flagship widgets feature needs some work, but I couldn't ask for much more from a secondary, PC-mountable display.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Corsair-Xeneon-Edge-1152x648.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Corsair-Xeneon-Edge-1152x648.jpeg",
-      "popularity_score": 322.8736513888889,
+      "popularity_score": 268.8539147222222,
       "ai_summary": [
-        "Corsair's Xeneon Edge screen helps monitor PC components.",
-        "The screen also allows users to monitor news feeds.",
-        "It is considered the best at its function, but relies on software.",
-        "The software integration is crucial for its functionality.",
-        "Users can customize the display to show various information."
+        "Corsair's Xeneon Edge screen was reviewed.",
+        "The screen is designed to dock with a PC.",
+        "It is effective for monitoring PC components.",
+        "The screen also displays news feeds.",
+        "The software dependency is a noted drawback."
       ]
     },
     {
-      "id": "cluster_43",
-      "coverage": 1,
-      "updated_at": "Wed, 27 Aug 2025 16:05:00 +0000",
-      "title": "Chris Roberts hopes Squadron 42 will be “almost as big” as GTA VI next year",
-      "neutral_headline": "Chris Roberts Hopes Squadron 42 Will Be \"Almost as Big\" as GTA VI Next Year",
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/gaming/2025/08/chris-roberts-hopes-squadron-42-will-be-almost-as-big-as-gta-vi-next-year/",
-          "published_at": "Wed, 27 Aug 2025 16:05:00 +0000",
-          "title": "Chris Roberts hopes Squadron 42 will be “almost as big” as GTA VI next year",
-          "standfirst": "French report also suggests Star Citizen might hit 1.0 release in \"2027 or 2028.\"",
-          "content": "The single-player Star Citizen spin-off Squadron 42 is slated to finally be in players' hands in 2026, 11 full years after its initial 2015 release target. And after all that time, Cloud Imperium Games CEO Chris Roberts says he's hopeful that the title will be received similarly to another 2026 release that happens to be possibly the most anticipated video game of all time: Grand Theft Auto VI. A recent report from French Canadian outlet La Presse (translated) suggests that Squadron 42's launch is being timed so that it \"won't be overshadowed\" by the planned May launch of Grand Theft Auto VI. \"We're hoping it'll be almost as big an event,\" Roberts said in comparing the two upcoming releases in an interview with the French paper. \"Other than GTA VI, it's probably the biggest-budget AAA game [of the year].\" That's a pretty bold claim, considering Squadron 42's very public and tumultuous path to a purported \"feature complete\" status in 2023. But it seems at least somewhat reasonable when you consider that GTA VI's development budget of nearly $1 billion lines up closely with $859 million in crowdfunding currently being reported for Star Citizen as a whole.Read full article Comments",
-          "feed_position": 3,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/sq42-1152x648.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/sq42-1152x648.png",
-      "popularity_score": 319.81504027777777,
-      "ai_summary": [
-        "Chris Roberts hopes Squadron 42 will be a major release next year.",
-        "A French report suggests Star Citizen might release in 2027 or 2028.",
-        "The report indicates a potential timeline for the game's launch.",
-        "Roberts is aiming for a significant impact with Squadron 42.",
-        "The Star Citizen project has been in development for many years."
-      ]
-    },
-    {
-      "id": "cluster_63",
+      "id": "cluster_81",
       "coverage": 1,
       "updated_at": "Wed, 27 Aug 2025 14:16:33 +0000",
       "title": "The first stars may not have been as uniformly massive as we thought",
-      "neutral_headline": "Early Stars May Not Have Been Uniformly Massive",
+      "neutral_headline": "The first stars may not have been as uniformly massive as we thought",
       "items": [
         {
           "source": "Ars Technica",
@@ -230,26 +314,82 @@
           "title": "The first stars may not have been as uniformly massive as we thought",
           "standfirst": "Collapsing gas clouds in the early universe may have formed lower-mass stars as well.",
           "content": "For decades, astronomers have wondered what the very first stars in the universe were like. These stars formed new chemical elements, which enriched the universe and allowed the next generations of stars to form the first planets. The first stars were initially composed of pure hydrogen and helium, and they were massive—hundreds to thousands of times the mass of the Sun and millions of times more luminous. Their short lives ended in enormous explosions called supernovae, so they had neither the time nor the raw materials to form planets, and they should no longer exist for astronomers to observe. At least that’s what we thought.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/file-20250819-56-c2tduy.avif"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/file-20250819-56-c2tduy.avif",
-      "popularity_score": 318.00754027777776,
+      "popularity_score": 263.98780361111113,
       "ai_summary": [
-        "The first stars may not have been as uniformly massive as previously thought.",
-        "Collapsing gas clouds in the early universe may have formed lower-mass stars.",
-        "This challenges previous assumptions about early star formation.",
-        "The findings suggest a more diverse range of stellar masses.",
-        "Researchers are reevaluating models of early universe star formation."
+        "New research challenges previous assumptions about early stars.",
+        "Collapsing gas clouds may have formed lower-mass stars.",
+        "The early universe may have had a wider range of star sizes.",
+        "The findings impact understanding of stellar formation.",
+        "The research suggests a more diverse population of early stars."
       ]
     },
     {
-      "id": "cluster_75",
+      "id": "cluster_93",
+      "coverage": 1,
+      "updated_at": "Wed, 27 Aug 2025 13:00:09 +0000",
+      "title": "The Outer Worlds 2 wants you to join the space police",
+      "neutral_headline": "The Outer Worlds 2 Preview Highlights Choices and Humor",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2025/08/the-outer-worlds-2-wants-you-to-join-the-space-police/",
+          "published_at": "Wed, 27 Aug 2025 13:00:09 +0000",
+          "title": "The Outer Worlds 2 wants you to join the space police",
+          "standfirst": "Preview: The sequel's prologue stresses meaningful choices, wry humor",
+          "content": "It has been nearly six years now since The Outer Worlds threw players into the deep end, forcing them to acclimate to the game's far-future, ultra-corporate intergalactic dystopia amid lots of Fallout-style shooting and questing. The prologue for The Outer Worlds 2—which I got to play as part of a preview build ahead of the game's planned October 29 launch—throws players into a different kind of deep end, asking them to fill the shoes of an agent in the storied semi-militarized police force of the Earth Directorate. The over-the-top propaganda that leads the game off suggests the Earth Directorate is here to protect colonists from out-of-control corporations and tyrannical governments. But your first mission goes in a different direction, sending you on a secret mission to the \"out of jurisdiction\" Arcadian system, a secretive dictatorship where all the skip drives that power interstellar travel are supposedly manufactured. You've been asked to help expropriate a rare, \"unsealed\" skip drive core, which can then be opened up, studied, and maybe even copied without the risk of catastrophic explosion (the \"right to repair\" folks in the audience might be nodding their heads sagely at this point). Choose your choice I won't spoil things by discussing just how the mission goes off the rails or talking about the somewhat vague twist that closes out the playable prologue. But I will gush a bit about how the first game's mix of retro-futuristic set-dressing and sardonic, cynical writing style immediately shine through, even with the change in perspective. A mix of strong voice acting and motion capture immediately drew me back into the Outer Worlds universe, even when the characters were delivering ridiculous lines like \"You’re not just a cog in the machine. You’re THE cog!\"Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/tow2-4-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/tow2-4-1152x648.jpg",
+      "popularity_score": 150.71447027777776,
+      "ai_summary": [
+        "The Outer Worlds 2's prologue emphasizes player choices and their impact on the narrative.",
+        "The sequel aims to maintain the series' signature wry humor throughout the gameplay experience.",
+        "Players will encounter various factions and characters, influencing the story's direction.",
+        "The preview suggests a focus on meaningful player agency within the game's world.",
+        "The game's development continues, with the goal of delivering a compelling narrative."
+      ]
+    },
+    {
+      "id": "cluster_118",
+      "coverage": 1,
+      "updated_at": "Tue, 26 Aug 2025 22:08:38 +0000",
+      "title": "OpenAI admits ChatGPT safeguards fail during extended conversations",
+      "neutral_headline": "OpenAI Admits ChatGPT Safeguards Fail During Conversations",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2025/08/after-teen-suicide-openai-claims-it-is-helping-people-when-they-need-it-most/",
+          "published_at": "Tue, 26 Aug 2025 22:08:38 +0000",
+          "title": "OpenAI admits ChatGPT safeguards fail during extended conversations",
+          "standfirst": "ChatGPT allegedly provided suicide encouragement to teen after moderation safeguards failed.",
+          "content": "OpenAI published a blog post on Tuesday titled \"Helping people when they need it most\" that addresses how its ChatGPT AI assistant handles mental health crises, following what the company calls \"recent heartbreaking cases of people using ChatGPT in the midst of acute crises.\" The post arrives after The New York Times reported on a lawsuit filed by Matt and Maria Raine, whose 16-year-old son Adam died by suicide in April after extensive interactions with ChatGPT, which Ars covered extensively in a previous post. According to the lawsuit, ChatGPT provided detailed instructions, romanticized suicide methods, and discouraged the teen from seeking help from his family while OpenAI's system tracked 377 messages flagged for self-harm content without intervening. ChatGPT is a system of multiple models interacting as an application. In addition to a main AI model like GPT-4o or GPT-5 providing the bulk of the outputs, the application includes components that are typically invisible to the user, including a moderation layer (another AI model) or classifier that reads the text of the ongoing chat sessions. That layer detects potentially harmful outputs and can cut off the conversation if it veers into unhelpful territory.Read full article Comments",
+          "feed_position": 15,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-1152x648.jpg",
+      "popularity_score": 148,
+      "ai_summary": [
+        "OpenAI acknowledged that ChatGPT's safety measures can be bypassed during extended interactions.",
+        "The chatbot allegedly provided suicide encouragement to a teenager after safeguards failed.",
+        "The incident highlights vulnerabilities in ChatGPT's moderation and safety protocols.",
+        "OpenAI is working to improve the reliability of its safety features.",
+        "The company is addressing the potential for harmful responses from its AI models."
+      ]
+    },
+    {
+      "id": "cluster_90",
       "coverage": 1,
       "updated_at": "Wed, 27 Aug 2025 13:39:10 +0000",
       "title": "2025 VW Jetta GLI: Save the manuals, but not like this",
-      "neutral_headline": "2025 VW Jetta GLI: Manual Transmission Remains, but Execution Matters",
+      "neutral_headline": "2025 VW Jetta GLI: Manual Transmission Remains, Execution Questioned",
       "items": [
         {
           "source": "Ars Technica",
@@ -258,22 +398,50 @@
           "title": "2025 VW Jetta GLI: Save the manuals, but not like this",
           "standfirst": "Specs mean nothing if you get the feel and execution wrong.",
           "content": "Manual transmissions have gone the way of the dodo, but you can still find a few out there. Bless Volkswagen for keeping the helical gears turning, both literally and figuratively. The 2025 Jetta GLI, Volkswagen's sporty sedan, still offers a gear lever with actual gears attached at the other end, and a third pedal hanging down from under the dash. Meanwhile, Golf GTI fans are still sobbing in their beer because 2024 was the last model year you could row your own in the hot hatch—now it's paddles only. Volkswagen updated the 2025 Jetta GLI with a new grille, LED headlights, and light bars that connect across both the front grille and rear taillights. There's a red accent stripe that runs across the lower front fascia and turns up at the front corners, somewhat like The Joker's lipstick, but way less menacing. It's less distinctive than the Golf GTI, though, and the design even reminds me of the 2017-era Honda Accord a bit. So, yes, in a face-off, the Golf GTI wins. The test GLI's wheels get black paint with the Black Package (blackened wheels and side mirror caps). The Monument Gray color option pairs with a black roof, which must seem like a good idea to people who don't live in the Southwest, where cars overheat before they're even started.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 10,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_5954-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_5954-1152x648.jpg",
-      "popularity_score": 297.3844847222222,
+      "popularity_score": 143.36474805555557,
       "ai_summary": [
-        "The 2025 VW Jetta GLI retains a manual transmission option.",
-        "The article emphasizes the importance of feel and execution.",
-        "Specs alone do not guarantee a positive driving experience.",
-        "The review focuses on the overall driving experience.",
-        "The Jetta GLI aims to provide an engaging driving experience."
+        "The 2025 VW Jetta GLI retains a manual transmission option for driving enthusiasts.",
+        "The review suggests that the car's overall feel and execution are more important than specifications.",
+        "The reviewer expresses concerns about the driving experience despite the manual option.",
+        "The article critiques the car's performance and how it feels on the road.",
+        "The review implies that the car's driving dynamics may not live up to expectations."
       ]
     },
     {
-      "id": "cluster_76",
+      "id": "cluster_122",
+      "coverage": 1,
+      "updated_at": "Tue, 26 Aug 2025 21:04:23 +0000",
+      "title": "DOGE accused of copying entire Social Security database to insecure cloud system",
+      "neutral_headline": "DOGE Accused of Copying Social Security Database to Cloud",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/08/doge-accused-of-copying-entire-social-security-database-to-insecure-cloud-system/",
+          "published_at": "Tue, 26 Aug 2025 21:04:23 +0000",
+          "title": "DOGE accused of copying entire Social Security database to insecure cloud system",
+          "standfirst": "Live copy of NUMIDENT \"lacks any security oversight,\" whistleblower alleges.",
+          "content": "A Social Security Administration (SSA) official alleged in a whistleblower disclosure that DOGE officials created \"a live copy of the country's Social Security information in a cloud environment that circumvents oversight.\" Chuck Borges, the SSA's Chief Data Officer (CDO), \"has become aware through reports to him of serious data security lapses, evidently orchestrated by DOGE officials, currently employed as SSA employees, that risk the security of over 300 million Americans' Social Security data,\" the Government Accountability Project said in a letter sent today to members of Congress and the US Office of Special Counsel. The nonprofit Government Accountability Project is representing Borges. Although it has been widely reported that DOGE sought and obtained access to Social Security records in its attempt to find evidence of fraud, the letter to lawmakers said the live copy of SSA's database hasn't previously been disclosed. DOGE's actions were taken \"under the authority of SSA Chief Information Officer (CIO) Aram Moghaddassi\" and violate SSA protocols and policies, the letter said.Read full article Comments",
+          "feed_position": 17,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/doge-caucus-1152x648-1748453404.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/doge-caucus-1152x648-1748453404.jpg",
+      "popularity_score": 143,
+      "ai_summary": [
+        "DOGE allegedly copied the entire Social Security database to an insecure cloud system.",
+        "A whistleblower claims the NUMIDENT database lacks adequate security oversight.",
+        "The database's exposure raises concerns about data privacy and security breaches.",
+        "The incident highlights potential vulnerabilities in data management practices.",
+        "The allegations suggest a significant risk to sensitive personal information."
+      ]
+    },
+    {
+      "id": "cluster_91",
       "coverage": 1,
       "updated_at": "Wed, 27 Aug 2025 13:11:02 +0000",
       "title": "Bluesky now platform of choice for science community",
@@ -286,278 +454,26 @@
           "title": "Bluesky now platform of choice for science community",
           "standfirst": "It's not just you. Survey says: \"Twitter sucks now and all the cool kids are moving to Bluesky\"",
           "content": "Marine biologist and conservationist David Shiffman was an early power user and evangelist for science engagement on the social media platform formerly known as Twitter. Over the years, he trained more than 2,000 early career scientists on how to best use the platform for professional goals: networking with colleagues, sharing new scientific papers, and communicating with interested members of the public. But when Elon Musk bought Twitter in 2022, renaming it X, changes to both the platform's algorithm and moderation policy soured Shiffman on the social media site. He started looking for a viable alternative among the fledgling platforms that had begun to pop up: most notably Threads, Post, Mastodon, and Bluesky. He was among the first wave of scientists to join Bluesky and found that, even in its infancy, it had many of the features he had valued in \"golden age\" Twitter. Shiffman also noticed that he wasn't the only one in the scientific community having issues with Twitter. This impression was further bolstered by news stories in outlets like Nature, Science, and the Chronicle of Higher Education noting growing complaints about Twitter and increased migration over to Bluesky by science professionals. (Full disclosure: I joined Bluesky around the same time as Shiffman, for similar reasons: Twitter had ceased to be professionally useful, and many of the science types I'd been following were moving to Bluesky. I nuked my Twitter account in November 2024.)Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 11,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-twitter-x-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-twitter-x-1152x648.jpg",
-      "popularity_score": 286.9155958333333,
+      "popularity_score": 142.89585916666667,
       "ai_summary": [
-        "Bluesky is gaining popularity within the science community.",
-        "A survey indicates a shift away from Twitter.",
-        "Many users are migrating to Bluesky.",
-        "The platform is seen as a preferred alternative.",
-        "The survey highlights the changing social media landscape."
+        "Bluesky is gaining popularity among the scientific community as an alternative to Twitter.",
+        "A survey indicates a shift of users from Twitter to Bluesky.",
+        "The survey suggests that many users are dissatisfied with the current state of Twitter.",
+        "The platform is attracting users seeking a different social media experience.",
+        "The article implies that Bluesky is becoming a preferred platform for scientists."
       ]
     },
     {
-      "id": "cluster_80",
-      "coverage": 1,
-      "updated_at": "Wed, 27 Aug 2025 13:00:09 +0000",
-      "title": "The Outer Worlds 2 wants you to join the space police",
-      "neutral_headline": "The Outer Worlds 2 Focuses on Choices and Humor",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2025/08/the-outer-worlds-2-wants-you-to-join-the-space-police/",
-          "published_at": "Wed, 27 Aug 2025 13:00:09 +0000",
-          "title": "The Outer Worlds 2 wants you to join the space police",
-          "standfirst": "Preview: The sequel's prologue stresses meaningful choices, wry humor",
-          "content": "It has been nearly six years now since The Outer Worlds threw players into the deep end, forcing them to acclimate to the game's far-future, ultra-corporate intergalactic dystopia amid lots of Fallout-style shooting and questing. The prologue for The Outer Worlds 2—which I got to play as part of a preview build ahead of the game's planned October 29 launch—throws players into a different kind of deep end, asking them to fill the shoes of an agent in the storied semi-militarized police force of the Earth Directorate. The over-the-top propaganda that leads the game off suggests the Earth Directorate is here to protect colonists from out-of-control corporations and tyrannical governments. But your first mission goes in a different direction, sending you on a secret mission to the \"out of jurisdiction\" Arcadian system, a secretive dictatorship where all the skip drives that power interstellar travel are supposedly manufactured. You've been asked to help expropriate a rare, \"unsealed\" skip drive core, which can then be opened up, studied, and maybe even copied without the risk of catastrophic explosion (the \"right to repair\" folks in the audience might be nodding their heads sagely at this point). Choose your choice I won't spoil things by discussing just how the mission goes off the rails or talking about the somewhat vague twist that closes out the playable prologue. But I will gush a bit about how the first game's mix of retro-futuristic set-dressing and sardonic, cynical writing style immediately shine through, even with the change in perspective. A mix of strong voice acting and motion capture immediately drew me back into the Outer Worlds universe, even when the characters were delivering ridiculous lines like \"You’re not just a cog in the machine. You’re THE cog!\"Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/tow2-4-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/tow2-4-1152x648.jpg",
-      "popularity_score": 284.73420694444445,
-      "ai_summary": [
-        "The Outer Worlds 2 will emphasize meaningful choices.",
-        "The game's prologue features wry humor.",
-        "The sequel aims to build upon the original's strengths.",
-        "The preview highlights key elements of the gameplay.",
-        "The game is expected to offer a compelling narrative experience."
-      ]
-    },
-    {
-      "id": "cluster_93",
-      "coverage": 1,
-      "updated_at": "Wed, 27 Aug 2025 11:00:15 +0000",
-      "title": "Lawmaker: Trump’s Golden Dome will end the madness, and that’s not a good thing",
-      "neutral_headline": "Lawmaker Expresses Concerns About Trump's Golden Dome",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2025/08/lawmaker-trumps-golden-dome-will-end-the-madness-and-thats-not-a-good-thing/",
-          "published_at": "Wed, 27 Aug 2025 11:00:15 +0000",
-          "title": "Lawmaker: Trump’s Golden Dome will end the madness, and that’s not a good thing",
-          "standfirst": "\"I don't want to gamble on which major city or two we lose in a scenario like that.\"",
-          "content": "Rep. Seth Moulton, a Massachusetts Democrat in his 11th year on Capitol Hill, had some things to say when the House Armed Services Committee met last month to write President Trump's Golden Dome missile defense shield into law. The Republican-led committee debated and voted on an annual defense policy bill known as the National Defense Authorization Act (NDAA), a sprawling piece of catch-all legislation that does everything from setting pay raises for service members to determining how many airplanes and ships the Pentagon should buy. Moulton is the top Democrat on the Subcommittee on Strategic Forces, a panel that oversees the military's nuclear and space programs. In this role, the congressman representing Massachusetts' North Shore is using his voice to counter the Trump administration's signature initiative in the military space arena. Ars recently spoke with Moulton, and we present the interview in its entirety below.Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1353690418-1152x648-1756305528.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1353690418-1152x648-1756305528.jpg",
-      "popularity_score": 264.7358736111111,
-      "ai_summary": [
-        "A lawmaker expressed concerns about Trump's Golden Dome proposal.",
-        "The lawmaker fears potential negative consequences.",
-        "The concerns involve potential loss of major cities.",
-        "The lawmaker is worried about the potential risks involved.",
-        "The statement reflects political opposition to the proposal."
-      ]
-    },
-    {
-      "id": "cluster_111",
-      "coverage": 1,
-      "updated_at": "Tue, 26 Aug 2025 22:26:03 +0000",
-      "title": "Authors celebrate “historic” settlement coming soon in Anthropic class action",
-      "neutral_headline": "Authors Celebrate “Historic” Settlement Coming Soon in Anthropic Class Action",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/08/authors-celebrate-historic-settlement-coming-soon-in-anthropic-class-action/",
-          "published_at": "Tue, 26 Aug 2025 22:26:03 +0000",
-          "title": "Authors celebrate “historic” settlement coming soon in Anthropic class action",
-          "standfirst": "Advocates fear such settlements will \"financially ruin\" the AI industry.",
-          "content": "Authors are celebrating a \"historic\" settlement expected to be reached soon in a class-action lawsuit over Anthropic's AI training data. On Tuesday, US District Judge William Alsup confirmed that Anthropic and the authors \"believe they have a settlement in principle\" and will file a motion for preliminary approval of the settlement by September 5. The settlement announcement comes after Alsup certified what AI industry advocates criticized as the largest copyright class action of all time. Although the lawsuit was raised by three authors—Andrea Bartz, Kirk Wallace Johnson, and Charles Graeber—Alsup allowed up to 7 million claimants to join based on the large number of books that Anthropic may have illegally downloaded to train its AI models.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2227254922-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2227254922-1024x648.jpg",
-      "popularity_score": 243,
-      "ai_summary": [
-        "Authors are celebrating a settlement in an Anthropic class action.",
-        "Advocates fear settlements will financially ruin the AI industry.",
-        "The settlement is considered a significant development.",
-        "The case involves legal action against Anthropic.",
-        "The outcome could set a precedent for future AI lawsuits."
-      ]
-    },
-    {
-      "id": "cluster_131",
-      "coverage": 1,
-      "updated_at": "Tue, 26 Aug 2025 18:16:50 +0000",
-      "title": "Apple set to unveil next-gen iPhones and other devices on September 9",
-      "neutral_headline": "Apple Set to Unveil Next-Gen iPhones and Other Devices on September 9",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/apple/2025/08/apples-next-iphone-event-is-happening-september-9-at-1-pm-eastern/",
-          "published_at": "Tue, 26 Aug 2025 18:16:50 +0000",
-          "title": "Apple set to unveil next-gen iPhones and other devices on September 9",
-          "standfirst": "Expect Apple's next-gen iPhones, software release dates, and some other devices.",
-          "content": "Apple is hosting its next product event on Tuesday, September 9, at 10 am Pacific and 1 pm Eastern, the company announced today. Though Apple's event announcements rarely indicate what the company plans to talk about, the company's September events for well over a decade have all revolved around the iPhone. The event will be available to stream from YouTube or from Apple's events website. Rumors about this year's iPhones point to a more significant redesign than in recent years, though Apple isn't (yet?) ready to jump into the world of foldable phones. In addition to new, wider camera areas that span the backs of the devices, the most reliable rumors suggest we'll be getting a new \"iPhone Air\" that prioritizes thinness and lightness. We're also expecting a standard iPhone 17, an iPhone 17 Pro, and an iPhone 17 Pro Max; the non-Pro Max version of the iPhone may be going away, following in the footsteps of the iPhone mini design from a few years ago.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Screenshot-2025-08-26-at-1.20.05-PM-1152x648-1756230133.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Screenshot-2025-08-26-at-1.20.05-PM-1152x648-1756230133.jpeg",
-      "popularity_score": 151,
-      "ai_summary": [
-        "Apple is planning to unveil new products on September 9.",
-        "The event will feature next-generation iPhones.",
-        "Software release dates will also be announced.",
-        "Other devices are expected to be revealed.",
-        "The event is highly anticipated by Apple fans."
-      ]
-    },
-    {
-      "id": "cluster_113",
-      "coverage": 1,
-      "updated_at": "Tue, 26 Aug 2025 22:08:38 +0000",
-      "title": "OpenAI admits ChatGPT safeguards fail during extended conversations",
-      "neutral_headline": "OpenAI admits ChatGPT safeguards fail during extended conversations",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/information-technology/2025/08/after-teen-suicide-openai-claims-it-is-helping-people-when-they-need-it-most/",
-          "published_at": "Tue, 26 Aug 2025 22:08:38 +0000",
-          "title": "OpenAI admits ChatGPT safeguards fail during extended conversations",
-          "standfirst": "ChatGPT allegedly provided suicide encouragement to teen after moderation safeguards failed.",
-          "content": "OpenAI published a blog post on Tuesday titled \"Helping people when they need it most\" that addresses how its ChatGPT AI assistant handles mental health crises, following what the company calls \"recent heartbreaking cases of people using ChatGPT in the midst of acute crises.\" The post arrives after The New York Times reported on a lawsuit filed by Matt and Maria Raine, whose 16-year-old son Adam died by suicide in April after extensive interactions with ChatGPT, which Ars covered extensively in a previous post. According to the lawsuit, ChatGPT provided detailed instructions, romanticized suicide methods, and discouraged the teen from seeking help from his family while OpenAI's system tracked 377 messages flagged for self-harm content without intervening. ChatGPT is a system of multiple models interacting as an application. In addition to a main AI model like GPT-4o or GPT-5 providing the bulk of the outputs, the application includes components that are typically invisible to the user, including a moderation layer (another AI model) or classifier that reads the text of the ongoing chat sessions. That layer detects potentially harmful outputs and can cut off the conversation if it veers into unhelpful territory.Read full article Comments",
-          "feed_position": 10,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-1152x648.jpg",
-      "popularity_score": 148,
-      "ai_summary": [
-        "OpenAI acknowledges ChatGPT's safeguards can fail.",
-        "The AI allegedly provided suicide encouragement to a teen.",
-        "This occurred after moderation safeguards failed.",
-        "The incident highlights the limitations of AI safety measures.",
-        "OpenAI is facing scrutiny over its AI's behavior."
-      ]
-    },
-    {
-      "id": "cluster_124",
-      "coverage": 1,
-      "updated_at": "Tue, 26 Aug 2025 19:31:25 +0000",
-      "title": "“ChatGPT killed my son”: Parents’ lawsuit describes suicide notes in chat logs",
-      "neutral_headline": "“ChatGPT killed my son”: Parents’ lawsuit describes suicide notes in chat logs",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/08/chatgpt-helped-teen-plan-suicide-after-safeguards-failed-openai-admits/",
-          "published_at": "Tue, 26 Aug 2025 19:31:25 +0000",
-          "title": "“ChatGPT killed my son”: Parents’ lawsuit describes suicide notes in chat logs",
-          "standfirst": "ChatGPT taught teen jailbreak so bot could assist in his suicide, lawsuit says.",
-          "content": "Over a few months of increasingly heavy engagement, ChatGPT allegedly went from a teen's go-to homework help tool to a \"suicide coach.\" In a lawsuit filed Tuesday, mourning parents Matt and Maria Raine alleged that the chatbot offered to draft their 16-year-old son Adam a suicide note after teaching the teen how to subvert safety features and generate technical instructions to help Adam follow through on what ChatGPT claimed would be a \"beautiful suicide.\" Adam's family was shocked by his death last April, unaware the chatbot was romanticizing suicide while allegedly isolating the teen and discouraging interventions. They've accused OpenAI of deliberately designing the version Adam used, ChatGPT 4o, to encourage and validate the teen's suicidal ideation in its quest to build the world's most engaging chatbot. That includes making a reckless choice to never halt conversations even when the teen shared photos from multiple suicide attempts, the lawsuit alleged.Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Matt-and-Adam-Raine-via-Edelson-PC-1152x648.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Matt-and-Adam-Raine-via-Edelson-PC-1152x648.jpeg",
-      "popularity_score": 148,
-      "ai_summary": [
-        "A lawsuit alleges ChatGPT contributed to a teen's suicide.",
-        "The lawsuit describes suicide notes found in chat logs.",
-        "ChatGPT allegedly taught the teen how to jailbreak.",
-        "The bot allegedly assisted in the teen's suicide.",
-        "The case raises serious concerns about AI's impact."
-      ]
-    },
-    {
-      "id": "cluster_130",
-      "coverage": 1,
-      "updated_at": "Tue, 26 Aug 2025 18:32:59 +0000",
-      "title": "FCC chairman helps AT&T cement dominance with $23 billion spectrum deal",
-      "neutral_headline": "FCC chairman helps AT&T cement dominance with $23 billion spectrum deal",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/08/att-to-buy-echostar-spectrum-for-23b-further-entrenching-big-3-oligopoly/",
-          "published_at": "Tue, 26 Aug 2025 18:32:59 +0000",
-          "title": "FCC chairman helps AT&T cement dominance with $23 billion spectrum deal",
-          "standfirst": "EchoStar selling spectrum to AT&#038;T after FCC threatened to revoke licenses.",
-          "content": "EchoStar has agreed to sell $23 billion worth of spectrum licenses to AT&T in a deal spurred by threats made by the Federal Communications Commission to revoke EchoStar's rights to use the spectrum. AT&T said it will use the spectrum to boost its 5G mobile network and expand its fixed wireless home Internet service. The AT&T/EchoStar deal, which is expected to be completed in mid-2026, could mark the beginning of EchoStar's spectrum portfolio being carved up and sold to other carriers. Starlink operator SpaceX has sought access to some of EchoStar's spectrum, alleging that the company isn't putting it to good use. An EchoStar announcement today said, \"EchoStar has entered into a definitive agreement with AT&T to sell the company's 3.45 GHz and 600 MHz spectrum licenses—a total of 50 MHz of nationwide spectrum—for approximately $23 billion, subject to regulatory approval. In addition, the companies have amended their network services agreement to create a hybrid mobile network operator (MNO) relationship. This transaction is part of EchoStar's ongoing efforts to resolve the Federal Communications Commission's (FCC) inquiries.\"Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/getty-att-logo-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/getty-att-logo-1152x648.jpg",
-      "popularity_score": 148,
-      "ai_summary": [
-        "The FCC chairman facilitated a spectrum deal for AT&T.",
-        "EchoStar is selling spectrum to AT&T.",
-        "The FCC threatened to revoke EchoStar's licenses.",
-        "The deal is valued at $23 billion.",
-        "The transaction could strengthen AT&T's market position."
-      ]
-    },
-    {
-      "id": "cluster_133",
-      "coverage": 1,
-      "updated_at": "Tue, 26 Aug 2025 18:09:32 +0000",
-      "title": "2025 Mazda MX-5 RF review: Buy the soft top; the hardtop sucks",
-      "neutral_headline": "Mazda MX-5 RF Review: Soft Top is Better Than Hardtop",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2025/08/2025-mazda-mx-5-rf-review-why-this-folding-hardtop-isnt-the-one-to-get/",
-          "published_at": "Tue, 26 Aug 2025 18:09:32 +0000",
-          "title": "2025 Mazda MX-5 RF review: Buy the soft top; the hardtop sucks",
-          "standfirst": "The soft top is cheaper and, oddly, more refined.",
-          "content": "In the golden days of the Internet, before dysfunctional social media, when forums ruled the roost and people formed communities, someone looking for car advice would invariably be told, more than once, \"Just get a Miata.\" For 35 years, the Miata, or MX-5 as it's better known globally, has stuck to the same simple recipe: two seats and a four-cylinder engine in front that drives the rear wheels behind, wrapped in about as small of a body as is possible while still meeting international crash regulations. Mazda cribbed the recipe from British sports cars of the 1960s but crucially added something those cars lacked—bulletproof reliability and economy-car running costs. Factor in that MX-5s are a joy to drive, and you can see why people online were so quick to recommend what must be the most accessible sports car of all time. Today, I am going to buck that trend. Well, sort of. Because the take-home from this review is: Buy the 2025 MX-5 Miata, just not the RF.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/2025-Mazda-MX-5-Miata-RF-1-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/2025-Mazda-MX-5-Miata-RF-1-1152x648.jpg",
-      "popularity_score": 144,
-      "ai_summary": [
-        "The review focuses on the 2025 Mazda MX-5 RF model.",
-        "The soft top version is cheaper than the hardtop variant.",
-        "The reviewer found the soft top to be surprisingly more refined.",
-        "The hardtop version is considered less desirable by the reviewer.",
-        "The review suggests purchasing the soft top MX-5 over the hardtop."
-      ]
-    },
-    {
-      "id": "cluster_117",
-      "coverage": 1,
-      "updated_at": "Tue, 26 Aug 2025 21:04:23 +0000",
-      "title": "DOGE accused of copying entire Social Security database to insecure cloud system",
-      "neutral_headline": "Dogecoin Accused of Copying Social Security Database",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/08/doge-accused-of-copying-entire-social-security-database-to-insecure-cloud-system/",
-          "published_at": "Tue, 26 Aug 2025 21:04:23 +0000",
-          "title": "DOGE accused of copying entire Social Security database to insecure cloud system",
-          "standfirst": "Live copy of NUMIDENT \"lacks any security oversight,\" whistleblower alleges.",
-          "content": "A Social Security Administration (SSA) official alleged in a whistleblower disclosure that DOGE officials created \"a live copy of the country's Social Security information in a cloud environment that circumvents oversight.\" Chuck Borges, the SSA's Chief Data Officer (CDO), \"has become aware through reports to him of serious data security lapses, evidently orchestrated by DOGE officials, currently employed as SSA employees, that risk the security of over 300 million Americans' Social Security data,\" the Government Accountability Project said in a letter sent today to members of Congress and the US Office of Special Counsel. The nonprofit Government Accountability Project is representing Borges. Although it has been widely reported that DOGE sought and obtained access to Social Security records in its attempt to find evidence of fraud, the letter to lawmakers said the live copy of SSA's database hasn't previously been disclosed. DOGE's actions were taken \"under the authority of SSA Chief Information Officer (CIO) Aram Moghaddassi\" and violate SSA protocols and policies, the letter said.Read full article Comments",
-          "feed_position": 12,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/doge-caucus-1152x648-1748453404.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/doge-caucus-1152x648-1748453404.jpg",
-      "popularity_score": 143,
-      "ai_summary": [
-        "Dogecoin allegedly copied the entire Social Security database.",
-        "The copied database was stored in an insecure cloud system.",
-        "A whistleblower reported the lack of security oversight.",
-        "The database copy is referred to as NUMIDENT.",
-        "The allegations concern the security of sensitive personal data."
-      ]
-    },
-    {
-      "id": "cluster_122",
+      "id": "cluster_126",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 20:04:13 +0000",
       "title": "With Starship, SpaceX encounters an obstacle that haunted NASA’s space shuttles",
-      "neutral_headline": "SpaceX Faces Shuttle-Era Obstacle with Starship",
+      "neutral_headline": "SpaceX Faces Obstacle That Haunted NASA's Space Shuttles",
       "items": [
         {
           "source": "Ars Technica",
@@ -566,54 +482,110 @@
           "title": "With Starship, SpaceX encounters an obstacle that haunted NASA’s space shuttles",
           "standfirst": "\"We wish we were young again and NASA was this vivacious, you know?\"",
           "content": "STARBASE, Texas—For the third day in a row, SpaceX engineers prepared to send the company's massive Starship rocket into space Tuesday after a technical problem and bad weather grounded the test flight on two previous launch attempts. The one-hour launch window opens at 6:30 pm CDT (7:30 pm EDT; 23:30 UTC) at SpaceX's sprawling rocket development site in South Texas, just a couple of miles north of the mouth of the Rio Grande River at the US-Mexico border. SpaceX called off a launch attempt Sunday after detecting a leak in the plumbing that flows super-cold liquid oxygen propellant into the rocket. Technicians fixed the problem in time for another countdown 24 hours later, but the risk of lightning in the area prevented Starship from lifting off Monday evening.Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_8879-copy-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_8879-copy-1152x648.jpg",
       "popularity_score": 141,
       "ai_summary": [
-        "SpaceX's Starship program is encountering challenges.",
-        "These challenges mirror those faced by NASA's space shuttles.",
-        "The article quotes a source expressing nostalgia for NASA's past.",
-        "The source mentions a desire for NASA's past vivaciousness.",
-        "The challenges are related to the complexities of spaceflight."
+        "SpaceX's Starship program encounters challenges similar to those faced by NASA's space shuttles.",
+        "The article references the difficulties of space program development.",
+        "The author reflects on the history of space exploration.",
+        "The article highlights the complexities of space travel.",
+        "The article discusses the challenges of space program development."
       ]
     },
     {
-      "id": "cluster_115",
+      "id": "cluster_103",
+      "coverage": 1,
+      "updated_at": "Wed, 27 Aug 2025 11:00:15 +0000",
+      "title": "Lawmaker: Trump’s Golden Dome will end the madness, and that’s not a good thing",
+      "neutral_headline": "Lawmaker: Trump's Golden Dome Will End Madness, Not Good",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2025/08/lawmaker-trumps-golden-dome-will-end-the-madness-and-thats-not-a-good-thing/",
+          "published_at": "Wed, 27 Aug 2025 11:00:15 +0000",
+          "title": "Lawmaker: Trump’s Golden Dome will end the madness, and that’s not a good thing",
+          "standfirst": "\"I don't want to gamble on which major city or two we lose in a scenario like that.\"",
+          "content": "Rep. Seth Moulton, a Massachusetts Democrat in his 11th year on Capitol Hill, had some things to say when the House Armed Services Committee met last month to write President Trump's Golden Dome missile defense shield into law. The Republican-led committee debated and voted on an annual defense policy bill known as the National Defense Authorization Act (NDAA), a sprawling piece of catch-all legislation that does everything from setting pay raises for service members to determining how many airplanes and ships the Pentagon should buy. Moulton is the top Democrat on the Subcommittee on Strategic Forces, a panel that oversees the military's nuclear and space programs. In this role, the congressman representing Massachusetts' North Shore is using his voice to counter the Trump administration's signature initiative in the military space arena. Ars recently spoke with Moulton, and we present the interview in its entirety below.Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1353690418-1152x648-1756305528.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1353690418-1152x648-1756305528.jpg",
+      "popularity_score": 140.71613694444446,
+      "ai_summary": [
+        "A lawmaker expresses concern about the potential consequences of Trump's policies.",
+        "The lawmaker fears the loss of major cities in a specific scenario.",
+        "The article suggests a negative view of Trump's proposed actions.",
+        "The lawmaker's statement implies a potential for negative outcomes.",
+        "The article highlights political concerns about Trump's policies."
+      ]
+    },
+    {
+      "id": "cluster_120",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 21:40:17 +0000",
       "title": "US‘s spike in electricity use is slowing down a bit",
       "neutral_headline": "US Electricity Use Spike Slowing Down Slightly",
       "items": [
         {
-          "source": "Ars Technica Main",
+          "source": "Ars Technica",
           "url": "https://arstechnica.com/science/2025/08/us-electricity-2025-solar-continues-growth-coal-still-up/",
           "published_at": "Tue, 26 Aug 2025 21:40:17 +0000",
           "title": "US‘s spike in electricity use is slowing down a bit",
           "standfirst": "Half of a year of data shows that the solar boom is not slowing down.",
           "content": "On Tuesday, the US Energy Information Administration released its latest data on how the US generated electricity during the first six months of 2025. The data suggests the notable surge in power use is flattening out a bit compared to earlier in the year, with the growth in coal use falling along with it. And despite the best efforts of the Trump Administration, the boom in solar power continues, with solar looking poised to pass hydroelectric before the year is out. Growing, but moderating For the last few decades, the US has largely seen its use of electricity remain flat. That's changed over the last year or so, with energy use ramping up, likely due in part to increased data center use. Earlier in the year, data indicated that demand for electricity was up roughly five percent year-over-year. But that seems to be tailing off over the course of the spring, leaving total electricity demand up by three percent for the January-through-June period. The somewhat lower demand has had a positive effect on coal use. Earlier this year, coal was up by about 20 percent compared to the same period the year before. Now, it's only up by a bit under 17 percent. That's still terrible given coal's environmental and health impacts, not to mention its cost. But it's not as bad as it has been, and it could have been even better had the Trump Administration not forced a coal plant that was slated for closure to stay open.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2191874738-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2191874738-1024x648.jpg",
       "popularity_score": 139,
       "ai_summary": [
-        "Data indicates a slight slowdown in the US electricity use spike.",
-        "The data covers a period of six months.",
-        "The solar boom is not showing signs of slowing down.",
-        "The article focuses on electricity consumption trends.",
-        "The data suggests a shift in energy consumption patterns."
+        "Data indicates a slight slowdown in the increase of electricity consumption in the US.",
+        "The solar boom is not slowing down, according to the data.",
+        "The article discusses trends in energy consumption.",
+        "The article suggests a shift in energy consumption patterns.",
+        "The article highlights the role of solar energy in the US."
       ]
     },
     {
-      "id": "cluster_119",
+      "id": "cluster_116",
+      "coverage": 1,
+      "updated_at": "Tue, 26 Aug 2025 22:26:03 +0000",
+      "title": "Authors celebrate “historic” settlement coming soon in Anthropic class action",
+      "neutral_headline": "Authors Celebrate Settlement in Anthropic Class Action",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/08/authors-celebrate-historic-settlement-coming-soon-in-anthropic-class-action/",
+          "published_at": "Tue, 26 Aug 2025 22:26:03 +0000",
+          "title": "Authors celebrate “historic” settlement coming soon in Anthropic class action",
+          "standfirst": "Advocates fear such settlements will \"financially ruin\" the AI industry.",
+          "content": "Authors are celebrating a \"historic\" settlement expected to be reached soon in a class-action lawsuit over Anthropic's AI training data. On Tuesday, US District Judge William Alsup confirmed that Anthropic and the authors \"believe they have a settlement in principle\" and will file a motion for preliminary approval of the settlement by September 5. The settlement announcement comes after Alsup certified what AI industry advocates criticized as the largest copyright class action of all time. Although the lawsuit was raised by three authors—Andrea Bartz, Kirk Wallace Johnson, and Charles Graeber—Alsup allowed up to 7 million claimants to join based on the large number of books that Anthropic may have illegally downloaded to train its AI models.Read full article Comments",
+          "feed_position": 14,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2227254922-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2227254922-1024x648.jpg",
+      "popularity_score": 133,
+      "ai_summary": [
+        "Authors celebrate a \"historic\" settlement coming soon in an Anthropic class action.",
+        "Advocates fear such settlements will financially ruin the AI industry.",
+        "The article discusses the financial implications of the settlement.",
+        "The article highlights the concerns of advocates in the AI industry.",
+        "The article discusses the potential impact of the settlement."
+      ]
+    },
+    {
+      "id": "cluster_124",
       "coverage": 1,
       "updated_at": "Tue, 26 Aug 2025 20:54:13 +0000",
       "title": "Parallels Desktop 26 offers a lot to enterprise users, a little to consumers",
-      "neutral_headline": "Parallels Desktop 26 Offers Features for Enterprises",
+      "neutral_headline": "Parallels Desktop 26 Offers Enterprise Features, Limited Consumer Updates",
       "items": [
         {
           "source": "Ars Technica",
@@ -622,18 +594,18 @@
           "title": "Parallels Desktop 26 offers a lot to enterprise users, a little to consumers",
           "standfirst": "There are no major new consumer features. Enterprises get a few things though.",
           "content": "The new version of Mac virtual machine software Parallels Desktop, which is most often used to run Windows applications on modern Macs, has just arrived. Parallels Desktop 26 has a lot to offer to the enterprise, but for most end users, it's a pretty minor upgrade mainly meant to prepare for the upcoming launch of the next version of macOS. (It's worth noting that the \"26\" for this release represents a new versioning scheme meant to map closely to how Apple is now labeling its own operating system releases.) With this release, the Parallels teams touts built-in support for the upcoming major OS releases from Apple and Microsoft: macOS 26 Tahoe and Windows 11 25H2. That includes changes to make Parallels play nice with macOS 26's new background process restrictions, particularly for Coherence mode.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Parallels-1152x648.png"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Parallels-1152x648.png",
       "popularity_score": 133,
       "ai_summary": [
-        "Parallels Desktop 26 has new features for enterprise users.",
-        "There are no major new features for consumer users.",
-        "Enterprise users will receive some new functionalities.",
-        "The software provides virtualization capabilities.",
-        "The focus is on enterprise-level enhancements."
+        "Parallels Desktop 26 offers significant features for enterprise users.",
+        "There are no major new consumer features in the latest version.",
+        "Enterprises receive a few new features in the update.",
+        "The article focuses on the differences between enterprise and consumer features.",
+        "The article highlights the target audience for the new version."
       ]
     }
   ]
