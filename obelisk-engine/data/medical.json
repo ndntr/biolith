@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2025-08-29T23:17:09.441Z",
+    "updated_at": "2025-08-30T03:29:00.047Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-08-29T23:17:26.071Z",
+    "updated_at": "2025-08-30T03:29:17.515Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -27,9 +27,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/e3536198-08fb-4a85-8014-447c8b664659/Rural-healthcare-in-crisis-New-report-reveals-8.35b-funding-gap.aspx",
         "ai_summary": [
           "A new report highlights an $8.35 billion funding gap in rural healthcare.",
-          "The report indicates that rural GPs are working with limited resources.",
-          "The funding shortfall puts patients' lives at risk.",
-          "The report reveals the challenges faced by rural doctors and patients."
+          "Rural GPs are working with limited resources and services.",
+          "The report emphasizes the risks to patients in rural areas.",
+          "The funding shortfall affects both patients and doctors.",
+          "The report reveals the challenges facing rural healthcare."
         ]
       },
       {
@@ -52,10 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/f46ed468-95c5-4567-b5c1-c3471f97b673/RACGP-to-launch-national-New-Fellows-committee.aspx",
         "ai_summary": [
-          "The Royal Australian College of General Practitioners (RACGP) will launch a committee.",
-          "The committee will focus on supporting new fellows within the college.",
-          "The goal is to give new GPs a stronger voice within the RACGP.",
-          "The committee will provide enhanced support for new members."
+          "The RACGP will establish a national New Fellows committee.",
+          "The committee aims to give new GPs a stronger voice.",
+          "The committee will provide increased support for new members.",
+          "The committee is designed to support new GPs within the college.",
+          "The initiative seeks to enhance support for new members."
         ]
       },
       {
@@ -78,10 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/42a22637-89ce-4e67-92e1-308191016f8c/Doctors-in-the-House-QLD-GPs-visit-State-Parliament.aspx",
         "ai_summary": [
-          "A delegation of Queensland GPs visited the State Parliament.",
-          "The GPs met with key politicians during their visit.",
-          "They discussed various priorities related to general practice.",
-          "The meeting aimed to address important issues in healthcare."
+          "Queensland GPs met with state politicians in Parliament.",
+          "The GPs discussed key priorities for general practice.",
+          "The meeting involved a delegation of Queensland GPs.",
+          "The GPs aimed to address important issues.",
+          "The meeting took place in the Queensland State Parliament."
         ]
       },
       {
@@ -104,10 +107,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/a3258b00-7b5e-4580-90aa-e67c03760eee/Government-continues-bulk-billing-push.aspx",
         "ai_summary": [
-          "The government is continuing its efforts to promote bulk billing.",
-          "Practices participating in the incentive program must advertise their involvement.",
-          "Advertising must be done online and to patients directly.",
-          "The program aims to increase access to bulk-billed services."
+          "The government is continuing its push for bulk billing.",
+          "Practices participating in the incentive program must advertise.",
+          "Practices must advertise their participation online and to patients.",
+          "The incentive program is incoming.",
+          "The government is encouraging bulk billing practices."
         ]
       },
       {
@@ -130,23 +134,24 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/568a4a80-95c6-4fbb-8e50-be1af2d398b2/In-Practice-More-GP25-keynote-speakers-announced.aspx",
         "ai_summary": [
-          "The RACGP has announced additional keynote speakers for the GP25 conference.",
+          "The RACGP announced additional keynote speakers for GP25.",
           "The new speakers specialize in Aboriginal and Torres Strait Islander health.",
-          "The conference is held annually by the RACGP.",
-          "The speakers will present at the upcoming conference."
+          "The speakers will present at the annual conference.",
+          "The conference is organized by the RACGP.",
+          "The conference will feature new keynote speakers."
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2025-08-29T23:17:20.924Z",
+    "updated_at": "2025-08-30T03:29:12.584Z",
     "clusters": [
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 2,
         "updated_at": "Fri, 29 Aug 2025 11:51:59 GMT",
         "title": "What is chickenpox and how can I get my child vaccinated?",
-        "neutral_headline": "Chickenpox vaccine to be offered to children in England",
+        "neutral_headline": "Chickenpox vaccination offered to children in England",
         "items": [
           {
             "source": "BBC Health",
@@ -189,19 +194,46 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4209/live/2447a060-826f-11f0-a832-3d1a9236e27e.jpg",
         "ai_summary": [
-          "The NHS in England and Wales will offer the MMRV vaccine from January 2026.",
-          "The vaccine will be offered to young children.",
+          "The NHS in England will offer the chickenpox vaccine from January 2026.",
+          "The vaccine will be the MMRV vaccine for young children.",
           "The free vaccination aims to reduce hospital admissions.",
-          "The vaccination will protect those most at risk of complications.",
-          "Experts warn that many children start school without vaccinations."
+          "The vaccination program will protect those at risk of complications.",
+          "Experts warn of faltering infant vaccination programs in England."
         ]
       },
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Sat, 30 Aug 2025 00:55:53 GMT",
+        "title": "Military drills spark hundreds of wildfires in UK",
+        "neutral_headline": "Military drills cause hundreds of UK wildfires",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cy08j04je2jo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 30 Aug 2025 00:55:53 GMT",
+            "title": "Military drills spark hundreds of wildfires in UK",
+            "standfirst": "Live explosives on army training sites in the UK countryside mean many wildfires cannot be tackled.",
+            "content": "Live explosives on army training sites in the UK countryside mean many wildfires cannot be tackled.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a40/live/aee52200-835b-11f0-b3de-c13d348c14aa.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a40/live/aee52200-835b-11f0-b3de-c13d348c14aa.jpg",
+        "ai_summary": [
+          "Military drills in the UK are causing numerous wildfires.",
+          "Live explosives on training sites prevent fire suppression.",
+          "The wildfires are occurring in the UK countryside.",
+          "The article discusses the impact of military training.",
+          "The fires are difficult to tackle due to live explosives."
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
         "updated_at": "Fri, 29 Aug 2025 17:48:34 GMT",
         "title": "RFK Jr continues to make dubious health claims as CDC roils under his leadership",
-        "neutral_headline": "RFK Jr continues to make dubious health claims as CDC roils under his leadership: As leaders at Centers for Disease Control quit after director’s firing, Kennedy stokes controversy with pet theoriesIn a week of chaos at the Centers for Disease Control and Prevention, Donald Trump’s health secretary, Robert F Kennedy Jr, has continued to make questionable medical and health claims – and has been slammed for them by experts and lawmakers alike.In recent days, Kennedy has been facing increasing calls for his resignation following the Trump administration’s firing of the CDC director, Susan Monarez, which in turn prompted four other top officials to quit the agency. The chaos across US health agencies also comes as Kennedy released a slew of controversial and contradictory rules surrounding Covid-19 vaccines",
+        "neutral_headline": "RFK Jr. Faces Criticism Regarding Health Claims and CDC",
         "items": [
           {
             "source": "Guardian Health",
@@ -220,49 +252,22 @@
             "standfirst": "Deputy health secretary chosen as agency’s interim director after firing of Susan MonarezWho’s who in the CDC crisis?The White House has chosen a deputy of Robert F Kennedy Jr to serve as the acting head of the US Centers for Disease Control and Prevention (CDC), a decision that comes as the standoff over the firing of director Susan Monarez has deepened, with Monarez’s lawyers claiming she will not depart unless Donald Trump himself removes her.A White House official confirmed to the Guardian that Jim O’Neill, currently the deputy secretary of the Department of Health and Human Services (HHS), had been selected to temporarily lead the public health agency, giving Kennedy an ally in his efforts to overhaul US vaccine policy. Continue reading...",
             "content": "Deputy health secretary chosen as agency’s interim director after firing of Susan MonarezWho’s who in the CDC crisis?The White House has chosen a deputy of Robert F Kennedy Jr to serve as the acting head of the US Centers for Disease Control and Prevention (CDC), a decision that comes as the standoff over the firing of director Susan Monarez has deepened, with Monarez’s lawyers claiming she will not depart unless Donald Trump himself removes her.A White House official confirmed to the Guardian that Jim O’Neill, currently the deputy secretary of the Department of Health and Human Services (HHS), had been selected to temporarily lead the public health agency, giving Kennedy an ally in his efforts to overhaul US vaccine policy. Continue reading...",
             "feed_position": 4
-          },
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/us-news/2025/aug/28/cdc-rally-staffers-protest",
-            "published_at": "Thu, 28 Aug 2025 21:45:12 GMT",
-            "title": "CDC officials who quit in protest lead call to ‘get politics out of public health’",
-            "standfirst": "Staffers gather in Atlanta to applaud senior leaders who resigned after CDC chief Susan Monarez was firedWho’s who in the CDC crisis?Senior CDC vaccine research and public health leaders who resigned in protest told hundreds of supporters across the street from the campus on Thursday that the Trump administration needs to “get politics out of public health”.The agency is reeling from the firing of the CDC chief, Susan Monarez, but Monarez, who was confirmed as CDC chief just a month ago, has refused to be removed. Three senior leaders – Debra Houry, Demetre Daskalakis and Daniel Jernigan – resigned shortly after in protest, citing the alleged spread of misinformation under the Trump administration and political interference in their work. The staffers cheered and applauded them at the event on Thursday. Continue reading...",
-            "content": "Staffers gather in Atlanta to applaud senior leaders who resigned after CDC chief Susan Monarez was firedWho’s who in the CDC crisis?Senior CDC vaccine research and public health leaders who resigned in protest told hundreds of supporters across the street from the campus on Thursday that the Trump administration needs to “get politics out of public health”.The agency is reeling from the firing of the CDC chief, Susan Monarez, but Monarez, who was confirmed as CDC chief just a month ago, has refused to be removed. Three senior leaders – Debra Houry, Demetre Daskalakis and Daniel Jernigan – resigned shortly after in protest, citing the alleged spread of misinformation under the Trump administration and political interference in their work. The staffers cheered and applauded them at the event on Thursday. Continue reading...",
-            "feed_position": 7
-          },
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/us-news/2025/aug/27/cdc-director-susan-monarez-ousted",
-            "published_at": "Thu, 28 Aug 2025 02:21:28 GMT",
-            "title": "CDC erupts in chaos after ousted chief Susan Monarez refuses to resign",
-            "standfirst": "Lawyers for Monarez say she was ‘targeted’ for ‘protecting the public’ by not endorsing ‘unscientific’ ordersThe US’s top public health agency was plunged into chaos on Wednesday after the Trump administration moved to oust its leader Susan Monarez, sworn in less than a month ago, as her lawyers said she would not resign and that she was being “targeted” for her pro-science stance.Monarez, the director of the Centers for Disease Control and Prevention (CDC), was ousted on Wednesday evening, according to a statement from Department of Health and Human Services (HHS) that offered no explanation for its decision. Continue reading...",
-            "content": "Lawyers for Monarez say she was ‘targeted’ for ‘protecting the public’ by not endorsing ‘unscientific’ ordersThe US’s top public health agency was plunged into chaos on Wednesday after the Trump administration moved to oust its leader Susan Monarez, sworn in less than a month ago, as her lawyers said she would not resign and that she was being “targeted” for her pro-science stance.Monarez, the director of the Centers for Disease Control and Prevention (CDC), was ousted on Wednesday evening, according to a statement from Department of Health and Human Services (HHS) that offered no explanation for its decision. Continue reading...",
-            "feed_position": 15
-          },
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/us-news/live/2025/aug/27/cdc-resignation-susan-monarez-trump-administration-us-politics-updates-rfk-jr",
-            "published_at": "Thu, 28 Aug 2025 02:18:05 GMT",
-            "title": "CDC chief ‘targeted’ for refusing to ‘rubber-stamp unscientific, reckless directives’, lawyers say – as it happened",
-            "standfirst": "This liveblog is now closed. Read the full story at the link below:CDC director Susan Monarez ousted after less than one month in the jobThis concludes our live coverage of the second Trump administration for the day, but we will be back at it on Thursday morning. Here are the latest developments:The leadership of the US Centers for Disease Control and Prevention was thrown into chaos after the health department announced the Senate-confirmed CDC director, Susan Monarez, was no longer in charge, but her lawyers said she refused to resign and had not been fired.First it was independent advisory committees and career experts. Then it was the dismissal of seasoned scientists. Now, Robert F Kennedy Jr and HHS have set their sights on “weaponizing public health for political gain” and “putting millions of American lives at risk”, lawyers for Monarez said in a statement. “When CDC Director Susan Monarez refused to rubber-stamp unscientific, reckless directives and fire dedicated health experts, she chose protecting the public over serving a political agenda. For that, she has been targeted. Dr. Monarez has neither resigned nor received notification from the White House that she has been fired, and as a person of integrity and devoted to science, she will not resign.”At least three CDC senior officials resigned after Monarez was ousted. One squarely blamed Robert F Kennedy Jr’s leadership.“I am not able to serve in this role any longer because of the ongoing weaponization of public health,” Dr Demetre Daskalakis, who resigned as director of the National Center for Immunization and Respiratory Diseases told colleagues.Public health experts are sounding the alarm about the chaos at the CDC, as at least three senior leaders resigned following the ouster of the apparent ouster of the CDC director.As a Senate-confirmed official, only the president has the authority to fire her, and, for once, Donald Trump has been strangely silent as this drams unfolded. But the White House press office issued a statement saying that Monarez had been removed, not by Trump but by “the White House”. Continue reading...",
-            "content": "This liveblog is now closed. Read the full story at the link below:CDC director Susan Monarez ousted after less than one month in the jobThis concludes our live coverage of the second Trump administration for the day, but we will be back at it on Thursday morning. Here are the latest developments:The leadership of the US Centers for Disease Control and Prevention was thrown into chaos after the health department announced the Senate-confirmed CDC director, Susan Monarez, was no longer in charge, but her lawyers said she refused to resign and had not been fired.First it was independent advisory committees and career experts. Then it was the dismissal of seasoned scientists. Now, Robert F Kennedy Jr and HHS have set their sights on “weaponizing public health for political gain” and “putting millions of American lives at risk”, lawyers for Monarez said in a statement. “When CDC Director Susan Monarez refused to rubber-stamp unscientific, reckless directives and fire dedicated health experts, she chose protecting the public over serving a political agenda. For that, she has been targeted. Dr. Monarez has neither resigned nor received notification from the White House that she has been fired, and as a person of integrity and devoted to science, she will not resign.”At least three CDC senior officials resigned after Monarez was ousted. One squarely blamed Robert F Kennedy Jr’s leadership.“I am not able to serve in this role any longer because of the ongoing weaponization of public health,” Dr Demetre Daskalakis, who resigned as director of the National Center for Immunization and Respiratory Diseases told colleagues.Public health experts are sounding the alarm about the chaos at the CDC, as at least three senior leaders resigned following the ouster of the apparent ouster of the CDC director.As a Senate-confirmed official, only the president has the authority to fire her, and, for once, Donald Trump has been strangely silent as this drams unfolded. But the White House press office issued a statement saying that Monarez had been removed, not by Trump but by “the White House”. Continue reading...",
-            "feed_position": 16
           }
         ],
         "ai_summary": [
-          "Robert F. Kennedy Jr. continues to make questionable health claims.",
-          "Several CDC officials have resigned after the director was fired.",
-          "Kennedy has faced calls for his resignation.",
-          "The chaos follows the firing of CDC director Susan Monarez.",
-          "Kennedy released controversial rules regarding COVID-19 vaccines."
+          "Robert F Kennedy Jr. continues making controversial health claims, drawing criticism from experts.",
+          "Several CDC officials resigned following the firing of the CDC director, Susan Monarez.",
+          "The White House appointed Jim O'Neill as interim CDC head, a deputy of Kennedy.",
+          "Kennedy is reportedly seeking to overhaul US vaccine policy with his new ally.",
+          "The CDC crisis is unfolding amid controversy surrounding Covid-19 vaccines."
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Fri, 29 Aug 2025 16:00:35 GMT",
         "title": "Potassium-rich diet may cut risk of heart failure by 24%, study suggests",
-        "neutral_headline": "Potassium-rich diet may cut risk of heart failure",
+        "neutral_headline": "Potassium-Rich Diet May Lower Heart Failure Risk",
         "items": [
           {
             "source": "Guardian Health",
@@ -275,18 +280,19 @@
           }
         ],
         "ai_summary": [
-          "A study suggests a potassium-rich diet may reduce heart failure risk.",
+          "A study suggests potassium-rich foods may reduce heart condition risk by 24%.",
           "Foods like avocados, bananas, and spinach are linked to lower risk.",
-          "The study indicates a 24% reduction in risk of heart conditions.",
-          "Previous research showed salt reduction can lower heart problems."
+          "Previous research showed salt reduction can lower heart problem risk.",
+          "Reducing salt intake can significantly improve heart health.",
+          "The study highlights the importance of dietary choices for heart health."
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Fri, 29 Aug 2025 04:00:05 GMT",
         "title": "Experience: I see the world through a layer of snow",
-        "neutral_headline": "Experience: I see the world through a layer of snow",
+        "neutral_headline": "Experiencing Visual Snow Syndrome: A Personal Account",
         "items": [
           {
             "source": "Guardian Health",
@@ -299,18 +305,19 @@
           }
         ],
         "ai_summary": [
-          "The author describes experiencing visual snow syndrome.",
-          "The condition causes a visual disturbance, like seeing snow.",
-          "The author noticed the symptoms after maternity leave.",
-          "The author was juggling multiple responsibilities at the time."
+          "The author noticed visual disturbances, including flashing lights, in February.",
+          "She initially attributed the symptoms to overwork and potential migraines.",
+          "The author was juggling work and childcare responsibilities at the time.",
+          "The condition was later diagnosed as visual snow syndrome.",
+          "The author is sharing her experience with the condition."
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 23:01:03 GMT",
         "title": "Older autistic people need more help after years of misdiagnosis, review finds",
-        "neutral_headline": "Older autistic people need more help after years of misdiagnosis",
+        "neutral_headline": "Older Autistic People Need More Support, Review Finds",
         "items": [
           {
             "source": "Guardian Health",
@@ -323,18 +330,44 @@
           }
         ],
         "ai_summary": [
-          "A review found 90% of autistic people over 50 are undiagnosed or misdiagnosed.",
-          "Greater awareness has improved autism diagnosis in childhood.",
-          "Older autistic people often lacked support due to past diagnostic practices.",
-          "Researchers are calling for better support for older autistic individuals."
+          "A review found 90% of autistic people over 50 in Britain are undiagnosed or misdiagnosed.",
+          "Greater awareness of autism is leading to earlier diagnoses in childhood.",
+          "Older adults often lacked support due to delayed or absent diagnoses.",
+          "The research calls for improved support for middle-aged and older autistic individuals.",
+          "The study highlights the need for better assessment and treatment."
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
+        "coverage": 1,
+        "updated_at": "Thu, 28 Aug 2025 21:45:12 GMT",
+        "title": "CDC officials who quit in protest lead call to ‘get politics out of public health’",
+        "neutral_headline": "CDC Officials Protest, Call to Remove Politics from Health",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2025/aug/28/cdc-rally-staffers-protest",
+            "published_at": "Thu, 28 Aug 2025 21:45:12 GMT",
+            "title": "CDC officials who quit in protest lead call to ‘get politics out of public health’",
+            "standfirst": "Staffers gather in Atlanta to applaud senior leaders who resigned after CDC chief Susan Monarez was firedWho’s who in the CDC crisis?Senior CDC vaccine research and public health leaders who resigned in protest told hundreds of supporters across the street from the campus on Thursday that the Trump administration needs to “get politics out of public health”.The agency is reeling from the firing of the CDC chief, Susan Monarez, but Monarez, who was confirmed as CDC chief just a month ago, has refused to be removed. Three senior leaders – Debra Houry, Demetre Daskalakis and Daniel Jernigan – resigned shortly after in protest, citing the alleged spread of misinformation under the Trump administration and political interference in their work. The staffers cheered and applauded them at the event on Thursday. Continue reading...",
+            "content": "Staffers gather in Atlanta to applaud senior leaders who resigned after CDC chief Susan Monarez was firedWho’s who in the CDC crisis?Senior CDC vaccine research and public health leaders who resigned in protest told hundreds of supporters across the street from the campus on Thursday that the Trump administration needs to “get politics out of public health”.The agency is reeling from the firing of the CDC chief, Susan Monarez, but Monarez, who was confirmed as CDC chief just a month ago, has refused to be removed. Three senior leaders – Debra Houry, Demetre Daskalakis and Daniel Jernigan – resigned shortly after in protest, citing the alleged spread of misinformation under the Trump administration and political interference in their work. The staffers cheered and applauded them at the event on Thursday. Continue reading...",
+            "feed_position": 7
+          }
+        ],
+        "ai_summary": [
+          "Senior CDC officials resigned in protest of political interference.",
+          "The officials spoke out against the firing of CDC chief Susan Monarez.",
+          "The protesting officials called for removing politics from public health.",
+          "The event was held across the street from the CDC campus.",
+          "The officials cited misinformation and political interference as reasons."
+        ]
+      },
+      {
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 17:02:46 GMT",
         "title": "Price of Mounjaro to be discounted in UK pharmacies",
-        "neutral_headline": "Price of Mounjaro to be discounted in UK pharmacies: The rebate allays fears of a 170% price rise but patients are warned the cost of the drug will still jump",
+        "neutral_headline": "Price of Mounjaro to be discounted in UK pharmacies",
         "items": [
           {
             "source": "BBC Health",
@@ -351,15 +384,17 @@
         "ai_summary": [
           "The price of Mounjaro will be discounted in UK pharmacies.",
           "The discount addresses concerns about a 170% price increase.",
-          "Patients are warned that the drug's cost will still increase."
+          "Patients are warned that the drug's cost will still increase.",
+          "The price change is related to the drug's availability.",
+          "The discount aims to mitigate the impact of the price rise."
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 16:59:39 GMT",
         "title": "People in the US: share your views on the FDA’s new restrictions on Covid jabs for under-65s",
-        "neutral_headline": "FDA Restricts COVID-19 Vaccine Eligibility for Under 65s",
+        "neutral_headline": "People in the US: share your views on the FDA’s new restrictions on Covid jabs for under-65s",
         "items": [
           {
             "source": "Guardian Health",
@@ -372,19 +407,19 @@
           }
         ],
         "ai_summary": [
-          "The FDA authorized new COVID-19 vaccine eligibility rules for the United States.",
-          "People under 65 are only eligible if they have an underlying medical condition.",
-          "The government will not recommend widespread COVID-19 vaccinations this fall and winter.",
-          "The change marks the first time since the pandemic without widespread recommendations.",
-          "The FDA's decision impacts vaccine access for those under 65 years of age."
+          "The FDA authorized new eligibility rules for Covid-19 vaccines.",
+          "People under 65 are only eligible if they have underlying conditions.",
+          "The US government will not recommend widespread vaccinations.",
+          "The change marks a shift in Covid-19 vaccination strategy.",
+          "The public is invited to share their views on the changes."
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 16:00:50 GMT",
         "title": "Swallowing correctly can save your life – are you doing it right?",
-        "neutral_headline": "Swallowing Correctly Can Save Life, Are You Doing It Right?",
+        "neutral_headline": "Swallowing Correctly Can Save Your Life",
         "items": [
           {
             "source": "Guardian Health",
@@ -397,19 +432,19 @@
           }
         ],
         "ai_summary": [
-          "Swallowing is often assumed to be automatic and infallible for most people.",
-          "Dysphagia is a swallowing disorder that can affect people of all ages.",
-          "A two-month-old baby was diagnosed with dysphagia after struggling to feed.",
-          "The article discusses the importance of being mindful of the swallowing process.",
-          "The author shares a personal experience with a child's swallowing difficulties."
+          "Swallowing is often assumed to be automatic and infallible.",
+          "The author learned about swallowing disorders through her daughter's illness.",
+          "The daughter was diagnosed with dysphagia at two months old.",
+          "The article emphasizes the importance of mindful swallowing.",
+          "The author shares her experience with a swallowing disorder."
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 16:00:50 GMT",
         "title": "Shingles jab may reduce risk of heart attack, pioneering research reveals",
-        "neutral_headline": "Shingles Vaccine May Reduce Heart Attack, Stroke Risk",
+        "neutral_headline": "Shingles Jab May Reduce Heart Attack Risk",
         "items": [
           {
             "source": "Guardian Health",
@@ -422,19 +457,19 @@
           }
         ],
         "ai_summary": [
-          "A global review found the shingles vaccine associated with lower heart attack risk.",
-          "The vaccine may lower the risk of stroke or heart attack by up to 20 percent.",
-          "Shingles is a common condition causing a painful rash and potential complications.",
-          "Serious problems from shingles are more likely in older age groups.",
-          "The study is the first of its kind to examine this potential benefit."
+          "A shingles vaccine may lower the risk of heart attack and stroke.",
+          "The study found an 18% lower risk of stroke or heart attack.",
+          "Shingles can cause a painful rash and serious complications.",
+          "The vaccine is associated with a lower risk of heart problems.",
+          "The study is the first global systematic review of its kind."
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 16:00:00 GMT",
         "title": "BBC Inside Science",
-        "neutral_headline": "BBC Inside Science: Evidence Behind Rat Infestation Warnings",
+        "neutral_headline": "BBC Inside Science: What’s the evidence behind rat infestation warnings? And farewell to wet wipe island",
         "items": [
           {
             "source": "BBC Science",
@@ -449,19 +484,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0c2f9v1.jpg",
         "ai_summary": [
-          "This BBC Inside Science episode discusses rat infestation warnings.",
-          "The episode also covers the topic of \"wet wipe island.\"",
-          "The program likely explores the science behind rat behavior.",
-          "The episode may discuss the environmental impact of wet wipes.",
-          "The program is a science-focused broadcast from the BBC."
+          "The BBC Inside Science episode discusses rat infestation warnings.",
+          "The episode also covers the topic of \"wet wipe island\".",
+          "The program explores the evidence behind the warnings.",
+          "The episode is a science-focused program.",
+          "The program covers two distinct scientific topics."
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 14:46:58 GMT",
         "title": "People in England: share your experiences accessing NHS dental services",
-        "neutral_headline": "People in England: Share Experiences Accessing NHS Dental Services",
+        "neutral_headline": "People in England: share your experiences accessing NHS dental services",
         "items": [
           {
             "source": "Guardian Health",
@@ -474,19 +509,19 @@
           }
         ],
         "ai_summary": [
-          "The article seeks experiences accessing NHS dental treatment in England.",
-          "There are concerns about \"dental deserts\" due to a lack of services.",
-          "Deprived and rural communities are more likely to experience these deserts.",
-          "Middlesborough has 10 NHS dental practices per 100,000 people.",
-          "Richmond upon Thames has 28 NHS practices per 100,000 people."
+          "The article seeks experiences accessing NHS dental treatment.",
+          "There are concerns about \"dental deserts\" in some areas.",
+          "Deprived and rural communities may lack NHS dental services.",
+          "Middlesborough has fewer NHS dental practices per capita.",
+          "Richmond upon Thames has more NHS dental practices per capita."
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 14:37:04 GMT",
         "title": "Mounjaro maker pauses shipments of weight loss drug to UK",
-        "neutral_headline": "Mounjaro Maker Pauses Shipments of Weight Loss Drug to UK",
+        "neutral_headline": "Mounjaro maker pauses shipments of weight loss drug to UK",
         "items": [
           {
             "source": "Guardian Health",
@@ -499,19 +534,19 @@
           }
         ],
         "ai_summary": [
-          "Eli Lilly, the maker of Mounjaro, paused shipments to the United Kingdom.",
-          "The pause is due to soaring demand before a price increase in September.",
-          "The UK list price of Mounjaro will increase by up to 170 percent.",
-          "The price increase is scheduled for next month, September.",
-          "The White House is pushing drugmakers to raise prices in Europe."
+          "The manufacturer of Mounjaro paused shipments to the UK.",
+          "The pause is due to soaring demand before a price increase.",
+          "Eli Lilly will increase the drug's price by up to 170%.",
+          "The price increase is scheduled for September.",
+          "The price increase is related to US drug pricing policies."
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 12:48:19 GMT",
         "title": "Incinerator broke air pollution limits 916 times",
-        "neutral_headline": "Incinerator Broke Air Pollution Limits 916 Times",
+        "neutral_headline": "Incinerator broke air pollution limits 916 times",
         "items": [
           {
             "source": "BBC Science",
@@ -520,7 +555,7 @@
             "title": "Incinerator broke air pollution limits 916 times",
             "standfirst": "The Environment Agency are currently considering enforcement action against the operator, Viridor.",
             "content": "The Environment Agency are currently considering enforcement action against the operator, Viridor.",
-            "feed_position": 7,
+            "feed_position": 8,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0e1/live/0b410df0-83fe-11f0-a3f8-9b56bf5c3841.jpg"
           }
         ],
@@ -529,16 +564,16 @@
           "An incinerator exceeded air pollution limits 916 times.",
           "The Environment Agency is considering enforcement action.",
           "The operator of the incinerator is Viridor.",
-          "The violations occurred at an incinerator facility.",
-          "The Environment Agency is investigating the pollution breaches."
+          "The violations relate to air pollution standards.",
+          "The Environment Agency is investigating the breaches."
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 12:00:52 GMT",
         "title": "Humans inhale as much as 68,000 microplastic particles daily, study finds",
-        "neutral_headline": "Humans Inhale Up To 68,000 Microplastic Particles Daily",
+        "neutral_headline": "Humans Inhale Thousands of Microplastic Particles Daily",
         "items": [
           {
             "source": "Guardian Health",
@@ -552,18 +587,18 @@
         ],
         "ai_summary": [
           "Humans may inhale up to 68,000 microplastic particles daily.",
-          "The particles are small enough to burrow into the lungs.",
-          "The study highlights a little-understood route of exposure.",
+          "The particles are small enough to enter the lungs.",
+          "The study highlights a previously under-recognized exposure route.",
           "Previous studies identified larger airborne microplastics.",
-          "The study was published in the journal Plos One."
+          "The health impacts of microplastics are more substantial than realized."
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 06:00:25 GMT",
         "title": "Malawi set to run out of TB drugs in a month after US, UK and others cut aid",
-        "neutral_headline": "Malawi Set to Run Out of TB Drugs in a Month",
+        "neutral_headline": "Malawi set to run out of TB drugs in a month after US, UK and others cut aid",
         "items": [
           {
             "source": "Guardian Health",
@@ -576,19 +611,19 @@
           }
         ],
         "ai_summary": [
-          "Malawi is facing a critical shortage of tuberculosis drugs.",
-          "Health officials warn that stocks will run out by September's end.",
-          "The country had successfully reduced TB cases by 40 percent.",
-          "The shortage threatens gains in cutting deaths from tuberculosis.",
-          "The World Health Organization revealed the reduction in TB cases."
+          "Malawi faces a critical shortage of tuberculosis drugs.",
+          "Stocks of TB drugs are expected to run out by September.",
+          "The country had reduced TB cases by 40% in a decade.",
+          "The shortage follows cuts in aid from several countries.",
+          "Health officials are warning of drug rationing."
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 05:05:56 GMT",
         "title": "'Our hot homes are making our children sick'",
-        "neutral_headline": "Our hot homes are making our children sick",
+        "neutral_headline": "Overheated Homes May Be Making Children Sick in England",
         "items": [
           {
             "source": "BBC Science",
@@ -603,44 +638,17 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f082/live/fa57ce60-8331-11f0-9a2b-ada4beabb9b0.jpg",
         "ai_summary": [
-          "Over half of children in England live in homes at risk of overheating.",
-          "Approximately five million children are affected by this issue.",
-          "The article discusses the health impacts of hot homes on children.",
-          "The issue is related to the design and construction of homes.",
-          "The article highlights the risks associated with overheating."
-        ]
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Thu, 28 Aug 2025 03:13:48 GMT",
-        "title": "Spain and Portugal wildfires drive worst EU season on record",
-        "neutral_headline": "Spain and Portugal wildfires drive worst EU season on record",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cd6n8qqlj8go?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 28 Aug 2025 03:13:48 GMT",
-            "title": "Spain and Portugal wildfires drive worst EU season on record",
-            "standfirst": "Wildfires have scorched southern Europe and new research suggests climate change played a major role.",
-            "content": "Wildfires have scorched southern Europe and new research suggests climate change played a major role.",
-            "feed_position": 38,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f878/live/6c268d10-8355-11f0-83cc-c5da98c419b8.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f878/live/6c268d10-8355-11f0-83cc-c5da98c419b8.jpg",
-        "ai_summary": [
-          "Wildfires have ravaged southern Europe, particularly Spain and Portugal.",
-          "New research suggests climate change played a major role in the fires.",
-          "The current wildfire season is the worst on record for the European Union.",
-          "The fires have caused significant environmental damage.",
-          "The article highlights the impact of climate change on wildfires."
+          "Over half of England's children, approximately five million, live in homes at risk of overheating.",
+          "Research suggests that hot homes can negatively impact children's health and well-being.",
+          "Overheating can worsen existing conditions like asthma and eczema in children.",
+          "Experts are calling for better home design and insulation to mitigate the issue.",
+          "The study highlights the need for strategies to keep homes cool during heatwaves."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-08-29T23:17:26.071Z",
+    "updated_at": "2025-08-30T03:29:17.516Z",
     "clusters": []
   }
 }
