@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2025-08-30T07:15:49.642Z",
+    "updated_at": "2025-08-30T11:13:45.290Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-08-30T07:16:01.024Z",
+    "updated_at": "2025-08-30T11:14:01.520Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -27,10 +27,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/e3536198-08fb-4a85-8014-447c8b664659/Rural-healthcare-in-crisis-New-report-reveals-8.35b-funding-gap.aspx",
         "ai_summary": [
           "A new report reveals an $8.35 billion funding gap in rural healthcare.",
-          "The report highlights the risk to lives due to funding shortfalls.",
+          "The report highlights the risks to patients and the challenges for GPs.",
           "Rural GPs are working with almost non-existent services.",
-          "The report details the ballooning funding shortfall for rural patients.",
-          "The report also highlights the challenges faced by rural doctors."
+          "The funding shortfall is facing both rural patients and doctors.",
+          "The report details the ballooning funding shortfall in rural healthcare."
         ]
       },
       {
@@ -56,8 +56,8 @@
           "The RACGP will launch a national New Fellows committee.",
           "The committee aims to give new GPs a strong voice.",
           "The committee will provide enhanced support for new members.",
-          "The committee will be part of the college.",
-          "The committee's goal is to support new GPs."
+          "The committee is designed to support new GP members.",
+          "The committee will ensure new GPs have a voice."
         ]
       },
       {
@@ -80,20 +80,20 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/42a22637-89ce-4e67-92e1-308191016f8c/Doctors-in-the-House-QLD-GPs-visit-State-Parliament.aspx",
         "ai_summary": [
-          "Queensland GPs visited the State Parliament.",
-          "The delegation met with key politicians.",
-          "The meeting focused on priorities for general practice.",
-          "The GPs discussed a range of issues.",
-          "The visit aimed to address key concerns."
+          "A delegation of Queensland GPs visited State Parliament.",
+          "The GPs met with key politicians to discuss priorities.",
+          "The meeting focused on a range of priorities for general practice.",
+          "The article does not specify the exact priorities discussed.",
+          "The meeting aimed to address issues in general practice."
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2025-08-30T07:16:00.809Z",
+    "updated_at": "2025-08-30T11:13:56.199Z",
     "clusters": [
       {
-        "id": "cluster_6",
+        "id": "cluster_9",
         "coverage": 2,
         "updated_at": "Fri, 29 Aug 2025 11:51:59 GMT",
         "title": "What is chickenpox and how can I get my child vaccinated?",
@@ -126,7 +126,7 @@
             "title": "Why is chickenpox vaccination being offered to children in England next year?",
             "standfirst": "Free NHS vaccination is aimed at reducing hospital admissions and protecting those most at risk of complicationsFor the first time, a free chickenpox vaccination will be offered to children in England by the NHS from January next year. Here we explore the background to the rollout. Continue reading...",
             "content": "Free NHS vaccination is aimed at reducing hospital admissions and protecting those most at risk of complicationsFor the first time, a free chickenpox vaccination will be offered to children in England by the NHS from January next year. Here we explore the background to the rollout. Continue reading...",
-            "feed_position": 5
+            "feed_position": 7
           },
           {
             "source": "Guardian Health",
@@ -135,24 +135,101 @@
             "title": "Chickenpox jabs introduced as experts warn many children in England start school without vaccinations",
             "standfirst": "Experts say country needs ‘wake-up call’, while NHS will offer childhood chickenpox jab for first timeWhy is chickenpox vaccination being offered on NHS?England needs to “wake up” to its faltering infant vaccination programme, experts have warned, as it was revealed that one in five children start primary school unprotected from serious infectious diseases.It comes as the government announces a new vaccination programme for chickenpox from January, meaning that GPs will offer eligible children a combined vaccine for measles, mumps, rubella and varicella – the clinical term for chickenpox – as part of the routine infant vaccination schedule. Continue reading...",
             "content": "Experts say country needs ‘wake-up call’, while NHS will offer childhood chickenpox jab for first timeWhy is chickenpox vaccination being offered on NHS?England needs to “wake up” to its faltering infant vaccination programme, experts have warned, as it was revealed that one in five children start primary school unprotected from serious infectious diseases.It comes as the government announces a new vaccination programme for chickenpox from January, meaning that GPs will offer eligible children a combined vaccine for measles, mumps, rubella and varicella – the clinical term for chickenpox – as part of the routine infant vaccination schedule. Continue reading...",
-            "feed_position": 9
+            "feed_position": 11
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4209/live/2447a060-826f-11f0-a832-3d1a9236e27e.jpg",
         "ai_summary": [
-          "The NHS in England and Wales will offer the MMRV vaccine.",
-          "The vaccine will be offered to young children starting January 2026.",
-          "The free vaccination aims to reduce hospital admissions.",
-          "The vaccination will protect those most at risk of complications.",
-          "Experts warn many children start school without vaccinations."
+          "The NHS in England and Wales will offer chickenpox vaccine.",
+          "The MMRV vaccine will be offered to young children.",
+          "The vaccination program will begin in January 2026.",
+          "The article explains what chickenpox is.",
+          "The article explains how to get your child vaccinated."
         ]
       },
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Sat, 30 Aug 2025 10:00:00 GMT",
+        "title": "‘Sliding into an abyss’: experts warn over rising use of AI for mental health support",
+        "neutral_headline": "Experts Warn of AI Chatbot Use for Mental Health",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2025/aug/30/therapists-warn-ai-chatbots-mental-health-support",
+            "published_at": "Sat, 30 Aug 2025 10:00:00 GMT",
+            "title": "‘Sliding into an abyss’: experts warn over rising use of AI for mental health support",
+            "standfirst": "Therapists say they are seeing negative impacts of people increasingly turning to AI chatbots for helpVulnerable people turning to AI chatbots instead of professional therapists for mental health support could be “sliding into a dangerous abyss”, psychotherapists have warned.Psychotherapists and psychiatristssaid they were increasingly seeing negative impacts of AI chatbots being used for mental health, such as fostering emotional dependence, exacerbating anxiety symptoms, self-diagnosis, or amplifying delusional thought patterns, dark thoughts and suicide ideation. Continue reading...",
+            "content": "Therapists say they are seeing negative impacts of people increasingly turning to AI chatbots for helpVulnerable people turning to AI chatbots instead of professional therapists for mental health support could be “sliding into a dangerous abyss”, psychotherapists have warned.Psychotherapists and psychiatristssaid they were increasingly seeing negative impacts of AI chatbots being used for mental health, such as fostering emotional dependence, exacerbating anxiety symptoms, self-diagnosis, or amplifying delusional thought patterns, dark thoughts and suicide ideation. Continue reading...",
+            "feed_position": 1
+          }
+        ],
+        "ai_summary": [
+          "Psychotherapists report negative impacts from AI chatbots used for mental health support.",
+          "Concerns include emotional dependence, exacerbated anxiety, and self-diagnosis.",
+          "AI chatbots may amplify delusional thoughts, dark thoughts, and suicidal ideation.",
+          "Experts warn of potential dangers for vulnerable individuals seeking mental health help.",
+          "The increasing reliance on AI chatbots is seen as potentially \"sliding into a dangerous abyss\"."
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Sat, 30 Aug 2025 09:15:56 GMT",
+        "title": "Doctors develop AI stethoscope that can detect major heart conditions in 15 seconds",
+        "neutral_headline": "AI Stethoscope Detects Heart Conditions in Seconds",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/technology/2025/aug/30/doctors-ai-stethoscope-heart-disease-london",
+            "published_at": "Sat, 30 Aug 2025 09:15:56 GMT",
+            "title": "Doctors develop AI stethoscope that can detect major heart conditions in 15 seconds",
+            "standfirst": "Upgraded medical tool has ability to diagnose heart failure, heart valve disease and abnormal heart rhythmsDoctors have successfully developed an artificial intelligence-led stethoscope that can detect three heart conditions in 15 seconds.Invented in 1816, the traditional stethoscope – used to listen to sounds within the body – has been a vital part of every medic’s toolkit for more than two centuries. Continue reading...",
+            "content": "Upgraded medical tool has ability to diagnose heart failure, heart valve disease and abnormal heart rhythmsDoctors have successfully developed an artificial intelligence-led stethoscope that can detect three heart conditions in 15 seconds.Invented in 1816, the traditional stethoscope – used to listen to sounds within the body – has been a vital part of every medic’s toolkit for more than two centuries. Continue reading...",
+            "feed_position": 2
+          }
+        ],
+        "ai_summary": [
+          "Doctors developed an AI-led stethoscope for rapid heart condition detection.",
+          "The device can diagnose heart failure, valve disease, and abnormal rhythms.",
+          "Diagnosis takes approximately fifteen seconds using the new technology.",
+          "The traditional stethoscope has been a medical tool for over two centuries.",
+          "The AI upgrade offers a faster method for identifying heart problems."
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Sat, 30 Aug 2025 07:32:24 GMT",
+        "title": "'Slimming jabs have changed the way we do things'",
+        "neutral_headline": "Slimming Jabs Influence Brides' Choices, Reports Indicate",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/videos/c1mp4e12ejvo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 30 Aug 2025 07:32:24 GMT",
+            "title": "'Slimming jabs have changed the way we do things'",
+            "standfirst": "Angie Smith said she has asked brides if they are using slimming jabs after a trend emerged this year.",
+            "content": "Angie Smith said she has asked brides if they are using slimming jabs after a trend emerged this year.",
+            "feed_position": 92,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5c9/live/e569f9e0-84ff-11f0-b391-6936825093bd.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5c9/live/e569f9e0-84ff-11f0-b391-6936825093bd.jpg",
+        "ai_summary": [
+          "A trend of brides using slimming injections has emerged recently.",
+          "Some brides are asked about slimming jab use by wedding professionals.",
+          "The report highlights a shift in practices related to weight management.",
+          "The trend is influencing conversations within the wedding industry.",
+          "The report suggests a growing awareness of slimming injections."
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 07:03:56 GMT",
         "title": "Exercise and therapy can mend a broken heart, study suggests",
-        "neutral_headline": "Exercise and therapy may help mend broken hearts",
+        "neutral_headline": "Exercise and Therapy May Help Heal Broken Hearts",
         "items": [
           {
             "source": "Guardian Health",
@@ -165,19 +242,19 @@
           }
         ],
         "ai_summary": [
-          "Takotsubo syndrome, or broken heart syndrome, can cause heart muscle weakening and shape changes.",
-          "The condition is often triggered by severe emotional or physical stress, such as loss.",
-          "A clinical trial suggests exercise and therapy may be effective treatments for the condition.",
-          "Hundreds of thousands of people worldwide live with this heart condition.",
-          "Doctors believe they have discovered a potential method to mend broken hearts."
+          "A study suggests exercise and therapy can treat Takotsubo syndrome.",
+          "Takotsubo cardiomyopathy, or broken heart syndrome, weakens heart muscle.",
+          "The condition is often triggered by severe emotional or physical stress.",
+          "The study is a world-first clinical trial exploring treatment options.",
+          "Hundreds of thousands worldwide live with broken heart syndrome."
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 06:00:53 GMT",
         "title": "Need a new pair of glasses? Here’s how to save money on eye tests and specs",
-        "neutral_headline": "Saving money on eye tests and glasses is possible",
+        "neutral_headline": "Saving Money on Eye Tests and Glasses Explained",
         "items": [
           {
             "source": "Guardian Health",
@@ -186,23 +263,23 @@
             "title": "Need a new pair of glasses? Here’s how to save money on eye tests and specs",
             "standfirst": "NHS vouchers and employer subsidies are available for some, while online retailers offer great value for moneyAt the age of 39, I’ve been told I should start wearing glasses when working or driving.On finding out, I suddenly faced a world of decisions – and they all involved a cost. Continue reading...",
             "content": "NHS vouchers and employer subsidies are available for some, while online retailers offer great value for moneyAt the age of 39, I’ve been told I should start wearing glasses when working or driving.On finding out, I suddenly faced a world of decisions – and they all involved a cost. Continue reading...",
-            "feed_position": 1
+            "feed_position": 3
           }
         ],
         "ai_summary": [
+          "The article discusses ways to save money on eye tests and glasses.",
           "NHS vouchers and employer subsidies are available for some individuals.",
-          "Online retailers offer competitive pricing for eye tests and glasses.",
-          "The article discusses the costs associated with needing glasses.",
-          "The author shares their personal experience of needing glasses at age 39.",
-          "Making decisions about eye care involves considering various costs."
+          "Online retailers offer cost-effective options for purchasing eyewear.",
+          "The author shares personal experience of needing glasses at age 39.",
+          "The article explores the financial considerations of vision care."
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 04:00:50 GMT",
         "title": "Sellers of fake Botox jabs could be jailed for two years, says watchdog",
-        "neutral_headline": "Sellers of fake Botox jabs face potential jail time",
+        "neutral_headline": "Fake Botox Sellers Face Two Years in Jail, Watchdog Warns",
         "items": [
           {
             "source": "Guardian Health",
@@ -211,23 +288,23 @@
             "title": "Sellers of fake Botox jabs could be jailed for two years, says watchdog",
             "standfirst": "MHRA is cracking down on unlicensed anti-wrinkle products after spate of botulism cases in EnglandSellers of fake Botox jabs could be jailed for up to two years, the UK’s medicine watchdog has warned, as it increases efforts to track down those flouting the law.The Medicines and Healthcare products Regulatory Agency (MHRA) says it is cracking down on the trade of unlicensed botulinum toxin products after a spate of botulism cases across England thought to be linked to them. Continue reading...",
             "content": "MHRA is cracking down on unlicensed anti-wrinkle products after spate of botulism cases in EnglandSellers of fake Botox jabs could be jailed for up to two years, the UK’s medicine watchdog has warned, as it increases efforts to track down those flouting the law.The Medicines and Healthcare products Regulatory Agency (MHRA) says it is cracking down on the trade of unlicensed botulinum toxin products after a spate of botulism cases across England thought to be linked to them. Continue reading...",
-            "feed_position": 2
+            "feed_position": 4
           }
         ],
         "ai_summary": [
-          "The Medicines and Healthcare products Regulatory Agency is cracking down on illegal products.",
-          "Sellers of unlicensed botulinum toxin products could face up to two years in prison.",
+          "The MHRA is cracking down on unlicensed botulinum toxin products.",
+          "Sellers of fake Botox could face up to two years in prison.",
           "The crackdown follows a rise in botulism cases in England.",
-          "The MHRA is increasing efforts to track down those breaking the law.",
-          "The agency is targeting the trade of unapproved anti-wrinkle products."
+          "The MHRA regulates medicines and healthcare products in the UK.",
+          "The agency is targeting those who are flouting the law."
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 00:55:53 GMT",
         "title": "Military drills spark hundreds of wildfires in UK",
-        "neutral_headline": "Military drills cause hundreds of UK wildfires",
+        "neutral_headline": "Military Drills Cause Wildfires in the UK",
         "items": [
           {
             "source": "BBC Science",
@@ -242,19 +319,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a40/live/aee52200-835b-11f0-b3de-c13d348c14aa.jpg",
         "ai_summary": [
-          "Live explosives on UK army training sites cause wildfires.",
-          "Many wildfires cannot be tackled due to the presence of live explosives.",
-          "The article highlights the link between military drills and wildfires.",
+          "Military training sites in the UK are causing wildfires.",
+          "Live explosives on training sites prevent fire suppression.",
+          "The article highlights the impact of military activities.",
           "The fires are occurring in the UK countryside.",
-          "The use of live explosives complicates firefighting efforts."
+          "The situation poses a challenge for fire management."
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 29 Aug 2025 17:48:34 GMT",
         "title": "RFK Jr continues to make dubious health claims as CDC roils under his leadership",
-        "neutral_headline": "RFK Jr continues to make dubious health claims as CDC roils under his leadership",
+        "neutral_headline": "RFK Jr. continues to make dubious health claims as CDC roils under his leadership",
         "items": [
           {
             "source": "Guardian Health",
@@ -263,7 +340,7 @@
             "title": "RFK Jr continues to make dubious health claims as CDC roils under his leadership",
             "standfirst": "As leaders at Centers for Disease Control quit after director’s firing, Kennedy stokes controversy with pet theoriesIn a week of chaos at the Centers for Disease Control and Prevention, Donald Trump’s health secretary, Robert F Kennedy Jr, has continued to make questionable medical and health claims – and has been slammed for them by experts and lawmakers alike.In recent days, Kennedy has been facing increasing calls for his resignation following the Trump administration’s firing of the CDC director, Susan Monarez, which in turn prompted four other top officials to quit the agency. The chaos across US health agencies also comes as Kennedy released a slew of controversial and contradictory rules surrounding Covid-19 vaccines. Continue reading...",
             "content": "As leaders at Centers for Disease Control quit after director’s firing, Kennedy stokes controversy with pet theoriesIn a week of chaos at the Centers for Disease Control and Prevention, Donald Trump’s health secretary, Robert F Kennedy Jr, has continued to make questionable medical and health claims – and has been slammed for them by experts and lawmakers alike.In recent days, Kennedy has been facing increasing calls for his resignation following the Trump administration’s firing of the CDC director, Susan Monarez, which in turn prompted four other top officials to quit the agency. The chaos across US health agencies also comes as Kennedy released a slew of controversial and contradictory rules surrounding Covid-19 vaccines. Continue reading...",
-            "feed_position": 3
+            "feed_position": 5
           },
           {
             "source": "Guardian Health",
@@ -272,23 +349,23 @@
             "title": "White House picks Kennedy deputy Jim O’Neill to replace fired CDC chief",
             "standfirst": "Deputy health secretary chosen as agency’s interim director after firing of Susan MonarezWho’s who in the CDC crisis?The White House has chosen a deputy of Robert F Kennedy Jr to serve as the acting head of the US Centers for Disease Control and Prevention (CDC), a decision that comes as the standoff over the firing of director Susan Monarez has deepened, with Monarez’s lawyers claiming she will not depart unless Donald Trump himself removes her.A White House official confirmed to the Guardian that Jim O’Neill, currently the deputy secretary of the Department of Health and Human Services (HHS), had been selected to temporarily lead the public health agency, giving Kennedy an ally in his efforts to overhaul US vaccine policy. Continue reading...",
             "content": "Deputy health secretary chosen as agency’s interim director after firing of Susan MonarezWho’s who in the CDC crisis?The White House has chosen a deputy of Robert F Kennedy Jr to serve as the acting head of the US Centers for Disease Control and Prevention (CDC), a decision that comes as the standoff over the firing of director Susan Monarez has deepened, with Monarez’s lawyers claiming she will not depart unless Donald Trump himself removes her.A White House official confirmed to the Guardian that Jim O’Neill, currently the deputy secretary of the Department of Health and Human Services (HHS), had been selected to temporarily lead the public health agency, giving Kennedy an ally in his efforts to overhaul US vaccine policy. Continue reading...",
-            "feed_position": 7
+            "feed_position": 9
           }
         ],
         "ai_summary": [
-          "Robert F Kennedy Jr. continues to make questionable medical claims.",
+          "Robert F. Kennedy Jr. continues to make questionable health claims.",
           "Kennedy has faced criticism from experts and lawmakers.",
           "The CDC is experiencing turmoil following the firing of its director.",
-          "Several top CDC officials resigned in protest.",
-          "Kennedy has released controversial rules regarding Covid-19 vaccines."
+          "Several top CDC officials resigned in protest of the firing.",
+          "The White House appointed Jim O’Neill as interim CDC director."
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 29 Aug 2025 16:00:35 GMT",
         "title": "Potassium-rich diet may cut risk of heart failure by 24%, study suggests",
-        "neutral_headline": "Potassium-rich diet may lower heart failure risk",
+        "neutral_headline": "Potassium-Rich Diet May Lower Heart Failure Risk",
         "items": [
           {
             "source": "Guardian Health",
@@ -297,23 +374,23 @@
             "title": "Potassium-rich diet may cut risk of heart failure by 24%, study suggests",
             "standfirst": "Eating foods such as avocados, bananas and spinach linked to lower risk of heart conditions, hospitalisation or deathEating foods rich in potassium, such as avocados, bananas and spinach, could reduce your risk of heart conditions, hospitalisation and death by 24%, a study suggests.Previous research has shown that cutting out salt from meals can slash your risk of heart problems. Reducing the number of meals to which you add salt or ditching it altogether can make a huge difference to your heart health. Continue reading...",
             "content": "Eating foods such as avocados, bananas and spinach linked to lower risk of heart conditions, hospitalisation or deathEating foods rich in potassium, such as avocados, bananas and spinach, could reduce your risk of heart conditions, hospitalisation and death by 24%, a study suggests.Previous research has shown that cutting out salt from meals can slash your risk of heart problems. Reducing the number of meals to which you add salt or ditching it altogether can make a huge difference to your heart health. Continue reading...",
-            "feed_position": 4
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "Eating potassium-rich foods may reduce the risk of heart conditions.",
-          "The study suggests a 24% reduction in risk of heart conditions.",
-          "Foods like avocados, bananas, and spinach are high in potassium.",
-          "Previous research showed salt reduction benefits heart health.",
-          "Reducing salt intake can significantly improve heart health."
+          "A study suggests a potassium-rich diet may reduce heart failure risk.",
+          "Eating foods like avocados, bananas, and spinach is beneficial.",
+          "The study indicates a 24% reduction in risk of heart conditions.",
+          "Previous research showed salt reduction lowers heart problem risk.",
+          "The article emphasizes the importance of dietary choices for heart health."
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 29 Aug 2025 04:00:05 GMT",
         "title": "Experience: I see the world through a layer of snow",
-        "neutral_headline": "Experiencing the world through a layer of visual snow",
+        "neutral_headline": "Experiencing Visual Snow Syndrome: A Personal Account",
         "items": [
           {
             "source": "Guardian Health",
@@ -322,23 +399,23 @@
             "title": "Experience: I see the world through a layer of snow",
             "standfirst": "My condition has a name – visual snow syndrome – and it could be with me for the rest of my lifeIt was in February of this year that I first noticed something wasn’t right. I was coming to the end of my maternity leave with my second child, and had recently retrained from being a wedding cake-maker to a food stylist, something I loved. As well as looking after two kids with my husband, Chris, I was picking up lots of work. I was probably juggling too much, but life was exciting.That week, I’d just finished a big job and was exhausted. I began to notice flashing lights in my vision. I assumed it was a migraine from overworking – I used to get them as a teenager – and didn’t think too much of it. Continue reading...",
             "content": "My condition has a name – visual snow syndrome – and it could be with me for the rest of my lifeIt was in February of this year that I first noticed something wasn’t right. I was coming to the end of my maternity leave with my second child, and had recently retrained from being a wedding cake-maker to a food stylist, something I loved. As well as looking after two kids with my husband, Chris, I was picking up lots of work. I was probably juggling too much, but life was exciting.That week, I’d just finished a big job and was exhausted. I began to notice flashing lights in my vision. I assumed it was a migraine from overworking – I used to get them as a teenager – and didn’t think too much of it. Continue reading...",
-            "feed_position": 6
+            "feed_position": 8
           }
         ],
         "ai_summary": [
           "The author describes experiencing visual snow syndrome.",
-          "The condition causes visual disturbances, like flashing lights.",
-          "The author first noticed symptoms after maternity leave.",
-          "The author initially attributed the symptoms to overwork.",
-          "The condition may be a long-term issue for the author."
+          "The condition causes a persistent visual disturbance.",
+          "The author noticed symptoms after maternity leave.",
+          "The author was juggling multiple responsibilities at the time.",
+          "The article shares a personal experience with the condition."
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 23:01:03 GMT",
         "title": "Older autistic people need more help after years of misdiagnosis, review finds",
-        "neutral_headline": "Older autistic people need more support, review finds",
+        "neutral_headline": "Older Autistic People Need More Support, Review Finds",
         "items": [
           {
             "source": "Guardian Health",
@@ -347,23 +424,23 @@
             "title": "Older autistic people need more help after years of misdiagnosis, review finds",
             "standfirst": "Research estimates 90% of Britons over 50 with autism aren’t getting right treatment and face added difficultiesResearchers have called for better support for middle-aged and older autistic people after a review found that 90% of autistic people aged over 50 in Britain are either undiagnosed or misdiagnosed.Greater awareness of autism and improved assessments globally mean it is typically spotted in childhood today. But in past decades autistic people were often forced to navigate middle and old age without the support a diagnosis can unlock. Continue reading...",
             "content": "Research estimates 90% of Britons over 50 with autism aren’t getting right treatment and face added difficultiesResearchers have called for better support for middle-aged and older autistic people after a review found that 90% of autistic people aged over 50 in Britain are either undiagnosed or misdiagnosed.Greater awareness of autism and improved assessments globally mean it is typically spotted in childhood today. But in past decades autistic people were often forced to navigate middle and old age without the support a diagnosis can unlock. Continue reading...",
-            "feed_position": 8
+            "feed_position": 10
           }
         ],
         "ai_summary": [
-          "A review found many older autistic people are undiagnosed or misdiagnosed.",
-          "An estimated 90% of autistic Britons over 50 lack proper treatment.",
-          "Greater awareness leads to earlier autism diagnosis in children.",
-          "Older individuals often lacked support due to delayed diagnosis.",
-          "The review calls for improved support for older autistic individuals."
+          "Research highlights the need for support for older autistic people.",
+          "An estimated 90% of autistic Britons over 50 are undiagnosed or misdiagnosed.",
+          "Greater awareness of autism is leading to earlier diagnoses.",
+          "Older generations often lacked access to diagnostic support.",
+          "The review calls for improved support for middle-aged and older individuals."
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 21:45:12 GMT",
         "title": "CDC officials who quit in protest lead call to ‘get politics out of public health’",
-        "neutral_headline": "CDC officials who quit in protest call for politics to leave public health",
+        "neutral_headline": "CDC Officials Protest, Call for Politics to Leave Public Health",
         "items": [
           {
             "source": "Guardian Health",
@@ -372,23 +449,23 @@
             "title": "CDC officials who quit in protest lead call to ‘get politics out of public health’",
             "standfirst": "Staffers gather in Atlanta to applaud senior leaders who resigned after CDC chief Susan Monarez was firedWho’s who in the CDC crisis?Senior CDC vaccine research and public health leaders who resigned in protest told hundreds of supporters across the street from the campus on Thursday that the Trump administration needs to “get politics out of public health”.The agency is reeling from the firing of the CDC chief, Susan Monarez, but Monarez, who was confirmed as CDC chief just a month ago, has refused to be removed. Three senior leaders – Debra Houry, Demetre Daskalakis and Daniel Jernigan – resigned shortly after in protest, citing the alleged spread of misinformation under the Trump administration and political interference in their work. The staffers cheered and applauded them at the event on Thursday. Continue reading...",
             "content": "Staffers gather in Atlanta to applaud senior leaders who resigned after CDC chief Susan Monarez was firedWho’s who in the CDC crisis?Senior CDC vaccine research and public health leaders who resigned in protest told hundreds of supporters across the street from the campus on Thursday that the Trump administration needs to “get politics out of public health”.The agency is reeling from the firing of the CDC chief, Susan Monarez, but Monarez, who was confirmed as CDC chief just a month ago, has refused to be removed. Three senior leaders – Debra Houry, Demetre Daskalakis and Daniel Jernigan – resigned shortly after in protest, citing the alleged spread of misinformation under the Trump administration and political interference in their work. The staffers cheered and applauded them at the event on Thursday. Continue reading...",
-            "feed_position": 10
+            "feed_position": 12
           }
         ],
         "ai_summary": [
           "Senior CDC officials resigned in protest of political interference.",
           "The officials called for removing politics from public health.",
           "The resignations followed the firing of CDC chief Susan Monarez.",
-          "Staffers applauded the resigning leaders at an event.",
+          "Staffers gathered to support the resigning senior leaders.",
           "The agency is facing turmoil due to the leadership changes."
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 17:02:46 GMT",
         "title": "Price of Mounjaro to be discounted in UK pharmacies",
-        "neutral_headline": "Price of Mounjaro to be discounted in UK pharmacies",
+        "neutral_headline": "Mounjaro Price Discounted in UK Pharmacies",
         "items": [
           {
             "source": "BBC Health",
@@ -404,18 +481,18 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a09/live/413ae630-8429-11f0-b3d9-83a6f59c5f86.jpg",
         "ai_summary": [
           "The price of Mounjaro will be discounted in UK pharmacies.",
-          "The discount addresses concerns about a 170% price increase.",
-          "Patients are still warned that the drug's cost will increase.",
-          "The rebate aims to mitigate the impact of the price hike.",
-          "The drug's cost will still rise despite the discount."
+          "The rebate addresses concerns about a 170% price increase.",
+          "Patients are warned that the drug's cost will still increase.",
+          "The announcement provides information about drug pricing.",
+          "The discount aims to mitigate the impact of rising costs."
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 16:59:39 GMT",
         "title": "People in the US: share your views on the FDA’s new restrictions on Covid jabs for under-65s",
-        "neutral_headline": "Share views on FDA's new Covid jab restrictions",
+        "neutral_headline": "FDA Restricts Covid Jabs for Under-65s: Share Views",
         "items": [
           {
             "source": "Guardian Health",
@@ -424,48 +501,23 @@
             "title": "People in the US: share your views on the FDA’s new restrictions on Covid jabs for under-65s",
             "standfirst": "We want to hear people’s views about the change making only those 65 and up automatically eligible for the vaccinesNew eligibility rules for Covid-19 vaccines have been authorized by the Food and Drug Administration (FDA), with people under 65 only eligible if they have an underlying medical condition that makes them particularly vulnerable.The move will make the upcoming fall and winter seasons the first time during which the US government hasn’t recommended widespread Covid vaccinations since the pandemic. Continue reading...",
             "content": "We want to hear people’s views about the change making only those 65 and up automatically eligible for the vaccinesNew eligibility rules for Covid-19 vaccines have been authorized by the Food and Drug Administration (FDA), with people under 65 only eligible if they have an underlying medical condition that makes them particularly vulnerable.The move will make the upcoming fall and winter seasons the first time during which the US government hasn’t recommended widespread Covid vaccinations since the pandemic. Continue reading...",
-            "feed_position": 11
+            "feed_position": 13
           }
         ],
         "ai_summary": [
-          "The FDA authorized new eligibility rules for Covid-19 vaccines.",
+          "The FDA authorized new rules for Covid-19 vaccine eligibility.",
           "People under 65 are only eligible if they have underlying conditions.",
-          "The government will not recommend widespread vaccinations this fall.",
+          "The government will not recommend widespread vaccinations.",
           "The article seeks public views on the new vaccine restrictions.",
-          "The new rules impact vaccine eligibility for the under-65 age group."
+          "The changes affect the upcoming fall and winter seasons."
         ]
       },
       {
-        "id": "cluster_12",
-        "coverage": 1,
-        "updated_at": "Thu, 28 Aug 2025 16:00:50 GMT",
-        "title": "Swallowing correctly can save your life – are you doing it right?",
-        "neutral_headline": "Swallowing correctly can save your life",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/wellness/2025/aug/28/swallowing-correctly-life-saving",
-            "published_at": "Thu, 28 Aug 2025 16:00:50 GMT",
-            "title": "Swallowing correctly can save your life – are you doing it right?",
-            "standfirst": "The natural movement may be different for everyone, and being mindful could help prevent, or resolve, dysphagiaShare your stories of caregiving for your parents with your siblingsPeople often assume swallowing is automatic and infallible, but I’ve learned it isn’t.When my daughter was two months old, she caught RSV and stopped gaining weight. When she tried to feed, she coughed and sputtered, sometimes arching her back. She was soon diagnosed with dysphagia – a swallowing disorder. Continue reading...",
-            "content": "The natural movement may be different for everyone, and being mindful could help prevent, or resolve, dysphagiaShare your stories of caregiving for your parents with your siblingsPeople often assume swallowing is automatic and infallible, but I’ve learned it isn’t.When my daughter was two months old, she caught RSV and stopped gaining weight. When she tried to feed, she coughed and sputtered, sometimes arching her back. She was soon diagnosed with dysphagia – a swallowing disorder. Continue reading...",
-            "feed_position": 12
-          }
-        ],
-        "ai_summary": [
-          "The article discusses the importance of proper swallowing.",
-          "Dysphagia, a swallowing disorder, can be a serious issue.",
-          "The author learned about swallowing difficulties with their child.",
-          "Swallowing may not be automatic or infallible for everyone.",
-          "Being mindful of swallowing can help prevent or resolve issues."
-        ]
-      },
-      {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 16:00:50 GMT",
         "title": "Shingles jab may reduce risk of heart attack, pioneering research reveals",
-        "neutral_headline": "Shingles jab may reduce heart attack risk",
+        "neutral_headline": "Shingles Jab May Reduce Heart Attack Risk",
         "items": [
           {
             "source": "Guardian Health",
@@ -474,19 +526,44 @@
             "title": "Shingles jab may reduce risk of heart attack, pioneering research reveals",
             "standfirst": "First global systematic review finds vaccine associated with 18% lower risk of stroke or heart attack in adultsGetting the shingles vaccine could lower your risk of a heart attack or stroke by as much as 20%, according to the first study of its kind.Shingles is a common condition affecting millions worldwide that causes a painful rash and can lead to serious problems such as deafness, long-lasting pain and blindness. It is more likely to cause serious problems in older age groups. Continue reading...",
             "content": "First global systematic review finds vaccine associated with 18% lower risk of stroke or heart attack in adultsGetting the shingles vaccine could lower your risk of a heart attack or stroke by as much as 20%, according to the first study of its kind.Shingles is a common condition affecting millions worldwide that causes a painful rash and can lead to serious problems such as deafness, long-lasting pain and blindness. It is more likely to cause serious problems in older age groups. Continue reading...",
-            "feed_position": 13
+            "feed_position": 14
           }
         ],
         "ai_summary": [
           "The shingles vaccine may lower the risk of heart attack and stroke.",
-          "The study found an 18% lower risk of stroke or heart attack.",
-          "Shingles is a common condition causing a painful rash.",
-          "The vaccine could reduce heart attack risk by up to 20%.",
-          "Shingles can lead to serious problems, especially in older adults."
+          "The study is the first global systematic review of its kind.",
+          "The vaccine is associated with an 18% lower stroke/heart attack risk.",
+          "Shingles can cause a painful rash and serious complications.",
+          "The study highlights the potential cardiovascular benefits of the vaccine."
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
+        "coverage": 1,
+        "updated_at": "Thu, 28 Aug 2025 16:00:50 GMT",
+        "title": "Swallowing correctly can save your life – are you doing it right?",
+        "neutral_headline": "Swallowing Correctly Can Save Your Life, Are You Doing It Right?",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/wellness/2025/aug/28/swallowing-correctly-life-saving",
+            "published_at": "Thu, 28 Aug 2025 16:00:50 GMT",
+            "title": "Swallowing correctly can save your life – are you doing it right?",
+            "standfirst": "The natural movement may be different for everyone, and being mindful could help prevent, or resolve, dysphagiaShare your stories of caregiving for your parents with your siblingsPeople often assume swallowing is automatic and infallible, but I’ve learned it isn’t.When my daughter was two months old, she caught RSV and stopped gaining weight. When she tried to feed, she coughed and sputtered, sometimes arching her back. She was soon diagnosed with dysphagia – a swallowing disorder. Continue reading...",
+            "content": "The natural movement may be different for everyone, and being mindful could help prevent, or resolve, dysphagiaShare your stories of caregiving for your parents with your siblingsPeople often assume swallowing is automatic and infallible, but I’ve learned it isn’t.When my daughter was two months old, she caught RSV and stopped gaining weight. When she tried to feed, she coughed and sputtered, sometimes arching her back. She was soon diagnosed with dysphagia – a swallowing disorder. Continue reading...",
+            "feed_position": 15
+          }
+        ],
+        "ai_summary": [
+          "Swallowing is often assumed to be automatic, but it can be problematic for some individuals.",
+          "A two-month-old daughter was diagnosed with dysphagia after contracting RSV and struggling to feed.",
+          "Dysphagia is a swallowing disorder that can cause coughing, sputtering, and arching of the back.",
+          "Being mindful of swallowing can help prevent or resolve swallowing difficulties.",
+          "The article encourages readers to share their caregiving experiences with siblings."
+        ]
+      },
+      {
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 16:00:00 GMT",
         "title": "BBC Inside Science",
@@ -505,19 +582,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0c2f9v1.jpg",
         "ai_summary": [
-          "The program discusses the evidence behind rat infestation warnings.",
-          "The program also addresses the issue of \"wet wipe island\".",
-          "The episode covers scientific topics and environmental issues.",
-          "The program is a segment of BBC Inside Science.",
-          "The episode explores various scientific and environmental concerns."
+          "This cluster contains a newsGP article, so the original headline is preserved.",
+          "The article explores the evidence behind warnings about rat infestations.",
+          "It also discusses the topic of \"wet wipe island\" and its implications.",
+          "The program is part of the BBC Inside Science series.",
+          "The program likely covers scientific topics in an accessible format."
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 14:46:58 GMT",
         "title": "People in England: share your experiences accessing NHS dental services",
-        "neutral_headline": "Share experiences accessing NHS dental services",
+        "neutral_headline": "Share Experiences Accessing NHS Dental Services in England",
         "items": [
           {
             "source": "Guardian Health",
@@ -526,23 +603,23 @@
             "title": "People in England: share your experiences accessing NHS dental services",
             "standfirst": "We would like to hear people’s experiences accessing NHS dental treatment amid fears of ‘dental deserts’People living in deprived or rural communities are more likely to experience “dental deserts” with a lack of NHS dental services, according to analysis of NHS England data from the Local Government Association.For instance, Middlesborough, one of the most deprived local authorities in England, has just 10 NHS dental practices per 100,000 people, compared to Richmond upon Thames, among the least deprived, which has 28 per 100,000. Continue reading...",
             "content": "We would like to hear people’s experiences accessing NHS dental treatment amid fears of ‘dental deserts’People living in deprived or rural communities are more likely to experience “dental deserts” with a lack of NHS dental services, according to analysis of NHS England data from the Local Government Association.For instance, Middlesborough, one of the most deprived local authorities in England, has just 10 NHS dental practices per 100,000 people, compared to Richmond upon Thames, among the least deprived, which has 28 per 100,000. Continue reading...",
-            "feed_position": 14
+            "feed_position": 16
           }
         ],
         "ai_summary": [
-          "The article seeks experiences accessing NHS dental treatment.",
-          "There are concerns about \"dental deserts\" in some areas.",
-          "Deprived and rural communities may lack NHS dental services.",
-          "Middlesborough has a low number of NHS dental practices.",
-          "Richmond upon Thames has a higher number of practices."
+          "The article seeks experiences accessing NHS dental treatment amid \"dental deserts\" concerns.",
+          "Deprived or rural communities are more likely to lack NHS dental services.",
+          "Middlesborough has 10 NHS dental practices per 100,000 people.",
+          "Richmond upon Thames has 28 NHS dental practices per 100,000 people.",
+          "The Local Government Association analyzed NHS England data."
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Thu, 28 Aug 2025 14:37:04 GMT",
         "title": "Mounjaro maker pauses shipments of weight loss drug to UK",
-        "neutral_headline": "Eli Lilly Pauses Mounjaro Shipments to UK Before Price Increase",
+        "neutral_headline": "Mounjaro Maker Pauses Shipments of Weight Loss Drug to UK",
         "items": [
           {
             "source": "Guardian Health",
@@ -551,73 +628,21 @@
             "title": "Mounjaro maker pauses shipments of weight loss drug to UK",
             "standfirst": "US firm Eli Lilly reportedly tells British wholesalers to stop taking orders as demand soars before September price riseThe manufacturer of the weight-loss drug Mounjaro has paused shipments to the UK before a significant price rise for the treatment next month.The US pharmaceutical company Eli Lilly is due to increase the UK list price of the drug by up to 170% from September amid a White House push to get drugmakers to raise medicine prices in Europe to allow for price cuts in the US. Continue reading...",
             "content": "US firm Eli Lilly reportedly tells British wholesalers to stop taking orders as demand soars before September price riseThe manufacturer of the weight-loss drug Mounjaro has paused shipments to the UK before a significant price rise for the treatment next month.The US pharmaceutical company Eli Lilly is due to increase the UK list price of the drug by up to 170% from September amid a White House push to get drugmakers to raise medicine prices in Europe to allow for price cuts in the US. Continue reading...",
-            "feed_position": 15
+            "feed_position": 17
           }
         ],
         "ai_summary": [
-          "Eli Lilly, the maker of Mounjaro, has paused shipments of the weight-loss drug to the UK.",
-          "The pause precedes a price increase of up to 170% for Mounjaro in the UK next month.",
-          "The price hike is scheduled for September.",
-          "The US pharmaceutical company is responding to soaring demand for the drug.",
-          "The White House is pushing drugmakers to raise prices in Europe."
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Thu, 28 Aug 2025 12:48:19 GMT",
-        "title": "Incinerator broke air pollution limits 916 times",
-        "neutral_headline": "Incinerator Breached Air Pollution Limits 916 Times",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c627evk7yrzo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 28 Aug 2025 12:48:19 GMT",
-            "title": "Incinerator broke air pollution limits 916 times",
-            "standfirst": "The Environment Agency are currently considering enforcement action against the operator, Viridor.",
-            "content": "The Environment Agency are currently considering enforcement action against the operator, Viridor.",
-            "feed_position": 8,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0e1/live/0b410df0-83fe-11f0-a3f8-9b56bf5c3841.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0e1/live/0b410df0-83fe-11f0-a3f8-9b56bf5c3841.jpg",
-        "ai_summary": [
-          "An incinerator exceeded air pollution limits on 916 separate occasions.",
-          "The Environment Agency is currently reviewing the situation.",
-          "The Agency is considering potential enforcement action against the operator.",
-          "The operator of the incinerator is Viridor.",
-          "The breaches of air pollution limits have prompted an investigation."
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Thu, 28 Aug 2025 12:00:52 GMT",
-        "title": "Humans inhale as much as 68,000 microplastic particles daily, study finds",
-        "neutral_headline": "Humans inhale as much as 68,000 microplastic particles daily, study finds",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/environment/2025/aug/28/microplastics-in-hair-study",
-            "published_at": "Thu, 28 Aug 2025 12:00:52 GMT",
-            "title": "Humans inhale as much as 68,000 microplastic particles daily, study finds",
-            "standfirst": "Particles are small enough to burrow into lungs, says report, with health impacts ‘more substantial than we realize’Every breath people take in their homes or car probably contains significant amounts of microplastics small enough to burrow deep into lungs, new peer-reviewed research finds, bringing into focus a little understood route of exposure and health threat.The study, published in the journal Plos One, estimates humans can inhale as much as 68,000 tiny plastic particles daily. Previous studies have identified larger pieces of airborne microplastics, but those are not as much of a health threat because they do not hang in the air as long, or move as deep into the pulmonary system. Continue reading...",
-            "content": "Particles are small enough to burrow into lungs, says report, with health impacts ‘more substantial than we realize’Every breath people take in their homes or car probably contains significant amounts of microplastics small enough to burrow deep into lungs, new peer-reviewed research finds, bringing into focus a little understood route of exposure and health threat.The study, published in the journal Plos One, estimates humans can inhale as much as 68,000 tiny plastic particles daily. Previous studies have identified larger pieces of airborne microplastics, but those are not as much of a health threat because they do not hang in the air as long, or move as deep into the pulmonary system. Continue reading...",
-            "feed_position": 16
-          }
-        ],
-        "ai_summary": [
-          "A new study estimates humans inhale up to 68,000 microplastic particles daily.",
-          "These particles are small enough to penetrate deep into the lungs.",
-          "The study was published in the journal PLOS One.",
-          "Previous studies identified larger airborne microplastics, posing less of a threat.",
-          "The research highlights a previously under-recognized route of exposure."
+          "Eli Lilly, the Mounjaro manufacturer, paused shipments to the UK.",
+          "The pause precedes a significant price increase for the drug in September.",
+          "The price increase could be up to 170% in the UK.",
+          "The US government is pushing drugmakers to raise prices in Europe.",
+          "The price increase is related to allowing price cuts in the United States."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-08-30T07:16:01.024Z",
+    "updated_at": "2025-08-30T11:14:01.520Z",
     "clusters": []
   }
 }
