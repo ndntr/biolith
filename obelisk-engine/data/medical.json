@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2025-08-30T23:16:53.149Z",
+    "updated_at": "2025-08-31T03:36:40.398Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-08-30T23:17:08.009Z",
+    "updated_at": "2025-08-31T03:36:54.037Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -27,10 +27,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/e3536198-08fb-4a85-8014-447c8b664659/Rural-healthcare-in-crisis-New-report-reveals-8.35b-funding-gap.aspx",
         "ai_summary": [
           "A new report reveals an $8.35 billion funding gap in rural healthcare.",
-          "Rural GPs are working with almost non-existent services.",
-          "The report highlights the ballooning funding shortfall.",
-          "The funding shortfall is facing rural patients and doctors.",
-          "Lives are at risk due to the healthcare crisis."
+          "Rural GPs are working with almost non-existent services, according to the report.",
+          "The report highlights the ballooning funding shortfall facing rural patients and doctors.",
+          "Lives are at risk due to the crisis in rural healthcare, the report states.",
+          "The report lays bare the challenges facing rural healthcare providers."
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/f46ed468-95c5-4567-b5c1-c3471f97b673/RACGP-to-launch-national-New-Fellows-committee.aspx",
         "ai_summary": [
-          "The Royal Australian College of General Practitioners will launch a committee.",
-          "The committee will be for new fellows.",
-          "The committee aims to give new GPs a loud voice.",
-          "The committee will provide enhanced support for new fellows.",
-          "The committee is a national initiative."
+          "The Royal Australian College of General Practitioners will launch a new committee.",
+          "The committee aims to give new GPs a loud voice within the college.",
+          "The committee will provide enhanced support for new members.",
+          "The initiative is designed to support new GPs in their careers.",
+          "The committee will focus on the needs of newly qualified general practitioners."
         ]
       },
       {
@@ -80,24 +80,24 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/42a22637-89ce-4e67-92e1-308191016f8c/Doctors-in-the-House-QLD-GPs-visit-State-Parliament.aspx",
         "ai_summary": [
-          "A delegation of Queensland GPs visited State Parliament.",
-          "The GPs met with key politicians.",
-          "The meeting discussed priorities for general practice.",
-          "The visit aimed to advocate for general practice needs.",
-          "The delegation represented various general practices."
+          "A delegation of Queensland GPs visited the State Parliament.",
+          "The GPs met with key politicians to discuss priorities.",
+          "The meeting focused on a range of issues relevant to general practice.",
+          "The visit aimed to advocate for the needs of general practitioners.",
+          "The delegation sought to influence policy decisions related to healthcare."
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2025-08-30T23:17:04.330Z",
+    "updated_at": "2025-08-31T03:36:50.981Z",
     "clusters": [
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 2,
         "updated_at": "Fri, 29 Aug 2025 11:51:59 GMT",
         "title": "What is chickenpox and how can I get my child vaccinated?",
-        "neutral_headline": "Chickenpox vaccine to be offered to children in England",
+        "neutral_headline": "Chickenpox vaccine to be offered to children in England and Wales",
         "items": [
           {
             "source": "BBC Health",
@@ -131,19 +131,73 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4209/live/2447a060-826f-11f0-a832-3d1a9236e27e.jpg",
         "ai_summary": [
-          "The NHS in England and Wales will offer the MMRV vaccine.",
-          "The vaccine will be offered to young children starting January 2026.",
-          "The vaccine is for chickenpox.",
-          "The vaccination program aims to reduce hospital admissions.",
-          "The program will protect those most at risk of complications."
+          "The NHS in England and Wales will offer the MMRV vaccine from January 2026.",
+          "The vaccine will be offered to young children in England and Wales.",
+          "The free vaccination aims to reduce hospital admissions.",
+          "The vaccination program will protect those most at risk of complications.",
+          "The rollout is scheduled to begin in January of the year 2026."
         ]
       },
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Sun, 31 Aug 2025 01:25:49 GMT",
+        "title": "Tories pledge to get all oil and gas out of North Sea",
+        "neutral_headline": "Tories pledge to get all oil and gas out of North Sea",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cp890n51684o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 31 Aug 2025 01:25:49 GMT",
+            "title": "Tories pledge to get all oil and gas out of North Sea",
+            "standfirst": "The government warns Kemi Badenoch's plans would \"only accelerate the worsening climate crisis\".",
+            "content": "The government warns Kemi Badenoch's plans would \"only accelerate the worsening climate crisis\".",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/43964620-85fc-11f0-9cf6-cbf3e73ce2b9.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/43964620-85fc-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "ai_summary": [
+          "The government warns Kemi Badenoch's plans would worsen the climate crisis.",
+          "The Tories are pledging to remove all oil and gas from the North Sea.",
+          "The government is concerned about the impact of the plans.",
+          "The plans are related to the extraction of oil and gas.",
+          "The government's concerns are focused on climate change."
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Sun, 31 Aug 2025 00:35:20 GMT",
+        "title": "‘Public enemy number one’: The battle against an eight-toothed beetle threatening UK forests",
+        "neutral_headline": "Battle against eight-toothed beetle threatening UK forests",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/clyr8yml9rro?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 31 Aug 2025 00:35:20 GMT",
+            "title": "‘Public enemy number one’: The battle against an eight-toothed beetle threatening UK forests",
+            "standfirst": "Forestry Research said the UK is the first country to eradicate the beetle after five-year battle.",
+            "content": "Forestry Research said the UK is the first country to eradicate the beetle after five-year battle.",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5137/live/bd986370-8603-11f0-a7fe-595af3bb2632.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5137/live/bd986370-8603-11f0-a7fe-595af3bb2632.jpg",
+        "ai_summary": [
+          "The UK is the first country to eradicate the eight-toothed beetle.",
+          "Forestry Research said the battle took five years to complete.",
+          "The beetle was a threat to UK forests.",
+          "The eradication effort was a five-year battle.",
+          "The UK successfully eliminated the beetle."
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 18:58:59 GMT",
         "title": "Bernie Sanders demands that RFK Jr step down as health secretary",
-        "neutral_headline": "Bernie Sanders demands that RFK Jr step down as health secretary",
+        "neutral_headline": "Bernie Sanders demands that RFK Jr step down as health secretary: Vermont senator says Kennedy is endangering the health of the American people as head of the US health departmentBernie Sanders has joined in on growing public calls for Donald Trump’s health secretary, Robert F Kennedy Jr, to resign, after recent chaos across US health agencies.In an op-ed published in the New York Times on Saturday, the Vermont senator accused Kennedy of “endangering the health of the American people now and into the future”, adding: “He must resign.” Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -156,19 +210,19 @@
           }
         ],
         "ai_summary": [
-          "Bernie Sanders wants Robert F Kennedy Jr to resign.",
+          "Bernie Sanders wants Robert F Kennedy Jr to resign as health secretary.",
           "Sanders says Kennedy is endangering the health of Americans.",
-          "Sanders' statement follows recent chaos across US health agencies.",
+          "Sanders' call for resignation follows recent chaos in US health agencies.",
           "Sanders published an op-ed in the New York Times.",
-          "Sanders accused Kennedy of endangering health now and in the future."
+          "Sanders accused Kennedy of endangering the health of the American people."
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 17:07:34 GMT",
         "title": "New York City declares Harlem legionnaire’s disease outbreak over",
-        "neutral_headline": "New York City declares Harlem legionnaire’s disease outbreak over",
+        "neutral_headline": "New York City declares Harlem legionnaire’s disease outbreak over: A hospital’s cooling tower was harboring bacteria as seven people died and 90 were hospitalized over three weeksNew York City has declared the deadly legionnaires’ disease outbreak in central Harlem over, nearly three weeks since it began.On Friday, city health officials announced that there have been no new cases among residents who live or work in the area since 9 August. As of Friday, there have been 114 cases of legionnaires’ disease, with 90 people hospitalized – six of those remaining in hospital – and seven deaths. Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -181,15 +235,15 @@
           }
         ],
         "ai_summary": [
-          "New York City declared the Harlem legionnaires' disease outbreak over.",
-          "The outbreak began nearly three weeks prior to the declaration.",
-          "There were no new cases since August 9th.",
-          "There were 114 cases of legionnaires' disease.",
-          "Seven people died and 90 were hospitalized."
+          "New York City declared the Harlem legionnaires’ disease outbreak over.",
+          "The outbreak lasted nearly three weeks in central Harlem.",
+          "No new cases have been reported since August 9th.",
+          "There were 114 cases of legionnaires’ disease.",
+          "Seven people died, and 90 were hospitalized."
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 16:50:15 GMT",
         "title": "AI stethoscope could detect major heart conditions in seconds",
@@ -208,19 +262,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5cb/live/8c30d170-85c0-11f0-a316-27f9a315b0fa.jpg",
         "ai_summary": [
-          "New AI stethoscope technology can detect heart conditions.",
-          "The detection can happen in seconds.",
-          "Experts say the technology could be a \"game-changer\".",
-          "The technology could result in patients being treated sooner.",
-          "The technology is a new development in healthcare."
+          "New technology could be a game-changer for heart condition detection.",
+          "The AI stethoscope could detect major heart conditions quickly.",
+          "Experts say the technology could result in earlier treatment.",
+          "The technology could improve patient outcomes.",
+          "The AI stethoscope could revolutionize heart condition diagnosis."
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 15:40:51 GMT",
         "title": "Celebrity chef Gordon Ramsay undergoes treatment to remove skin cancer",
-        "neutral_headline": "Gordon Ramsay Undergoes Skin Cancer Treatment",
+        "neutral_headline": "Celebrity chef Gordon Ramsay undergoes treatment to remove skin cancer: Ramsay, 58, has posted thanks on social media to ‘incredible’ health workers and urged followers to remember their sun protectionThe celebrity chef Gordon Ramsay has said he has undergone treatment to remove skin cancer, thanking “incredible” health workers for their efforts and urging fans to remember to wear sun protection.Ramsay, 58, said he had basal cell carcinoma, a non-melanoma form of skin cancer, removed, in a post on Instagram. A picture showed dressings below his ear where the cancer had been removed. Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -233,19 +287,19 @@
           }
         ],
         "ai_summary": [
-          "Celebrity chef Gordon Ramsay, age 58, had skin cancer removed.",
-          "Ramsay posted thanks to health workers on social media.",
-          "He urged followers to remember sun protection.",
-          "Ramsay stated he had basal cell carcinoma removed.",
-          "A photo showed dressings below his ear after the procedure."
+          "Gordon Ramsay underwent treatment for skin cancer.",
+          "Ramsay thanked health workers on social media.",
+          "Ramsay urged followers to use sun protection.",
+          "Ramsay had basal cell carcinoma removed.",
+          "Ramsay is 58 years old."
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 15:00:03 GMT",
         "title": "A report tied Iowa’s water pollution to agriculture. Then the money to promote it mysteriously disappeared",
-        "neutral_headline": "Iowa Water Pollution Study Funding Removed",
+        "neutral_headline": "Report tied Iowa’s water pollution to agriculture, funding disappeared",
         "items": [
           {
             "source": "Guardian Health",
@@ -258,19 +312,19 @@
           }
         ],
         "ai_summary": [
-          "A $1 million study examined Iowa's water quality issues.",
-          "The study pointed to agricultural pollution as a source.",
-          "Public officials removed funding for promoting the study.",
-          "Roughly $400,000 was allocated for public awareness.",
-          "High cancer rates were a public concern in Iowa."
+          "A report linked Iowa's water pollution to agriculture.",
+          "Funding to promote the report's findings was removed.",
+          "Roughly $400,000 of the budget was for public awareness.",
+          "The funding was recently \"zeroed out\" by officials.",
+          "The study pointed to agricultural pollution as a source."
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 14:15:02 GMT",
         "title": "New drug hailed as ‘gamechanger’ in tackling stubbornly high blood pressure",
-        "neutral_headline": "New Drug Shows Promise for High Blood Pressure",
+        "neutral_headline": "New drug hailed as ‘gamechanger’ in tackling stubbornly high blood pressure: Trials of baxdrostat have produced ‘exciting’ results for people whose hypertension has proved difficult to controlDoctors are hailing a new pill for patients with high blood pressure resistant to existing medication as a “gamechanger” and a “triumph of science”.Globally, more than 1.3 billion people have hypertension. In half of them, their high blood pressure is uncontrolled or resistant to existing treatments. They face a much higher risk of heart attack, stroke, kidney disease and early death. Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -283,19 +337,19 @@
           }
         ],
         "ai_summary": [
-          "A new pill, baxdrostat, is being hailed as a \"gamechanger\".",
-          "Trials showed \"exciting\" results for resistant hypertension.",
+          "A new drug, baxdrostat, is showing promising results.",
+          "The drug is for patients with resistant high blood pressure.",
+          "Doctors call the drug a \"gamechanger\" for hypertension.",
           "Over 1.3 billion people globally have hypertension.",
-          "Half of those have uncontrolled or resistant high blood pressure.",
-          "Uncontrolled hypertension increases risk of serious health issues."
+          "Half of those have uncontrolled or resistant high blood pressure."
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 10:00:00 GMT",
         "title": "‘Sliding into an abyss’: experts warn over rising use of AI for mental health support",
-        "neutral_headline": "Experts Warn of AI's Impact on Mental Health",
+        "neutral_headline": "Experts Warn of AI Chatbot Use for Mental Health",
         "items": [
           {
             "source": "Guardian Health",
@@ -308,19 +362,19 @@
           }
         ],
         "ai_summary": [
-          "Experts warn about increasing AI chatbot use for mental health.",
-          "Therapists report negative impacts from AI chatbot use.",
-          "AI chatbots may foster emotional dependence.",
-          "AI chatbots can exacerbate anxiety symptoms.",
-          "Self-diagnosis and delusional thoughts are potential issues."
+          "Psychotherapists report negative impacts from AI chatbots used for mental health support.",
+          "AI chatbots may foster emotional dependence and worsen anxiety symptoms.",
+          "Some users experience self-diagnosis and amplified delusional thought patterns.",
+          "Dark thoughts and suicide ideation are potential consequences of AI chatbot use.",
+          "Experts warn of a \"dangerous abyss\" for vulnerable individuals using AI."
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 09:15:56 GMT",
         "title": "Doctors develop AI stethoscope that can detect major heart conditions in 15 seconds",
-        "neutral_headline": "AI Stethoscope Detects Heart Conditions Quickly",
+        "neutral_headline": "Doctors Develop AI Stethoscope for Heart Condition Detection",
         "items": [
           {
             "source": "Guardian Health",
@@ -333,15 +387,15 @@
           }
         ],
         "ai_summary": [
-          "Doctors developed an AI-led stethoscope.",
-          "The AI stethoscope can detect heart conditions in 15 seconds.",
-          "It can diagnose heart failure, valve disease, and arrhythmias.",
-          "The traditional stethoscope has been used for over two centuries.",
-          "The new tool is an upgrade to the traditional stethoscope."
+          "Doctors created an AI-led stethoscope to detect heart conditions.",
+          "The device can diagnose heart failure, valve disease, and abnormal rhythms.",
+          "Diagnosis takes approximately fifteen seconds using the new technology.",
+          "The traditional stethoscope has been a medical tool for over two centuries.",
+          "The new AI stethoscope represents an advancement in diagnostic capabilities."
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 07:32:24 GMT",
         "title": "'Slimming jabs have changed the way we do things'",
@@ -360,19 +414,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5c9/live/e569f9e0-84ff-11f0-b391-6936825093bd.jpg",
         "ai_summary": [
-          "Angie Smith has asked brides about slimming jab use.",
-          "The trend of using slimming jabs has emerged this year.",
-          "The article discusses the changing landscape of weight loss.",
-          "The focus is on the impact of slimming jabs.",
-          "The article highlights a shift in societal norms."
+          "Angie Smith has asked brides if they are using slimming jabs.",
+          "This inquiry reflects a trend that emerged during the current year.",
+          "The trend involves the use of slimming injections.",
+          "The injections are being used by some brides.",
+          "The trend has altered certain practices."
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 07:03:56 GMT",
         "title": "Exercise and therapy can mend a broken heart, study suggests",
-        "neutral_headline": "Exercise and Therapy May Mend Broken Hearts",
+        "neutral_headline": "Study Suggests Exercise and Therapy Can Mend Broken Hearts",
         "items": [
           {
             "source": "Guardian Health",
@@ -385,15 +439,15 @@
           }
         ],
         "ai_summary": [
-          "A study suggests exercise and therapy can treat broken heart syndrome.",
-          "Takotsubo cardiomyopathy can lead to heart failure.",
-          "The condition causes the heart muscle to change shape.",
-          "It is usually triggered by severe emotional or physical stress.",
-          "Hundreds of thousands worldwide live with the condition."
+          "A clinical trial suggests exercise and therapy can treat Takotsubo syndrome.",
+          "Takotsubo cardiomyopathy, or broken heart syndrome, weakens the heart.",
+          "The syndrome is often triggered by severe emotional or physical stress.",
+          "Hundreds of thousands worldwide live with broken heart syndrome.",
+          "The study offers a potential treatment for a serious heart condition."
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 06:00:53 GMT",
         "title": "Need a new pair of glasses? Here’s how to save money on eye tests and specs",
@@ -410,19 +464,19 @@
           }
         ],
         "ai_summary": [
-          "The author was advised to start wearing glasses at age 39.",
-          "The article discusses costs associated with eye care.",
-          "NHS vouchers and employer subsidies are available.",
-          "Online retailers offer value for money on glasses.",
-          "The article focuses on saving money on eye care."
+          "The author, at age 39, needs glasses for work and driving.",
+          "The article discusses costs associated with getting new glasses.",
+          "NHS vouchers and employer subsidies are available for some.",
+          "Online retailers offer value for money on eye tests and specs.",
+          "The article provides information on saving money on vision care."
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 04:00:50 GMT",
         "title": "Sellers of fake Botox jabs could be jailed for two years, says watchdog",
-        "neutral_headline": "Fake Botox Sellers Face Jail Time",
+        "neutral_headline": "Sellers of Fake Botox Jabs Could Face Jail Time",
         "items": [
           {
             "source": "Guardian Health",
@@ -435,19 +489,19 @@
           }
         ],
         "ai_summary": [
-          "Sellers of fake Botox jabs could be jailed for two years.",
-          "The MHRA is cracking down on unlicensed products.",
-          "The crackdown follows a spate of botulism cases.",
-          "The cases are thought to be linked to the products.",
-          "The MHRA is the UK's medicine watchdog."
+          "The UK's MHRA is cracking down on unlicensed botulinum toxin products.",
+          "Sellers of fake Botox could be jailed for up to two years.",
+          "The crackdown follows a rise in botulism cases in England.",
+          "The MHRA is targeting those who are breaking the law.",
+          "The agency is focused on unlicensed anti-wrinkle products."
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 00:55:53 GMT",
         "title": "Military drills spark hundreds of wildfires in UK",
-        "neutral_headline": "Military Drills Cause UK Wildfires",
+        "neutral_headline": "Military Drills Spark Hundreds of Wildfires in UK",
         "items": [
           {
             "source": "BBC Science",
@@ -456,21 +510,21 @@
             "title": "Military drills spark hundreds of wildfires in UK",
             "standfirst": "Live explosives on army training sites in the UK countryside mean many wildfires cannot be tackled.",
             "content": "Live explosives on army training sites in the UK countryside mean many wildfires cannot be tackled.",
-            "feed_position": 0,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a40/live/aee52200-835b-11f0-b3de-c13d348c14aa.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a40/live/aee52200-835b-11f0-b3de-c13d348c14aa.jpg",
         "ai_summary": [
-          "Military drills have sparked hundreds of UK wildfires.",
-          "Live explosives on training sites prevent tackling fires.",
-          "The article focuses on the cause of the wildfires.",
+          "Military drills in the UK are causing numerous wildfires.",
+          "Live explosives on training sites prevent tackling many fires.",
+          "The fires are a consequence of military training activities.",
           "The location of the fires is in the UK countryside.",
-          "The fires are a result of military training."
+          "The situation presents a challenge for fire control."
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 29 Aug 2025 17:48:34 GMT",
         "title": "RFK Jr continues to make dubious health claims as CDC roils under his leadership",
@@ -484,27 +538,18 @@
             "standfirst": "As leaders at Centers for Disease Control quit after director’s firing, Kennedy stokes controversy with pet theoriesIn a week of chaos at the Centers for Disease Control and Prevention, Donald Trump’s health secretary, Robert F Kennedy Jr, has continued to make questionable medical and health claims – and has been slammed for them by experts and lawmakers alike.In recent days, Kennedy has been facing increasing calls for his resignation following the Trump administration’s firing of the CDC director, Susan Monarez, which in turn prompted four other top officials to quit the agency. The chaos across US health agencies also comes as Kennedy released a slew of controversial and contradictory rules surrounding Covid-19 vaccines. Continue reading...",
             "content": "As leaders at Centers for Disease Control quit after director’s firing, Kennedy stokes controversy with pet theoriesIn a week of chaos at the Centers for Disease Control and Prevention, Donald Trump’s health secretary, Robert F Kennedy Jr, has continued to make questionable medical and health claims – and has been slammed for them by experts and lawmakers alike.In recent days, Kennedy has been facing increasing calls for his resignation following the Trump administration’s firing of the CDC director, Susan Monarez, which in turn prompted four other top officials to quit the agency. The chaos across US health agencies also comes as Kennedy released a slew of controversial and contradictory rules surrounding Covid-19 vaccines. Continue reading...",
             "feed_position": 10
-          },
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/us-news/2025/aug/28/cdc-chief-fired-white-house-monarez-trump",
-            "published_at": "Fri, 29 Aug 2025 02:07:23 GMT",
-            "title": "White House picks Kennedy deputy Jim O’Neill to replace fired CDC chief",
-            "standfirst": "Deputy health secretary chosen as agency’s interim director after firing of Susan MonarezWho’s who in the CDC crisis?The White House has chosen a deputy of Robert F Kennedy Jr to serve as the acting head of the US Centers for Disease Control and Prevention (CDC), a decision that comes as the standoff over the firing of director Susan Monarez has deepened, with Monarez’s lawyers claiming she will not depart unless Donald Trump himself removes her.A White House official confirmed to the Guardian that Jim O’Neill, currently the deputy secretary of the Department of Health and Human Services (HHS), had been selected to temporarily lead the public health agency, giving Kennedy an ally in his efforts to overhaul US vaccine policy. Continue reading...",
-            "content": "Deputy health secretary chosen as agency’s interim director after firing of Susan MonarezWho’s who in the CDC crisis?The White House has chosen a deputy of Robert F Kennedy Jr to serve as the acting head of the US Centers for Disease Control and Prevention (CDC), a decision that comes as the standoff over the firing of director Susan Monarez has deepened, with Monarez’s lawyers claiming she will not depart unless Donald Trump himself removes her.A White House official confirmed to the Guardian that Jim O’Neill, currently the deputy secretary of the Department of Health and Human Services (HHS), had been selected to temporarily lead the public health agency, giving Kennedy an ally in his efforts to overhaul US vaccine policy. Continue reading...",
-            "feed_position": 14
           }
         ],
         "ai_summary": [
-          "Robert F. Kennedy Jr. continues to make questionable health claims.",
+          "Robert F Kennedy Jr continues to make questionable health claims.",
           "Kennedy has faced criticism from experts and lawmakers.",
-          "The CDC is experiencing turmoil after the director's firing.",
-          "Four top officials quit the agency after the director's firing.",
-          "The White House appointed Jim O'Neill as interim CDC head."
+          "The CDC director was fired by the Trump administration.",
+          "Four top officials resigned from the CDC after the firing.",
+          "Kennedy released controversial rules about Covid-19 vaccines."
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 29 Aug 2025 16:00:35 GMT",
         "title": "Potassium-rich diet may cut risk of heart failure by 24%, study suggests",
@@ -521,19 +566,19 @@
           }
         ],
         "ai_summary": [
-          "A potassium-rich diet may reduce heart failure risk by 24%.",
-          "Foods like avocados, bananas, and spinach are beneficial.",
-          "Previous research linked salt reduction to lower risk.",
-          "Reducing salt intake can significantly impact heart health.",
-          "The study suggests dietary changes can improve heart health."
+          "A study suggests a potassium-rich diet may reduce heart failure risk.",
+          "Eating foods like avocados, bananas, and spinach is beneficial.",
+          "The study indicates a 24% lower risk of heart conditions.",
+          "Previous research highlighted the benefits of reducing salt intake.",
+          "Reducing salt intake can significantly improve heart health."
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Fri, 29 Aug 2025 04:00:05 GMT",
         "title": "Experience: I see the world through a layer of snow",
-        "neutral_headline": "Experiencing Visual Snow Syndrome",
+        "neutral_headline": "Experience: I see the world through a layer of snow",
         "items": [
           {
             "source": "Guardian Health",
@@ -546,17 +591,17 @@
           }
         ],
         "ai_summary": [
-          "The author describes experiencing visual snow syndrome.",
-          "The condition causes a layer of visual disturbance.",
+          "The author experiences visual snow syndrome, a persistent condition.",
           "The author noticed the condition after maternity leave.",
-          "She initially thought it was a migraine.",
-          "The condition may be with her for life."
+          "The author was working as a food stylist and juggling multiple tasks.",
+          "Flashing lights in vision were initially mistaken for a migraine.",
+          "The condition may be permanent, affecting the author's vision."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-08-30T23:17:08.009Z",
+    "updated_at": "2025-08-31T03:36:54.037Z",
     "clusters": []
   }
 }
