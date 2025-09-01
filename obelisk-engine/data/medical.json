@@ -1,21 +1,21 @@
 {
   "clinical": {
-    "updated_at": "2025-08-31T23:16:58.267Z",
+    "updated_at": "2025-09-01T03:51:03.064Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-08-31T23:17:08.369Z",
+    "updated_at": "2025-09-01T03:51:13.279Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2025-08-31T23:17:07.065Z",
+    "updated_at": "2025-09-01T03:51:12.176Z",
     "clusters": [
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 2,
         "updated_at": "Sun, 31 Aug 2025 16:31:13 GMT",
         "title": "Baby dies of whooping cough after mother not vaccinated while pregnant",
-        "neutral_headline": "Baby dies of whooping cough after mother not vaccinated while pregnant:",
+        "neutral_headline": "Baby dies of whooping cough after mother not vaccinated",
         "items": [
           {
             "source": "BBC Health",
@@ -34,20 +34,72 @@
             "title": "British baby dies from whooping cough as vaccination rates fall",
             "standfirst": "Infant’s mother had not been vaccinated against the highly infectious disease, which affects the lungs and airwaysA baby in the UK has died from whooping cough, marking the first such death in the country this year.The infant’s mother had not been vaccinated against the highly infectious disease, which affects the lungs and airways. This death occurred as vaccination rates among children and pregnant women in the UK have fallen to their lowest levels in 15 years. Continue reading...",
             "content": "Infant’s mother had not been vaccinated against the highly infectious disease, which affects the lungs and airwaysA baby in the UK has died from whooping cough, marking the first such death in the country this year.The infant’s mother had not been vaccinated against the highly infectious disease, which affects the lungs and airways. This death occurred as vaccination rates among children and pregnant women in the UK have fallen to their lowest levels in 15 years. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a22e/live/3531eac0-8643-11f0-a1bf-a3698e2d3fe1.jpg",
         "ai_summary": [
-          "A baby in the UK died from whooping cough this year.",
-          "The mother of the baby had not been vaccinated.",
-          "Vaccination rates among children have declined recently.",
-          "The death is the first from whooping cough this year.",
-          "The article highlights the importance of vaccination."
+          "A baby in the UK died from whooping cough.",
+          "The mother had not been vaccinated during pregnancy.",
+          "This is the first whooping cough death this year.",
+          "Vaccination rates among children have declined.",
+          "Vaccination rates among pregnant women have also fallen."
         ]
       },
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Mon, 01 Sep 2025 00:00:43 GMT",
+        "title": "NHS corridor care now year-round crisis in England, experts say",
+        "neutral_headline": "NHS corridor care is now a year-round crisis in England",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2025/sep/01/nhs-corridor-care-now-year-round-crisis-in-england-experts-say",
+            "published_at": "Mon, 01 Sep 2025 00:00:43 GMT",
+            "title": "NHS corridor care now year-round crisis in England, experts say",
+            "standfirst": "About 74,150 patients waited at least 12 hours on trolleys in June and July, a situation almost nonexistent 10 years agoCorridor care in the NHS is now a year-round crisis, experts have warned, as analysis showed nearly 3 million patients attended A&E over the first two months of the summer.The latest NHS figures in England, analysed by the Liberal Democrats, show that since 2015 the number of people going to A&E in June and July has increased 15% to 2.9 million – the highest level recorded over the past decade. Continue reading...",
+            "content": "About 74,150 patients waited at least 12 hours on trolleys in June and July, a situation almost nonexistent 10 years agoCorridor care in the NHS is now a year-round crisis, experts have warned, as analysis showed nearly 3 million patients attended A&E over the first two months of the summer.The latest NHS figures in England, analysed by the Liberal Democrats, show that since 2015 the number of people going to A&E in June and July has increased 15% to 2.9 million – the highest level recorded over the past decade. Continue reading...",
+            "feed_position": 1
+          }
+        ],
+        "ai_summary": [
+          "Experts warn of a year-round crisis in NHS corridor care.",
+          "Nearly 3 million patients attended A&E in the summer months.",
+          "Approximately 74,150 patients waited over 12 hours on trolleys.",
+          "The number of A&E visits in June and July has increased since 2015.",
+          "The situation is worse than it was a decade ago."
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Sun, 31 Aug 2025 23:35:37 GMT",
+        "title": "Canada's first lunar rover looks to future space exploration",
+        "neutral_headline": "Canada's lunar rover aims for future space exploration",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c1jn4ryxdp3o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 31 Aug 2025 23:35:37 GMT",
+            "title": "Canada's first lunar rover looks to future space exploration",
+            "standfirst": "The mission's goal is to find water on the Moon, which could open the door for a sustained human presence there.",
+            "content": "The mission's goal is to find water on the Moon, which could open the door for a sustained human presence there.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/570f/live/59d9aaa0-86c2-11f0-8190-69835b32fee1.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/570f/live/59d9aaa0-86c2-11f0-8190-69835b32fee1.jpg",
+        "ai_summary": [
+          "Canada's first lunar rover is preparing for its mission.",
+          "The mission's goal is to find water on the Moon.",
+          "Finding water could enable a sustained human presence.",
+          "The mission is part of future space exploration efforts.",
+          "The rover is a key component of the mission."
+        ]
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 22:30:41 GMT",
         "title": "Teenagers with period pain more likely to have chronic adult pain, study says",
@@ -60,19 +112,19 @@
             "title": "Teenagers with period pain more likely to have chronic adult pain, study says",
             "standfirst": "Research finds 76% higher risk for 15-year-olds with dysmenorrhorea than those without painful mensesTeenagers who have moderate or severe period pain are much more likely to develop chronic pain as adults, according to research.Researchers said the findings should serve as a wake-up call to improve menstrual education, reduce stigma, and ensure young people have access to effective support and treatment early on. Continue reading...",
             "content": "Research finds 76% higher risk for 15-year-olds with dysmenorrhorea than those without painful mensesTeenagers who have moderate or severe period pain are much more likely to develop chronic pain as adults, according to research.Researchers said the findings should serve as a wake-up call to improve menstrual education, reduce stigma, and ensure young people have access to effective support and treatment early on. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ],
         "ai_summary": [
-          "Research indicates teenagers with period pain have a higher chronic pain risk.",
-          "76% higher risk was found for 15-year-olds with dysmenorrhea.",
-          "Findings highlight the need for improved menstrual education and support.",
-          "Stigma reduction and early treatment access are also crucial.",
-          "The study serves as a \"wake-up call\" for better care."
+          "Research indicates teenagers with period pain face higher chronic pain risk.",
+          "76% higher risk was found in 15-year-olds with dysmenorrhea.",
+          "Findings highlight need for improved menstrual education and support.",
+          "Stigma reduction and early treatment access are crucial for young people.",
+          "Study findings serve as a wake-up call for better menstrual health care."
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 18:14:37 GMT",
         "title": "Top FDA official demands removal of YouTube videos in which he criticized Covid vaccines",
@@ -85,19 +137,19 @@
             "title": "Top FDA official demands removal of YouTube videos in which he criticized Covid vaccines",
             "standfirst": "Channel was an attempt to ‘preserve’ what Trump officials in current Trump administration said during the pandemicA top official at the Food and Drug Administration (FDA) demanded the removal of YouTube videos of himself that were published by a physician and writer who has been critical of medical misinformation and public health officials in the Trump administration, according to a YouTube notice that was seen by the Guardian.Jonathan Howard, a neurologist and psychiatrist in New York City, received an email from YouTube on Friday night, which stated that Vinay Prasad, who is the FDA’s top vaccine regulator, had demanded the removal of six videos of himself from Howard’s YouTube channel. Continue reading...",
             "content": "Channel was an attempt to ‘preserve’ what Trump officials in current Trump administration said during the pandemicA top official at the Food and Drug Administration (FDA) demanded the removal of YouTube videos of himself that were published by a physician and writer who has been critical of medical misinformation and public health officials in the Trump administration, according to a YouTube notice that was seen by the Guardian.Jonathan Howard, a neurologist and psychiatrist in New York City, received an email from YouTube on Friday night, which stated that Vinay Prasad, who is the FDA’s top vaccine regulator, had demanded the removal of six videos of himself from Howard’s YouTube channel. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "An FDA official requested removal of videos criticizing COVID vaccines.",
+          "A top FDA official requested removal of YouTube videos of himself.",
           "The videos were published by a physician critical of medical misinformation.",
-          "The official is the FDA's top vaccine regulator, Vinay Prasad.",
-          "YouTube notified the physician, Jonathan Howard, of the request.",
-          "Six videos featuring the official were targeted for removal."
+          "The official, Vinay Prasad, is the FDA's top vaccine regulator.",
+          "The videos were on a channel run by neurologist Jonathan Howard.",
+          "YouTube sent Howard an email regarding the removal request."
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 17:59:35 GMT",
         "title": "Former CDC official ‘only sees harm’ to public health under RFK Jr’s leadership",
@@ -110,23 +162,23 @@
             "title": "Former CDC official ‘only sees harm’ to public health under RFK Jr’s leadership",
             "standfirst": "Demetre Daskalakis, who resigned after White House fired CDC chief, cautions against ‘undoing of vaccination’ to ABCThe former immunizations director of the Centers for Disease Control and Prevention has warned of the future of American health under the leadership of Donald Trump’s health secretary, Robert F Kennedy Jr.In an interview on Sunday with ABC, Demetre Daskalakis – who resigned this week in protest over the White House’s firing of CDC director Susan Monarez – said: “From my vantage point as a doctor who’s taken the Hippocratic Oath, I only see harm coming.” Continue reading...",
             "content": "Demetre Daskalakis, who resigned after White House fired CDC chief, cautions against ‘undoing of vaccination’ to ABCThe former immunizations director of the Centers for Disease Control and Prevention has warned of the future of American health under the leadership of Donald Trump’s health secretary, Robert F Kennedy Jr.In an interview on Sunday with ABC, Demetre Daskalakis – who resigned this week in protest over the White House’s firing of CDC director Susan Monarez – said: “From my vantage point as a doctor who’s taken the Hippocratic Oath, I only see harm coming.” Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ],
         "ai_summary": [
-          "Demetre Daskalakis resigned after the White House fired the CDC chief.",
+          "Demetre Daskalakis resigned after the White House fired CDC chief.",
           "Daskalakis cautions against \"undoing of vaccination\" under RFK Jr.",
-          "He stated he only sees harm coming under the new leadership.",
+          "He stated he only sees harm coming under RFK Jr's leadership.",
           "Daskalakis is a former immunizations director at the CDC.",
-          "He made these statements in an interview with ABC."
+          "He made the comments in an interview with ABC on Sunday."
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 16:03:14 GMT",
         "title": "Vegan v carnivore diets – the jury is out | Letters",
-        "neutral_headline": "Vegan versus carnivore diets debated in letters",
+        "neutral_headline": "Vegan versus carnivore diets: Letters debate health impacts",
         "items": [
           {
             "source": "Guardian Health",
@@ -135,23 +187,23 @@
             "title": "Vegan v carnivore diets – the jury is out | Letters",
             "standfirst": "Anne Tropper advocates nose-to-tail eating, while Rendel Harris says going vegan is the only way to be kind to other speciesA “bowl of cereal with skimmed milk, a Greek yoghurt and a lean chicken breast” – doesn’t that epitomise a “fad diet” (The Guardian view on the carnivore diet: red meat for influencers, but bad news for health, 25 August)? Ultraprocessed, unsustainable and wasteful – what is supposed to happen to most of the chicken and the precious dairy fat? I shall be sticking to the nose-to-tail red meat, butter and eggs that have restored my health. I suspect that this trend is powered by personal experience more than by influencers. Anne TropperRopley, Hampshire• Adele Parks’ account of converting to pescatarianism explains how she demonstrated for “beauty without cruelty” (A moment that changed me: I gave up meat at 16 – and learned how to say no, 27 August). But, as she still eats fish and dairy, she apparently doesn’t believe in food without cruelty. If you really want to be kind to other species, go vegan. Otherwise you’re simply saying that your form of cruelty is acceptable while others aren’t.Rendel HarrisLondon Continue reading...",
             "content": "Anne Tropper advocates nose-to-tail eating, while Rendel Harris says going vegan is the only way to be kind to other speciesA “bowl of cereal with skimmed milk, a Greek yoghurt and a lean chicken breast” – doesn’t that epitomise a “fad diet” (The Guardian view on the carnivore diet: red meat for influencers, but bad news for health, 25 August)? Ultraprocessed, unsustainable and wasteful – what is supposed to happen to most of the chicken and the precious dairy fat? I shall be sticking to the nose-to-tail red meat, butter and eggs that have restored my health. I suspect that this trend is powered by personal experience more than by influencers. Anne TropperRopley, Hampshire• Adele Parks’ account of converting to pescatarianism explains how she demonstrated for “beauty without cruelty” (A moment that changed me: I gave up meat at 16 – and learned how to say no, 27 August). But, as she still eats fish and dairy, she apparently doesn’t believe in food without cruelty. If you really want to be kind to other species, go vegan. Otherwise you’re simply saying that your form of cruelty is acceptable while others aren’t.Rendel HarrisLondon Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ],
         "ai_summary": [
           "Letters discuss the merits of vegan and carnivore diets.",
-          "One letter advocates for nose-to-tail eating for health.",
-          "Another letter suggests veganism is the only kind option.",
-          "A writer shares their experience converting to pescatarianism.",
-          "The debate centers on cruelty and dietary choices."
+          "One letter advocates for nose-to-tail eating for health benefits.",
+          "Another letter argues veganism is the only way to avoid cruelty.",
+          "The debate touches on ultraprocessed foods and animal welfare.",
+          "The letters reference personal experiences and dietary choices."
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 16:02:57 GMT",
         "title": "Teachers must be trained to use defibrillators to keep our children safe | Letter",
-        "neutral_headline": "Teachers should be trained to use defibrillators",
+        "neutral_headline": "Training teachers to use defibrillators could save lives",
         "items": [
           {
             "source": "Guardian Health",
@@ -160,23 +212,23 @@
             "title": "Teachers must be trained to use defibrillators to keep our children safe | Letter",
             "standfirst": "Mark King urges the government to provide training on this life-saving equipment as the school year beginsChildren across England are preparing to return to school this week following the summer break, but parents should be concerned for their safety and wellbeing while they are in school.After years of campaigning after the tragic death of my son Oliver to sudden cardiac arrest, I strongly welcomed the commitment given by the previous government to ensure that all state-funded schools across England received life-saving defibrillators. The rollout of the programme was significant and marked a giant step forward in improving emergency medical readiness, and potentially saving lives in schools across England. Continue reading...",
             "content": "Mark King urges the government to provide training on this life-saving equipment as the school year beginsChildren across England are preparing to return to school this week following the summer break, but parents should be concerned for their safety and wellbeing while they are in school.After years of campaigning after the tragic death of my son Oliver to sudden cardiac arrest, I strongly welcomed the commitment given by the previous government to ensure that all state-funded schools across England received life-saving defibrillators. The rollout of the programme was significant and marked a giant step forward in improving emergency medical readiness, and potentially saving lives in schools across England. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "A letter urges government to train teachers on defibrillators.",
+          "A letter urges government to train teachers on defibrillator use.",
           "The letter writer's son died from sudden cardiac arrest.",
           "The previous government committed to providing defibrillators.",
-          "The rollout improved emergency medical readiness in schools.",
-          "Training could potentially save lives in schools."
+          "The rollout of defibrillators was a step forward in schools.",
+          "Training teachers could improve emergency medical readiness."
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 16:00:33 GMT",
         "title": "Doctors find drug that is better than aspirin at preventing heart attacks",
-        "neutral_headline": "Drug found better than aspirin for heart attack prevention",
+        "neutral_headline": "Drug clopidogrel better than aspirin for heart attack prevention",
         "items": [
           {
             "source": "Guardian Health",
@@ -185,19 +237,19 @@
             "title": "Doctors find drug that is better than aspirin at preventing heart attacks",
             "standfirst": "Discovery that clopidogrel is a more effective blood thinner could transform health guidelines worldwideDoctors have found a drug that is better than aspirin at preventing heart attacks and strokes, in a discovery that could transform health guidelines worldwide.For decades, millions of people have been advised to take aspirin to reduce their risk of experiencing a serious cardiovascular event. A daily low-dose aspirin makes blood less sticky and helps prevent heart attacks and strokes. Continue reading...",
             "content": "Discovery that clopidogrel is a more effective blood thinner could transform health guidelines worldwideDoctors have found a drug that is better than aspirin at preventing heart attacks and strokes, in a discovery that could transform health guidelines worldwide.For decades, millions of people have been advised to take aspirin to reduce their risk of experiencing a serious cardiovascular event. A daily low-dose aspirin makes blood less sticky and helps prevent heart attacks and strokes. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ],
         "ai_summary": [
-          "A drug, clopidogrel, is more effective than aspirin.",
-          "The discovery could transform global health guidelines.",
+          "Doctors found clopidogrel is better than aspirin for heart attacks.",
+          "The discovery could transform health guidelines worldwide.",
           "Millions take aspirin to reduce cardiovascular event risk.",
-          "Aspirin makes blood less sticky to prevent heart attacks.",
-          "The new drug offers improved prevention capabilities."
+          "Aspirin makes blood less sticky to prevent heart attacks and strokes.",
+          "Clopidogrel's effectiveness could change treatment protocols."
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 15:26:44 GMT",
         "title": "Tories pledge to get all oil and gas out of North Sea",
@@ -210,21 +262,21 @@
             "title": "Tories pledge to get all oil and gas out of North Sea",
             "standfirst": "The government warns Kemi Badenoch's plans would \"only accelerate the worsening climate crisis\".",
             "content": "The government warns Kemi Badenoch's plans would \"only accelerate the worsening climate crisis\".",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/43964620-85fc-11f0-9cf6-cbf3e73ce2b9.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/43964620-85fc-11f0-9cf6-cbf3e73ce2b9.jpg",
         "ai_summary": [
-          "The government warns of worsening climate crisis.",
-          "Kemi Badenoch's plans are being criticized.",
-          "The Tories are pledging to remove oil and gas.",
-          "The government is concerned about the plans.",
-          "The plans could accelerate the climate crisis."
+          "The government warns Kemi Badenoch's plans would worsen climate crisis.",
+          "The Tories' plan involves removing all oil and gas from the North Sea.",
+          "The government's warning is in response to the Tory pledge.",
+          "The government believes the plan would accelerate climate change.",
+          "The plan is related to the climate crisis and energy policy."
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 15:00:34 GMT",
         "title": "Is it depression or an iron deficiency? - podcast",
@@ -237,23 +289,23 @@
             "title": "Is it depression or an iron deficiency? - podcast",
             "standfirst": "Treating an iron deficiency can be elusive and frustrating. That’s particularly true for women who may have been misdiagnosed with depression and other chronic illnesses, until those low iron levels are finally picked up.Reged Ahmad speaks to health reporter Natasha May on why so many women have to wait years to find out what’s wrong, and whether a new test could be the solutionRead more:• Misdiagnosis of iron deficiency can lead to years of debilitating illness. Could nanodiamonds be the solution? Continue reading...",
             "content": "Treating an iron deficiency can be elusive and frustrating. That’s particularly true for women who may have been misdiagnosed with depression and other chronic illnesses, until those low iron levels are finally picked up.Reged Ahmad speaks to health reporter Natasha May on why so many women have to wait years to find out what’s wrong, and whether a new test could be the solutionRead more:• Misdiagnosis of iron deficiency can lead to years of debilitating illness. Could nanodiamonds be the solution? Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ],
         "ai_summary": [
-          "A podcast explores iron deficiency misdiagnosis in women.",
-          "Women may be misdiagnosed with depression.",
-          "Untreated iron deficiency can cause years of illness.",
-          "A new test could potentially be the solution.",
-          "The podcast features health reporter Natasha May."
+          "A podcast explores misdiagnosis of iron deficiency as depression.",
+          "Treating iron deficiency can be elusive and frustrating for women.",
+          "Many women wait years to discover they have low iron levels.",
+          "The podcast discusses a new test as a potential solution.",
+          "The podcast features health reporter Natasha May and Reged Ahmad."
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 11:00:28 GMT",
         "title": "RFK Jr says he’ll ‘fix’ a vaccine program - by canceling compensation for people with vaccine injuries",
-        "neutral_headline": "RFK Jr says he’ll ‘fix’ a vaccine program",
+        "neutral_headline": "RFK Jr. plans to \"fix\" vaccine program",
         "items": [
           {
             "source": "Guardian Health",
@@ -262,23 +314,23 @@
             "title": "RFK Jr says he’ll ‘fix’ a vaccine program - by canceling compensation for people with vaccine injuries",
             "standfirst": "Changes to an injury compensation program could make it hard to keep vaccines on the market – or make new onesWhile unrest and new vaccine restrictions have kept US health agencies in headlines, there’s one vaccine program in particular that Robert F Kennedy Jr, secretary of the US Department of Health and Human Services (HHS), recently vowed to “fix”, which experts say could further upend the vaccine industry and prevent people experiencing rare side effects from vaccines from getting financial help.While some changes to the National Vaccine Injury Compensation Program (VICP), which compensates people who suffer very rare side effects from vaccination, must come from Congress, Kennedy could take several actions to reshape or affect the program’s operations. Continue reading...",
             "content": "Changes to an injury compensation program could make it hard to keep vaccines on the market – or make new onesWhile unrest and new vaccine restrictions have kept US health agencies in headlines, there’s one vaccine program in particular that Robert F Kennedy Jr, secretary of the US Department of Health and Human Services (HHS), recently vowed to “fix”, which experts say could further upend the vaccine industry and prevent people experiencing rare side effects from vaccines from getting financial help.While some changes to the National Vaccine Injury Compensation Program (VICP), which compensates people who suffer very rare side effects from vaccination, must come from Congress, Kennedy could take several actions to reshape or affect the program’s operations. Continue reading...",
-            "feed_position": 9
+            "feed_position": 10
           }
         ],
         "ai_summary": [
-          "RFK Jr. plans to change a vaccine injury compensation program.",
+          "RFK Jr. plans to change the vaccine injury compensation program.",
           "Changes could impact vaccine availability and compensation.",
-          "The National Vaccine Injury Compensation Program is targeted.",
-          "Kennedy could reshape or affect the program's operations.",
-          "Experts believe this could upend the vaccine industry."
+          "The National Vaccine Injury Compensation Program (VICP) is affected.",
+          "Kennedy could take actions to reshape the program's operations.",
+          "Some changes require Congressional action."
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 08:01:19 GMT",
         "title": "Weight loss drugs can halve heart patients’ risk of early death, study finds",
-        "neutral_headline": "Weight loss drugs can halve heart patients’ death risk",
+        "neutral_headline": "Weight loss drugs halve heart patients' early death risk",
         "items": [
           {
             "source": "Guardian Health",
@@ -291,15 +343,15 @@
           }
         ],
         "ai_summary": [
-          "Weight loss drugs reduce heart patients' early death risk.",
+          "Weight loss drugs reduce heart patients' risk of early death.",
+          "The study is the largest of its kind on GLP-1 agonists.",
           "GLP-1 agonists offer \"dramatic benefits\" to heart patients.",
-          "The study is the largest of its kind.",
-          "The drugs can reduce hospitalization risk.",
-          "The drugs can help patients live longer."
+          "The drugs significantly cut the risk of serious illness or death.",
+          "Millions with heart conditions could benefit from these drugs."
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 06:15:33 GMT",
         "title": "Vaccination plea after baby's 'terrifying' measles",
@@ -318,15 +370,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62b7/live/8895abd0-7f8a-11f0-a520-c1d9b927a39c.jpg",
         "ai_summary": [
-          "Eight areas in the North East and Cumbria have seen an increase.",
-          "There is a plea for vaccination.",
-          "The increase is in MMR jab rates.",
-          "The measles case was \"terrifying\".",
-          "The plea is for vaccination."
+          "Eight areas in the North East and Cumbria saw MMR jab increases.",
+          "The plea for vaccination follows a baby's measles diagnosis.",
+          "The increase in MMR jab rates is slight or moderate.",
+          "The plea emphasizes the importance of vaccination.",
+          "The measles case is described as \"terrifying\"."
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 00:35:20 GMT",
         "title": "‘Public enemy number one’: The battle against an eight-toothed beetle threatening UK forests",
@@ -339,21 +391,21 @@
             "title": "‘Public enemy number one’: The battle against an eight-toothed beetle threatening UK forests",
             "standfirst": "Forest Research said the UK is the first country to eradicate the beetle after five-year battle.",
             "content": "Forest Research said the UK is the first country to eradicate the beetle after five-year battle.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5137/live/bd986370-8603-11f0-a7fe-595af3bb2632.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5137/live/bd986370-8603-11f0-a7fe-595af3bb2632.jpg",
         "ai_summary": [
           "Forest Research said the UK is the first country to eradicate the beetle.",
-          "The battle against the beetle took five years.",
+          "The battle against the beetle lasted for five years.",
           "The beetle is threatening UK forests.",
           "The beetle has eight teeth.",
-          "The UK eradicated the beetle."
+          "The beetle is considered \"public enemy number one\"."
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 23:09:47 GMT",
         "title": "The trade in US body parts that's completely legal - but ripe for exploitation",
@@ -374,13 +426,13 @@
         "ai_summary": [
           "Human remains can mean profits.",
           "There is an emotional debate about the ethics of the industry.",
-          "The trade in US body parts is legal.",
+          "The trade in US body parts is completely legal.",
           "The trade is ripe for exploitation.",
-          "The trade involves body parts."
+          "The trade involves human remains."
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 18:58:59 GMT",
         "title": "Bernie Sanders demands that RFK Jr step down as health secretary",
@@ -393,19 +445,19 @@
             "title": "Bernie Sanders demands that RFK Jr step down as health secretary",
             "standfirst": "Vermont senator says Kennedy is endangering the health of the American people as head of the US health departmentBernie Sanders has joined in on growing public calls for Donald Trump’s health secretary, Robert F Kennedy Jr, to resign, after recent chaos across US health agencies.In an op-ed published in the New York Times on Saturday, the Vermont senator accused Kennedy of “endangering the health of the American people now and into the future”, adding: “He must resign.” Continue reading...",
             "content": "Vermont senator says Kennedy is endangering the health of the American people as head of the US health departmentBernie Sanders has joined in on growing public calls for Donald Trump’s health secretary, Robert F Kennedy Jr, to resign, after recent chaos across US health agencies.In an op-ed published in the New York Times on Saturday, the Vermont senator accused Kennedy of “endangering the health of the American people now and into the future”, adding: “He must resign.” Continue reading...",
-            "feed_position": 10
+            "feed_position": 11
           }
         ],
         "ai_summary": [
-          "Bernie Sanders wants RFK Jr. to resign.",
+          "Bernie Sanders wants RFK Jr. to resign as health secretary.",
           "Sanders says Kennedy is endangering American health.",
-          "Sanders' comments follow recent chaos in US health agencies.",
-          "The op-ed was published in the New York Times.",
-          "Sanders is a Vermont senator."
+          "The call for resignation follows recent chaos in US health agencies.",
+          "Sanders made the demand in an op-ed in the New York Times.",
+          "The op-ed accused Kennedy of endangering public health."
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 17:07:34 GMT",
         "title": "New York City declares Harlem legionnaire’s disease outbreak over",
@@ -418,19 +470,19 @@
             "title": "New York City declares Harlem legionnaire’s disease outbreak over",
             "standfirst": "A hospital’s cooling tower was harboring bacteria as seven people died and 90 were hospitalized over three weeksNew York City has declared the deadly legionnaires’ disease outbreak in central Harlem over, nearly three weeks since it began.On Friday, city health officials announced that there have been no new cases among residents who live or work in the area since 9 August. As of Friday, there have been 114 cases of legionnaires’ disease, with 90 people hospitalized – six of those remaining in hospital – and seven deaths. Continue reading...",
             "content": "A hospital’s cooling tower was harboring bacteria as seven people died and 90 were hospitalized over three weeksNew York City has declared the deadly legionnaires’ disease outbreak in central Harlem over, nearly three weeks since it began.On Friday, city health officials announced that there have been no new cases among residents who live or work in the area since 9 August. As of Friday, there have been 114 cases of legionnaires’ disease, with 90 people hospitalized – six of those remaining in hospital – and seven deaths. Continue reading...",
-            "feed_position": 11
+            "feed_position": 12
           }
         ],
         "ai_summary": [
-          "New York City declared the Harlem legionnaires' outbreak over.",
-          "The outbreak began nearly three weeks prior.",
-          "A hospital's cooling tower harbored the bacteria.",
-          "There were 114 cases of legionnaires' disease.",
-          "Seven people died, and 90 were hospitalized."
+          "New York City declared the Harlem legionnaires’ outbreak over.",
+          "The outbreak began nearly three weeks prior to the announcement.",
+          "Seven people died, and 90 were hospitalized in the outbreak.",
+          "There have been no new cases since August 9th.",
+          "The outbreak was linked to a hospital's cooling tower."
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 16:50:15 GMT",
         "title": "AI stethoscope could detect major heart conditions in seconds",
@@ -449,19 +501,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5cb/live/8c30d170-85c0-11f0-a316-27f9a315b0fa.jpg",
         "ai_summary": [
-          "New AI stethoscope technology could detect major heart conditions in seconds.",
-          "Experts believe this technology could be a \"game-changer\" for patient treatment.",
-          "The AI stethoscope could lead to earlier diagnoses and interventions.",
-          "This technology may improve the speed and accuracy of heart condition detection.",
-          "The AI stethoscope's impact on healthcare is considered significant by experts."
+          "An artificial intelligence stethoscope can identify significant heart conditions within seconds, according to reports.",
+          "Experts believe this technology could revolutionize patient care, leading to earlier treatment interventions.",
+          "The AI stethoscope's rapid diagnostic capabilities may improve patient outcomes significantly.",
+          "The technology's speed and accuracy could potentially reduce the need for more invasive tests.",
+          "The AI stethoscope is considered a \"game-changer\" by medical professionals."
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 15:40:51 GMT",
         "title": "Celebrity chef Gordon Ramsay undergoes treatment to remove skin cancer",
-        "neutral_headline": "Celebrity Chef Gordon Ramsay Undergoes Skin Cancer Treatment",
+        "neutral_headline": "Celebrity chef Gordon Ramsay undergoes treatment to remove skin cancer",
         "items": [
           {
             "source": "Guardian Health",
@@ -470,71 +522,21 @@
             "title": "Celebrity chef Gordon Ramsay undergoes treatment to remove skin cancer",
             "standfirst": "Ramsay, 58, has posted thanks on social media to ‘incredible’ health workers and urged followers to remember their sun protectionThe celebrity chef Gordon Ramsay has said he has undergone treatment to remove skin cancer, thanking “incredible” health workers for their efforts and urging fans to remember to wear sun protection.Ramsay, 58, said he had basal cell carcinoma, a non-melanoma form of skin cancer, removed, in a post on Instagram. A picture showed dressings below his ear where the cancer had been removed. Continue reading...",
             "content": "Ramsay, 58, has posted thanks on social media to ‘incredible’ health workers and urged followers to remember their sun protectionThe celebrity chef Gordon Ramsay has said he has undergone treatment to remove skin cancer, thanking “incredible” health workers for their efforts and urging fans to remember to wear sun protection.Ramsay, 58, said he had basal cell carcinoma, a non-melanoma form of skin cancer, removed, in a post on Instagram. A picture showed dressings below his ear where the cancer had been removed. Continue reading...",
-            "feed_position": 12
-          }
-        ],
-        "ai_summary": [
-          "Gordon Ramsay, age 58, underwent treatment to remove skin cancer.",
-          "Ramsay had basal cell carcinoma, a non-melanoma form of skin cancer.",
-          "He thanked health workers for their efforts via social media.",
-          "Ramsay urged followers to remember to use sun protection.",
-          "A picture showed dressings below his ear where the cancer was removed."
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Sat, 30 Aug 2025 15:00:03 GMT",
-        "title": "A report tied Iowa’s water pollution to agriculture. Then the money to promote it mysteriously disappeared",
-        "neutral_headline": "Iowa Water Pollution Report Funding Removed After Findings",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/us-news/2025/aug/30/iowa-agriculture-water-pollution",
-            "published_at": "Sat, 30 Aug 2025 15:00:03 GMT",
-            "title": "A report tied Iowa’s water pollution to agriculture. Then the money to promote it mysteriously disappeared",
-            "standfirst": "Roughly $400,000 in the $1m budget was for public awareness – but those funds were recently ‘zeroed out’When a team of scientists embarked two years ago on a $1m landmark study of Iowa’s persistent water-quality problems, they knew that the findings would be important to share. High cancer rates amid the state’s inability to stem the tide of pollutants flowing into rivers and lakes was a growing public concern.But now, after the completed study pointed to agricultural pollution as a significant source of the key US farm state’s water problems, public officials have quietly stripped funding from plans to promote the study findings, according to sources involved in the project. Continue reading...",
-            "content": "Roughly $400,000 in the $1m budget was for public awareness – but those funds were recently ‘zeroed out’When a team of scientists embarked two years ago on a $1m landmark study of Iowa’s persistent water-quality problems, they knew that the findings would be important to share. High cancer rates amid the state’s inability to stem the tide of pollutants flowing into rivers and lakes was a growing public concern.But now, after the completed study pointed to agricultural pollution as a significant source of the key US farm state’s water problems, public officials have quietly stripped funding from plans to promote the study findings, according to sources involved in the project. Continue reading...",
             "feed_position": 13
           }
         ],
         "ai_summary": [
-          "A study linked Iowa's water pollution to agricultural practices.",
-          "Approximately $400,000 of a $1 million budget was for public awareness.",
-          "Public officials removed funding for promoting the study's findings.",
-          "The study highlighted high cancer rates and water pollutants.",
-          "The study's findings pointed to agricultural pollution as a major source."
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Sat, 30 Aug 2025 14:15:02 GMT",
-        "title": "New drug hailed as ‘gamechanger’ in tackling stubbornly high blood pressure",
-        "neutral_headline": "New drug hailed as ‘gamechanger’ in tackling stubbornly high blood pressure",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2025/aug/30/drug-baxdrostat-gamechanger-high-blood-pressure-hypertension",
-            "published_at": "Sat, 30 Aug 2025 14:15:02 GMT",
-            "title": "New drug hailed as ‘gamechanger’ in tackling stubbornly high blood pressure",
-            "standfirst": "Trials of baxdrostat have produced ‘exciting’ results for people whose hypertension has proved difficult to controlDoctors are hailing a new pill for patients with high blood pressure resistant to existing medication as a “gamechanger” and a “triumph of science”.Globally, more than 1.3 billion people have hypertension. In half of them, their high blood pressure is uncontrolled or resistant to existing treatments. They face a much higher risk of heart attack, stroke, kidney disease and early death. Continue reading...",
-            "content": "Trials of baxdrostat have produced ‘exciting’ results for people whose hypertension has proved difficult to controlDoctors are hailing a new pill for patients with high blood pressure resistant to existing medication as a “gamechanger” and a “triumph of science”.Globally, more than 1.3 billion people have hypertension. In half of them, their high blood pressure is uncontrolled or resistant to existing treatments. They face a much higher risk of heart attack, stroke, kidney disease and early death. Continue reading...",
-            "feed_position": 14
-          }
-        ],
-        "ai_summary": [
-          "A new pill, baxdrostat, shows promising results for resistant hypertension.",
-          "Trials of baxdrostat produced \"exciting\" results for difficult-to-control blood pressure.",
-          "Over 1.3 billion people globally have hypertension.",
-          "Half of those with hypertension have uncontrolled or resistant high blood pressure.",
-          "Uncontrolled hypertension increases the risk of heart attack, stroke, and kidney disease."
+          "Gordon Ramsay, age 58, has undergone treatment to remove basal cell carcinoma.",
+          "Ramsay shared his experience on social media, thanking health workers for their care.",
+          "The chef posted a picture showing dressings where the non-melanoma skin cancer was removed.",
+          "Ramsay urged his followers to prioritize sun protection to prevent skin cancer.",
+          "Basal cell carcinoma is a common, non-melanoma form of skin cancer."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-08-31T23:17:08.369Z",
+    "updated_at": "2025-09-01T03:51:13.279Z",
     "clusters": []
   }
 }
