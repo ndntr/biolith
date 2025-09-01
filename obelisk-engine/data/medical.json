@@ -1,13 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2025-09-01T07:19:54.128Z",
+    "updated_at": "2025-09-01T11:16:03.038Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-09-01T07:20:03.965Z",
+    "updated_at": "2025-09-01T11:16:12.341Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Mon, 01 Sep 2025 07:18:29 GMT",
+        "title": "Warning after melatonin sales suspended",
+        "neutral_headline": "Warning after melatonin sales suspended",
+        "items": [
+          {
+            "source": "newsGP",
+            "url": "https://www1.racgp.org.au/newsgp/clinical/warning-after-melatonin-sales-suspended?feed=RACGPnewsGPArticles",
+            "published_at": "Mon, 01 Sep 2025 07:18:29 GMT",
+            "title": "Warning after melatonin sales suspended",
+            "standfirst": "As an online retailer pauses melatonin supplement sales in Australia, it prompts an expert to call for a rethink on how children&rsquo;s sleep issues are approached.",
+            "content": "As an online retailer pauses melatonin supplement sales in Australia, it prompts an expert to call for a rethink on how children&rsquo;s sleep issues are approached.",
+            "feed_position": 0,
+            "image_url": "https://www1.racgp.org.au/getattachment/ebd9ac68-00d6-4be9-8759-d7c9916dee22/Warning-after-melatonin-sales-suspended.aspx"
+          }
+        ],
+        "featured_image": "https://www1.racgp.org.au/getattachment/ebd9ac68-00d6-4be9-8759-d7c9916dee22/Warning-after-melatonin-sales-suspended.aspx",
+        "ai_summary": [
+          "An online retailer in Australia suspended melatonin sales.",
+          "An expert is calling for a reevaluation of children's sleep treatments.",
+          "The expert suggests a need for different approaches to sleep issues.",
+          "The suspension highlights concerns about melatonin use in children.",
+          "The situation prompts a discussion on sleep health strategies."
+        ]
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Mon, 01 Sep 2025 05:31:40 GMT",
         "title": "Childhood pneumococcal vaccine added to NIP",
@@ -20,21 +47,21 @@
             "title": "Childhood pneumococcal vaccine added to NIP",
             "standfirst": "From this month the Prevenar 20 vaccine for invasive pneumococcal disease is available on the NIP for children under five.",
             "content": "From this month the Prevenar 20 vaccine for invasive pneumococcal disease is available on the NIP for children under five.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://www1.racgp.org.au/getattachment/f01b8118-9ed2-4435-a14b-96c4c7200573/Childhood-pneumococcal-vaccine-added-to-NIP.aspx"
           }
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/f01b8118-9ed2-4435-a14b-96c4c7200573/Childhood-pneumococcal-vaccine-added-to-NIP.aspx",
         "ai_summary": [
           "The Prevenar 20 vaccine is now available on the NIP.",
-          "This vaccine protects against invasive pneumococcal disease.",
+          "The vaccine protects against invasive pneumococcal disease.",
           "It is available for children under the age of five.",
-          "The vaccine's addition aims to improve child health.",
-          "The change took effect from the current month."
+          "The addition aims to improve childhood health outcomes.",
+          "The vaccine's inclusion expands the NIP's coverage."
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Mon, 01 Sep 2025 04:31:21 GMT",
         "title": "Have your say on the general practice standards",
@@ -47,7 +74,7 @@
             "title": "Have your say on the general practice standards",
             "standfirst": "The RACGP&rsquo;s vision for the Standards is for practices to provide safe, quality and continuously improving care, says Dr Louise Acland.",
             "content": "The RACGP&rsquo;s vision for the Standards is for practices to provide safe, quality and continuously improving care, says Dr Louise Acland.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://www1.racgp.org.au/getattachment/f2737a37-bad0-45e3-b670-e55d076b8468/Have-your-say-on-the-general-practice-standards.aspx"
           }
         ],
@@ -56,21 +83,21 @@
           "The RACGP is seeking feedback on general practice standards.",
           "The goal is to ensure safe, quality, and improving care.",
           "Dr. Louise Acland shared the RACGP's vision.",
-          "The standards aim to enhance patient care.",
-          "Public input is being sought for the standards."
+          "The public can provide input on the proposed standards.",
+          "The standards aim to enhance healthcare delivery."
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2025-09-01T07:20:04.026Z",
+    "updated_at": "2025-09-01T11:16:11.068Z",
     "clusters": [
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 2,
         "updated_at": "Sun, 31 Aug 2025 16:31:13 GMT",
         "title": "Baby dies of whooping cough after mother not vaccinated while pregnant",
-        "neutral_headline": "Baby dies of whooping cough after mother not vaccinated while pregnant",
+        "neutral_headline": "Baby dies of whooping cough after mother not vaccinated while pregnant: The first death from the illness this year comes as vaccination rates among children have declined",
         "items": [
           {
             "source": "BBC Health",
@@ -95,18 +122,70 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a22e/live/3531eac0-8643-11f0-a1bf-a3698e2d3fe1.jpg",
         "ai_summary": [
           "A baby in the UK died from whooping cough this year.",
-          "The mother of the baby had not been vaccinated.",
-          "Vaccination rates among children are at a 15-year low.",
+          "The mother had not been vaccinated during pregnancy.",
+          "Vaccination rates among children have decreased recently.",
           "Whooping cough is a highly infectious respiratory disease.",
-          "The disease affects the lungs and airways."
+          "The death underscores the importance of vaccination."
         ]
       },
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Mon, 01 Sep 2025 11:00:34 GMT",
+        "title": "Why more and more people are tuning the news out: ‘Now I don’t have that anxiety’",
+        "neutral_headline": "Why more and more people are tuning the news out: ‘Now I don’t have that anxiety’: Emotional toll of constant negative news and unlimited access to ‘doomscrolling’ has led to record-high news avoidanceNews has never been more accessible – but for some, that’s exactly the problem. Flooded with information and relentless updates, more and more people around the world are tuning out.The reasons vary: for some it’s the sheer volume of news, for others the emotional toll of negative headlines or a distrust of the media itself. In online forums devoted to mindfulness and mental health, people discuss how to step back, from setting limits to cutting the news out entirely. Continue reading",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/ng-interactive/2025/sep/01/news-avoidance-high-anxiety",
+            "published_at": "Mon, 01 Sep 2025 11:00:34 GMT",
+            "title": "Why more and more people are tuning the news out: ‘Now I don’t have that anxiety’",
+            "standfirst": "Emotional toll of constant negative news and unlimited access to ‘doomscrolling’ has led to record-high news avoidanceNews has never been more accessible – but for some, that’s exactly the problem. Flooded with information and relentless updates, more and more people around the world are tuning out.The reasons vary: for some it’s the sheer volume of news, for others the emotional toll of negative headlines or a distrust of the media itself. In online forums devoted to mindfulness and mental health, people discuss how to step back, from setting limits to cutting the news out entirely. Continue reading...",
+            "content": "Emotional toll of constant negative news and unlimited access to ‘doomscrolling’ has led to record-high news avoidanceNews has never been more accessible – but for some, that’s exactly the problem. Flooded with information and relentless updates, more and more people around the world are tuning out.The reasons vary: for some it’s the sheer volume of news, for others the emotional toll of negative headlines or a distrust of the media itself. In online forums devoted to mindfulness and mental health, people discuss how to step back, from setting limits to cutting the news out entirely. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "More people are avoiding news due to its emotional impact.",
+          "Constant negative news and \"doomscrolling\" contribute to avoidance.",
+          "Some people are setting limits or cutting news entirely.",
+          "The volume of news and distrust of media are factors.",
+          "Online forums discuss strategies for news avoidance."
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Mon, 01 Sep 2025 10:32:17 GMT",
+        "title": "Tories pledge to get all oil and gas out of North Sea",
+        "neutral_headline": "Tories pledge to get all oil and gas out of North Sea: The government warns Kemi Badenoch's plans would \"only accelerate the worsening climate crisis\"",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cp890n51684o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 01 Sep 2025 10:32:17 GMT",
+            "title": "Tories pledge to get all oil and gas out of North Sea",
+            "standfirst": "The government warns Kemi Badenoch's plans would \"only accelerate the worsening climate crisis\".",
+            "content": "The government warns Kemi Badenoch's plans would \"only accelerate the worsening climate crisis\".",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/43964620-85fc-11f0-9cf6-cbf3e73ce2b9.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/43964620-85fc-11f0-9cf6-cbf3e73ce2b9.jpg",
+        "ai_summary": [
+          "The government is warning against plans to remove oil and gas.",
+          "Kemi Badenoch's plans would worsen the climate crisis.",
+          "The government's stance is related to climate change concerns.",
+          "The debate involves the future of North Sea energy resources.",
+          "The situation highlights differing approaches to energy policy."
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
         "updated_at": "Mon, 01 Sep 2025 05:00:51 GMT",
         "title": "Swab test can identify children with potentially deadly heart condition, study finds",
-        "neutral_headline": "Swab test can identify children with potentially deadly heart condition, study finds",
+        "neutral_headline": "Swab test can identify children with potentially deadly heart condition, study finds: Research shows arrhythmogenic cardiomyopathy can be detected up to five years before diagnosis by other meansA simple cheek-swab test can identify children with a potentially deadly heart condition, five years before they would normally be diagnosed, research has found.Arrhythmogenic cardiomyopathy (ACM), which is typically genetic, is responsible for more than 10% of sudden cardiac deaths in children. Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -119,19 +198,19 @@
           }
         ],
         "ai_summary": [
-          "A swab test can identify a deadly heart condition in children.",
-          "The test can detect arrhythmogenic cardiomyopathy.",
-          "Detection is possible up to five years before diagnosis.",
-          "ACM is responsible for over 10% of sudden cardiac deaths.",
-          "The study highlights the test's potential for early detection."
+          "A cheek-swab test can detect a heart condition in children.",
+          "The test identifies arrhythmogenic cardiomyopathy (ACM).",
+          "ACM can be detected up to five years before diagnosis.",
+          "ACM is a genetic condition causing sudden cardiac deaths.",
+          "The test could improve early detection and treatment."
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Mon, 01 Sep 2025 04:00:48 GMT",
         "title": "The one change that worked: I got a period cup – and saved £120 a year",
-        "neutral_headline": "Period cup saves money and is better for the environment",
+        "neutral_headline": "The one change that worked: I got a period cup – and saved £120 a year: Ditching sanitary towels and tampons has made my period much less stressful. Crucially, it’s better for the environment tooI was 18 when I tried a menstrual cup for the first time. I was studying at the University of Edinburgh and Scotland had just become the first country in the world to make period products free to those who need them. The university health service was offering menstrual cups alongside the usual sanitary pads and tampons. I picked one up out of curiosity and because I just couldn’t resist a freebie.I was used to spending £10 to £15 a month on period products, more if I was caught short and had to do a panicked dash to an overpriced off-licence. As an eco-conscious teenager I already bought non-applicator tampons but often wore a security sanitary liner underneath. It was an attempt to keep the endless worry of heavy periods at bay: will I leak, run out of supplies, or find a clean loo in time? Even so, I leaked more often than I cared to admit. Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -144,19 +223,19 @@
           }
         ],
         "ai_summary": [
-          "Using a period cup saved the author £120 per year.",
-          "The author switched from sanitary towels and tampons.",
-          "The change made periods less stressful for the author.",
-          "Period cups are better for the environment.",
-          "The author started using a cup at age 18."
+          "Using a period cup saved the author £120 annually.",
+          "The change reduced stress related to menstruation.",
+          "It also provided environmental benefits.",
+          "The author started using a cup at age 18.",
+          "The cup replaced sanitary towels and tampons."
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 01 Sep 2025 00:00:43 GMT",
         "title": "NHS corridor care now year-round crisis in England, experts say",
-        "neutral_headline": "NHS corridor care is now a year-round crisis",
+        "neutral_headline": "NHS corridor care now year-round crisis in England, experts say: About 74,150 patients waited at least 12 hours on trolleys in June and July, a situation almost nonexistent 10 years agoCorridor care in the NHS is now a year-round crisis, experts have warned, as analysis showed nearly 3 million patients attended A&E over the first two months of the summer.The latest NHS figures in England, analysed by the Liberal Democrats, show that since 2015 the number of people going to A&E in June and July has increased 15% to 2.9 million – the highest level recorded over the past decade. Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -169,19 +248,19 @@
           }
         ],
         "ai_summary": [
-          "NHS corridor care is now a year-round crisis in England.",
+          "Experts say corridor care in the NHS is a year-round crisis.",
           "Nearly 3 million patients attended A&E in summer months.",
-          "About 74,150 patients waited over 12 hours in June and July.",
-          "A&E attendance in June and July increased since 2015.",
-          "Experts have warned of the ongoing crisis."
+          "About 74,150 patients waited over 12 hours on trolleys.",
+          "A&E attendance increased 15% since 2015.",
+          "The situation is worse than a decade ago."
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 23:35:37 GMT",
         "title": "Canada's first lunar rover looks to future space exploration",
-        "neutral_headline": "Canada's lunar rover aims to find water on the Moon",
+        "neutral_headline": "Canada's Lunar Rover Aims for Future Space Exploration",
         "items": [
           {
             "source": "BBC Science",
@@ -196,19 +275,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/570f/live/59d9aaa0-86c2-11f0-8190-69835b32fee1.jpg",
         "ai_summary": [
-          "Canada's first lunar rover is focused on space exploration.",
-          "The mission's goal is to find water on the Moon.",
-          "Finding water could enable a sustained human presence.",
-          "The rover is part of Canada's space program.",
-          "The mission is looking towards future space exploration."
+          "Canada's first lunar rover mission seeks to find water on the Moon.",
+          "Water discovery could enable a sustained human presence on the Moon.",
+          "The mission is a step towards future space exploration endeavors.",
+          "The rover's findings could have significant implications for space travel.",
+          "This mission represents a key step in Canada's space program."
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 22:30:41 GMT",
         "title": "Teenagers with period pain more likely to have chronic adult pain, study says",
-        "neutral_headline": "Teenagers with period pain more likely to have chronic adult pain",
+        "neutral_headline": "Teenagers with period pain more likely to have chronic adult pain, study says",
         "items": [
           {
             "source": "Guardian Health",
@@ -221,15 +300,15 @@
           }
         ],
         "ai_summary": [
-          "Teenagers with period pain have a higher risk of chronic pain.",
-          "The risk is 76% higher for those with dysmenorrhea.",
-          "The research highlights the need for menstrual education.",
-          "It also emphasizes the need for support and treatment.",
-          "The study serves as a wake-up call for action."
+          "Research indicates a 76% higher risk for 15-year-olds with dysmenorrhea.",
+          "Teenagers with moderate or severe period pain face increased chronic pain risk.",
+          "Findings highlight the need for improved menstrual education and support.",
+          "The study emphasizes reducing stigma surrounding period pain.",
+          "Early access to effective treatment is crucial for young people."
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 18:14:37 GMT",
         "title": "Top FDA official demands removal of YouTube videos in which he criticized Covid vaccines",
@@ -246,15 +325,15 @@
           }
         ],
         "ai_summary": [
-          "An FDA official demanded removal of YouTube videos.",
-          "The videos featured the official criticizing COVID vaccines.",
-          "The videos were published by a critical physician.",
-          "The official is the FDA's top vaccine regulator.",
-          "The videos were on a channel run by a doctor."
+          "A top FDA official requested removal of videos from a YouTube channel.",
+          "The videos featured the official criticizing COVID-19 vaccines.",
+          "The channel owner is a physician critical of medical misinformation.",
+          "The official's demand was communicated via a YouTube notice.",
+          "The videos were published by a neurologist and psychiatrist."
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 17:59:35 GMT",
         "title": "Former CDC official ‘only sees harm’ to public health under RFK Jr’s leadership",
@@ -271,19 +350,19 @@
           }
         ],
         "ai_summary": [
-          "A former CDC official warns of harm under RFK Jr's leadership.",
-          "The official resigned in protest over a CDC director firing.",
-          "He expressed concerns about the future of American health.",
-          "The official took the Hippocratic Oath as a doctor.",
-          "He sees potential harm coming from the situation."
+          "A former CDC official warns of potential harm under RFK Jr's leadership.",
+          "Demetre Daskalakis resigned after the White House fired the CDC chief.",
+          "Daskalakis expressed concern about \"undoing of vaccination\" efforts.",
+          "He stated his perspective as a doctor bound by the Hippocratic Oath.",
+          "The interview was conducted on Sunday with ABC News."
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 16:03:14 GMT",
         "title": "Vegan v carnivore diets – the jury is out | Letters",
-        "neutral_headline": "Vegan versus carnivore diets: the jury is out",
+        "neutral_headline": "Vegan v carnivore diets – the jury is out | Letters: Anne Tropper advocates nose-to-tail eating, while Rendel Harris says going vegan is the only way to be kind to other species",
         "items": [
           {
             "source": "Guardian Health",
@@ -296,19 +375,19 @@
           }
         ],
         "ai_summary": [
-          "The article discusses vegan and carnivore diets.",
-          "One letter advocates for nose-to-tail eating.",
-          "Another letter supports veganism for kindness.",
-          "The discussion involves health and ethical considerations.",
-          "The debate centers on dietary choices and impacts."
+          "A letter writer advocates for nose-to-tail eating for health benefits.",
+          "Another letter writer suggests veganism is the only way to avoid cruelty.",
+          "One letter criticizes the \"fad diet\" of a bowl of cereal with skimmed milk.",
+          "The letter writer believes the trend is driven by personal experience.",
+          "Another letter writer discusses the ethics of eating fish and dairy."
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 16:02:57 GMT",
         "title": "Teachers must be trained to use defibrillators to keep our children safe | Letter",
-        "neutral_headline": "Teachers must be trained to use defibrillators to keep our children safe",
+        "neutral_headline": "Teachers must be trained to use defibrillators to keep our children safe | Letter: Mark King urges the government to provide training on this life-saving equipment as the school year begins",
         "items": [
           {
             "source": "Guardian Health",
@@ -321,19 +400,19 @@
           }
         ],
         "ai_summary": [
-          "A letter urges training teachers on defibrillator use.",
-          "The author's son died from sudden cardiac arrest.",
-          "The author welcomes the defibrillator program in schools.",
-          "The program aims to improve emergency readiness.",
-          "Training could potentially save lives in schools."
+          "A letter writer urges training teachers on defibrillator use.",
+          "The letter highlights the importance of school safety and wellbeing.",
+          "The writer's son died from sudden cardiac arrest.",
+          "The previous government committed to providing defibrillators in schools.",
+          "The program rollout was a significant step in emergency readiness."
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 16:00:33 GMT",
         "title": "Doctors find drug that is better than aspirin at preventing heart attacks",
-        "neutral_headline": "Doctors Discover Drug Better Than Aspirin for Heart Health",
+        "neutral_headline": "Doctors find drug that is better than aspirin at preventing heart attacks",
         "items": [
           {
             "source": "Guardian Health",
@@ -346,46 +425,19 @@
           }
         ],
         "ai_summary": [
-          "Doctors found clopidogrel is more effective than aspirin for preventing heart attacks and strokes.",
-          "Aspirin has been a standard recommendation for millions to reduce cardiovascular event risk.",
-          "Clopidogrel's superior blood-thinning properties could change global health guidelines.",
-          "The discovery suggests a potential shift in treatment strategies for heart health.",
-          "This finding could lead to improved outcomes for patients at risk of heart problems."
+          "Doctors discovered a drug superior to aspirin for heart attack prevention.",
+          "The drug, clopidogrel, is a more effective blood thinner.",
+          "The discovery could transform global health guidelines.",
+          "Aspirin has been a standard recommendation for decades.",
+          "The daily low-dose aspirin helps prevent heart attacks and strokes."
         ]
       },
       {
-        "id": "cluster_11",
-        "coverage": 1,
-        "updated_at": "Sun, 31 Aug 2025 15:26:44 GMT",
-        "title": "Tories pledge to get all oil and gas out of North Sea",
-        "neutral_headline": "Government Plans to Remove Oil and Gas from North Sea",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cp890n51684o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 31 Aug 2025 15:26:44 GMT",
-            "title": "Tories pledge to get all oil and gas out of North Sea",
-            "standfirst": "The government warns Kemi Badenoch's plans would \"only accelerate the worsening climate crisis\".",
-            "content": "The government warns Kemi Badenoch's plans would \"only accelerate the worsening climate crisis\".",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/43964620-85fc-11f0-9cf6-cbf3e73ce2b9.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468a/live/43964620-85fc-11f0-9cf6-cbf3e73ce2b9.jpg",
-        "ai_summary": [
-          "The government's plans to remove oil and gas from the North Sea are under discussion.",
-          "Kemi Badenoch's proposals are criticized for potentially worsening the climate crisis.",
-          "The government warns against the potential negative environmental impacts of the plans.",
-          "The debate centers on the balance between energy needs and climate goals.",
-          "The plans are a subject of political and environmental controversy."
-        ]
-      },
-      {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 15:00:34 GMT",
         "title": "Is it depression or an iron deficiency? - podcast",
-        "neutral_headline": "Is it depression or an iron deficiency? - podcast",
+        "neutral_headline": "Is it depression or an iron deficiency? - podcast: Treating an iron deficiency can be elusive and frustrating. That’s particularly true for women who may have been misdiagnosed with depression and other chronic illnesses, until those low iron levels are finally picked up",
         "items": [
           {
             "source": "Guardian Health",
@@ -398,15 +450,15 @@
           }
         ],
         "ai_summary": [
-          "Iron deficiency misdiagnosis can lead to years of debilitating illness for women.",
-          "A podcast discusses the challenges of diagnosing and treating iron deficiency.",
-          "Health reporter Natasha May discusses the issue with Reged Ahmad.",
-          "The podcast explores why women often wait years for correct diagnoses.",
-          "A new test involving nanodiamonds is explored as a potential solution."
+          "A podcast discusses misdiagnosis of iron deficiency in women.",
+          "Women may be misdiagnosed with depression or other illnesses.",
+          "The podcast explores the challenges of treating iron deficiency.",
+          "A new test could potentially be a solution for diagnosis.",
+          "Misdiagnosis can lead to years of debilitating illness."
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 11:00:28 GMT",
         "title": "RFK Jr says he’ll ‘fix’ a vaccine program - by canceling compensation for people with vaccine injuries",
@@ -423,15 +475,15 @@
           }
         ],
         "ai_summary": [
-          "Robert F Kennedy Jr plans to change the vaccine injury compensation program.",
-          "Changes could impact the availability of vaccines and financial aid.",
-          "Kennedy could take actions to reshape the National Vaccine Injury Compensation Program.",
-          "The program compensates individuals with rare vaccine side effects.",
-          "Some changes require Congressional approval to be implemented."
+          "RFK Jr plans to \"fix\" a vaccine injury compensation program.",
+          "Changes could impact vaccine availability and new vaccine development.",
+          "The National Vaccine Injury Compensation Program (VICP) is affected.",
+          "Kennedy could reshape or affect the program's operations.",
+          "Some changes require Congressional action."
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 08:01:19 GMT",
         "title": "Weight loss drugs can halve heart patients’ risk of early death, study finds",
@@ -444,19 +496,19 @@
             "title": "Weight loss drugs can halve heart patients’ risk of early death, study finds",
             "standfirst": "GLP-1 agonists could be given to millions with heart conditions to help them stay out of hospital and live longerWeight loss drugs can reduce by half the risk of heart patients being hospitalised or dying early, according to the largest study of its kind.The class of drugs, known as GLP-1 agonists, have been found to offer “dramatic benefits” to heart patients, significantly cutting their risk of falling seriously ill or dying prematurely from any cause. Continue reading...",
             "content": "GLP-1 agonists could be given to millions with heart conditions to help them stay out of hospital and live longerWeight loss drugs can reduce by half the risk of heart patients being hospitalised or dying early, according to the largest study of its kind.The class of drugs, known as GLP-1 agonists, have been found to offer “dramatic benefits” to heart patients, significantly cutting their risk of falling seriously ill or dying prematurely from any cause. Continue reading...",
-            "feed_position": 0
+            "feed_position": 13
           }
         ],
         "ai_summary": [
-          "Weight loss drugs, GLP-1 agonists, reduce heart patients' early death risk by half.",
-          "The study is the largest of its kind, focusing on GLP-1 agonists.",
-          "The drugs offer \"dramatic benefits\" to heart patients, according to the study.",
-          "GLP-1 agonists significantly cut the risk of serious illness or premature death.",
-          "Millions with heart conditions could benefit from these weight loss drugs."
+          "Weight loss drugs reduce heart patients' risk of early death.",
+          "The study is the largest of its kind on this topic.",
+          "GLP-1 agonists offer \"dramatic benefits\" to heart patients.",
+          "The drugs significantly cut the risk of serious illness.",
+          "Millions with heart conditions could benefit from these drugs."
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 06:15:33 GMT",
         "title": "Vaccination plea after baby's 'terrifying' measles",
@@ -475,15 +527,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62b7/live/8895abd0-7f8a-11f0-a520-c1d9b927a39c.jpg",
         "ai_summary": [
-          "A plea for vaccinations follows a \"terrifying\" case of measles in a baby.",
-          "Eight areas in the North East and Cumbria have seen increased MMR jab rates.",
-          "The plea emphasizes the importance of vaccination to prevent measles spread.",
-          "The focus is on protecting vulnerable populations from the disease.",
-          "The call for vaccination aims to improve public health outcomes."
+          "The article discusses a plea for vaccination against measles.",
+          "The plea follows a \"terrifying\" case of measles in a baby.",
+          "Eight areas in the North East and Cumbria saw increased MMR rates.",
+          "The article highlights the importance of vaccination.",
+          "The focus is on preventing the spread of measles."
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Sun, 31 Aug 2025 00:35:20 GMT",
         "title": "‘Public enemy number one’: The battle against an eight-toothed beetle threatening UK forests",
@@ -502,15 +554,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5137/live/bd986370-8603-11f0-a7fe-595af3bb2632.jpg",
         "ai_summary": [
-          "The UK has eradicated the eight-toothed beetle, a threat to forests.",
-          "Forest Research led a five-year battle against the beetle.",
-          "The UK is the first country to successfully eradicate the beetle.",
-          "The beetle posed a significant risk to the UK's forest ecosystems.",
-          "The eradication effort highlights the importance of forest protection."
+          "The article discusses the battle against an eight-toothed beetle.",
+          "The beetle threatens UK forests.",
+          "Forest Research said the UK eradicated the beetle.",
+          "The eradication took five years.",
+          "The UK is the first country to eradicate the beetle."
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 23:09:47 GMT",
         "title": "The trade in US body parts that's completely legal - but ripe for exploitation",
@@ -529,15 +581,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e090/live/5e5cf420-84e6-11f0-b391-6936825093bd.png",
         "ai_summary": [
-          "The trade in human remains is legal in the United States.",
-          "The industry generates profits from the sale of body parts.",
-          "There is an emotional debate about the ethics of the industry.",
-          "The debate involves questions of exploitation and respect.",
-          "The industry raises complex ethical and moral considerations."
+          "The article discusses the legal trade in US body parts.",
+          "Human remains can generate profits in this industry.",
+          "There is an emotional debate about the ethics involved.",
+          "The trade is legal but raises ethical concerns.",
+          "The article explores the complexities of this industry."
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sat, 30 Aug 2025 18:58:59 GMT",
         "title": "Bernie Sanders demands that RFK Jr step down as health secretary",
@@ -550,46 +602,21 @@
             "title": "Bernie Sanders demands that RFK Jr step down as health secretary",
             "standfirst": "Vermont senator says Kennedy is endangering the health of the American people as head of the US health departmentBernie Sanders has joined in on growing public calls for Donald Trump’s health secretary, Robert F Kennedy Jr, to resign, after recent chaos across US health agencies.In an op-ed published in the New York Times on Saturday, the Vermont senator accused Kennedy of “endangering the health of the American people now and into the future”, adding: “He must resign.” Continue reading...",
             "content": "Vermont senator says Kennedy is endangering the health of the American people as head of the US health departmentBernie Sanders has joined in on growing public calls for Donald Trump’s health secretary, Robert F Kennedy Jr, to resign, after recent chaos across US health agencies.In an op-ed published in the New York Times on Saturday, the Vermont senator accused Kennedy of “endangering the health of the American people now and into the future”, adding: “He must resign.” Continue reading...",
-            "feed_position": 13
-          }
-        ],
-        "ai_summary": [
-          "Bernie Sanders calls for Robert F Kennedy Jr to resign as health secretary.",
-          "Sanders believes Kennedy is endangering the health of Americans.",
-          "The call for resignation follows recent issues within US health agencies.",
-          "The op-ed was published in the New York Times by the Vermont senator.",
-          "Sanders accuses Kennedy of jeopardizing public health now and in the future."
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Sat, 30 Aug 2025 17:07:34 GMT",
-        "title": "New York City declares Harlem legionnaire’s disease outbreak over",
-        "neutral_headline": "New York City declares Harlem legionnaire’s disease outbreak over",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/us-news/2025/aug/30/new-york-city-harlem-legionnaires-disease-outbreak-over",
-            "published_at": "Sat, 30 Aug 2025 17:07:34 GMT",
-            "title": "New York City declares Harlem legionnaire’s disease outbreak over",
-            "standfirst": "A hospital’s cooling tower was harboring bacteria as seven people died and 90 were hospitalized over three weeksNew York City has declared the deadly legionnaires’ disease outbreak in central Harlem over, nearly three weeks since it began.On Friday, city health officials announced that there have been no new cases among residents who live or work in the area since 9 August. As of Friday, there have been 114 cases of legionnaires’ disease, with 90 people hospitalized – six of those remaining in hospital – and seven deaths. Continue reading...",
-            "content": "A hospital’s cooling tower was harboring bacteria as seven people died and 90 were hospitalized over three weeksNew York City has declared the deadly legionnaires’ disease outbreak in central Harlem over, nearly three weeks since it began.On Friday, city health officials announced that there have been no new cases among residents who live or work in the area since 9 August. As of Friday, there have been 114 cases of legionnaires’ disease, with 90 people hospitalized – six of those remaining in hospital – and seven deaths. Continue reading...",
             "feed_position": 14
           }
         ],
         "ai_summary": [
-          "New York City declared the Harlem legionnaires’ disease outbreak over.",
-          "The outbreak began nearly three weeks prior to the announcement.",
-          "There have been no new cases since August 9th in the affected area.",
-          "A hospital's cooling tower was identified as the source of the bacteria.",
-          "The outbreak resulted in 114 cases, 7 deaths, and 90 hospitalizations."
+          "Bernie Sanders calls for RFK Jr to resign as health secretary.",
+          "Sanders accuses Kennedy of endangering American health.",
+          "The call follows recent chaos across US health agencies.",
+          "The op-ed was published in the New York Times.",
+          "Sanders believes Kennedy must resign from his position."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-09-01T07:20:04.026Z",
+    "updated_at": "2025-09-01T11:16:12.341Z",
     "clusters": []
   }
 }
