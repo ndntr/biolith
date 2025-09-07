@@ -1,17 +1,44 @@
 {
   "clinical": {
-    "updated_at": "2025-09-07T19:13:13.275Z",
+    "updated_at": "2025-09-07T23:16:06.751Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-09-07T19:13:24.835Z",
+    "updated_at": "2025-09-07T23:16:16.025Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2025-09-07T19:13:22.730Z",
+    "updated_at": "2025-09-07T23:16:15.632Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sun, 07 Sep 2025 21:00:31 GMT",
+        "title": "Disabled NHS medic told she's 'not a real doctor'",
+        "neutral_headline": "Disabled NHS medic told she's 'not a real doctor",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cz69xljgpldo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 07 Sep 2025 21:00:31 GMT",
+            "title": "Disabled NHS medic told she's 'not a real doctor'",
+            "standfirst": "Disabled and neurodivergent doctors say the lack of reasonable adjustments is pushing some out.",
+            "content": "Disabled and neurodivergent doctors say the lack of reasonable adjustments is pushing some out.",
+            "feed_position": 84,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dba8/live/52fff580-8bf5-11f0-903d-fde5bdd29748.png"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dba8/live/52fff580-8bf5-11f0-903d-fde5bdd29748.png",
+        "ai_summary": [
+          "Disabled and neurodivergent doctors report lack of reasonable adjustments.",
+          "Some doctors are leaving the NHS due to inadequate support.",
+          "The article highlights the challenges faced by disabled medical professionals.",
+          "The lack of accommodations can lead to feelings of exclusion.",
+          "The NHS is urged to improve support for disabled healthcare workers."
+        ]
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Sun, 07 Sep 2025 17:14:17 GMT",
         "title": "How to see Sunday's 'Blood Moon' total lunar eclipse",
@@ -30,19 +57,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e02e/live/5274e560-67cb-11f0-bdb3-2fec70b719ae.jpg",
         "ai_summary": [
-          "A total lunar eclipse will be visible on Sunday evening.",
-          "The eclipse will be visible from parts of the UK.",
-          "The visibility depends on the weather conditions.",
-          "The article provides information about the eclipse.",
-          "It notes the date and location of visibility."
+          "A total lunar eclipse, or \"Blood Moon,\" will be visible on Sunday.",
+          "The eclipse will be visible from parts of the United Kingdom.",
+          "Weather conditions will affect visibility of the lunar eclipse.",
+          "The article provides information on how to view the eclipse.",
+          "The event is a total lunar eclipse, a celestial phenomenon."
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sun, 07 Sep 2025 16:20:38 GMT",
         "title": "Drug to prevent heart attacks is not ‘better than aspirin’ for everyone | Letters",
-        "neutral_headline": "Drug versus Aspirin for Heart Attack Prevention",
+        "neutral_headline": "Drug to prevent heart attacks is not ‘better than aspirin’ for everyone | Letters",
         "items": [
           {
             "source": "Guardian Health",
@@ -55,19 +82,19 @@
           }
         ],
         "ai_summary": [
-          "Clopidogrel effectiveness varies based on liver enzyme levels in individuals.",
-          "Some individuals may not activate clopidogrel efficiently, reducing protection.",
-          "Aspirin remains a better option for those with lower enzyme levels.",
-          "The article highlights the need for a personalized approach to treatment.",
-          "Clopidogrel is a prodrug requiring liver enzyme CYP2C19 for activation."
+          "Clopidogrel may not be superior to aspirin for all patients.",
+          "Clopidogrel effectiveness depends on liver enzyme levels.",
+          "Some individuals may not efficiently metabolize clopidogrel.",
+          "Aspirin remains a better option for those with low enzyme levels.",
+          "A personalized approach to treatment is necessary for heart attack prevention."
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sun, 07 Sep 2025 16:19:44 GMT",
         "title": "Don’t leave social care out of the equation | Letters",
-        "neutral_headline": "Social Care Must Be Included in NHS Reform",
+        "neutral_headline": "Don’t leave social care out of the equation | Letters",
         "items": [
           {
             "source": "Guardian Health",
@@ -80,19 +107,44 @@
           }
         ],
         "ai_summary": [
-          "NHS overcrowding results from pressure on health and social care systems.",
-          "Government plans risk treating symptoms if social care is excluded.",
-          "Sufficient community-based social care is needed for patient recovery.",
-          "Investment in community services prevents unnecessary hospital admissions.",
-          "Timely investment in community services delivers strong returns for NHS."
+          "Social care reform is crucial for addressing NHS overcrowding.",
+          "Community-based care supports patients recovering at home.",
+          "Investment in community services prevents hospital admissions.",
+          "Timely investment in community services yields strong returns.",
+          "Neglecting social care undermines efforts to improve healthcare."
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
+        "coverage": 1,
+        "updated_at": "Sun, 07 Sep 2025 15:51:05 GMT",
+        "title": "Women in UK with polycystic ovarian syndrome facing widespread failures in treatment, report finds",
+        "neutral_headline": "Women in UK with polycystic ovarian syndrome facing widespread failures in treatment, report finds",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2025/sep/08/women-in-uk-with-polycystic-ovarian-syndrome-facing-widespread-failures-in-treatment-report-finds",
+            "published_at": "Sun, 07 Sep 2025 15:51:05 GMT",
+            "title": "Women in UK with polycystic ovarian syndrome facing widespread failures in treatment, report finds",
+            "standfirst": "Long delays in diagnosis and limited access to treatment among issues faced by women with condition that affects about one in eight womenWomen living with polycystic ovarian syndrome (PCOS) face prolonged delays in diagnosis and limited access to treatment, according to a report by a parliamentary group.More than a third of women with the condition had to wait longer than four years for a PCOS diagnosis, according to the report, and after diagnosis almost two-fifths (38%) of respondents were not provided with any resources. Continue reading...",
+            "content": "Long delays in diagnosis and limited access to treatment among issues faced by women with condition that affects about one in eight womenWomen living with polycystic ovarian syndrome (PCOS) face prolonged delays in diagnosis and limited access to treatment, according to a report by a parliamentary group.More than a third of women with the condition had to wait longer than four years for a PCOS diagnosis, according to the report, and after diagnosis almost two-fifths (38%) of respondents were not provided with any resources. Continue reading...",
+            "feed_position": 2
+          }
+        ],
+        "ai_summary": [
+          "Women with PCOS face delays in diagnosis and treatment access.",
+          "Over a third waited over four years for a PCOS diagnosis.",
+          "Almost 40% of respondents received no resources after diagnosis.",
+          "The report highlights issues in PCOS healthcare for women.",
+          "The findings indicate a need for improved PCOS care."
+        ]
+      },
+      {
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sun, 07 Sep 2025 15:00:24 GMT",
         "title": "The kindness of strangers: a nurse saw me crying and asked if I wanted a hug",
-        "neutral_headline": "Nurse's Kindness Provided Comfort During Cancer Diagnosis",
+        "neutral_headline": "The kindness of strangers: a nurse saw me crying and asked if I wanted a hug",
         "items": [
           {
             "source": "Guardian Health",
@@ -101,23 +153,23 @@
             "title": "The kindness of strangers: a nurse saw me crying and asked if I wanted a hug",
             "standfirst": "I had cancer and I was alone in hospital when it all suddenly hit me. I have never needed a hug more in my lifeRead more in the Kindness of strangers seriesIn 2024, I was unexpectedly diagnosed with leukaemia. I was 34. I had no symptoms (none!) and it came at the worst possible time, although there is never a good time.I am a musician and was one week away from flying to New Zealand to be in a show. I was extremely excited about the show and, to be organised, I thought I’d get a blood test to check my iron levels before I left the country for five weeks. Continue reading...",
             "content": "I had cancer and I was alone in hospital when it all suddenly hit me. I have never needed a hug more in my lifeRead more in the Kindness of strangers seriesIn 2024, I was unexpectedly diagnosed with leukaemia. I was 34. I had no symptoms (none!) and it came at the worst possible time, although there is never a good time.I am a musician and was one week away from flying to New Zealand to be in a show. I was extremely excited about the show and, to be organised, I thought I’d get a blood test to check my iron levels before I left the country for five weeks. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "A 34-year-old musician was diagnosed with leukemia unexpectedly in 2024.",
-          "The diagnosis occurred just before a planned trip to New Zealand.",
-          "The author was preparing for a show when the diagnosis occurred.",
-          "The author had no symptoms before the diagnosis.",
-          "The author was alone in the hospital when the diagnosis hit."
+          "The article shares a personal story of a cancer diagnosis.",
+          "The author was diagnosed with leukemia at age 34.",
+          "The diagnosis occurred before a planned trip to New Zealand.",
+          "The author describes the emotional impact of the diagnosis.",
+          "The story highlights the importance of human connection."
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sun, 07 Sep 2025 08:00:14 GMT",
         "title": "Brainless bodies and pig organs: does science back up Putin and Xi’s longevity claims?",
-        "neutral_headline": "Putin and Xi's Longevity Claims Questioned by Science",
+        "neutral_headline": "Brainless bodies and pig organs: does science back up Putin and Xi’s longevity claims?",
         "items": [
           {
             "source": "Guardian Health",
@@ -126,23 +178,23 @@
             "title": "Brainless bodies and pig organs: does science back up Putin and Xi’s longevity claims?",
             "standfirst": "Russian leader’s claim that people can ‘get younger’ through repeated organ transplants has raised eyebrowsPerhaps it was the extravagant display of deadly weaponry that prompted Xi Jinping and Vladimir Putin to mull on mortality at this week’s military parade in Beijing.It was more banter than serious discussion, but with both aged 72, the Chinese president and his Russian counterpart may feel the cold hand on the shoulder more than Kim Jong-un, the 41-year-old North Korean leader who strolled beside them. Continue reading...",
             "content": "Russian leader’s claim that people can ‘get younger’ through repeated organ transplants has raised eyebrowsPerhaps it was the extravagant display of deadly weaponry that prompted Xi Jinping and Vladimir Putin to mull on mortality at this week’s military parade in Beijing.It was more banter than serious discussion, but with both aged 72, the Chinese president and his Russian counterpart may feel the cold hand on the shoulder more than Kim Jong-un, the 41-year-old North Korean leader who strolled beside them. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ],
         "ai_summary": [
-          "Putin and Xi discussed mortality at a military parade in Beijing.",
-          "Both leaders are 72 years old, raising questions about aging.",
-          "The article references claims about organ transplants and longevity.",
-          "The discussion was more casual than a serious scientific debate.",
-          "Kim Jong-un, 41, was also present at the military parade."
+          "Putin and Xi discussed longevity at a military parade.",
+          "The discussion included organ transplants for extending life.",
+          "The article questions the scientific basis of such claims.",
+          "The leaders' ages are a factor in the discussion.",
+          "The article explores the intersection of science and politics."
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sun, 07 Sep 2025 06:00:12 GMT",
         "title": "Private menopause tests risk undermining NHS care, doctors say",
-        "neutral_headline": "Private Menopause Tests Risk Undermining NHS Care",
+        "neutral_headline": "Private menopause tests risk undermining NHS care, doctors say",
         "items": [
           {
             "source": "Guardian Health",
@@ -151,19 +203,19 @@
             "title": "Private menopause tests risk undermining NHS care, doctors say",
             "standfirst": "Expert says self-testing kits are clinically useless and can be a distraction from evidence-based treatmentExpensive, over-the-counter hormone tests for menopause are clinically useless and risk undermining women’s healthcare, senior doctors have warned.The testing kits, offered by private clinics and available to buy for self-testing, claim to offer tailored insights through measuring hormone levels. But they have been described by experts as misleading and medically unnecessary. Continue reading...",
             "content": "Expert says self-testing kits are clinically useless and can be a distraction from evidence-based treatmentExpensive, over-the-counter hormone tests for menopause are clinically useless and risk undermining women’s healthcare, senior doctors have warned.The testing kits, offered by private clinics and available to buy for self-testing, claim to offer tailored insights through measuring hormone levels. But they have been described by experts as misleading and medically unnecessary. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ],
         "ai_summary": [
-          "Over-the-counter hormone tests for menopause are clinically useless.",
-          "These tests are offered by private clinics for self-testing.",
-          "Experts warn these tests are misleading and medically unnecessary.",
-          "The tests claim to offer tailored insights through hormone level measurement.",
-          "The tests risk undermining women's healthcare according to doctors."
+          "Doctors warn against over-the-counter menopause hormone tests.",
+          "The tests are considered clinically useless by experts.",
+          "The tests may distract from evidence-based treatment.",
+          "Private clinics offer the tests for self-testing purposes.",
+          "The tests claim to offer tailored insights into hormone levels."
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sat, 06 Sep 2025 18:35:03 GMT",
         "title": "Trump’s former surgeon general urges president to fire RFK Jr",
@@ -176,23 +228,23 @@
             "title": "Trump’s former surgeon general urges president to fire RFK Jr",
             "standfirst": "Jerome Adams cites vaccine policy and chaos at CDC and joins other officials in saying Kennedy is risking US healthThe surgeon general from the first Trump administration on Saturday said that the US president should “absolutely” fire health secretary Robert F Kennedy Jr over his “dangerous” policies on vaccines and the Centers for Disease Control and Prevention (CDC).Jerome Adams, who has become a pointed critic of the public health decisions being swiftly rolled out in the second Trump administration, made his most fierce attack yet on what has been unfolding. Continue reading...",
             "content": "Jerome Adams cites vaccine policy and chaos at CDC and joins other officials in saying Kennedy is risking US healthThe surgeon general from the first Trump administration on Saturday said that the US president should “absolutely” fire health secretary Robert F Kennedy Jr over his “dangerous” policies on vaccines and the Centers for Disease Control and Prevention (CDC).Jerome Adams, who has become a pointed critic of the public health decisions being swiftly rolled out in the second Trump administration, made his most fierce attack yet on what has been unfolding. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "Jerome Adams urged Trump to fire Robert F Kennedy Jr.",
-          "Adams cited Kennedy's vaccine policies and CDC chaos.",
-          "Adams is a critic of public health decisions in the second Trump administration.",
-          "Adams made a strong attack on Kennedy's actions.",
-          "Adams was the surgeon general in the first Trump administration."
+          "Trump's former surgeon general wants RFK Jr. fired.",
+          "Jerome Adams criticizes RFK Jr.'s vaccine policies.",
+          "Adams cites chaos at the CDC as a concern.",
+          "Adams joins others in criticizing Kennedy's actions.",
+          "The article discusses political and health policy issues."
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sat, 06 Sep 2025 13:00:52 GMT",
         "title": "‘I still want to achieve’: people living with stage 4 cancer embrace Chris Hoy charity ride",
-        "neutral_headline": "Stage 4 Cancer Patients Embrace Chris Hoy Charity Ride",
+        "neutral_headline": "‘I still want to achieve’: people living with stage 4 cancer embrace Chris Hoy charity ride",
         "items": [
           {
             "source": "Guardian Health",
@@ -201,23 +253,23 @@
             "title": "‘I still want to achieve’: people living with stage 4 cancer embrace Chris Hoy charity ride",
             "standfirst": "Inaugural Tour de 4 is tailored to individuals’ physical abilities and aims to challenge assumptions about stage 4 cancerMel Erwin is pragmatic about what it took to get her on a bike. “I have one and a half lungs. I’m on a treatment drug. I don’t identify as sporty. I wouldn’t have done it without a goal.”This Sunday the 57-year-old will roar up the Campsie Hills north of Glasgow in a “camp as Christmas” sparkly cape alongside her partner, Sarah, and 3,000 other participants. Continue reading...",
             "content": "Inaugural Tour de 4 is tailored to individuals’ physical abilities and aims to challenge assumptions about stage 4 cancerMel Erwin is pragmatic about what it took to get her on a bike. “I have one and a half lungs. I’m on a treatment drug. I don’t identify as sporty. I wouldn’t have done it without a goal.”This Sunday the 57-year-old will roar up the Campsie Hills north of Glasgow in a “camp as Christmas” sparkly cape alongside her partner, Sarah, and 3,000 other participants. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ],
         "ai_summary": [
-          "The inaugural Tour de 4 is tailored to individuals' physical abilities.",
-          "The event aims to challenge assumptions about stage 4 cancer.",
-          "Mel Erwin, a participant, has one and a half lungs.",
-          "Erwin will participate in the ride with her partner.",
-          "The event will have 3,000 participants."
+          "The Tour de 4 is tailored for individuals with stage 4 cancer.",
+          "The event challenges assumptions about stage 4 cancer patients.",
+          "Participants are encouraged to embrace their physical abilities.",
+          "The article features a participant's perspective on the ride.",
+          "The event aims to raise awareness and support for cancer patients."
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sat, 06 Sep 2025 12:00:50 GMT",
         "title": "Climate crisis will increase frequency of lightning-sparked wildfires, study finds",
-        "neutral_headline": "Climate Crisis Increases Lightning-Sparked Wildfires",
+        "neutral_headline": "Climate Crisis Increases Lightning-Sparked Wildfire Frequency, Study Finds",
         "items": [
           {
             "source": "Guardian Health",
@@ -226,23 +278,23 @@
             "title": "Climate crisis will increase frequency of lightning-sparked wildfires, study finds",
             "standfirst": "These wildfires tend to burn in more remote areas and grow larger faster, posing a higher risk to public safety and healthThe climate crisis will continue making lightning-sparked wildfires more frequent for decades to come, which could produce cascading effects and worsen public safety and public health, experts and new research suggest.Lightning-caused fires tend to burn in more remote areas and therefore usually grow into larger fires than human-caused fires. That means a trend toward more lightning-caused fires is also probably making wildfires more deadly by producing more wildfire smoke and helping to drive a surge in air quality issues from coast to coast, especially over the past several years. Continue reading...",
             "content": "These wildfires tend to burn in more remote areas and grow larger faster, posing a higher risk to public safety and healthThe climate crisis will continue making lightning-sparked wildfires more frequent for decades to come, which could produce cascading effects and worsen public safety and public health, experts and new research suggest.Lightning-caused fires tend to burn in more remote areas and therefore usually grow into larger fires than human-caused fires. That means a trend toward more lightning-caused fires is also probably making wildfires more deadly by producing more wildfire smoke and helping to drive a surge in air quality issues from coast to coast, especially over the past several years. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ],
         "ai_summary": [
-          "The climate crisis will increase lightning-sparked wildfires.",
-          "Lightning-caused fires tend to burn in remote areas.",
-          "These fires grow larger and faster than human-caused fires.",
-          "More wildfires could worsen public safety and health.",
-          "Wildfire smoke contributes to air quality issues."
+          "Climate change will make lightning-caused wildfires more frequent for decades, experts predict.",
+          "Lightning-caused fires often burn in remote areas, growing larger than human-caused fires.",
+          "More lightning fires could increase wildfire smoke and worsen air quality across the country.",
+          "Wildfire smoke has contributed to a surge in air quality issues in recent years.",
+          "Experts warn of cascading effects and potential worsening of public safety and health."
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sat, 06 Sep 2025 05:00:42 GMT",
         "title": "‘I wasn’t terrified of dying, but I didn’t want to leave my kids’: Davina McCall on addiction, reality TV and the brain tumour that nearly killed her",
-        "neutral_headline": "Davina McCall on Addiction, Brain Tumour, and Recovery",
+        "neutral_headline": "‘I wasn’t terrified of dying, but I didn’t want to leave my kids’: Davina McCall on addiction, reality TV and the brain tumour that nearly killed her",
         "items": [
           {
             "source": "Guardian Health",
@@ -251,23 +303,23 @@
             "title": "‘I wasn’t terrified of dying, but I didn’t want to leave my kids’: Davina McCall on addiction, reality TV and the brain tumour that nearly killed her",
             "standfirst": "When the TV presenter was offered a free health screening, she thought it was pointless: she was ‘the healthiest woman you’ve ever met’. But then came the shocking diagnosis. Now fully recovered, she’s re‑evaluating everythingIt all starts with the coil. Of course it does. This is Davina, and Davina McCall doesn’t do personal by halves. “I loved the coil, but people always used to go, ‘I’m not getting the coil, ugh.’ I always wondered why it wasn’t more popular.” So, it was June 2023 and McCall was getting her preferred method of contraception replaced – on TV, naturally, for a documentary. “I asked my children’s permission. ‘Can Mummy get her coil refitted on television?’ They all rolled their eyes, like: ‘God! Here she goes again.’”Post-fitting, her friend Dame Lesley Regan, a gynaecologist, suggested that McCall have a health screening at the state-of-the-art women’s health clinic where she worked, in exchange for a talk she would give on menopause. To be honest, McCall says, she thought the idea ridiculous. “I was like: ‘Honestly, I don’t need that. I’m the healthiest woman you’ve ever met. I don’t go to the doctor, I have a good immune system, I eat well.’” Continue reading...",
             "content": "When the TV presenter was offered a free health screening, she thought it was pointless: she was ‘the healthiest woman you’ve ever met’. But then came the shocking diagnosis. Now fully recovered, she’s re‑evaluating everythingIt all starts with the coil. Of course it does. This is Davina, and Davina McCall doesn’t do personal by halves. “I loved the coil, but people always used to go, ‘I’m not getting the coil, ugh.’ I always wondered why it wasn’t more popular.” So, it was June 2023 and McCall was getting her preferred method of contraception replaced – on TV, naturally, for a documentary. “I asked my children’s permission. ‘Can Mummy get her coil refitted on television?’ They all rolled their eyes, like: ‘God! Here she goes again.’”Post-fitting, her friend Dame Lesley Regan, a gynaecologist, suggested that McCall have a health screening at the state-of-the-art women’s health clinic where she worked, in exchange for a talk she would give on menopause. To be honest, McCall says, she thought the idea ridiculous. “I was like: ‘Honestly, I don’t need that. I’m the healthiest woman you’ve ever met. I don’t go to the doctor, I have a good immune system, I eat well.’” Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ],
         "ai_summary": [
-          "Davina McCall had a health screening and discovered a brain tumour.",
-          "McCall was getting her coil replaced on television for a documentary.",
-          "McCall thought she was the healthiest woman she knew.",
-          "McCall is now fully recovered from the brain tumour.",
-          "McCall is re-evaluating her life after the diagnosis."
+          "Davina McCall had a health screening after getting her coil replaced on television.",
+          "McCall initially thought the screening was unnecessary, considering herself very healthy.",
+          "She was later diagnosed with a brain tumor, which she has since recovered from.",
+          "McCall is now re-evaluating her life after the health scare.",
+          "The article discusses McCall's experiences with addiction and reality television."
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sat, 06 Sep 2025 04:00:42 GMT",
         "title": "Food industry lobbying is leading Labour to drop public health plans, experts say",
-        "neutral_headline": "Food Industry Lobbying Influences Labour's Health Plans",
+        "neutral_headline": "Food industry lobbying is leading Labour to drop public health plans, experts say",
         "items": [
           {
             "source": "Guardian Health",
@@ -276,48 +328,21 @@
             "title": "Food industry lobbying is leading Labour to drop public health plans, experts say",
             "standfirst": "Inaction on ill-health prevention after pressure from junk food and alcohol firms ‘could cause NHS collapse’Denis CampbellHealth policy editor Continue reading...",
             "content": "Inaction on ill-health prevention after pressure from junk food and alcohol firms ‘could cause NHS collapse’Denis CampbellHealth policy editor Continue reading...",
-            "feed_position": 9
+            "feed_position": 10
           }
         ],
         "ai_summary": [
-          "Food industry lobbying is leading Labour to drop public health plans.",
-          "Inaction on prevention could cause NHS collapse.",
+          "Experts claim food industry lobbying is causing Labour to abandon public health initiatives.",
+          "Inaction on ill-health prevention, due to industry pressure, could collapse the National Health Service.",
           "The article focuses on the influence of junk food and alcohol firms.",
-          "The article is written by the health policy editor.",
-          "The article discusses the impact of lobbying on health policies."
-        ]
-      },
-      {
-        "id": "cluster_11",
-        "coverage": 1,
-        "updated_at": "Fri, 05 Sep 2025 20:00:00 GMT",
-        "title": "CrowdScience",
-        "neutral_headline": "CrowdScience: Is drinking milk good for us, or an unnecessary habit?",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.co.uk/sounds/play/w3ct6st4?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 05 Sep 2025 20:00:00 GMT",
-            "title": "CrowdScience",
-            "standfirst": "Is drinking milk good for us, or an unnecessary habit?",
-            "content": "Is drinking milk good for us, or an unnecessary habit?",
-            "feed_position": 98,
-            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m0wcfl.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m0wcfl.jpg",
-        "ai_summary": [
-          "The BBC's CrowdScience program explores milk consumption.",
-          "The program investigates the health benefits of drinking milk.",
-          "The program questions if milk is an unnecessary habit.",
-          "The program will provide information on milk consumption.",
-          "The program is part of the BBC's health coverage."
+          "The author is Denis Campbell, the Health policy editor.",
+          "The article suggests a potential link between lobbying and public health policy changes."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-09-07T19:13:24.835Z",
+    "updated_at": "2025-09-07T23:16:16.025Z",
     "clusters": []
   }
 }
