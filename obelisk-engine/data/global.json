@@ -1,31 +1,551 @@
 {
-  "updated_at": "2025-09-08T11:15:58.475Z",
+  "updated_at": "2025-09-08T19:15:25.647Z",
   "clusters": [
     {
       "id": "cluster_5",
-      "coverage": 11,
-      "updated_at": "Mon, 08 Sep 2025 11:04:47 GMT",
-      "title": "At least 10 people killed during protests against Nepal’s social media ban",
-      "neutral_headline": "Protests and Violence Erupt Over Nepal Social Media Ban",
+      "coverage": 10,
+      "updated_at": "Mon, 08 Sep 2025 15:03:23 -0400",
+      "title": "French government collapses as prime minister is ousted",
+      "neutral_headline": "French Prime Minister Ousted After Confidence Vote",
       "items": [
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/france-government-collapses-francois-bayrou-ousted/",
+          "published_at": "Mon, 08 Sep 2025 15:03:23 -0400",
+          "title": "French government collapses as prime minister is ousted",
+          "standfirst": "France&#039;s President Emmanuel Macron must search for a fourth prime minister in 12 months after Prime Minister François Bayrou was ousted.",
+          "content": "France&#039;s President Emmanuel Macron must search for a fourth prime minister in 12 months after Prime Minister François Bayrou was ousted.",
+          "feed_position": 1
+        },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/7122b003-71c8-41e1-a968-1cc81f736939",
+          "published_at": "Mon, 08 Sep 2025 18:44:32 GMT",
+          "title": "French government collapses as PM François Bayrou loses confidence vote",
+          "standfirst": "President Emmanuel Macron will look for a replacement who can break the budget impasse",
+          "content": "President Emmanuel Macron will look for a replacement who can break the budget impasse",
+          "feed_position": 0,
+          "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd5dd4838-318c-4009-8547-8ef66fbf9e07.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+        },
+        {
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/world/2025/sep/08/francois-bayrou-ousted-as-french-pm-after-losing-confidence-vote",
+          "published_at": "Mon, 08 Sep 2025 18:37:56 GMT",
+          "title": "François Bayrou ousted as French PM after losing confidence vote",
+          "standfirst": "Government collapses after Emmanuel Macron’s ally wins support of just 194 MPs with 364 against François Bayrou has been ousted in a confidence vote after only nine months as prime minister, collapsing his minority government and plunging France into a political crisis.Bayrou, 74, will hand his resignation to Emmanuel Macron, his longterm centrist ally, on Tuesday morning. Continue reading...",
+          "content": "Government collapses after Emmanuel Macron’s ally wins support of just 194 MPs with 364 against François Bayrou has been ousted in a confidence vote after only nine months as prime minister, collapsing his minority government and plunging France into a political crisis.Bayrou, 74, will hand his resignation to Emmanuel Macron, his longterm centrist ally, on Tuesday morning. Continue reading...",
+          "feed_position": 21
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/tv-shows/the-debate/20250908-french-pm-bayrou-loses-confidence-vote",
+          "published_at": "Mon, 08 Sep 2025 18:26:42 GMT",
+          "title": "French PM Bayrou loses confidence vote",
+          "standfirst": "France’s parliament voted to topple the government of Prime Minister François Bayrou on Monday after the PM surprised even his own allies by calling a confidence vote to resolve a months-long deadlock over his austerity budget. Bayrou will tender his resignation on Tuesday morning, plunging France into fresh political turmoil.",
+          "content": "France’s parliament voted to topple the government of Prime Minister François Bayrou on Monday after the PM surprised even his own allies by calling a confidence vote to resolve a months-long deadlock over his austerity budget. Bayrou will tender his resignation on Tuesday morning, plunging France into fresh political turmoil.",
+          "feed_position": 0,
+          "image_url": "https://s.france24.com/media/display/5d3cabf4-8cdd-11f0-b145-005056a97e36/w:1024/p:16x9/Anglais-2025-09-08T17-56-16-206Z.jpg"
+        },
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/french-prime-minister-francois-bayrou-ousted-after-losing-confidence-vote/",
+          "published_at": "Mon, 08 Sep 2025 14:14:00 -0400",
+          "title": "French Prime Minister François Bayrou ousted after losing confidence vote",
+          "standfirst": "France&#039;s Prime Minister François Bayrou overwhelmingly lost a confidence vote Monday after nine months in office. CBS News correspondent Shanelle Kaul has more.",
+          "content": "France&#039;s Prime Minister François Bayrou overwhelmingly lost a confidence vote Monday after nine months in office. CBS News correspondent Shanelle Kaul has more.",
+          "feed_position": 13
+        },
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/64cb971fb82c430f",
+          "published_at": "Mon, 08 Sep 2025 18:06:21 GMT",
+          "title": "Macron to name new French prime minister after government collapse",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 45
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/video/20250908-who-will-macron-appoint-as-next-pm-after-bayrou-ousted",
+          "published_at": "Mon, 08 Sep 2025 17:56:02 GMT",
+          "title": "Who will Macron appoint as next PM after Bayrou ousted?",
+          "standfirst": "Legislators toppled France’s government in a confidence vote on Monday, a new crisis for Europe’s second-largest economy that obliges President Emmanuel Macron to search for a fourth prime minister in 12 months. But who that replacement will be remains unclear. France 24's Clovis Casali discusses what Macron might do next with Green Party MP Nicolas Bonnet.",
+          "content": "Legislators toppled France’s government in a confidence vote on Monday, a new crisis for Europe’s second-largest economy that obliges President Emmanuel Macron to search for a fourth prime minister in 12 months. But who that replacement will be remains unclear. France 24's Clovis Casali discusses what Macron might do next with Green Party MP Nicolas Bonnet.",
+          "feed_position": 1,
+          "image_url": "https://s.france24.com/media/display/e0326130-8cdc-11f0-9355-005056bfb2b6/w:1024/p:16x9/EN-20250908-191354-191804-CS-01.jpg"
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/video/20250908-a-victory-for-the-french-people-as-bayrou-s-government-toppled",
+          "published_at": "Mon, 08 Sep 2025 17:55:31 GMT",
+          "title": "'A victory for the French people' as Bayrou's government toppled",
+          "standfirst": "Claire Lejeune, a French MP and member of the far-left France Unbowed, tells France 24's Clovis Casali that the toppling of prime minister François Bayrou's government in a confidence vote Monday was a \"victory for the French people\" as his government had \"no democratic legitimacy\".",
+          "content": "Claire Lejeune, a French MP and member of the far-left France Unbowed, tells France 24's Clovis Casali that the toppling of prime minister François Bayrou's government in a confidence vote Monday was a \"victory for the French people\" as his government had \"no democratic legitimacy\".",
+          "feed_position": 2,
+          "image_url": "https://s.france24.com/media/display/77deb45e-8cdb-11f0-9072-005056a90284/w:1024/p:16x9/EN-20250908-192956-193409-CS.jpg"
+        },
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/7e45ac26428779f6",
+          "published_at": "Mon, 08 Sep 2025 17:55:19 GMT",
+          "title": "Macron to name Bayrou's successor in next few days",
+          "standfirst": "French President Emmanuel Macron will name the next prime minister in the next few days, the Elysee Palace confirmed on Monday.The press statement came shortly after Prime Minister Francois Bayrou los...",
+          "content": "French President Emmanuel Macron will name the next prime minister in the next few days, the Elysee Palace confirmed on Monday.The press statement came shortly after Prime Minister Francois Bayrou los...",
+          "feed_position": 50,
+          "image_url": "https://cdn.biztoc.com/7e45ac26428779f6_sq.webp"
+        },
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/4e193198e0a14d6c",
+          "published_at": "Mon, 08 Sep 2025 17:54:55 GMT",
+          "title": "Legislators topple French government in confidence vote, forcing Macron to seek yet another prime minister",
+          "standfirst": "Prime Minister François Bayrou was ousted after he gambled that lawmakers would back his view that France must slash public spending to repair its debts.",
+          "content": "Prime Minister François Bayrou was ousted after he gambled that lawmakers would back his view that France must slash public spending to repair its debts.",
+          "feed_position": 46,
+          "image_url": "https://cdn.biztoc.com/4e193198e0a14d6c_sq.webp"
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/video/20250908-france-pm-bayrou-government-toppled-in-confidence-vote",
+          "published_at": "Mon, 08 Sep 2025 17:53:13 GMT",
+          "title": "France: PM Bayrou government toppled in confidence vote",
+          "standfirst": "French lawmakers have voted to topple PM François #Bayrou after just nine months in office. He’s the 5th prime minister since 2022. #France now faces fresh #political turmoil.",
+          "content": "French lawmakers have voted to topple PM François #Bayrou after just nine months in office. He’s the 5th prime minister since 2022. #France now faces fresh #political turmoil.",
+          "feed_position": 3,
+          "image_url": "https://s.france24.com/media/display/51bf5f02-8cdc-11f0-b665-005056bfb2b6/w:1024/p:16x9/V1-00-00-00-19-Still001.png"
+        },
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/2823f484b9e29d15",
+          "published_at": "Mon, 08 Sep 2025 17:44:07 GMT",
+          "title": "Instant View: French government loses no-confidence vote in parliament",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 98,
+          "image_url": "https://cdn.biztoc.com/2823f484b9e29d15_sq.webp"
+        },
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/2dec27a38ede3e65",
+          "published_at": "Mon, 08 Sep 2025 17:44:03 GMT",
+          "title": "Macron Is Running Out of Viable Prime Ministers for France",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 97,
+          "image_url": "https://cdn.biztoc.com/2dec27a38ede3e65_sq.webp"
+        },
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/e8c3f4a9619c1312",
+          "published_at": "Mon, 08 Sep 2025 17:32:31 GMT",
+          "title": "France Government Collapses, Emmanuel Macron on Brink",
+          "standfirst": "Voice is AI-generated. Inconsistencies may occur. French lawmakers toppled the government in a no-confidence vote on Monday, plunging Europe's second-largest economy into fresh political turmoil and forcing President Emmanuel Macron to search for his fourth prime minister in just a year. Prime…",
+          "content": "Voice is AI-generated. Inconsistencies may occur. French lawmakers toppled the government in a no-confidence vote on Monday, plunging Europe's second-largest economy into fresh political turmoil and forcing President Emmanuel Macron to search for his fourth prime minister in just a year. Prime…",
+          "feed_position": 102,
+          "image_url": "https://cdn.biztoc.com/e8c3f4a9619c1312_sq.webp"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2025/9/8/french-pm-loses-confidence-vote-in-blow-to-president-macron?traffic_source=rss",
+          "published_at": "Mon, 08 Sep 2025 17:29:10 +0000",
+          "title": "French government collapses after PM Bayrou ousted in confidence vote",
+          "standfirst": "French Parliament votes to bring down the Bayrou-led government over its plans to cut about $52bn to reduce the debt.",
+          "content": "French Parliament votes to bring down the Bayrou-led government over its plans to cut about $52bn to reduce the debt.",
+          "feed_position": 3
+        },
+        {
+          "source": "NPR News",
+          "url": "https://www.npr.org/2025/09/08/g-s1-87610/france-government-collapse-confidence-vote-macron-bayou",
+          "published_at": "Mon, 08 Sep 2025 13:28:05 -0400",
+          "title": "France's government collapses after the prime minister loses a confidence vote",
+          "standfirst": "Legislators toppled France's government in a confidence vote, a new crisis for Europe's second-largest economy. Prime Minister François Bayrou was ousted overwhelmingly in a 364-194 vote against him.",
+          "content": "Legislators toppled France's government in a confidence vote, a new crisis for Europe's second-largest economy. Prime Minister François Bayrou was ousted overwhelmingly in a 364-194 vote against him.(Image credit: Christophe Ena)",
+          "feed_position": 1
+        },
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/eb45a99966f2a97f",
+          "published_at": "Mon, 08 Sep 2025 17:21:31 GMT",
+          "title": "French Premier Bayrou to Resign After Losing Confidence Vote",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 171,
+          "image_url": "https://cdn.biztoc.com/eb45a99966f2a97f_sq.webp"
+        },
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/d715c9030bb97cbb",
+          "published_at": "Mon, 08 Sep 2025 17:21:13 GMT",
+          "title": "French prime minister Francois Bayrou ousted in confidence vote",
+          "standfirst": "French Prime Minister Francois Bayrou and his centrist minority government have been ousted in a confidence vote in France's National Assembly on Monday.",
+          "content": "French Prime Minister Francois Bayrou and his centrist minority government have been ousted in a confidence vote in France's National Assembly on Monday.",
+          "feed_position": 132
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cy4r7dmxgxmo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 08 Sep 2025 17:18:52 GMT",
+          "title": "What's behind France's political crisis and what could happen next?",
+          "standfirst": "France's prime minister has lost a confidence vote, sending parliament into another period of chaos and uncertainty.",
+          "content": "France's prime minister has lost a confidence vote, sending parliament into another period of chaos and uncertainty.",
+          "feed_position": 14,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c09/live/aeaddfa0-8cc2-11f0-aff0-010617e09ce9.jpg"
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/video/20250908-french-pm-bayrou-s-government-toppled-in-confidence-vote",
+          "published_at": "Mon, 08 Sep 2025 17:16:00 GMT",
+          "title": "French PM Bayrou's government toppled in confidence vote",
+          "standfirst": "France's parliament voted on Monday to bring down the government over its plans to tame the ballooning national debt, deepening a political crisis and handing President Emmanuel Macron the task of finding a fifth prime minister in less than two years.",
+          "content": "France's parliament voted on Monday to bring down the government over its plans to tame the ballooning national debt, deepening a political crisis and handing President Emmanuel Macron the task of finding a fifth prime minister in less than two years.",
+          "feed_position": 5,
+          "image_url": "https://s.france24.com/media/display/8ebc4d4e-8cd6-11f0-9539-005056a97e36/w:1024/p:16x9/EN-20250908-185755-190152-CS.jpg"
+        },
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/1cb062ab2d7dbf51",
+          "published_at": "Mon, 08 Sep 2025 17:10:20 GMT",
+          "title": "French PM Loses Confidence Vote, To Resign Tomorrow",
+          "standfirst": "French PM Loses Confidence Vote, To Resign Tomorrow Update (1300ET): As we previewed and expected, French PM Francois Bayrou, the fourth prime minister in just 20 months, became the latest to depart having failed to get sufficient support to push a budget through parliament as 194 voted for him,…",
+          "content": "French PM Loses Confidence Vote, To Resign Tomorrow Update (1300ET): As we previewed and expected, French PM Francois Bayrou, the fourth prime minister in just 20 months, became the latest to depart having failed to get sufficient support to push a budget through parliament as 194 voted for him,…",
+          "feed_position": 184,
+          "image_url": "https://cdn.biztoc.com/1cb062ab2d7dbf51_sq.webp"
+        },
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/4ef555e2cef5dd84",
+          "published_at": "Mon, 08 Sep 2025 17:10:13 GMT",
+          "title": "French PM Bayrou loses confidence vote",
+          "standfirst": "French Prime Minister Francois Bayrou lost the confidence vote on Monday, with 364 members of the parliament voting against him, and only 194 in his favour.More to come......",
+          "content": "French Prime Minister Francois Bayrou lost the confidence vote on Monday, with 364 members of the parliament voting against him, and only 194 in his favour.More to come......",
+          "feed_position": 174,
+          "image_url": "https://cdn.biztoc.com/4ef555e2cef5dd84_sq.webp"
+        },
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/cd455f95d0ef2b74",
+          "published_at": "Mon, 08 Sep 2025 17:10:13 GMT",
+          "title": "French government falls as Bayrou loses confidence vote",
+          "standfirst": "Upon taking office, Bayrou told Macron he aspired to “achieve great things” in the 30 months ahead. Instead, he lasted only nine",
+          "content": "Upon taking office, Bayrou told Macron he aspired to “achieve great things” in the 30 months ahead. Instead, he lasted only nine",
+          "feed_position": 188,
+          "image_url": "https://cdn.biztoc.com/cd455f95d0ef2b74_sq.webp"
+        },
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/49c0aed6ba95aa67",
+          "published_at": "Mon, 08 Sep 2025 17:10:12 GMT",
+          "title": "French PM Bayrou loses confidence vote as turmoil deepens",
+          "standfirst": "President Emmanuel Macron will look for a replacement to try to break impasse over measures to cut deficit",
+          "content": "President Emmanuel Macron will look for a replacement to try to break impasse over measures to cut deficit",
+          "feed_position": 187,
+          "image_url": "https://cdn.biztoc.com/49c0aed6ba95aa67_sq.webp"
+        },
+        {
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/world/2025/sep/08/bayrou-fall-and-divided-parliament-hardly-offer-stability-macron-needs-analysis",
+          "published_at": "Mon, 08 Sep 2025 17:09:05 GMT",
+          "title": "Bayrou’s fall and a divided parliament hardly offer the stability Macron needs",
+          "standfirst": "The French president will have to choose a new prime minister after resistance to austerity budget unites left and far-right in oppositionEurope live – latest updatesAs the French president, Emmanuel Macron, faces a crucial moment on the international stage this month, with the recognition of a Palestinian state at the UN assembly and diplomacy over Gaza and Ukraine, he has once again been shaken by a damaging political crisis at home.The centrist prime minister, François Bayrou, was toppled on Monday night in a parliamentary confidence vote, leaving Macron scrambling to appoint his third prime minister in a year, and the fifth since his second term as president began in 2022. Continue reading...",
+          "content": "The French president will have to choose a new prime minister after resistance to austerity budget unites left and far-right in oppositionEurope live – latest updatesAs the French president, Emmanuel Macron, faces a crucial moment on the international stage this month, with the recognition of a Palestinian state at the UN assembly and diplomacy over Gaza and Ukraine, he has once again been shaken by a damaging political crisis at home.The centrist prime minister, François Bayrou, was toppled on Monday night in a parliamentary confidence vote, leaving Macron scrambling to appoint his third prime minister in a year, and the fifth since his second term as president began in 2022. Continue reading...",
+          "feed_position": 24
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/france/20250908-live-france-bayrou-confidence-vote-austerity-budget",
+          "published_at": "Mon, 08 Sep 2025 16:59:22 GMT",
+          "title": "🔴 Live: French PM Bayrou's government toppled in confidence vote, plunging France into renewed crisis",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 6
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/video/20250908-france-no-confidence-vote-le-pen-urges-macron-to-call-snap-legislative-polls",
+          "published_at": "Mon, 08 Sep 2025 16:58:07 GMT",
+          "title": "France no-confidence vote: Le Pen urges Macron to call snap legislative polls",
+          "standfirst": "French far-right three-time presidential candidate Marine Le Pen on Monday urged President Emmanuel Macron to call snap legislative elections in a bid to end months of political deadlock as the country's parliament prepared to cast ballots in a no-confidence vote. France 24's French politics editor Marc Perelman takes a closer look at the president's option if, as expected, the government is toppled.",
+          "content": "French far-right three-time presidential candidate Marine Le Pen on Monday urged President Emmanuel Macron to call snap legislative elections in a bid to end months of political deadlock as the country's parliament prepared to cast ballots in a no-confidence vote. France 24's French politics editor Marc Perelman takes a closer look at the president's option if, as expected, the government is toppled.",
+          "feed_position": 7,
+          "image_url": "https://s.france24.com/media/display/a8d3470e-8cd2-11f0-b910-005056a90284/w:1024/p:16x9/EN-20250908-183024-183634-CS.jpg"
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/video/20250908-a-look-back-at-bayrou-s-nine-months-as-french-pm",
+          "published_at": "Mon, 08 Sep 2025 16:57:23 GMT",
+          "title": "A look back at Bayrou's nine-months as French PM",
+          "standfirst": "French Prime Minister Francois Bayrou was set to fall in a confidence vote in parliament on Monday, bringing an end to a 9-month spell as head of the French government, but one that was never likely to be plain sailing.",
+          "content": "French Prime Minister Francois Bayrou was set to fall in a confidence vote in parliament on Monday, bringing an end to a 9-month spell as head of the French government, but one that was never likely to be plain sailing.",
+          "feed_position": 8,
+          "image_url": "https://s.france24.com/media/display/e7e8c9ee-8ccf-11f0-a300-005056a90284/w:1024/p:16x9/EN-20250908-180836-181044-CS.jpg"
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/video/20250908-very-little-suspense-as-to-what-will-happen-next-as-french-pm-set-to-lose-confidence-vote",
+          "published_at": "Mon, 08 Sep 2025 16:25:30 GMT",
+          "title": "'Very little suspense as to what will happen next' as French PM set to lose confidence vote",
+          "standfirst": "Eleonore Caroit, MP for French citizens living in Latin America and the Caribbean and a member of Emmanuel Macron's Renaissance party, tells France 24's Clovis Casali that there is little doubt French Prime Minister François Bayrou will lose Monday's no-confidence vote in parliament. But, she says, calling the vote was \"absolutely necessary\" as he seeks to reduce France's debt.",
+          "content": "Eleonore Caroit, MP for French citizens living in Latin America and the Caribbean and a member of Emmanuel Macron's Renaissance party, tells France 24's Clovis Casali that there is little doubt French Prime Minister François Bayrou will lose Monday's no-confidence vote in parliament. But, she says, calling the vote was \"absolutely necessary\" as he seeks to reduce France's debt.",
+          "feed_position": 10,
+          "image_url": "https://s.france24.com/media/display/3ff89a98-8ccf-11f0-930c-005056a90284/w:1024/p:16x9/EN-20250908-180318-180744-CS.jpg"
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/video/20250908-veron-distinguishing-the-real-french-political-crisis-from-the-lack-of-a-immediate-financial-one",
+          "published_at": "Mon, 08 Sep 2025 16:08:11 GMT",
+          "title": "Veron: 'Distinguishing the real French political crisis from the lack of a immediate financial one'",
+          "standfirst": "François Bayrou faces a crucial confidence vote just nine months into his tenure, plunging France into fresh political turmoil and heightening pressure on President Macron. Bayrou shocked allies by calling the vote himself, aiming to end a deadlock over his controversial €44 billion austerity budget. For historical context and in-depth analysis, FRANCE 24's Annette Young welcomes Nicolas Véron, French Economist and Senior Fellow at Bruegel and the Peterson Institute for International Economics.",
+          "content": "François Bayrou faces a crucial confidence vote just nine months into his tenure, plunging France into fresh political turmoil and heightening pressure on President Macron. Bayrou shocked allies by calling the vote himself, aiming to end a deadlock over his controversial €44 billion austerity budget. For historical context and in-depth analysis, FRANCE 24's Annette Young welcomes Nicolas Véron, French Economist and Senior Fellow at Bruegel and the Peterson Institute for International Economics.",
+          "feed_position": 12,
+          "image_url": "https://s.france24.com/media/display/83c53718-8cca-11f0-84db-005056bf30b7/w:1024/p:16x9/EN-20250908-160520-161754-CS.jpg"
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/video/20250908-french-pm-says-confidence-vote-a-test-of-truth-warns-of-debt-threat",
+          "published_at": "Mon, 08 Sep 2025 15:52:16 GMT",
+          "title": "French PM says confidence vote 'a test of truth', warns of debt threat",
+          "standfirst": "France's excessive debt pile is \"life-threatening\" for the country, Prime Minister Francois Bayrou said Monday as he defended billions of euros of budget cuts ahead of a confidence vote expected to bring down his government, which he labelled a \"test of truth\". His address, Bayrou's final chance to win lawmakers over, was repeatedly interrupted by heckling from opposition parties in a tense National Assembly chamber.",
+          "content": "France's excessive debt pile is \"life-threatening\" for the country, Prime Minister Francois Bayrou said Monday as he defended billions of euros of budget cuts ahead of a confidence vote expected to bring down his government, which he labelled a \"test of truth\". His address, Bayrou's final chance to win lawmakers over, was repeatedly interrupted by heckling from opposition parties in a tense National Assembly chamber.",
+          "feed_position": 13,
+          "image_url": "https://s.france24.com/media/display/8ee1ceea-8cca-11f0-8218-005056a90284/w:1024/p:16x9/EN-20250908-173051-173607-CS.jpg"
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/video/20250908-very-unlikely-bayrou-swayed-any-mps-in-final-speech-before-confidence-vote",
+          "published_at": "Mon, 08 Sep 2025 15:11:25 GMT",
+          "title": "'Very unlikely' Bayrou swayed any MPs in final speech before confidence vote",
+          "standfirst": "France's over-indebtedness is putting its survival at stake, Prime Minister François Bayrou warned ahead of a confidence vote he is expected to lose later on Monday. But the prime minister's remarks, his last before the vote, are unlikely to have won over any lawmakers, says France 24's Clovis Casali.",
+          "content": "France's over-indebtedness is putting its survival at stake, Prime Minister François Bayrou warned ahead of a confidence vote he is expected to lose later on Monday. But the prime minister's remarks, his last before the vote, are unlikely to have won over any lawmakers, says France 24's Clovis Casali.",
+          "feed_position": 15,
+          "image_url": "https://s.france24.com/media/display/609f4010-8cc2-11f0-846e-005056bf30b7/w:1024/p:16x9/EN-20250908-160110-160516-CS.jpg"
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/video/20250908-bayrou-offers-doom-and-gloom-in-final-speech-before-confidence-vote",
+          "published_at": "Mon, 08 Sep 2025 14:39:39 GMT",
+          "title": "Bayrou offers 'doom and gloom' in final speech before confidence vote",
+          "standfirst": "French Prime Minister François Bayrou warned the country’s excessive debt pile is \"life-threatening\" as he made his final speech to parliament ahead of a confidence vote that he is widely expected to lose. France 24’s French politics editor Marc Perelman and international affairs editor offer their analysis of what was an often downbeat final address by the French PM.",
+          "content": "French Prime Minister François Bayrou warned the country’s excessive debt pile is \"life-threatening\" as he made his final speech to parliament ahead of a confidence vote that he is widely expected to lose. France 24’s French politics editor Marc Perelman and international affairs editor offer their analysis of what was an often downbeat final address by the French PM.",
+          "feed_position": 17,
+          "image_url": "https://s.france24.com/media/display/c5453ece-8cbe-11f0-b196-005056bfb2b6/w:1024/p:16x9/EN-20250908-154318-155517-CS.jpg"
+        },
+        {
+          "source": "NBC World",
+          "url": "https://www.nbcnews.com/world/europe/france-no-confidence-vote-instability-uncertainty-rcna229799",
+          "published_at": "Mon, 08 Sep 2025 14:30:36 GMT",
+          "title": "French Parliament ousts second PM in less than a year, fueling instability",
+          "standfirst": "France's National Assembly is set to vote for a motion of no confidence in François Bayrou, less than a year after they did the same for Michel Barnier.",
+          "content": "France's National Assembly is set to vote for a motion of no confidence in François Bayrou, less than a year after they did the same for Michel Barnier.",
+          "feed_position": 1,
+          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250908-Francois-Bayrou-mb-1225-5cdf30.jpg"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2025/9/8/french-no-confidence-vote-whats-next-if-the-government-collapses?traffic_source=rss",
+          "published_at": "Mon, 08 Sep 2025 14:30:31 +0000",
+          "title": "French PM Bayrou ousted in no-confidence vote: What’s next?",
+          "standfirst": "PM Francois Bayrou lost the vote, but a deadlock in Parliament means France might struggle to find a replacement.",
+          "content": "PM Francois Bayrou lost the vote, but a deadlock in Parliament means France might struggle to find a replacement.",
+          "feed_position": 11
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/video/20250908-is-new-alliance-in-works-extending-from-french-socialists-ecologists-communists-to-centre-right",
+          "published_at": "Mon, 08 Sep 2025 14:25:33 GMT",
+          "title": "Is new alliance in works, extending from French Socialists, Ecologists, Communists to centre-right?",
+          "standfirst": "French Prime Minister Francois Bayrou was set to fall in a confidence vote in parliament on Monday after just nine months in the job, sparking fresh political uncertainty for France and piling pressure on President Emmanuel Macron. Bayrou blindsided even his allies by calling a confidence vote to end a months-long standoff over his 44 billion euro austerity budget. For in-depth analysis and a deeper perspective, FRANCE 24's Delano d'Souza welcomes Paul Smith, Associate Professor in French History and Politics at the University of Nottingham.",
+          "content": "French Prime Minister Francois Bayrou was set to fall in a confidence vote in parliament on Monday after just nine months in the job, sparking fresh political uncertainty for France and piling pressure on President Emmanuel Macron. Bayrou blindsided even his allies by calling a confidence vote to end a months-long standoff over his 44 billion euro austerity budget. For in-depth analysis and a deeper perspective, FRANCE 24's Delano d'Souza welcomes Paul Smith, Associate Professor in French History and Politics at the University of Nottingham.",
+          "feed_position": 18,
+          "image_url": "https://s.france24.com/media/display/28809f94-8cbd-11f0-b9ef-005056a90284/w:1024/p:16x9/EN-20250908-130531-131254-CS.jpg"
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/video/20250908-replay-french-pm-bayrou-makes-final-speech-to-parliament-before-confidence-vote",
+          "published_at": "Mon, 08 Sep 2025 14:16:01 GMT",
+          "title": "REPLAY: French PM Bayrou makes final speech to parliament before confidence vote",
+          "standfirst": "French Prime Minister François Bayrou made his final speech to parliament Monday ahead of a confidence vote in which his government is widely expected to be toppled. Defending the budget proposals that led to the vote, Bayrou warned France's excessive debt pile is \"life-threatening\" for the country. Watch his speech in full above.",
+          "content": "French Prime Minister François Bayrou made his final speech to parliament Monday ahead of a confidence vote in which his government is widely expected to be toppled. Defending the budget proposals that led to the vote, Bayrou warned France's excessive debt pile is \"life-threatening\" for the country. Watch his speech in full above.",
+          "feed_position": 21,
+          "image_url": "https://s.france24.com/media/display/637e4678-8cbd-11f0-894f-005056a97e36/w:1024/p:16x9/EN-20250908-150249-154257-CS.jpg"
+        },
+        {
+          "source": "Sky News World",
+          "url": "https://news.sky.com/story/frances-pm-makes-impassioned-speech-to-save-government-ahead-of-crucial-vote-13427178",
+          "published_at": "Mon, 08 Sep 2025 15:07:00 +0100",
+          "title": "French PM loses confidence vote - as country's political crisis deepens",
+          "standfirst": "France's prime minister has failed in a last-minute bid to save his job, with the country's National Assembly ousting him in a confidence vote.",
+          "content": "France's prime minister has failed in a last-minute bid to save his job, with the country's National Assembly ousting him in a confidence vote.",
+          "feed_position": 0,
+          "image_url": "https://e3.365dm.com/25/09/1920x1080/skynews-francois-bayrou-france_7014447.jpg?20250908143500"
+        }
+      ],
+      "featured_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd5dd4838-318c-4009-8547-8ef66fbf9e07.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "popularity_score": 10019.799264722222,
+      "ai_summary": [
+        "French Prime Minister François Bayrou lost a confidence vote after nine months in office.",
+        "President Emmanuel Macron must find a fourth prime minister in twelve months.",
+        "The government collapsed after Bayrou's loss, plunging France into political crisis.",
+        "Bayrou will tender his resignation, creating fresh political turmoil.",
+        "Legislators toppled the government, creating a new crisis for the economy."
+      ]
+    },
+    {
+      "id": "cluster_78",
+      "coverage": 6,
+      "updated_at": "Mon, 08 Sep 2025 18:00:13 GMT",
+      "title": "At least 6 dead, multiple injured in Jerusalem shooting",
+      "neutral_headline": "Six Killed in Jerusalem Shooting Attack",
+      "items": [
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/2f1693cef17f0a0e",
+          "published_at": "Mon, 08 Sep 2025 18:00:13 GMT",
+          "title": "At least 6 dead, multiple injured in Jerusalem shooting",
+          "standfirst": "Two gunmen opened fire at a Jerusalem bus stop on Monday, killing five people and critically injuring seven others, emergency ...",
+          "content": "Two gunmen opened fire at a Jerusalem bus stop on Monday, killing five people and critically injuring seven others, emergency ...",
+          "feed_position": 26,
+          "image_url": "https://cdn.biztoc.com/2f1693cef17f0a0e_sq.webp"
+        },
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/d6458789cc73c00c",
+          "published_at": "Mon, 08 Sep 2025 17:55:25 GMT",
+          "title": "Netanyahu Responds To Deadly Terrorist Attack In Jerusalem",
+          "standfirst": "By Virginia Allen, The Daily Signal | September 08, 2025 Six people were killed at a bus stop in Jerusalem Monday in what authorities are describing as a “terrorist attack.” Two Palestinian gunmen are reported to have carried out the attack. “We are engaged in pursuit and are cordoning off the…",
+          "content": "By Virginia Allen, The Daily Signal | September 08, 2025 Six people were killed at a bus stop in Jerusalem Monday in what authorities are describing as a “terrorist attack.” Two Palestinian gunmen are reported to have carried out the attack. “We are engaged in pursuit and are cordoning off the…",
+          "feed_position": 36,
+          "image_url": "https://cdn.biztoc.com/d6458789cc73c00c_sq.webp"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/8/suspected-palestinian-gunmen-kill-six-people-in-east-jerusalem?traffic_source=rss",
+          "published_at": "Mon, 08 Sep 2025 17:15:26 +0000",
+          "title": "Suspected Palestinian gunmen kill six people in East Jerusalem",
+          "standfirst": "Six people were killed in a shooting attack by suspected Palestinian gunmen at a bus stop in occupied East Jerusalem.",
+          "content": "Six people were killed in a shooting attack by suspected Palestinian gunmen at a bus stop in occupied East Jerusalem.",
+          "feed_position": 4
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cr70ny0l7vgo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 08 Sep 2025 13:09:39 GMT",
+          "title": "Six killed by Palestinian gunmen at Jerusalem bus stop",
+          "standfirst": "Israeli police say two gunmen were killed after the attack, which was one of the deadliest in the city in years.",
+          "content": "Israeli police say two gunmen were killed after the attack, which was one of the deadliest in the city in years.",
+          "feed_position": 0,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6287/live/48e4c6d0-8c8f-11f0-b391-6936825093bd.jpg"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/8/aftermath-of-shooting-in-occupied-east-jerusalem?traffic_source=rss",
+          "published_at": "Mon, 08 Sep 2025 12:07:49 +0000",
+          "title": "Aftermath of shooting in occupied East Jerusalem",
+          "standfirst": "Video shows the aftermath of a shooting at a bus station in the illegal Israeli settlement of Ramot in occupied East Jer",
+          "content": "Video shows the aftermath of a shooting at a bus station in the illegal Israeli settlement of Ramot in occupied East Jer",
+          "feed_position": 20
+        },
+        {
+          "source": "NBC World",
+          "url": "https://www.nbcnews.com/video/gunmen-kill-at-least-five-people-at-jerusalem-bus-stop-247051845851",
+          "published_at": "Mon, 08 Sep 2025 09:38:02 GMT",
+          "title": "Gunmen kill at least six people at Jerusalem bus stop",
+          "standfirst": "Two gunmen opened fire at a Jerusalem bus stop, killing at least six people and critically injuring seven others, emergency services said. The two attackers were “neutralized,” the police said. Hamas hailed the attack as \"heroic\" but did not claim responsibility.",
+          "content": "Two gunmen opened fire at a Jerusalem bus stop, killing at least six people and critically injuring seven others, emergency services said. The two attackers were “neutralized,” the police said. Hamas hailed the attack as \"heroic\" but did not claim responsibility.",
+          "feed_position": 7,
+          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/shooting_new-we5sn5.jpg"
+        },
+        {
+          "source": "NPR News",
+          "url": "https://www.npr.org/2025/09/08/nx-s1-5533923/israel-jerusalem-shooting",
+          "published_at": "Mon, 08 Sep 2025 05:27:11 -0400",
+          "title": "Palestinian gunmen kill 6 people in attack on Jerusalem bus stop",
+          "standfirst": "Hamas hailed the attack without claiming responsibility, calling it a \"natural response to the occupation's crimes against our people.\"",
+          "content": "Hamas hailed the attack without claiming responsibility, calling it a \"natural response to the occupation's crimes against our people.\"(Image credit: Mahmoud Illean)",
+          "feed_position": 6
+        },
+        {
+          "source": "NBC World",
+          "url": "https://www.nbcnews.com/world/israel/gunmen-kill-five-jerusalem-bus-stop-rcna229764",
+          "published_at": "Mon, 08 Sep 2025 08:28:11 GMT",
+          "title": "Gunmen kill six and critically injure seven at a Jerusalem bus stop",
+          "standfirst": "Two gunmen opened fire at a Jerusalem bus stop on Monday, killing six people and critically injuring seven others, emergency services said",
+          "content": "Two gunmen opened fire at a Jerusalem bus stop on Monday, killing six people and critically injuring seven others, emergency services said",
+          "feed_position": 0,
+          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250908-jerusalem-3-rs-45c60b.jpg"
+        },
+        {
+          "source": "Sky News World",
+          "url": "https://news.sky.com/story/at-least-15-injured-six-seriously-in-shooting-in-jerusalem-13427000",
+          "published_at": "Mon, 08 Sep 2025 08:45:00 +0100",
+          "title": "Six killed in rush hour bus shooting in Jerusalem",
+          "standfirst": "Two gunmen boarded a bus on the outskirts of Jerusalem at rush hour and shot dead six people in one of the deadliest attacks the city has seen in recent times.",
+          "content": "Two gunmen boarded a bus on the outskirts of Jerusalem at rush hour and shot dead six people in one of the deadliest attacks the city has seen in recent times.",
+          "feed_position": 1,
+          "image_url": "https://e3.365dm.com/25/09/1920x1080/skynews-jerusalem-bus-shooting_7014576.jpg?20250908170402"
+        }
+      ],
+      "featured_image": "https://cdn.biztoc.com/2f1693cef17f0a0e_sq.webp",
+      "popularity_score": 6018.746486944445,
+      "ai_summary": [
+        "Two Palestinian gunmen opened fire at a Jerusalem bus stop on Monday.",
+        "Six people were killed in the shooting attack in East Jerusalem.",
+        "Seven others were critically injured in the attack.",
+        "Israeli police killed the two gunmen after the attack.",
+        "Hamas hailed the attack as \"heroic\" but did not claim responsibility."
+      ]
+    },
+    {
+      "id": "cluster_213",
+      "coverage": 6,
+      "updated_at": "Mon, 08 Sep 2025 12:59:00 -0400",
+      "title": "Deadly protests erupt in Nepal over social media ban",
+      "neutral_headline": "Protests in Nepal Erupt Over Social Media Ban",
+      "items": [
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/deadly-protests-erupt-in-nepal-over-governments-social-media-ban/",
+          "published_at": "Mon, 08 Sep 2025 12:59:00 -0400",
+          "title": "Deadly protests erupt in Nepal over social media ban",
+          "standfirst": "Multiple people were killed and dozens more were wounded in Nepal after protests erupted over the government&#039;s social media ban, authorities said. CBS News&#039; Shanelle Kaul has the latest.",
+          "content": "Multiple people were killed and dozens more were wounded in Nepal after protests erupted over the government&#039;s social media ban, authorities said. CBS News&#039; Shanelle Kaul has the latest.",
+          "feed_position": 22
+        },
         {
           "source": "Guardian World",
           "url": "https://www.theguardian.com/world/2025/sep/08/nepal-bans-26-social-media-sites-including-x-whatsapp-and-youtube",
-          "published_at": "Mon, 08 Sep 2025 11:04:47 GMT",
-          "title": "At least 10 people killed during protests against Nepal’s social media ban",
-          "standfirst": "Free speech demonstrations came after government said Facebook and others failed to follow new regulationsAt least 10 people have been killed in Nepal after protests over a government ban on dozens of social media platforms – including Facebook, Instagram, WhatsApp and X – led to violent clashes with police.The government, led by the prime minister, KP Sharma Oli, has faced mounting criticism after imposing a ban on 26 prominent social media platforms and messaging apps that it says have failed to comply with new regulations. Continue reading...",
-          "content": "Free speech demonstrations came after government said Facebook and others failed to follow new regulationsAt least 10 people have been killed in Nepal after protests over a government ban on dozens of social media platforms – including Facebook, Instagram, WhatsApp and X – led to violent clashes with police.The government, led by the prime minister, KP Sharma Oli, has faced mounting criticism after imposing a ban on 26 prominent social media platforms and messaging apps that it says have failed to comply with new regulations. Continue reading...",
+          "published_at": "Mon, 08 Sep 2025 15:32:49 GMT",
+          "title": "At least 19 killed in ‘gen Z’ protests against Nepal’s social media ban",
+          "standfirst": "Many demonstrators say they are also on the streets over corruption and nepotism they allege is rampant At least 19 people have been killed during protests in Nepal over a government ban on dozens of online platforms including Facebook, Instagram, WhatsApp and X.The government has faced mounting criticism after imposing a ban on 26 prominent social media platforms and messaging apps last week because they had missed a deadline to register under new regulations. Continue reading...",
+          "content": "Many demonstrators say they are also on the streets over corruption and nepotism they allege is rampant At least 19 people have been killed during protests in Nepal over a government ban on dozens of online platforms including Facebook, Instagram, WhatsApp and X.The government has faced mounting criticism after imposing a ban on 26 prominent social media platforms and messaging apps last week because they had missed a deadline to register under new regulations. Continue reading...",
           "feed_position": 30
         },
         {
           "source": "BBC World",
           "url": "https://www.bbc.com/news/articles/c78nd2zy9jgo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 08 Sep 2025 10:52:07 GMT",
-          "title": "At least 13 dead after protests against Nepal social media ban",
-          "standfirst": "The protest was led by young people who oppose the ban in a country which relies heavily on social media platforms.",
-          "content": "The protest was led by young people who oppose the ban in a country which relies heavily on social media platforms.",
+          "published_at": "Mon, 08 Sep 2025 14:18:24 GMT",
+          "title": "At least 19 dead in Nepal after Gen Z protests at corruption and social media ban",
+          "standfirst": "Young protesters are demanding the government lift its social media ban and tackle corruption.",
+          "content": "Young protesters are demanding the government lift its social media ban and tackle corruption.",
           "feed_position": 2,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f505/live/94f63880-8c97-11f0-b882-771c24b6a718.jpg"
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c3c/live/2b141cc0-8cab-11f0-84c8-99de564f0440.png"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2025/9/8/at-least-14-killed-in-nepal-protests-over-social-media-ban-corruption?traffic_source=rss",
+          "published_at": "Mon, 08 Sep 2025 13:09:32 +0000",
+          "title": "At least 19 killed in Nepal protests over social media ban, corruption",
+          "standfirst": "A Kathmandu District Administration Office spokesperson says police used water cannon, batons and rubber bullets.",
+          "content": "A Kathmandu District Administration Office spokesperson says police used water cannon, batons and rubber bullets.",
+          "feed_position": 16
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2025/9/8/six-killed-in-nepal-amid-gen-z-protests-after-social-media-ban-all-to-know?traffic_source=rss",
+          "published_at": "Mon, 08 Sep 2025 11:14:51 +0000",
+          "title": "Nepal Gen Z protests amid social media ban, clashes kill 19: All to know",
+          "standfirst": "Protesters are agitating against corruption and a ban on major social media platforms.",
+          "content": "Protesters are agitating against corruption and a ban on major social media platforms.",
+          "feed_position": 23
         },
         {
           "source": "Bloomberg Technology",
@@ -34,183 +554,197 @@
           "title": "Nepal Sees Deadly Clashes as Protests Erupt on Social Media Ban",
           "standfirst": "At least fourteen people were killed and dozens injured in Nepal’s Kathmandu during protests against the government’s decision to ban several social media platforms, local media reported.",
           "content": "At least fourteen people were killed and dozens injured in Nepal’s Kathmandu during protests against the government’s decision to ban several social media platforms, local media reported.",
-          "feed_position": 5,
+          "feed_position": 14,
           "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYVFj5lCzbXk/v0/1200x-1.jpg"
-        },
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/israel-hamas-war-east-jerusalem-ramot-shooting-palestinian-gunmen-deaths/",
-          "published_at": "Mon, 08 Sep 2025 06:03:52 -0400",
-          "title": "Palestinian gunmen kill six people in attack on Jerusalem bus stop",
-          "standfirst": "Israeli officials say two gunmen opened fire on a Jerusalem bus stop, killing six people and leaving seven others in serious condition.",
-          "content": "Israeli officials say two gunmen opened fire on a Jerusalem bus stop, killing six people and leaving seven others in serious condition.",
-          "feed_position": 3
-        },
-        {
-          "source": "Financial Times",
-          "url": "https://www.ft.com/content/1fe35b0c-b03b-4478-ab61-9635d91785f0",
-          "published_at": "Mon, 08 Sep 2025 10:02:12 GMT",
-          "title": "Five killed in Jerusalem shooting",
-          "standfirst": "Deadliest such incident in nearly a year comes amid escalating tensions in occupied West Bank and Gaza Strip",
-          "content": "Deadliest such incident in nearly a year comes amid escalating tensions in occupied West Bank and Gaza Strip",
-          "feed_position": 8,
-          "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe0b53f96-2ff2-4958-b875-2cdfe23a7734.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/video/20250908-jerusalem-at-least-5-killed-and-several-injured-in-shooting-attack",
-          "published_at": "Mon, 08 Sep 2025 09:52:54 GMT",
-          "title": "Jerusalem: At least 5 killed and several injured in shooting attack",
-          "standfirst": "At least five people were killed and 15 others injured in a shooting attack in Jerusalem. Media reports say it is the country’s deadliest shooting attack in nearly a year.",
-          "content": "At least five people were killed and 15 others injured in a shooting attack in Jerusalem. Media reports say it is the country’s deadliest shooting attack in nearly a year.",
-          "feed_position": 3,
-          "image_url": "https://s.france24.com/media/display/c961ee62-8c9b-11f0-8b1d-005056a97e36/w:1024/p:16x9/EN-Shooting-attack-thumbnail.jpg"
-        },
-        {
-          "source": "Guardian World",
-          "url": "https://www.theguardian.com/world/2025/sep/08/gunmen-jerusalem-shooting-bus-stop-ramot",
-          "published_at": "Mon, 08 Sep 2025 09:51:27 GMT",
-          "title": "Gunmen kill five people at Jerusalem bus stop",
-          "standfirst": "Four men and a woman killed and at least 11 others injured in attack at Ramot intersectionMiddle East crisis – live updatesTwo gunmen have killed five people and injured at least 11 others in an attack at a road junction in Jerusalem.The attackers opened fire towards a bus stop at the Ramot intersection, and were shot dead by a police officer and an armed civilian, Israeli police said. Continue reading...",
-          "content": "Four men and a woman killed and at least 11 others injured in attack at Ramot intersectionMiddle East crisis – live updatesTwo gunmen have killed five people and injured at least 11 others in an attack at a road junction in Jerusalem.The attackers opened fire towards a bus stop at the Ramot intersection, and were shot dead by a police officer and an armed civilian, Israeli police said. Continue reading...",
-          "feed_position": 26
-        },
-        {
-          "source": "NBC World",
-          "url": "https://www.nbcnews.com/video/gunmen-kill-at-least-five-people-at-jerusalem-bus-stop-247051845851",
-          "published_at": "Mon, 08 Sep 2025 09:38:02 GMT",
-          "title": "Gunmen kill at least five people at Jerusalem bus stop",
-          "standfirst": "Two gunmen opened fire at a Jerusalem bus stop, killing at least five people and critically injuring seven others, emergency services said. The two attackers were “neutralized,” the police said. Hamas hailed the attack as \"heroic\" but did not claim responsibility.",
-          "content": "Two gunmen opened fire at a Jerusalem bus stop, killing at least five people and critically injuring seven others, emergency services said. The two attackers were “neutralized,” the police said. Hamas hailed the attack as \"heroic\" but did not claim responsibility.",
-          "feed_position": 7,
-          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/shooting_new-we5sn5.jpg"
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cr70ny0l7vgo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 08 Sep 2025 09:28:57 GMT",
-          "title": "Five killed in Jerusalem shooting attack, paramedics say",
-          "standfirst": "Israeli police say two gunmen were \"neutralised\" after the attack at a bus stop, in which seven other people were seriously wounded.",
-          "content": "Israeli police say two gunmen were \"neutralised\" after the attack at a bus stop, in which seven other people were seriously wounded.",
-          "feed_position": 0,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6287/live/48e4c6d0-8c8f-11f0-b391-6936825093bd.jpg"
-        },
-        {
-          "source": "NPR News",
-          "url": "https://www.npr.org/2025/09/08/nx-s1-5533923/israel-jerusalem-shooting",
-          "published_at": "Mon, 08 Sep 2025 05:27:11 -0400",
-          "title": "Shooting attack at Jerusalem bus stop kills at least 5",
-          "standfirst": "Paramedics said at least five people were killed in a shooting attack in Jerusalem after two attackers opened fire at a bus stop at a busy intersection in north Jerusalem.",
-          "content": "Paramedics said at least five people were killed in a shooting attack in Jerusalem after two attackers opened fire at a bus stop at a busy intersection in north Jerusalem.(Image credit: Mahmoud Illean)",
-          "feed_position": 1
         },
         {
           "source": "Sky News World",
           "url": "https://news.sky.com/story/at-least-14-dead-in-nepal-protests-over-social-media-ban-13427038",
           "published_at": "Mon, 08 Sep 2025 10:26:00 +0100",
-          "title": "At least 14 dead in Nepal protests over social media ban",
-          "standfirst": "At least 14 people have been killed and dozens more injured in Nepal's capital as protesters clashed with police over a government decision to block 26 social media platforms including Facebook, X and YouTube.",
-          "content": "At least 14 people have been killed and dozens more injured in Nepal's capital as protesters clashed with police over a government decision to block 26 social media platforms including Facebook, X and YouTube.",
-          "feed_position": 1,
-          "image_url": "https://e3.365dm.com/25/09/1920x1080/kathmandu-skynews-nepal_7014275.jpg?20250908111617"
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/video/20250908-deadly-shooting-attack-at-jerusalem-bus-stop",
-          "published_at": "Mon, 08 Sep 2025 09:22:15 GMT",
-          "title": "Deadly shooting attack at Jerusalem bus stop",
-          "standfirst": "Paramedics said at least five people were killed in a shooting attack in Jerusalem after two attackers opened fire at a bus stop at a busy intersection in north Jerusalem. Paramedics said an additional 15 people were injured, including six in serious condition.",
-          "content": "Paramedics said at least five people were killed in a shooting attack in Jerusalem after two attackers opened fire at a bus stop at a busy intersection in north Jerusalem. Paramedics said an additional 15 people were injured, including six in serious condition.",
-          "feed_position": 7,
-          "image_url": "https://s.france24.com/media/display/920f1258-8c93-11f0-8e09-005056a90284/w:1024/p:16x9/EN-20250908-110109-110318-CS.jpg"
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/middle-east/20250908-shooting-attack-in-jerusalem-kills-at-least-four",
-          "published_at": "Mon, 08 Sep 2025 08:59:11 GMT",
-          "title": "Shooting attack in Jerusalem kills at least six",
-          "standfirst": "At least six people were killed and 12 injured when two gunmen opened fire at a crowded bus stop in Jerusalem on Monday, Israeli police and paramedics said. Israeli media reported the gunmen also boarded a bus and opened fire inside before being neutralised by a security officer and a civilian.",
-          "content": "At least six people were killed and 12 injured when two gunmen opened fire at a crowded bus stop in Jerusalem on Monday, Israeli police and paramedics said. Israeli media reported the gunmen also boarded a bus and opened fire inside before being neutralised by a security officer and a civilian.",
-          "feed_position": 9,
-          "image_url": "https://s.france24.com/media/display/dd7ba11c-8c8d-11f0-a9c6-005056bfb2b6/w:1024/p:16x9/000-73Q68M3-1.jpg"
-        },
-        {
-          "source": "Reuters Top News",
-          "url": "https://biztoc.com/x/1830525ebed7e084",
-          "published_at": "Mon, 08 Sep 2025 08:58:41 GMT",
-          "title": "Israel Says Five Killed in Shooting Attack on Jerusalem Bus",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 106,
-          "image_url": "https://cdn.biztoc.com/1830525ebed7e084_sq.webp"
-        },
-        {
-          "source": "Reuters Top News",
-          "url": "https://biztoc.com/x/237cb09440989340",
-          "published_at": "Mon, 08 Sep 2025 08:47:42 GMT",
-          "title": "Gunmen kill four at Jerusalem bus stop",
-          "standfirst": "Two gunmen opened fire at a Jerusalem bus stop on Monday, killing four people and critically injuring five others, emergency services said",
-          "content": "Two gunmen opened fire at a Jerusalem bus stop on Monday, killing four people and critically injuring five others, emergency services said",
-          "feed_position": 134,
-          "image_url": "https://cdn.biztoc.com/237cb09440989340_sq.webp"
-        },
-        {
-          "source": "NBC World",
-          "url": "https://www.nbcnews.com/world/israel/gunmen-kill-five-jerusalem-bus-stop-rcna229764",
-          "published_at": "Mon, 08 Sep 2025 08:28:11 GMT",
-          "title": "Gunmen kill five at Jerusalem bus stop",
-          "standfirst": "Two gunmen opened fire at a Jerusalem bus stop on Monday, killing five people and critically injuring seven others, emergency services said",
-          "content": "Two gunmen opened fire at a Jerusalem bus stop on Monday, killing five people and critically injuring seven others, emergency services said",
-          "feed_position": 0,
-          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250908-jerusalem-3-rs-45c60b.jpg"
-        },
-        {
-          "source": "Reuters Top News",
-          "url": "https://biztoc.com/x/0ccb85bd97ac2a5b",
-          "published_at": "Mon, 08 Sep 2025 08:25:11 GMT",
-          "title": "4 killed in suspected terror attack in Jerusalem",
-          "standfirst": "At least four people were killed in a suspected terror attack at the Ramot Junction in Jerusalem on Monday when two shooters opened fire inside a bus, Israel’s paramedic service, Magen David Adom said...",
-          "content": "At least four people were killed in a suspected terror attack at the Ramot Junction in Jerusalem on Monday when two shooters opened fire inside a bus, Israel’s paramedic service, Magen David Adom said...",
-          "feed_position": 148,
-          "image_url": "https://cdn.biztoc.com/0ccb85bd97ac2a5b_sq.webp"
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2025/9/8/shooting-in-jerusalem-kills-four-israeli-authorities-say?traffic_source=rss",
-          "published_at": "Mon, 08 Sep 2025 08:08:38 +0000",
-          "title": "Shooting in occupied East Jerusalem kills six, Israeli authorities say",
-          "standfirst": "Paramedics say at least 12 other people were injured in the morning attack, with six in \"serious condition\".",
-          "content": "Paramedics say at least 12 other people were injured in the morning attack, with six in \"serious condition\".",
-          "feed_position": 6
-        },
-        {
-          "source": "Sky News World",
-          "url": "https://news.sky.com/story/at-least-15-injured-six-seriously-in-shooting-in-jerusalem-13427000",
-          "published_at": "Mon, 08 Sep 2025 08:45:00 +0100",
-          "title": "At least six killed in shooting in Jerusalem",
-          "standfirst": "At least six people have been killed in a shooting in Jerusalem, an Israeli minister has said.",
-          "content": "At least six people have been killed in a shooting in Jerusalem, an Israeli minister has said.",
-          "feed_position": 0,
-          "image_url": "https://e3.365dm.com/25/09/1920x1080/skynews-jerusalem-israeli-police_7014159.jpg?20250908090051"
+          "title": "At least 19 dead in Nepal protests over social media ban",
+          "standfirst": "At least 19 people have been killed in Nepal as protesters clashed with police over a government decision to block 26 social media platforms, including Facebook, X and YouTube.",
+          "content": "At least 19 people have been killed in Nepal as protesters clashed with police over a government decision to block 26 social media platforms, including Facebook, X and YouTube.",
+          "feed_position": 3,
+          "image_url": "https://e3.365dm.com/25/09/1920x1080/skynews-nepal-kathmandu-protest_7014453.jpg?20250908143932"
         }
       ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f505/live/94f63880-8c97-11f0-b882-771c24b6a718.jpg",
-      "popularity_score": 11019.813479166667,
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c3c/live/2b141cc0-8cab-11f0-84c8-99de564f0440.png",
+      "popularity_score": 6017.726209166667,
       "ai_summary": [
-        "Protests in Nepal followed a government ban on numerous social media platforms and messaging apps.",
-        "At least ten people were killed in clashes between protesters and police forces.",
-        "The government cited non-compliance with new regulations as the reason for the ban.",
-        "The ban targeted platforms like Facebook, Instagram, WhatsApp, and X.",
-        "The protests were led by young people who oppose the social media ban."
+        "At least nineteen people have died in Nepal during protests.",
+        "Protests are over a government ban on social media platforms.",
+        "Demonstrators are also protesting corruption and nepotism.",
+        "Police used water cannons, batons, and rubber bullets on protesters.",
+        "The government banned 26 social media platforms for missing registration deadlines."
       ]
     },
     {
-      "id": "cluster_73",
-      "coverage": 5,
-      "updated_at": "Mon, 08 Sep 2025 09:35:32 GMT",
-      "title": "New Zealand dad shot dead by police after years on the run with children",
-      "neutral_headline": "Fugitive Father Shot Dead by Police After Years on Run",
+      "id": "cluster_20",
+      "coverage": 4,
+      "updated_at": "Mon, 08 Sep 2025 18:29:42 GMT",
+      "title": "Supreme court lifts restrictions on Los Angeles immigration raids in win for Trump",
+      "neutral_headline": "Supreme Court Lifts Restrictions on LA Immigration Raids",
       "items": [
+        {
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/us-news/2025/sep/08/trump-supreme-court-ice-immigration-california",
+          "published_at": "Mon, 08 Sep 2025 18:29:42 GMT",
+          "title": "Supreme court lifts restrictions on Los Angeles immigration raids in win for Trump",
+          "standfirst": "Conservative majority lifts restraining order from judge who found’roving patrols’ were conducting indiscriminate arrestsUS politics live – latest updatesFederal agents can resume sweeping immigration operations in Los Angeles after the US supreme court lifted an order barring the Donald Trump administration from stopping people solely based on their race, language or job.The court ruled in favor of Trump’s administration, granting a stay against a restraining order from another judge that found “roving patrols” of immigration agents were conducting indiscriminate arrests in LA. The ruling from the conservative majority is a win for the administration in its ongoing effort to enact mass deportations. Continue reading...",
+          "content": "Conservative majority lifts restraining order from judge who found’roving patrols’ were conducting indiscriminate arrestsUS politics live – latest updatesFederal agents can resume sweeping immigration operations in Los Angeles after the US supreme court lifted an order barring the Donald Trump administration from stopping people solely based on their race, language or job.The court ruled in favor of Trump’s administration, granting a stay against a restraining order from another judge that found “roving patrols” of immigration agents were conducting indiscriminate arrests in LA. The ruling from the conservative majority is a win for the administration in its ongoing effort to enact mass deportations. Continue reading...",
+          "feed_position": 42
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c784697j2v8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 08 Sep 2025 18:28:54 GMT",
+          "title": "Supreme Court rules that immigration raids in LA can continue",
+          "standfirst": "US top court says that immigration agents can stop people based solely on their race, language or job.",
+          "content": "US top court says that immigration agents can stop people based solely on their race, language or job.",
+          "feed_position": 8,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd7e/live/f10efc30-8cd1-11f0-9864-595ea7031b48.jpg"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2025/9/8/us-supreme-court-allows-trumps-controversial-immigration-raids-to-continue?traffic_source=rss",
+          "published_at": "Mon, 08 Sep 2025 18:28:36 +0000",
+          "title": "US Supreme Court allows Trump’s controversial immigration raids to continue",
+          "standfirst": "Decision effectively allows immigration agents to use racial profiling to detain people, greenlighting sweeping raids.",
+          "content": "Decision effectively allows immigration agents to use racial profiling to detain people, greenlighting sweeping raids.",
+          "feed_position": 0
+        },
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/2ef43a370a0f807e",
+          "published_at": "Mon, 08 Sep 2025 16:59:07 GMT",
+          "title": "Supreme Court lifts restrictions on LA immigration stops set after agents swept up US citizens",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 194
+        }
+      ],
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd7e/live/f10efc30-8cd1-11f0-9864-595ea7031b48.jpg",
+      "popularity_score": 4019.2378758333334,
+      "ai_summary": [
+        "The Supreme Court lifted restrictions on Los Angeles immigration stops.",
+        "The court ruled in favor of the Trump administration.",
+        "Immigration agents can resume sweeping operations in Los Angeles.",
+        "The court granted a stay against a restraining order.",
+        "The order barred stopping people based on race, language, or job."
+      ]
+    },
+    {
+      "id": "cluster_124",
+      "coverage": 3,
+      "updated_at": "Mon, 08 Sep 2025 17:43:53 GMT",
+      "title": "South Koreans face shock and confusion after worker detentions at Georgia Hyundai plant",
+      "neutral_headline": "South Koreans Face Shock After Hyundai Plant Detentions",
+      "items": [
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/78cd0678f92b1923",
+          "published_at": "Mon, 08 Sep 2025 17:43:53 GMT",
+          "title": "South Koreans face shock and confusion after worker detentions at Georgia Hyundai plant",
+          "standfirst": "South Korea’s foreign minister is en route to the U.S. to finalize steps for the return home of several hundred workers detained in a massive immigration raid in Georgia.",
+          "content": "South Korea’s foreign minister is en route to the U.S. to finalize steps for the return home of several hundred workers detained in a massive immigration raid in Georgia.",
+          "feed_position": 83,
+          "image_url": "https://cdn.biztoc.com/78cd0678f92b1923_sq.webp"
+        },
+        {
+          "source": "NBC World",
+          "url": "https://www.nbcnews.com/world/asia/south-korea-hyundai-raid-return-voluntarily-rcna229759",
+          "published_at": "Mon, 08 Sep 2025 09:19:29 GMT",
+          "title": "South Korea says it is helping citizens return voluntarily after huge Hyundai raid",
+          "standfirst": "The South Korean government said Monday that it was arranging for hundreds of its nationals to leave the United States voluntarily after they were detained in an immigration raid on a Hyundai facility in Georgia that has strained relations with the key U.S. ally",
+          "content": "The South Korean government said Monday that it was arranging for hundreds of its nationals to leave the United States voluntarily after they were detained in an immigration raid on a Hyundai facility in Georgia that has strained relations with the key U.S. ally",
+          "feed_position": 13,
+          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250908-Hyundai-2-rs-4063d8.jpg"
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c5yqg0rln74o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 07 Sep 2025 23:14:55 GMT",
+          "title": "South Korean worker tells BBC of panic during US immigration raid at Hyundai plant",
+          "standfirst": "Some 400 US agents took part in the immigration raid on the Hyundai facility, detaining hundreds of workers, many South Korean nationals.",
+          "content": "Some 400 US agents took part in the immigration raid on the Hyundai facility, detaining hundreds of workers, many South Korean nationals.",
+          "feed_position": 5,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6815/live/f34693f0-8c95-11f0-9cf6-cbf3e73ce2b9.png"
+        }
+      ],
+      "featured_image": "https://cdn.biztoc.com/78cd0678f92b1923_sq.webp",
+      "popularity_score": 3018.4742647222224,
+      "ai_summary": [
+        "South Korean workers were detained in a Georgia Hyundai plant raid.",
+        "The South Korean government is helping citizens return voluntarily.",
+        "The raid strained relations with the United States.",
+        "Some 400 US agents participated in the immigration raid.",
+        "The South Korean foreign minister is en route to the US."
+      ]
+    },
+    {
+      "id": "cluster_224",
+      "coverage": 3,
+      "updated_at": "Mon, 08 Sep 2025 16:11:13 GMT",
+      "title": "Trump asks Supreme Court to allow billions in foreign aid cuts",
+      "neutral_headline": "Trump Asks Supreme Court to Cut Foreign Aid",
+      "items": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c237vkk10l0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 08 Sep 2025 16:11:13 GMT",
+          "title": "Trump asks Supreme Court to allow billions in foreign aid cuts",
+          "standfirst": "The administration is seeking an emergency order as it tries to claw back funds allocated by Congress.",
+          "content": "The administration is seeking an emergency order as it tries to claw back funds allocated by Congress.",
+          "feed_position": 3,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f0/live/ae6f28f0-8cc2-11f0-b6ff-bfdd1f9c1014.jpg"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2025/9/8/trump-asks-supreme-court-to-let-it-cut-billions-in-foreign-aid?traffic_source=rss",
+          "published_at": "Mon, 08 Sep 2025 15:26:34 +0000",
+          "title": "Trump asks Supreme Court to let it cut billions in foreign aid",
+          "standfirst": "Request comes after an appeals court orders Trump to distribute the congressionally approved funds.",
+          "content": "Request comes after an appeals court orders Trump to distribute the congressionally approved funds.",
+          "feed_position": 9
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/americas/20250908-trump-administration-seeks-supreme-court-order-to-maintain-foreign-aid-spending-freeze",
+          "published_at": "Mon, 08 Sep 2025 14:59:37 GMT",
+          "title": "Trump administration seeks Supreme Court order to maintain foreign aid spending freeze",
+          "standfirst": "The Trump administration on Monday requested an emergency order from the Supreme Court to uphold its decision to withhold nearly $5 billion in foreign aid. The move follows a federal judge’s ruling that the administration’s budget maneouvre – known as a \"pocket rescission\" – likely violates the law as it bypasses Congress’s authority over spending.",
+          "content": "The Trump administration on Monday requested an emergency order from the Supreme Court to uphold its decision to withhold nearly $5 billion in foreign aid. The move follows a federal judge’s ruling that the administration’s budget maneouvre – known as a \"pocket rescission\" – likely violates the law as it bypasses Congress’s authority over spending.",
+          "feed_position": 16,
+          "image_url": "https://s.france24.com/media/display/30fdf6da-8cc2-11f0-8d90-005056a97e36/w:1024/p:16x9/AP24339599300259.jpg"
+        }
+      ],
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f0/live/ae6f28f0-8cc2-11f0-b6ff-bfdd1f9c1014.jpg",
+      "popularity_score": 3016.9298202777777,
+      "ai_summary": [
+        "The Trump administration is seeking an emergency order from the Supreme Court.",
+        "The administration wants to withhold nearly $5 billion in foreign aid.",
+        "An appeals court ordered Trump to distribute the congressionally approved funds.",
+        "The administration's move follows a federal judge's ruling.",
+        "The ruling stated the administration's actions likely violate the law."
+      ]
+    },
+    {
+      "id": "cluster_244",
+      "coverage": 3,
+      "updated_at": "Mon, 08 Sep 2025 14:19:33 GMT",
+      "title": "How a shoot-out ended a four-year search for a NZ bushman and his three children",
+      "neutral_headline": "Fugitive Father Shot Dead After Years on the Run",
+      "items": [
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/articles/cly0279yervo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 08 Sep 2025 14:19:33 GMT",
+          "title": "How a shoot-out ended a four-year search for a NZ bushman and his three children",
+          "standfirst": "After a handful of chance encounters and brief sightings, the fugitive was shot dead on Monday morning.",
+          "content": "After a handful of chance encounters and brief sightings, the fugitive was shot dead on Monday morning.",
+          "feed_position": 15,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84ea/live/c7ac75f0-8cab-11f0-b391-6936825093bd.jpg"
+        },
         {
           "source": "BBC World",
           "url": "https://www.bbc.com/news/articles/c75qlerp2e5o?at_medium=RSS&at_campaign=rss",
@@ -222,15 +756,6 @@
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/344f/live/911309e0-8ca2-11f0-9cf6-cbf3e73ce2b9.jpg"
         },
         {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/tom-phillips-new-zealand-father-on-run-3-years-with-his-kids-shot-dead-by-police/",
-          "published_at": "Mon, 08 Sep 2025 03:59:00 -0400",
-          "title": "New Zealand father on the run almost 4 years with his kids shot dead by police",
-          "standfirst": "Tom Phillips, who evaded authorities with his three kids in remote New Zealand countryside for nearly four years was shot and killed by a police officer",
-          "content": "Tom Phillips, who evaded authorities with his three kids in remote New Zealand countryside for nearly four years was shot and killed by a police officer",
-          "feed_position": 7
-        },
-        {
           "source": "Guardian World",
           "url": "https://www.theguardian.com/world/2025/sep/08/tom-phillips-new-zealand-fugitive-father-shot-dead-nz-police",
           "published_at": "Mon, 08 Sep 2025 07:01:03 GMT",
@@ -240,933 +765,560 @@
           "feed_position": 10
         },
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2025/9/8/new-zealand-father-on-the-run-since-2021-killed-by-police-authorities-say?traffic_source=rss",
-          "published_at": "Mon, 08 Sep 2025 03:44:45 +0000",
-          "title": "Fugitive New Zealand father Tom Phillips killed by police, authorities say",
-          "standfirst": "Man who absconded with his three children in 2021 shot dead after firing on police, authorities say.",
-          "content": "Man who absconded with his three children in 2021 shot dead after firing on police, authorities say.",
-          "feed_position": 20
-        },
-        {
           "source": "Sky News World",
           "url": "https://news.sky.com/story/fugitive-father-on-the-run-with-children-for-nearly-four-years-shot-dead-by-police-13426934",
           "published_at": "Mon, 08 Sep 2025 02:02:00 +0100",
           "title": "Fugitive father shot dead by police after four years on the run with children",
           "standfirst": "A man who had been hiding with his three children in the New Zealand wilderness for nearly four years has been shot dead after an armed confrontation with police.",
           "content": "A man who had been hiding with his three children in the New Zealand wilderness for nearly four years has been shot dead after an armed confrontation with police.",
-          "feed_position": 3,
+          "feed_position": 7,
           "image_url": "https://e3.365dm.com/25/09/1920x1080/skynews-tom-phillips-children_7014095.jpg?20250908071911"
         }
       ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/344f/live/911309e0-8ca2-11f0-9cf6-cbf3e73ce2b9.jpg",
-      "popularity_score": 5018.325979166667,
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84ea/live/c7ac75f0-8cab-11f0-b391-6936825093bd.jpg",
+      "popularity_score": 3015.068709166667,
       "ai_summary": [
-        "Tom Phillips, a fugitive father, was shot dead by New Zealand police.",
-        "Phillips had been on the run with his three children for nearly four years.",
-        "He fled into the wilderness following a custody dispute with their mother.",
-        "Police were investigating an armed burglary when the confrontation occurred.",
-        "The children's whereabouts had attracted global attention since late 2021."
+        "A fugitive father was shot dead by police in New Zealand.",
+        "He had been hiding with his three children for nearly four years.",
+        "Police were investigating an armed burglary when the shooting occurred.",
+        "The father, Tom Phillips, disappeared in 2021 after a custody dispute.",
+        "Phillips was shot after an exchange of fire with police."
       ]
     },
     {
-      "id": "cluster_77",
-      "coverage": 5,
-      "updated_at": "Mon, 08 Sep 2025 09:32:19 GMT",
-      "title": "South Korea says it is helping citizens return voluntarily after huge Hyundai raid",
-      "neutral_headline": "South Korea Aids Citizens After Hyundai Immigration Raid",
+      "id": "cluster_4",
+      "coverage": 2,
+      "updated_at": "Mon, 08 Sep 2025 15:04:53 -0400",
+      "title": "DHS announces \"Operation Midway Blitz\" amid ICE operations in Chicago",
+      "neutral_headline": "DHS Launches Immigration Operation in Chicago",
       "items": [
         {
-          "source": "Reuters Top News",
-          "url": "https://biztoc.com/x/544476eb46952119",
-          "published_at": "Mon, 08 Sep 2025 09:32:19 GMT",
-          "title": "South Korea says it is helping citizens return voluntarily after huge Hyundai raid",
-          "standfirst": "This image from video provided by U.S. Immigration and Customs Enforcement via DVIDS shows manufacturing plant employees waiting to have their legs shackled at the Hyundai Motor Group’s electric vehicle plant, Thursday, Sept. 4, 2025, in Ellabell, Ga. (Corey Bullard/U.S. Immigration and Customs…",
-          "content": "This image from video provided by U.S. Immigration and Customs Enforcement via DVIDS shows manufacturing plant employees waiting to have their legs shackled at the Hyundai Motor Group’s electric vehicle plant, Thursday, Sept. 4, 2025, in Ellabell, Ga. (Corey Bullard/U.S. Immigration and Customs…",
-          "feed_position": 36,
-          "image_url": "https://cdn.biztoc.com/544476eb46952119_sq.webp"
-        },
-        {
-          "source": "NBC World",
-          "url": "https://www.nbcnews.com/world/asia/south-korea-hyundai-raid-return-voluntarily-rcna229759",
-          "published_at": "Mon, 08 Sep 2025 09:19:29 GMT",
-          "title": "South Korea says it is helping citizens return voluntarily after huge Hyundai raid",
-          "standfirst": "The South Korean government said Monday that it was arranging for hundreds of its nationals to leave the United States voluntarily after they were detained in an immigration raid on a Hyundai facility in Georgia that has strained relations with the key U.S. ally",
-          "content": "The South Korean government said Monday that it was arranging for hundreds of its nationals to leave the United States voluntarily after they were detained in an immigration raid on a Hyundai facility in Georgia that has strained relations with the key U.S. ally",
-          "feed_position": 1,
-          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250908-Hyundai-2-rs-4063d8.jpg"
-        },
-        {
-          "source": "Financial Times",
-          "url": "https://www.ft.com/content/97e42e98-46ee-4752-b80e-ea0ca947c813",
-          "published_at": "Mon, 08 Sep 2025 02:29:43 GMT",
-          "title": "Trump warns multinationals to respect immigration laws after Hyundai crackdown",
-          "standfirst": "Arrest of hundreds of South Korean workers in state of Georgia marks dramatic escalation in raids",
-          "content": "Arrest of hundreds of South Korean workers in state of Georgia marks dramatic escalation in raids",
-          "feed_position": 0,
-          "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e792429-fea1-4de8-b58c-ed940ba19b7c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c5yqg0rln74o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 07 Sep 2025 23:14:55 GMT",
-          "title": "South Korean worker tells BBC of panic during US immigration raid at Hyundai plant",
-          "standfirst": "Some 400 US agents took part in the immigration raid on the Hyundai facility, detaining hundreds of workers, many South Korean nationals.",
-          "content": "Some 400 US agents took part in the immigration raid on the Hyundai facility, detaining hundreds of workers, many South Korean nationals.",
-          "feed_position": 5,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6815/live/f34693f0-8c95-11f0-9cf6-cbf3e73ce2b9.png"
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/operation-midway-blitz-chicago-ice-operations-immigration-crackdown/",
+          "published_at": "Mon, 08 Sep 2025 15:04:53 -0400",
+          "title": "DHS announces \"Operation Midway Blitz\" amid ICE operations in Chicago",
+          "standfirst": "President Donald Trump has amplified his promises to send National Guard troops and immigration agents to Chicago by posting a parody image from \"Apocalypse Now\" featuring a ball of flames as helicopters zoom over the nation&#039;s third-largest city.",
+          "content": "President Donald Trump has amplified his promises to send National Guard troops and immigration agents to Chicago by posting a parody image from \"Apocalypse Now\" featuring a ball of flames as helicopters zoom over the nation&#039;s third-largest city.",
+          "feed_position": 0
         },
         {
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/south-korea-reached-deal-us-release-workers-detained-ice/",
-          "published_at": "Sun, 07 Sep 2025 09:25:57 -0400",
-          "title": "South Korea says it reached a deal to release workers detained in ICE raid",
-          "standfirst": "South Korea says it reached a deal with the U.S. to release more than 300 South Koreans detained in an immigration enforcement raid at a Georgia Hyundai plant.",
-          "content": "South Korea says it reached a deal with the U.S. to release more than 300 South Koreans detained in an immigration enforcement raid at a Georgia Hyundai plant.",
-          "feed_position": 23
-        },
-        {
-          "source": "NBC World",
-          "url": "https://www.nbcnews.com/world/south-korea/south-korea-immigration-raid-hyundai-georgia-efforts-rcna229509",
-          "published_at": "Sat, 06 Sep 2025 12:18:23 GMT",
-          "title": "South Korea vows 'all-out efforts' to help hundreds detained in Hyundai raid",
-          "standfirst": "South Korean President Lee Jae Myung ordered all out efforts to respond to the arrests of its citizens in an immigration raid on a Hyundai facility in Georgia.",
-          "content": "South Korean President Lee Jae Myung ordered all out efforts to respond to the arrests of its citizens in an immigration raid on a Hyundai facility in Georgia.",
-          "feed_position": 13,
-          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250905-Hyundai-atf-raid-se-1056-b9f4d9.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.biztoc.com/544476eb46952119_sq.webp",
-      "popularity_score": 5018.2723680555555,
-      "ai_summary": [
-        "South Korea is helping its citizens return voluntarily after a Hyundai raid.",
-        "Hundreds of South Korean nationals were detained in a U.S. immigration raid.",
-        "The raid occurred at a Hyundai facility in Georgia, causing strained relations.",
-        "The South Korean government reached a deal for the release of workers.",
-        "South Korea vowed to provide all-out efforts to help its detained citizens."
-      ]
-    },
-    {
-      "id": "cluster_75",
-      "coverage": 4,
-      "updated_at": "Mon, 08 Sep 2025 09:33:30 GMT",
-      "title": "Five key moments from MTV VMAs as Lady Gaga and Ariana Grande win big",
-      "neutral_headline": "MTV VMAs 2025 Winners Announced in New York",
-      "items": [
-        {
-          "source": "BBC Top Stories",
-          "url": "https://www.bbc.com/news/articles/c5yk5jw6w5ro?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 08 Sep 2025 09:33:30 GMT",
-          "title": "Five key moments from MTV VMAs as Lady Gaga and Ariana Grande win big",
-          "standfirst": "Sabrina Carpener was also among the award winners and performers on the night in New York.",
-          "content": "Sabrina Carpener was also among the award winners and performers on the night in New York.",
-          "feed_position": 4,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b265/live/b2e3d910-8c7e-11f0-b9c4-a3b4b411f023.jpg"
+          "url": "https://www.cbsnews.com/video/trump-downplays-war-comments-about-chicago-as-dhs-announces-ice-operation-in-the-city/",
+          "published_at": "Mon, 08 Sep 2025 14:40:00 -0400",
+          "title": "DHS announces ICE operation in Chicago as Trump downplays \"war\" comments about city",
+          "standfirst": "President Trump on Monday continued to push for the deployment of National Guard troops to Chicago to crack down on crime. Meanwhile, the Department of Homeland Security announced that it is launching a new immigration operation in the Windy City. CBS News White House reporter Olivia Rinaldi has more.",
+          "content": "President Trump on Monday continued to push for the deployment of National Guard troops to Chicago to crack down on crime. Meanwhile, the Department of Homeland Security announced that it is launching a new immigration operation in the Windy City. CBS News White House reporter Olivia Rinaldi has more.",
+          "feed_position": 6
         },
         {
           "source": "Reuters Top News",
-          "url": "https://biztoc.com/x/97771798794cd984",
-          "published_at": "Mon, 08 Sep 2025 09:20:54 GMT",
-          "title": "MTV VMAs Winners 2025: Full List From Lady Gaga to Ariana Grande",
-          "standfirst": "The 2025 MTV Video Music Awards, hosted by LL Cool J, took place on Sunday in New York.",
-          "content": "The 2025 MTV Video Music Awards, hosted by LL Cool J, took place on Sunday in New York.",
-          "feed_position": 46
-        },
+          "url": "https://biztoc.com/x/b35409356b808ea1",
+          "published_at": "Mon, 08 Sep 2025 17:43:59 GMT",
+          "title": "DHS launches ‘Operation Midway Blitz’ in Chicago amid Trump’s crackdown",
+          "standfirst": "Today the Department of Homeland Security announced its launching an immigration crackdown in Chicago dubbed &#34;Operation Midway Blitz.&#34; NBC News’ Shaquille Brewster reports more. MSNBC Political Analyst Eugene Robinson joins Chris Jansing to share his reaction.",
+          "content": "Today the Department of Homeland Security announced its launching an immigration crackdown in Chicago dubbed &#34;Operation Midway Blitz.&#34; NBC News’ Shaquille Brewster reports more. MSNBC Political Analyst Eugene Robinson joins Chris Jansing to share his reaction.",
+          "feed_position": 137,
+          "image_url": "https://cdn.biztoc.com/b35409356b808ea1_sq.webp"
+        }
+      ],
+      "featured_image": "https://cdn.biztoc.com/b35409356b808ea1_sq.webp",
+      "popularity_score": 2019.8242647222223,
+      "ai_summary": [
+        "The Department of Homeland Security launched \"Operation Midway Blitz\" in Chicago.",
+        "President Trump pushed for National Guard troops in Chicago.",
+        "The operation is an immigration crackdown in the city.",
+        "Trump downplayed comments about a \"war\" in Chicago.",
+        "The DHS announced the operation amid Trump's crackdown."
+      ]
+    },
+    {
+      "id": "cluster_10",
+      "coverage": 2,
+      "updated_at": "Mon, 08 Sep 2025 14:54:38 -0400",
+      "title": "Supreme Court allows sweeping immigration stops in Los Angeles area",
+      "neutral_headline": "Supreme Court Allows Immigration Stops in Los Angeles",
+      "items": [
         {
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/videos/crl5ngr2069o?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 08 Sep 2025 09:04:06 GMT",
-          "title": "Watch: Glitz, glamour and emotional speeches at VMAs 2025",
-          "standfirst": "The MTV Video Music Awards (VMAs) have taken place in New York, with high profile figures in the music industry taking to the red carpet.",
-          "content": "The MTV Video Music Awards (VMAs) have taken place in New York, with high profile figures in the music industry taking to the red carpet.",
-          "feed_position": 17,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bc8/live/9e660230-8c90-11f0-9cf6-cbf3e73ce2b9.jpg"
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/supreme-court-los-angeles-immigration-stops/",
+          "published_at": "Mon, 08 Sep 2025 14:54:38 -0400",
+          "title": "Supreme Court allows sweeping immigration stops in Los Angeles area",
+          "standfirst": "The Supreme Court froze a lower court order that prevented immigration authorities from stopping people without reasonable suspicion that they are in the U.S. unlawfully.",
+          "content": "The Supreme Court froze a lower court order that prevented immigration authorities from stopping people without reasonable suspicion that they are in the U.S. unlawfully.",
+          "feed_position": 4
         },
         {
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/vma-winners-2025-list/",
-          "published_at": "Sun, 07 Sep 2025 23:45:20 -0400",
-          "title": "Who won MTV Video Music Awards for 2025? See the full winners list here",
-          "standfirst": "See the full list of winners and nominees for the 2025 MTV Video Music Awards.",
-          "content": "See the full list of winners and nominees for the 2025 MTV Video Music Awards.",
-          "feed_position": 9
+          "url": "https://www.cbsnews.com/video/supreme-court-clears-way-for-sweeping-la-immigration-stops-to-continue/",
+          "published_at": "Mon, 08 Sep 2025 13:32:00 -0400",
+          "title": "Supreme Court clears way for sweeping L.A. immigration stops to continue",
+          "standfirst": "The Supreme Court allowed the Trump administration to continue its sweeping immigration stops in the Los Angeles area after they were briefly halted. CBS News immigration reporter Camilo Montoya-Galvez has more.",
+          "content": "The Supreme Court allowed the Trump administration to continue its sweeping immigration stops in the Los Angeles area after they were briefly halted. CBS News immigration reporter Camilo Montoya-Galvez has more.",
+          "feed_position": 16
+        },
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/10fb59a65b1277da",
+          "published_at": "Mon, 08 Sep 2025 17:10:13 GMT",
+          "title": "Sotomayor Blasts Supreme Court's 'Unconscionably Irreconcilable' Decision",
+          "standfirst": "Voice is AI-generated. Inconsistencies may occur. Justice Sonia Sotomayor delivered a stinging rebuke of the Supreme Court's decision to clear the way to allow sweeping immigration operations in Los Angeles. &#34;Countless people in the Los Angeles area have been grabbed, thrown to the ground, and…",
+          "content": "Voice is AI-generated. Inconsistencies may occur. Justice Sonia Sotomayor delivered a stinging rebuke of the Supreme Court's decision to clear the way to allow sweeping immigration operations in Los Angeles. &#34;Countless people in the Los Angeles area have been grabbed, thrown to the ground, and…",
+          "feed_position": 165,
+          "image_url": "https://cdn.biztoc.com/10fb59a65b1277da_sq.webp"
         }
       ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b265/live/b2e3d910-8c7e-11f0-b9c4-a3b4b411f023.jpg",
-      "popularity_score": 4018.292090277778,
+      "featured_image": "https://cdn.biztoc.com/10fb59a65b1277da_sq.webp",
+      "popularity_score": 2019.653431388889,
       "ai_summary": [
-        "The 2025 MTV Video Music Awards took place in New York.",
-        "Lady Gaga and Ariana Grande were among the big winners.",
-        "LL Cool J hosted the awards ceremony.",
-        "Sabrina Carpenter was also among the award winners and performers.",
-        "The event featured glitz, glamour, and emotional speeches."
+        "The Supreme Court allowed sweeping immigration stops in Los Angeles.",
+        "The court froze a lower court order.",
+        "The lower court order prevented immigration authorities from stopping people.",
+        "Justice Sotomayor criticized the court's decision.",
+        "The decision allows immigration operations to continue."
       ]
     },
     {
-      "id": "cluster_149",
-      "coverage": 4,
-      "updated_at": "Mon, 08 Sep 2025 09:09:33 GMT",
-      "title": "In rare ruling, Israeli Supreme Court says Israel deprives Palestinian prisoners of food",
-      "neutral_headline": "Israel's Top Court Rules on Palestinian Prisoner Food",
+      "id": "cluster_12",
+      "coverage": 2,
+      "updated_at": "Mon, 08 Sep 2025 18:53:20 GMT",
+      "title": "Heathrow airport terminal evacuated because of possible hazardous materials",
+      "neutral_headline": "Heathrow Terminal Evacuated Due to Incident",
       "items": [
-        {
-          "source": "Reuters Top News",
-          "url": "https://biztoc.com/x/37a2d10e88e8f652",
-          "published_at": "Mon, 08 Sep 2025 09:09:33 GMT",
-          "title": "In rare ruling, Israeli Supreme Court says Israel deprives Palestinian prisoners of food",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 51
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2025/9/8/israel-depriving-palestinian-prisoners-of-food-its-supreme-court-rules?traffic_source=rss",
-          "published_at": "Mon, 08 Sep 2025 06:57:11 +0000",
-          "title": "Israel depriving Palestinian prisoners of food, its Supreme Court rules",
-          "standfirst": "Israel&#039;s highest court says Palestinian prisoners are being deliberately starved in harsh prison conditions.",
-          "content": "Israel&#039;s highest court says Palestinian prisoners are being deliberately starved in harsh prison conditions.",
-          "feed_position": 13
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c1mxlk518vko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 08 Sep 2025 02:53:54 GMT",
-          "title": "Palestinian prisoners not being given adequate food, Israel top court says",
-          "standfirst": "The court said the state is legally obligated to provide enough food to ensure \"a basic level of existence.\"",
-          "content": "The court said the state is legally obligated to provide enough food to ensure \"a basic level of existence.\"",
-          "feed_position": 8,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/871c/live/9776dda0-8c4f-11f0-84c8-99de564f0440.jpg"
-        },
         {
           "source": "Guardian World",
-          "url": "https://www.theguardian.com/world/2025/sep/07/israels-supreme-court-says-government-is-not-giving-palestinian-prisoners-enough-food",
-          "published_at": "Sun, 07 Sep 2025 19:07:35 GMT",
-          "title": "Israel’s top court says government is not giving Palestinian prisoners enough food",
-          "standfirst": "Justices rule state is legally obliged to ensure ‘basic level of existence’ and orders authorities to improve nutritionIsrael’s supreme court has ruled that the government has failed to provide Palestinian security prisoners with adequate food for basic subsistence and ordered authorities to improve their nutrition.Sunday’s decision was a rare case in which the country’s highest court ruled against the government’s conduct during the nearly two-year war. Continue reading...",
-          "content": "Justices rule state is legally obliged to ensure ‘basic level of existence’ and orders authorities to improve nutritionIsrael’s supreme court has ruled that the government has failed to provide Palestinian security prisoners with adequate food for basic subsistence and ordered authorities to improve their nutrition.Sunday’s decision was a rare case in which the country’s highest court ruled against the government’s conduct during the nearly two-year war. Continue reading...",
-          "feed_position": 29
+          "url": "https://www.theguardian.com/travel/2025/sep/08/heathrow-airport-terminal-evacuated-because-of-possible-hazardous-material",
+          "published_at": "Mon, 08 Sep 2025 18:53:20 GMT",
+          "title": "Heathrow airport terminal evacuated because of possible hazardous materials",
+          "standfirst": "Passengers asked not to travel to Terminal 4, which is closed while emergency services respondA terminal at Heathrow airport has been evacuated as firefighters respond to a “possible hazardous materials incident”, London fire brigade said.In a post on X, the airport advised passengers not to travel to Terminal 4 as emergency services responded to an incident on Monday evening. Continue reading...",
+          "content": "Passengers asked not to travel to Terminal 4, which is closed while emergency services respondA terminal at Heathrow airport has been evacuated as firefighters respond to a “possible hazardous materials incident”, London fire brigade said.In a post on X, the airport advised passengers not to travel to Terminal 4 as emergency services responded to an incident on Monday evening. Continue reading...",
+          "feed_position": 35
+        },
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/59106295c5143775",
+          "published_at": "Mon, 08 Sep 2025 18:06:25 GMT",
+          "title": "Heathrow terminal closed amid safety concerns",
+          "standfirst": "Heathrow Airport announced on Monday that it has closed and evacuated its Terminal 4 &#34;while emergency services respond to an incident.&#34;Meanwhile, the London Fire Brigade said that its teams &#34;are respo...",
+          "content": "Heathrow Airport announced on Monday that it has closed and evacuated its Terminal 4 &#34;while emergency services respond to an incident.&#34;Meanwhile, the London Fire Brigade said that its teams &#34;are respo...",
+          "feed_position": 22,
+          "image_url": "https://cdn.biztoc.com/59106295c5143775_sq.webp"
         }
       ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/871c/live/9776dda0-8c4f-11f0-84c8-99de564f0440.jpg",
-      "popularity_score": 4017.892923611111,
+      "featured_image": "https://cdn.biztoc.com/59106295c5143775_sq.webp",
+      "popularity_score": 2019.6317647222222,
       "ai_summary": [
-        "Israel's Supreme Court ruled on the food provided to Palestinian prisoners.",
-        "The court stated Israel is legally obligated to provide adequate food.",
-        "The court ordered authorities to improve the prisoners' nutrition.",
-        "The ruling was a rare instance against the government's conduct.",
-        "The court said the state must ensure a basic level of existence."
+        "Heathrow Airport Terminal 4 was evacuated.",
+        "The evacuation was due to a possible hazardous materials incident.",
+        "Passengers were advised not to travel to Terminal 4.",
+        "Emergency services responded to the incident.",
+        "The London Fire Brigade was also on the scene."
       ]
     },
     {
-      "id": "cluster_176",
-      "coverage": 4,
-      "updated_at": "Mon, 08 Sep 2025 08:47:45 GMT",
-      "title": "Alcaraz beats rival Sinner at the US Open for a sixth Slam title and the No. 1 ranking",
-      "neutral_headline": "Alcaraz Wins US Open, Secures World Number One",
+      "id": "cluster_21",
+      "coverage": 2,
+      "updated_at": "Mon, 08 Sep 2025 14:29:20 -0400",
+      "title": "Man charged in retired Auburn professor&#039;s murder in Alabama",
+      "neutral_headline": "Man Charged in Auburn Professor's Murder",
       "items": [
-        {
-          "source": "Reuters Top News",
-          "url": "https://biztoc.com/x/2810bf96b84762a4",
-          "published_at": "Mon, 08 Sep 2025 08:47:45 GMT",
-          "title": "Alcaraz beats rival Sinner at the US Open for a sixth Slam title and the No. 1 ranking",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 107
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/tv-shows/sports/20250908-carlos-alcaraz-dominates-jannik-sinner-in-us-open-final-to-win-6th-grand-slam",
-          "published_at": "Mon, 08 Sep 2025 05:07:41 GMT",
-          "title": "Carlos Alcaraz dominates Jannik Sinner in US Open final to win 6th grand slam",
-          "standfirst": "Carlos Alcaraz defeated Jannik Sinner in the US Open final. He claims his sixth Grand Slam title.",
-          "content": "Carlos Alcaraz defeated Jannik Sinner in the US Open final. He claims his sixth Grand Slam title.",
-          "feed_position": 13,
-          "image_url": "https://s.france24.com/media/display/1fbb253c-8c4a-11f0-a80e-005056a90284/w:1024/p:16x9/J24-Alcaraz.jpg"
-        },
         {
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/jannik-sinner-carlos-alcaraz-us-open-final-winner/",
-          "published_at": "Sun, 07 Sep 2025 22:13:25 -0400",
-          "title": "Carlos Alcaraz claims 2nd U.S. Open trophy",
-          "standfirst": "Carlos Alcaraz claimed his sixth major trophy overall at the U.S. Open on Sunday after defeating No. 1 Jannik Sinner.",
-          "content": "Carlos Alcaraz claimed his sixth major trophy overall at the U.S. Open on Sunday after defeating No. 1 Jannik Sinner.",
-          "feed_position": 11
+          "url": "https://www.cbsnews.com/news/auburn-professor-stabbed-death-walking-dog-man-charge-murder/",
+          "published_at": "Mon, 08 Sep 2025 14:29:20 -0400",
+          "title": "Man charged in retired Auburn professor&#039;s murder in Alabama",
+          "standfirst": "A retired Auburn University professor was stabbed to death in a public park near the school in Alabama on Saturday, according to police and the university.",
+          "content": "A retired Auburn University professor was stabbed to death in a public park near the school in Alabama on Saturday, according to police and the university.",
+          "feed_position": 10
         },
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2025/9/7/alcaraz-beats-sinner-to-lift-us-open-2025-as-trump-watches-on?traffic_source=rss",
-          "published_at": "Sun, 07 Sep 2025 22:32:35 +0000",
-          "title": "Alcaraz beats Sinner to lift US Open 2025 trophy as Trump watches on",
-          "standfirst": "Alcaraz returns to number one spot after winning his sixth Grand Slam title and second of 2025 in four sets in New York.",
-          "content": "Alcaraz returns to number one spot after winning his sixth Grand Slam title and second of 2025 in four sets in New York.",
-          "feed_position": 24
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/live-news/20250907-alcaraz-beats-sinner-to-win-us-open-title-and-secure-world-number-one-ranking",
-          "published_at": "Sun, 07 Sep 2025 21:39:05 GMT",
-          "title": "Alcaraz beats Sinner to win US Open title, secures world number one ranking",
-          "standfirst": "Carlos Alcaraz defeated Jannik Sinner in four sets to win his second US Open title and reclaim the world number one ranking on Sunday. The 22-year-old Spaniard produced a dazzling display of athleticism and shot-making to overpower Sinner in their third Grand Slam final of the season.",
-          "content": "Carlos Alcaraz defeated Jannik Sinner in four sets to win his second US Open title and reclaim the world number one ranking on Sunday. The 22-year-old Spaniard produced a dazzling display of athleticism and shot-making to overpower Sinner in their third Grand Slam final of the season.",
-          "feed_position": 19,
-          "image_url": "https://s.france24.com/media/display/f08d6588-8c38-11f0-9199-005056bfb2b6/w:1024/p:16x9/AP25250793658340.jpg"
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/249a366214fcad33",
+          "published_at": "Mon, 08 Sep 2025 17:21:41 GMT",
+          "title": "Who Is Julie Gard Schnuelle? Alabama Vet Killed While Walking Dog",
+          "standfirst": "Voice is AI-generated. Inconsistencies may occur. Police have charged Harold Rashad Dabney III with two counts of capital murder after the body of Dr. Julie Gard Schnuelle, a retired Auburn University veterinary professor, was found Saturday in a wooded area of Kiesel Park in Auburn, Alabama. Why…",
+          "content": "Voice is AI-generated. Inconsistencies may occur. Police have charged Harold Rashad Dabney III with two counts of capital murder after the body of Dr. Julie Gard Schnuelle, a retired Auburn University veterinary professor, was found Saturday in a wooded area of Kiesel Park in Auburn, Alabama. Why…",
+          "feed_position": 130,
+          "image_url": "https://cdn.biztoc.com/249a366214fcad33_sq.webp"
         }
       ],
-      "featured_image": "https://s.france24.com/media/display/1fbb253c-8c4a-11f0-a80e-005056a90284/w:1024/p:16x9/J24-Alcaraz.jpg",
-      "popularity_score": 4017.529590277778,
+      "featured_image": "https://cdn.biztoc.com/249a366214fcad33_sq.webp",
+      "popularity_score": 2019.2317647222221,
       "ai_summary": [
-        "Carlos Alcaraz defeated Jannik Sinner in the US Open final.",
-        "Alcaraz won his sixth Grand Slam title overall.",
-        "He reclaimed the world number one ranking.",
-        "The match was played in four sets.",
-        "Alcaraz produced a dazzling display of athleticism."
-      ]
-    },
-    {
-      "id": "cluster_254",
-      "coverage": 4,
-      "updated_at": "Mon, 08 Sep 2025 06:30:57 +0000",
-      "title": "‘Blood moon’ rises during total lunar eclipse",
-      "neutral_headline": "Blood Moon Dazzles Sky-gazers Worldwide",
-      "items": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/gallery/2025/9/8/blood-moon-rises-during-total-lunar-eclipse?traffic_source=rss",
-          "published_at": "Mon, 08 Sep 2025 06:30:57 +0000",
-          "title": "‘Blood moon’ rises during total lunar eclipse",
-          "standfirst": "A total lunar eclipse brought a &#039;blood moon&#039; over Asia, Europe, and Africa as stargazers marvelled at the sight.",
-          "content": "A total lunar eclipse brought a &#039;blood moon&#039; over Asia, Europe, and Africa as stargazers marvelled at the sight.",
-          "feed_position": 15
-        },
-        {
-          "source": "Sky News World",
-          "url": "https://news.sky.com/story/blood-moon-captured-in-photos-across-the-world-13426948",
-          "published_at": "Mon, 08 Sep 2025 05:04:00 +0100",
-          "title": "In pictures: Blood moon dazzles across the world",
-          "standfirst": "Stargazers across the globe got the chance to see a total lunar eclipse - called a blood&#160;moon - on Sunday night and early on Monday.",
-          "content": "Stargazers across the globe got the chance to see a total lunar eclipse - called a blood&#160;moon - on Sunday night and early on Monday.",
-          "feed_position": 5,
-          "image_url": "https://e3.365dm.com/25/09/1920x1080/skynews-blood-moon-liverpool_7014064.jpg?20250908053226"
-        },
-        {
-          "source": "BBC Top Stories",
-          "url": "https://www.bbc.com/news/articles/cx25nyjl4pdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 07 Sep 2025 21:02:33 GMT",
-          "title": "In pictures: Blood Moon captivates sky-gazers around the world",
-          "standfirst": "During a total lunar eclipse the Moon passes through the Earth's shadow, taking on a deep red hue.",
-          "content": "During a total lunar eclipse the Moon passes through the Earth's shadow, taking on a deep red hue.",
-          "feed_position": 11,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5cb/live/69218780-8c76-11f0-9cf6-cbf3e73ce2b9.png"
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/videos/c93071yz5zzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Sun, 07 Sep 2025 19:00:54 GMT",
-          "title": "Timelapse shows Blood Moon rising around the world",
-          "standfirst": "As the Moon passes through the Earth's shadow, it takes on a deep red hue, creating a striking \"Blood Moon\".",
-          "content": "As the Moon passes through the Earth's shadow, it takes on a deep red hue, creating a striking \"Blood Moon\".",
-          "feed_position": 19,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d77/live/5c764ae0-8c1a-11f0-9cf6-cbf3e73ce2b9.jpg"
-        }
-      ],
-      "featured_image": "https://e3.365dm.com/25/09/1920x1080/skynews-blood-moon-liverpool_7014064.jpg?20250908053226",
-      "popularity_score": 4015.2495902777778,
-      "ai_summary": [
-        "A total lunar eclipse, a \"blood moon,\" was visible worldwide.",
-        "The moon took on a deep red hue during the eclipse.",
-        "Stargazers across the globe witnessed the celestial event.",
-        "The moon passed through the Earth's shadow.",
-        "The event was captured in time-lapse photography."
-      ]
-    },
-    {
-      "id": "cluster_6",
-      "coverage": 3,
-      "updated_at": "Mon, 08 Sep 2025 11:03:11 GMT",
-      "title": "Trump tells foreign firms to ‘respect’ immigration laws after Hyundai raid – US politics live",
-      "neutral_headline": "Trump Issues \"Last Warning\" to Hamas",
-      "items": [
-        {
-          "source": "Guardian World",
-          "url": "https://www.theguardian.com/us-news/live/2025/sep/08/donald-trump-immigration-hyundai-tariffs-us-politics-live-news-updates",
-          "published_at": "Mon, 08 Sep 2025 11:03:11 GMT",
-          "title": "Trump tells foreign firms to ‘respect’ immigration laws after Hyundai raid – US politics live",
-          "standfirst": "President says he welcomes investments by overseas companies but adds they should ‘hire and train American workers’Donald Trump on Sunday issued what he called his “last warning” to Hamas, urging the Palestinian militant group to accept a deal to release hostages from Gaza.“The Israelis have accepted my Terms. It is time for Hamas to accept as well,” Trump said in a post on his Truth Social platform. “I have warned Hamas about the consequences of not accepting. This is my last warning, there will not be another one!” Continue reading...",
-          "content": "President says he welcomes investments by overseas companies but adds they should ‘hire and train American workers’Donald Trump on Sunday issued what he called his “last warning” to Hamas, urging the Palestinian militant group to accept a deal to release hostages from Gaza.“The Israelis have accepted my Terms. It is time for Hamas to accept as well,” Trump said in a post on his Truth Social platform. “I have warned Hamas about the consequences of not accepting. This is my last warning, there will not be another one!” Continue reading...",
-          "feed_position": 40
-        },
-        {
-          "source": "Guardian World",
-          "url": "https://www.theguardian.com/us-news/2025/sep/07/trump-gaza-israeli-hostages",
-          "published_at": "Mon, 08 Sep 2025 00:01:42 GMT",
-          "title": "Trump issues ‘last warning’ to Hamas to accept Gaza ceasefire deal",
-          "standfirst": "President says ‘the Israelis have accepted my terms’ and urges release of hostages to secure peace agreementDonald Trump on Sunday issued what he called his “last warning” to Hamas, urging the Palestinian militant group to accept a deal to release hostages from Gaza.“The Israelis have accepted my Terms. It is time for Hamas to accept as well,” Trump said in a post on his Truth Social platform. “I have warned Hamas about the consequences of not accepting. This is my last warning, there will not be another one!” Continue reading...",
-          "content": "President says ‘the Israelis have accepted my terms’ and urges release of hostages to secure peace agreementDonald Trump on Sunday issued what he called his “last warning” to Hamas, urging the Palestinian militant group to accept a deal to release hostages from Gaza.“The Israelis have accepted my Terms. It is time for Hamas to accept as well,” Trump said in a post on his Truth Social platform. “I have warned Hamas about the consequences of not accepting. This is my last warning, there will not be another one!” Continue reading...",
-          "feed_position": 28
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/middle-east/20250907-hamas-trump-hostages-israel-gaza",
-          "published_at": "Sun, 07 Sep 2025 23:13:39 GMT",
-          "title": "Trump issues ultimatum over hostages, Hamas says ready to negotiate",
-          "standfirst": "US President Donald Trump on Sunday issued a “last warning” to Hamas, urging the Palestinian group to accept a hostage-release deal in Gaza. In a statement released shortly after, Hamas said it was ready to \"immediately sit at the negotiating table\".",
-          "content": "US President Donald Trump on Sunday issued a “last warning” to Hamas, urging the Palestinian group to accept a hostage-release deal in Gaza. In a statement released shortly after, Hamas said it was ready to \"immediately sit at the negotiating table\".",
-          "feed_position": 18,
-          "image_url": "https://s.france24.com/media/display/a87e9626-8b21-11f0-aff1-005056bf30b7/w:1024/p:16x9/000-73HZ8CX.jpg"
-        },
-        {
-          "source": "NBC World",
-          "url": "https://www.nbcnews.com/politics/politics-news/trump-issues-last-warning-hamas-accept-hostage-deal-rcna229686",
-          "published_at": "Sun, 07 Sep 2025 21:30:16 GMT",
-          "title": "Trump issues 'last warning' to Hamas to accept hostage deal",
-          "standfirst": "President Donald Trump has delivered what he called a “last warning” to Hamas, urging the group to accept a U.S.-backed proposal to release hostages from Gaza — a deal he said Israel has already endorsed",
-          "content": "President Donald Trump has delivered what he called a “last warning” to Hamas, urging the group to accept a U.S.-backed proposal to release hostages from Gaza — a deal he said Israel has already endorsed",
-          "feed_position": 2,
-          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250907-Trump-aa-405-c40dd2.jpg"
-        }
-      ],
-      "featured_image": "https://s.france24.com/media/display/a87e9626-8b21-11f0-aff1-005056bf30b7/w:1024/p:16x9/000-73HZ8CX.jpg",
-      "popularity_score": 3019.7868125,
-      "ai_summary": [
-        "Donald Trump issued a \"last warning\" to Hamas.",
-        "He urged Hamas to accept a hostage-release deal in Gaza.",
-        "Trump stated that Israel had already accepted his terms.",
-        "Hamas said it was ready to negotiate immediately.",
-        "Trump warned Hamas about the consequences of non-acceptance."
+        "A man was charged in the murder of a retired Auburn professor.",
+        "The professor was stabbed to death in a public park.",
+        "The murder occurred in Auburn, Alabama.",
+        "The retired professor was a veterinary professor.",
+        "The accused was charged with two counts of capital murder."
       ]
     },
     {
       "id": "cluster_32",
-      "coverage": 3,
-      "updated_at": "Mon, 08 Sep 2025 06:00:17 -0400",
-      "title": "Trial to begin today for man accused of Trump assassination attempt",
-      "neutral_headline": "Trial Begins for Man Accused of Trump Assassination Attempt",
+      "coverage": 2,
+      "updated_at": "Mon, 08 Sep 2025 18:17:46 GMT",
+      "title": "$83M verdict stands: Appeals court slams Trump’s attacks on E. Jean Carroll as ‘extraordinary and egregious’",
+      "neutral_headline": "Appeals Court Upholds E. Jean Carroll's $83.3 Million Judgment Against Trump",
       "items": [
         {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ryan-routh-trial-jury-selection-trump-assassination-attempt/",
-          "published_at": "Mon, 08 Sep 2025 06:00:17 -0400",
-          "title": "Trial to begin today for man accused of Trump assassination attempt",
-          "standfirst": "Ryan Routh, 59, has pleaded not guilty to charges of attempting to assassinate a major presidential candidate and will be representing himself at the trial.",
-          "content": "Ryan Routh, 59, has pleaded not guilty to charges of attempting to assassinate a major presidential candidate and will be representing himself at the trial.",
-          "feed_position": 4
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/8e93e90d02a2273f",
+          "published_at": "Mon, 08 Sep 2025 18:17:46 GMT",
+          "title": "$83M verdict stands: Appeals court slams Trump’s attacks on E. Jean Carroll as ‘extraordinary and egregious’",
+          "standfirst": "A federal appeals court on Monday upheld a civil jury’s finding that President Donald Trump must pay $83.3 million to E. Jean Carroll for his repeated social media attacks and public statements against the longtime advice columnist after she accused him of sexual assault. A three-judge panel of…",
+          "content": "A federal appeals court on Monday upheld a civil jury’s finding that President Donald Trump must pay $83.3 million to E. Jean Carroll for his repeated social media attacks and public statements against the longtime advice columnist after she accused him of sexual assault. A three-judge panel of…",
+          "feed_position": 2,
+          "image_url": "https://cdn.biztoc.com/8e93e90d02a2273f_sq.webp"
         },
         {
-          "source": "NPR News",
-          "url": "https://www.npr.org/2025/09/08/nx-s1-5529947/ryan-routh-trump-attempted-assassination-trial-begins",
-          "published_at": "Mon, 08 Sep 2025 05:00:00 -0400",
-          "title": "Trial begins for man charged with attempting to assassinate Trump",
-          "standfirst": "Ryan Routh was arrested after a Secret Service agent spotted him holding a gun and fired on him when Trump was golfing at his West Palm Beach golf club in September. He faces up to life in prison.",
-          "content": "Ryan Routh was arrested after a Secret Service agent spotted him holding a gun and fired on him when Trump was golfing at his West Palm Beach golf club in September. He faces up to life in prison.(Image credit: Efrem Lukatsky)",
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/5fe921c038317a55",
+          "published_at": "Mon, 08 Sep 2025 17:54:54 GMT",
+          "title": "Appeals court upholds $83.3 million verdict against Trump for defaming E. Jean Carroll",
+          "standfirst": "A federal appeals court on Monday upheld a civil jury’s finding that President Donald Trump must pay $83.3 million to E. Jean Carroll for his repeated social media attacks against the longtime advice columnist after she accused him of sexual assault. A three-judge panel of the 2nd U.S. Circuit…",
+          "content": "A federal appeals court on Monday upheld a civil jury’s finding that President Donald Trump must pay $83.3 million to E. Jean Carroll for his repeated social media attacks against the longtime advice columnist after she accused him of sexual assault. A three-judge panel of the 2nd U.S. Circuit…",
+          "feed_position": 134,
+          "image_url": "https://cdn.biztoc.com/5fe921c038317a55_sq.webp"
+        },
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/045117b1ee523943",
+          "published_at": "Mon, 08 Sep 2025 17:21:11 GMT",
+          "title": "Appeals Court Upholds E. Jean Carroll's $83.3 Million Judgment Against Trump",
+          "standfirst": "Appeals Court Upholds E. Jean Carroll's $83.3 Million Judgment Against Trump Via Headline USA, A federal appeals court has upheld a civil jury’s finding that President Donald Trump must pay $83.3 million to E. Jean Carroll for his repeated social media attacks against the longtime advice…",
+          "content": "Appeals Court Upholds E. Jean Carroll's $83.3 Million Judgment Against Trump Via Headline USA, A federal appeals court has upheld a civil jury’s finding that President Donald Trump must pay $83.3 million to E. Jean Carroll for his repeated social media attacks against the longtime advice…",
+          "feed_position": 117,
+          "image_url": "https://cdn.biztoc.com/045117b1ee523943_sq.webp"
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2025/9/8/us-court-upholds-sexual-assault-defamation-order-against-trump?traffic_source=rss",
+          "published_at": "Mon, 08 Sep 2025 15:48:18 +0000",
+          "title": "US court upholds sexual assault defamation order against Trump",
+          "standfirst": "Appeals court upholds $83.3m verdict against Donald Trump for defaming E Jean Carroll over 2019 sexual assault claims.",
+          "content": "Appeals court upholds $83.3m verdict against Donald Trump for defaming E Jean Carroll over 2019 sexual assault claims.",
           "feed_position": 8
-        },
-        {
-          "source": "BBC World",
-          "url": "https://www.bbc.com/news/articles/c8xre584drdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 08 Sep 2025 00:35:02 GMT",
-          "title": "Ryan Routh to stand trial for alleged Trump assassination attempt",
-          "standfirst": "A court case for Mr Routh, who has pleaded not guilty, begins on Monday - with the defendant representing himself.",
-          "content": "A court case for Mr Routh, who has pleaded not guilty, begins on Monday - with the defendant representing himself.",
-          "feed_position": 9,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5659/live/91e64f20-8c44-11f0-846a-470787cbae5a.jpg"
         }
       ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5659/live/91e64f20-8c44-11f0-846a-470787cbae5a.jpg",
-      "popularity_score": 3018.738479166667,
+      "featured_image": "https://cdn.biztoc.com/8e93e90d02a2273f_sq.webp",
+      "popularity_score": 2019.0389869444443,
       "ai_summary": [
-        "A trial began for Ryan Routh, accused of attempting to assassinate Trump.",
-        "Routh has pleaded not guilty to the charges.",
-        "He is representing himself in the trial.",
-        "The Secret Service agent fired on Routh.",
-        "Routh faces up to life in prison."
+        "A federal appeals court upheld the $83.3 million verdict against Trump.",
+        "The verdict was for defaming E. Jean Carroll.",
+        "Trump made repeated social media attacks against Carroll.",
+        "Carroll accused Trump of sexual assault.",
+        "The court upheld the jury's finding."
       ]
     },
     {
-      "id": "cluster_38",
-      "coverage": 3,
-      "updated_at": "Mon, 08 Sep 2025 09:49:05 GMT",
-      "title": "Trump says ready to move on new Russia sanctions after massive attack on Ukraine",
-      "neutral_headline": "Trump Ready for New Russia Sanctions After Attack",
-      "items": [
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/video/20250908-trump-says-ready-to-move-on-new-russia-sanctions-after-massive-attack-on-ukraine",
-          "published_at": "Mon, 08 Sep 2025 09:49:05 GMT",
-          "title": "Trump says ready to move on new Russia sanctions after massive attack on Ukraine",
-          "standfirst": "US President Donald Trump on Sunday said he was prepared to move forward on new sanctions on Moscow, hours after Russia fired its biggest-ever aerial barrage at Ukraine. Russian missiles and drones rained down across Ukraine early Sunday, killing four people and setting government offices in the capital Kyiv ablaze.",
-          "content": "US President Donald Trump on Sunday said he was prepared to move forward on new sanctions on Moscow, hours after Russia fired its biggest-ever aerial barrage at Ukraine. Russian missiles and drones rained down across Ukraine early Sunday, killing four people and setting government offices in the capital Kyiv ablaze.",
-          "feed_position": 5,
-          "image_url": "https://s.france24.com/media/display/d57722c8-8c94-11f0-849e-005056a97e36/w:1024/p:16x9/EN-20250908-110613-110736-CS.jpg"
-        },
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ukraine-russia-aerial-attack/",
-          "published_at": "Sun, 07 Sep 2025 13:37:26 -0400",
-          "title": "Ukraine government building damaged in large Russia aerial attack",
-          "standfirst": "Russia attacked Ukraine with 810 drones and decoys – the largest aerial attack on the country since the war began, Ukraine&#039;s Air Force said.",
-          "content": "Russia attacked Ukraine with 810 drones and decoys – the largest aerial attack on the country since the war began, Ukraine&#039;s Air Force said.",
-          "feed_position": 18
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/video/20250907-russia-hits-ukraine-with-more-that-800-drones-and-decoy-drones-in-biggest-ever-aerial-barrage",
-          "published_at": "Sun, 07 Sep 2025 16:20:20 GMT",
-          "title": "Russia hits Ukraine with more that 800 drones and decoy drones in biggest-ever aerial barrage",
-          "standfirst": "Russia hit Ukraine's capital with drone and missiles Sunday in the largest aerial attack since the war began, killing four people across the country and damaging a key government building. Russia attacked with 810 drones and decoys, Ukraine's air force said, adding it shot down 747 drones and four missiles. Details by FRANCE 24 correspondent in Kyiv, Gulliver Cragg.",
-          "content": "Russia hit Ukraine's capital with drone and missiles Sunday in the largest aerial attack since the war began, killing four people across the country and damaging a key government building. Russia attacked with 810 drones and decoys, Ukraine's air force said, adding it shot down 747 drones and four missiles. Details by FRANCE 24 correspondent in Kyiv, Gulliver Cragg.",
-          "feed_position": 21,
-          "image_url": "https://s.france24.com/media/display/266c75d2-8c06-11f0-9b35-005056a97e36/w:1024/p:16x9/EN-20250907-180205-180809-CS.jpg"
-        },
-        {
-          "source": "Sky News World",
-          "url": "https://news.sky.com/story/trump-says-hes-ready-to-move-to-second-stage-of-russia-sanctions-after-moscow-launches-large-aerial-attack-13426670",
-          "published_at": "Sun, 07 Sep 2025 16:20:00 +0100",
-          "title": "Trump says he's ready to move to second stage of Russia sanctions after Moscow launches large aerial attack",
-          "standfirst": "Donald Trump has said he is ready to move to a second stage of sanctioning Russia, just hours after Moscow launched the largest aerial attack of the war so far.",
-          "content": "Donald Trump has said he is ready to move to a second stage of sanctioning Russia, just hours after Moscow launched the largest aerial attack of the war so far.",
-          "feed_position": 6,
-          "image_url": "https://e3.365dm.com/25/09/1920x1080/skynews-ukraine-government_7013727.jpg?20250907163053"
-        }
-      ],
-      "featured_image": "https://s.france24.com/media/display/d57722c8-8c94-11f0-849e-005056a97e36/w:1024/p:16x9/EN-20250908-110613-110736-CS.jpg",
-      "popularity_score": 3018.5518125,
-      "ai_summary": [
-        "Trump said he is ready to move on new Russia sanctions.",
-        "The statement followed a large aerial attack on Ukraine.",
-        "Russia launched its biggest-ever aerial barrage on Ukraine.",
-        "The attack killed four people and damaged government buildings.",
-        "Ukraine's Air Force said Russia used over 800 drones."
-      ]
-    },
-    {
-      "id": "cluster_16",
+      "id": "cluster_43",
       "coverage": 2,
-      "updated_at": "Mon, 08 Sep 2025 10:50:39 GMT",
-      "title": "France: Bayoru government on the brink as confidence vote looms",
-      "neutral_headline": "French PM Faces Confidence Vote, Possible Ouster",
+      "updated_at": "Mon, 08 Sep 2025 18:15:40 +0000",
+      "title": "The capitulation of the US media is not an aberration",
+      "neutral_headline": "Trump admin plans to target more businesses for immigration enforcement after Hyundai raid",
       "items": [
         {
-          "source": "France24",
-          "url": "https://www.france24.com/en/video/20250908-france-bayoru-government-on-the-brink-as-confidence-vote-looms",
-          "published_at": "Mon, 08 Sep 2025 10:50:39 GMT",
-          "title": "France: Bayoru government on the brink as confidence vote looms",
-          "standfirst": "France's fourth prime minister in less than two years, François Bayrou, faces defeat in a confidence vote on Monday, tipping the euro zone's second-biggest economy further into political and economic paralysis. France 24's Philip Turle takes a look at what might happen next if, as expected, Bayrou's government falls.",
-          "content": "France's fourth prime minister in less than two years, François Bayrou, faces defeat in a confidence vote on Monday, tipping the euro zone's second-biggest economy further into political and economic paralysis. France 24's Philip Turle takes a look at what might happen next if, as expected, Bayrou's government falls.",
-          "feed_position": 0,
-          "image_url": "https://s.france24.com/media/display/10220c46-8c9d-11f0-b3d9-005056a90284/w:1024/p:16x9/EN-20250908-120717-121134-CS.jpg"
-        },
-        {
-          "source": "Guardian World",
-          "url": "https://www.theguardian.com/world/2025/sep/08/french-pm-francois-bayrou-confidence-vote",
-          "published_at": "Mon, 08 Sep 2025 08:59:41 GMT",
-          "title": "French PM François Bayrou expected to be ousted in confidence vote",
-          "standfirst": "Opposition parties planning to remove centrist and bring down minority government after just nine monthsThe French prime minister, François Bayrou, is expected to be ousted in a confidence vote on Monday afternoon, plunging the eurozone’s second biggest economy into political crisis.Opposition parties from the left to the far right have made clear they will vote against the 74-year-old centrist, meaning he and his minority government would fall after only nine months in office. Continue reading...",
-          "content": "Opposition parties planning to remove centrist and bring down minority government after just nine monthsThe French prime minister, François Bayrou, is expected to be ousted in a confidence vote on Monday afternoon, plunging the eurozone’s second biggest economy into political crisis.Opposition parties from the left to the far right have made clear they will vote against the 74-year-old centrist, meaning he and his minority government would fall after only nine months in office. Continue reading...",
-          "feed_position": 22
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/france/20250908-live-france-bayrou-confidence-vote-austerity-budget",
-          "published_at": "Mon, 08 Sep 2025 05:39:11 GMT",
-          "title": "Live: French PM Bayrou fights for survival in confidence vote over austerity budget",
-          "standfirst": "France’s parliament looks likely to remove Prime Minister François Bayrou on Monday, following only nine months in office, after the PM surprised even his own allies by calling a confidence vote to resolve a months-long deadlock over his austerity budget. Should Bayrou lose, he must resign along with his entire government, plunging France into new political turmoil. Follow FRANCE 24’s liveblog for the latest details.",
-          "content": "France’s parliament looks likely to remove Prime Minister François Bayrou on Monday, following only nine months in office, after the PM surprised even his own allies by calling a confidence vote to resolve a months-long deadlock over his austerity budget. Should Bayrou lose, he must resign along with his entire government, plunging France into new political turmoil. Follow FRANCE 24’s liveblog for the latest details.",
-          "feed_position": 12,
-          "image_url": "https://s.france24.com/media/display/b1b4a8da-8c6f-11f0-b480-005056bfb2b6/w:1024/p:16x9/000-739V9G3.jpg"
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/video/20250907-french-pm-bayrou-braces-for-confidence-vote-loss",
-          "published_at": "Sun, 07 Sep 2025 15:32:48 GMT",
-          "title": "French PM Bayrou braces for confidence vote loss",
-          "standfirst": "French Prime Minister François Bayrou faces a confidence vote on Monday, which he is expected to lose, plunging the euro zone's second largest economy deeper into political crisis. Details and analysis by FRANCE 24 international affairs editor, Douglas Herbert.",
-          "content": "French Prime Minister François Bayrou faces a confidence vote on Monday, which he is expected to lose, plunging the euro zone's second largest economy deeper into political crisis. Details and analysis by FRANCE 24 international affairs editor, Douglas Herbert.",
-          "feed_position": 22,
-          "image_url": "https://s.france24.com/media/display/3f339968-8bfe-11f0-aea7-005056bfb2b6/w:1024/p:16x9/EN-20250907-171006-171514-CS.jpg"
-        }
-      ],
-      "featured_image": "https://s.france24.com/media/display/10220c46-8c9d-11f0-b3d9-005056a90284/w:1024/p:16x9/EN-20250908-120717-121134-CS.jpg",
-      "popularity_score": 2019.5779236111111,
-      "ai_summary": [
-        "French Prime Minister François Bayrou faces a confidence vote.",
-        "He is expected to lose the vote and be ousted.",
-        "The vote could plunge France into a political crisis.",
-        "Opposition parties plan to vote against Bayrou.",
-        "Bayrou's government has been in power for nine months."
-      ]
-    },
-    {
-      "id": "cluster_18",
-      "coverage": 2,
-      "updated_at": "Mon, 08 Sep 2025 06:44:00 -0400",
-      "title": "Doctor on trial in poisonings of 30 people had unique motive, prosecutors say",
-      "neutral_headline": "Doctor on Trial for Poisoning Patients",
-      "items": [
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/doctor-accused-poisonings-30-people-trial-unique-motivre-frederic-pechier/",
-          "published_at": "Mon, 08 Sep 2025 06:44:00 -0400",
-          "title": "Doctor on trial in poisonings of 30 people had unique motive, prosecutors say",
-          "standfirst": "A French anesthesiologist on trial in the poisonings of 30 people, 12 of whom died, did it so he could show off his resuscitation skills and discredit co-workers, prosecutors say.",
-          "content": "A French anesthesiologist on trial in the poisonings of 30 people, 12 of whom died, did it so he could show off his resuscitation skills and discredit co-workers, prosecutors say.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/opinions/2025/9/8/the-capitulation-of-the-us-media-is-not-an-aberration?traffic_source=rss",
+          "published_at": "Mon, 08 Sep 2025 18:15:40 +0000",
+          "title": "The capitulation of the US media is not an aberration",
+          "standfirst": "President Donald Trump&#039;s administration is bringing to the fore weaknesses that have long plagued US democracy.",
+          "content": "President Donald Trump&#039;s administration is bringing to the fore weaknesses that have long plagued US democracy.",
           "feed_position": 1
         },
         {
-          "source": "France24",
-          "url": "https://www.france24.com/en/france/20250908-french-doctor-accused-of-poisoning-patients-to-show-off-resuscitation-skills-goes-on-trial",
-          "published_at": "Mon, 08 Sep 2025 08:12:01 GMT",
-          "title": "French doctor accused of poisoning patients to show off resuscitation skills goes on trial",
-          "standfirst": "French anesthetist Frédéric Pechier, accused of poisoning 30 patients, 12 of whom died, in a twisted bid to show off his resuscitation skills, goes on trial Monday. The trial in the eastern city of Besançon follows a seven-year investigation that shocked the medical community.",
-          "content": "French anesthetist Frédéric Pechier, accused of poisoning 30 patients, 12 of whom died, in a twisted bid to show off his resuscitation skills, goes on trial Monday. The trial in the eastern city of Besançon follows a seven-year investigation that shocked the medical community.",
-          "feed_position": 10,
-          "image_url": "https://s.france24.com/media/display/96d7196c-8c56-11f0-bd88-005056bf30b7/w:1024/p:16x9/7bfc4969d1d730315b2f6ab6a0b6d962f5013a56.jpg"
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/0d69e106aa9fcdf7",
+          "published_at": "Mon, 08 Sep 2025 17:11:29 GMT",
+          "title": "Trump admin plans to target more businesses for immigration enforcement after Hyundai raid",
+          "standfirst": "President Donald Trump's administration plans to target more businesses for immigration enforcement after a raid on a Hyundai ...",
+          "content": "President Donald Trump's administration plans to target more businesses for immigration enforcement after a raid on a Hyundai ...",
+          "feed_position": 183,
+          "image_url": "https://cdn.biztoc.com/0d69e106aa9fcdf7_sq.webp"
         }
       ],
-      "featured_image": "https://s.france24.com/media/display/96d7196c-8c56-11f0-bd88-005056bf30b7/w:1024/p:16x9/7bfc4969d1d730315b2f6ab6a0b6d962f5013a56.jpg",
-      "popularity_score": 2019.4670902777777,
+      "featured_image": "https://cdn.biztoc.com/0d69e106aa9fcdf7_sq.webp",
+      "popularity_score": 2019.0039869444445,
       "ai_summary": [
-        "A French doctor is on trial for poisoning patients.",
-        "The doctor is accused of poisoning 30 people, 12 of whom died.",
-        "Prosecutors say the motive was to show off resuscitation skills.",
-        "The trial follows a seven-year investigation.",
-        "The doctor allegedly wanted to discredit co-workers."
+        "The Trump administration plans to target more businesses.",
+        "The targeting is for immigration enforcement.",
+        "The plan follows a raid on a Hyundai facility.",
+        "The raid was for immigration enforcement.",
+        "The administration is increasing enforcement efforts."
       ]
     },
     {
-      "id": "cluster_36",
+      "id": "cluster_48",
       "coverage": 2,
-      "updated_at": "Mon, 08 Sep 2025 05:54:23 -0400",
-      "title": "Woman accused of killing her 2 kids, stuffing them in suitcases goes on trial",
-      "neutral_headline": "Trial Begins in New Zealand \"Suitcase Murder\" Case",
+      "updated_at": "Mon, 08 Sep 2025 18:10:32 GMT",
+      "title": "Mirror and Express owner to cut over 300 jobs",
+      "neutral_headline": "Mirror and Express Owner to Cut Over 300 Jobs",
       "items": [
         {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/hakyung-lee-trial-childrens-bodies-suitcases/",
-          "published_at": "Mon, 08 Sep 2025 05:54:23 -0400",
-          "title": "Woman accused of killing her 2 kids, stuffing them in suitcases goes on trial",
-          "standfirst": "A trial opened in New Zealand of a South Korean woman accused of murdering her two children and leaving their bodies in suitcases for years before they were discovered.",
-          "content": "A trial opened in New Zealand of a South Korean woman accused of murdering her two children and leaving their bodies in suitcases for years before they were discovered.",
-          "feed_position": 5
+          "source": "BBC Top Stories",
+          "url": "https://www.bbc.com/news/articles/c179d0p9958o?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 08 Sep 2025 18:10:32 GMT",
+          "title": "Mirror and Express owner to cut over 300 jobs",
+          "standfirst": "Reach tells staff it plans to share content across its papers and put a \"new focus\" on digital subscriptions.",
+          "content": "Reach tells staff it plans to share content across its papers and put a \"new focus\" on digital subscriptions.",
+          "feed_position": 21,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1ba/live/47cfa320-8cd8-11f0-9864-595ea7031b48.jpg"
+        },
+        {
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/bed60f127cbed60d",
+          "published_at": "Mon, 08 Sep 2025 17:43:52 GMT",
+          "title": "Mirror and Express owner to cut over 300 jobs",
+          "standfirst": "Reach told staff it plans to share content across its papers and put a &#34;new focus&#34; on digital subscriptions.",
+          "content": "Reach told staff it plans to share content across its papers and put a &#34;new focus&#34; on digital subscriptions.",
+          "feed_position": 96,
+          "image_url": "https://cdn.biztoc.com/bed60f127cbed60d_sq.webp"
+        }
+      ],
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1ba/live/47cfa320-8cd8-11f0-9864-595ea7031b48.jpg",
+      "popularity_score": 2018.9184313888888,
+      "ai_summary": [
+        "Reach, the owner, plans to share content across its papers.",
+        "Reach will put a new focus on digital subscriptions.",
+        "The company is cutting over 300 jobs.",
+        "The cuts affect the Mirror and Express newspapers.",
+        "The company informed staff of the plans."
+      ]
+    },
+    {
+      "id": "cluster_50",
+      "coverage": 2,
+      "updated_at": "Mon, 08 Sep 2025 18:09:57 GMT",
+      "title": "Third British victim of Lisbon funicular crash was 82-year-old man from Holyhead",
+      "neutral_headline": "Third British victim of Lisbon funicular crash was 82-year-old man from Holyhead",
+      "items": [
+        {
+          "source": "Guardian World",
+          "url": "https://www.theguardian.com/world/2025/sep/08/third-british-victim-of-lisbon-funicular-crash-was-82-year-old-man-from-holyhead",
+          "published_at": "Mon, 08 Sep 2025 18:09:57 GMT",
+          "title": "Third British victim of Lisbon funicular crash was 82-year-old man from Holyhead",
+          "standfirst": "Andrew David Kenneth Young, a transport enthusiast, among 16 who died when tourist attraction derailedThe third British victim of the Lisbon funicular crash has been named by Welsh police as Andrew David Kenneth Young, 82, a transport enthusiast from Holyhead.Young was among 16 people who died when the Elevador da Glória, a popular tourist attraction, derailed in the centre of the Portuguese capital on Wednesday. Continue reading...",
+          "content": "Andrew David Kenneth Young, a transport enthusiast, among 16 who died when tourist attraction derailedThe third British victim of the Lisbon funicular crash has been named by Welsh police as Andrew David Kenneth Young, 82, a transport enthusiast from Holyhead.Young was among 16 people who died when the Elevador da Glória, a popular tourist attraction, derailed in the centre of the Portuguese capital on Wednesday. Continue reading...",
+          "feed_position": 22
         },
         {
           "source": "BBC World",
-          "url": "https://www.bbc.com/news/articles/cn83jjx9pjvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 08 Sep 2025 05:12:14 GMT",
-          "title": "'Suitcase murder' trial begins in New Zealand",
-          "standfirst": "Hakyung Lee is accused of killing her two young children, whose bodies were found stuffed in suitcases.",
-          "content": "Hakyung Lee is accused of killing her two young children, whose bodies were found stuffed in suitcases.",
-          "feed_position": 7,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d8e/live/c62c0000-8c75-11f0-9cf6-cbf3e73ce2b9.jpg"
+          "url": "https://www.bbc.com/news/articles/cq8ev844egpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Mon, 08 Sep 2025 13:08:20 GMT",
+          "title": "Lisbon funicular crash victim was 'transport enthusiast'",
+          "standfirst": "Sixteen people died when the funicular crashed into a building in the Portuguese capital.",
+          "content": "Sixteen people died when the funicular crashed into a building in the Portuguese capital.",
+          "feed_position": 6,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/153a/live/c8d51dd0-8cb3-11f0-82aa-7d0865a885a4.jpg"
         }
       ],
-      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d8e/live/c62c0000-8c75-11f0-9cf6-cbf3e73ce2b9.jpg",
-      "popularity_score": 2018.6401458333332,
+      "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/153a/live/c8d51dd0-8cb3-11f0-82aa-7d0865a885a4.jpg",
+      "popularity_score": 2018.9087091666668,
       "ai_summary": [
-        "A trial began in New Zealand in a \"suitcase murder\" case.",
-        "Hakyung Lee is accused of murdering her two children.",
-        "The children's bodies were found in suitcases.",
-        "The bodies were discovered after being missing for years.",
-        "The trial is underway in New Zealand."
+        "Andrew David Kenneth Young was the third British victim.",
+        "Young was an 82-year-old transport enthusiast.",
+        "He was from Holyhead.",
+        "Sixteen people died in the Lisbon funicular crash.",
+        "The funicular derailed in the Portuguese capital."
       ]
     },
     {
-      "id": "cluster_37",
+      "id": "cluster_73",
       "coverage": 2,
-      "updated_at": "Mon, 08 Sep 2025 09:50:23 GMT",
-      "title": "Argentina's Milei suffers major setback as opposition party wins provincial vote",
-      "neutral_headline": "Milei Suffers Setback in Buenos Aires Election",
-      "items": [
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/video/20250908-argentina-s-milei-suffers-major-setback-as-opposition-party-wins-provincial-vote",
-          "published_at": "Mon, 08 Sep 2025 09:50:23 GMT",
-          "title": "Argentina's Milei suffers major setback as opposition party wins provincial vote",
-          "standfirst": "Argentina's opposition Peronist party triumphed on Sunday in legislative elections in the key province of Buenos Aires, leaving President Javier Milei's ruling party in a distant second place, the provisional official tally showed.",
-          "content": "Argentina's opposition Peronist party triumphed on Sunday in legislative elections in the key province of Buenos Aires, leaving President Javier Milei's ruling party in a distant second place, the provisional official tally showed.",
-          "feed_position": 4,
-          "image_url": "https://s.france24.com/media/display/3cffde58-8c95-11f0-bdf6-005056bfb2b6/w:1024/p:16x9/EN-20250908-111116-111312-CS.jpg"
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2025/9/8/argentinas-milei-suffers-crushing-setback-in-buenos-aires-election?traffic_source=rss",
-          "published_at": "Mon, 08 Sep 2025 07:41:37 +0000",
-          "title": "Argentina’s Milei suffers crushing setback in Buenos Aires election",
-          "standfirst": "The Buenos Aires provincial election is a test of Milei&#039;s popularity ahead of upcoming congressional polls next month.",
-          "content": "The Buenos Aires provincial election is a test of Milei&#039;s popularity ahead of upcoming congressional polls next month.",
-          "feed_position": 9
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/americas/20250908-argentina-milei-electoral-buenos-aires-vote",
-          "published_at": "Mon, 08 Sep 2025 01:08:36 GMT",
-          "title": "Argentina's Milei suffers major electoral setback as left wins Buenos Aires province",
-          "standfirst": "Argentina’s President Javier Milei suffered a blow Sunday as his party was trounced by the left in Buenos Aires provincial elections, a contest widely viewed as a test of his government’s support. The defeat comes on the eve of mid-term polls, raising doubts over Milei’s political momentum.",
-          "content": "Argentina’s President Javier Milei suffered a blow Sunday as his party was trounced by the left in Buenos Aires provincial elections, a contest widely viewed as a test of his government’s support. The defeat comes on the eve of mid-term polls, raising doubts over Milei’s political momentum.",
-          "feed_position": 15,
-          "image_url": "https://s.france24.com/media/display/1cee3ec8-8c74-11f0-8ac6-005056a90284/w:1024/p:16x9/000-73PP82K.jpg"
-        }
-      ],
-      "featured_image": "https://s.france24.com/media/display/3cffde58-8c95-11f0-bdf6-005056bfb2b6/w:1024/p:16x9/EN-20250908-111116-111312-CS.jpg",
-      "popularity_score": 2018.5734791666666,
-      "ai_summary": [
-        "Argentina's Milei suffered a setback in the Buenos Aires election.",
-        "The opposition Peronist party won the provincial vote.",
-        "Milei's party came in a distant second place.",
-        "The election was seen as a test of Milei's popularity.",
-        "The defeat comes before upcoming congressional polls."
-      ]
-    },
-    {
-      "id": "cluster_127",
-      "coverage": 2,
-      "updated_at": "Mon, 08 Sep 2025 09:10:01 GMT",
-      "title": "World Cup ticket sales are about to begin. Scoring them may not be easy — or cheap",
-      "neutral_headline": "World Cup Ticket Sales Begin, Demand High",
+      "updated_at": "Mon, 08 Sep 2025 18:06:11 GMT",
+      "title": "SpaceX pays $17 billion to acquire spectrum licenses from EchoStar",
+      "neutral_headline": "SpaceX to Acquire EchoStar Spectrum Licenses for $17 Billion",
       "items": [
         {
           "source": "Reuters Top News",
-          "url": "https://biztoc.com/x/8e969ccf4f21b46c",
-          "published_at": "Mon, 08 Sep 2025 09:10:01 GMT",
-          "title": "World Cup ticket sales are about to begin. Scoring them may not be easy — or cheap",
-          "standfirst": "World Cup ticket sales are about to begin. Scoring them may not be easy — or cheap The first opportunity to score regular tickets for the 2026 World Cup is on Wednesday. But be warned: Tickets may not be easy to get — and they likely won't be cheap. Demand for the popular men's tournament is…",
-          "content": "World Cup ticket sales are about to begin. Scoring them may not be easy — or cheap The first opportunity to score regular tickets for the 2026 World Cup is on Wednesday. But be warned: Tickets may not be easy to get — and they likely won't be cheap. Demand for the popular men's tournament is…",
-          "feed_position": 84,
-          "image_url": "https://cdn.biztoc.com/8e969ccf4f21b46c_sq.webp"
+          "url": "https://biztoc.com/x/3932f83999211fb4",
+          "published_at": "Mon, 08 Sep 2025 18:06:11 GMT",
+          "title": "SpaceX pays $17 billion to acquire spectrum licenses from EchoStar",
+          "standfirst": "SpaceX has reached a deal worth about $17 billion with EchoStar for spectrum licenses that it will use to beef up its Starlink satellite network.",
+          "content": "SpaceX has reached a deal worth about $17 billion with EchoStar for spectrum licenses that it will use to beef up its Starlink satellite network.",
+          "feed_position": 29,
+          "image_url": "https://cdn.biztoc.com/3932f83999211fb4_sq.webp"
         },
-        {
-          "source": "NPR News",
-          "url": "https://www.npr.org/2025/09/08/nx-s1-5529273/fifa-world-cup-2026-ticket-sales",
-          "published_at": "Mon, 08 Sep 2025 05:00:00 -0400",
-          "title": "World Cup ticket sales are about to begin. Scoring them may not be easy — or cheap",
-          "standfirst": "FIFA is set to launch the first window of regular ticket sales for the 2026 World Cup on Wednesday. Brace yourself: because they may not be easy to get — or cheap.",
-          "content": "FIFA is set to launch the first window of regular ticket sales for the 2026 World Cup on Wednesday. Brace yourself: because they may not be easy to get — or cheap.(Image credit: Frederic J. Brown)",
-          "feed_position": 4
-        }
-      ],
-      "featured_image": "https://cdn.biztoc.com/8e969ccf4f21b46c_sq.webp",
-      "popularity_score": 2017.9007013888888,
-      "ai_summary": [
-        "World Cup ticket sales are about to begin.",
-        "The first opportunity to buy tickets is on Wednesday.",
-        "Demand for tickets is expected to be high.",
-        "Tickets may not be easy to get.",
-        "Tickets are likely to be expensive."
-      ]
-    },
-    {
-      "id": "cluster_145",
-      "coverage": 2,
-      "updated_at": "Mon, 08 Sep 2025 09:09:35 GMT",
-      "title": "The U.S. is a major importer of Indian products made from Russian oil",
-      "neutral_headline": "U S imports Indian products made from Russian oil",
-      "items": [
         {
           "source": "Reuters Top News",
-          "url": "https://biztoc.com/x/534904f81226ddbb",
-          "published_at": "Mon, 08 Sep 2025 09:09:35 GMT",
-          "title": "The U.S. is a major importer of Indian products made from Russian oil",
-          "standfirst": "The United States imports oil products from India's Reliance Industries refinery, which sources nearly half its oil from Russia. (Image credit: Dhiraj Singh)",
-          "content": "The United States imports oil products from India's Reliance Industries refinery, which sources nearly half its oil from Russia. (Image credit: Dhiraj Singh)",
-          "feed_position": 77
+          "url": "https://biztoc.com/x/b39748e090299f93",
+          "published_at": "Mon, 08 Sep 2025 17:44:06 GMT",
+          "title": "EchoStar Stock Jumps On Spectrum Sale To SpaceX. AST, Iridium Retreat",
+          "standfirst": "stock surged on Monday after the Charlie Ergen-controlled company announced a spectrum sale to Elon Musk's SpaceX for approximately $17 billion, including $8.5 billion in cash. SpaceX's Starlink satellite network plans to use the spectrum. Shares in AST SpaceMobile (ASTS) and Iridium…",
+          "content": "stock surged on Monday after the Charlie Ergen-controlled company announced a spectrum sale to Elon Musk's SpaceX for approximately $17 billion, including $8.5 billion in cash. SpaceX's Starlink satellite network plans to use the spectrum. Shares in AST SpaceMobile (ASTS) and Iridium…",
+          "feed_position": 60,
+          "image_url": "https://cdn.biztoc.com/b39748e090299f93_sq.webp"
         },
         {
-          "source": "NPR News",
-          "url": "https://www.npr.org/2025/09/08/nx-s1-5522001/india-tariffs-russia-oil-imports",
-          "published_at": "Mon, 08 Sep 2025 05:00:00 -0400",
-          "title": "The U.S. is a major importer of Indian products made from Russian oil",
-          "standfirst": "The United States imports oil products from India's Reliance Industries refinery, which sources nearly half its oil from Russia.",
-          "content": "The United States imports oil products from India's Reliance Industries refinery, which sources nearly half its oil from Russia.(Image credit: Dhiraj Singh)",
-          "feed_position": 2
-        }
-      ],
-      "popularity_score": 2017.8934791666666
-    },
-    {
-      "id": "cluster_148",
-      "coverage": 2,
-      "updated_at": "Mon, 08 Sep 2025 09:09:34 GMT",
-      "title": "How brightly colored do we want our food? For brands, it's a hill to dye on",
-      "neutral_headline": "How brightly colored do we want our food? For brands, it's a hill to dye on",
-      "items": [
-        {
-          "source": "Reuters Top News",
-          "url": "https://biztoc.com/x/495ebdf0cbeb853b",
-          "published_at": "Mon, 08 Sep 2025 09:09:34 GMT",
-          "title": "How brightly colored do we want our food? For brands, it's a hill to dye on",
-          "standfirst": "How brightly colored do we want our food? For brands, it's a hill to dye on Cupcake icing and sports drinks — in all their crayon-like colors — are the final frontiers for Nick Scheidler's team. Scheidler leads product development at Walmart's Sam's Club, which in 2022 committed to — by the end of…",
-          "content": "How brightly colored do we want our food? For brands, it's a hill to dye on Cupcake icing and sports drinks — in all their crayon-like colors — are the final frontiers for Nick Scheidler's team. Scheidler leads product development at Walmart's Sam's Club, which in 2022 committed to — by the end of…",
-          "feed_position": 83,
-          "image_url": "https://cdn.biztoc.com/495ebdf0cbeb853b_sq.webp"
-        },
-        {
-          "source": "NPR News",
-          "url": "https://www.npr.org/2025/09/08/nx-s1-5529276/sams-club-food-dye-taste-history",
-          "published_at": "Mon, 08 Sep 2025 05:00:00 -0400",
-          "title": "How brightly colored do we want our food? For brands, it's a hill to dye on",
-          "standfirst": "Sam's Club is among the food makers removing artificial dyes from products, yet hoping shoppers don't notice a difference in color. But why?",
-          "content": "Sam's Club is among the food makers removing artificial dyes from products, yet hoping shoppers don't notice a difference in color. But why?(Image credit: Zayrha Rodriguez)",
-          "feed_position": 5
-        }
-      ],
-      "featured_image": "https://cdn.biztoc.com/495ebdf0cbeb853b_sq.webp",
-      "popularity_score": 2017.8932013888889
-    },
-    {
-      "id": "cluster_159",
-      "coverage": 2,
-      "updated_at": "Mon, 08 Sep 2025 09:09:12 GMT",
-      "title": "Supertramp founding frontman Rick Davies dies at 81",
-      "neutral_headline": "Supertramp founding frontman Rick Davies dies at 81",
-      "items": [
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/americas/20250908-supertramp-founding-frontman-rick-davies-dies-at-81",
-          "published_at": "Mon, 08 Sep 2025 09:09:12 GMT",
-          "title": "Supertramp founding frontman Rick Davies dies at 81",
-          "standfirst": "Rick Davies, co-founder and lead singer of British rock band Supertramp, whose soulful voice and songwriting helped shape hits like “Goodbye Stranger” and “Bloody Well Right”, has died at 81 after a decade-long battle with cancer, the band announced Sunday.",
-          "content": "Rick Davies, co-founder and lead singer of British rock band Supertramp, whose soulful voice and songwriting helped shape hits like “Goodbye Stranger” and “Bloody Well Right”, has died at 81 after a decade-long battle with cancer, the band announced Sunday.",
+          "source": "Bloomberg Technology",
+          "url": "https://www.bloomberg.com/news/articles/2025-09-08/starlink-is-said-in-advanced-talks-to-acquire-echostar-spectrum",
+          "published_at": "Mon, 08 Sep 2025 10:30:09 GMT",
+          "title": "Musk’s SpaceX to Buy EchoStar Spectrum for $17 Billion",
+          "standfirst": "SpaceX, the Elon Musk-backed company that owns the Starlink satellite internet network, agreed to acquire wireless spectrum from EchoStar Corp. for about $17 billion, allowing Charlie Ergen’s beleaguered telecommunications company to resolve an overhanging regulatory probe and pay down debt.",
+          "content": "SpaceX, the Elon Musk-backed company that owns the Starlink satellite internet network, agreed to acquire wireless spectrum from EchoStar Corp. for about $17 billion, allowing Charlie Ergen’s beleaguered telecommunications company to resolve an overhanging regulatory probe and pay down debt.",
           "feed_position": 8,
-          "image_url": "https://s.france24.com/media/display/8cefece0-8c91-11f0-b257-005056a90284/w:1024/p:16x9/000-73Q92T3.jpg"
-        },
-        {
-          "source": "BBC Top Stories",
-          "url": "https://www.bbc.com/news/articles/cp98zg2k2xko?at_medium=RSS&at_campaign=rss",
-          "published_at": "Mon, 08 Sep 2025 08:27:39 GMT",
-          "title": "Supertramp singer and co-writer Rick Davies dies at 81",
-          "standfirst": "He was behind some of the band's best-known hits including Bloody Well Right and Goodbye Stranger.",
-          "content": "He was behind some of the band's best-known hits including Bloody Well Right and Goodbye Stranger.",
-          "feed_position": 17,
-          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ef/live/1e8c2850-8c8b-11f0-a91f-69625b70a4a8.jpg"
+          "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7H1cqdZ17BU/v0/1200x-1.jpg"
         }
       ],
-      "featured_image": "https://s.france24.com/media/display/8cefece0-8c91-11f0-b257-005056a90284/w:1024/p:16x9/000-73Q92T3.jpg",
-      "popularity_score": 2017.8870902777778,
+      "featured_image": "https://cdn.biztoc.com/3932f83999211fb4_sq.webp",
+      "popularity_score": 2018.8459313888889,
       "ai_summary": [
-        "Rick Davies, Supertramp co-founder, died at age 81.",
-        "He battled cancer for a decade before his death.",
-        "Davies' songwriting helped shape hits like \"Goodbye Stranger\"."
+        "SpaceX will acquire spectrum licenses from EchoStar for approximately $17 billion.",
+        "The deal includes $8.5 billion in cash, according to reports.",
+        "SpaceX plans to use the spectrum to enhance its Starlink satellite network.",
+        "EchoStar's stock surged after the announcement of the spectrum sale.",
+        "The sale allows EchoStar to address a regulatory probe and pay down debt."
       ]
     },
     {
-      "id": "cluster_193",
+      "id": "cluster_143",
       "coverage": 2,
-      "updated_at": "Mon, 08 Sep 2025 08:36:34 GMT",
-      "title": "Labour must improve workers’ rights to fulfil promise to voters, says Unite’s Sharon Graham",
-      "neutral_headline": "Labour must improve workers’ rights to fulfil promise to voters, says Unite’s Sharon Graham",
+      "updated_at": "Mon, 08 Sep 2025 17:32:56 GMT",
+      "title": "The US Army awards a $159M contract to a partnership of Anduril and Meta and a $195M contract to Rivet, to produce competing prototypes of a new combat goggle",
+      "neutral_headline": "US Army Awards Combat Goggle Contracts to Anduril, Meta, Rivet",
       "items": [
         {
           "source": "Reuters Top News",
-          "url": "https://biztoc.com/x/4ca30f5da7f6763b",
-          "published_at": "Mon, 08 Sep 2025 08:36:34 GMT",
-          "title": "Labour must improve workers’ rights to fulfil promise to voters, says Unite’s Sharon Graham",
-          "standfirst": "Union leader says employment rights bill is ‘good for the economy’ amid fears the legislation could be weakened Unite’s general secretary, Sharon Graham, has issued a warning to the government, saying it should enact full reforms of workers’ rights in order to fulfil a “promise to the British…",
-          "content": "Union leader says employment rights bill is ‘good for the economy’ amid fears the legislation could be weakened Unite’s general secretary, Sharon Graham, has issued a warning to the government, saying it should enact full reforms of workers’ rights in order to fulfil a “promise to the British…",
-          "feed_position": 144,
-          "image_url": "https://cdn.biztoc.com/4ca30f5da7f6763b_sq.webp"
+          "url": "https://biztoc.com/x/1a25e262bbdd7b66",
+          "published_at": "Mon, 08 Sep 2025 17:32:56 GMT",
+          "title": "The US Army awards a $159M contract to a partnership of Anduril and Meta and a $195M contract to Rivet, to produce competing prototypes of a new combat goggle",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 87
         },
         {
-          "source": "Guardian World",
-          "url": "https://www.theguardian.com/uk-news/2025/sep/08/labour-must-improve-workers-rights-to-fulfil-promise-to-voters-says-unite-sharon-graham",
-          "published_at": "Mon, 08 Sep 2025 08:17:31 GMT",
-          "title": "Unite’s Sharon Graham warns Labour against diluting workers’ rights bill",
-          "standfirst": "Union leader says employment rights bill is ‘good for the economy’ amid fears legislation could be weakenedUK politics live – latest updatesBusiness live – latest updatesUnite’s general secretary, Sharon Graham, has issued a warning to the government, saying it should enact full reforms of workers’ rights in order to fulfil a “promise to the British people”.The trade union leader said that the pledges to enhance the rights of employees were a central part of Labour’s election platform and that unions would not allow the employment rights bill to be weakened. Continue reading...",
-          "content": "Union leader says employment rights bill is ‘good for the economy’ amid fears legislation could be weakenedUK politics live – latest updatesBusiness live – latest updatesUnite’s general secretary, Sharon Graham, has issued a warning to the government, saying it should enact full reforms of workers’ rights in order to fulfil a “promise to the British people”.The trade union leader said that the pledges to enhance the rights of employees were a central part of Labour’s election platform and that unions would not allow the employment rights bill to be weakened. Continue reading...",
-          "feed_position": 38
+          "source": "Bloomberg Technology",
+          "url": "https://www.bloomberg.com/news/articles/2025-09-08/anduril-meta-team-rivet-win-army-work-for-new-combat-goggle",
+          "published_at": "Mon, 08 Sep 2025 16:06:12 GMT",
+          "title": "US Army Awards Combat Goggle Contracts to Anduril-META Team, Rivet",
+          "standfirst": "The US Army awarded contracts to a partnership of Anduril Industries Inc. and Meta Platforms Inc., and another led by Rivet Industries, to produce competing prototypes of a new combat goggle.",
+          "content": "The US Army awarded contracts to a partnership of Anduril Industries Inc. and Meta Platforms Inc., and another led by Rivet Industries, to produce competing prototypes of a new combat goggle.",
+          "feed_position": 4,
+          "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihyYBAkaySpo/v0/1200x-1.jpg"
         }
       ],
-      "featured_image": "https://cdn.biztoc.com/4ca30f5da7f6763b_sq.webp",
-      "popularity_score": 2017.343201388889,
+      "featured_image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihyYBAkaySpo/v0/1200x-1.jpg",
+      "popularity_score": 2018.2917647222223,
       "ai_summary": [
-        "Unite's Sharon Graham warns government about workers' rights.",
-        "She says the employment rights bill is good for the economy.",
-        "Graham fears the legislation could be weakened.",
-        "She states that enhanced rights were central to Labour's platform.",
-        "Unions will not allow the employment rights bill to be weakened."
+        "The US Army awarded contracts for new combat goggle prototypes.",
+        "One contract went to a partnership of Anduril Industries and Meta Platforms.",
+        "Another contract was awarded to a team led by Rivet Industries.",
+        "The contracts are for the production of competing prototypes.",
+        "The Army is seeking new combat goggle technology."
       ]
     },
     {
-      "id": "cluster_251",
+      "id": "cluster_155",
       "coverage": 2,
-      "updated_at": "Mon, 08 Sep 2025 06:58:43 +0000",
-      "title": "Israeli forces destroy another Gaza City apartment building",
-      "neutral_headline": "Israeli forces destroy another Gaza City apartment building",
+      "updated_at": "Mon, 08 Sep 2025 17:32:28 GMT",
+      "title": "AI audio startup ElevenLabs launches a tender offer to let staff sell up to $100M in stock at a $6.6B valuation, up from a $3.3B valuation in January 2025",
+      "neutral_headline": "ElevenLabs to Let Staff Sell Shares at $6.6 Billion Valuation",
       "items": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2025/9/8/israeli-forces-destroy-another-gaza-city-apartment-building?traffic_source=rss",
-          "published_at": "Mon, 08 Sep 2025 06:58:43 +0000",
-          "title": "Israeli forces destroy another Gaza City apartment building",
-          "standfirst": "Israeli forces bomb the eight-storey al-Roya residential building, the third Gaza City high-rise leveled in three days.",
-          "content": "Israeli forces bomb the eight-storey al-Roya residential building, the third Gaza City high-rise leveled in three days.",
-          "feed_position": 12
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/e247d97aadceb72d",
+          "published_at": "Mon, 08 Sep 2025 17:32:28 GMT",
+          "title": "AI audio startup ElevenLabs launches a tender offer to let staff sell up to $100M in stock at a $6.6B valuation, up from a $3.3B valuation in January 2025",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 92
         },
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2025/9/7/israel-intensifies-gaza-city-destruction-bombs-another-high-rise-tower?traffic_source=rss",
-          "published_at": "Sun, 07 Sep 2025 22:49:55 +0000",
-          "title": "Israel intensifies Gaza City destruction, bombs another high-rise tower",
-          "standfirst": "Israel flattens towers in Gaza City one by one, bombing residential buildings as it seeks to seize the city.",
-          "content": "Israel flattens towers in Gaza City one by one, bombing residential buildings as it seeks to seize the city.",
-          "feed_position": 23
-        },
-        {
-          "source": "NBC World",
-          "url": "https://www.nbcnews.com/video/israeli-airstrike-hits-al-ruya-high-rise-building-in-gaza-city-247013957813",
-          "published_at": "Sun, 07 Sep 2025 21:31:02 GMT",
-          "title": "Watch: Israeli airstrike flattens high-rise building in Gaza City",
-          "standfirst": "Video obtained by NBC News shows the moment an Israeli airstrike hit Gaza City's Al-Ruya building. Israeli forces warned residents to evacuate as it targets high-rise buildings it claims are being used by Hamas.",
-          "content": "Video obtained by NBC News shows the moment an Israeli airstrike hit Gaza City's Al-Ruya building. Israeli forces warned residents to evacuate as it targets high-rise buildings it claims are being used by Hamas.",
-          "feed_position": 9,
-          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/f_tov_gaza_nbc_250907-mzhgnq.jpg"
+          "source": "Bloomberg Technology",
+          "url": "https://www.bloomberg.com/news/articles/2025-09-08/elevenlabs-to-let-staff-sell-shares-at-6-6-billion-valuation",
+          "published_at": "Mon, 08 Sep 2025 14:00:18 GMT",
+          "title": "ElevenLabs to Let Staff Sell Shares at $6.6 Billion Valuation",
+          "standfirst": "The tender offer for the voice-generating AI startup is being led by Sequoia Capital and Iconiq Growth.",
+          "content": "The tender offer for the voice-generating AI startup is being led by Sequoia Capital and Iconiq Growth.",
+          "feed_position": 10,
+          "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5NKUosScJ6Q/v1/1200x-1.jpg"
         }
       ],
-      "featured_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/f_tov_gaza_nbc_250907-mzhgnq.jpg",
-      "popularity_score": 2015.7123680555555,
+      "featured_image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5NKUosScJ6Q/v1/1200x-1.jpg",
+      "popularity_score": 2018.2839869444445,
       "ai_summary": [
-        "Israeli forces bombed the eight-story al-Roya residential building.",
-        "This was the third Gaza City high-rise leveled in three days.",
-        "Israeli forces warned residents to evacuate before the airstrike.",
-        "The Israeli military claims Hamas uses targeted high-rise buildings."
+        "AI audio startup ElevenLabs will allow staff to sell shares.",
+        "The tender offer values the company at $6.6 billion.",
+        "This valuation is up from $3.3 billion in January 2025.",
+        "The tender offer is being led by Sequoia Capital and Iconiq Growth.",
+        "The company specializes in voice-generating AI technology."
       ]
     },
     {
-      "id": "cluster_262",
+      "id": "cluster_156",
       "coverage": 2,
-      "updated_at": "Mon, 08 Sep 2025 05:27:50 +0000",
-      "title": "Huge crowds rally for Brazil’s Bolsonaro ahead of verdict in coup trial",
-      "neutral_headline": "Huge crowds rally for Brazil’s Bolsonaro ahead of verdict in coup trial",
+      "updated_at": "Mon, 08 Sep 2025 17:32:25 GMT",
+      "title": "Packaging group surges 5,000% on plan to buy Altman-backed Worldcoin tokens",
+      "neutral_headline": "Packaging Group Surges on Plan to Buy Worldcoin Tokens",
       "items": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2025/9/8/huge-crowds-rally-in-support-of-brazils-bolsonaro-ahead-of-coup-verdict?traffic_source=rss",
-          "published_at": "Mon, 08 Sep 2025 05:27:50 +0000",
-          "title": "Huge crowds rally for Brazil’s Bolsonaro ahead of verdict in coup trial",
-          "standfirst": "Thousands march in support of and against Brazil&#039;s former president ahead of Supreme Court decision on coup attempt.",
-          "content": "Thousands march in support of and against Brazil&#039;s former president ahead of Supreme Court decision on coup attempt.",
-          "feed_position": 17
+          "source": "Reuters Top News",
+          "url": "https://biztoc.com/x/01cc339c33e7709e",
+          "published_at": "Mon, 08 Sep 2025 17:32:25 GMT",
+          "title": "Packaging group surges 5,000% on plan to buy Altman-backed Worldcoin tokens",
+          "standfirst": "Eightco Holdings raises $270mn to buy crypto coins linked to OpenAI chief’s digital ID project",
+          "content": "Eightco Holdings raises $270mn to buy crypto coins linked to OpenAI chief’s digital ID project",
+          "feed_position": 112
         },
+        {
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/d4b958be-2e82-4a09-aad3-6d453b7b5225",
+          "published_at": "Mon, 08 Sep 2025 17:21:39 GMT",
+          "title": "Packaging group surges 5,000% on plan to buy Altman-backed Worldcoin tokens",
+          "standfirst": "Eightco Holdings raises $270mn to buy crypto coins linked to OpenAI chief’s digital ID project",
+          "content": "Eightco Holdings raises $270mn to buy crypto coins linked to OpenAI chief’s digital ID project",
+          "feed_position": 7,
+          "image_url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F386fb6ee-bb68-413c-9e32-76e9954f02fa.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+        }
+      ],
+      "featured_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F386fb6ee-bb68-413c-9e32-76e9954f02fa.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "popularity_score": 2018.2831536111112,
+      "ai_summary": [
+        "Eightco Holdings' stock surged after a plan to buy Worldcoin tokens.",
+        "The company is raising $270 million for the purchase.",
+        "Worldcoin is linked to OpenAI chief Sam Altman's digital ID project.",
+        "The stock surge was a significant increase of 5,000%.",
+        "The digital ID project is a cryptocurrency initiative."
+      ]
+    },
+    {
+      "id": "cluster_247",
+      "coverage": 2,
+      "updated_at": "Mon, 08 Sep 2025 14:13:18 GMT",
+      "title": "Tunisia: Gaza-bound flotilla welcomed by more than a 1,000 people",
+      "neutral_headline": "Gaza-bound flotilla welcomed by more than a 1,000 people",
+      "items": [
         {
           "source": "France24",
-          "url": "https://www.france24.com/en/americas/20250907-bolsonaro-brazil-coup-trial-verdict",
-          "published_at": "Sun, 07 Sep 2025 23:58:50 GMT",
-          "title": "Thousands of Bolsonaro supporters rally in Brazil as coup trial verdict nears",
-          "standfirst": "Tens of thousands of supporters of Brazil’s former president Jair Bolsonaro marched on Sunday during Independence Day, protesting against the Supreme Court ahead of its verdict this week in his alleged coup trial. Waving flags and chanting, demonstrators accused the court of bias, underscoring deep political divisions in Brazil.",
-          "content": "Tens of thousands of supporters of Brazil’s former president Jair Bolsonaro marched on Sunday during Independence Day, protesting against the Supreme Court ahead of its verdict this week in his alleged coup trial. Waving flags and chanting, demonstrators accused the court of bias, underscoring deep political divisions in Brazil.",
-          "feed_position": 17,
-          "image_url": "https://s.france24.com/media/display/cc0ca5b6-8c1a-11f0-8199-005056bf30b7/w:1024/p:16x9/26519d5ece044b151851ba3ee828de27bd96eb54.jpg"
+          "url": "https://www.france24.com/en/video/20250908-tunisia-gaza-bound-flotilla-welcomed-by-more-than-a-1-000-people",
+          "published_at": "Mon, 08 Sep 2025 14:13:18 GMT",
+          "title": "Tunisia: Gaza-bound flotilla welcomed by more than a 1,000 people",
+          "standfirst": "The Global Sumud Flotilla is carrying humanitarian supplies for Palestinians in Gaza, who have been under an 18-year Israeli blockade by land, air and sea. The flotilla includes hundreds of activists from around the world, including Nelson Mandela's grandson Mandla Mandela and Swedish climate activist Greta Thunberg.",
+          "content": "The Global Sumud Flotilla is carrying humanitarian supplies for Palestinians in Gaza, who have been under an 18-year Israeli blockade by land, air and sea. The flotilla includes hundreds of activists from around the world, including Nelson Mandela's grandson Mandla Mandela and Swedish climate activist Greta Thunberg.",
+          "feed_position": 22,
+          "image_url": "https://s.france24.com/media/display/1781a5c0-8cc3-11f0-ae45-005056a97e36/w:1024/p:16x9/Tunisia-thumbnail.jpg"
+        },
+        {
+          "source": "BBC World",
+          "url": "https://www.bbc.com/news/articles/c4gjz0d366eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "Sun, 07 Sep 2025 20:53:14 GMT",
+          "title": "Greta Thunberg's Gaza flotilla arrives in Tunisia",
+          "standfirst": "The boats, carrying 350 pro-Palestinian activists and stocked with medical and food supplies, are en route to Gaza.",
+          "content": "The boats, carrying 350 pro-Palestinian activists and stocked with medical and food supplies, are en route to Gaza.",
+          "feed_position": 12,
+          "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b34f/live/b73b0590-8c7b-11f0-84c8-99de564f0440.jpg"
         }
       ],
-      "featured_image": "https://s.france24.com/media/display/cc0ca5b6-8c1a-11f0-8199-005056bf30b7/w:1024/p:16x9/26519d5ece044b151851ba3ee828de27bd96eb54.jpg",
-      "popularity_score": 2014.1976458333334,
+      "featured_image": "https://s.france24.com/media/display/1781a5c0-8cc3-11f0-ae45-005056a97e36/w:1024/p:16x9/Tunisia-thumbnail.jpg",
+      "popularity_score": 2014.9645425,
       "ai_summary": [
-        "Thousands rallied in support of Bolsonaro in Brazil.",
-        "Protests occurred before the Supreme Court's coup attempt decision.",
-        "Demonstrators protested against the Supreme Court's bias.",
-        "The protests highlighted deep political divisions in Brazil."
+        "The Global Sumud Flotilla is carrying humanitarian supplies to Gaza.",
+        "The flotilla includes hundreds of activists from around the world.",
+        "The flotilla is carrying supplies for Palestinians in Gaza.",
+        "The Gaza blockade has lasted for 18 years.",
+        "Greta Thunberg and Mandla Mandela are participating in the flotilla."
       ]
     },
     {
-      "id": "cluster_288",
+      "id": "cluster_311",
       "coverage": 2,
       "updated_at": "Sun, 07 Sep 2025 23:02:34 GMT",
       "title": "Pope Leo canonizes 'God's influencer,' the Catholic Church's first millennial saint",
@@ -1189,7 +1341,7 @@
           "title": "Thousands flock to Vatican as teenager made first millennial saint",
           "standfirst": "Pope Leo canonises the London-born Italian boy nicknamed \"God's influencer\" for his online skills.",
           "content": "Pope Leo canonises the London-born Italian boy nicknamed \"God's influencer\" for his online skills.",
-          "feed_position": 20,
+          "feed_position": 24,
           "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b52/live/4e933240-8c05-11f0-9cf6-cbf3e73ce2b9.jpg"
         },
         {
@@ -1199,18 +1351,18 @@
           "title": "Pope Leo canonizes 'God's influencer,' the Catholic Church's first millennial saint",
           "standfirst": "Pope Leo XIV declared 15-year-old Carlo Acutis the first millennial saint at an open-air Mass attended by tens of thousands of people in the Vatican’s St.",
           "content": "Pope Leo XIV declared 15-year-old Carlo Acutis the first millennial saint at an open-air Mass attended by tens of thousands of people in the Vatican’s St.",
-          "feed_position": 11,
+          "feed_position": 14,
           "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/AP25249299496621-67f3c4.jpg"
         }
       ],
       "featured_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757286150325_wnn_cla_first_millennial_saint_250907_1920x1080-2rzeq1.jpg",
-      "popularity_score": 2007.7765347222223,
+      "popularity_score": 2000,
       "ai_summary": [
         "Pope Leo XIV declared Carlo Acutis the first millennial saint.",
-        "Acutis was a 15-year-old boy.",
-        "The canonization occurred at an open-air Mass in Vatican City.",
-        "Thousands of people attended the Mass.",
-        "Acutis was nicknamed \"God's influencer\" for his online skills."
+        "The canonization took place at an open-air Mass in the Vatican.",
+        "Thousands of people attended the Mass in St. Peter's Square.",
+        "Carlo Acutis was a 15-year-old boy from London.",
+        "He was nicknamed \"God's influencer\" for his online skills."
       ]
     }
   ]
