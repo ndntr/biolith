@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2025-09-10T19:14:57.835Z",
+    "updated_at": "2025-09-10T23:16:30.055Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-09-10T19:15:14.163Z",
+    "updated_at": "2025-09-10T23:16:47.673Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -27,10 +27,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/7f8f1657-2bd6-409c-8311-faeb82874c7b/Unplanned-pregnancy-risks-flagged-for-GLP-1s.aspx",
         "ai_summary": [
           "A new Australian study highlights a link between GLP-1 use and unintended conceptions.",
-          "The study flags unplanned pregnancy risks associated with GLP-1 medications.",
-          "GPs are urged to discuss reproductive health plans with patients.",
-          "The research stresses the importance of reproductive health discussions.",
-          "The study aims to inform healthcare providers about potential risks."
+          "GPs are urged to discuss reproductive health plans with patients using GLP-1s.",
+          "The study emphasizes the importance of considering potential risks.",
+          "The findings underscore the need for informed patient counseling.",
+          "The research focuses on the implications of GLP-1 medications."
         ]
       },
       {
@@ -56,8 +56,8 @@
           "A UNICEF report indicates child obesity is more prevalent than underweight conditions.",
           "The report warns about the risks associated with ultra-processed foods.",
           "Australian children are reportedly among the highest consumers of these foods.",
-          "The research highlights the need for addressing child nutrition issues.",
-          "The report provides data on global child health trends."
+          "The research highlights the need for addressing childhood nutrition.",
+          "The findings underscore the importance of public health interventions."
         ]
       },
       {
@@ -81,10 +81,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/b54eb407-ee36-43ef-8f37-7c0c120017e8/1800PREVENT-Your-partner-in-type-2-diabetes-prevention.aspx",
         "ai_summary": [
           "1800PREVENT offers resources and support for type 2 diabetes prevention.",
-          "The program emphasizes a team approach to diabetes prevention.",
-          "Trusted resources are available to patients between consultations.",
-          "The program aims to provide support for patients.",
-          "The program is sponsored and promotes diabetes prevention efforts."
+          "The program emphasizes a team approach to managing the condition.",
+          "Patients can access trusted resources between consultations.",
+          "The initiative aims to provide ongoing support for individuals.",
+          "The program is designed to aid in preventing type 2 diabetes."
         ]
       },
       {
@@ -107,11 +107,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/837f6882-7c51-4091-bc17-ddcd60d8bc64/Scope-of-practice-GPs-expertise-in-writing-a-script.aspx",
         "ai_summary": [
-          "Writing a prescription requires more than five minutes of a GP's time.",
-          "It requires established patient relationships and knowledge of their history.",
-          "Dr. Ramya Raman emphasizes the importance of patient context.",
-          "The article discusses the complexities of prescribing medications.",
-          "The article highlights the expertise required for effective prescribing."
+          "Writing a prescription requires more than a five-minute consultation.",
+          "It necessitates established relationships and patient history knowledge.",
+          "Dr. Ramya Raman emphasizes the importance of comprehensive care.",
+          "The article highlights the complexities of prescribing medications.",
+          "The focus is on the role of GPs in patient care."
         ]
       },
       {
@@ -135,19 +135,69 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/108284de-9754-4540-b277-7afc4fdb0128/Early-detection-key-to-pulmonary-fibrosis.aspx",
         "ai_summary": [
           "Early detection is crucial for managing pulmonary fibrosis effectively.",
-          "GPs should be alert to the early signs of pulmonary fibrosis.",
+          "GPs should be vigilant for early signs of the condition.",
           "Early detection enables better treatment and improved outcomes.",
-          "A respiratory expert emphasizes the importance of early diagnosis.",
-          "The article aims to raise awareness among GPs about the disease."
+          "A respiratory expert emphasizes the importance of awareness.",
+          "The article focuses on the role of GPs in patient care."
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2025-09-10T19:15:09.595Z",
+    "updated_at": "2025-09-10T23:16:47.165Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Wed, 10 Sep 2025 23:01:16 GMT",
+        "title": "More than half of UK births now involve medical intervention, audit finds",
+        "neutral_headline": "Medical Intervention Involved in Over Half of UK Births",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2025/sep/11/more-than-half-of-uk-births-now-involve-medical-intervention-audit-finds",
+            "published_at": "Wed, 10 Sep 2025 23:01:16 GMT",
+            "title": "More than half of UK births now involve medical intervention, audit finds",
+            "standfirst": "Caesareans drive rise in assisted deliveries as experts warn of complex pregnancies linked to age, obesity and other conditionsMore than half of women having a baby in Britain now do so with the help of medical intervention, an audit of NHS maternity care has revealed.Of the 592,594 births that took place in 2023, 50.6% involved either a caesarean section or the use of instruments such as forceps or a ventouse suction cup. Continue reading...",
+            "content": "Caesareans drive rise in assisted deliveries as experts warn of complex pregnancies linked to age, obesity and other conditionsMore than half of women having a baby in Britain now do so with the help of medical intervention, an audit of NHS maternity care has revealed.Of the 592,594 births that took place in 2023, 50.6% involved either a caesarean section or the use of instruments such as forceps or a ventouse suction cup. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "Over half of UK births in 2023 involved medical intervention.",
+          "Caesarean sections drive the rise in assisted deliveries.",
+          "Experts warn of complex pregnancies linked to age and obesity.",
+          "50.6% of births involved intervention like forceps or ventouse.",
+          "The audit examined 592,594 births in the UK."
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Wed, 10 Sep 2025 21:33:05 GMT",
+        "title": "US drugmaker Merck scraps £1bn London research centre and cuts 125 science jobs",
+        "neutral_headline": "Merck Scraps London Research Centre, Cuts Science Jobs",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/business/2025/sep/10/us-drugmaker-merck-scraps-1bn-london-research-centre-and-cuts-125-science-jobs",
+            "published_at": "Wed, 10 Sep 2025 21:33:05 GMT",
+            "title": "US drugmaker Merck scraps £1bn London research centre and cuts 125 science jobs",
+            "standfirst": "New blow to UK’s key life science sector as industry body says country is losing ground on investment and researchThe US drugmaker Merck has scrapped a £1bn London research centre and is laying off 125 scientists in the capital this year, in a big blow to the UK’s important life science sector.Keir Starmer’s government has described life sciences as “one of the crown jewels of the UK economy” and the previous Conservative government had vowed to turn the country into a “global science and technology superpower” by 2030. Continue reading...",
+            "content": "New blow to UK’s key life science sector as industry body says country is losing ground on investment and researchThe US drugmaker Merck has scrapped a £1bn London research centre and is laying off 125 scientists in the capital this year, in a big blow to the UK’s important life science sector.Keir Starmer’s government has described life sciences as “one of the crown jewels of the UK economy” and the previous Conservative government had vowed to turn the country into a “global science and technology superpower” by 2030. Continue reading...",
+            "feed_position": 1
+          }
+        ],
+        "ai_summary": [
+          "US drugmaker Merck is scrapping a £1bn London research center.",
+          "The company is laying off 125 scientists in London this year.",
+          "This is a blow to the UK's life science sector.",
+          "The government aims to be a global science and technology superpower.",
+          "The UK's life sciences sector is considered a key economic area."
+        ]
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 18:02:49 GMT",
         "title": "Blackpool hospital neglect contributed to suicide of man who waited 22 hours for help, coroner rules",
@@ -160,48 +210,23 @@
             "title": "Blackpool hospital neglect contributed to suicide of man who waited 22 hours for help, coroner rules",
             "standfirst": "Jamie Pearson killed himself in toilet at Blackpool Victoria hospital after being admitted over painkiller overdoseThe death of a 27-year-old man who killed himself in a hospital toilet after waiting 22 hours to be seen by the mental health team was “contributed to by neglect”, a coroner has ruled.Jamie Pearson was admitted to Blackpool Victoria hospital’s A&E department after taking an overdose of high-strength painkillers on 17 August 2024. Continue reading...",
             "content": "Jamie Pearson killed himself in toilet at Blackpool Victoria hospital after being admitted over painkiller overdoseThe death of a 27-year-old man who killed himself in a hospital toilet after waiting 22 hours to be seen by the mental health team was “contributed to by neglect”, a coroner has ruled.Jamie Pearson was admitted to Blackpool Victoria hospital’s A&E department after taking an overdose of high-strength painkillers on 17 August 2024. Continue reading...",
-            "feed_position": 0
+            "feed_position": 2
           }
         ],
         "ai_summary": [
-          "A coroner ruled neglect contributed to a man's suicide at Blackpool Victoria Hospital.",
-          "The 27-year-old died in a hospital toilet after a 22-hour wait.",
-          "He was admitted after an overdose of high-strength painkillers.",
-          "The incident occurred on August 17, 2024, according to the report.",
-          "The coroner's ruling cited neglect as a contributing factor in the death."
+          "A coroner ruled neglect contributed to a man's suicide.",
+          "The man waited 22 hours for mental health help.",
+          "The suicide occurred in a hospital toilet.",
+          "The man had overdosed on painkillers.",
+          "The incident happened at Blackpool Victoria hospital."
         ]
       },
       {
-        "id": "cluster_1",
-        "coverage": 1,
-        "updated_at": "Wed, 10 Sep 2025 17:30:23 GMT",
-        "title": "US drugmaker Merck scraps £1bn London research centre and cuts 125 science jobs",
-        "neutral_headline": "Merck Scraps London Research Centre, Cuts Science Jobs",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/business/2025/sep/10/us-drugmaker-merck-scraps-1bn-london-research-centre-and-cuts-125-science-jobs",
-            "published_at": "Wed, 10 Sep 2025 17:30:23 GMT",
-            "title": "US drugmaker Merck scraps £1bn London research centre and cuts 125 science jobs",
-            "standfirst": "New blow to UK’s key life science sector as industry body says country is losing ground on investment and researchThe US drugmaker Merck has scrapped a £1bn London research centre and is laying off 125 scientists in the capital this year, in a big blow to the UK’s important life science sector.Keir Starmer’s government has described life sciences as “one of the crown jewels of the UK economy” and the previous Conservative government had vowed to turn the country into a “global science and technology superpower” by 2030. Continue reading...",
-            "content": "New blow to UK’s key life science sector as industry body says country is losing ground on investment and researchThe US drugmaker Merck has scrapped a £1bn London research centre and is laying off 125 scientists in the capital this year, in a big blow to the UK’s important life science sector.Keir Starmer’s government has described life sciences as “one of the crown jewels of the UK economy” and the previous Conservative government had vowed to turn the country into a “global science and technology superpower” by 2030. Continue reading...",
-            "feed_position": 1
-          }
-        ],
-        "ai_summary": [
-          "US drugmaker Merck is scrapping a £1 billion London research center.",
-          "The company is laying off 125 scientists in London this year.",
-          "This is a significant blow to the UK's life science sector.",
-          "The government views life sciences as a key part of the economy.",
-          "The previous government aimed to make the UK a science superpower."
-        ]
-      },
-      {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 15:43:59 GMT",
         "title": "Women's healthcare chronically underfunded, says Melinda French Gates",
-        "neutral_headline": "Women's Healthcare Chronically Underfunded, Says Melinda French Gates",
+        "neutral_headline": "Melinda French Gates Donates $50 Million to Women's Healthcare",
         "items": [
           {
             "source": "BBC Health",
@@ -218,17 +243,17 @@
         "ai_summary": [
           "Melinda French Gates is donating $50 million to research women's healthcare.",
           "This donation is part of a larger $1 billion pledge.",
-          "The focus is on addressing the underfunding of women's healthcare.",
-          "The funding aims to improve research in this area.",
-          "The initiative seeks to improve women's health outcomes."
+          "The focus is on addressing chronic underfunding in women's healthcare.",
+          "The initiative aims to improve women's health outcomes.",
+          "The funding will support research into the issue."
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 15:20:14 GMT",
         "title": "Which mammals have periods like humans?",
-        "neutral_headline": "Which Mammals Have Periods Like Humans?",
+        "neutral_headline": "Which Mammals Experience Menstruation Like Humans?",
         "items": [
           {
             "source": "BBC Health",
@@ -243,19 +268,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb13/live/76dd5db0-8a49-11f0-9cf6-cbf3e73ce2b9.jpg",
         "ai_summary": [
-          "A menstrual health expert explains which mammals menstruate.",
-          "The expert details how their cycles differ from other animals.",
+          "Dr. Chi Eziefula explains which mammals menstruate.",
+          "The expert discusses how their cycles differ from other animals.",
           "The article explores the biology of menstruation in mammals.",
-          "It provides insights into the variations in menstrual cycles.",
-          "The expert offers a comparative analysis of different species."
+          "The focus is on understanding menstrual cycles.",
+          "The information provides insights into animal physiology."
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 15:00:16 GMT",
         "title": "Life on Mars? 'Leopard-spot' rocks could be biggest clue yet",
-        "neutral_headline": "Life on Mars? 'Leopard-spot' Rocks Could Be Biggest Clue Yet",
+        "neutral_headline": "Leopard-Spot\" Rocks Could Be Biggest Clue for Life on Mars",
         "items": [
           {
             "source": "BBC Science",
@@ -270,19 +295,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76f6/live/29389990-8da9-11f0-a306-c7044329a9c6.jpg",
         "ai_summary": [
-          "Unusual mudstones found on Mars are potentially significant.",
-          "These rocks may be associated with ancient Martian microbes.",
-          "The discovery could provide evidence of past life on Mars.",
-          "The \"leopard-spot\" pattern is the key feature of the rocks.",
-          "The rocks are being studied for signs of past life."
+          "Unusual mudstones on Mars could be a sign of ancient microbes.",
+          "The rocks have a \"leopard-spot\" appearance.",
+          "The findings suggest potential for past Martian life.",
+          "The research focuses on the Red Planet's geological features.",
+          "The study explores the possibility of life on Mars."
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 14:31:00 GMT",
         "title": "Wegovy maker Novo Nordisk to cut 9,000 jobs amid increased competition",
-        "neutral_headline": "Wegovy Maker Novo Nordisk to Cut 9,000 Jobs Amid Increased Competition",
+        "neutral_headline": "Novo Nordisk to Cut Jobs Amidst Increased Competition",
         "items": [
           {
             "source": "Guardian Health",
@@ -291,23 +316,23 @@
             "title": "Wegovy maker Novo Nordisk to cut 9,000 jobs amid increased competition",
             "standfirst": "Danish manufacturer of weight-loss and diabetes drugs under pressure from US rival Eli Lilly Business live – latest newsThe Danish maker of the weight-loss and diabetes drugs Wegovy and Ozempic is to cut 9,000 jobs as it slashed its profit forecast again, amid fierce competition from its US rival Eli Lilly.Novo Nordisk’s decision to cut 11% of its global workforce of 78,400 is an attempt by the new chief executive, Mike Doustdar, to revive its fortunes. Continue reading...",
             "content": "Danish manufacturer of weight-loss and diabetes drugs under pressure from US rival Eli Lilly Business live – latest newsThe Danish maker of the weight-loss and diabetes drugs Wegovy and Ozempic is to cut 9,000 jobs as it slashed its profit forecast again, amid fierce competition from its US rival Eli Lilly.Novo Nordisk’s decision to cut 11% of its global workforce of 78,400 is an attempt by the new chief executive, Mike Doustdar, to revive its fortunes. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "Novo Nordisk, maker of Wegovy and Ozempic, will cut 9,000 jobs.",
-          "The job cuts represent 11% of the company's global workforce.",
-          "The company is facing increased competition from Eli Lilly.",
-          "The cuts are an attempt to revive the company's fortunes.",
-          "The new CEO, Mike Doustdar, is leading the restructuring."
+          "Novo Nordisk will cut 9,000 jobs, representing 11% of its global workforce.",
+          "The job cuts are a response to increased competition from US rival Eli Lilly.",
+          "The company is cutting jobs as it slashed its profit forecast again.",
+          "The new CEO, Mike Doustdar, is attempting to revive the company's fortunes.",
+          "Novo Nordisk manufactures weight-loss and diabetes drugs like Wegovy and Ozempic."
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 13:50:22 GMT",
         "title": "Fertility clinics must stop unproven treatments, watchdog warns",
-        "neutral_headline": "Fertility Clinics Must Stop Unproven Treatments, Watchdog Warns",
+        "neutral_headline": "Fertility Clinics Warned to Stop Unproven Treatments",
         "items": [
           {
             "source": "BBC Health",
@@ -322,19 +347,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cc3/live/339cf1a0-8e40-11f0-b919-bb47c15c5954.jpg",
         "ai_summary": [
-          "A watchdog is warning fertility clinics about unproven treatments.",
-          "The draft guidance advises against many popular add-ons.",
-          "The focus is on treatments without sufficient evidence.",
-          "The guidance aims to protect patients from ineffective procedures.",
-          "The watchdog seeks to improve the quality of fertility care."
+          "The draft guidance advises against many popular but unproven fertility add-ons.",
+          "The watchdog issued a warning to fertility clinics.",
+          "The guidance focuses on treatments that lack sufficient evidence.",
+          "The aim is to protect patients from ineffective procedures.",
+          "The guidance is intended to improve the quality of fertility care."
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 11:00:03 GMT",
         "title": "Why have energy drinks been banned for under-16s in England? The real question is why it wasn’t done sooner | Devi Sridhar",
-        "neutral_headline": "Why Have Energy Drinks Been Banned for Under-16s in England?",
+        "neutral_headline": "Energy Drinks Banned for Under-16s in England",
         "items": [
           {
             "source": "Guardian Health",
@@ -343,23 +368,23 @@
             "title": "Why have energy drinks been banned for under-16s in England? The real question is why it wasn’t done sooner | Devi Sridhar",
             "standfirst": "Expecting parents to police kids’ intake of a psychoactive drug is unrealistic and unfair given the power of social mediaProf Devi Sridhar is chair of global public health at the University of EdinburghAbout 18 months back, British youth were in the midst of a Prime craze. Pushed by YouTube influencers Logan Paul and KSI, this brightly coloured energy drink sparked a buying frenzy that left parents puzzled. Not only by the high price, or the resale sites that took advantage of scarcity and acted as a kind of ticket tout for the beverages, but also the desperation that children and teens apparently felt to consume this product. It’s not just Prime. Shops are full of energy drinks, often marketed at young people.In response to growing health concerns over their consumption, the UK government recently announced that the sale of energy drinks to anyone under the age of 16 will be banned in England. Wes Streeting, the health secretary, pointed to their links to obesity, poor concentration and disrupted sleep patterns as key reasons for the policy. He said: “Energy drinks might seem harmless but the sleep, concentration and wellbeing of today’s kids are all being impacted, while high-sugar versions damage their teeth and contribute to obesity.” Sodas fall into this category too, but at the core of the debate about energy drinks is one common stimulant that few of us think twice about: caffeine.Prof Devi Sridhar is chair of global public health at the University of Edinburgh Continue reading...",
             "content": "Expecting parents to police kids’ intake of a psychoactive drug is unrealistic and unfair given the power of social mediaProf Devi Sridhar is chair of global public health at the University of EdinburghAbout 18 months back, British youth were in the midst of a Prime craze. Pushed by YouTube influencers Logan Paul and KSI, this brightly coloured energy drink sparked a buying frenzy that left parents puzzled. Not only by the high price, or the resale sites that took advantage of scarcity and acted as a kind of ticket tout for the beverages, but also the desperation that children and teens apparently felt to consume this product. It’s not just Prime. Shops are full of energy drinks, often marketed at young people.In response to growing health concerns over their consumption, the UK government recently announced that the sale of energy drinks to anyone under the age of 16 will be banned in England. Wes Streeting, the health secretary, pointed to their links to obesity, poor concentration and disrupted sleep patterns as key reasons for the policy. He said: “Energy drinks might seem harmless but the sleep, concentration and wellbeing of today’s kids are all being impacted, while high-sugar versions damage their teeth and contribute to obesity.” Sodas fall into this category too, but at the core of the debate about energy drinks is one common stimulant that few of us think twice about: caffeine.Prof Devi Sridhar is chair of global public health at the University of Edinburgh Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ],
         "ai_summary": [
-          "The UK government banned energy drink sales to under-16s in England.",
-          "The ban addresses health concerns related to energy drink consumption.",
-          "The health secretary cited links to obesity and sleep disruption.",
-          "The ban targets the high caffeine content in energy drinks.",
-          "The policy aims to protect the health of children and teens."
+          "The UK government banned energy drink sales to those under sixteen.",
+          "The ban is due to health concerns, including obesity and sleep issues.",
+          "The health secretary cited links to poor concentration and disrupted sleep.",
+          "Energy drinks often contain high levels of caffeine and sugar.",
+          "The ban addresses the impact of energy drinks on children's well-being."
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 10:51:54 GMT",
         "title": "One way Michael Rosen has coped with the death of his son",
-        "neutral_headline": "One Way Michael Rosen Has Coped with the Death of His Son",
+        "neutral_headline": "One way Michael Rosen has coped with the death of his son: \"You don’t die as a human being, you live on with others,\" Rosen told Saturday Live",
         "items": [
           {
             "source": "BBC Health",
@@ -374,19 +399,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1108/live/4ccd2e00-8e23-11f0-9cf6-cbf3e73ce2b9.jpg",
         "ai_summary": [
-          "Michael Rosen shared how he copes with his son's death.",
-          "He stated that people live on through others after death.",
-          "Rosen spoke on Saturday Live about his experience.",
-          "The focus is on how he deals with grief and loss.",
-          "He emphasizes the enduring impact of human connection."
+          "Michael Rosen shared his coping mechanism on Saturday Live.",
+          "He believes people live on through others after death.",
+          "Rosen's statement reflects his perspective on grief and loss.",
+          "The quote emphasizes the enduring impact of a person's life.",
+          "The statement offers a message of hope and remembrance."
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 09:00:09 GMT",
         "title": "Rinse and repeat: US vaccine hearing on unpublished study debates same myths",
-        "neutral_headline": "Rinse and repeat: US vaccine hearing on unpublished study debates same myths",
+        "neutral_headline": "Rinse and repeat: US vaccine hearing on unpublished study debates same myths: Research comparing chronic illness in vaccinated and non-vaccinated kids had never been peer-reviewed, nor is any of its data available",
         "items": [
           {
             "source": "Guardian Health",
@@ -395,23 +420,23 @@
             "title": "Rinse and repeat: US vaccine hearing on unpublished study debates same myths",
             "standfirst": "Research comparing chronic illness in vaccinated and non-vaccinated kids had never been peer-reviewed, nor is any of its data availableA congressional hearing on Tuesday titled “How the Corruption of Science Has Impacted Public Perception and Policies Regarding Vaccines” largely consisted of a debate over an unpublished study comparing chronic illnesses in children who received vaccines with those who didn’t.The study was lead-authored by Marcus Zervos of Henry Ford Health, completed in 2020, and never submitted for publication, according to testimony during the hearing. Senator Ron Johnson, the chair of the subcommittee for the hearing, and the witness Aaron Siri, a lawyer who has represented RFK Jr and the anti-vaccination non-profit Informed Consent Action Network, both claimed the study was not submitted because the authors would lose their jobs were it to be published. Continue reading...",
             "content": "Research comparing chronic illness in vaccinated and non-vaccinated kids had never been peer-reviewed, nor is any of its data availableA congressional hearing on Tuesday titled “How the Corruption of Science Has Impacted Public Perception and Policies Regarding Vaccines” largely consisted of a debate over an unpublished study comparing chronic illnesses in children who received vaccines with those who didn’t.The study was lead-authored by Marcus Zervos of Henry Ford Health, completed in 2020, and never submitted for publication, according to testimony during the hearing. Senator Ron Johnson, the chair of the subcommittee for the hearing, and the witness Aaron Siri, a lawyer who has represented RFK Jr and the anti-vaccination non-profit Informed Consent Action Network, both claimed the study was not submitted because the authors would lose their jobs were it to be published. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ],
         "ai_summary": [
           "A congressional hearing debated an unpublished vaccine study.",
-          "The study compared chronic illness in vaccinated and unvaccinated children.",
-          "The study was led by Marcus Zervos of Henry Ford Health in 2020.",
-          "The study was never submitted for publication, according to testimony.",
-          "Senator Ron Johnson and Aaron Siri claimed authors feared job loss."
+          "The study compared chronic illnesses in vaccinated and unvaccinated children.",
+          "The study was led by Marcus Zervos and completed in 2020.",
+          "The study was not submitted for publication, according to testimony.",
+          "The hearing focused on the study's impact on vaccine perception."
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 07:51:35 GMT",
         "title": "Rise in number of people facing hunger in the UK",
-        "neutral_headline": "Rise in Number of People Facing Hunger in the UK",
+        "neutral_headline": "Rise in Number of People Facing Hunger in UK",
         "items": [
           {
             "source": "BBC Health",
@@ -426,19 +451,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bad/live/1f2130f0-8d7e-11f0-ac6f-3b6487860586.jpg",
         "ai_summary": [
-          "Over 14.1 million people experienced food insecurity last year.",
-          "The Trussell Trust issued the warning about hunger in the UK.",
+          "More than 14.1 million people experienced food insecurity last year.",
+          "The Trussell Trust issued the warning about food insecurity.",
+          "The data reflects a rise in the number of people facing hunger.",
           "The report highlights the growing issue of food poverty.",
-          "The data reflects the increasing challenges faced by people.",
-          "The trust is working to address food insecurity in the UK."
+          "The Trussell Trust is a UK-based food bank network."
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 06:00:05 GMT",
         "title": "Deaf review – cinema as empathy machine as a deaf mother struggles with parenting issues",
-        "neutral_headline": "Deaf review – cinema as empathy machine as a deaf mother struggles with parenting issues",
+        "neutral_headline": "Deaf review – cinema as empathy machine as a deaf mother struggles with parenting issues: Angela’s apparently idyllic family life begins to fray when she becomes pregnant and the hearing world’s old prejudices are reawakenedFar from the Tree, Andrew Solomon’s brilliant nonfiction book about parenting children different from oneself, offers the useful distinction between vertical and horizontal identities. Vertical identities are inherited – a family name, an ethnicity, or a nationality; horizontal identities are qualities that define us which parents may have nothing to do with, such as the kinship people with autism feel with one another, or being gay or deaf.Deaf, a Spanish-language film directed by Eva Libertad that stars Libertad’s own deaf sister Miriam Garlo, offers a near-perfect fictional illustration of the tension between vertical and horizontal identities within a newly minted nuclear family. Professional potter Angela (Garlo) is deaf, and married to farmer Hector, a hearing man, and the two mostly communicate through sign language. Almost as soon as they find out Angela is pregnant, little fissures appear in the foundations of their happiness. Angela’s deaf friends all sign their delight ecstatically and talk about their own pregnancy and birth difficulties with warmth. But minutes before Angela reveals she’s with child, Angela’s hearing mother (Elena Irureta) casually mentions she thinks things are better for the young couple without kids, indicating that she believes deafness is too much of an affliction. Talk about awkward",
         "items": [
           {
             "source": "Guardian Health",
@@ -447,23 +472,23 @@
             "title": "Deaf review – cinema as empathy machine as a deaf mother struggles with parenting issues",
             "standfirst": "Angela’s apparently idyllic family life begins to fray when she becomes pregnant and the hearing world’s old prejudices are reawakenedFar from the Tree, Andrew Solomon’s brilliant nonfiction book about parenting children different from oneself, offers the useful distinction between vertical and horizontal identities. Vertical identities are inherited – a family name, an ethnicity, or a nationality; horizontal identities are qualities that define us which parents may have nothing to do with, such as the kinship people with autism feel with one another, or being gay or deaf.Deaf, a Spanish-language film directed by Eva Libertad that stars Libertad’s own deaf sister Miriam Garlo, offers a near-perfect fictional illustration of the tension between vertical and horizontal identities within a newly minted nuclear family. Professional potter Angela (Garlo) is deaf, and married to farmer Hector, a hearing man, and the two mostly communicate through sign language. Almost as soon as they find out Angela is pregnant, little fissures appear in the foundations of their happiness. Angela’s deaf friends all sign their delight ecstatically and talk about their own pregnancy and birth difficulties with warmth. But minutes before Angela reveals she’s with child, Angela’s hearing mother (Elena Irureta) casually mentions she thinks things are better for the young couple without kids, indicating that she believes deafness is too much of an affliction. Talk about awkward. Continue reading...",
             "content": "Angela’s apparently idyllic family life begins to fray when she becomes pregnant and the hearing world’s old prejudices are reawakenedFar from the Tree, Andrew Solomon’s brilliant nonfiction book about parenting children different from oneself, offers the useful distinction between vertical and horizontal identities. Vertical identities are inherited – a family name, an ethnicity, or a nationality; horizontal identities are qualities that define us which parents may have nothing to do with, such as the kinship people with autism feel with one another, or being gay or deaf.Deaf, a Spanish-language film directed by Eva Libertad that stars Libertad’s own deaf sister Miriam Garlo, offers a near-perfect fictional illustration of the tension between vertical and horizontal identities within a newly minted nuclear family. Professional potter Angela (Garlo) is deaf, and married to farmer Hector, a hearing man, and the two mostly communicate through sign language. Almost as soon as they find out Angela is pregnant, little fissures appear in the foundations of their happiness. Angela’s deaf friends all sign their delight ecstatically and talk about their own pregnancy and birth difficulties with warmth. But minutes before Angela reveals she’s with child, Angela’s hearing mother (Elena Irureta) casually mentions she thinks things are better for the young couple without kids, indicating that she believes deafness is too much of an affliction. Talk about awkward. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "The film \"Deaf\" explores the tension between identities.",
-          "The film features a deaf mother navigating parenting challenges.",
-          "The film highlights the struggles of a deaf family.",
-          "The film is a Spanish-language production.",
-          "The film explores themes of family and identity."
+          "The film \"Deaf\" explores tensions within a deaf family.",
+          "The film features a deaf mother and her hearing husband.",
+          "The story highlights the challenges of parenting with deafness.",
+          "The film illustrates the conflict between vertical and horizontal identities.",
+          "The film is directed by Eva Libertad and stars Miriam Garlo."
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 03:22:07 GMT",
         "title": "Vaccine to curb chlamydia epidemic devastating koalas approved",
-        "neutral_headline": "Vaccine to curb chlamydia epidemic devastating koalas approved",
+        "neutral_headline": "Vaccine Approved to Curb Chlamydia Epidemic in Koalas",
         "items": [
           {
             "source": "BBC Science",
@@ -478,19 +503,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e741/live/c059b6d0-8dd9-11f0-b391-6936825093bd.jpg",
         "ai_summary": [
-          "A vaccine to curb chlamydia in koalas has been approved.",
+          "A vaccine to combat chlamydia in koalas has been approved.",
           "Thousands of koalas have died from the disease.",
-          "Estimates suggest only 50,000 koalas remain in the wild.",
+          "Some estimates suggest only 50,000 koalas remain in the wild.",
           "The vaccine aims to protect the koala population.",
-          "The disease is a major threat to koala survival."
+          "The disease is devastating the koala population."
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 00:45:56 GMT",
         "title": "More children are obese than underweight, says Unicef",
-        "neutral_headline": "More Children Are Obese Than Underweight, Says Unicef",
+        "neutral_headline": "More Children Obese Than Underweight, Says Unicef",
         "items": [
           {
             "source": "BBC Health",
@@ -506,18 +531,18 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7721/live/953671c0-8d87-11f0-9530-4d799fcfe1d6.jpg",
         "ai_summary": [
           "Unicef reports more children are obese than underweight.",
-          "Traditional diets are being replaced by ultra-processed foods.",
+          "Traditional, healthy diets are being replaced.",
           "Ultra-processed foods are often high in sugar and additives.",
           "The UN agency highlights the shift in children's diets.",
-          "The report addresses the global issue of childhood obesity."
+          "The report addresses global trends in child nutrition."
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 00:36:00 GMT",
         "title": "Alzheimer's blood test could 'revolutionise' diagnosis",
-        "neutral_headline": "Alzheimer's blood test could 'revolutionise' diagnosis",
+        "neutral_headline": "Alzheimer's blood test could 'revolutionise' diagnosis: Scientists leading the trial at University College London believe the blood test could improve the accuracy of diagnosis of the disease to more than 90%",
         "items": [
           {
             "source": "BBC Health",
@@ -532,19 +557,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/359b/live/d8f2bc40-8dbc-11f0-b9a7-a111464e9a18.jpg",
         "ai_summary": [
-          "An Alzheimer's blood test could improve diagnosis accuracy.",
-          "Scientists at University College London lead the trial.",
-          "The test could improve accuracy to over 90%.",
-          "The test aims to improve early detection of the disease.",
-          "The test could revolutionize Alzheimer's diagnosis."
+          "Scientists are trialing an Alzheimer's blood test.",
+          "The test could improve diagnosis accuracy to over 90%.",
+          "The trial is led by researchers at University College London.",
+          "The test aims to revolutionize Alzheimer's diagnosis.",
+          "The test could lead to earlier and more accurate diagnoses."
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Tue, 09 Sep 2025 23:01:55 GMT",
         "title": "Doctors trial £100 blood test that could transform how NHS detects Alzheimer’s",
-        "neutral_headline": "Blood Test Trial Aims to Improve Alzheimer's Diagnosis in NHS",
+        "neutral_headline": "Doctors trial £100 blood test that could transform how NHS detects Alzheimer’s: More than 1,000 patients to take part in trial to see if the approach leads to faster and more reliable diagnosesDoctors have launched a clinical trial of a £100 blood test for Alzheimer’s disease in the hope of transforming diagnosis of the devastating condition in the NHS.More than 1,000 patients with suspected dementia are being recruited from memory clinics across the UK to see whether the test leads to faster and more reliable diagnoses and better care for those found to have the disease",
         "items": [
           {
             "source": "Guardian Health",
@@ -553,19 +578,19 @@
             "title": "Doctors trial £100 blood test that could transform how NHS detects Alzheimer’s",
             "standfirst": "More than 1,000 patients to take part in trial to see if the approach leads to faster and more reliable diagnosesDoctors have launched a clinical trial of a £100 blood test for Alzheimer’s disease in the hope of transforming diagnosis of the devastating condition in the NHS.More than 1,000 patients with suspected dementia are being recruited from memory clinics across the UK to see whether the test leads to faster and more reliable diagnoses and better care for those found to have the disease. Continue reading...",
             "content": "More than 1,000 patients to take part in trial to see if the approach leads to faster and more reliable diagnosesDoctors have launched a clinical trial of a £100 blood test for Alzheimer’s disease in the hope of transforming diagnosis of the devastating condition in the NHS.More than 1,000 patients with suspected dementia are being recruited from memory clinics across the UK to see whether the test leads to faster and more reliable diagnoses and better care for those found to have the disease. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ],
         "ai_summary": [
-          "A clinical trial is underway for a £100 blood test to detect Alzheimer's disease.",
-          "Over 1,000 patients with suspected dementia will participate in the UK trial.",
-          "The trial seeks to determine if the test provides faster and more reliable diagnoses.",
-          "The goal is to improve care for individuals diagnosed with Alzheimer's.",
-          "The trial is being conducted across memory clinics throughout the United Kingdom."
+          "Doctors are trialing a £100 blood test for Alzheimer's.",
+          "The trial involves over 1,000 patients with dementia.",
+          "The test aims to improve Alzheimer's diagnosis in the NHS.",
+          "The trial seeks faster and more reliable diagnoses.",
+          "The trial is recruiting patients from UK memory clinics."
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Tue, 09 Sep 2025 22:36:39 GMT",
         "title": "Patrick: A Young Traveller Lost",
@@ -584,19 +609,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m0cb00.jpg",
         "ai_summary": [
-          "The article focuses on the story of 12-year-old Patrick.",
-          "Patrick's story highlights the suicide crisis within the Traveller community.",
-          "The article aims to shed light on the challenges faced by this community.",
-          "The story likely explores the factors contributing to the crisis.",
-          "The article may discuss potential solutions or support systems."
+          "The story of Patrick, a young Traveller, is highlighted.",
+          "Patrick's story sheds light on the suicide crisis.",
+          "The focus is on the Traveller community.",
+          "The story addresses the issue of suicide.",
+          "The story is about a 12-year-old."
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Tue, 09 Sep 2025 21:47:14 GMT",
         "title": "Critics decry White House’s Maha report on chronic illnesses in children",
-        "neutral_headline": "White House Report on Children's Illnesses Draws Criticism",
+        "neutral_headline": "Critics decry White House’s Maha report on chronic illnesses in children: Report omits limiting pesticides and ultra-processed foods even as RFK Jr pledges to fight against childhood obesityThe Trump administration released its second Make America Healthy Again (Maha) report, this time on chronic illnesses in children, confirming a leaked report from last month that the administration would stop short of proposing direct restrictions on pesticides and ultra-processed foods.On Tuesday, the Make America Healthy Again commission published a 20-page report that attempts a balance for the priorities of health secretary Robert F Kennedy Jr’s supporters with the interests of influential farming corporations. It also urges an overhaul of the nation’s vaccine injury system and tighter oversight of certain prescriptions",
         "items": [
           {
             "source": "Guardian Health",
@@ -605,23 +630,23 @@
             "title": "Critics decry White House’s Maha report on chronic illnesses in children",
             "standfirst": "Report omits limiting pesticides and ultra-processed foods even as RFK Jr pledges to fight against childhood obesityThe Trump administration released its second Make America Healthy Again (Maha) report, this time on chronic illnesses in children, confirming a leaked report from last month that the administration would stop short of proposing direct restrictions on pesticides and ultra-processed foods.On Tuesday, the Make America Healthy Again commission published a 20-page report that attempts a balance for the priorities of health secretary Robert F Kennedy Jr’s supporters with the interests of influential farming corporations. It also urges an overhaul of the nation’s vaccine injury system and tighter oversight of certain prescriptions. Continue reading...",
             "content": "Report omits limiting pesticides and ultra-processed foods even as RFK Jr pledges to fight against childhood obesityThe Trump administration released its second Make America Healthy Again (Maha) report, this time on chronic illnesses in children, confirming a leaked report from last month that the administration would stop short of proposing direct restrictions on pesticides and ultra-processed foods.On Tuesday, the Make America Healthy Again commission published a 20-page report that attempts a balance for the priorities of health secretary Robert F Kennedy Jr’s supporters with the interests of influential farming corporations. It also urges an overhaul of the nation’s vaccine injury system and tighter oversight of certain prescriptions. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ],
         "ai_summary": [
-          "The White House's \"Make America Healthy Again\" report on children's illnesses was released.",
-          "Critics are concerned the report omits restrictions on pesticides and ultra-processed foods.",
-          "The report was published by the Make America Healthy Again commission.",
-          "The report suggests an overhaul of the vaccine injury system.",
-          "The report also calls for tighter oversight of certain prescriptions."
+          "Critics are decrying the White House's Maha report.",
+          "The report omits restrictions on pesticides and foods.",
+          "RFK Jr. pledges to fight childhood obesity.",
+          "The report was released by the Trump administration.",
+          "The report attempts to balance various priorities."
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Tue, 09 Sep 2025 19:03:27 GMT",
         "title": "Can the old-but-new NHS league tables revive the health service?",
-        "neutral_headline": "New NHS League Tables Aim to Improve Healthcare Standards",
+        "neutral_headline": "Can the old-but-new NHS league tables revive the health service?: The new system resembles Tony Blair’s star-rating regime, which was eventually scrapped. Whether naming and shaming leads to improvements remains to be seenThe Department of Health and Social Care (DHSC) was glowing in its description of the league tables by which all of England’s 205 NHS trusts are now being judged: a “landmark” moment, a “pioneering new system” and “a new era of transparency”.Wes Streeting, the health secretary, said that “sunlight is the best disinfectant” in his zeal to expose, and drive out, poor care",
         "items": [
           {
             "source": "Guardian Health",
@@ -630,46 +655,21 @@
             "title": "Can the old-but-new NHS league tables revive the health service?",
             "standfirst": "The new system resembles Tony Blair’s star-rating regime, which was eventually scrapped. Whether naming and shaming leads to improvements remains to be seenThe Department of Health and Social Care (DHSC) was glowing in its description of the league tables by which all of England’s 205 NHS trusts are now being judged: a “landmark” moment, a “pioneering new system” and “a new era of transparency”.Wes Streeting, the health secretary, said that “sunlight is the best disinfectant” in his zeal to expose, and drive out, poor care. Continue reading...",
             "content": "The new system resembles Tony Blair’s star-rating regime, which was eventually scrapped. Whether naming and shaming leads to improvements remains to be seenThe Department of Health and Social Care (DHSC) was glowing in its description of the league tables by which all of England’s 205 NHS trusts are now being judged: a “landmark” moment, a “pioneering new system” and “a new era of transparency”.Wes Streeting, the health secretary, said that “sunlight is the best disinfectant” in his zeal to expose, and drive out, poor care. Continue reading...",
-            "feed_position": 8
-          }
-        ],
-        "ai_summary": [
-          "The Department of Health and Social Care is judging 205 NHS trusts using league tables.",
-          "The health secretary believes transparency will improve care quality.",
-          "The new system resembles Tony Blair's star-rating regime.",
-          "The effectiveness of naming and shaming to improve care is yet to be determined.",
-          "The system is described as a \"landmark\" and \"pioneering new system\"."
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Tue, 09 Sep 2025 17:53:25 GMT",
-        "title": "School absence a big factor in child mental illness in England, data shows",
-        "neutral_headline": "School Absence Linked to Increased Child Mental Illness",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/education/2025/sep/09/school-absence-big-factor-child-mental-illness-england-ons-data",
-            "published_at": "Tue, 09 Sep 2025 17:53:25 GMT",
-            "title": "School absence a big factor in child mental illness in England, data shows",
-            "standfirst": "Loughborough University and ONS study of 1 million school-age children reveals risks increase with longer absenceSchool absences “significantly contribute” to children’s mental ill health, according to research backed by the Office for National Statistics that shows the risks increase the longer a child is absent.“Our research shows that the more times a child is absent from school, the greater the probability that they will experience mental ill health,” the authors, from Loughborough University and the ONS, concluded. Continue reading...",
-            "content": "Loughborough University and ONS study of 1 million school-age children reveals risks increase with longer absenceSchool absences “significantly contribute” to children’s mental ill health, according to research backed by the Office for National Statistics that shows the risks increase the longer a child is absent.“Our research shows that the more times a child is absent from school, the greater the probability that they will experience mental ill health,” the authors, from Loughborough University and the ONS, concluded. Continue reading...",
             "feed_position": 9
           }
         ],
         "ai_summary": [
-          "Research shows school absences significantly contribute to children's mental ill health.",
-          "The study was conducted by Loughborough University and the Office for National Statistics.",
-          "The research involved data from 1 million school-age children.",
-          "The risk of mental ill health increases with longer school absences.",
-          "The authors concluded that absence frequency correlates with mental health issues."
+          "New NHS league tables are being introduced in England.",
+          "The system judges all 205 NHS trusts.",
+          "The DHSC describes the system as a landmark moment.",
+          "The health secretary supports transparency in care.",
+          "The system resembles Tony Blair's star-rating regime."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-09-10T19:15:14.163Z",
+    "updated_at": "2025-09-10T23:16:47.673Z",
     "clusters": []
   }
 }
