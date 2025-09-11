@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2025-09-11T19:13:38.706Z",
+    "updated_at": "2025-09-11T23:17:18.957Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-09-11T19:13:51.260Z",
+    "updated_at": "2025-09-11T23:17:35.401Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -28,9 +28,9 @@
         "ai_summary": [
           "Evidence shows children become less active as they age.",
           "This raises concerns about future healthy habits.",
-          "Empowering teens is key to improving future health.",
-          "The focus is on promoting healthy habits in teens.",
-          "The study highlights the importance of teen health."
+          "The focus is on teens and their health.",
+          "The article emphasizes the importance of empowering teens.",
+          "The goal is to improve future health outcomes."
         ]
       },
       {
@@ -53,10 +53,10 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/7a180957-13bb-474e-b5e5-ad7c7b7a9814/A-14-year-journey-GPs-in-Training-Chair-celebrates-Fellowship.aspx",
         "ai_summary": [
-          "Dr. Rebecca Loveridge celebrated her Fellowship.",
-          "She reflected on lessons learned during her training.",
-          "She discussed her advocacy work.",
-          "She expressed joy at having family at the ceremony.",
+          "Dr. Rebecca Loveridge reflects on her journey.",
+          "She discusses lessons learned and advocacy work.",
+          "She celebrates her Fellowship at a recent ceremony.",
+          "She also mentions the joy of having family present.",
           "The ceremony was held by the RACGP."
         ]
       },
@@ -80,11 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/029a451f-88b9-41b8-a0b2-82350a0073c9/Refsum-A-rare-disease-hiding-in-plain-sight.aspx",
         "ai_summary": [
-          "One woman took 40 years to be diagnosed with Refsum disease.",
-          "She wants GPs to know how easily it can be detected.",
-          "Refsum disease is a rare disease.",
-          "The disease can be easily detected.",
-          "The woman is raising awareness of the disease."
+          "A woman was diagnosed with Refsum disease after 40 years of symptoms.",
+          "GPs are encouraged to learn how easily Refsum disease can be detected.",
+          "The article highlights the importance of early diagnosis for Refsum disease.",
+          "Early detection can improve patient outcomes and quality of life.",
+          "The article aims to raise awareness among general practitioners."
         ]
       },
       {
@@ -107,11 +107,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/0d0b7eb4-f889-462b-9c6b-6e7cc256c7bf/In-Practice-Updates-to-referrals-for-chronic-conditions.aspx",
         "ai_summary": [
-          "There are recent changes to chronic condition management.",
-          "GPs are reminded of new referral processes.",
-          "The new processes are for allied health services.",
-          "The updates are for GPs in practice.",
-          "The changes affect how GPs make referrals."
+          "Recent changes impact how GPs refer patients for chronic condition management.",
+          "GPs are reminded of new referral processes for allied health services.",
+          "The updates aim to streamline the referral system for better patient care.",
+          "The changes may affect the types of services patients can access.",
+          "GPs should familiarize themselves with the updated guidelines."
         ]
       },
       {
@@ -134,24 +134,51 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/7f8f1657-2bd6-409c-8311-faeb82874c7b/Unplanned-pregnancy-risks-flagged-for-GLP-1s.aspx",
         "ai_summary": [
-          "Unplanned pregnancy risks are flagged for GLP-1s.",
-          "GPs' role in discussing reproductive health is stressed.",
-          "A new Australian study highlights a link.",
-          "The link is between GLP-1 use and unintended conceptions.",
-          "The study emphasizes the importance of reproductive health discussions."
+          "An Australian study highlights a link between GLP-1 use and unintended conceptions.",
+          "GPs are stressed to discuss reproductive health plans with patients.",
+          "The study suggests a potential risk associated with GLP-1 medications.",
+          "The article emphasizes the importance of patient counseling.",
+          "GPs should be aware of the potential impact on family planning."
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2025-09-11T19:13:51.025Z",
+    "updated_at": "2025-09-11T23:17:35.177Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Thu, 11 Sep 2025 23:02:49 GMT",
+        "title": "US Energy chief tells BBC nuclear fusion will soon power the world",
+        "neutral_headline": "Nuclear fusion will soon power the world, says US Energy chief",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cqlz5p314z0o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 11 Sep 2025 23:02:49 GMT",
+            "title": "US Energy chief tells BBC nuclear fusion will soon power the world",
+            "standfirst": "AI will soon enable harnessing of the energy that powers the sun and stars, says Chris Wright",
+            "content": "AI will soon enable harnessing of the energy that powers the sun and stars, says Chris Wright",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b857/live/0643dc50-8f58-11f0-84c8-99de564f0440.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b857/live/0643dc50-8f58-11f0-84c8-99de564f0440.jpg",
+        "ai_summary": [
+          "US Energy chief says AI will enable harnessing of the sun's energy.",
+          "Nuclear fusion is predicted to become a major power source soon.",
+          "The article discusses the potential of nuclear fusion technology.",
+          "AI is expected to play a key role in this energy revolution.",
+          "The article highlights the future of energy production."
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
         "updated_at": "Thu, 11 Sep 2025 18:18:08 GMT",
         "title": "Does my vagina really need a ‘facial’?",
-        "neutral_headline": "Vagina \"Facials\" and Beauty Standards Questioned",
+        "neutral_headline": "Vagina wellness products and \"vaginal facials\" are discussed",
         "items": [
           {
             "source": "Guardian Health",
@@ -165,18 +192,18 @@
         ],
         "ai_summary": [
           "The article questions the need for \"vaginal wellness\" products.",
-          "It criticizes the idea of a vagina needing to look a certain way.",
-          "The author notes the barrage of ads for vaginal products.",
-          "The author questions if her labia are \"normal\".",
-          "The article discusses beauty standards and their impact."
+          "It critiques the pressure to have a vagina that looks a certain way.",
+          "The author discusses the impact of beauty standards on women.",
+          "The article explores the concept of vaginal self-cleaning.",
+          "It raises concerns about the potential health hazards of these products."
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Thu, 11 Sep 2025 16:41:12 GMT",
         "title": "UK politics: No 10 says Starmer found Mandelson’s emails to Epstein ‘reprehensible’ – as it happened",
-        "neutral_headline": "UK Politics: Starmer on Mandelson's Emails to Epstein",
+        "neutral_headline": "Starmer finds Mandelson's emails to Epstein \"reprehensible",
         "items": [
           {
             "source": "Guardian Health",
@@ -189,19 +216,19 @@
           }
         ],
         "ai_summary": [
-          "No 10 says Starmer found Mandelson's emails to Epstein \"reprehensible\".",
-          "No 10 declined to say the PM was \"misled\" by Mandelson.",
-          "Stephen Doughty responded to a question about Mandelson.",
+          "No 10 declines to say the PM was misled by Mandelson.",
+          "The article discusses Peter Mandelson's emails to Jeffrey Epstein.",
+          "A Foreign Office minister responds to questions about Mandelson.",
           "The article mentions the anniversary of the 9/11 attacks.",
-          "The article discusses hiding government documents."
+          "It discusses the potential impact on the Labour party."
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Thu, 11 Sep 2025 16:23:44 GMT",
         "title": "Clean air must be made a global priority | Letter",
-        "neutral_headline": "Clean Air as a Global Priority",
+        "neutral_headline": "Clean air must be made a global priority, says a letter",
         "items": [
           {
             "source": "Guardian Health",
@@ -214,19 +241,19 @@
           }
         ],
         "ai_summary": [
-          "The article emphasizes the need to make clean air a global priority.",
-          "Toxic air shortens lives and harms health.",
-          "The article references a study on air pollution and dementia.",
-          "Solutions to air pollution are available.",
-          "Cutting pollution could save thousands of lives."
+          "The article discusses the impact of toxic air on health.",
+          "It highlights the shortening of lives due to air pollution.",
+          "The article mentions a study on air pollution and dementia.",
+          "Solutions to reduce air pollution are available.",
+          "Cutting pollution in the US could save thousands of lives."
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Thu, 11 Sep 2025 16:23:13 GMT",
         "title": "Striking tube drivers have proved a point | Brief letters",
-        "neutral_headline": "Tube Drivers' Strike and London Traffic",
+        "neutral_headline": "Tube drivers strike highlights importance, letters discuss other topics",
         "items": [
           {
             "source": "Guardian Health",
@@ -239,19 +266,19 @@
           }
         ],
         "ai_summary": [
-          "The article discusses the impact of the tube drivers' strike.",
-          "Chaos on London roads was caused by the strike.",
-          "The article suggests paying drivers more and reducing hours.",
-          "A letter discusses smiling while driving.",
-          "Another letter discusses giving way in traffic."
+          "The article discusses the importance of tube drivers.",
+          "It suggests paying tube drivers more and reducing hours.",
+          "A letter discusses the lack of courtesy on the roads.",
+          "Another letter discusses the impact of smiling.",
+          "The article covers various topics related to London."
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Thu, 11 Sep 2025 16:07:59 GMT",
         "title": "Blackpool hospital neglect contributed to suicide of man who waited 22 hours for help, coroner rules",
-        "neutral_headline": "Blackpool Hospital Neglect Contributed to Suicide",
+        "neutral_headline": "Blackpool hospital neglect contributed to suicide, coroner rules",
         "items": [
           {
             "source": "Guardian Health",
@@ -265,18 +292,18 @@
         ],
         "ai_summary": [
           "A coroner ruled neglect contributed to a man's suicide.",
-          "The man waited 22 hours for help at Blackpool Victoria hospital.",
-          "Jamie Pearson killed himself in a hospital toilet.",
-          "He was admitted after a painkiller overdose.",
-          "The coroner's ruling highlights the hospital's failings."
+          "The man waited 22 hours for mental health help.",
+          "The suicide occurred in a hospital toilet.",
+          "The man had overdosed on painkillers.",
+          "The article highlights issues with hospital care."
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Thu, 11 Sep 2025 16:00:00 GMT",
         "title": "BBC Inside Science",
-        "neutral_headline": "NASA Rover Findings May Indicate Past Life on Mars",
+        "neutral_headline": "Nasa rover results may show signs of life in rocks",
         "items": [
           {
             "source": "BBC Science",
@@ -291,19 +318,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
         "ai_summary": [
-          "Perseverance rover results may show signs of living organisms in Martian rocks.",
-          "Scientists are analyzing rock samples for potential evidence of past life.",
-          "The findings could provide insights into the possibility of life on Mars.",
-          "This research is part of ongoing efforts to understand the planet's history.",
-          "The rover continues to explore the Jezero Crater, searching for clues."
+          "Results from Nasa's Perseverance rover are discussed.",
+          "The rover may have found signs of living organisms.",
+          "The article discusses potential evidence in rocks.",
+          "The findings could indicate past life on Mars.",
+          "The article explores the possibility of extraterrestrial life."
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Thu, 11 Sep 2025 13:01:27 GMT",
         "title": "Doctors warn hospitals under pressure as NHS waiting lists rise",
-        "neutral_headline": "NHS Waiting Lists Rise to Highest Level Since March",
+        "neutral_headline": "NHS waiting lists rise, doctors warn of hospital pressure",
         "items": [
           {
             "source": "BBC Health",
@@ -318,19 +345,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baac/live/73a3ef50-8f04-11f0-9977-c3ca5852dfa2.jpg",
         "ai_summary": [
-          "Planned hospital treatment waiting lists in England increased in July.",
-          "The waiting list reached its highest level since March, according to reports.",
-          "Doctors are expressing concerns about the growing pressure on hospitals.",
-          "The rise in waiting times affects access to various medical procedures.",
-          "This trend highlights challenges within the National Health Service."
+          "The waiting list for planned hospital treatment rose again.",
+          "The waiting list is at its highest level since March.",
+          "The article discusses the pressure on the NHS.",
+          "The increase in waiting times is a concern.",
+          "The article highlights the challenges facing hospitals."
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Thu, 11 Sep 2025 12:06:48 GMT",
         "title": "Michel Odent obituary",
-        "neutral_headline": "Michel Odent obituary: Obstetrician whose work in a French hospital and then in London led to a revolution in how mothers are treated in labourThe pioneering French obstetrician Michel Odent, who has died aged 95, spent more than 50 years passionately promoting understanding of the natural physiology of childbirth. From the 1960s onwards, “active management of labour”, using artificial oxytocin and other techniques, had dominated obstetric practice. Odent’s work flagged up its pitfalls, and offered an alternative view.Daniela Drandić of the International Confederation of Midwives said: “In the 1970s birth was institutionalised and medicalised. Michel Odent reminded us that physiological processes during pregnancy and birth should be respected, which was very important as things had gone too far in the other direction. There wasn’t much discourse at the time and he showed us another way.” Continue reading",
+        "neutral_headline": "Michel Odent obituary: Obstetrician revolutionized childbirth",
         "items": [
           {
             "source": "Guardian Health",
@@ -343,19 +370,19 @@
           }
         ],
         "ai_summary": [
-          "Michel Odent, a French obstetrician, has passed away at age 95.",
-          "He advocated for understanding the natural physiology of childbirth for over 50 years.",
-          "Odent challenged the dominance of active labor management practices.",
-          "He highlighted the pitfalls of artificial oxytocin and other techniques.",
-          "His work promoted respecting physiological processes during pregnancy and birth."
+          "Michel Odent, a pioneering obstetrician, has died.",
+          "He promoted understanding of natural childbirth physiology.",
+          "Odent challenged the use of artificial oxytocin.",
+          "He offered an alternative view on childbirth practices.",
+          "His work influenced the way mothers are treated in labor."
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 11 Sep 2025 11:48:14 GMT",
         "title": "GMC examines doctor’s Reform speech linking vaccines to royal family cancer",
-        "neutral_headline": "GMC examines doctor’s Reform speech linking vaccines to royal family cancer: Medical bodies and prime minister condemn Aseem Malhotra’s ‘pseudo-science’ remarks at party conferenceThe General Medical Council is examining comments by a controversial doctor who used a speech at Reform UK’s conference to link Covid vaccines to cancer in the royal family, amid mounting condemnation of him by senior medics.The regulator, which is charged with upholding professional standards in UK medicine, is also progressing with an investigation into Aseem Malhotra, currently an adviser to Donald Trump’s health secretary, Robert F Kennedy, over a previous claim. It may consider whether to stop or limit his ability to work as a doctor in the UK in the interests of protecting the public. Continue reading",
+        "neutral_headline": "GMC examines doctor’s Reform speech linking vaccines to royal family cancer",
         "items": [
           {
             "source": "Guardian Health",
@@ -368,19 +395,19 @@
           }
         ],
         "ai_summary": [
-          "The General Medical Council is reviewing a doctor's speech linking vaccines to cancer.",
-          "The doctor made the comments at a Reform UK conference.",
-          "Senior medical professionals are condemning the doctor's remarks.",
-          "The GMC is investigating the doctor's previous claims as well.",
-          "The GMC may restrict the doctor's ability to practice medicine."
+          "The GMC is examining a doctor's comments on vaccines.",
+          "The doctor linked Covid vaccines to cancer in the royal family.",
+          "Medical bodies condemn the doctor's remarks.",
+          "The GMC is investigating the doctor's previous claims.",
+          "The regulator may limit his ability to practice medicine."
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 11 Sep 2025 10:00:52 GMT",
         "title": "‘The chaos is the point’: tumult as Covid vaccine boosters deployed under RFK Jr",
-        "neutral_headline": "‘The chaos is the point’: tumult as Covid vaccine boosters deployed under RFK Jr: People attempting to obtain vaccine report major hurdles amid new limitations brought in by Trump health secretaryThe first deployment of updated Covid shots under the Trump administration has been plagued by access issues and misinformation amid confusion and chaos at US health agencies.People attempting to get the vaccines say they have struggled to understand eligibility requirements, book appointments, process insurance claims, battle misinformation from pharmacists and obtain prescriptions from their doctors in some states. Such hurdles will disproportionately affect people of color and low-income people, experts say. Continue reading",
+        "neutral_headline": "‘The chaos is the point’: tumult as Covid vaccine boosters deployed under RFK Jr",
         "items": [
           {
             "source": "Guardian Health",
@@ -393,19 +420,19 @@
           }
         ],
         "ai_summary": [
-          "The rollout of updated Covid shots faces access issues and misinformation.",
-          "People report difficulties understanding eligibility and booking appointments.",
-          "Insurance claims and misinformation from pharmacists are causing problems.",
-          "Hurdles disproportionately affect people of color and low-income individuals.",
-          "Confusion and chaos are present at US health agencies during the rollout."
+          "The deployment of updated Covid shots faces access issues.",
+          "People report hurdles in obtaining the new vaccines.",
+          "The article discusses misinformation and confusion.",
+          "The issues disproportionately affect certain groups.",
+          "The article highlights the challenges of vaccine rollout."
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 11 Sep 2025 09:38:05 GMT",
         "title": "NHS tracker - are hospital waiting times improving near you?",
-        "neutral_headline": "Interactive Tracker Shows Hospital Waiting Times Near You",
+        "neutral_headline": "NHS tracker - are hospital waiting times improving near you?",
         "items": [
           {
             "source": "BBC Health",
@@ -420,19 +447,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e64/live/1cccf440-5013-11f0-8c47-237c2e4015f5.png",
         "ai_summary": [
-          "An interactive tracker allows users to check local hospital waiting times.",
-          "The tracker provides information on treatment wait times at hospitals.",
-          "Users can see if waiting times are improving in their area.",
-          "The tool offers a way to monitor local healthcare access.",
-          "It provides data on the performance of local hospitals."
+          "The article provides an interactive tracker.",
+          "The tracker shows hospital waiting times.",
+          "Users can check waiting times at local hospitals.",
+          "The tracker helps assess treatment wait times.",
+          "The article aims to inform the public."
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 11 Sep 2025 09:29:17 GMT",
         "title": "'Hoarding was a way to protect myself from the world'",
-        "neutral_headline": "Hoarding Can Be a Symptom of Deep Trauma",
+        "neutral_headline": "Woman Shares Experience with Hoarding and Recovery",
         "items": [
           {
             "source": "BBC Health",
@@ -447,19 +474,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cbe/live/4fe867f0-8ef8-11f0-84c8-99de564f0440.jpg",
         "ai_summary": [
-          "Hoarding is often misunderstood and can stem from deep trauma.",
-          "One woman shares her experience and the impact of hoarding.",
-          "She discusses her journey toward recovery from hoarding.",
-          "The article explores the connection between trauma and hoarding.",
-          "It offers insights into the challenges of hoarding disorder."
+          "Hoarding can be a symptom of deep trauma, significantly impacting an individual's life.",
+          "One woman shares her personal experiences with hoarding and the challenges faced.",
+          "The article highlights the road to recovery from hoarding and its associated difficulties.",
+          "The story aims to provide insight into the often misunderstood condition of hoarding.",
+          "The woman's story offers a perspective on the impact of hoarding and the recovery process."
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 11 Sep 2025 01:09:10 GMT",
         "title": "Postcode lottery for new cancer treatments, doctors warn",
-        "neutral_headline": "Postcode Lottery for New Cancer Treatments, Doctors Warn",
+        "neutral_headline": "Doctors Warn of Postcode Lottery for Cancer Treatments",
         "items": [
           {
             "source": "BBC Health",
@@ -474,19 +501,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdcf/live/36f5c450-8e66-11f0-9531-afe73c08c2bb.jpg",
         "ai_summary": [
-          "Doctors warn of a postcode lottery for new cancer treatments.",
-          "Bureaucracy is stifling innovation in cancer treatment access.",
-          "Applying for funding for new treatments is cumbersome.",
-          "This situation affects access to potentially life-saving treatments.",
-          "Experts are calling for changes to improve treatment access."
+          "Experts express concern over bureaucratic hurdles hindering access to new cancer treatments.",
+          "Applying for funding for innovative treatments is described as cumbersome by specialists.",
+          "Bureaucracy is stifling innovation in cancer treatment, according to medical professionals.",
+          "The current system creates a postcode lottery, impacting patient access to care.",
+          "The article highlights the need for streamlined processes to improve treatment access."
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 23:01:16 GMT",
         "title": "More than half of UK births now involve medical intervention, audit finds",
-        "neutral_headline": "Medical Intervention in UK Births Exceeds Half",
+        "neutral_headline": "Medical Intervention in Over Half of UK Births",
         "items": [
           {
             "source": "Guardian Health",
@@ -499,19 +526,19 @@
           }
         ],
         "ai_summary": [
-          "Over half of UK births now involve medical intervention, an audit found.",
-          "Caesarean sections are driving the rise in assisted deliveries.",
-          "Experts warn of complex pregnancies linked to age and obesity.",
-          "The audit examined 592,594 births in 2023.",
-          "50.6% of births involved intervention like forceps or ventouse."
+          "An audit revealed over half of UK births in 2023 involved medical intervention.",
+          "Caesarean sections are a major factor driving the increase in assisted deliveries.",
+          "Experts highlight complex pregnancies linked to age, obesity, and other conditions.",
+          "50.6% of 592,594 births in 2023 involved intervention like forceps or ventouse.",
+          "The findings come from an audit of NHS maternity care across the United Kingdom."
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 23:00:20 GMT",
         "title": "Mystery of dancing spiders' DNA could explain how they develop into new species",
-        "neutral_headline": "Dancing Spiders' DNA May Explain New Species Development",
+        "neutral_headline": "DNA Mystery May Explain Peacock Spider Species Development",
         "items": [
           {
             "source": "BBC Science",
@@ -520,25 +547,25 @@
             "title": "Mystery of dancing spiders' DNA could explain how they develop into new species",
             "standfirst": "There are many more species of peacock spider than other animals, scientists think they may know why.",
             "content": "There are many more species of peacock spider than other animals, scientists think they may know why.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2162/live/ae13b230-8ed5-11f0-9cf6-cbf3e73ce2b9.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2162/live/ae13b230-8ed5-11f0-9cf6-cbf3e73ce2b9.jpg",
         "ai_summary": [
-          "Scientists are studying peacock spiders to understand species development.",
-          "There are many more peacock spider species than other animals.",
-          "Researchers are investigating the spiders' DNA for clues.",
-          "The study aims to explain the high diversity of these spiders.",
-          "The findings could reveal insights into speciation processes."
+          "Scientists are investigating the DNA of dancing spiders to understand species development.",
+          "There are significantly more species of peacock spiders compared to other animals.",
+          "Researchers believe they may have discovered the reason for the spider's diversity.",
+          "The study focuses on the genetic factors contributing to the spiders' evolution.",
+          "The research aims to uncover the mechanisms behind the spiders' speciation process."
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 21:33:05 GMT",
         "title": "US drugmaker Merck scraps £1bn London research centre and cuts 125 science jobs",
-        "neutral_headline": "US Drugmaker Merck Scraps London Research Centre, Cuts Jobs",
+        "neutral_headline": "US drugmaker Merck scraps £1bn London research centre and cuts 125 science jobs",
         "items": [
           {
             "source": "Guardian Health",
@@ -551,19 +578,19 @@
           }
         ],
         "ai_summary": [
-          "Merck is scrapping a £1 billion research center in London.",
-          "The company is laying off 125 scientists in the capital.",
-          "This is a blow to the UK's life science sector.",
-          "The government aims to be a global science and technology superpower.",
-          "The industry body says the UK is losing ground on investment."
+          "US drugmaker Merck is scrapping a £1 billion London research center.",
+          "The company is laying off 125 scientists in London this year.",
+          "This decision is a significant blow to the UK's life science sector.",
+          "The UK government views life sciences as a key economic sector.",
+          "The previous government aimed to make the UK a science and technology superpower."
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 15:43:59 GMT",
         "title": "Women's healthcare chronically underfunded, says Melinda French Gates",
-        "neutral_headline": "Melinda French Gates Says Women's Healthcare Underfunded",
+        "neutral_headline": "Women's healthcare chronically underfunded, says Melinda French Gates",
         "items": [
           {
             "source": "BBC Health",
@@ -578,19 +605,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b276/live/a389f5a0-8e2f-11f0-b391-6936825093bd.png",
         "ai_summary": [
-          "Melinda French Gates says women's healthcare is chronically underfunded.",
-          "She is donating $50 million to research this issue.",
-          "This donation is part of a larger $1 billion pledge.",
-          "The funding aims to address disparities in women's health.",
-          "The initiative seeks to improve women's healthcare access."
+          "Melinda French Gates states women's healthcare is chronically underfunded.",
+          "She is donating $50 million to research the issue of underfunding.",
+          "This donation is part of a larger $1 billion pledge for women's health.",
+          "The focus is on addressing the systemic underfunding of women's healthcare.",
+          "The initiative aims to improve research and address healthcare disparities."
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 15:20:14 GMT",
         "title": "Which mammals have periods like humans?",
-        "neutral_headline": "Mammals That Menstruate and Their Cycles Explained",
+        "neutral_headline": "Which mammals have periods like humans?",
         "items": [
           {
             "source": "BBC Health",
@@ -605,19 +632,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb13/live/76dd5db0-8a49-11f0-9cf6-cbf3e73ce2b9.jpg",
         "ai_summary": [
-          "A menstrual health expert explains which mammals menstruate.",
-          "Dr. Chi Eziefula discusses menstrual cycles in different mammals.",
-          "The article explores how cycles differ from other animals.",
-          "It provides insights into the biology of menstruation.",
-          "The expert offers information on menstrual health."
+          "Dr. Chi Eziefula, a menstrual health expert, explains which mammals menstruate.",
+          "The article explores how menstrual cycles differ among various animal species.",
+          "The focus is on understanding the similarities and differences in menstruation.",
+          "The expert provides insights into the biology of menstruation in mammals.",
+          "The article aims to educate readers about menstrual cycles in different species."
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Wed, 10 Sep 2025 15:00:16 GMT",
         "title": "Life on Mars? 'Leopard-spot' rocks could be biggest clue yet",
-        "neutral_headline": "Leopard-spot' Rocks Could Be Biggest Clue for Life on Mars",
+        "neutral_headline": "Life on Mars? 'Leopard-spot' rocks could be biggest clue yet",
         "items": [
           {
             "source": "BBC Science",
@@ -626,48 +653,23 @@
             "title": "Life on Mars? 'Leopard-spot' rocks could be biggest clue yet",
             "standfirst": "Unusual mudstones found on the Red Planet are potentially associated with ancient Martian microbes.",
             "content": "Unusual mudstones found on the Red Planet are potentially associated with ancient Martian microbes.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76f6/live/29389990-8da9-11f0-a306-c7044329a9c6.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76f6/live/29389990-8da9-11f0-a306-c7044329a9c6.jpg",
         "ai_summary": [
-          "Unusual mudstones on Mars may be linked to ancient microbes.",
-          "The rocks have a \"leopard-spot\" appearance.",
-          "Scientists are investigating the potential for past life.",
-          "The findings could provide evidence of Martian life.",
-          "The research focuses on the Red Planet's geological history."
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Wed, 10 Sep 2025 14:31:00 GMT",
-        "title": "Wegovy maker Novo Nordisk to cut 9,000 jobs amid increased competition",
-        "neutral_headline": "Wegovy maker Novo Nordisk to cut 9,000 jobs amid increased competition",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/business/2025/sep/10/ozempic-maker-novo-nordisk-to-cut-9000-jobs-amid-increased-competition",
-            "published_at": "Wed, 10 Sep 2025 14:31:00 GMT",
-            "title": "Wegovy maker Novo Nordisk to cut 9,000 jobs amid increased competition",
-            "standfirst": "Danish manufacturer of weight-loss and diabetes drugs under pressure from US rival Eli Lilly Business live – latest newsThe Danish maker of the weight-loss and diabetes drugs Wegovy and Ozempic is to cut 9,000 jobs as it slashed its profit forecast again, amid fierce competition from its US rival Eli Lilly.Novo Nordisk’s decision to cut 11% of its global workforce of 78,400 is an attempt by the new chief executive, Mike Doustdar, to revive its fortunes. Continue reading...",
-            "content": "Danish manufacturer of weight-loss and diabetes drugs under pressure from US rival Eli Lilly Business live – latest newsThe Danish maker of the weight-loss and diabetes drugs Wegovy and Ozempic is to cut 9,000 jobs as it slashed its profit forecast again, amid fierce competition from its US rival Eli Lilly.Novo Nordisk’s decision to cut 11% of its global workforce of 78,400 is an attempt by the new chief executive, Mike Doustdar, to revive its fortunes. Continue reading...",
-            "feed_position": 10
-          }
-        ],
-        "ai_summary": [
-          "Novo Nordisk, maker of Wegovy, will cut 9,000 jobs.",
-          "The company is facing increased competition from Eli Lilly.",
-          "The job cuts represent 11% of its global workforce.",
-          "Novo Nordisk is reducing its profit forecast again.",
-          "The new CEO aims to revive the company's fortunes."
+          "Unusual mudstones found on Mars may be linked to ancient microbes.",
+          "The \"leopard-spot\" rocks are being investigated for potential life signs.",
+          "These rocks could provide the biggest clue yet regarding life on Mars.",
+          "The research focuses on the potential for ancient Martian life forms.",
+          "The study examines the geological features of the Red Planet."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-09-11T19:13:51.260Z",
+    "updated_at": "2025-09-11T23:17:35.401Z",
     "clusters": []
   }
 }
