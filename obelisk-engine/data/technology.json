@@ -1,87 +1,127 @@
 {
-  "updated_at": "2025-09-16T11:15:29.202Z",
+  "updated_at": "2025-09-16T19:15:28.911Z",
   "clusters": [
     {
-      "id": "cluster_0",
+      "id": "cluster_10",
       "coverage": 2,
-      "updated_at": "Tue, 16 Sep 2025 07:10:01 -0400",
-      "title": "Microsoft adds auto model selection to Visual Studio Code that primarily favors Claude Sonnet 4 over GPT-5 for paid GitHub Copilot users (Tom Warren/The Verge)",
-      "neutral_headline": "Microsoft adds auto model selection to Visual Studio Code that primarily favors Claude Sonnet 4 over GPT-5 for paid GitHub Copilot users (Tom Warren/The Verge)",
+      "updated_at": "Tue, 16 Sep 2025 18:24:22 +0000",
+      "title": "Google rolls out new Windows desktop app with Spotlight-like search tool",
+      "neutral_headline": "Google rolls out new Windows desktop app with Spotlight-like search tool",
       "items": [
         {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/250916/p11#a250916p11",
-          "published_at": "Tue, 16 Sep 2025 07:10:01 -0400",
-          "title": "Microsoft adds auto model selection to Visual Studio Code that primarily favors Claude Sonnet 4 over GPT-5 for paid GitHub Copilot users (Tom Warren/The Verge)",
-          "standfirst": "Tom Warren / The Verge: Microsoft adds auto model selection to Visual Studio Code that primarily favors Claude Sonnet 4 over GPT-5 for paid GitHub Copilot users &mdash; Visual Studio Code now has a new auto AI model selector that favors Claude 4 over GPT-5. &hellip; Microsoft is adding automatic AI model selection &hellip;",
-          "content": "Tom Warren / The Verge: Microsoft adds auto model selection to Visual Studio Code that primarily favors Claude Sonnet 4 over GPT-5 for paid GitHub Copilot users &mdash; Visual Studio Code now has a new auto AI model selector that favors Claude 4 over GPT-5. &hellip; Microsoft is adding automatic AI model selection &hellip;",
-          "feed_position": 0,
-          "image_url": "http://www.techmeme.com/250916/i11.jpg"
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2025/09/16/google-rolls-out-new-windows-desktop-app-with-spotlight-like-search-tool/",
+          "published_at": "Tue, 16 Sep 2025 18:24:22 +0000",
+          "title": "Google rolls out new Windows desktop app with Spotlight-like search tool",
+          "standfirst": "The app will allow people to use an Alt + Space shortcut to instantly search for information from their computer files, installed apps, Google Drive files, and the web.",
+          "content": "The app will allow people to use an Alt + Space shortcut to instantly search for information from their computer files, installed apps, Google Drive files, and the web.",
+          "feed_position": 1
         },
         {
           "source": "The Verge",
-          "url": "https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4",
-          "published_at": "2025-09-16T06:08:19-04:00",
-          "title": "Microsoft favors Anthropic over OpenAI for Visual Studio Code",
-          "standfirst": "Microsoft is adding automatic AI model selection to its Visual Studio Code editor that will automatically pick the best model for \"optimal performance.\" This new auto model feature will select between Claude Sonnet 4, GPT-5, GPT-5 mini and other models for GitHub Copilot free users, but paid users will \"primarily rely on Claude Sonnet 4.\" [&#8230;]",
-          "content": "Microsoft is adding automatic AI model selection to its Visual Studio Code editor that will automatically pick the best model for \"optimal performance.\" This new auto model feature will select between Claude Sonnet 4, GPT-5, GPT-5 mini and other models for GitHub Copilot free users, but paid users will \"primarily rely on Claude Sonnet 4.\" It's a tacit admission from Microsoft that the software maker is favoring Anthropic's AI models over OpenAI's latest GPT-5 models for coding and development. Sources familiar with Microsoft's developer plans tell me that the company has been instructing its own developers to use Claude Sonnet 4 in recent m … Read the full story at The Verge.",
+          "url": "https://www.theverge.com/news/778940/google-app-windows-launch",
+          "published_at": "2025-09-16T12:32:10-04:00",
+          "title": "Google&#8217;s new Windows desktop app brings a Spotlight-like search bar to PC",
+          "standfirst": "Google is testing a new search app for Windows. A&#160;blog post on Tuesday said the app, currently available on personal accounts via Google’s Search Labs, will allow you to use an Alt + Space shortcut to search for information from the files on your computer, in your Drive, and on the web. The app, which [&#8230;]",
+          "content": "Google is testing a new search app for Windows. A blog post on Tuesday said the app, currently available on personal accounts via Google’s Search Labs, will allow you to use an Alt + Space shortcut to search for information from the files on your computer, in your Drive, and on the web. The app, which has a Chrome-like install process and requires you to sign in, also comes with Google’s visual search feature, Lens, built in. That means you can select and search for images on your screen, as well as translate text. In one example shared by Google, you can highlight a math problem on your homework and then ask Google’s AI Mode to help you find the answer. Just like Google’s search engine on the web, you can switch between all results, AI Mode, Images, Shopping, and Videos, and more, as well as choose between dark and light mode. It’s similar to the Spotlight on Mac, which can help you search through your files, apps, and the web. Windows has long had a built-in feature that lets you search through your files and the web, but it recently upgraded this capability with the launch of Copilot Plus PCs. Upon downloading the app, Google will plant a search bar directly on your desktop that you can drag anywhere on your screen and resize. You can minimize the search bar by hitting Alt + Space. The app also gives you the option to enable or disable AI Mode, as well as change the shortcut used to open the app by selecting your profile picture and hitting Configurations. You can try out Google’s new app for Windows now by enabling the experiment in Labs. It’s currently only available in English and for users in the US. You’ll need a PC with Windows 10 or up to download it. Update, September 16th: Added more information about the app.",
+          "feed_position": 4
+        }
+      ],
+      "popularity_score": 2019.1480802777778,
+      "ai_summary": [
+        "Google launched a new Windows desktop app for searching.",
+        "The app uses an Alt + Space shortcut for searching.",
+        "Users can search computer files, apps, and Google Drive.",
+        "The app also searches the web for information.",
+        "The app is currently available in Google's Search Labs."
+      ]
+    },
+    {
+      "id": "cluster_15",
+      "coverage": 2,
+      "updated_at": "2025-09-16T14:18:14-04:00",
+      "title": "Waymo gets green light for airport service in San Francisco",
+      "neutral_headline": "Waymo gets green light for airport service in San Francisco",
+      "items": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/779039/waymo-sfo-airport-permit-robotaxi",
+          "published_at": "2025-09-16T14:18:14-04:00",
+          "title": "Waymo gets green light for airport service in San Francisco",
+          "standfirst": "Waymo is now permitted to test its robotaxi service at San Francisco International Airport (SFO), a big win for the company as it seeks to expand its service area and tackle more popular, revenue-generating destinations. After years of back-and-forth negotiations, Waymo signed “Testing and Operations Pilot Permit” with SFO, San Francisco Mayor Daniel Lurie said [&#8230;]",
+          "content": "Waymo is now permitted to test its robotaxi service at San Francisco International Airport (SFO), a big win for the company as it seeks to expand its service area and tackle more popular, revenue-generating destinations. After years of back-and-forth negotiations, Waymo signed “Testing and Operations Pilot Permit” with SFO, San Francisco Mayor Daniel Lurie said in a release. Under the agreement, Waymo will roll out its service to SFO in three phases, including testing vehicles with a human driver, testing without a driver, and eventually beginning commercial service. Waymo will start its tests with employees before eventually inviting members of the public to take trips to and from the airport. Pickups and dropoffs will initially take place at SFO’s Kiss & Fly lot, which is accessible to the terminals via the AirTrain. Waymo operates in five cities, but currently only serves one airport: Phoenix’s Sky Harbor. The company has been locked in negotiations with SFO for several years as it seeks to assure regulators that its vehicles can handle their chaotic environments, with thousands of cars, taxis, shuttles, and passengers constantly intermixing everyday. But airports represent a huge money-making opportunity for robotaxis, with airport trips accounting for an estimated 20 percent of human-driven ridehail car trips. Waymo will need airport access if it hopes to eventually compete with Uber and Lyft — to say nothing of earning enough money to make a profit.",
           "feed_position": 0
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/250916/i11.jpg",
-      "popularity_score": 2019.908832777778,
-      "ai_summary": [
-        "Microsoft is adding automatic AI model selection to Visual Studio Code.",
-        "The new feature will select the best AI model for optimal performance.",
-        "The auto model selector will choose between Claude Sonnet 4 and GPT-5.",
-        "Paid GitHub Copilot users will primarily use Claude Sonnet 4.",
-        "Free users will have access to GPT-5 mini and other models."
-      ]
-    },
-    {
-      "id": "cluster_20",
-      "coverage": 2,
-      "updated_at": "Tue, 16 Sep 2025 02:05:01 -0400",
-      "title": "Amazon plans to hold its 2025 Prime Big Deal Days from October 7 at 12:01am PT through October 8, exclusive to Prime subscribers (Brandon Russell/The Verge)",
-      "neutral_headline": "Amazon plans to hold its 2025 Prime Big Deal Days from October 7 at 12:01am PT through October 8, exclusive to Prime subscribers (Brandon Russell/The Verge)",
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/250916/p6#a250916p6",
-          "published_at": "Tue, 16 Sep 2025 02:05:01 -0400",
-          "title": "Amazon plans to hold its 2025 Prime Big Deal Days from October 7 at 12:01am PT through October 8, exclusive to Prime subscribers (Brandon Russell/The Verge)",
-          "standfirst": "Brandon Russell / The Verge: Amazon plans to hold its 2025 Prime Big Deal Days from October 7 at 12:01am PT through October 8, exclusive to Prime subscribers &mdash; The event jumpstarts the holiday shopping season, giving Prime members two days to save on TVs, headphones, and more. &hellip; Amazon has announced its fall Prime Big Deal Days event.",
-          "content": "Brandon Russell / The Verge: Amazon plans to hold its 2025 Prime Big Deal Days from October 7 at 12:01am PT through October 8, exclusive to Prime subscribers &mdash; The event jumpstarts the holiday shopping season, giving Prime members two days to save on TVs, headphones, and more. &hellip; Amazon has announced its fall Prime Big Deal Days event.",
-          "feed_position": 5,
-          "image_url": "http://www.techmeme.com/250916/i6.jpg"
         },
         {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/774151/amazon-october-prime-day-fall-dates-2025",
-          "published_at": "2025-09-16T01:00:00-04:00",
-          "title": "Amazon’s next Prime Day sale is happening on October 7th",
-          "standfirst": "Amazon has announced its fall Prime Big Deal Days event. It starts at 12:01AM PT / 3:01AM ET on Tuesday, October 7th, and runs through Wednesday, October 8th. Of course, we’ll bring you all the best deals on Verge-approved gadgets once they become available. Amazon’s latest Prime Big Deal Days sale is shorter than the [&#8230;]",
-          "content": "Amazon has announced its fall Prime Big Deal Days event. It starts at 12:01AM PT / 3:01AM ET on Tuesday, October 7th, and runs through Wednesday, October 8th. Of course, we’ll bring you all the best deals on Verge-approved gadgets once they become available. Amazon’s latest Prime Big Deal Days sale is shorter than the extended four-day Prime Day in July. Even so, that should be plenty of time for Prime members to save ahead of Black Friday and Cyber Monday. The previous Prime Day delivered some of the lowest prices we’ve seen on popular devices like the iPad Air and AirPods 4, and we’re hoping for a similar caliber of deals this time around. In years past, we’ve seen deep discounts on big-name brands like Samsung, Apple, and Beats, plus all-time low prices on Amazon devices. Although the next Prime Deal Days doesn’t start for another few weeks, Amazon is offering early deals starting today. You can save up to 50 percent off select Amazon devices, including the Fire HD 8 Kids Pro Tablet, Kindle Kids, and Echo Dot Kids bundle. Other deals include a discount on the Kindle Paperwhite Essentials bundle, Luna Wireless Controller, and the Ring Battery Doorbell with Ring Pan-Tilt Indoor Camera bundle. Meanwhile, eligible Prime members can get three months of Kindle Unlimited for free. While Prime Day deals are exclusive to subscribers, Best Buy, Walmart, and other retailers often offer similar discounts, so you’ll have plenty of ways to shop. If you want to sign up for Prime, a subscription runs $14.99 per month or $139 per year. If you’re between the ages of 18 and 24, you can get a six-month subscription for free, with it renewing after that period for $7.49 per month (half the normal cost of Prime). Prime Big Deal Days will take place in the US, the UK, Australia, Belgium, Brazil, Canada, France, Germany, Italy, Japan, Netherlands, Poland, Singapore, Spain, and Sweden, and for the first time, Colombia, Ireland, and Mexico. Before Prime Big Deal Days gets underway, Amazon is holding a fall hardware event on September 30th. Amazon traditionally uses the annual event to reveal a slew of new products, including Echo smart speakers, Fire TV devices, Kindles, and more. Hopefully, we’ll see at least some of the new tech discounted during Amazon’s annual pre-Black Friday sale.",
-          "feed_position": 3
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2025/09/16/waymo-approved-to-start-testing-autonomous-vehicles-at-san-francisco-international-airport/",
+          "published_at": "Tue, 16 Sep 2025 16:39:19 +0000",
+          "title": "Waymo approved to start testing autonomous vehicles at San Francisco International Airport",
+          "standfirst": "Waymo has spent years locked in back-and-forth negotiations with SFO, the biggest airport serving its home base of Silicon Valley.",
+          "content": "Waymo has spent years locked in back-and-forth negotiations with SFO, the biggest airport serving its home base of Silicon Valley.",
+          "feed_position": 7
         }
       ],
-      "featured_image": "http://www.techmeme.com/250916/i6.jpg",
-      "popularity_score": 2014.8254994444444,
+      "popularity_score": 2019.0458580555555,
       "ai_summary": [
-        "Amazon will hold its Prime Big Deal Days in October 2025.",
-        "The event will run from October 7 to October 8.",
-        "The sale is exclusive to Amazon Prime subscribers.",
-        "The event starts at 12:01 AM PT on October 7.",
-        "The sale is designed to kick off the holiday shopping season."
+        "Waymo can test robotaxis at San Francisco International Airport.",
+        "This is a significant expansion for Waymo's service area.",
+        "Waymo signed a \"Testing and Operations Pilot Permit\" with SFO.",
+        "The company has been negotiating with SFO for years.",
+        "Waymo aims to tackle popular, revenue-generating destinations."
       ]
     },
     {
-      "id": "cluster_26",
+      "id": "cluster_28",
       "coverage": 2,
-      "updated_at": "Tue, 16 Sep 2025 05:01:00 +0000",
-      "title": "How to Shop Like a Pro During Amazon Prime Day (2025)",
-      "neutral_headline": "Amazon to host Prime Big Deals Day sales event on October 7 and 8",
+      "updated_at": "2025-09-16T13:12:21-04:00",
+      "title": "Tesla under investigation for door handles that trap people inside",
+      "neutral_headline": "Tesla under investigation for door handles that trap people inside",
       "items": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/778980/tesla-nhtsa-investigation-door-handles-trap",
+          "published_at": "2025-09-16T13:12:21-04:00",
+          "title": "Tesla under investigation for door handles that trap people inside",
+          "standfirst": "Tesla is under investigation for faulty electronic door handles that can trap people inside their vehicles. The National Highway Traffic Safety Administration (NHTSA) launched the probe, saying it was responding to numerous complaints filed by Tesla owners, with a particular focus on children who have been locked inside the vehicle without any way to get [&#8230;]",
+          "content": "Tesla is under investigation for faulty electronic door handles that can trap people inside their vehicles. The National Highway Traffic Safety Administration (NHTSA) launched the probe, saying it was responding to numerous complaints filed by Tesla owners, with a particular focus on children who have been locked inside the vehicle without any way to get out. The news comes a few days after Bloomberg published a bombshell report about Tesla owners who have been seriously injured after becoming trapped in their vehicles after crashes. Tesla’s door handles, which operate electronically and sit flush against the vehicle for improved aerodynamics, have been the source of some consternation for some time. China’s government is considering banning electronic door handles for safety reasons. And now NHTSA says it is investigating instances in which Tesla’s handles become inoperable as a result of low-voltage battery problems. The investigation specifically focuses on an estimated 174,290 Model Y SUVs, though the regulator said the investigation could widen: This investigation will also assess the approach used by Tesla to supply power to the door locks and the reliability of the applicable power supplies. At this time, NHTSA’s investigation is focused on the operability of the electronic door locks from outside of the vehicle as that circumstance is the only one in whichthere is no manual way to open the door. The agency will continue to monitor any reports of entrapment involving opening doors from inside of the vehicle, and [Office of Defects Investigation] will take further action as needed. NHTSA says its investigation was prompted by nine instances of children becoming trapped inside a Tesla vehicle as a result of low-voltage battery problems. Typically, parents were unable to reopen their Tesla’s doors to retrieve their children from the backseat. Tesla’s vehicles contain manual door releases, but the agency notes that certain people, especially children, may not be able to operate them. “Entrapment in a vehicle is particularly concerning in emergency situations, such as when children are entrapped in a hot vehicle,” the agency states. This is the latest investigation to target Tesla. The company is also being examined for failing to report crashes involving its partially autonomous driving technology in a timely manner, and for its remote parking feature after several crash incidents were reported.",
+          "feed_position": 3
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2025/09/16/tesla-probed-for-potentially-faulty-door-handles/",
+          "published_at": "Tue, 16 Sep 2025 14:48:43 +0000",
+          "title": "Tesla probed for potentially faulty door handles",
+          "standfirst": "The National Highway Traffic Safety Administration has received nine reports from owners who couldn't access their cars, including from parents whose children were stuck inside.",
+          "content": "The National Highway Traffic Safety Administration has received nine reports from owners who couldn't access their cars, including from parents whose children were stuck inside.",
+          "feed_position": 12
+        }
+      ],
+      "popularity_score": 2017.9478025,
+      "ai_summary": [
+        "Tesla is under investigation for faulty door handles.",
+        "The NHTSA launched the probe due to complaints.",
+        "Owners reported issues with accessing their cars.",
+        "Some complaints involved children being trapped.",
+        "The investigation focuses on the door handle issue."
+      ]
+    },
+    {
+      "id": "cluster_45",
+      "coverage": 2,
+      "updated_at": "Tue, 16 Sep 2025 16:20:00 GMT",
+      "title": "Amazon Prime Day is October 7-8: Everything you need to know about October Prime Day",
+      "neutral_headline": "Amazon Prime Day is October 7-8: Everything you need to know",
+      "items": [
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/everything-you-need-to-know-about-amazon-prime-day-2025/",
+          "published_at": "Tue, 16 Sep 2025 16:20:00 GMT",
+          "title": "Amazon Prime Day is October 7-8: Everything you need to know about October Prime Day",
+          "standfirst": "Amazon's Prime Big Deal Days returns soon. Here's everything you need to know to shop like a pro.",
+          "content": "Amazon's Prime Big Deal Days returns soon. Here's everything you need to know to shop like a pro.",
+          "feed_position": 11
+        },
         {
           "source": "Wired Tech",
           "url": "https://www.wired.com/story/amazon-prime-day-2025-tips-to-find-best-deals/",
@@ -89,109 +129,306 @@
           "title": "How to Shop Like a Pro During Amazon Prime Day (2025)",
           "standfirst": "We’ve got tips to help you find real deals on Amazon Prime Big Deal Days this October.",
           "content": "We’ve got tips to help you find real deals on Amazon Prime Big Deal Days this October.",
-          "feed_position": 4,
+          "feed_position": 13,
           "image_url": "https://media.wired.com/photos/6849aaabb59845f1ca425cfc/master/pass/Prime%20Day%20Primer.png"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2025/09/15/amazon-to-host-prime-big-deals-day-sales-event-on-october-7-and-8/",
-          "published_at": "Tue, 16 Sep 2025 05:00:00 +0000",
-          "title": "Amazon to host Prime Big Deals Day sales event on October 7 and 8",
-          "standfirst": "Amazon is hosting its Prime Big Deals Day sales event in October again.",
-          "content": "Amazon is hosting its Prime Big Deals Day sales event in October again.",
-          "feed_position": 0
         }
       ],
       "featured_image": "https://media.wired.com/photos/6849aaabb59845f1ca425cfc/master/pass/Prime%20Day%20Primer.png",
-      "popularity_score": 2013.758555,
+      "popularity_score": 2017.0753025,
       "ai_summary": [
-        "Amazon will host its Prime Big Deals Day sales event in October.",
-        "The event is scheduled for October 7 and 8.",
-        "The sales event is for Amazon Prime members.",
-        "The event is designed to help shoppers find deals.",
-        "The event is similar to Amazon Prime Day."
+        "Amazon's Prime Big Deal Days will occur soon.",
+        "The event is scheduled for October 7th and 8th.",
+        "The article provides information for shopping.",
+        "The article offers tips for finding deals.",
+        "The article aims to help shoppers."
       ]
     },
     {
-      "id": "cluster_29",
+      "id": "cluster_51",
       "coverage": 2,
-      "updated_at": "Tue, 16 Sep 2025 00:45:02 -0400",
-      "title": "Nothing raised a $200M Series C led by Tiger Global at a $1.3B valuation, taking its total funding to $450M+, and says it had $1B in total sales in early 2025 (Ivan Mehta/TechCrunch)",
-      "neutral_headline": "Nothing raised a $200M Series C led by Tiger Global at a $1.3B valuation, taking its total funding to $450M+, and says it had $1B in total sales in early 2025 (Ivan Mehta/TechCrunch)",
+      "updated_at": "Tue, 16 Sep 2025 11:50:00 -0400",
+      "title": "YouTube announces AI tools for podcasters, including one that turns video podcasts into clips and another that creates video for audio-only podcasts (Sarah Perez/TechCrunch)",
+      "neutral_headline": "YouTube announces AI tools for podcasters, including one that turns video podcasts into clips and another that creates video for audio-only podcasts (Sarah Perez/TechCrunch)",
       "items": [
         {
           "source": "TechMeme",
-          "url": "http://www.techmeme.com/250916/p2#a250916p2",
-          "published_at": "Tue, 16 Sep 2025 00:45:02 -0400",
-          "title": "Nothing raised a $200M Series C led by Tiger Global at a $1.3B valuation, taking its total funding to $450M+, and says it had $1B in total sales in early 2025 (Ivan Mehta/TechCrunch)",
-          "standfirst": "Ivan Mehta / TechCrunch: Nothing raised a $200M Series C led by Tiger Global at a $1.3B valuation, taking its total funding to $450M+, and says it had $1B in total sales in early 2025 &mdash; Smartphone startup Nothing announced today that it closed its Series C round of $200 million, which was led by the investment firm Tiger Global.",
-          "content": "Ivan Mehta / TechCrunch: Nothing raised a $200M Series C led by Tiger Global at a $1.3B valuation, taking its total funding to $450M+, and says it had $1B in total sales in early 2025 &mdash; Smartphone startup Nothing announced today that it closed its Series C round of $200 million, which was led by the investment firm Tiger Global.",
-          "feed_position": 9,
-          "image_url": "http://www.techmeme.com/250916/i2.jpg"
+          "url": "http://www.techmeme.com/250916/p33#a250916p33",
+          "published_at": "Tue, 16 Sep 2025 11:50:00 -0400",
+          "title": "YouTube announces AI tools for podcasters, including one that turns video podcasts into clips and another that creates video for audio-only podcasts (Sarah Perez/TechCrunch)",
+          "standfirst": "Sarah Perez / TechCrunch: YouTube announces AI tools for podcasters, including one that turns video podcasts into clips and another that creates video for audio-only podcasts &mdash; On Tuesday, YouTube introduced new tools for podcasters at its Made on YouTube live event in New York, including new ways to turn video podcasts &hellip;",
+          "content": "Sarah Perez / TechCrunch: YouTube announces AI tools for podcasters, including one that turns video podcasts into clips and another that creates video for audio-only podcasts &mdash; On Tuesday, YouTube introduced new tools for podcasters at its Made on YouTube live event in New York, including new ways to turn video podcasts &hellip;",
+          "feed_position": 8,
+          "image_url": "http://www.techmeme.com/250916/i33.jpg"
+        },
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/250916/p29#a250916p29",
+          "published_at": "Tue, 16 Sep 2025 11:20:41 -0400",
+          "title": "YouTube unveils new livestreaming features, including letting creators transition between public and members-only streams, and ads that run next to the stream (Lauren Forristal/TechCrunch)",
+          "standfirst": "Lauren Forristal / TechCrunch: YouTube unveils new livestreaming features, including letting creators transition between public and members-only streams, and ads that run next to the stream &mdash; At its Made on YouTube event on Tuesday, the video giant announced several new features aimed at improving the livestreaming experience.",
+          "content": "Lauren Forristal / TechCrunch: YouTube unveils new livestreaming features, including letting creators transition between public and members-only streams, and ads that run next to the stream &mdash; At its Made on YouTube event on Tuesday, the video giant announced several new features aimed at improving the livestreaming experience.",
+          "feed_position": 12,
+          "image_url": "http://www.techmeme.com/250916/i29.jpg"
+        },
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/250916/p27#a250916p27",
+          "published_at": "Tue, 16 Sep 2025 11:00:40 -0400",
+          "title": "YouTube unveils new ways for creators to earn with brand deals and the Shopping program, including letting them swap out brand sponsorships in longform videos (Aisha Malik/TechCrunch)",
+          "standfirst": "Aisha Malik / TechCrunch: YouTube unveils new ways for creators to earn with brand deals and the Shopping program, including letting them swap out brand sponsorships in longform videos &mdash; At its Made on YouTube event on Tuesday, the company unveiled a series of new ways for creators to earn more with brand deals &hellip;",
+          "content": "Aisha Malik / TechCrunch: YouTube unveils new ways for creators to earn with brand deals and the Shopping program, including letting them swap out brand sponsorships in longform videos &mdash; At its Made on YouTube event on Tuesday, the company unveiled a series of new ways for creators to earn more with brand deals &hellip;",
+          "feed_position": 14,
+          "image_url": "http://www.techmeme.com/250916/i27.jpg"
         },
         {
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2025/09/15/nothing-closes-200m-series-c-led-by-tiger-global-plans-ai-first-device-launch/",
-          "published_at": "Tue, 16 Sep 2025 04:15:00 +0000",
-          "title": "Nothing closes $200M Series C led by Tiger Global, plans AI-first device launch",
-          "standfirst": "Carl Pei's Nothing is raising $200 million in a Series C round from Tiger Global at a $1.3 billion valuation.",
-          "content": "Carl Pei's Nothing is raising $200 million in a Series C round from Tiger Global at a $1.3 billion valuation.",
-          "feed_position": 1
+          "url": "https://techcrunch.com/2025/09/16/youtube-to-use-ai-to-help-podcasters-promote-themselves-with-clips-and-shorts/",
+          "published_at": "Tue, 16 Sep 2025 14:30:00 +0000",
+          "title": "YouTube to use AI to help podcasters promote themselves with clips and Shorts",
+          "standfirst": "YouTube teases new AI-powered tools for turning podcasts into video clips, even if they're audio-only.",
+          "content": "YouTube teases new AI-powered tools for turning podcasts into video clips, even if they're audio-only.",
+          "feed_position": 17
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2025/09/16/youtube-unveils-new-ways-for-creators-to-earn-with-brand-deals-youtube-shopping-program/",
+          "published_at": "Tue, 16 Sep 2025 14:30:00 +0000",
+          "title": "YouTube unveils new ways for creators to earn with brand deals, YouTube Shopping program",
+          "standfirst": "The new flexible approach to brand sponsorships will allow creators to dynamically insert brand segments directly into swappable slots in longer videos.",
+          "content": "The new flexible approach to brand sponsorships will allow creators to dynamically insert brand segments directly into swappable slots in longer videos.",
+          "feed_position": 18
         }
       ],
-      "featured_image": "http://www.techmeme.com/250916/i2.jpg",
-      "popularity_score": 2013.4924438888888,
+      "featured_image": "http://www.techmeme.com/250916/i33.jpg",
+      "popularity_score": 2016.5753025,
       "ai_summary": [
-        "Nothing closed a $200 million Series C funding round.",
-        "Tiger Global led the Series C round for the company.",
-        "The company's valuation is now $1.3 billion.",
-        "Nothing's total funding has reached over $450 million.",
-        "The company reported $1 billion in total sales in early 2025."
+        "YouTube introduced new tools for podcasters at its Made on YouTube event.",
+        "New tools will help turn video podcasts into clips.",
+        "YouTube will create video for audio-only podcasts.",
+        "Creators can earn more with brand deals and the Shopping program.",
+        "YouTube will allow creators to swap brand sponsorships in videos."
       ]
     },
     {
-      "id": "cluster_87",
+      "id": "cluster_61",
       "coverage": 2,
-      "updated_at": "Mon, 15 Sep 2025 16:44:02 +0000",
-      "title": "China says Nvidia violated antitrust regulations",
-      "neutral_headline": "China says Nvidia violated antitrust regulations",
+      "updated_at": "Tue, 16 Sep 2025 11:10:00 -0400",
+      "title": "Salesforce launches Missionforce, a new business unit focused on incorporating AI into defense workflows concerning personnel, logistics, and decision making (Rebecca Szkutak/TechCrunch)",
+      "neutral_headline": "Salesforce launches Missionforce, a new business unit focused on incorporating AI into defense workflows concerning personnel, logistics, and decision making (Rebecca Szkutak/TechCrunch)",
       "items": [
         {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2025/09/15/china-says-nvidia-violated-antitrust-regulations/",
-          "published_at": "Mon, 15 Sep 2025 16:44:02 +0000",
-          "title": "China says Nvidia violated antitrust regulations",
-          "standfirst": "China is investigating Nvidia's 2020 acquisition of Mellanox Technologies as trade tensions between the U.S. and China heat up.",
-          "content": "China is investigating Nvidia's 2020 acquisition of Mellanox Technologies as trade tensions between the U.S. and China heat up.",
-          "feed_position": 14
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/250916/p28#a250916p28",
+          "published_at": "Tue, 16 Sep 2025 11:10:00 -0400",
+          "title": "Salesforce launches Missionforce, a new business unit focused on incorporating AI into defense workflows concerning personnel, logistics, and decision making (Rebecca Szkutak/TechCrunch)",
+          "standfirst": "Rebecca Szkutak / TechCrunch: Salesforce launches Missionforce, a new business unit focused on incorporating AI into defense workflows concerning personnel, logistics, and decision making &mdash; Salesforce is increasing its focus on national security. &mdash; The customer relationship management giant announced the creation &hellip;",
+          "content": "Rebecca Szkutak / TechCrunch: Salesforce launches Missionforce, a new business unit focused on incorporating AI into defense workflows concerning personnel, logistics, and decision making &mdash; Salesforce is increasing its focus on national security. &mdash; The customer relationship management giant announced the creation &hellip;",
+          "feed_position": 13,
+          "image_url": "http://www.techmeme.com/250916/i28.jpg"
         },
         {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/09/china-rules-that-nvidia-violated-its-antitrust-laws/",
-          "published_at": "Mon, 15 Sep 2025 13:30:55 +0000",
-          "title": "China rules that Nvidia violated its antitrust laws",
-          "standfirst": "Regulator’s statement comes as US and Chinese officials meet in Madrid for trade talks.",
-          "content": "A Chinese regulator has found Nvidia violated the country’s antitrust law, in a preliminary finding against the world’s most valuable chipmaker. Nvidia had failed to fully comply with provisions outlined when it acquired Mellanox Technologies, an Israeli-US supplier of networking products, China’s State Administration for Market Regulation (SAMR) said on Monday. Beijing conditionally approved the US chipmaker’s acquisition of Mellanox in 2020. Monday’s statement came as US and Chinese officials prepared for more talks in Madrid over trade, with a tariff truce between the world’s two largest economies set to expire in November.Read full article Comments",
-          "feed_position": 12,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-1-1024x648.jpg"
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2025/09/16/salesforce-launches-missionforce-a-national-security-focused-business-unit/",
+          "published_at": "Tue, 16 Sep 2025 14:00:00 +0000",
+          "title": "Salesforce launches &#8216;Missionforce,&#8217; a national security-focused business unit",
+          "standfirst": "Salesforce's Missionforce will help modernize national defense workflows across such areas as personnel, logistics, and decision-making.",
+          "content": "Salesforce's Missionforce will help modernize national defense workflows across such areas as personnel, logistics, and decision-making.",
+          "feed_position": 19
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-1-1024x648.jpg",
-      "popularity_score": 2001.4757772222222,
+      "featured_image": "http://www.techmeme.com/250916/i28.jpg",
+      "popularity_score": 2015.9086358333334,
       "ai_summary": [
-        "China is investigating Nvidia's acquisition of Mellanox Technologies.",
-        "The investigation is due to antitrust regulations.",
-        "Trade tensions exist between the United States and China.",
-        "The Chinese regulator made the announcement.",
-        "The announcement came during trade talks in Madrid."
+        "Salesforce launched Missionforce, a new business unit.",
+        "Missionforce focuses on incorporating AI in defense workflows.",
+        "The unit will address personnel, logistics, and decision-making.",
+        "Salesforce is increasing its focus on national security.",
+        "The customer relationship management giant announced the creation."
       ]
     },
     {
-      "id": "cluster_46",
+      "id": "cluster_75",
+      "coverage": 2,
+      "updated_at": "Tue, 16 Sep 2025 14:24:19 GMT",
+      "title": "Don't like Apple's new Liquid Glass look? Here's how to tone it down",
+      "neutral_headline": "Don't like Apple's new Liquid Glass look? Here's how to tone it down",
+      "items": [
+        {
+          "source": "ZDNet",
+          "url": "https://www.zdnet.com/article/dont-like-apples-new-liquid-glass-look-heres-how-to-tone-it-down/",
+          "published_at": "Tue, 16 Sep 2025 14:24:19 GMT",
+          "title": "Don't like Apple's new Liquid Glass look? Here's how to tone it down",
+          "standfirst": "You can't disable Liquid Glass but you can reduce its effects. Here's how to do this on an iPhone, iPad, Mac, and Apple Watch.",
+          "content": "You can't disable Liquid Glass but you can reduce its effects. Here's how to do this on an iPhone, iPad, Mac, and Apple Watch.",
+          "feed_position": 18
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/apple-ios-26-and-ipados-26-top-new-features/",
+          "published_at": "Mon, 15 Sep 2025 17:51:21 +0000",
+          "title": "The Top New Features in Apple’s iOS 26 and iPadOS 26",
+          "standfirst": "Your iPhone just got an update. Liquid Glass, iPad multitasking, and call screening—take a look at Apple’s new features in iOS 26 and iPadOS 26.",
+          "content": "Your iPhone just got an update. Liquid Glass, iPad multitasking, and call screening—take a look at Apple’s new features in iOS 26 and iPadOS 26.",
+          "feed_position": 22,
+          "image_url": "https://media.wired.com/photos/68485326fc4c5613191afde4/master/pass/Tim-Cook-stage-SOURCE-Julian-Chokkattu.jpg"
+        }
+      ],
+      "featured_image": "https://media.wired.com/photos/68485326fc4c5613191afde4/master/pass/Tim-Cook-stage-SOURCE-Julian-Chokkattu.jpg",
+      "popularity_score": 2015.1472469444445,
+      "ai_summary": [
+        "You cannot disable the Liquid Glass effect.",
+        "You can reduce the effects of Liquid Glass.",
+        "Instructions are provided for iPhone, iPad, Mac, and Apple Watch.",
+        "The article discusses the new Liquid Glass feature.",
+        "The article provides user options for the feature."
+      ]
+    },
+    {
+      "id": "cluster_6",
+      "coverage": 1,
+      "updated_at": "Tue, 16 Sep 2025 18:49:03 +0000",
+      "title": "Google’s experimental Windows app is better than Microsoft’s built-in search",
+      "neutral_headline": "Google's experimental Windows app is better than Microsoft's search",
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/gadgets/2025/09/experimental-google-app-brings-web-and-local-search-to-your-windows-pc/",
+          "published_at": "Tue, 16 Sep 2025 18:49:03 +0000",
+          "title": "Google’s experimental Windows app is better than Microsoft’s built-in search",
+          "standfirst": "Google's experimental app is an upgrade over Microsoft's Windows search.",
+          "content": "Google has so many products that it can be near-impossible to keep track. And yet, the company has rarely created desktop apps to go with those services. There are a handful, like Drive and Quick Share, but the company's flagship product is only now coming to the desktop. The new Google app for Windows is available now, allowing you to search the web, Google Drive, and even your local files. The company stresses that the new app is experimental—it's limited to personal Google accounts, and you may encounter some bugs. The core functionality appears to be solid because it's not trying to do too much. After installation, you can press Alt+Space (or a shortcut of your choice) at any time to bring up a floating Google search bar. Just type your query, and the results page appears in a small window directly below the bar. It can also pull in select Knowledge Graph content, so you may not even have to type the whole query to get the information you need. Microsoft's built-in Windows search functionality is notoriously crummy, and even in this experimental form, Google's Chrome OS-style search experience is better. It's fast, pulling up local files, Drive documents, and installed apps in a single interface. Both local files and Drive are optional, so you can use them only for search if you prefer. The app also includes Google Lens, which allows you to select anything on your PC's screen for image search or translation.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/18b061e7-29a9-4763-97a3-542958dd076e_poster-1152x648-1758048393.png"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/18b061e7-29a9-4763-97a3-542958dd076e_poster-1152x648-1758048393.png",
+      "popularity_score": 364.55946916666664,
+      "ai_summary": [
+        "Google's experimental app is an upgrade.",
+        "The app is an upgrade over Microsoft's Windows search.",
+        "The article compares the two search options.",
+        "The article discusses the experimental app.",
+        "The article provides a comparison of the two."
+      ]
+    },
+    {
+      "id": "cluster_43",
+      "coverage": 1,
+      "updated_at": "Tue, 16 Sep 2025 16:22:38 +0000",
+      "title": "A new report finds China’s space program will soon equal that of the US",
+      "neutral_headline": "A new report finds China’s space program will soon equal that of the US",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2025/09/a-new-report-finds-chinas-space-program-will-soon-equal-that-of-the-us/",
+          "published_at": "Tue, 16 Sep 2025 16:22:38 +0000",
+          "title": "A new report finds China’s space program will soon equal that of the US",
+          "standfirst": "China \"poised to overtake us in the next five to 10 years if we don't do something.\"",
+          "content": "As Jonathan Roll neared completion of a master's degree in science and technology policy at Arizona State University three years ago, he did some research into recent developments by China's ascendant space program. He came away impressed by the country's growing ambitions. Now a full-time research analyst at the university, Roll was recently asked to take a deeper dive into Chinese space plans. \"I thought I had a pretty good read on this when I was finishing grad school,\" Roll told Ars. \"That almost everything needed to be updated, or had changed three years later, was pretty scary. On all these fronts, they've made pretty significant progress. They are taking all of the cues from our Western system about what's really galvanized innovation, and they are off to the races with it.\"Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-2183848672-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-2183848672-1152x648.jpg",
+      "popularity_score": 358.1191913888889,
+      "ai_summary": [
+        "China's space program will soon equal the US.",
+        "The report predicts this within five to ten years.",
+        "The article discusses the future of space programs.",
+        "The article highlights the potential shift in power.",
+        "The article discusses the timeline of the change."
+      ]
+    },
+    {
+      "id": "cluster_76",
+      "coverage": 1,
+      "updated_at": "Tue, 16 Sep 2025 14:17:12 +0000",
+      "title": "How Nissan leveraged its driver assist to cut traffic jams",
+      "neutral_headline": "How Nissan leveraged its driver assist to cut traffic jams",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2025/09/how-nissan-leveraged-its-driver-assist-to-cut-traffic-jams/",
+          "published_at": "Tue, 16 Sep 2025 14:17:12 +0000",
+          "title": "How Nissan leveraged its driver assist to cut traffic jams",
+          "standfirst": "Cooperative cruising cuts congestion in Contra Costa during ProPilot pilot study.",
+          "content": "I recently learned of a rather interesting pilot study undertaken by Nissan together with the Contra Costa Transportation Authority and UC Berkeley that leverages the automaker's partially automated driving system, ProPilot Assist, to ease traffic congestion. The idea is called \"Cooperative Congestion Management,\" which works by letting a car in traffic inform vehicles behind it. Researchers from Nissan's advanced technology center in Silicon Valley have trialed CCM on I-680 in the Bay Area, logging about 600 miles. Starting with Nissan vehicles equipped with ProPilot Assist, which combines adaptive cruise control and lane keeping, they added the ability for those cars to communicate with each other, informing other cars about their speed and any hazards. On the road, they were able to show that the system reduced hard-braking events by 85 percent and cut time spent stationary in traffic by 70 percent. But we're not talking about platooning—the idea of having road trains of autonomously driven semitrucks networked together and driving in convoy was all the rage a decade ago, but mostly fell from favor once people realized the human truck drivers were needed for more than just the steering, accelerating, and braking bits of the job.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/ccm-hero-image2-1152x600.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/ccm-hero-image2-1152x600.jpg",
+      "popularity_score": 339.02863583333334,
+      "ai_summary": [
+        "Nissan used driver assist to cut traffic jams.",
+        "Cooperative cruising reduces congestion.",
+        "The study was conducted in Contra Costa.",
+        "The study was part of a ProPilot pilot.",
+        "The article discusses the study's findings."
+      ]
+    },
+    {
+      "id": "cluster_86",
+      "coverage": 1,
+      "updated_at": "Tue, 16 Sep 2025 11:15:32 +0000",
+      "title": "Millions turn to AI chatbots for spiritual guidance and confession",
+      "neutral_headline": "Millions turn to AI chatbots for spiritual guidance and confession",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2025/09/millions-turn-to-ai-chatbots-for-spiritual-guidance-and-confession/",
+          "published_at": "Tue, 16 Sep 2025 11:15:32 +0000",
+          "title": "Millions turn to AI chatbots for spiritual guidance and confession",
+          "standfirst": "Bible Chat hits 30 million downloads as users seek algorithmic absolution.",
+          "content": "On Sunday, The New York Times reported that tens of millions of people are confessing secrets to AI chatbots trained on religious texts, with apps like Bible Chat reaching over 30 million downloads and Catholic app Hallow briefly topping Netflix, Instagram, and TikTok in Apple's App Store. In China, people are using DeepSeek to try to decode their fortunes. In her report, Lauren Jackson examined \"faith tech\" apps that cost users up to $70 annually, with some platforms claiming to channel divine communication directly. Some of the apps address what creators describe as an accessibility problem. \"You don't want to disturb your pastor at three in the morning,\" Krista Rogers, a 61-year-old Ohio resident, told the Times about using the YouVersion Bible app and ChatGPT for spiritual questions. The report also examines platforms that go beyond simple scriptural guidance. While a service like ChatwithGod operates as a \"spiritual advisor,\" its conversational nature is convincing enough that users often question whether they are speaking directly with a divine being. As its chief executive told the Times, the most frequent question from users is, \"Is this actually God I am talking to?\"Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/robot_church-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/robot_church-1152x648.jpg",
+      "popularity_score": 330.00085805555557,
+      "ai_summary": [
+        "Millions use AI chatbots for spiritual guidance.",
+        "Bible Chat has reached 30 million downloads.",
+        "Users seek algorithmic absolution.",
+        "The article discusses the use of AI.",
+        "The article discusses the use of AI for spiritual purposes."
+      ]
+    },
+    {
+      "id": "cluster_79",
+      "coverage": 1,
+      "updated_at": "Tue, 16 Sep 2025 13:51:10 +0000",
+      "title": "When will Jaguar Land Rover restart production? “No one actually knows.”",
+      "neutral_headline": "Jaguar Land Rover Production Restart Uncertain After Cyberattack",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2025/09/when-will-jaguar-land-rover-restart-production-no-one-actually-knows/",
+          "published_at": "Tue, 16 Sep 2025 13:51:10 +0000",
+          "title": "When will Jaguar Land Rover restart production? “No one actually knows.”",
+          "standfirst": "Cyberattack has frozen operations at the company since the end of August.",
+          "content": "Jaguar Land Rover’s dealers and suppliers fear the British carmaker’s operations will take another few months to normalize after a cyber attack that experts estimate could wipe more than £3.5 billion off its revenue. JLR, which is owned by India’s Tata Motors, had been forced to shut down its systems and halt production across its UK factories since August 31, wreaking havoc across the country’s vast supply chain involving roughly 200,000 workers. JLR on Tuesday said it would extend its production halt until at least next Wednesday as it continued its investigation. In a statement, the company also cautioned that “the controlled restart of our global operations… will take time.”Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2018/03/J_I-PACE_19MY_Studio_Image_010318_07-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2018/03/J_I-PACE_19MY_Studio_Image_010318_07-1152x648.jpg",
+      "popularity_score": 327.59474694444447,
+      "ai_summary": [
+        "A cyberattack has halted Jaguar Land Rover operations since the end of August.",
+        "The company has not announced a definitive restart date for production.",
+        "The attack has frozen operations, impacting manufacturing and supply chains.",
+        "The extent of the damage and recovery timeline remain unclear at this time.",
+        "No specific information is available regarding when production will resume."
+      ]
+    },
+    {
+      "id": "cluster_98",
       "coverage": 1,
       "updated_at": "Mon, 15 Sep 2025 22:22:53 +0000",
       "title": "Northrop Grumman’s new spacecraft is a real chonker",
-      "neutral_headline": "Northrop Grumman spacecraft increases capacity for missions",
+      "neutral_headline": "Northrop Grumman Unveils New Spacecraft with Increased Capacity",
       "items": [
         {
           "source": "Ars Technica",
@@ -200,26 +437,26 @@
           "title": "Northrop Grumman’s new spacecraft is a real chonker",
           "standfirst": "\"We're excited that Northrop is ready to deliver this incredibly beneficial increase in capacity.\"",
           "content": "What happens when you use a SpaceX Falcon 9 rocket to launch Northrop Grumman's Cygnus supply ship? A record-setting resupply mission to the International Space Station. The first flight of Northrop's upgraded Cygnus spacecraft, called Cygnus XL, is on its way to the international research lab after launching Sunday evening from Cape Canaveral Space Force Station, Florida. This mission, known as NG-23, is set to arrive at the ISS early Wednesday with 10,827 pounds (4,911 kilograms) of cargo to sustain the lab and its seven-person crew. By a sizable margin, this is the heaviest cargo load transported to the ISS by a commercial resupply mission. NASA astronaut Jonny Kim will use the space station's Canadian-built robotic arm to capture the cargo ship on Wednesday, then place it on an attachment port for crew members to open hatches and start unpacking the goodies inside.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/ng23encap1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/ng23encap1-1152x648.jpg",
-      "popularity_score": 348.1232772222222,
+      "popularity_score": 301,
       "ai_summary": [
-        "Northrop Grumman is ready to deliver a spacecraft with increased capacity.",
-        "The new spacecraft is designed to provide a significant boost in capabilities.",
-        "Details about the specific capacity increase are not provided in the article.",
-        "The article expresses excitement about the spacecraft's delivery.",
-        "The spacecraft's benefits are described as \"incredibly beneficial.\""
+        "Northrop Grumman has developed a new spacecraft with increased capacity.",
+        "The spacecraft is designed to provide a significant boost in capabilities.",
+        "Details about the spacecraft's specific functions are not provided.",
+        "The company is excited about the potential benefits of the new design.",
+        "The spacecraft's size is described as substantial, or a \"chonker.\""
       ]
     },
     {
-      "id": "cluster_52",
+      "id": "cluster_101",
       "coverage": 1,
       "updated_at": "Mon, 15 Sep 2025 21:04:04 +0000",
       "title": "Google releases VaultGemma, its first privacy-preserving LLM",
-      "neutral_headline": "Google releases VaultGemma, a privacy-preserving LLM",
+      "neutral_headline": "Google Releases VaultGemma, Privacy-Preserving LLM",
       "items": [
         {
           "source": "Ars Technica",
@@ -228,26 +465,26 @@
           "title": "Google releases VaultGemma, its first privacy-preserving LLM",
           "standfirst": "Google Research shows that AI models can keep training data private.",
           "content": "The companies seeking to build larger AI models have been increasingly stymied by a lack of high-quality training data. As tech firms scour the web for more data to feed their models, they could increasingly rely on potentially sensitive user data. A team at Google Research is exploring new techniques to make the resulting large language models (LLMs) less likely to \"memorize\" any of that content. LLMs have non-deterministic outputs, meaning you can't exactly predict what they'll say. While the output varies even for identical inputs, models do sometimes regurgitate something from their training data—if trained with personal data, the output could be a violation of user privacy. In the event copyrighted data makes it into training data (either accidentally or on purpose), its appearance in outputs can cause a different kind of headache for devs. Differential privacy can prevent such memorization by introducing calibrated noise during the training phase. Adding differential privacy to a model comes with drawbacks in terms of accuracy and compute requirements. No one has bothered to figure out the degree to which that alters the scaling laws of AI models until now. The team worked from the assumption that model performance would be primarily affected by the noise-batch ratio, which compares the volume of randomized noise to the size of the original training data.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/VaultGemma.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/VaultGemma.jpg",
-      "popularity_score": 340.8096661111111,
+      "popularity_score": 295,
       "ai_summary": [
-        "Google Research has developed VaultGemma, a privacy-preserving large language model.",
-        "The model allows training data to remain private during the process.",
-        "This development is a step toward more secure AI model training.",
-        "The research demonstrates the feasibility of private AI training.",
-        "The article does not specify the exact privacy methods used."
+        "Google has released VaultGemma, a privacy-preserving large language model.",
+        "Google Research demonstrates that AI models can protect training data privacy.",
+        "The model aims to balance AI capabilities with data security.",
+        "VaultGemma is designed to be used without compromising sensitive information.",
+        "The technology allows for AI development while maintaining data confidentiality."
       ]
     },
     {
-      "id": "cluster_51",
+      "id": "cluster_100",
       "coverage": 1,
       "updated_at": "Mon, 15 Sep 2025 21:21:59 +0000",
       "title": "RFK Jr. adds more anti-vaccine members to CDC vaccine advisory panel",
-      "neutral_headline": "RFK Jr. adds anti-vaccine members to CDC panel",
+      "neutral_headline": "RFK Jr. Appoints Anti-Vaccine Members to CDC Panel",
       "items": [
         {
           "source": "Ars Technica",
@@ -256,26 +493,26 @@
           "title": "RFK Jr. adds more anti-vaccine members to CDC vaccine advisory panel",
           "standfirst": "The panel will meet this week and could limit access to measles, Hep B, COVID vaccines.",
           "content": "Health secretary and anti-vaccine activist Robert F. Kennedy Jr. has appointed five more people to the federal advisory committee that sets national vaccination recommendations. Like the existing members, the new appointees have questionable qualifications for being on the panel, and many have expressed anti-vaccine views. In June, Kennedy purged all 17 highly qualified and thoroughly vetted members of the committee, the Advisory Committee on Immunization Practices (ACIP), which advises the Centers for Disease Control and Prevention on setting vaccine policy. Kennedy quickly repopulated ACIP with seven hand-picked allies, most of whom also have questionable qualifications and have expressed anti-vaccine or contrarian public health views. Two members, including the new chair, have also been paid to testify against the vaccine makers in cases claiming they caused harms, a clear conflict of interest. Here are the new members:Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-1152x648.jpg",
-      "popularity_score": 329.1082772222222,
+      "popularity_score": 283,
       "ai_summary": [
-        "Robert F. Kennedy Jr. has appointed anti-vaccine members to a CDC advisory panel.",
-        "The panel is scheduled to meet this week to discuss vaccine-related topics.",
-        "The panel's decisions could potentially limit access to certain vaccines.",
-        "Vaccines under consideration include those for measles, hepatitis B, and COVID-19.",
-        "The article does not specify the exact number of new members."
+        "Robert F Kennedy Jr. has added anti-vaccine members to a CDC advisory panel.",
+        "The panel will convene this week to discuss vaccine-related matters.",
+        "The panel's decisions could affect access to vaccines for measles, Hep B, and COVID.",
+        "The appointments have raised concerns about vaccine policy influence.",
+        "The panel's recommendations could impact public health initiatives."
       ]
     },
     {
-      "id": "cluster_58",
+      "id": "cluster_104",
       "coverage": 1,
       "updated_at": "Mon, 15 Sep 2025 20:26:34 +0000",
       "title": "What do people actually use ChatGPT for? OpenAI provides some numbers.",
-      "neutral_headline": "OpenAI provides data on ChatGPT usage",
+      "neutral_headline": "OpenAI Shares Data on ChatGPT Usage Patterns",
       "items": [
         {
           "source": "Ars Technica",
@@ -284,26 +521,26 @@
           "title": "What do people actually use ChatGPT for? OpenAI provides some numbers.",
           "standfirst": "New study breaks down what 700 million users do across 2.6 billion daily GPT messages.",
           "content": "As someone who writes about the AI industry relatively frequently for this site, there is one question that I find myself constantly asking and being asked in turn, in some form or another: What do you actually use large language models for? Today, OpenAI's Economic Research Team went a long way toward answering that question, on a population level, releasing a first-of-its-kind National Bureau of Economic Research working paper (in association with Harvard economist David Denning) detailing how people end up using ChatGPT across time and tasks. While other research has sought to estimate this kind of usage data using self-reported surveys, this is the first such paper with direct access to OpenAI's internal user data. As such, it gives us an unprecedented direct window into reliable usage stats for what is still the most popular application of LLMs by far. After digging through the dense 65-page paper, here are seven of the most interesting and/or surprising things we discovered about how people are using OpenAI today.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1397542920-1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1397542920-1-1152x648.jpg",
-      "popularity_score": 313.1846661111111,
+      "popularity_score": 268,
       "ai_summary": [
         "OpenAI has released data on how people use ChatGPT.",
-        "The data covers 700 million users of the platform.",
-        "These users generate 2.6 billion messages daily.",
-        "The study breaks down the various uses of the chatbot.",
-        "The article does not specify the exact breakdown of usage."
+        "The data covers 700 million users and 2.6 billion daily messages.",
+        "The study provides insights into user behavior and application of the AI.",
+        "The information reveals the diverse ways people interact with the platform.",
+        "The data helps understand the impact and reach of ChatGPT."
       ]
     },
     {
-      "id": "cluster_55",
+      "id": "cluster_102",
       "coverage": 1,
       "updated_at": "Mon, 15 Sep 2025 20:52:01 +0000",
       "title": "Internet Archive’s big battle with music publishers ends in settlement",
-      "neutral_headline": "Internet Archive settles battle with music publishers",
+      "neutral_headline": "Internet Archive Settles Music Publishers' Copyright Lawsuit",
       "items": [
         {
           "source": "Ars Technica",
@@ -312,26 +549,26 @@
           "title": "Internet Archive’s big battle with music publishers ends in settlement",
           "standfirst": "The true cost of keeping the Internet Archive alive will likely remain unknown.",
           "content": "A settlement has been reached in a lawsuit where music publishers sued the Internet Archive over the Great 78 Project, an effort to preserve early music recordings that only exist on brittle shellac records. No details of the settlement have so far been released, but a court filing on Monday confirmed that the Internet Archive and UMG Recordings, Capitol Records, Sony Music Entertainment, and other record labels \"have settled this matter.\" More details may come in the next 45 days, when parties must submit filings to officially dismiss the lawsuit, but it's unlikely the settlement amount will be publicly disclosed. Days before the settlement was announced, record labels had indicated that everyone but the Internet Archive and its founder, Brewster Kahle, had agreed to sign a joint settlement, seemingly including the Great 78 Project's recording engineer George Blood, who was also a target of the litigation. But in the days since, IA has gotten on board, posting a blog confirming that \"the parties have reached a confidential resolution of all claims and will have no further public comment on this matter.\"Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2006574807-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2006574807-1024x648.jpg",
-      "popularity_score": 308.60883277777776,
+      "popularity_score": 263,
       "ai_summary": [
-        "The Internet Archive has reached a settlement with music publishers.",
-        "The financial details of the settlement are not disclosed.",
-        "The true cost of keeping the Internet Archive operational remains unknown.",
-        "The settlement resolves a legal dispute over copyrighted music.",
-        "The article does not specify the terms of the settlement."
+        "The Internet Archive has reached a settlement in its legal battle with music publishers.",
+        "The settlement resolves the dispute over copyright infringement.",
+        "The financial terms of the settlement have not been disclosed.",
+        "The true cost of maintaining the Internet Archive remains unknown.",
+        "The settlement allows the Internet Archive to continue its operations."
       ]
     },
     {
-      "id": "cluster_70",
+      "id": "cluster_109",
       "coverage": 1,
       "updated_at": "Mon, 15 Sep 2025 19:42:20 +0000",
       "title": "Ars Live: CTA policy expert explains why tariff stacking is a nightmare",
-      "neutral_headline": "CTA expert explains tariff stacking's impact on tech",
+      "neutral_headline": "CTA Expert Discusses Tariff Stacking's Negative Impact",
       "items": [
         {
           "source": "Ars Technica",
@@ -340,82 +577,26 @@
           "title": "Ars Live: CTA policy expert explains why tariff stacking is a nightmare",
           "standfirst": "Tech firms are bracing for a possible \"triple whammy\" of tariffs.",
           "content": "Earlier this month, Ars spoke with the Consumer Technology Association's vice president of international trade, Ed Brzytwa, to check in and see how tech firms have navigated Donald Trump's unpredictable tariff regimes so far. Brzytwa has led CTA's research helping tech firms prepare for Trump's trade war, but during our talk, he confirmed that \"the reality has been a lot more difficult and far worse, because of not just the height of the tariffs, but the variability, the tariffs on, tariffs off.\" Our discussion with Ed Brzytwa. Click here for transcript. Currently, every tech company is in a \"slightly different position,\" depending on its specific supply chains, he explained. However, until semiconductor tariffs are announced, \"it's impossible\" for any tech company to make the kind of long-term plans that could help keep consumer prices low as Trump's negotiations with foreign partners and investigations into various products drag on, Brzytwa said.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Ars-Live-The-Semiconductor-Scramble-1152x601.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/Ars-Live-The-Semiconductor-Scramble-1152x601.jpg",
-      "popularity_score": 302.44744388888887,
+      "popularity_score": 258,
       "ai_summary": [
-        "A CTA policy expert discusses the impact of tariff stacking.",
+        "A CTA policy expert explains the complexities of tariff stacking.",
         "Tech firms are preparing for a potential \"triple whammy\" of tariffs.",
-        "The article focuses on the challenges posed by tariff policies.",
-        "The expert explains why tariff stacking is a complex issue.",
-        "The article does not specify the exact tariffs involved."
+        "The expert highlights the challenges posed by multiple tariffs.",
+        "The discussion focuses on the impact of tariffs on the tech industry.",
+        "The analysis covers the potential economic consequences of tariff policies."
       ]
     },
     {
-      "id": "cluster_80",
-      "coverage": 1,
-      "updated_at": "Mon, 15 Sep 2025 17:57:23 +0000",
-      "title": "Boeing faces $3.1M fine for door plug blowout, hundreds of safety violations",
-      "neutral_headline": "Boeing faces fine for door plug blowout and violations",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/09/boeing-faces-3-1m-fine-for-door-plug-blowout-hundreds-of-safety-violations/",
-          "published_at": "Mon, 15 Sep 2025 17:57:23 +0000",
-          "title": "Boeing faces $3.1M fine for door plug blowout, hundreds of safety violations",
-          "standfirst": "FAA found factory violations, says Boeing sought approval for unairworthy planes.",
-          "content": "The Federal Aviation Administration on Friday proposed fines of $3.1 million against Boeing for various safety violations related to the January 2024 door plug blowout and what the FAA called \"interference with safety officials' independence.\" An FAA statement said the proposed fine covers \"safety violations that occurred from September 2023 through February 2024,\" and is the \"maximum statutory civil penalty authority consistent with law.\" Boeing, which reported $22.7 billion in revenue and a net loss of $612 million last quarter, has 30 days to file a response with the agency. \"The FAA identified hundreds of quality system violations at Boeing's 737 factory in Renton, Washington, and Boeing subcontractor Spirit AeroSystems' 737 factory in Wichita, Kansas. Additionally, Boeing presented two unairworthy aircraft to the FAA for airworthiness certificates and failed to follow its quality system,\" the FAA said.Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/boeing-7373-max-1152x648-1742920126.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/boeing-7373-max-1152x648-1742920126.jpg",
-      "popularity_score": 275.6982772222222,
-      "ai_summary": [
-        "Boeing faces a $3.1 million fine due to the door plug incident.",
-        "The FAA found hundreds of safety violations at Boeing's factory.",
-        "Boeing sought approval for planes that were not airworthy.",
-        "The violations occurred at the factory where the door plug was made.",
-        "The article does not specify the exact nature of the violations."
-      ]
-    },
-    {
-      "id": "cluster_86",
-      "coverage": 1,
-      "updated_at": "Mon, 15 Sep 2025 17:00:27 +0000",
-      "title": "macOS 26 Tahoe: The Ars Technica review",
-      "neutral_headline": "Ars Technica reviews macOS 26 Tahoe",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2025/09/macos-26-tahoe-the-ars-technica-review/",
-          "published_at": "Mon, 15 Sep 2025 17:00:27 +0000",
-          "title": "macOS 26 Tahoe: The Ars Technica review",
-          "standfirst": "Liquid Glass brings translucent sheen to the typical batch of iterative changes.",
-          "content": "The last time Apple gave macOS a fresh design was in 2020's macOS 11 Big Sur. That release was relatively light on new features and heavy on symbolism. Big Sur is also when Apple finally jettisoned the \"10\" in Mac OS X after two decades. More importantly, it was the first release installed on then-new Apple Silicon Macs, the culmination of a decade-plus of in-house chip design that began with single-core, low-power iPhone and iPad chips and culminated in something powerful enough for the Mac Pro. Today's macOS 26 Tahoe release holds up a translucent, glassy mirror to the Big Sur update. It comes with an all-new look, one that further unifies Apple's design language across all its operating systems. And it even throws out the old version numbering system and introduces a new one.Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/macos-tahoe-default-wallpaper-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/macos-tahoe-default-wallpaper-1152x648.jpg",
-      "popularity_score": 272.74938833333334,
-      "ai_summary": [
-        "Ars Technica has reviewed the new macOS 26 Tahoe.",
-        "The review highlights the addition of Liquid Glass.",
-        "Liquid Glass brings a translucent sheen to the interface.",
-        "The review covers the iterative changes in the update.",
-        "The article does not specify the exact changes."
-      ]
-    },
-    {
-      "id": "cluster_94",
+      "id": "cluster_118",
       "coverage": 1,
       "updated_at": "Mon, 15 Sep 2025 15:42:23 +0000",
       "title": "Will TikTok go dark Wednesday? Trump claims deal with China avoids shutdown.",
-      "neutral_headline": "Trump claims deal with China avoids TikTok shutdown",
+      "neutral_headline": "Trump Claims Deal with China Could Avoid TikTok Shutdown",
       "items": [
         {
           "source": "Ars Technica",
@@ -424,54 +605,54 @@
           "title": "Will TikTok go dark Wednesday? Trump claims deal with China avoids shutdown.",
           "standfirst": "Experts aren’t sure China will agree to a sale without more trade war concessions.",
           "content": "Once again, the Trump administration is hyping a deal that could see TikTok finally sold to US owners to avoid a nationwide ban that Congress successfully argued was otherwise necessary to protect national security. On Monday, Treasury Secretary Scott Bessent confirmed that the US and China had ironed out a \"framework\" for the deal, but ultimately, Donald Trump will be responsible for closing the deal on a call this Friday with China's president, Xi Jinping, CNBC reported. Critically, Bessent said that the framework pointed to a \"switch to US-controlled ownership,\" the South China Morning Post (SCMP) reported. Presumably, TikTok won't shut down ahead of Trump's call with Xi, but TikTok risked going dark as soon as Wednesday. That's the latest deadline for the forced sale after Trump extended the deadline three times as negotiations with China remained tense.Read full article Comments",
-          "feed_position": 9,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2225413749-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2225413749-1024x648.jpg",
-      "popularity_score": 258.4482772222222,
+      "popularity_score": 148,
       "ai_summary": [
-        "Donald Trump claims a deal with China will prevent a TikTok shutdown.",
-        "Experts are unsure if China will agree to a sale without concessions.",
-        "The deal involves the potential sale of TikTok to a US company.",
-        "The article does not specify the details of the deal.",
-        "The future of TikTok in the US remains uncertain."
+        "Donald Trump claims a deal with China could prevent a TikTok shutdown.",
+        "Experts are uncertain if China will agree to a sale without concessions.",
+        "The situation involves potential trade war negotiations.",
+        "The future of TikTok in the United States remains uncertain.",
+        "The deal's success depends on China's willingness to cooperate."
       ]
     },
     {
-      "id": "cluster_92",
+      "id": "cluster_114",
       "coverage": 1,
-      "updated_at": "Mon, 15 Sep 2025 16:00:51 +0000",
-      "title": "Get into the cockpit as new crop of “Top Gun” pilots get their wings",
-      "neutral_headline": "New documentary shows \"Top Gun\" pilot training",
+      "updated_at": "Mon, 15 Sep 2025 17:00:27 +0000",
+      "title": "macOS 26 Tahoe: The Ars Technica review",
+      "neutral_headline": "macOS 26 Tahoe: Ars Technica Reviews the New Version",
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2025/09/get-into-the-cockpit-as-new-crop-of-top-gun-pilots-get-their-wings/",
-          "published_at": "Mon, 15 Sep 2025 16:00:51 +0000",
-          "title": "Get into the cockpit as new crop of “Top Gun” pilots get their wings",
-          "standfirst": "NatGeo's new documentary series, Top Guns: The Next Generation, shows the sweat behind the spectacle.",
-          "content": "The blockbuster success of the 1986 film Top Gun—chronicling the paths of young naval aviators as they go through the grueling US Navy's Fighter Weapons School (aka the titular Top Gun)—spawned more than just a successful multimedia franchise. It has also been credited with inspiring future generations of fighter pilots. National Geographic takes viewers behind the scenes to see the process play out for real, with its new documentary series, Top Guns: The Next Generation. Each episode focuses on a specific aspect of the training, following a handful of students from the Navy and Marines through the highs and lows of their training. That includes practicing dive bombs at break-neck speeds; successfully landing on an aircraft carrier by \"catching the wire\"; learning the most effective offensive and defensive maneuvers in dogfighting; and, finally, engaging in a freestyle dogfight against a seasoned instructor to complete the program and (hopefully) earn their golden wings. NatGeo was granted unprecedented access, even using in-cockpit cameras to capture the pulse-pounding action of being in the air, as well as capturing behind-the-scenes candid moments. How does reality stack up against its famous Hollywood depiction? \"I think there is a lot of similarity,\" Capt. Juston \"Poker\" Kuch, who oversees all training and operations at NAS Meridian, told Ars. \"The execution portion of the mission gets focused in the movie so it is all about the flight and the dogfighting and dropping the bombs. What they don't see is the countless hours of preparation that go into the mission, all the years and years of training that it took to get there. You see the battle scenes in Top Gun and you're inspired, but there's a lot of time and effort that goes in to get an individual to that point. It doesn't make for good movies, I guess.\"Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/gunsTOP-1152x648.jpg"
+          "url": "https://arstechnica.com/gadgets/2025/09/macos-26-tahoe-the-ars-technica-review/",
+          "published_at": "Mon, 15 Sep 2025 17:00:27 +0000",
+          "title": "macOS 26 Tahoe: The Ars Technica review",
+          "standfirst": "Liquid Glass brings translucent sheen to the typical batch of iterative changes.",
+          "content": "The last time Apple gave macOS a fresh design was in 2020's macOS 11 Big Sur. That release was relatively light on new features and heavy on symbolism. Big Sur is also when Apple finally jettisoned the \"10\" in Mac OS X after two decades. More importantly, it was the first release installed on then-new Apple Silicon Macs, the culmination of a decade-plus of in-house chip design that began with single-core, low-power iPhone and iPad chips and culminated in something powerful enough for the Mac Pro. Today's macOS 26 Tahoe release holds up a translucent, glassy mirror to the Big Sur update. It comes with an all-new look, one that further unifies Apple's design language across all its operating systems. And it even throws out the old version numbering system and introduces a new one.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/macos-tahoe-default-wallpaper-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/gunsTOP-1152x648.jpg",
-      "popularity_score": 253.756055,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/macos-tahoe-default-wallpaper-1152x648.jpg",
+      "popularity_score": 141,
       "ai_summary": [
-        "A new NatGeo documentary series follows \"Top Gun\" pilots.",
-        "The series is titled \"Top Guns: The Next Generation.\"",
-        "The documentary shows the training behind the spectacle.",
-        "The series focuses on the new crop of pilots.",
-        "The article does not specify the exact release date."
+        "Ars Technica has reviewed the new macOS 26 Tahoe operating system.",
+        "The review highlights the changes and improvements in the update.",
+        "The update includes \"Liquid Glass\" for a translucent sheen.",
+        "The review covers the typical iterative changes in the update.",
+        "The focus is on the user experience and new features."
       ]
     },
     {
-      "id": "cluster_96",
+      "id": "cluster_119",
       "coverage": 1,
       "updated_at": "Mon, 15 Sep 2025 14:38:52 +0000",
       "title": "Parts shortage is the latest problem to hit General Motors production",
-      "neutral_headline": "Parts shortage impacts General Motors production",
+      "neutral_headline": "Parts Shortage Impacts General Motors Production",
       "items": [
         {
           "source": "Ars Technica",
@@ -480,7 +661,7 @@
           "title": "Parts shortage is the latest problem to hit General Motors production",
           "standfirst": "There will be temporary layoffs at a factory in Missouri from September 29–October 19.",
           "content": "General Motors will temporarily lay off workers at its Wentzville assembly plant in Missouri. According to a letter sent to employees by the head of the plant and the head of the local union, a shortage of parts is the culprit, and as a result, the factory will see \"a temporary layoff from September 29–October 19.\" The plant is about 45 minutes west of St. Louis and employs more than 4,000 people to assemble midsize pickup trucks for Chevrolet and GMC, as well as full-size vans. Not every employee will be laid off—\"skilled trades, stamping, body shop, final process and those groups that support these departments\" may still have work. Government policies Earlier this month, GM revealed plans to reduce the number of electric vehicles it builds, despite having a bumper month in August that saw it sell very nearly twice as many EVs as Ford. In that case, it blamed weak demand for electric vehicles, no doubt forecasting what the end of the IRS clean vehicle tax credit will do to the market.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1668229079-1152x648.jpg"
         }
       ],
@@ -488,18 +669,74 @@
       "popularity_score": 138,
       "ai_summary": [
         "General Motors is facing production issues due to parts shortages.",
-        "A factory in Missouri will have temporary layoffs.",
-        "The layoffs will occur from September 29 to October 19.",
-        "The article does not specify the exact parts shortage.",
-        "The production issues are impacting the factory's output."
+        "A factory in Missouri will have temporary layoffs from September 29 to October 19.",
+        "The parts shortage is the latest challenge for the company.",
+        "The layoffs will affect the factory's workforce.",
+        "The situation highlights the impact of supply chain issues."
       ]
     },
     {
-      "id": "cluster_99",
+      "id": "cluster_112",
+      "coverage": 1,
+      "updated_at": "Mon, 15 Sep 2025 17:57:23 +0000",
+      "title": "Boeing faces $3.1M fine for door plug blowout, hundreds of safety violations",
+      "neutral_headline": "Boeing Fined for Door Plug Blowout and Safety Violations",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/09/boeing-faces-3-1m-fine-for-door-plug-blowout-hundreds-of-safety-violations/",
+          "published_at": "Mon, 15 Sep 2025 17:57:23 +0000",
+          "title": "Boeing faces $3.1M fine for door plug blowout, hundreds of safety violations",
+          "standfirst": "FAA found factory violations, says Boeing sought approval for unairworthy planes.",
+          "content": "The Federal Aviation Administration on Friday proposed fines of $3.1 million against Boeing for various safety violations related to the January 2024 door plug blowout and what the FAA called \"interference with safety officials' independence.\" An FAA statement said the proposed fine covers \"safety violations that occurred from September 2023 through February 2024,\" and is the \"maximum statutory civil penalty authority consistent with law.\" Boeing, which reported $22.7 billion in revenue and a net loss of $612 million last quarter, has 30 days to file a response with the agency. \"The FAA identified hundreds of quality system violations at Boeing's 737 factory in Renton, Washington, and Boeing subcontractor Spirit AeroSystems' 737 factory in Wichita, Kansas. Additionally, Boeing presented two unairworthy aircraft to the FAA for airworthiness certificates and failed to follow its quality system,\" the FAA said.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/boeing-7373-max-1152x648-1742920126.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/boeing-7373-max-1152x648-1742920126.jpg",
+      "popularity_score": 133,
+      "ai_summary": [
+        "Boeing faces a $3.1 million fine for the door plug blowout incident.",
+        "The FAA found numerous safety violations at the factory.",
+        "Boeing sought approval for planes that were not airworthy.",
+        "The fine reflects the severity of the safety breaches.",
+        "The FAA's investigation revealed significant manufacturing issues."
+      ]
+    },
+    {
+      "id": "cluster_117",
+      "coverage": 1,
+      "updated_at": "Mon, 15 Sep 2025 16:00:51 +0000",
+      "title": "Get into the cockpit as new crop of “Top Gun” pilots get their wings",
+      "neutral_headline": "New Documentary Follows \"Top Gun\" Pilots",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2025/09/get-into-the-cockpit-as-new-crop-of-top-gun-pilots-get-their-wings/",
+          "published_at": "Mon, 15 Sep 2025 16:00:51 +0000",
+          "title": "Get into the cockpit as new crop of “Top Gun” pilots get their wings",
+          "standfirst": "NatGeo's new documentary series, Top Guns: The Next Generation, shows the sweat behind the spectacle.",
+          "content": "The blockbuster success of the 1986 film Top Gun—chronicling the paths of young naval aviators as they go through the grueling US Navy's Fighter Weapons School (aka the titular Top Gun)—spawned more than just a successful multimedia franchise. It has also been credited with inspiring future generations of fighter pilots. National Geographic takes viewers behind the scenes to see the process play out for real, with its new documentary series, Top Guns: The Next Generation. Each episode focuses on a specific aspect of the training, following a handful of students from the Navy and Marines through the highs and lows of their training. That includes practicing dive bombs at break-neck speeds; successfully landing on an aircraft carrier by \"catching the wire\"; learning the most effective offensive and defensive maneuvers in dogfighting; and, finally, engaging in a freestyle dogfight against a seasoned instructor to complete the program and (hopefully) earn their golden wings. NatGeo was granted unprecedented access, even using in-cockpit cameras to capture the pulse-pounding action of being in the air, as well as capturing behind-the-scenes candid moments. How does reality stack up against its famous Hollywood depiction? \"I think there is a lot of similarity,\" Capt. Juston \"Poker\" Kuch, who oversees all training and operations at NAS Meridian, told Ars. \"The execution portion of the mission gets focused in the movie so it is all about the flight and the dogfighting and dropping the bombs. What they don't see is the countless hours of preparation that go into the mission, all the years and years of training that it took to get there. You see the battle scenes in Top Gun and you're inspired, but there's a lot of time and effort that goes in to get an individual to that point. It doesn't make for good movies, I guess.\"Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/gunsTOP-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/gunsTOP-1152x648.jpg",
+      "popularity_score": 133,
+      "ai_summary": [
+        "A new NatGeo documentary series features \"Top Gun\" pilots.",
+        "The series is titled \"Top Guns: The Next Generation.\"",
+        "The documentary shows the training and challenges of pilots.",
+        "The series provides an inside look at the world of fighter pilots.",
+        "The focus is on the dedication and effort required."
+      ]
+    },
+    {
+      "id": "cluster_121",
       "coverage": 1,
       "updated_at": "Mon, 15 Sep 2025 14:26:27 +0000",
       "title": "NASA closing its original repository for Columbia artifacts to tours",
-      "neutral_headline": "NASA closes original Columbia artifacts repository",
+      "neutral_headline": "NASA Closing Columbia Artifact Repository to Tours",
       "items": [
         {
           "source": "Ars Technica",
@@ -508,18 +745,46 @@
           "title": "NASA closing its original repository for Columbia artifacts to tours",
           "standfirst": "A reminder to remain diligent and keep focused on safety.",
           "content": "NASA is changing the way that its employees come in contact with, and remember, one of its worst tragedies. In the wake of the 2003 loss of the space shuttle Columbia and its STS-107 crew, NASA created a program to use the orbiter's debris for research and education at Kennedy Space Center in Florida. Agency employees were invited to see what remained of the space shuttle as a powerful reminder as to why they had to be diligent in their work. Access to the Columbia Research and Preservation Office, though, was limited as a result of its location and related logistics. To address that and open up the experience to more of the workforce at Kennedy, the agency has quietly begun work to establish a new facility.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/news-091525a-lg-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/news-091525a-lg-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "NASA is closing its original repository for Columbia artifacts.",
-        "The closure serves as a reminder of the importance of safety.",
-        "The article emphasizes the need for continued diligence.",
-        "The focus is on maintaining safety protocols.",
-        "The article does not specify the reason for the closure."
+        "NASA is closing its original repository for Columbia artifacts to tours.",
+        "The closure serves as a reminder to remain focused on safety.",
+        "The decision reflects a commitment to safety protocols.",
+        "The repository housed artifacts from the Columbia space shuttle.",
+        "The closure emphasizes the importance of diligence."
+      ]
+    },
+    {
+      "id": "cluster_124",
+      "coverage": 1,
+      "updated_at": "Mon, 15 Sep 2025 13:30:55 +0000",
+      "title": "China rules that Nvidia violated its antitrust laws",
+      "neutral_headline": "China Rules Nvidia Violated Antitrust Laws",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/09/china-rules-that-nvidia-violated-its-antitrust-laws/",
+          "published_at": "Mon, 15 Sep 2025 13:30:55 +0000",
+          "title": "China rules that Nvidia violated its antitrust laws",
+          "standfirst": "Regulator’s statement comes as US and Chinese officials meet in Madrid for trade talks.",
+          "content": "A Chinese regulator has found Nvidia violated the country’s antitrust law, in a preliminary finding against the world’s most valuable chipmaker. Nvidia had failed to fully comply with provisions outlined when it acquired Mellanox Technologies, an Israeli-US supplier of networking products, China’s State Administration for Market Regulation (SAMR) said on Monday. Beijing conditionally approved the US chipmaker’s acquisition of Mellanox in 2020. Monday’s statement came as US and Chinese officials prepared for more talks in Madrid over trade, with a tariff truce between the world’s two largest economies set to expire in November.Read full article Comments",
+          "feed_position": 16,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-1-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-1-1024x648.jpg",
+      "popularity_score": 133,
+      "ai_summary": [
+        "China has ruled that Nvidia violated its antitrust laws.",
+        "The regulator's statement comes during trade talks in Madrid.",
+        "US and Chinese officials are meeting to discuss trade.",
+        "The ruling could impact Nvidia's business in China.",
+        "The situation adds tension to the ongoing trade relationship."
       ]
     }
   ]
