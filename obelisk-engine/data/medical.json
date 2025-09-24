@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2025-09-23T23:16:04.157Z",
+    "updated_at": "2025-09-24T03:30:57.059Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-09-23T23:16:19.892Z",
+    "updated_at": "2025-09-24T03:31:11.134Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/4465f7a5-1dc8-44a8-be91-54b90b07ebdc/Trump-raises-spectre-of-previous-autism-misinformation.aspx",
         "ai_summary": [
-          "The article discusses Trump's statements on autism and their potential impact.",
-          "It references the debunked claims of Andrew Wakefield regarding vaccines.",
-          "The article questions if the US news will affect Australian GPs and patients.",
-          "It explores the potential for misinformation to spread in Australia.",
-          "The article raises concerns about the influence of false claims."
+          "The article discusses Trump's statements on autism and Tylenol.",
+          "It references the debunked claims of Andrew Wakefield.",
+          "The article questions the impact on Australian GPs and patients.",
+          "It raises concerns about misinformation regarding autism.",
+          "The article explores potential effects of US news on Australian healthcare."
         ]
       },
       {
@@ -54,10 +54,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/4cd8b469-2a84-481b-8908-8274d0b57dc7/Another-state-adopts-needle-free-flu-vaccination.aspx",
         "ai_summary": [
           "South Australia's government is implementing a needle-free flu vaccination program.",
-          "The program will be administered by general practitioners (GPs).",
+          "The program will be administered by general practitioners.",
           "The program aims to protect young children from influenza.",
-          "This is the latest state to adopt this vaccination method.",
-          "The program's goal is to improve vaccination rates."
+          "This initiative is part of a broader public health strategy.",
+          "The program offers an alternative to traditional flu shots."
         ]
       },
       {
@@ -80,11 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/a49bdd1a-b502-43ff-a0ed-20ca4ac6db54/Queensland-Government-bans-pill-testing.aspx",
         "ai_summary": [
-          "The Queensland Government has banned pill testing in the state.",
-          "Two pill-testing sites are likely to remain closed due to the ban.",
+          "The Queensland government has banned pill testing services.",
+          "Two pill-testing sites are expected to remain closed.",
           "A report found that pill testing offers valuable harm reduction.",
-          "The decision has implications for drug harm reduction strategies.",
-          "The ban reflects the government's stance on drug policy."
+          "The ban contradicts findings about harm reduction strategies.",
+          "The decision impacts drug-related harm reduction efforts."
         ]
       },
       {
@@ -107,11 +107,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/2363920c-db46-4117-a3de-8e0440f88e24/RACGP-celebrates-latest-boost-to-GP-workforce.aspx",
         "ai_summary": [
-          "The Royal Australian College of General Practitioners (RACGP) welcomed new Fellows.",
-          "The RACGP also welcomed new Rural Generalists in ceremonies.",
-          "The ceremonies took place across various locations in the country.",
-          "The events celebrated the growth of the GP workforce.",
-          "The RACGP is a professional body for general practitioners."
+          "The Royal Australian College of General Practitioners welcomed new Fellows.",
+          "Rural Generalists were also celebrated in separate ceremonies.",
+          "Ceremonies took place across the country to honor the new members.",
+          "The college is recognizing the growth of the GP workforce.",
+          "The event highlights the importance of general practice."
         ]
       },
       {
@@ -134,24 +134,51 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/e7a23421-1eb4-4614-92b9-0202029dc667/New-bulk-billing-calculator-launched.aspx",
         "ai_summary": [
-          "The government launched a new bulk-billing calculator.",
+          "The government has launched a new bulk-billing calculator.",
           "The tool aims to estimate the financial impact of bulk-billing.",
-          "The calculator will help with adopting a fully bulk-billing model.",
-          "The government hopes to improve financial planning for GPs.",
-          "The tool is designed to provide more accurate estimates."
+          "It will help assess the costs of fully bulk-billing practices.",
+          "The calculator is intended for more accurate estimations.",
+          "The government is providing a tool for financial analysis."
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2025-09-23T23:16:15.425Z",
+    "updated_at": "2025-09-24T03:31:07.443Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Wed, 24 Sep 2025 00:42:38 GMT",
+        "title": "NHS trust repays £5m over maternity failings",
+        "neutral_headline": "NHS trust repays £5m over maternity failings: Leeds NHS Trust was paid the money after claiming services met safe standards of care",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/czrp1282grvo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 24 Sep 2025 00:42:38 GMT",
+            "title": "NHS trust repays £5m over maternity failings",
+            "standfirst": "Leeds NHS Trust was paid the money after claiming services met safe standards of care.",
+            "content": "Leeds NHS Trust was paid the money after claiming services met safe standards of care.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef5/live/628ea1d0-986c-11f0-af62-91486a511a31.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef5/live/628ea1d0-986c-11f0-af62-91486a511a31.jpg",
+        "ai_summary": [
+          "Leeds NHS Trust repaid £5 million due to maternity failings.",
+          "The trust had claimed its services met safe care standards.",
+          "The repayment follows an investigation into maternity care.",
+          "The failings led to the return of the previously paid funds.",
+          "The case highlights issues within the NHS maternity services."
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
         "updated_at": "Tue, 23 Sep 2025 23:02:07 GMT",
         "title": "What's the best period product for me?",
-        "neutral_headline": "What's the best period product for me?",
+        "neutral_headline": "What's the best period product for me?: Here is a guide to how each product works and the pros and cons to help you decide what might suit you",
         "items": [
           {
             "source": "BBC Health",
@@ -160,25 +187,25 @@
             "title": "What's the best period product for me?",
             "standfirst": "Here is a guide to how each product works and the pros and cons to help you decide what might suit you.",
             "content": "Here is a guide to how each product works and the pros and cons to help you decide what might suit you.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30d4/live/7fe18ea0-9556-11f0-a9d0-b91ec0b66439.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30d4/live/7fe18ea0-9556-11f0-a9d0-b91ec0b66439.jpg",
         "ai_summary": [
           "The article provides a guide to different period products.",
-          "It explains how each product works and its pros and cons.",
-          "The guide aims to help individuals choose the right product.",
-          "The article covers various options for menstrual hygiene.",
-          "The information is designed to inform personal choices."
+          "It explains how each product functions and its features.",
+          "The guide lists the pros and cons of each product type.",
+          "The information helps users choose suitable products.",
+          "The article aims to inform readers about menstrual hygiene."
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Tue, 23 Sep 2025 17:49:21 GMT",
         "title": "Is paracetamol safe during pregnancy and does it have links to autism?",
-        "neutral_headline": "Is paracetamol safe during pregnancy and does it have links to autism?",
+        "neutral_headline": "Is paracetamol safe during pregnancy and does it have links to autism?: US president’s claims around painkiller also known as Tylenol contradict scientific consensusDonald Trump has urged pregnant women not to take acetaminophen, also known as Tylenol or paracetamol. He claimed it raises the chances of children being autistic.But the US president has been condemned by experts from across the world, who fear he is deliberately fostering a narrative of distrust that could be dangerous for women. Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -209,19 +236,19 @@
           }
         ],
         "ai_summary": [
-          "Donald Trump claimed acetaminophen use during pregnancy increases autism risk.",
-          "Experts worldwide condemn Trump's claims as scientifically unsupported.",
-          "Trump's statements contradict scientific consensus on acetaminophen safety.",
-          "Medical societies cite data showing acetaminophen's safe role in pregnancy.",
-          "Trump's claims are part of a campaign valorizing the \"natural\"."
+          "Donald Trump made claims about Tylenol and autism during pregnancy.",
+          "He urged pregnant women to limit acetaminophen use.",
+          "Experts worldwide condemned Trump's statements.",
+          "Trump's claims contradict scientific consensus on Tylenol safety.",
+          "Experts fear Trump is fostering distrust in medical advice."
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Tue, 23 Sep 2025 17:08:21 GMT",
         "title": "‘Pay no attention’: global health agencies dismiss false Trump claim on everyday painkillers",
-        "neutral_headline": "‘Pay no attention’: global health agencies dismiss false Trump claim on everyday painkillers",
+        "neutral_headline": "‘Pay no attention’: global health agencies dismiss false Trump claim on everyday painkillers: Medical experts and regulators say US president should not be questioning established scienceGlobal health agencies and regulators have dismissed unscientific advice from Donald Trump that made an unproven link between autism and the use of everyday painkillers and vaccines.In a sign of how worried foreign governments are about the US president’s comments, the health secretary of the UK, which is one the US’s closest allies, told the British public they should not “pay any attention whatsoever to what Donald Trump says about medicine”. Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -234,19 +261,19 @@
           }
         ],
         "ai_summary": [
-          "Global health agencies dismiss Trump's unscientific advice on painkillers.",
-          "Trump made an unproven link between autism and everyday painkillers.",
-          "Medical experts and regulators refute Trump's claims.",
-          "The UK health secretary advised the public to ignore Trump's statements.",
-          "The comments have caused concern among foreign governments."
+          "Global health agencies dismissed Trump's claims about painkillers.",
+          "Trump made an unproven link between painkillers and autism.",
+          "Medical experts and regulators criticized Trump's statements.",
+          "The UK health secretary advised ignoring Trump's medical advice.",
+          "Foreign governments are concerned about Trump's comments."
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Tue, 23 Sep 2025 16:48:18 GMT",
         "title": "Ed Davey warns NHS will be privatised and gun laws rolled back by ‘hypocrite’ Farage in Lib Dem conference speech – as it happened",
-        "neutral_headline": "Ed Davey Criticizes Trump, Discusses Healthcare and Migration",
+        "neutral_headline": "Ed Davey warns NHS will be privatised and gun laws rolled back by ‘hypocrite’ Farage in Lib Dem conference speech – as it happened: This blog is now closed, you can read more on this story here:Lib Dems the last block against ‘forces of darkness’ led by Farage, says Ed DaveyEd Davey, the Lib Dem leader, criticised Donald Trump for “the cruelty and stupidity” of his approach to medical research in comments distributed yesterday before Trump made bogus claims about autism in the Oval Office. (See 8.41am.) Now Davey has described the president’s latest comments as “dangerous nonsense”.First Trump slashed funding for vaccines research now he’s peddling dangerous nonsense about paracetamol.The UK should take on Trump’s anti-science agenda and open our doors to US researchers.The US government is ignoring science and deliberately spreading misinformation. It will get people killed. And we have a Reform party that seems quite keen to import their health advice from these people.Boldest of the lot are the proposals on migration, which, if taken up even in part, would represent the biggest paradigm shift of all. Reform UK has set the agenda with proposals to deny benefits to even legal migrants. By the standards of the centre-left, Labour Together’s suggestion is just as radical.Rather than leave Isak, an Eritrean with post-traumatic stress disorder, languishing in an asylum hotel, their paper proposes he be granted time-limited refugee status for six months. He signs a contract that obliges him to learn English, find work and private accommodation; his access to any income support via universal credit is strictly conditional on him fulfilling its terms. Of all the changes suggested, this one – given that asylum seekers cannot currently work legally – would have the most profound consequences for British politics and the economy.Why an asylum-seeker is drawn to Britain over, say, France is not obvious. A 2016 report from Warwick University, based on finding",
         "items": [
           {
             "source": "Guardian Health",
@@ -259,19 +286,19 @@
           }
         ],
         "ai_summary": [
-          "Ed Davey criticized Donald Trump's approach to medical research, calling it \"dangerous nonsense\" regarding vaccines.",
-          "Davey proposed the UK should welcome US researchers due to the US government's misinformation spread.",
-          "Reform UK proposed denying benefits to legal migrants, representing a significant shift in policy.",
-          "Labour Together suggested time-limited refugee status for an asylum seeker, with conditions for integration.",
-          "The proposed changes could have profound consequences for British politics and the economy."
+          "Ed Davey criticized Donald Trump's comments on medical research.",
+          "Davey described Trump's statements as \"dangerous nonsense\".",
+          "Davey warned about potential privatization of the NHS.",
+          "He also discussed gun law rollbacks by Nigel Farage.",
+          "The article covers the Lib Dem conference speech."
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Tue, 23 Sep 2025 16:35:57 GMT",
         "title": "The tragedy of a second runway at Gatwick | Brief letters",
-        "neutral_headline": "Second Gatwick Runway, Trump's Medication, and Party Woes",
+        "neutral_headline": "The tragedy of a second runway at Gatwick | Brief letters: Climate agreements | Donald Trump’s meds | Pass the duchess | Your Party woes | Get well soonGatwick’s second runway is yet another example of the tragedy of the commons (Gatwick given green light for £2.2bn second runway plan, 21 September). While all nations benefit from a healthy climate, each also benefits from actions which damage the climate. Only international cooperation – including a binding agreement to phase out fossil fuel production – can prevent this tragedy.Dr Andrew BodeyOxford• It would be far more helpful, to the widest possible number of people, if Donald Trump were to disclose what he is taking (Trump attacks Tylenol as officials unveil highly contentious conclusions on autism, 22 September). Then we could all avoid it.Neil BlackshawAlnwick, Northumberland Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -284,13 +311,15 @@
           }
         ],
         "ai_summary": [
-          "A second runway at Gatwick is an example of the tragedy of the commons, harming the climate.",
-          "International cooperation, including phasing out fossil fuels, is needed to prevent climate damage.",
-          "A doctor suggests that Donald Trump should disclose what medication he is taking."
+          "The article discusses the Gatwick second runway plan.",
+          "It references the \"tragedy of the commons\" concept.",
+          "A letter suggests Trump disclose his medications.",
+          "The letter writer wants to avoid Trump's medications.",
+          "The article includes brief letters on various topics."
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Tue, 23 Sep 2025 15:29:27 GMT",
         "title": "Nasa plans first crewed Moon mission in 50 years for February 2026",
@@ -307,14 +336,19 @@
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e57/live/d786ec00-9898-11f0-9b4d-3db5bd560027.png"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e57/live/d786ec00-9898-11f0-9b4d-3db5bd560027.png"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e57/live/d786ec00-9898-11f0-9b4d-3db5bd560027.png",
+        "ai_summary": [
+          "NASA plans a crewed mission around the Moon, scheduled for February 2026.",
+          "This mission will pave the way for a lunar landing as early as the year 2027.",
+          "The mission is the first crewed Moon mission in approximately fifty years."
+        ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Tue, 23 Sep 2025 15:00:41 GMT",
         "title": "‘Tentacles squelching wetly’: the human subtitle writers under threat from AI",
-        "neutral_headline": "AI Threatens Human Subtitle Writers",
+        "neutral_headline": "‘Tentacles squelching wetly’: the human subtitle writers under threat from AI",
         "items": [
           {
             "source": "Guardian Health",
@@ -327,17 +361,19 @@
           }
         ],
         "ai_summary": [
-          "Artificial intelligence is making advances in subtitling, but humans are still needed.",
-          "SDH is considered an art, and the industry feels undervalued in the age of AI.",
-          "AI tools have not significantly reduced the time it takes to complete projects."
+          "Artificial intelligence is making advances in subtitling technology.",
+          "Practitioners say human subtitling is a vital service needing human input.",
+          "SDH is the default subtitle format on most platforms currently.",
+          "Humans in creative industries are being devalued in the age of AI.",
+          "AI is not simplifying the process of creating subtitles as expected."
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Tue, 23 Sep 2025 13:00:55 GMT",
         "title": "Trump’s absurd Tylenol claims heighten the suffering of pregnant women in the US | Moira Donegan",
-        "neutral_headline": "Trump's Tylenol Claims and Autism Fears",
+        "neutral_headline": "Trump's Tylenol Claims and Autism Concerns",
         "items": [
           {
             "source": "Guardian Health",
@@ -350,15 +386,15 @@
           }
         ],
         "ai_summary": [
-          "Trump's claims about Tylenol and autism lack supporting evidence, exploiting pregnancy fears.",
-          "Robert F. Kennedy Jr. has made disturbing claims about autistic people.",
-          "Trump has joined his health secretary in casting aspersions on childhood vaccines.",
-          "Kennedy sought to restrict access to common vaccines, replacing experts with critics.",
-          "Trump stated that early childhood immunizations contain \"too much liquid.\""
+          "Trump's claims about Tylenol and autism lack supporting evidence.",
+          "Robert F. Kennedy Jr. made claims about autism and pharmaceutical causes.",
+          "Kennedy has previously made disparaging remarks about autistic individuals.",
+          "Kennedy has sought to restrict access to common vaccines.",
+          "Trump has cast aspersions on childhood vaccines with his health secretary."
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Tue, 23 Sep 2025 12:36:43 GMT",
         "title": "Trust doctors over Trump on paracetamol, Streeting says",
@@ -371,14 +407,19 @@
             "title": "Trust doctors over Trump on paracetamol, Streeting says",
             "standfirst": "He tells expectant mothers to ignore Trump's claims of a link between use of the painkiller and autism.",
             "content": "He tells expectant mothers to ignore Trump's claims of a link between use of the painkiller and autism.",
-            "feed_position": 3,
+            "feed_position": 4,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa6/live/b05f0c20-9875-11f0-af62-91486a511a31.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa6/live/b05f0c20-9875-11f0-af62-91486a511a31.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa6/live/b05f0c20-9875-11f0-af62-91486a511a31.jpg",
+        "ai_summary": [
+          "Streeting advises expectant mothers to disregard Trump's claims.",
+          "Trump made claims about a link between paracetamol use and autism.",
+          "Streeting is a political figure, likely a member of Parliament."
+        ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Tue, 23 Sep 2025 12:00:55 GMT",
         "title": "‘Families are dying’: an Ohio town suffering from fallout years after nuclear plant’s closure",
@@ -393,10 +434,16 @@
             "content": "As Trump calls for more nuclear power, Piketon, the site of an enrichment facility, knows first hand its ill effectsThree years after starting work as an electrician at the Portsmouth Gaseous Diffusion Plant, Vina Colley started getting sick.The huge facility in the foothills of Appalachian Ohio was opened in 1954 to enrich weapons-grade uranium for the military as America’s cold war with the Soviet Union ramped up, and later, for commercial purposes. Continue reading...",
             "feed_position": 7
           }
+        ],
+        "ai_summary": [
+          "A town in Ohio is suffering from the effects of a nuclear plant closure.",
+          "The plant was used to enrich weapons-grade uranium for the military.",
+          "The plant was opened in 1954 during the Cold War era.",
+          "Vina Colley started getting sick after working at the plant."
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Tue, 23 Sep 2025 10:54:16 GMT",
         "title": "What we know about rising autism rates and Trump's unproven Tylenol link",
@@ -419,14 +466,19 @@
             "title": "Trump makes unproven link between autism and Tylenol",
             "standfirst": "Some studies have suggested an association between the two, but experts say there is no causal relationship.",
             "content": "Some studies have suggested an association between the two, but experts say there is no causal relationship.",
-            "feed_position": 4,
+            "feed_position": 5,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48a/live/8b21a4e0-9857-11f0-858a-a904eacbef23.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b23/live/cc355f10-9854-11f0-8d62-215a8506b20f.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b23/live/cc355f10-9854-11f0-8d62-215a8506b20f.jpg",
+        "ai_summary": [
+          "Some studies suggest an association between autism and Tylenol.",
+          "Experts say there is no proven causal relationship between the two.",
+          "Trump has made an unproven link between autism and Tylenol."
+        ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Tue, 23 Sep 2025 10:19:29 GMT",
         "title": "I didn't want sex with my husband after having our baby",
@@ -439,18 +491,18 @@
             "title": "I didn't want sex with my husband after having our baby",
             "standfirst": "Both women and men can experience a loss of libido after having a child, here's what can help.",
             "content": "Both women and men can experience a loss of libido after having a child, here's what can help.",
-            "feed_position": 2,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8f5/live/c0d60430-9557-11f0-b830-3f3c6ed9c9f6.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8f5/live/c0d60430-9557-11f0-b830-3f3c6ed9c9f6.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Tue, 23 Sep 2025 10:00:53 GMT",
         "title": "My blood type made me a donor superhero – until my weakness for crisps let me down | Zoe Williams",
-        "neutral_headline": "Blood Type Donor Superhero's Iron Deficiency",
+        "neutral_headline": "Blood Type and Iron Levels Affecting Blood Donation",
         "items": [
           {
             "source": "Guardian Health",
@@ -461,14 +513,20 @@
             "content": "‘It’s such a shame,’ said the nurse as she turned me away from the donation centre, and I realised my assumptions about being O-negative were all wrongI’ve flexed before about having the world’s best blood type: O-negative. For some reason, all niceties around boasting vanish in the face of this natural-born superiority. If the “first-responder” rubber bracelet they sent me matched any of my clothes (how could it? It’s the colour of blood), I would definitely wear it everywhere I go.Last week, though, for the third time, I got turned away from donating because my iron wasn’t high enough. It was low only by a margin, and this is normally acknowledged as just natural human variation, but they operate quite a strict three-strikes rule, and now I can’t even present my (also pretty superior) veins again for a full two years.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
             "feed_position": 8
           }
+        ],
+        "ai_summary": [
+          "The author has O-negative blood type, considered a universal donor.",
+          "The author was turned away from donating blood due to low iron levels.",
+          "The author was turned away for the third time.",
+          "The author cannot donate blood for two years."
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Tue, 23 Sep 2025 07:42:28 GMT",
         "title": "New rule for GPs after 27-year-old's cancer missed",
-        "neutral_headline": "New Rule for GPs After Cancer Missed",
+        "neutral_headline": "New Rule for GPs After Cancer Misdiagnosis",
         "items": [
           {
             "source": "BBC Health",
@@ -477,18 +535,23 @@
             "title": "New rule for GPs after 27-year-old's cancer missed",
             "standfirst": "Jess's Rule urges doctors to 'think again' if they cannot diagnose a patient's illness after three appointments.",
             "content": "Jess's Rule urges doctors to 'think again' if they cannot diagnose a patient's illness after three appointments.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f97c/live/6604bf20-9853-11f0-928c-71dbb8619e94.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f97c/live/6604bf20-9853-11f0-928c-71dbb8619e94.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f97c/live/6604bf20-9853-11f0-928c-71dbb8619e94.jpg",
+        "ai_summary": [
+          "A new rule, \"Jess's Rule,\" is being implemented for GPs.",
+          "The rule urges doctors to reconsider diagnoses after three appointments.",
+          "The rule was created after a 27-year-old's cancer was missed."
+        ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Tue, 23 Sep 2025 05:00:39 GMT",
         "title": "Death by aid cuts: how a decision in the US led to the loss of a mother in Yemen",
-        "neutral_headline": "Aid Cuts Led to Death of Mother in Yemen",
+        "neutral_headline": "Death by aid cuts: how a decision in the US led to the loss of a mother in Yemen",
         "items": [
           {
             "source": "Guardian Health",
@@ -499,14 +562,20 @@
             "content": "While the Trump administration claims no one will die over the axing of its overseas development budgets, aid agencies say the action will cost at least 3 million lives. Fatima and her baby were among the firstWhen she woke on that Sunday morning, Fatima was part of a family preparing to celebrate – she was due to give birth to her third child any day and her brother was on his way home from Saudi Arabia to get married.But by mid-afternoon, the family were instead preparing for a funeral – both Fatima and her baby were dead. Continue reading...",
             "feed_position": 9
           }
+        ],
+        "ai_summary": [
+          "The Trump administration is claiming no one will die from aid cuts.",
+          "Aid agencies say the cuts will cost at least three million lives.",
+          "Fatima and her baby were among the first to die.",
+          "Fatima was preparing to give birth to her third child."
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Tue, 23 Sep 2025 04:00:37 GMT",
         "title": "Is there hope on the horizon for patients with Alzheimer’s? – podcast",
-        "neutral_headline": "Blood Test Could Transform Alzheimer's Diagnosis",
+        "neutral_headline": "Is there hope on the horizon for patients with Alzheimer’s? – podcast",
         "items": [
           {
             "source": "Guardian Health",
@@ -519,17 +588,19 @@
           }
         ],
         "ai_summary": [
-          "A trial is underway to see if a £100 blood test can transform Alzheimer's diagnosis.",
-          "Alzheimer's is the leading cause of dementia, and diagnosis is currently costly.",
-          "The blood test could pave the way for new treatments for the disease."
+          "A trial is underway to test a blood test for Alzheimer's diagnosis.",
+          "The blood test could transform how the NHS diagnoses Alzheimer's.",
+          "Alzheimer's is the leading cause of dementia.",
+          "The current diagnosis process is costly and time-consuming.",
+          "The test could pave the way for new treatments for the disease."
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Mon, 22 Sep 2025 23:05:31 GMT",
         "title": "Violence in GP surgeries driven by waiting times and drug refusals, global study shows",
-        "neutral_headline": "Violence in GP Surgeries Driven by Waiting Times",
+        "neutral_headline": "Violence in GP surgeries driven by waiting times and drug refusals, global study shows",
         "items": [
           {
             "source": "Guardian Health",
@@ -542,13 +613,14 @@
           }
         ],
         "ai_summary": [
-          "Violence and abuse against staff in GP clinics is widespread globally.",
-          "Long waiting times and drug refusal are the main triggers for violence.",
-          "The study covered 24 countries and found female and younger staff face the worst aggression."
+          "Violence against staff in GP clinics is widespread globally.",
+          "Long waiting times and drug refusals trigger the violence.",
+          "The study covered 24 countries.",
+          "Female and younger staff face the worst aggression."
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Mon, 22 Sep 2025 23:04:59 GMT",
         "title": "Davey urges US cancer scientists to come to UK",
@@ -561,18 +633,23 @@
             "title": "Davey urges US cancer scientists to come to UK",
             "standfirst": "The Lib Dem leader will use his party conference speech to attack Donald Trump's \"anti-science agenda\".",
             "content": "The Lib Dem leader will use his party conference speech to attack Donald Trump's \"anti-science agenda\".",
-            "feed_position": 5,
+            "feed_position": 6,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9940/live/01111700-97d9-11f0-b48d-eb3b631c9a51.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9940/live/01111700-97d9-11f0-b48d-eb3b631c9a51.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9940/live/01111700-97d9-11f0-b48d-eb3b631c9a51.jpg",
+        "ai_summary": [
+          "Davey is urging US cancer scientists to come to the UK.",
+          "Davey is the Lib Dem leader.",
+          "Davey will attack Trump's \"anti-science agenda\" in his speech."
+        ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Mon, 22 Sep 2025 21:30:29 GMT",
         "title": "English GPs adopt ‘Jess’s rule’ to help ensure they do not miss serious illnesses",
-        "neutral_headline": "English GPs Implement New Approach to Improve Illness Diagnosis",
+        "neutral_headline": "English GPs adopt ‘Jess’s rule’ to help ensure they do not miss serious illnesses",
         "items": [
           {
             "source": "Guardian Health",
@@ -585,42 +662,17 @@
           }
         ],
         "ai_summary": [
-          "English GPs will adopt a \"three strikes and rethink\" approach for undiagnosed illnesses.",
-          "The initiative is called \"Jess's rule\" after Jessica Brady, who died from misdiagnosed cancer.",
-          "Brady experienced symptoms for six months before her stage four cancer diagnosis.",
-          "The rule aims to prevent missed diagnoses of serious illnesses in patients.",
-          "The approach encourages GPs to reconsider diagnoses when initial assessments fail."
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Mon, 22 Sep 2025 18:00:38 GMT",
-        "title": "The Guardian view on Labour’s NHS reforms: where is the plan to deliver them?",
-        "neutral_headline": "The Guardian view on Labour’s NHS reforms: where is the plan to deliver them?",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/commentisfree/2025/sep/22/the-guardian-view-on-labours-nhs-reforms-where-is-the-plan-to-deliver-them",
-            "published_at": "Mon, 22 Sep 2025 18:00:38 GMT",
-            "title": "The Guardian view on Labour’s NHS reforms: where is the plan to deliver them?",
-            "standfirst": "Bold announcements about restructuring appear to have taken priority over implementationThe state of the health service is one of the key metrics on which this government will be judged. Of course this is to some extent true for all governments. But it is particularly so for a Labour administration that made the revival of the NHS part of its core pitch to voters.Such assessments of progress are all the more pressing in the context of Sir Keir Starmer’s increasingly beleaguered leadership. With Wes Streeting widely recognised to be among a handful of possible successors, colleagues and party members will be asking: has he delivered what they and voters hoped? Continue reading...",
-            "content": "Bold announcements about restructuring appear to have taken priority over implementationThe state of the health service is one of the key metrics on which this government will be judged. Of course this is to some extent true for all governments. But it is particularly so for a Labour administration that made the revival of the NHS part of its core pitch to voters.Such assessments of progress are all the more pressing in the context of Sir Keir Starmer’s increasingly beleaguered leadership. With Wes Streeting widely recognised to be among a handful of possible successors, colleagues and party members will be asking: has he delivered what they and voters hoped? Continue reading...",
-            "feed_position": 14
-          }
-        ],
-        "ai_summary": [
-          "Labour's NHS revival was a core part of its pitch to voters, making progress crucial.",
-          "Bold restructuring announcements seem to have taken priority over actual implementation.",
-          "The health service's state is a key metric for judging the current government.",
-          "Sir Keir Starmer's leadership faces scrutiny, with potential successors emerging.",
-          "Colleagues and party members are questioning if promises have been fulfilled."
+          "GPs in England are adopting \"Jess's rule\" for patient care.",
+          "The rule is a \"three strikes and rethink\" approach.",
+          "The rule is named after Jessica Brady.",
+          "Jessica Brady died from stage four cancer at age 27.",
+          "She experienced symptoms for six months before her death."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-09-23T23:16:19.892Z",
+    "updated_at": "2025-09-24T03:31:11.134Z",
     "clusters": []
   }
 }
