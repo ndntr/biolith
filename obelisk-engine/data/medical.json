@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2025-10-04T19:12:44.715Z",
+    "updated_at": "2025-10-04T23:16:14.926Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-10-04T19:13:00.388Z",
+    "updated_at": "2025-10-04T23:16:30.173Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/6da705a4-ebae-4735-a5c2-888cb8035483/Breast-screening-not-flatlining-says-expert.aspx",
         "ai_summary": [
-          "A peak breast screen organization disputes an AIHW report.",
-          "An RACGP expert has backed the national screening program.",
-          "The expert's comments address concerns about screening.",
-          "The expert supports the current breast screening program.",
-          "The expert's statements aim to reassure the public."
+          "An RACGP expert supports the national breast screening program.",
+          "This follows a dispute over an AIHW report.",
+          "The peak breast screen organization disagrees with the report.",
+          "The expert's comments aim to clarify the situation.",
+          "The focus is on the effectiveness of breast screening."
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/1a566c7e-0bc8-4f23-b40a-c17d4f863233/Rural-Generalists-in-Queensland-gather-for-milestone-event.aspx",
         "ai_summary": [
-          "A key forum was held in Queensland for Rural Generalists.",
-          "Support for Rural Generalists was discussed at the forum.",
-          "The forum took place in the \"spiritual home of rural generalism.\"",
-          "Discussions focused on the present and future of rural generalism.",
-          "The event was a milestone for rural healthcare professionals."
+          "A forum in Queensland discussed support for Rural Generalists.",
+          "The forum was held in the \"spiritual home of rural generalism\".",
+          "Discussions covered current and future support.",
+          "The event marked a milestone for Rural Generalists.",
+          "The focus was on the needs of rural doctors."
         ]
       },
       {
@@ -80,24 +80,51 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/b4c1ef71-f079-4cef-b62c-44ba36040456/Top-tips-for-cyber-security.aspx",
         "ai_summary": [
-          "A GP expert shares advice for general practices.",
-          "The advice is for Cyber Security Awareness Month.",
-          "The advice aims to ensure system and data security.",
-          "The expert provides tips for general practices.",
-          "The tips are designed to improve cyber security."
+          "A GP expert offers cyber security advice.",
+          "The advice is for general practices.",
+          "The advice is shared during Cyber Security Awareness Month.",
+          "The goal is to secure systems and data.",
+          "The expert aims to help practices protect themselves."
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2025-10-04T19:12:54.921Z",
+    "updated_at": "2025-10-04T23:16:25.250Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Sat, 04 Oct 2025 21:04:44 GMT",
+        "title": "Environment prize nominees 'heroes of our time', says William",
+        "neutral_headline": "Environment prize nominees 'heroes of our time', says William: Fifteen projects are shortlisted for a chance of winning the top £1m prizes at next month's environmental awards ceremony in Rio de Janeiro",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cz08591znr8o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 04 Oct 2025 21:04:44 GMT",
+            "title": "Environment prize nominees 'heroes of our time', says William",
+            "standfirst": "Fifteen projects are shortlisted for a chance of winning the top £1m prizes at next month's environmental awards ceremony in Rio de Janeiro.",
+            "content": "Fifteen projects are shortlisted for a chance of winning the top £1m prizes at next month's environmental awards ceremony in Rio de Janeiro.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86a5/live/4f93edc0-a16c-11f0-b741-177e3e2c2fc7.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86a5/live/4f93edc0-a16c-11f0-b741-177e3e2c2fc7.jpg",
+        "ai_summary": [
+          "Fifteen projects are shortlisted for an environment prize.",
+          "The prize ceremony will be in Rio de Janeiro.",
+          "The top prize is worth £1 million.",
+          "Prince William called the nominees \"heroes of our time\".",
+          "The awards recognize environmental efforts."
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
         "updated_at": "Sat, 04 Oct 2025 16:27:32 GMT",
         "title": "Costco to sell weight-loss drugs such as Ozempic and Wegovy at half-price",
-        "neutral_headline": "Costco to Sell Weight-Loss Drugs at Reduced Price",
+        "neutral_headline": "Costco to sell weight-loss drugs at half-price",
         "items": [
           {
             "source": "Guardian Health",
@@ -110,19 +137,19 @@
           }
         ],
         "ai_summary": [
-          "Costco will offer Ozempic and Wegovy to members with prescriptions at roughly half price.",
-          "The offer is available only to those paying out of pocket, not those with insurance coverage.",
-          "The price for a four-week supply of the injectables will be $499 for members.",
-          "This move comes as GLP-1 drug prices have increased due to limited supply.",
-          "Costco has an agreement with drugmaker Novo Nordisk to provide the medications."
+          "Costco will sell weight-loss drugs like Ozempic and Wegovy.",
+          "The drugs will be available at roughly half the usual cost.",
+          "The agreement is with drugmaker Novo Nordisk.",
+          "Members with prescriptions can buy a four-week supply.",
+          "The offer is for those paying out of pocket."
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sat, 04 Oct 2025 12:00:05 GMT",
         "title": "Advocates raise alarm over Pfas pollution from datacenters amid AI boom",
-        "neutral_headline": "Datacenters' Pfas Pollution Concerns Rise Amid AI Boom",
+        "neutral_headline": "Advocates raise alarm over Pfas pollution from datacenters amid AI boom: Tech companies’ use of Pfas gas at facilities may mean datacenters’ climate impact is worse than previously thoughtDatacenters’ electricity demands have been accused of delaying the US’s transition to clean energy and requiring fossil fuel plants to stay online, while their high level of water consumption has also raised alarm. Now public health advocates fear another environmental problem could be linked to them – Pfas “forever chemical” pollution.Big tech companies like Google, Microsoft and Amazon often need datacenters to store servers and networking equipment that process the world’s digital traffic, and the artificial intelligence boom is driving demand for more facilities. Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -135,19 +162,19 @@
           }
         ],
         "ai_summary": [
-          "Datacenters' electricity demands may delay the US transition to clean energy.",
-          "High water consumption by datacenters has also raised environmental concerns.",
-          "Public health advocates fear Pfas \"forever chemical\" pollution from datacenters.",
-          "Big tech companies use datacenters to store servers and networking equipment.",
-          "The artificial intelligence boom is driving demand for more datacenter facilities."
+          "Advocates are concerned about Pfas pollution from datacenters.",
+          "Datacenters' climate impact may be worse than thought.",
+          "Big tech companies use datacenters for data storage.",
+          "The AI boom is increasing demand for datacenters.",
+          "Pfas chemicals are a potential environmental problem."
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 04 Oct 2025 11:00:05 GMT",
         "title": "A ‘hostile takeover’: ousted CDC official raises alarm over RFK Jr approach to infectious disease",
-        "neutral_headline": "Ousted CDC Official Raises Alarm Over RFK Jr Approach",
+        "neutral_headline": "A ‘hostile takeover’: ousted CDC official raises alarm over RFK Jr approach to infectious disease: Debra Houry speaks after testifying on eight months under Kennedy, who critics say shuns science and spreads falsehoodsRobert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS), has avoided meetings with top health officials, even as deadly outbreaks unfolded, and pushed to make unprecedented changes to the childhood immunization schedule, according to a recently ousted leader of the US Centers for Disease Control and Prevention (CDC).Debra Houry, the CDC’s former chief medical officer, spoke with the Guardian after testifying before a Senate committee about her eight months serving under Kennedy, offering insight into a health secretary who has been criticized as shunning expertise in favor of spreading misinformation, denigrating science, and dismantling institutions crucial for Americans’ health. Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -160,19 +187,19 @@
           }
         ],
         "ai_summary": [
-          "Robert F Kennedy Jr has avoided meetings with top health officials.",
-          "Kennedy pushed for changes to the childhood immunization schedule.",
-          "Debra Houry testified about her eight months under Kennedy's leadership.",
-          "Critics say Kennedy shuns science and spreads misinformation.",
-          "Houry was the CDC’s former chief medical officer."
+          "A former CDC official criticizes RFK Jr's approach.",
+          "RFK Jr. allegedly avoided meetings with health officials.",
+          "He pushed for changes to the immunization schedule.",
+          "Debra Houry testified about her time under Kennedy.",
+          "Critics say Kennedy shuns science and spreads misinformation."
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Fri, 03 Oct 2025 16:59:25 GMT",
         "title": "Failed by the NHS on chronic fatigue illness | Letters",
-        "neutral_headline": "NHS Criticized for Failing on Chronic Fatigue Illness",
+        "neutral_headline": "Failed by the NHS on chronic fatigue illness | Letters: Prof Paul Garner, Dr Maria Pedersen and Dr Alastair Miller, plus two other readers, respond to Patrick Barkham’s article on his daughter’s Lyme disease diagnosisMilly’s chronic fatigue illness, outlined by her father, Patrick Barkham, is heartbreaking (As my daughter got sicker and sicker, our quest for answers dragged on. How did we all miss the bacteria taking over her body?, 28, September). Patrick says he feels guilty, but he is not to blame: the NHS has failed them.In the absence of clear explanations and effective solutions, it is entirely understandable that families may turn to a variety of for-profit, fringe medicine options. While Patrick’s faith and optimism may indeed help Milly recover, there is no reliable evidence linking a chronic Borrelia infection to her symptoms; and the effectiveness of long-term antibiotics has not been demonstrated. Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -185,19 +212,19 @@
           }
         ],
         "ai_summary": [
-          "A father feels the NHS failed his daughter with chronic fatigue illness.",
-          "Families may turn to fringe medicine options due to lack of solutions.",
-          "There is no reliable evidence linking chronic Borrelia infection to symptoms.",
-          "The effectiveness of long-term antibiotics has not been demonstrated.",
-          "The article is a response to an article about the daughter's Lyme disease."
+          "Readers respond to an article about chronic fatigue illness.",
+          "The article discussed a daughter's Lyme disease diagnosis.",
+          "The NHS is criticized for failing the family.",
+          "The letters discuss potential treatments.",
+          "There is no evidence linking infection to symptoms."
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Fri, 03 Oct 2025 16:54:44 GMT",
         "title": "More than 60,000 cancer patients in England ‘not getting necessary radiotherapy’",
-        "neutral_headline": "Many Cancer Patients Not Getting Necessary Radiotherapy",
+        "neutral_headline": "More than 60,000 cancer patients in England ‘not getting necessary radiotherapy’: Exclusive: Analysis of NHS data by Radiotherapy UK also shows some patients face waits of up to six monthsMore than 60,000 cancer patients a year in England are not getting the radiotherapy they need at all, while some face waits of up to six months to begin the treatment, research has found.The situation is so dire that nearly 100 heads of radiotherapy and oncology – three-quarters of England’s radiotherapy leaders – have warned in an open letter that the government is failing patients. Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -210,19 +237,19 @@
           }
         ],
         "ai_summary": [
-          "Over 60,000 cancer patients in England are not getting needed radiotherapy.",
-          "Some patients face waits up to six months to begin radiotherapy treatment.",
-          "Nearly 100 radiotherapy and oncology heads warned of government failures.",
-          "The open letter from leaders states the government is failing patients.",
-          "The research analyzed NHS data regarding radiotherapy access."
+          "Over 60,000 cancer patients lack necessary radiotherapy.",
+          "Some patients face up to six-month waits.",
+          "Radiotherapy UK analyzed NHS data.",
+          "Radiotherapy leaders warned the government.",
+          "The situation is considered dire."
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Fri, 03 Oct 2025 15:00:43 GMT",
         "title": "Layne Beachley: ‘My peers tagged me as having the compassion of a tiger shark’",
-        "neutral_headline": "Layne Beachley Discusses Self-Worth and Surfing",
+        "neutral_headline": "Layne Beachley: ‘My peers tagged me as having the compassion of a tiger shark’: The seven-time world surfing champion talks about her search for self-worth, being adopted and hearing the wake-up call to live a better lifeLayne Beachley begins each day with a visit to her happy place. Ideally she spends no less than an hour surfing her local break at Freshwater on Sydney’s northern beaches after the “briefcase bandits and schoolkids” have been and gone. Today she tweaks her morning routine to make time to meet in the Royal Botanic Garden on the other side of Sydney Harbour.With 12 surfboards in the garage and almost five decades of the daily ritual in her arms and legs, the seven-time world surfing champion is prepared for any and all conditions in the water. When the waves are not quite to her liking, or on a rare occasion when she accepts she has too much else to do, Beachley still finds time to slip into the ocean.Sign up for a weekly email featuring our best reads Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -235,19 +262,19 @@
           }
         ],
         "ai_summary": [
-          "Layne Beachley is a seven-time world surfing champion.",
-          "She surfs at Freshwater on Sydney's northern beaches daily.",
-          "Beachley has been surfing for almost five decades.",
-          "She finds time to surf even when conditions are not ideal.",
-          "Beachley begins each day with a visit to her happy place."
+          "Layne Beachley is a seven-time surfing champion.",
+          "She discusses her search for self-worth.",
+          "Beachley talks about being adopted.",
+          "She surfs daily at Freshwater beach.",
+          "Beachley reflects on living a better life."
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 03 Oct 2025 14:25:26 GMT",
         "title": "RFK Jr fires top NIH scientist weeks after she files whistleblower complaint",
-        "neutral_headline": "RFK Jr fires top NIH scientist weeks after she files whistleblower complaint",
+        "neutral_headline": "RFK Jr fires top NIH scientist weeks after she files whistleblower complaint: Jeanne Marrazzo’s complaint reportedly involved the Trump administration’s hostility toward vaccinesThe US health secretary, Robert F Kennedy Jr, has fired a top scientist at the National Institutes of Health (NIH) just three weeks after she had filed a whistleblower complaint against the Trump administration relating to its hostility towards vaccines, according to a report.Jeanne Marrazzo has been removed from her NIH job, the New York Times reported. She had already been demoted in March from her senior position as director of the National Institute of Allergy and Infectious Diseases. Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -260,19 +287,19 @@
           }
         ],
         "ai_summary": [
-          "Robert F Kennedy Jr fired a top NIH scientist.",
-          "The scientist filed a whistleblower complaint against the Trump administration.",
-          "The complaint reportedly involved the Trump administration's vaccine stance.",
-          "Jeanne Marrazzo was removed from her NIH job.",
-          "Marrazzo had been demoted from her senior position in March."
+          "RFK Jr. fired a top NIH scientist.",
+          "The scientist filed a whistleblower complaint.",
+          "The complaint related to vaccine hostility.",
+          "Jeanne Marrazzo was removed from her job.",
+          "She had been demoted earlier in the year."
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 03 Oct 2025 12:00:36 GMT",
         "title": "California governor under pressure over bill to ban cookware made with Pfas",
-        "neutral_headline": "California Governor Faces Pressure on Pfas Cookware Bill",
+        "neutral_headline": "California Governor Faces Pressure on Cookware PFAS Ban",
         "items": [
           {
             "source": "Guardian Health",
@@ -285,19 +312,19 @@
           }
         ],
         "ai_summary": [
-          "Gavin Newsom is considering whether to sign a bill banning Pfas cookware.",
-          "Newsom faces pressure from industry and celebrity chefs.",
-          "The legislation was approved by the California legislature on September 12.",
-          "Newsom's decision is under scrutiny due to a potential presidential run.",
-          "The bill would ban the sale of cookware made with \"forever chemicals\"."
+          "California's governor is considering a bill to ban cookware containing PFAS chemicals.",
+          "The legislation passed the California legislature and awaits Governor Newsom's decision.",
+          "Industry and celebrity chefs are lobbying Newsom regarding the bill's fate.",
+          "Newsom's decision is under increased scrutiny due to potential presidential run.",
+          "The bill's approval would ban the sale of cookware made with \"forever chemicals\"."
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 03 Oct 2025 11:00:34 GMT",
         "title": "‘We called ourselves the lifeboat crew’: how fired USAID workers launched a rescue project ‘to save as many babies as we can’",
-        "neutral_headline": "Former USAID Workers Launch Rescue Project",
+        "neutral_headline": "Former USAID Workers Launch Rescue Project After Job Loss",
         "items": [
           {
             "source": "Guardian Health",
@@ -310,19 +337,19 @@
           }
         ],
         "ai_summary": [
-          "Former USAID workers launched a rescue project after losing their jobs.",
-          "The group secured new funding for almost 80 programs.",
-          "The programs benefit an estimated 40 million people.",
-          "They call themselves the \"lifeboat crew\".",
-          "The Trump administration slashed US overseas aid."
+          "Former USAID staff created a rescue project after losing jobs due to cuts.",
+          "The group secured new funding for almost 80 programs after the cuts.",
+          "The programs are estimated to benefit approximately 40 million people.",
+          "The group calls themselves the \"lifeboat crew\" after the job losses.",
+          "Rob Rosenbaum, a former USAID economist, led the effort to save programs."
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 03 Oct 2025 09:32:09 GMT",
         "title": "Green leader Zack Polanski backs legalisation of all drugs",
-        "neutral_headline": "Green leader Zack Polanski backs legalisation of all drugs",
+        "neutral_headline": "Green Party Leader Supports Legalization of All Drugs",
         "items": [
           {
             "source": "BBC Health",
@@ -337,19 +364,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff8/live/d714a830-9fa9-11f0-bcf9-91615bda46dc.jpg",
         "ai_summary": [
-          "Zack Polanski speaks to BBC South East.",
-          "Polanski discusses the party's new approach.",
-          "The interview was conducted ahead of the party's conference.",
-          "Polanski is a leader of the Green party.",
-          "The party supports legalizing all drugs."
+          "Zack Polanski, a Green Party leader, supports legalizing all drugs.",
+          "Polanski discussed the party's new approach with BBC South East.",
+          "The interview occurred ahead of the Green Party's conference.",
+          "The party's stance on drug legalization is a key policy change.",
+          "Polanski's statements reflect the party's evolving drug policy."
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 03 Oct 2025 09:04:24 GMT",
         "title": "Vaccine breakthrough for deadly elephant virus",
-        "neutral_headline": "Vaccine breakthrough for deadly elephant virus",
+        "neutral_headline": "Vaccine Shows Effectiveness Against Deadly Elephant Virus",
         "items": [
           {
             "source": "BBC Science",
@@ -358,21 +385,21 @@
             "title": "Vaccine breakthrough for deadly elephant virus",
             "standfirst": "A vaccine against a deadly disease that affects young elephants is shown to be effective in a world-first trial.",
             "content": "A vaccine against a deadly disease that affects young elephants is shown to be effective in a world-first trial.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfef/live/3a627f30-9e19-11f0-928c-71dbb8619e94.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfef/live/3a627f30-9e19-11f0-928c-71dbb8619e94.jpg",
         "ai_summary": [
-          "A vaccine against a deadly elephant disease was shown to be effective.",
-          "The trial was a world-first for this type of vaccine.",
-          "The vaccine targets a deadly disease affecting young elephants.",
-          "The vaccine's effectiveness was proven in a trial.",
-          "The disease is a significant threat to elephant populations."
+          "A vaccine has proven effective against a deadly elephant virus.",
+          "The trial represents a world-first for this type of vaccine.",
+          "The disease primarily affects young elephants.",
+          "The vaccine's success offers hope for elephant conservation.",
+          "The trial's results are a significant breakthrough in animal health."
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 03 Oct 2025 05:00:26 GMT",
         "title": "Frailty in ageing populations worsened by air pollution, global review finds",
@@ -389,19 +416,19 @@
           }
         ],
         "ai_summary": [
-          "Air pollution increases the likelihood of frailty in older adults.",
-          "The review found a link between air pollution and frailty.",
-          "Frailty is linked to heightened vulnerability and loss of independence.",
-          "The condition is reversible, according to the research.",
-          "The research is an international review of studies."
+          "Air pollution increases frailty in middle and old age, according to a review.",
+          "The review examined international studies on the topic.",
+          "Frailty is linked to increased vulnerability and loss of independence.",
+          "The research indicates frailty is a reversible condition.",
+          "People are living longer, presenting both challenges and opportunities."
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 03 Oct 2025 04:00:23 GMT",
         "title": "Experience: I put on the world’s first deaf rave for deaf ravers like me",
-        "neutral_headline": "Deaf Raves: Experience of Organizing One",
+        "neutral_headline": "Experience: I put on the world’s first deaf rave for deaf ravers like me",
         "items": [
           {
             "source": "Guardian Health",
@@ -414,15 +441,15 @@
           }
         ],
         "ai_summary": [
-          "The author organized the world’s first deaf rave.",
-          "The author is deaf and uses hearing aids.",
-          "Finding a venue was a significant challenge.",
-          "The author is a twin, and was born deaf.",
-          "The author is fluent in British Sign Language."
+          "The author, who is deaf, organized a rave for deaf individuals.",
+          "Finding a suitable venue for the rave proved challenging.",
+          "The author uses hearing aids and is fluent in British Sign Language.",
+          "The author's hearing loss occurred at birth due to a medical issue.",
+          "The author is determined to create unique experiences for the deaf community."
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 03 Oct 2025 02:31:57 GMT",
         "title": "Russia targets UK military satellites on weekly basis",
@@ -435,21 +462,21 @@
             "title": "Russia targets UK military satellites on weekly basis",
             "standfirst": "Moscow is attempting to collect information from UK spacecraft, according to the MoD.",
             "content": "Moscow is attempting to collect information from UK spacecraft, according to the MoD.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8e/live/52f0a3b0-9fb3-11f0-8410-854cfa733f11.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8e/live/52f0a3b0-9fb3-11f0-8410-854cfa733f11.jpg",
         "ai_summary": [
-          "Moscow is attempting to collect information from UK spacecraft.",
-          "The MoD reports that Russia targets UK military satellites.",
-          "The targeting occurs on a weekly basis.",
-          "The information is being collected by Russia.",
-          "The UK military satellites are the targets."
+          "Moscow is attempting to gather information from UK spacecraft.",
+          "The UK Ministry of Defence (MoD) reported the activity.",
+          "The targeting of UK military satellites occurs weekly.",
+          "The MoD has not released specific details about the attempts.",
+          "The activity is a concern for UK national security."
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 03 Oct 2025 02:08:52 GMT",
         "title": "Top NHS boss backed surgeon whose failures contributed to deaths",
@@ -468,19 +495,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04a1/live/6b953710-a034-11f0-b741-177e3e2c2fc7.jpg",
         "ai_summary": [
-          "Seven people died due to failures by Karen Booth.",
-          "Karen Booth continues to work for the NHS.",
-          "The top NHS boss supported the surgeon.",
-          "The failures occurred during Booth's work.",
-          "The NHS boss backed the surgeon despite the deaths."
+          "Seven people died due to failures by surgeon Karen Booth.",
+          "The NHS boss supported the surgeon despite the failures.",
+          "Karen Booth continues to work for the National Health Service.",
+          "The failures occurred during surgical procedures.",
+          "The NHS boss's support has raised concerns."
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 03 Oct 2025 00:30:35 GMT",
         "title": "Is it a cold, flu or Covid – and how to avoid the worst",
-        "neutral_headline": "Identifying and Managing Cold, Flu, and COVID-19 Symptoms",
+        "neutral_headline": "Is it a cold, flu or Covid – and how to avoid the worst",
         "items": [
           {
             "source": "BBC Health",
@@ -495,15 +522,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b790/live/bdd6f580-a04e-11f0-92db-77261a15b9d2.jpg",
         "ai_summary": [
-          "Dr. Oscar Duke offers advice on distinguishing between cold, flu, and COVID-19 symptoms.",
-          "The article provides guidance on how to care for oneself when experiencing these illnesses.",
-          "The advice is shared on BBC Morning Live, a British television program.",
-          "The information aims to help viewers understand their symptoms and manage them effectively.",
-          "The focus is on practical advice for identifying and dealing with these common illnesses."
+          "Dr. Oscar Duke offers advice on identifying cold, flu, or COVID.",
+          "The advice is shared on BBC Morning Live.",
+          "The advice includes how to care for oneself during illness.",
+          "The advice aims to help people avoid the worst symptoms.",
+          "The advice is based on medical expertise."
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 02 Oct 2025 23:44:59 GMT",
         "title": "Anti-abortion groups furious as FDA approves generic abortion pill",
@@ -520,67 +547,17 @@
           }
         ],
         "ai_summary": [
-          "The FDA approved Evita Solutions' generic version of mifepristone, an abortion pill.",
-          "This approval has drawn criticism from anti-abortion advocacy groups in the United States.",
-          "Mifepristone is one of two drugs commonly used in medication abortions in the US.",
-          "A generic version of mifepristone has been available since the year 2000.",
-          "Abortion rights supporters are celebrating the approval as a win for medicine."
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Thu, 02 Oct 2025 22:30:17 GMT",
-        "title": "‘Planetary health diet’ could save 40,000 deaths a day, landmark report finds",
-        "neutral_headline": "‘Planetary health diet’ could save 40,000 deaths a day, landmark report finds",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/environment/2025/oct/02/planetary-health-diet-could-save-40000-deaths-a-day-landmark-report-finds",
-            "published_at": "Thu, 02 Oct 2025 22:30:17 GMT",
-            "title": "‘Planetary health diet’ could save 40,000 deaths a day, landmark report finds",
-            "standfirst": "Diet allows modest meat consumption and would also slash food-related climate emissions by half, says report by 70 leading experts from 35 countriesAdoption of a plant-rich “planetary health diet” could prevent 40,000 early deaths a day across the world, according to a landmark report.The diet – which allows moderate meat consumption – and related measures would also slash the food-related emissions driving global heating by half by 2050. Today, a third of greenhouse gas emissions come from the global food system and taming the climate crisis is impossible without changing how the world eats, the researchers said. Food production is also the biggest cause of the destruction of wildlife and forests and the pollution of water. Continue reading...",
-            "content": "Diet allows modest meat consumption and would also slash food-related climate emissions by half, says report by 70 leading experts from 35 countriesAdoption of a plant-rich “planetary health diet” could prevent 40,000 early deaths a day across the world, according to a landmark report.The diet – which allows moderate meat consumption – and related measures would also slash the food-related emissions driving global heating by half by 2050. Today, a third of greenhouse gas emissions come from the global food system and taming the climate crisis is impossible without changing how the world eats, the researchers said. Food production is also the biggest cause of the destruction of wildlife and forests and the pollution of water. Continue reading...",
-            "feed_position": 12
-          }
-        ],
-        "ai_summary": [
-          "A \"planetary health diet\" could prevent 40,000 early deaths daily worldwide.",
-          "The diet, rich in plants, allows for moderate meat consumption, according to the report.",
-          "The report suggests the diet would halve food-related climate emissions by 2050.",
-          "The report was compiled by 70 experts from 35 countries around the globe.",
-          "Food production is a major contributor to deforestation, wildlife loss, and water pollution."
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Thu, 02 Oct 2025 22:30:17 GMT",
-        "title": "Call to allow ‘safe and effective’ at-home abortions up to 12 weeks in UK",
-        "neutral_headline": "Call to allow ‘safe and effective’ at-home abortions up to 12 weeks in UK",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/world/2025/oct/02/call-allow-safe-effective-home-abortions-12-weeks-uk",
-            "published_at": "Thu, 02 Oct 2025 22:30:17 GMT",
-            "title": "Call to allow ‘safe and effective’ at-home abortions up to 12 weeks in UK",
-            "standfirst": "Experts point to study showing procedures at home are no riskier or less successful than hospital careAt-home abortions should be allowed for up to 12 weeks of pregnancy across the UK, according to academics, after a study found they were just as safe and effective as hospital care.A medical abortion involves taking two medications, mifepristone and misoprostol, to end a pregnancy. In 2022, at-home medical abortions were made permanent in England and Wales, after temporary legislation allowed them to take place at home during the pandemic. In Northern Ireland, at-home abortion care is not permitted at any gestation. Continue reading...",
-            "content": "Experts point to study showing procedures at home are no riskier or less successful than hospital careAt-home abortions should be allowed for up to 12 weeks of pregnancy across the UK, according to academics, after a study found they were just as safe and effective as hospital care.A medical abortion involves taking two medications, mifepristone and misoprostol, to end a pregnancy. In 2022, at-home medical abortions were made permanent in England and Wales, after temporary legislation allowed them to take place at home during the pandemic. In Northern Ireland, at-home abortion care is not permitted at any gestation. Continue reading...",
-            "feed_position": 13
-          }
-        ],
-        "ai_summary": [
-          "Academics are calling for at-home abortions up to 12 weeks of pregnancy in the UK.",
-          "A study found at-home procedures are as safe and effective as hospital care.",
-          "Medical abortions involve taking mifepristone and misoprostol to end a pregnancy.",
-          "At-home medical abortions became permanent in England and Wales in 2022.",
-          "At-home abortion care is not permitted at any gestation in Northern Ireland."
+          "The FDA approved a generic version of the abortion pill mifepristone.",
+          "Anti-abortion groups expressed strong opposition to the approval.",
+          "Abortion rights supporters welcomed the approval as a win.",
+          "Evita Solutions will manufacture the generic mifepristone.",
+          "Mifepristone is one of two drugs used in medication abortions."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-10-04T19:13:00.388Z",
+    "updated_at": "2025-10-04T23:16:30.173Z",
     "clusters": []
   }
 }
