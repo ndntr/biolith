@@ -1,8 +1,8 @@
 {
-  "updated_at": "2025-10-04T03:24:25.455Z",
+  "updated_at": "2025-10-04T07:15:58.810Z",
   "clusters": [
     {
-      "id": "cluster_7",
+      "id": "cluster_14",
       "coverage": 2,
       "updated_at": "Fri, 03 Oct 2025 18:30:01 -0400",
       "title": "Sources: former Databricks VP of AI Naveen Rao is in talks to raise $1B led by a16z at a $5B valuation for his new AI hardware startup Unconventional (Marina Temkin/TechCrunch)",
@@ -15,7 +15,7 @@
           "title": "Sources: former Databricks VP of AI Naveen Rao is in talks to raise $1B led by a16z at a $5B valuation for his new AI hardware startup Unconventional (Marina Temkin/TechCrunch)",
           "standfirst": "Marina Temkin / TechCrunch: Sources: former Databricks VP of AI Naveen Rao is in talks to raise $1B led by a16z at a $5B valuation for his new AI hardware startup Unconventional &mdash; Naveen Rao, who was formerly the head of artificial intelligence at Databricks, is in talks to raise a $1 billion at a $5 billion valuation &hellip;",
           "content": "Marina Temkin / TechCrunch: Sources: former Databricks VP of AI Naveen Rao is in talks to raise $1B led by a16z at a $5B valuation for his new AI hardware startup Unconventional &mdash; Naveen Rao, who was formerly the head of artificial intelligence at Databricks, is in talks to raise a $1 billion at a $5 billion valuation &hellip;",
-          "feed_position": 4,
+          "feed_position": 11,
           "image_url": "http://www.techmeme.com/251003/i26.jpg"
         },
         {
@@ -25,25 +25,25 @@
           "title": "Sources: Naveen Rao’s new AI hardware startup targets $5B valuation with backing from a16z",
           "standfirst": "Former Databricks AI chief is raising $1 billion to build an Nvidia rival through a novel approach.",
           "content": "Former Databricks AI chief is raising $1 billion to build an Nvidia rival through a novel approach.",
-          "feed_position": 1
+          "feed_position": 2
         }
       ],
       "featured_image": "http://www.techmeme.com/251003/i26.jpg",
-      "popularity_score": 2015.0932069444445,
+      "popularity_score": 2011.2339416666666,
       "ai_summary": [
-        "Naveen Rao, former Databricks AI VP, plans to raise $1 billion.",
-        "The funding round is led by venture capital firm a16z.",
-        "The new AI hardware startup, Unconventional, is the focus.",
-        "The startup is seeking a valuation of $5 billion.",
+        "Naveen Rao, former Databricks AI head, seeks $1 billion in funding.",
+        "The funding round is led by a16z, a venture capital firm.",
+        "The new AI hardware startup is named Unconventional.",
+        "The startup's valuation is estimated at $5 billion.",
         "The information comes from sources cited by TechCrunch."
       ]
     },
     {
-      "id": "cluster_11",
+      "id": "cluster_18",
       "coverage": 2,
       "updated_at": "Fri, 03 Oct 2025 21:37:00 GMT",
       "title": "Huawei's new open source technique shrinks LLMs to make them run on less powerful, less expensive hardware",
-      "neutral_headline": "Huawei's new technique shrinks LLMs for less powerful hardware",
+      "neutral_headline": "Huawei Develops Technique to Shrink LLMs",
       "items": [
         {
           "source": "VentureBeat",
@@ -405,81 +405,24 @@
           "content": "Salesforce Inc. is expanding its artificial intelligence platform with new data management and governance capabilities, aiming to address what the company says is a crisis in enterprise AI adoption where more than 80% of projects fail to deliver meaningful business value.The San Francisco-based software giant announced Thursday a suite of new tools designed to create what it calls a \"trusted AI foundation\" for enterprises struggling with fragmented data, weak governance, and security concerns that have hampered AI deployments across corporate America.\"We&#x27;re seeing a lot of these AI projects really failing, and a lot of it&#x27;s because customers still have fragmented data, they still have weak governance, they still have poor security,\" said Desiree Motamedi, Salesforce&#x27;s senior vice president and chief marketing officer, in an exclusive interview with VentureBeat. \"They really want a way that they can bring AI at scale that has the accuracy, the context and the control.\"The timing of Salesforce&#x27;s announcement comes as the company prepares for its annual Dreamforce conference next week, where CEO Marc Benioff is expected to showcase the company&#x27;s vision for what he calls the \"agentic enterprise\" — workplaces where AI agents work alongside humans across every business function.Why most corporate AI initiatives crash and burn before reaching productionThe scale of AI project failures has become a significant concern for enterprise technology leaders. According to a RAND Corporation study, poor data quality, inadequate governance frameworks, and fragmented system integration are the primary culprits behind the high failure rate of corporate AI initiatives.This challenge has created both pressure and opportunity for enterprise software providers. While companies face mounting pressure to deploy AI capabilities, many are discovering that their existing data infrastructure isn&#x27;t equipped to support reliable AI applications at scale.Salesforce&#x27;s response centers on what Motamedi describes as three core capabilities: ensuring AI outputs are grounded in unified business data, embedding security and compliance controls into every workflow, and connecting AI agents across different platforms and data sources.\"The Salesforce platform is a $7 billion business,\" Motamedi noted, highlighting the significant revenue opportunity the company sees in addressing enterprise AI infrastructure needs. \"This is a significant opportunity where we&#x27;re seeing meaningful differentiation from other vendors in the market.\"Inside Salesforce&#x27;s new AI tools designed to fix enterprise data chaosThe company&#x27;s latest announcements include several technically sophisticated solutions aimed at different aspects of the enterprise AI challenge:Data Cloud Context Indexing represents Salesforce&#x27;s approach to handling unstructured content like contracts, technical diagrams, and decision trees. The system uses what the company calls a \"business-aware lens\" to help AI agents interpret complex documents within their proper business context.\"A good example is a field engineer who uploads a schematic for guided troubleshooting,\" Motamedi explained. \"Now they have that capability at their disposal, because it&#x27;s right there in that view.\"Data Cloud Clean Rooms, now generally available, allows organizations to securely share and analyze data with partners without exposing sensitive information. Using Salesforce&#x27;s \"zero copy\" technology, companies can collaborate on data analysis without actually moving or duplicating datasets.The clean room technology extends beyond traditional advertising applications to sectors like banking, where institutions could \"detect fraud, and they want to be able to do it with some of their partners. They could now do it in hours versus weeks,\" according to Motamedi.Tableau Semantics addresses one of the most persistent challenges in enterprise data management: ensuring consistent definitions of business metrics across different systems and teams. The AI-powered semantic layer translates raw data into standardized business language.\"We use terms like ACV or churn that have specific definitions within our organization,\" Motamedi said. \"Making sure AI understands those definitions, and then having a standardized layer across organizations, really makes this seamless for enterprises.\"MuleSoft Agent Fabric tackles what Salesforce calls \"agent sprawl\" — the proliferation of AI agents across different platforms and vendors within large organizations. The system provides centralized registration, orchestration, and governance for AI agents regardless of where they were built.How Salesforce plans to battle Microsoft, Google and Amazon for AI dominanceSalesforce&#x27;s comprehensive approach to AI infrastructure positions the company in direct competition with Microsoft, Google, Amazon, and ServiceNow, all of which are vying to become the dominant platform for enterprise AI deployment.The company&#x27;s strategy relies heavily on integration advantages that come from building AI capabilities into an existing platform used by thousands of enterprises. \"The power of the platform\" lies in the fact that \"all of this is natively into the platform. So these capabilities are just there, and they work and they work seamlessly together,\" Motamedi emphasized.This integrated approach contrasts with point solutions that require custom integration work. \"Some of these point solutions, if you want these things to work together, you got to build those integrations. You got to have developer teams to make that happen,\" she noted.The company&#x27;s pending $8 billion acquisition of data management company Informatica, expected to close soon, will significantly expand Salesforce&#x27;s capabilities in enterprise metadata management — a critical component for AI accuracy.\"For the last 26 years, Salesforce has been rooted in our platform approach — we&#x27;ve built the metadata layer from day one,\" Motamedi said. \"But with Informatica, we&#x27;re going to see metadata across the entire enterprise, and that gives us another layer of accuracy for AI responses.\"Early enterprise customers reveal the reality of scaling AI in large organizationsDespite the technical capabilities, Salesforce acknowledges that enterprise AI adoption remains in early stages. The company reports having \"over 12,000 live deployments of Agentforce\" — its AI agent platform — but Motamedi describes a wide range of organizational readiness.\"Every company has a mandate right now to figure out how they can incorporate AI,\" she said. \"We see very interesting ranges from people who are just getting started to people who are like, we&#x27;re going to build like 80 different agents within their organization.\"Early customer implementations include AAA Washington, which is using Salesforce&#x27;s unified data foundation to improve member experiences across roadside assistance, insurance, and travel services. UChicago Medicine is leveraging the platform to ensure reliable patient interactions while enabling healthcare staff to focus on complex, human-centered care.The maturity curve for enterprise AI adoption means \"it&#x27;s going to take a couple years to see it fully, fully embraced, but we already see the path,\" according to Motamedi.What Salesforce&#x27;s AI governance push means for the future of enterprise softwareThe broader implications of Salesforce&#x27;s strategy extend beyond technical capabilities to fundamental questions about how enterprises will manage AI risk and governance. The company&#x27;s emphasis on built-in security and compliance reflects growing corporate awareness that AI deployment without proper controls can create significant business liability.Recent incidents involving AI agents accessing sensitive information or providing unreliable outputs have made corporate leaders more cautious about scaling AI initiatives. Salesforce&#x27;s approach of embedding security directly into AI workflows — including automated threat detection partnerships with CrowdStrike and Okta, and built-in HIPAA compliance for healthcare applications — represents an attempt to address these concerns while accelerating adoption.However, market skepticism remains. CNBC&#x27;s Jim Cramer recently noted concerns about Salesforce&#x27;s performance despite strong quarterly reports, suggesting that investor expectations for AI-driven growth may be outpacing actual business results.The company&#x27;s success will ultimately depend on whether it can help enterprises bridge the gap between AI experimentation and production-scale deployment. As Motamedi framed it: \"We really believe that we have a trust layer for enterprise AI with all of these new announcements, and we&#x27;re really helping companies move from cautious pilots to transformative action.\"Whether that vision becomes reality will depend on Salesforce&#x27;s ability to prove that integrated platforms can solve enterprise AI&#x27;s trust problem better than the patchwork of point solutions most companies rely on today. In an industry where 80% of projects fail, the company that finally cracks the code on reliable, scalable enterprise AI could reshape how business gets done — or discover that the technical challenges run deeper than any single platform can solve.",
           "feed_position": 4,
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/48XIfBjEA8DoLNpIystf9B/bd01a15251d9d54f64a7ae8d5d23d1ba/nuneybits_Vector_art_of_layered_data_cloud_12e322ec-5b63-4bec-a9ce-7a255cb1694e.webp"
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer",
-          "published_at": "Thu, 02 Oct 2025 04:00:00 GMT",
-          "title": "'Western Qwen': IBM wows with Granite 4 LLM launch and hybrid Mamba/Transformer architecture",
-          "standfirst": "IBM today announced the release of Granite 4.0, the newest generation of its homemade family of open source large language models (LLMs) designed to balance high performance with lower memory and cost requirements. Despite being one of the oldest active tech companies in the U.S. (founded in 1911, 114 years ago!), \"Big Blue\" as its often nicknamed has already wowed many AI industry workers and followers with this new Granite 4.0 family of LLMs, as they offer high performance on third-party benchmarks; a permissive, business friendly license (Apache 2.0) that allows developers and enterprises to freely take, modify and deploy the models for their own commercial purposes; and, perhaps most importantly, have symbolically put the U.S. back into a competitive place with the growing raft of high-performing new generation open source Chinese LLMs, especially from Alibaba&#x27;s prolific Qwen team — alongside OpenAI with its gpt-oss model family released earlier this summer.Meta, the parent company of Facebook and Instagram, was once seen as the world and U.S. leader of open source LLMs with its Llama models, but after the disappointing release of the Llama 4 family in April and lack of its planned, most powerful Llama 4 Behemoth, it has since pursued a different strategy and is now partnering with outside labs like Midjourney on AI products, while it continues to build out an expensive, in-house AI \"Superintelligence\" team, as well. Little wonder AI engineer Alexander Doria (aka Pierre-Carl Langlais) observed, with a hilarious Lethal Weapon meme, that \"ibm suiting up again after llama 4 fumbled,\" and \"we finally have western qwen.\"Hybrid (Transformer/Mamba) theoryAt the heart of IBM&#x27;s Granite 4.0 release is a new hybrid design that combines two very different architectures, or underlying organizational structures, for the LLMs in question: transformers and Mamba.Transformers, introduced in 2017 by Vaswani and colleagues in the famous Google paper “Attention Is All You Need,” power most large language models in use today.In this design, every token — essentially a small chunk of text, like a word or part of a word — can compare itself to every other token in the input. This “all-to-all” comparison is what gives transformers their strong ability to capture context and meaning across a passage. The trade-off is efficiency: because the model must calculate relationships between every possible pair of tokens in the context window, computation and memory demands grow rapidly as the input gets longer. This quadratic scaling makes transformers costly to run on very long documents or at high volume.Mamba, by contrast, is a newer architecture developed in late 2023 by researchers Albert Gu and Tri Dao at Carnegie Mellon University and Princeton University. Instead of comparing every token against all the others at once, it processes tokens one at a time, updating its internal state as it moves through the sequence. This design scales only linearly with input length, making it far more efficient at handling long documents or multiple requests at once. The trade-off is that transformers still tend to perform better in certain kinds of reasoning and “few-shot” learning, where it helps to hold many detailed token-to-token comparisons in memory.This enables much greater efficiency, especially for long documents or multi-session inference, though transformers retain advantages for some reasoning and few-shot learning tasks. But whether the model is built on transformers, Mamba, or a hybrid of the two, the way it generates new words works the same way. At each step, the model doesn’t just pick from what’s already in the context window. Instead, it uses its internal weights — built from training on trillions of text samples — to predict the most likely next token from its entire vocabulary. That’s why, when prompted with “The capital of France is…,” the model can output “Paris” even if “Paris” isn’t in the input text. It has learned from countless training examples that “Paris” is a highly probable continuation in that context. In other words, the context window guides the prediction, but the embedding space — the model’s learned representation of all tokens it knows — supplies the actual words it can generate.By combining Mamba-2 layers with transformer blocks, Granite 4.0 seeks to offer the best of both worlds: the efficiency of Mamba and the contextual precision of transformers.This is the first official Granite release to adopt the hybrid approach. IBM previewed it earlier in 2025 with the Granite-4.0-Tiny-Preview, but Granite 4.0 marks the company’s first full family of models built on the Mamba-transformer combination.Granite 4.0 is being positioned as an enterprise-ready alternative to conventional transformer-based models, with particular emphasis on agentic AI tasks such as instruction following, function calling, and retrieval-augmented generation (RAG). The models are open sourced under the Apache 2.0 license, cryptographically signed for authenticity, and stand out as the first open language model family certified under ISO 42001, an international standard for AI governance and transparency.Reducing memory needs, expanding accessibilityOne of Granite 4.0’s defining features is its ability to significantly reduce GPU memory consumption compared to traditional large language models. IBM reports that the hybrid Mamba-transformer design can cut RAM requirements by more than 70% (!!!) in production environments, especially for workloads involving long contexts and multiple concurrent sessions.Benchmarks released alongside the launch illustrate these improvements. Granite-4.0-H-Small, a 32B-parameter mixture-of-experts model with 9B active parameters, maintains strong throughput on a single NVIDIA H100 GPU, continuing to accelerate even under workloads that typically strain transformer-only systems. This efficiency translates directly into lower hardware costs for enterprises running intensive inference tasks.For smaller-scale or edge deployments, Granite 4.0 offers two lighter options: Granite-4.0-H-Tiny, a 7B-parameter hybrid with 1B active parameters, and Granite-4.0-H-Micro, a 3B dense hybrid. IBM is also releasing Granite-4.0-Micro, a 3B transformer-only model intended for platforms not yet optimized for Mamba-based architectures.Performance benchmarksPerformance metrics suggest that the new models not only reduce costs but also compete with larger systems on enterprise-critical tasks. According to Stanford HELM’s IFEval benchmark, which measures how well LLMs follow instructions from users, Granite-4.0-H-Small surpasses nearly all open weight models in instruction-following accuracy, ranking just behind Meta’s much larger Llama 4 Maverick.The models also show strong results on the Berkeley Function Calling Leaderboard v3, where Granite-4.0-H-Small achieves a favorable trade-off between accuracy and hosted API pricing. On retrieval-augmented generation tasks, Granite 4.0 models post some of the highest mean accuracy scores among open competitors.Notably, IBM highlights that even Granite 4.0’s smallest models outperform Granite 3.3 8B, despite being less than half its size, underscoring the gains achieved through both architectural changes and refined training methods.Trust, safety, and securityAlongside technical efficiency, IBM is emphasizing governance and trust. Granite is the first open model family to achieve ISO/IEC 42001:2023 certification, demonstrating compliance with international standards for AI accountability, data privacy, and explainability.The company has also partnered with HackerOne to run a bug bounty program for Granite, offering up to $100,000 for vulnerabilities that could expose security flaws or adversarial risks. Additionally, every Granite 4.0 model checkpoint is cryptographically signed, enabling developers to verify provenance and integrity before deployment.IBM provides indemnification for customers using Granite on its watsonx.ai platform, covering third-party intellectual property claims against AI-generated content.Training and roadmapGranite 4.0 models were trained on a 22-trillion-token corpus sourced from enterprise-relevant datasets including DataComp-LM, Wikipedia, and curated subsets designed to support language, code, math, multilingual tasks, and cybersecurity. Post-training is split between instruction-tuned models, released today, and reasoning-focused “Thinking” variants, which are expected later this fall.IBM plans to expand the family by the end of 2025 with additional models, including Granite 4.0 Medium for heavier enterprise workloads and Granite 4.0 Nano for edge deployments.Broad availability across platformsGranite 4.0 models are available immediately on Hugging Face, IBM watsonx.ai, with distribution also through partners such as Dell Technologies, Docker Hub, Kaggle, LM Studio, NVIDIA NIM, Ollama, OPAQUE, and Replicate. Support through Amazon SageMaker JumpStart and Microsoft Azure AI Foundry is expected soon.The hybrid architecture is supported in major inference frameworks, including vLLM 0.10.2 and Hugging Face Transformers. Compatibility has also been extended to llama.cpp and MLX, although optimization work is ongoing. The models are also usable in Unsloth for fine-tuning and in Continue for custom AI coding assistants.Enterprise focusEarly access testing by enterprise partners, including EY and Lockheed Martin, has guided the launch. IBM highlights that the models are tailored for real-world enterprise needs, such as supporting multi-agent workflows, customer support automation, and large-scale retrieval systems.Granite 4.0 models are available in both Base and Instruct forms, with Instruct variants optimized for enterprise instruction-following tasks. The upcoming “Thinking” series will target advanced reasoning.Alternate hybrid Mamba / Transformer modelsBesides IBM, several major efforts are already charting different designs for mixing Transformers with Mamba architecture:ModelHybrid strategy / architectureHighlightsAI21 JambaInterleaves Transformer blocks and Mamba layers, with Mixture-of-Experts (MoE) in some layersSupports context lengths up to 256K tokens and offers higher throughput and lower memory usage than pure Transformers while maintaining competitive benchmarksNvidia Nemotron-HReplaces most attention layers with Mamba-2 blocks, retaining a few attention layers where neededDemonstrates up to 3× faster inference throughput compared to pure-Transformer peers while keeping benchmark accuracy comparableNemotron-Nano-2A reasoning-optimized hybrid built on Nemotron’s designReports up to 6× throughput improvement on reasoning tasks while matching or surpassing accuracyDomain-specific variantsHybridized architectures in multimodal models, such as swapping in Mamba layers for decoder componentsShows that the hybrid approach extends beyond text into vision-language applicationsThe Qwen family from Alibaba remains a dense, decoder-only Transformer architecture, with no Mamba or SSM layers in its mainline models. However, experimental offshoots like Vamba-Qwen2-VL-7B show that hybrids derived from Qwen are possible, especially in vision-language settings. For now, though, Qwen itself is not part of the hybrid wave.What Granite 4.0 means for enterprises and what&#x27;s nextGranite 4.0 reflects IBM’s strategy of combining open access with enterprise-grade safety, scalability, and efficiency. By focusing on lowering inference costs and reinforcing trust with governance standards, IBM positions the Granite family as a practical foundation for enterprises building AI applications at scale.For the U.S., the release carries symbolic weight: with Meta stepping back from leading the open-weight frontier after the uneven reception of Llama 4, and with Alibaba’s Qwen family rapidly advancing in China, IBM’s move positions American enterprise once again as a competitive force in globally available models. By making Granite 4.0 Apache-licensed, cryptographically signed, and ISO 42001-certified, IBM is signaling both openness and responsibility at a moment when trust, efficiency, and affordability are top of mind. This is especially enticing to U.S. and Western-based organizations who may be interested in open source models, but wary of those originating from China — rightly or not — over possible political ramifications and U.S. government contracts.For practitioners inside organizations, this positioning is not abstract. Lead AI engineers tasked with managing the full lifecycle of LLMs will see Granite 4.0’s smaller memory footprint as a way to deploy faster and scale with leaner teams. Senior AI engineers in orchestration roles, who must balance budget limits with the need for efficiency, can take advantage of Granite’s compatibility with mainstream platforms like SageMaker and Hugging Face to streamline pipelines without locking into proprietary ecosystems. Senior data engineers, responsible for integrating AI with complex data systems, will note the hybrid models’ efficiency on long-context inputs, enabling retrieval-augmented generation on large datasets at lower cost. And for IT security directors charged with managing day-to-day defense, IBM’s bug bounty program, cryptographic signing, and ISO accreditation provide clear governance signals that align with enterprise compliance needs.By targeting these distinct roles with a model family that is efficient, open, and hardened for enterprise use, IBM is not only courting adoption but also shaping a uniquely American answer to the open-source challenge posed by Qwen and other Chinese entrants. In doing so, Granite 4.0 places IBM at the center of a new phase in the global LLM race — one defined not just by size and speed, but by trust, cost efficiency, and readiness for real-world deployment.With additional models scheduled for release before the end of the year and broader availability across major AI development platforms, Granite 4.0 is set to play a central role in IBM’s vision of enterprise-ready, open-source AI.",
-          "content": "IBM today announced the release of Granite 4.0, the newest generation of its homemade family of open source large language models (LLMs) designed to balance high performance with lower memory and cost requirements. Despite being one of the oldest active tech companies in the U.S. (founded in 1911, 114 years ago!), \"Big Blue\" as its often nicknamed has already wowed many AI industry workers and followers with this new Granite 4.0 family of LLMs, as they offer high performance on third-party benchmarks; a permissive, business friendly license (Apache 2.0) that allows developers and enterprises to freely take, modify and deploy the models for their own commercial purposes; and, perhaps most importantly, have symbolically put the U.S. back into a competitive place with the growing raft of high-performing new generation open source Chinese LLMs, especially from Alibaba&#x27;s prolific Qwen team — alongside OpenAI with its gpt-oss model family released earlier this summer.Meta, the parent company of Facebook and Instagram, was once seen as the world and U.S. leader of open source LLMs with its Llama models, but after the disappointing release of the Llama 4 family in April and lack of its planned, most powerful Llama 4 Behemoth, it has since pursued a different strategy and is now partnering with outside labs like Midjourney on AI products, while it continues to build out an expensive, in-house AI \"Superintelligence\" team, as well. Little wonder AI engineer Alexander Doria (aka Pierre-Carl Langlais) observed, with a hilarious Lethal Weapon meme, that \"ibm suiting up again after llama 4 fumbled,\" and \"we finally have western qwen.\"Hybrid (Transformer/Mamba) theoryAt the heart of IBM&#x27;s Granite 4.0 release is a new hybrid design that combines two very different architectures, or underlying organizational structures, for the LLMs in question: transformers and Mamba.Transformers, introduced in 2017 by Vaswani and colleagues in the famous Google paper “Attention Is All You Need,” power most large language models in use today.In this design, every token — essentially a small chunk of text, like a word or part of a word — can compare itself to every other token in the input. This “all-to-all” comparison is what gives transformers their strong ability to capture context and meaning across a passage. The trade-off is efficiency: because the model must calculate relationships between every possible pair of tokens in the context window, computation and memory demands grow rapidly as the input gets longer. This quadratic scaling makes transformers costly to run on very long documents or at high volume.Mamba, by contrast, is a newer architecture developed in late 2023 by researchers Albert Gu and Tri Dao at Carnegie Mellon University and Princeton University. Instead of comparing every token against all the others at once, it processes tokens one at a time, updating its internal state as it moves through the sequence. This design scales only linearly with input length, making it far more efficient at handling long documents or multiple requests at once. The trade-off is that transformers still tend to perform better in certain kinds of reasoning and “few-shot” learning, where it helps to hold many detailed token-to-token comparisons in memory.This enables much greater efficiency, especially for long documents or multi-session inference, though transformers retain advantages for some reasoning and few-shot learning tasks. But whether the model is built on transformers, Mamba, or a hybrid of the two, the way it generates new words works the same way. At each step, the model doesn’t just pick from what’s already in the context window. Instead, it uses its internal weights — built from training on trillions of text samples — to predict the most likely next token from its entire vocabulary. That’s why, when prompted with “The capital of France is…,” the model can output “Paris” even if “Paris” isn’t in the input text. It has learned from countless training examples that “Paris” is a highly probable continuation in that context. In other words, the context window guides the prediction, but the embedding space — the model’s learned representation of all tokens it knows — supplies the actual words it can generate.By combining Mamba-2 layers with transformer blocks, Granite 4.0 seeks to offer the best of both worlds: the efficiency of Mamba and the contextual precision of transformers.This is the first official Granite release to adopt the hybrid approach. IBM previewed it earlier in 2025 with the Granite-4.0-Tiny-Preview, but Granite 4.0 marks the company’s first full family of models built on the Mamba-transformer combination.Granite 4.0 is being positioned as an enterprise-ready alternative to conventional transformer-based models, with particular emphasis on agentic AI tasks such as instruction following, function calling, and retrieval-augmented generation (RAG). The models are open sourced under the Apache 2.0 license, cryptographically signed for authenticity, and stand out as the first open language model family certified under ISO 42001, an international standard for AI governance and transparency.Reducing memory needs, expanding accessibilityOne of Granite 4.0’s defining features is its ability to significantly reduce GPU memory consumption compared to traditional large language models. IBM reports that the hybrid Mamba-transformer design can cut RAM requirements by more than 70% (!!!) in production environments, especially for workloads involving long contexts and multiple concurrent sessions.Benchmarks released alongside the launch illustrate these improvements. Granite-4.0-H-Small, a 32B-parameter mixture-of-experts model with 9B active parameters, maintains strong throughput on a single NVIDIA H100 GPU, continuing to accelerate even under workloads that typically strain transformer-only systems. This efficiency translates directly into lower hardware costs for enterprises running intensive inference tasks.For smaller-scale or edge deployments, Granite 4.0 offers two lighter options: Granite-4.0-H-Tiny, a 7B-parameter hybrid with 1B active parameters, and Granite-4.0-H-Micro, a 3B dense hybrid. IBM is also releasing Granite-4.0-Micro, a 3B transformer-only model intended for platforms not yet optimized for Mamba-based architectures.Performance benchmarksPerformance metrics suggest that the new models not only reduce costs but also compete with larger systems on enterprise-critical tasks. According to Stanford HELM’s IFEval benchmark, which measures how well LLMs follow instructions from users, Granite-4.0-H-Small surpasses nearly all open weight models in instruction-following accuracy, ranking just behind Meta’s much larger Llama 4 Maverick.The models also show strong results on the Berkeley Function Calling Leaderboard v3, where Granite-4.0-H-Small achieves a favorable trade-off between accuracy and hosted API pricing. On retrieval-augmented generation tasks, Granite 4.0 models post some of the highest mean accuracy scores among open competitors.Notably, IBM highlights that even Granite 4.0’s smallest models outperform Granite 3.3 8B, despite being less than half its size, underscoring the gains achieved through both architectural changes and refined training methods.Trust, safety, and securityAlongside technical efficiency, IBM is emphasizing governance and trust. Granite is the first open model family to achieve ISO/IEC 42001:2023 certification, demonstrating compliance with international standards for AI accountability, data privacy, and explainability.The company has also partnered with HackerOne to run a bug bounty program for Granite, offering up to $100,000 for vulnerabilities that could expose security flaws or adversarial risks. Additionally, every Granite 4.0 model checkpoint is cryptographically signed, enabling developers to verify provenance and integrity before deployment.IBM provides indemnification for customers using Granite on its watsonx.ai platform, covering third-party intellectual property claims against AI-generated content.Training and roadmapGranite 4.0 models were trained on a 22-trillion-token corpus sourced from enterprise-relevant datasets including DataComp-LM, Wikipedia, and curated subsets designed to support language, code, math, multilingual tasks, and cybersecurity. Post-training is split between instruction-tuned models, released today, and reasoning-focused “Thinking” variants, which are expected later this fall.IBM plans to expand the family by the end of 2025 with additional models, including Granite 4.0 Medium for heavier enterprise workloads and Granite 4.0 Nano for edge deployments.Broad availability across platformsGranite 4.0 models are available immediately on Hugging Face, IBM watsonx.ai, with distribution also through partners such as Dell Technologies, Docker Hub, Kaggle, LM Studio, NVIDIA NIM, Ollama, OPAQUE, and Replicate. Support through Amazon SageMaker JumpStart and Microsoft Azure AI Foundry is expected soon.The hybrid architecture is supported in major inference frameworks, including vLLM 0.10.2 and Hugging Face Transformers. Compatibility has also been extended to llama.cpp and MLX, although optimization work is ongoing. The models are also usable in Unsloth for fine-tuning and in Continue for custom AI coding assistants.Enterprise focusEarly access testing by enterprise partners, including EY and Lockheed Martin, has guided the launch. IBM highlights that the models are tailored for real-world enterprise needs, such as supporting multi-agent workflows, customer support automation, and large-scale retrieval systems.Granite 4.0 models are available in both Base and Instruct forms, with Instruct variants optimized for enterprise instruction-following tasks. The upcoming “Thinking” series will target advanced reasoning.Alternate hybrid Mamba / Transformer modelsBesides IBM, several major efforts are already charting different designs for mixing Transformers with Mamba architecture:ModelHybrid strategy / architectureHighlightsAI21 JambaInterleaves Transformer blocks and Mamba layers, with Mixture-of-Experts (MoE) in some layersSupports context lengths up to 256K tokens and offers higher throughput and lower memory usage than pure Transformers while maintaining competitive benchmarksNvidia Nemotron-HReplaces most attention layers with Mamba-2 blocks, retaining a few attention layers where neededDemonstrates up to 3× faster inference throughput compared to pure-Transformer peers while keeping benchmark accuracy comparableNemotron-Nano-2A reasoning-optimized hybrid built on Nemotron’s designReports up to 6× throughput improvement on reasoning tasks while matching or surpassing accuracyDomain-specific variantsHybridized architectures in multimodal models, such as swapping in Mamba layers for decoder componentsShows that the hybrid approach extends beyond text into vision-language applicationsThe Qwen family from Alibaba remains a dense, decoder-only Transformer architecture, with no Mamba or SSM layers in its mainline models. However, experimental offshoots like Vamba-Qwen2-VL-7B show that hybrids derived from Qwen are possible, especially in vision-language settings. For now, though, Qwen itself is not part of the hybrid wave.What Granite 4.0 means for enterprises and what&#x27;s nextGranite 4.0 reflects IBM’s strategy of combining open access with enterprise-grade safety, scalability, and efficiency. By focusing on lowering inference costs and reinforcing trust with governance standards, IBM positions the Granite family as a practical foundation for enterprises building AI applications at scale.For the U.S., the release carries symbolic weight: with Meta stepping back from leading the open-weight frontier after the uneven reception of Llama 4, and with Alibaba’s Qwen family rapidly advancing in China, IBM’s move positions American enterprise once again as a competitive force in globally available models. By making Granite 4.0 Apache-licensed, cryptographically signed, and ISO 42001-certified, IBM is signaling both openness and responsibility at a moment when trust, efficiency, and affordability are top of mind. This is especially enticing to U.S. and Western-based organizations who may be interested in open source models, but wary of those originating from China — rightly or not — over possible political ramifications and U.S. government contracts.For practitioners inside organizations, this positioning is not abstract. Lead AI engineers tasked with managing the full lifecycle of LLMs will see Granite 4.0’s smaller memory footprint as a way to deploy faster and scale with leaner teams. Senior AI engineers in orchestration roles, who must balance budget limits with the need for efficiency, can take advantage of Granite’s compatibility with mainstream platforms like SageMaker and Hugging Face to streamline pipelines without locking into proprietary ecosystems. Senior data engineers, responsible for integrating AI with complex data systems, will note the hybrid models’ efficiency on long-context inputs, enabling retrieval-augmented generation on large datasets at lower cost. And for IT security directors charged with managing day-to-day defense, IBM’s bug bounty program, cryptographic signing, and ISO accreditation provide clear governance signals that align with enterprise compliance needs.By targeting these distinct roles with a model family that is efficient, open, and hardened for enterprise use, IBM is not only courting adoption but also shaping a uniquely American answer to the open-source challenge posed by Qwen and other Chinese entrants. In doing so, Granite 4.0 places IBM at the center of a new phase in the global LLM race — one defined not just by size and speed, but by trust, cost efficiency, and readiness for real-world deployment.With additional models scheduled for release before the end of the year and broader availability across major AI development platforms, Granite 4.0 is set to play a central role in IBM’s vision of enterprise-ready, open-source AI.",
-          "feed_position": 5,
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3mUEXkfbZzFQU13ok91Ge1/5d45f30c7caee9db4f3fcf50a0de08ad/cfr0z3n_hyperrealistic_detailed_graphic_novel_epic_cosmic_sci-f_ebca386f-881a-4d02-8447-fb58434a989b.png"
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/ai/hubspots-dharmesh-shah-on-ai-mastery-why-prompts-context-and-experimentation",
-          "published_at": "Thu, 02 Oct 2025 04:00:00 GMT",
-          "title": "HubSpot’s Dharmesh Shah on AI mastery: Why prompts, context, and experimentation matter most",
-          "standfirst": "Presented by HubSpotINBOUND, HubSpot&#x27;s annual conference for marketing and sales professionals, took place in San Francisco this year, with three days of insights and events across marketing, sales, CX, and AI innovation. It was a mix of the new, like the Creators Corner and the Tech Stack Showcase Stage, and the familiar, like HubSpot HQ, the Spotlight Product Demo Stage, HubSpot Academy Labs for hands-on product learning, and attendee favorite, Braindates. The opening HubSpot Spotlight on Wednesday, by HubSpot co-founder and CTO, Dharmesh Shah, dug into the nitty gritty of AI, what transformation really looks like, why generative AI is more than just glorified autocomplete, and why it&#x27;s good a thing that it&#x27;s not going anywhere, anytime soon.\"Is it an exponential opportunity? Or is it an existential threat? I asked AI this question. It thought deeply about it for a while and came up with its answer. Yes.\"\"Not everyone is necessarily sold on the merits of AI. It’s the most consequential, and also the most controversial, technology of our time,\" Shah said. \"Is it an exponential opportunity? Or is it an existential threat? I asked AI this question. It thought deeply about it for a while and came up with its answer. Yes.\"How do you compete with AI?An informal poll of 6K respondents asked the question, \"How do you compete with AI?” Shah said a third of the respondents read that as, how do I compete against it? But, he added, that frames it as a zero-sum game which isn&#x27;t useful to anyone. \"We should think about it as a positive-sum collaboration,\" he explained. \"The goal isn’t to battle the machine. The goal is to build with the machine.\"This is critical because while AI capability is growing on an exponential curve, the learning curve for AI is much more linear, and so is the value seen from embracing the technology that&#x27;s learned everything it knows from Shakespeare&#x27;s full body of work, Reddit threads debating whether a hot dog is a sandwich, and Stephen Hawking&#x27;s academic talks. \"At the end of it all, this machine is capable of predicting, with such accuracy, a really good next word, that what it’s doing is indistinguishable from thinking. That’s why it feels so magical,\" Shah said. \"It’s autocomplete with a PhD in everything. It’s like having 1,000 PhDs in your pocket. Suddenly you can write poetry. You can write prose. You can write computer programs. It’s like Neo in the Matrix, except it’s not &#x27;I know kung fu.&#x27; It’s &#x27;I know everything.&#x27; You have the world’s knowledge sitting there in your pocket.”There are some drawbacks. LLMs are limited to the training data they were given. Sometimes they hallucinate. They&#x27;re frozen in time, and stateless — but they do learn. User interactions go into their long-term memories, including chats, resources they&#x27;re asked to interact with, such as PDFs or images, and tools like the internet, databases, APIs with third-party systems and more. How to better use AI in our daily lives \"My pro tip: every time you sit down at a computer to do something, try it first with AI. See if it can help, don’t overthink it.\"So if AI is the real deal, and the transformation is important, how should you use AI? \"My pro tip: every time you sit down at a computer to do something, try it first with AI. See if it can help, don’t overthink it,\" Shah said. \"You’ll be surprised. When it doesn’t work, don’t think, oh, well, this doesn’t work. Think, this doesn’t work yet. If it’s an important use case for you, leave yourself a calendar reminder to try it again in three months. Remember, AI is on an exponential curve. There’s a chance, three months or six months from now, that same thing that doesn’t work now will work.\"The quality of the results you get is based on the quality of the model you use, the quality of the prompt you write, and the quality of the context you put in the context window, otherwise known as prompt engineering. The quality of the model. There&#x27;s been a Cambrian explosion in the world of large language models, but Shah recommends any of the three top-tier frontier models: OpenAI&#x27;s GPT-5, Claude from Anthropic, or Google Gemini. But don&#x27;t overthink it, he adds. Pick one you like or that your company is using.The quality of the prompt. Humans use considerably less than 10% of AI&#x27;s potential, Shah said. About 95% of the time, users repeat one of the handful of prompts they&#x27;ve found that have worked for the majority of their use cases. Instead, he recommends that 60% of the time, you use the prompts that work, carving out 30% of the time for iteration, or taking the prompts you&#x27;re using right now and seeing if you can improve them for better results, spending 10% of your time on experimentation, or using AI for things that you’ve never tried before, and you&#x27;re not sure will work. Metaprompting can be useful here — actually asking AI to make the prompt betterBeyond prompt engineeringContext engineering is just what it sounds like — adding the right context to a request so AI offers better results. Improving the quality of the context includes things like adding custom instructions, which every major LLM includes. That&#x27;s basically telling the AI what perspective it&#x27;s working from — the personality, how it should behave, how it should answer and so on. Once you provide custom instructions, it will use them for every answer, and your results improve.The other improvement is a recent change — MCP, or model context protocol, a relatively new way to supply tools to the LLM. Any AI application that supports MCP can immediately and directly connect with the thousands of applications that also support MCP, like HubSpot, to bring that context directly into the LLM. Taking action with AI agents \"Last year, at Inbound 24, I predicted that this year would be the year of AI agents. I was wrong,\" Shah said. \"This is not the year of AI agents. This is the decade of AI agents. We are just getting started on this massive transformational wave in AI.\" Last year Shah launched Agent.ai, a place to discover, use, and build your own AI agents. Over 2 million people are now using the platform. Around 26,000 users have already built agents on Agenti.ai, including Shah, who took all of the information from his keynote prep and put it into an AI agent anyone can chat with, at You.ai. The TEAM strategy: triage, experiment, automate, and measure. The next stepsHow do you take your newfound AI enthusiasm and bring it to your team? Shah offered a gameplan, the TEAM strategy: triage, experiment, automate, and measure. \"The goal behind that strategy is to go from AI being led by individual heroics, where you have the super ambitious, super creative person, but translate those individual heroics into team habits,\" he explained. \"Take those things and apply TEAM to go through that process again and again. We are big believers that tomorrow’s teams will be hybrid. This is a time to get started. Even in a small way, start building out your hybrid team.\"But the most important thing to remember is that as smart as AI is, humans win on EQ, or emotional quotient. Marrying lived experience with an AI tool will improve your life, and improve your experiences, he added. \"But my challenge to you is, don’t stop there,\" he said. \"The future does not belong to artificial intelligence. It belongs to you, with augmented intelligence. AI isn’t here to replace us. It’s here to replace the parts of our work that don’t bring us joy. To handle the repetitive so we can focus on the remarkable. The better AI gets, the more it allows us to be human.\"Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
-          "content": "Presented by HubSpotINBOUND, HubSpot&#x27;s annual conference for marketing and sales professionals, took place in San Francisco this year, with three days of insights and events across marketing, sales, CX, and AI innovation. It was a mix of the new, like the Creators Corner and the Tech Stack Showcase Stage, and the familiar, like HubSpot HQ, the Spotlight Product Demo Stage, HubSpot Academy Labs for hands-on product learning, and attendee favorite, Braindates. The opening HubSpot Spotlight on Wednesday, by HubSpot co-founder and CTO, Dharmesh Shah, dug into the nitty gritty of AI, what transformation really looks like, why generative AI is more than just glorified autocomplete, and why it&#x27;s good a thing that it&#x27;s not going anywhere, anytime soon.\"Is it an exponential opportunity? Or is it an existential threat? I asked AI this question. It thought deeply about it for a while and came up with its answer. Yes.\"\"Not everyone is necessarily sold on the merits of AI. It’s the most consequential, and also the most controversial, technology of our time,\" Shah said. \"Is it an exponential opportunity? Or is it an existential threat? I asked AI this question. It thought deeply about it for a while and came up with its answer. Yes.\"How do you compete with AI?An informal poll of 6K respondents asked the question, \"How do you compete with AI?” Shah said a third of the respondents read that as, how do I compete against it? But, he added, that frames it as a zero-sum game which isn&#x27;t useful to anyone. \"We should think about it as a positive-sum collaboration,\" he explained. \"The goal isn’t to battle the machine. The goal is to build with the machine.\"This is critical because while AI capability is growing on an exponential curve, the learning curve for AI is much more linear, and so is the value seen from embracing the technology that&#x27;s learned everything it knows from Shakespeare&#x27;s full body of work, Reddit threads debating whether a hot dog is a sandwich, and Stephen Hawking&#x27;s academic talks. \"At the end of it all, this machine is capable of predicting, with such accuracy, a really good next word, that what it’s doing is indistinguishable from thinking. That’s why it feels so magical,\" Shah said. \"It’s autocomplete with a PhD in everything. It’s like having 1,000 PhDs in your pocket. Suddenly you can write poetry. You can write prose. You can write computer programs. It’s like Neo in the Matrix, except it’s not &#x27;I know kung fu.&#x27; It’s &#x27;I know everything.&#x27; You have the world’s knowledge sitting there in your pocket.”There are some drawbacks. LLMs are limited to the training data they were given. Sometimes they hallucinate. They&#x27;re frozen in time, and stateless — but they do learn. User interactions go into their long-term memories, including chats, resources they&#x27;re asked to interact with, such as PDFs or images, and tools like the internet, databases, APIs with third-party systems and more. How to better use AI in our daily lives \"My pro tip: every time you sit down at a computer to do something, try it first with AI. See if it can help, don’t overthink it.\"So if AI is the real deal, and the transformation is important, how should you use AI? \"My pro tip: every time you sit down at a computer to do something, try it first with AI. See if it can help, don’t overthink it,\" Shah said. \"You’ll be surprised. When it doesn’t work, don’t think, oh, well, this doesn’t work. Think, this doesn’t work yet. If it’s an important use case for you, leave yourself a calendar reminder to try it again in three months. Remember, AI is on an exponential curve. There’s a chance, three months or six months from now, that same thing that doesn’t work now will work.\"The quality of the results you get is based on the quality of the model you use, the quality of the prompt you write, and the quality of the context you put in the context window, otherwise known as prompt engineering. The quality of the model. There&#x27;s been a Cambrian explosion in the world of large language models, but Shah recommends any of the three top-tier frontier models: OpenAI&#x27;s GPT-5, Claude from Anthropic, or Google Gemini. But don&#x27;t overthink it, he adds. Pick one you like or that your company is using.The quality of the prompt. Humans use considerably less than 10% of AI&#x27;s potential, Shah said. About 95% of the time, users repeat one of the handful of prompts they&#x27;ve found that have worked for the majority of their use cases. Instead, he recommends that 60% of the time, you use the prompts that work, carving out 30% of the time for iteration, or taking the prompts you&#x27;re using right now and seeing if you can improve them for better results, spending 10% of your time on experimentation, or using AI for things that you’ve never tried before, and you&#x27;re not sure will work. Metaprompting can be useful here — actually asking AI to make the prompt betterBeyond prompt engineeringContext engineering is just what it sounds like — adding the right context to a request so AI offers better results. Improving the quality of the context includes things like adding custom instructions, which every major LLM includes. That&#x27;s basically telling the AI what perspective it&#x27;s working from — the personality, how it should behave, how it should answer and so on. Once you provide custom instructions, it will use them for every answer, and your results improve.The other improvement is a recent change — MCP, or model context protocol, a relatively new way to supply tools to the LLM. Any AI application that supports MCP can immediately and directly connect with the thousands of applications that also support MCP, like HubSpot, to bring that context directly into the LLM. Taking action with AI agents \"Last year, at Inbound 24, I predicted that this year would be the year of AI agents. I was wrong,\" Shah said. \"This is not the year of AI agents. This is the decade of AI agents. We are just getting started on this massive transformational wave in AI.\" Last year Shah launched Agent.ai, a place to discover, use, and build your own AI agents. Over 2 million people are now using the platform. Around 26,000 users have already built agents on Agenti.ai, including Shah, who took all of the information from his keynote prep and put it into an AI agent anyone can chat with, at You.ai. The TEAM strategy: triage, experiment, automate, and measure. The next stepsHow do you take your newfound AI enthusiasm and bring it to your team? Shah offered a gameplan, the TEAM strategy: triage, experiment, automate, and measure. \"The goal behind that strategy is to go from AI being led by individual heroics, where you have the super ambitious, super creative person, but translate those individual heroics into team habits,\" he explained. \"Take those things and apply TEAM to go through that process again and again. We are big believers that tomorrow’s teams will be hybrid. This is a time to get started. Even in a small way, start building out your hybrid team.\"But the most important thing to remember is that as smart as AI is, humans win on EQ, or emotional quotient. Marrying lived experience with an AI tool will improve your life, and improve your experiences, he added. \"But my challenge to you is, don’t stop there,\" he said. \"The future does not belong to artificial intelligence. It belongs to you, with augmented intelligence. AI isn’t here to replace us. It’s here to replace the parts of our work that don’t bring us joy. To handle the repetitive so we can focus on the remarkable. The better AI gets, the more it allows us to be human.\"Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
-          "feed_position": 6,
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6f29Qn8RvQtjLGOLTlW9Vn/31244d93390adbe93f93b2f390287602/Dharmesh_Keynote.png"
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/1NXwP6yN9J9SMBakmd6NZO/ce14c28923a79bbbe5ed63a39e3de600/cfr0z3n_vector_art_line_art_colorful_abstract_impressionist_c_dedcd214-798e-44a7-a7c7-292cf07eccd0_1.png",
-      "popularity_score": 2014.2095958333334,
+      "popularity_score": 2010.3503305555555,
       "ai_summary": [
-        "Huawei developed a new open-source quantization method called SINQ.",
-        "SINQ reduces memory demands for large language models (LLMs).",
-        "The technique aims to run LLMs on less expensive hardware.",
-        "SINQ cuts memory usage by 60-70% depending on the model.",
-        "The code is available on Github and Hugging Face under Apache 2.0 license."
+        "Huawei's lab created a new open-source quantization method.",
+        "The method, SINQ, reduces memory demands of large language models.",
+        "SINQ is designed to be fast and easy to integrate.",
+        "The code is available on Github and Hugging Face.",
+        "The technique can reduce memory usage by 60-70%."
       ]
     },
     {
-      "id": "cluster_31",
-      "coverage": 2,
-      "updated_at": "2025-10-03T15:09:25-04:00",
-      "title": "Google removes ICE-spotting app following Apple’s ICEBlock crackdown",
-      "neutral_headline": "Google and Apple removed Red Dot, an app for reporting ICE agent sightings, from their app stores; Google says the app shared the location of a vulnerable group (Joseph Cox/404 Media)",
-      "items": [
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/791533/google-apple-ice-tracking-app-store-red-dot-iceblock",
-          "published_at": "2025-10-03T15:09:25-04:00",
-          "title": "Google removes ICE-spotting app following Apple’s ICEBlock crackdown",
-          "standfirst": "Just one day after Apple took down the iOS App Store listing for ICEBlock, Google has confirmed to 404 Media that it has removed a similar app, Red Dot, from the Google Play Store. The company also reportedly said it “removed apps that share the location of what it describes as a vulnerable group after [&#8230;]",
-          "content": "Just one day after Apple took down the iOS App Store listing for ICEBlock, Google has confirmed to 404 Media that it has removed a similar app, Red Dot, from the Google Play Store. The company also reportedly said it “removed apps that share the location of what it describes as a vulnerable group after a recent violent act against them connected to this sort of app.” On Thursday, Apple removed ICEBlock and similar apps, including Red Dot, after facing pressure from the Department of Justice. Attorney General Pam Bondi said to Fox News on Thursday that “ICEBlock is designed to put ICE agents at risk just for doing their jobs, and violence against law enforcement is an intolerable red line that cannot be crossed.” In response to the move, ICEBlock developer Joshua Aaron said in a statement to 404 Media that the app is “protected speech,” adding that Apple is “capitulating to an authoritarian regime.” Both ICEBlock and Red Dot allow users to anonymously report sightings of ICE agents and view nearby reports. Red Dot’s website says the app combines user reporting with “verified reports from multiple trusted sources” to monitor ICE activity. Google told 404 Media that it didn’t receive any warning from the DOJ, but that it “bans apps with a high risk of abuse” and has a requirement for content moderation apps with user-generated content.“ICEBlock was never available on Google Play, but we removed similar apps for violations of our policies,” Google told 404 Media. The Verge reached out to Google with a request for comment but didn’t immediately hear back.",
-          "feed_position": 4
-        },
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/251003/p17#a251003p17",
-          "published_at": "Fri, 03 Oct 2025 12:55:00 -0400",
-          "title": "Google and Apple removed Red Dot, an app for reporting ICE agent sightings, from their app stores; Google says the app shared the location of a vulnerable group (Joseph Cox/404 Media)",
-          "standfirst": "Joseph Cox / 404 Media: Google and Apple removed Red Dot, an app for reporting ICE agent sightings, from their app stores; Google says the app shared the location of a vulnerable group &mdash; Both Google and Apple recently removed Red Dot, an app people can use to report sightings of ICE officials, from their respective app stores, 404 Media has found.",
-          "content": "Joseph Cox / 404 Media: Google and Apple removed Red Dot, an app for reporting ICE agent sightings, from their app stores; Google says the app shared the location of a vulnerable group &mdash; Both Google and Apple recently removed Red Dot, an app people can use to report sightings of ICE officials, from their respective app stores, 404 Media has found.",
-          "feed_position": 13,
-          "image_url": "http://www.techmeme.com/251003/i17.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/251003/i17.jpg",
-      "popularity_score": 2011.749873611111,
-      "ai_summary": [
-        "Google and Apple removed the Red Dot app from their app stores.",
-        "The app allowed users to report sightings of ICE agents.",
-        "Google stated the app shared the location of a vulnerable group.",
-        "The removal followed Apple's removal of a similar app, ICEBlock.",
-        "The information was reported by 404 Media."
-      ]
-    },
-    {
-      "id": "cluster_48",
+      "id": "cluster_51",
       "coverage": 2,
       "updated_at": "Fri, 03 Oct 2025 17:36:49 +0000",
       "title": "Apple removes ICEBlock, won’t allow apps that report locations of ICE agents",
-      "neutral_headline": "Apple removes ICEBlock and similar tracking apps from the App Store:",
+      "neutral_headline": "Apple removes ICEBlock, won’t allow apps that report locations of ICE agents",
       "items": [
         {
           "source": "Ars Technica",
@@ -498,25 +441,25 @@
           "title": "Apple removes ICEBlock and similar tracking apps from the App Store",
           "standfirst": "The app, which went viral earlier this year, allowed users to lawfully share information about where they've seen ICE agents within a 5-mile radius of their location, and also share details of the clothing agents are wearing.",
           "content": "The app, which went viral earlier this year, allowed users to lawfully share information about where they've seen ICE agents within a 5-mile radius of their location, and also share details of the clothing agents are wearing.",
-          "feed_position": 17
+          "feed_position": 18
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ice-protest-1152x648-1759511365.jpg",
-      "popularity_score": 2010.2065402777778,
+      "popularity_score": 2006.347275,
       "ai_summary": [
-        "Apple removed the ICEBlock app from its App Store.",
-        "The app allowed users to report locations of ICE agents.",
-        "Apple cited concerns about the safety of ICE agents.",
-        "The app had gained popularity earlier in the year.",
-        "The app allowed sharing of agent details and locations."
+        "Apple removed ICEBlock and similar tracking apps.",
+        "The apps allowed users to share ICE agent locations.",
+        "The Trump administration claimed the apps put agents at risk.",
+        "The apps shared information within a five-mile radius.",
+        "The apps also shared details of agents' clothing."
       ]
     },
     {
-      "id": "cluster_53",
+      "id": "cluster_55",
       "coverage": 2,
       "updated_at": "Fri, 03 Oct 2025 17:13:20 GMT",
       "title": "Hackers stole 1 billion records from Salesforce customer databases with this simple trick - don't fall for it",
-      "neutral_headline": "Hackers stole 1 billion records from Salesforce customer databases with this simple trick - don't fall for it:",
+      "neutral_headline": "Hackers stole 1 billion records from Salesforce customer databases with this simple trick - don't fall for it",
       "items": [
         {
           "source": "ZDNet",
@@ -534,24 +477,24 @@
           "title": "Hacking group claims theft of 1 billion records from Salesforce customer databases",
           "standfirst": "The hacking group claims to have stolen about a billion records from companies, including FedEx, Qantas, and TransUnion, who store their customer and company data in Salesforce.",
           "content": "The hacking group claims to have stolen about a billion records from companies, including FedEx, Qantas, and TransUnion, who store their customer and company data in Salesforce.",
-          "feed_position": 14
+          "feed_position": 15
         }
       ],
-      "popularity_score": 2009.8151513888888,
+      "popularity_score": 2005.955886111111,
       "ai_summary": [
         "Hackers used social engineering to access Salesforce accounts.",
-        "The FBI reported the use of a new type of phishing attack.",
-        "Hackers stole approximately one billion records.",
-        "Companies like FedEx, Qantas, and TransUnion were affected.",
-        "These companies store data in Salesforce customer databases."
+        "The FBI reported the hackers used a new phishing attack type.",
+        "The hacking group claims to have stolen one billion records.",
+        "Companies like FedEx and Qantas were affected.",
+        "The data was stored in Salesforce customer databases."
       ]
     },
     {
-      "id": "cluster_10",
+      "id": "cluster_17",
       "coverage": 1,
       "updated_at": "Fri, 03 Oct 2025 21:56:53 +0000",
       "title": "Nearly 80% of Americans want Congress to extend ACA tax credits, poll finds",
-      "neutral_headline": "Nearly 80% of Americans want Congress to extend ACA tax credits, poll finds",
+      "neutral_headline": "Americans Want Congress to Extend ACA Tax Credits",
       "items": [
         {
           "source": "Ars Technica",
@@ -565,21 +508,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2238395456-1152x648.jpg",
-      "popularity_score": 347.5409847222222,
+      "popularity_score": 343.68171944444447,
       "ai_summary": [
-        "A poll indicates nearly 80% of Americans support extending ACA tax credits.",
+        "Nearly 80% of Americans support extending ACA tax credits.",
         "Without the extension, premiums will more than double.",
-        "The ACA Marketplace is where the plans are offered.",
-        "The poll reflects public opinion on healthcare affordability.",
-        "The extension would help maintain affordable healthcare access."
+        "The poll results highlight public opinion on healthcare.",
+        "The ACA Marketplace is affected by the tax credits.",
+        "The extension is a key issue for healthcare affordability."
       ]
     },
     {
-      "id": "cluster_37",
+      "id": "cluster_41",
       "coverage": 1,
       "updated_at": "Fri, 03 Oct 2025 18:31:23 +0000",
       "title": "Google confirms Android dev verification will have free and paid tiers, no public list of devs",
-      "neutral_headline": "Google confirms Android dev verification will have free and paid tiers, no public list of devs",
+      "neutral_headline": "Google Confirms Android Dev Verification Plans",
       "items": [
         {
           "source": "Ars Technica",
@@ -593,21 +536,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-1152x648.jpg",
-      "popularity_score": 347.1159847222222,
+      "popularity_score": 343.25671944444446,
       "ai_summary": [
         "Google will implement a verification system for Android developers.",
-        "The system will include both free and paid tiers.",
-        "There will be no public list of verified developers.",
-        "Google aims to improve Android's safety with verification.",
-        "The cost and impact of the verification are discussed."
+        "The system will have free and paid tiers.",
+        "Google will not publish a public list of developers.",
+        "The goal is to enhance Android's security.",
+        "The verification process will have associated costs."
       ]
     },
     {
-      "id": "cluster_17",
+      "id": "cluster_23",
       "coverage": 1,
       "updated_at": "Fri, 03 Oct 2025 20:33:15 +0000",
       "title": "Removing these 50 objects from orbit would cut danger from space junk in half",
-      "neutral_headline": "Removing these 50 objects from orbit would cut danger from space junk in half",
+      "neutral_headline": "Removing Objects from Orbit Could Reduce Space Junk",
       "items": [
         {
           "source": "Ars Technica",
@@ -621,21 +564,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1936304422-1152x648.jpg",
-      "popularity_score": 344.1470958333333,
+      "popularity_score": 340.28783055555556,
       "ai_summary": [
-        "Removing 50 objects from orbit would reduce space junk danger.",
-        "The objects contribute to the long-term collision hazard.",
-        "The article highlights the issue of space debris.",
-        "The focus is on mitigating the risks of space junk.",
-        "The article suggests a solution to reduce space debris."
+        "Removing 50 objects from orbit could halve space junk danger.",
+        "The objects contribute to long-term collision hazards.",
+        "The statement highlights the urgency of the issue.",
+        "The focus is on reducing the risk of collisions.",
+        "The objects are contributing to the growing space debris problem."
       ]
     },
     {
-      "id": "cluster_19",
+      "id": "cluster_24",
       "coverage": 1,
       "updated_at": "Fri, 03 Oct 2025 20:12:52 +0000",
       "title": "A biological 0-day? Threat-screening tools may miss AI-designed proteins.",
-      "neutral_headline": "A biological 0-day? Threat-screening tools may miss AI-designed proteins",
+      "neutral_headline": "Threat-screening tools may miss AI-designed proteins",
       "items": [
         {
           "source": "Ars Technica",
@@ -649,17 +592,17 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-832x648.jpg",
-      "popularity_score": 340.80737361111113,
+      "popularity_score": 336.9481083333333,
       "ai_summary": [
-        "Threat-screening tools may fail to detect AI-designed proteins.",
         "Ordering DNA for AI-designed toxins may not raise flags.",
-        "The article discusses potential security risks.",
+        "The tools may not detect AI-designed proteins.",
+        "The issue concerns biological threats.",
         "The focus is on AI's role in creating threats.",
-        "The article highlights a potential vulnerability."
+        "The tools are designed to screen for dangerous substances."
       ]
     },
     {
-      "id": "cluster_45",
+      "id": "cluster_48",
       "coverage": 1,
       "updated_at": "Fri, 03 Oct 2025 17:49:26 +0000",
       "title": "Ars Live: Is the AI bubble about to pop? A live chat with Ed Zitron.",
@@ -677,21 +620,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-1152x648.jpg",
-      "popularity_score": 318.41681805555555,
+      "popularity_score": 314.5575527777778,
       "ai_summary": [
-        "Ars Technica will host a live chat with Ed Zitron.",
+        "Ars Technica will host a live discussion.",
         "The discussion will focus on the AI gold rush.",
-        "The chat will take place on October 7.",
-        "The topic is whether the AI bubble will burst.",
-        "The event is a live discussion about AI trends."
+        "Ed Zitron will participate in the live chat.",
+        "The event is scheduled for October 7.",
+        "The discussion will address the AI bubble."
       ]
     },
     {
-      "id": "cluster_62",
+      "id": "cluster_63",
       "coverage": 1,
       "updated_at": "Fri, 03 Oct 2025 15:04:37 +0000",
       "title": "Apple iPhone 17 Pro review: Come for the camera, stay for the battery",
-      "neutral_headline": "Apple iPhone 17 Pro review: Come for the camera, stay for the battery:",
+      "neutral_headline": "Apple iPhone 17 Pro Review Focuses on Camera and Battery",
       "items": [
         {
           "source": "Ars Technica",
@@ -705,21 +648,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMG_3437-1152x648.jpeg",
-      "popularity_score": 283.6698736111111,
+      "popularity_score": 279.81060833333333,
       "ai_summary": [
-        "The article reviews the Apple iPhone 17 Pro.",
-        "The camera is a key feature of the iPhone 17 Pro.",
-        "The battery life is also a significant selling point.",
-        "The review targets users who rely on their iPhone camera.",
-        "The review highlights the phone's camera and battery."
+        "The iPhone 17 Pro is recommended for users who rely on their phone as their primary camera.",
+        "The review highlights the camera's capabilities and the battery's performance.",
+        "The article suggests the iPhone 17 Pro is a strong choice for photography enthusiasts.",
+        "The review emphasizes the phone's camera quality and battery life.",
+        "The iPhone 17 Pro is presented as a device with a focus on camera features."
       ]
     },
     {
-      "id": "cluster_50",
+      "id": "cluster_53",
       "coverage": 1,
       "updated_at": "Fri, 03 Oct 2025 17:30:39 +0000",
       "title": "HBO Max subscribers lose access to CNN livestream on November 17",
-      "neutral_headline": "HBO Max Subscribers Lose CNN Livestream Access on November 17",
+      "neutral_headline": "HBO Max Subscribers Lose CNN Livestream Access in November",
       "items": [
         {
           "source": "Ars Technica",
@@ -733,21 +676,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1631916436.jpg",
-      "popularity_score": 283.1037625,
+      "popularity_score": 279.2444972222222,
       "ai_summary": [
-        "HBO Max subscribers will lose access to the CNN livestream starting November 17.",
-        "Warner Bros. Discovery is betting on a dedicated CNN streaming service.",
-        "The move aims to drive subscriptions to a separate CNN streaming platform.",
-        "This strategy reflects a shift in content distribution for the media company.",
-        "The change impacts how viewers can access CNN content on streaming platforms."
+        "HBO Max subscribers will lose access to the CNN livestream on November 17.",
+        "Warner Bros. Discovery is planning a dedicated CNN streaming service.",
+        "The change aims to encourage subscriptions to the new CNN streaming platform.",
+        "The move is part of a strategy to create a separate CNN streaming product.",
+        "The decision impacts HBO Max subscribers who currently watch CNN."
       ]
     },
     {
-      "id": "cluster_60",
+      "id": "cluster_61",
       "coverage": 1,
       "updated_at": "Fri, 03 Oct 2025 15:18:12 +0000",
       "title": "Rally Arcade Classics is a fun ’90s-throwback racing game",
-      "neutral_headline": "Rally Arcade Classics Offers Retro Racing Game Experience",
+      "neutral_headline": "Rally Arcade Classics Offers a Nostalgic Racing Game Experience",
       "items": [
         {
           "source": "Ars Technica",
@@ -761,21 +704,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/PressKit_Imatge_27-1152x648.jpg",
-      "popularity_score": 270.8962625,
+      "popularity_score": 267.0369972222222,
       "ai_summary": [
         "Rally Arcade Classics is a racing game inspired by the 1990s arcade era.",
-        "The game's handling is similar to the Project Gotham Racing series.",
-        "It aims to provide a nostalgic experience for racing game enthusiasts.",
-        "The game features classic arcade-style gameplay and visuals.",
-        "Players can expect a fun and engaging racing experience."
+        "The game's handling is similar to Project Gotham Racing.",
+        "The article suggests the game will appeal to fans of classic racing titles.",
+        "The game provides a throwback experience for racing game enthusiasts.",
+        "The game's design is intended to evoke a sense of nostalgia."
       ]
     },
     {
-      "id": "cluster_65",
+      "id": "cluster_66",
       "coverage": 1,
       "updated_at": "Fri, 03 Oct 2025 15:00:06 +0000",
       "title": "Scientists revive old Bulgarian recipe to make yogurt with ants",
-      "neutral_headline": "Scientists Revive Bulgarian Yogurt Recipe Using Ants",
+      "neutral_headline": "Scientists Revive Old Bulgarian Yogurt Recipe Using Ants",
       "items": [
         {
           "source": "Ars Technica",
@@ -789,13 +732,13 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/yogurt1-1152x648-1758900301.jpg",
-      "popularity_score": 256.59459583333336,
+      "popularity_score": 252.73533055555555,
       "ai_summary": [
-        "Scientists are reviving an old Bulgarian yogurt recipe.",
+        "Scientists are reviving a traditional Bulgarian yogurt recipe.",
         "The recipe uses ants to aid in the yogurt-making process.",
-        "Ants contain lactic and acetic acid bacteria for milk coagulation.",
+        "Ants contain lactic and acetic acid bacteria that coagulate milk.",
         "Ants also provide formic acid to acidify the milk.",
-        "This traditional method offers a unique approach to yogurt production."
+        "The research explores a historical method of yogurt production."
       ]
     },
     {
@@ -819,11 +762,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2165374367-1152x648-1759445109.jpg",
       "popularity_score": 154,
       "ai_summary": [
-        "The Trump administration's \"out of office\" email reply was criticized.",
-        "The reply included attacks on the \"Radical Left\" and \"Democrat Senators.\"",
-        "The email was used to express political views.",
-        "This action was seen as an inappropriate use of an automated response.",
-        "The email's content drew criticism for its political tone."
+        "The article criticizes the Trump administration's \"out of office\" email replies.",
+        "The replies included attacks on the \"Radical Left\" and \"Democrat Senators\".",
+        "The criticism focuses on the political content of the automated responses.",
+        "The article highlights the use of political messaging in automated emails.",
+        "The responses were seen as inappropriate for an automated reply."
       ]
     },
     {
@@ -831,7 +774,7 @@
       "coverage": 1,
       "updated_at": "Thu, 02 Oct 2025 22:17:34 +0000",
       "title": "Blue Origin aims to land next New Glenn booster, then reuse it for Moon mission",
-      "neutral_headline": "Blue Origin Plans to Reuse New Glenn Booster for Moon Mission",
+      "neutral_headline": "Blue Origin Aims to Reuse New Glenn Booster for Moon Mission",
       "items": [
         {
           "source": "Ars Technica",
@@ -847,11 +790,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/NG1-Liftoff-Horizontal-1152x648-1759441209.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "Blue Origin intends to land the next New Glenn booster.",
-        "The company plans to reuse the booster for a Moon mission.",
-        "Blue Origin aims to recover the first stage on the next launch.",
-        "This strategy aligns with the goal of reusable rocket technology.",
-        "The plan reflects Blue Origin's ambitions for space exploration."
+        "Blue Origin plans to land and reuse the New Glenn booster.",
+        "The company intends to recover the first stage on the next launch.",
+        "The goal is to use the booster for future missions, including a Moon mission.",
+        "The company is focused on developing reusable rocket technology.",
+        "The plan involves recovering and reusing the New Glenn first stage."
       ]
     },
     {
@@ -859,7 +802,7 @@
       "coverage": 1,
       "updated_at": "Thu, 02 Oct 2025 17:16:38 +0000",
       "title": "Meta won’t allow users to opt out of targeted ads based on AI chats",
-      "neutral_headline": "Meta Will Not Allow Opt-Out of Targeted AI Ads",
+      "neutral_headline": "Meta Will Not Allow Opting Out of AI Ad Targeting in US",
       "items": [
         {
           "source": "Ars Technica",
@@ -875,19 +818,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2237775389-1024x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "Meta will not allow users to opt out of targeted ads based on AI chats.",
-        "US users will be subject to AI ad targeting.",
-        "EU users will have more control over their feeds.",
-        "This policy creates a difference in user experience.",
-        "The decision impacts how users see ads on Meta platforms."
+        "Meta will not allow US users to opt out of targeted ads based on AI chats.",
+        "EU users will have more control over their feeds and ad targeting.",
+        "The policy difference creates a disparity between US and EU users.",
+        "The article discusses the implications of AI-driven ad targeting.",
+        "US users will be subject to AI ad targeting, unlike EU users."
       ]
     },
     {
-      "id": "cluster_72",
+      "id": "cluster_73",
       "coverage": 1,
       "updated_at": "Fri, 03 Oct 2025 13:36:53 +0000",
       "title": "Illinois utility tries using electric school buses for bidirectional charging",
-      "neutral_headline": "Illinois Utility Uses Electric School Buses for Bidirectional Charging",
+      "neutral_headline": "Illinois Utility Tests Electric School Buses for Bidirectional Charging",
       "items": [
         {
           "source": "Ars Technica",
@@ -901,17 +844,45 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/18C1102_002-1152x648.jpg",
-      "popularity_score": 145.20765138888888,
+      "popularity_score": 141.3483861111111,
       "ai_summary": [
-        "An Illinois utility is testing electric school buses.",
-        "The buses are used for bidirectional charging.",
+        "An Illinois utility is testing electric school buses for bidirectional charging.",
         "School buses are typically parked during peak grid strain.",
-        "This initiative aims to improve grid stability.",
-        "The project explores the potential of vehicle-to-grid technology."
+        "The project aims to use buses to provide power back to the grid.",
+        "The initiative explores the use of electric buses for energy storage.",
+        "The project seeks to improve grid stability using school buses."
       ]
     },
     {
-      "id": "cluster_83",
+      "id": "cluster_111",
+      "coverage": 1,
+      "updated_at": "Thu, 02 Oct 2025 13:55:36 +0000",
+      "title": "Tesla reverses sales decline in Q3, sells 50k more cars than it built",
+      "neutral_headline": "Tesla Reverses Sales Decline in Q3, Sells More Cars",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2025/10/tesla-reverses-sales-decline-in-q3-sells-50k-more-cars-than-it-built/",
+          "published_at": "Thu, 02 Oct 2025 13:55:36 +0000",
+          "title": "Tesla reverses sales decline in Q3, sells 50k more cars than it built",
+          "standfirst": "The end of the EV tax credit in the US on September 30 helped spur sales.",
+          "content": "This morning, Tesla published its production and delivery numbers for the third quarter of the year. We've heard the same story for a while, one of diminishing sales as customers tire of a stale product lineup and are repulsed by the politics of the company's CEO. But Q3 2025 tells a different tale. It's been a good three months for the beleaguered automaker, one that appears to have cleared out a lot of old inventory. Tesla built a total of 447,450 electric vehicles between July and September this year. That's actually a 4.8 percent decrease compared to the same three months last year. The Models 3 and Y production lines saw less of a slowdown—Tesla built 435,826 of these EVs, a 1.8 percent decline on last year. But the Models S and X, grouped together with the US-only Cybertruck, saw the greatest cutbacks. Just 11,624 of these collected models were produced, a 55.1 percent decrease compared to Q3 2024.Read full article Comments",
+          "feed_position": 19,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1232815520-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1232815520-1152x648.jpg",
+      "popularity_score": 139,
+      "ai_summary": [
+        "Tesla reversed its sales decline in the third quarter.",
+        "Tesla sold 50,000 more cars than it built during the quarter.",
+        "The end of the EV tax credit in the US spurred sales.",
+        "The article discusses Tesla's sales performance in Q3.",
+        "The tax credit's expiration influenced sales figures."
+      ]
+    },
+    {
+      "id": "cluster_84",
       "coverage": 1,
       "updated_at": "Fri, 03 Oct 2025 11:00:19 +0000",
       "title": "Rocket Report: Alpha explodes on test stand; Europe wants a mini Starship",
@@ -929,41 +900,13 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/52360635711_25f1f1ff62_c-702x648.jpg",
-      "popularity_score": 141.59820694444446,
+      "popularity_score": 138,
       "ai_summary": [
-        "Rocket Report covers recent developments in the space industry.",
-        "Alpha experienced an explosion on a test stand.",
+        "The Rocket Report covers recent developments in the space industry.",
+        "The Alpha rocket exploded on a test stand.",
         "Europe is seeking a partner for a mini Starship project.",
-        "The report highlights challenges and opportunities in space exploration.",
-        "The search for investment is a key aspect of the European project."
-      ]
-    },
-    {
-      "id": "cluster_111",
-      "coverage": 1,
-      "updated_at": "Thu, 02 Oct 2025 13:55:36 +0000",
-      "title": "Tesla reverses sales decline in Q3, sells 50k more cars than it built",
-      "neutral_headline": "Tesla Sales Increased in Q3, Selling 50,000 More Cars",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2025/10/tesla-reverses-sales-decline-in-q3-sells-50k-more-cars-than-it-built/",
-          "published_at": "Thu, 02 Oct 2025 13:55:36 +0000",
-          "title": "Tesla reverses sales decline in Q3, sells 50k more cars than it built",
-          "standfirst": "The end of the EV tax credit in the US on September 30 helped spur sales.",
-          "content": "This morning, Tesla published its production and delivery numbers for the third quarter of the year. We've heard the same story for a while, one of diminishing sales as customers tire of a stale product lineup and are repulsed by the politics of the company's CEO. But Q3 2025 tells a different tale. It's been a good three months for the beleaguered automaker, one that appears to have cleared out a lot of old inventory. Tesla built a total of 447,450 electric vehicles between July and September this year. That's actually a 4.8 percent decrease compared to the same three months last year. The Models 3 and Y production lines saw less of a slowdown—Tesla built 435,826 of these EVs, a 1.8 percent decline on last year. But the Models S and X, grouped together with the US-only Cybertruck, saw the greatest cutbacks. Just 11,624 of these collected models were produced, a 55.1 percent decrease compared to Q3 2024.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1232815520-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1232815520-1152x648.jpg",
-      "popularity_score": 139,
-      "ai_summary": [
-        "Tesla reversed its sales decline in the third quarter.",
-        "Tesla sold 50,000 more cars than it built.",
-        "The end of the EV tax credit in the US spurred sales.",
-        "This increase reflects a rebound in Tesla's sales performance.",
-        "The tax credit's expiration influenced consumer purchasing decisions."
+        "The article discusses the challenges and goals of space exploration.",
+        "Europe is looking for investment in a mini Starship project."
       ]
     },
     {
@@ -971,7 +914,7 @@
       "coverage": 1,
       "updated_at": "Thu, 02 Oct 2025 21:10:23 +0000",
       "title": "Why iRobot’s founder won’t go within 10 feet of today’s walking robots",
-      "neutral_headline": "iRobot Founder Avoids Walking Robots Due to Safety Concerns",
+      "neutral_headline": "iRobot Founder Avoids Today's Walking Robots",
       "items": [
         {
           "source": "Ars Technica",
@@ -987,11 +930,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/optimus_header_1-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "iRobot's founder avoids today's walking robots.",
-        "Rodney Brooks cites hidden safety challenges.",
-        "He believes robots won't learn dexterity from video alone.",
-        "Brooks expresses skepticism about current humanoid robots.",
-        "His concerns highlight the complexities of robotics development."
+        "iRobot's founder, Rodney Brooks, avoids today's walking robots.",
+        "Brooks believes humanoid robots pose safety challenges.",
+        "He says robots won't learn dexterity from video alone.",
+        "The article discusses the limitations of current robot technology.",
+        "Brooks expresses concerns about the development of humanoid robots."
       ]
     },
     {
@@ -1015,11 +958,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2237968141-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "RFK Jr. is delaying COVID-19 vaccine recommendations.",
-        "This delay is impacting shots for children.",
-        "The delayed sign-off affects access to vaccines for low-income kids.",
-        "The delay is causing a delay in vaccine availability.",
-        "The situation has implications for child vaccination efforts."
+        "RFK Jr. is delaying recommendations on COVID-19 vaccines.",
+        "The delay impacts access to shots for low-income children.",
+        "The article discusses the implications of the delayed sign-off.",
+        "The delay affects the availability of vaccines for children.",
+        "The delay is causing issues for low-income children."
       ]
     },
     {
@@ -1044,10 +987,10 @@
       "popularity_score": 133,
       "ai_summary": [
         "Trump is offering universities a choice regarding funding.",
-        "Universities must comply to receive preferential funding.",
+        "Schools must comply with limits to receive preferential funding.",
         "The plan offers easier grants to schools that agree to limits.",
-        "The proposal could impact academic freedom.",
-        "The plan's implications include potential changes in funding."
+        "The article discusses the conditions for university funding.",
+        "The plan involves conditions for receiving grants."
       ]
     },
     {
@@ -1055,7 +998,7 @@
       "coverage": 1,
       "updated_at": "Thu, 02 Oct 2025 16:44:31 +0000",
       "title": "World-famous primatologist Jane Goodall dead at 91",
-      "neutral_headline": "Jane Goodall, World-Famous Primatologist, Dies at 91",
+      "neutral_headline": "World-Famous Primatologist Jane Goodall Dies at 91",
       "items": [
         {
           "source": "Ars Technica",
@@ -1071,11 +1014,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/goodall2-1152x648-1759411468.jpg",
       "popularity_score": 130,
       "ai_summary": [
-        "Jane Goodall, a world-famous primatologist, has died.",
-        "Goodall was 91 years old at the time of her death.",
-        "Her studies of chimpanzees redefined what it means to be human.",
-        "She conducted immersive studies of chimpanzees in Africa.",
-        "Her work significantly contributed to primatology."
+        "World-famous primatologist Jane Goodall has died at age 91.",
+        "Goodall's studies of chimpanzees redefined what it means to be human.",
+        "The article commemorates Goodall's contributions to science.",
+        "Goodall's work had a significant impact on primatology.",
+        "Her research changed the understanding of human nature."
       ]
     }
   ]
