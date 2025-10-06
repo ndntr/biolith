@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2025-10-06T11:15:51.939Z",
+    "updated_at": "2025-10-06T19:14:53.299Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-10-06T11:16:03.146Z",
+    "updated_at": "2025-10-06T19:15:06.382Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/ff9ef62e-637f-49ee-b507-9d32f590bdf2/Truly-invaluable-impact-of-GP-trainee-grants.aspx",
         "ai_summary": [
-          "Victoria's grants program for GP trainees has been praised by doctors.",
-          "The program provides financial assistance to GPs in training.",
-          "A similar Federal initiative has also been confirmed.",
+          "Doctors have praised Victoria's grants program for GP trainees.",
           "The grants are considered \"truly invaluable\" by recipients.",
-          "The programs aim to support and encourage GP training."
+          "A similar Federal initiative has also been confirmed.",
+          "The grants support GPs during their training period.",
+          "The programs aim to assist and encourage GP trainees."
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/31665f5b-75ed-4db2-9fe8-19acb884760b/A-need-to-uplift-entire-workforce-not-just-early-adopters.aspx",
         "ai_summary": [
-          "Experts will discuss benefits of a connected and digitally capable primary care workforce.",
-          "The conference aims to uplift the entire workforce, not just early adopters of technology.",
-          "The focus is on promoting the advantages of digital tools in primary care settings.",
-          "Discussions will cover how to improve the digital skills of primary care professionals.",
-          "The conference will highlight the positive impact of digital tools on patient care."
+          "GP experts will promote a digitally capable workforce at a conference.",
+          "The focus is on uplifting the entire workforce, not just early adopters.",
+          "The conference will highlight the benefits of a connected workforce.",
+          "The goal is to improve primary care through digital capabilities.",
+          "The conference aims to encourage digital adoption in healthcare."
         ]
       },
       {
@@ -80,87 +80,257 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/98c10eec-e131-4f6c-ba39-18de7f71c776/Antenatal-visits-key-to-reducing-smoking-alcohol-in-pregnancy.aspx",
         "ai_summary": [
-          "Women with fewer than two antenatal visits are more likely to drink alcohol.",
-          "The study found a fifteen-fold increase in alcohol consumption for women with fewer visits.",
-          "Antenatal care is crucial for reducing alcohol and smoking during pregnancy.",
-          "The research emphasizes the importance of early and frequent prenatal checkups.",
-          "Adequate antenatal visits are linked to healthier outcomes for both mother and child."
+          "A study found fewer antenatal visits increase alcohol use in pregnancy.",
+          "Women with fewer than two visits are 15 times more likely to drink.",
+          "Antenatal visits are crucial for reducing alcohol consumption.",
+          "The study highlights the importance of prenatal care.",
+          "The findings emphasize the need for regular checkups."
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2025-10-06T11:16:00.178Z",
+    "updated_at": "2025-10-06T19:15:02.708Z",
     "clusters": [
-      {
-        "id": "cluster_3",
-        "coverage": 2,
-        "updated_at": "Mon, 06 Oct 2025 07:10:05 GMT",
-        "title": "Former England rugby captain Lewis Moody reveals MND diagnosis",
-        "neutral_headline": "Former England rugby captain Moody reveals MND diagnosis",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/sport/2025/oct/06/former-england-rugby-captain-lewis-moody-reveals-mnd-diagnosis",
-            "published_at": "Mon, 06 Oct 2025 07:10:05 GMT",
-            "title": "Former England rugby captain Lewis Moody reveals MND diagnosis",
-            "standfirst": "Former World Cup winner, 47, tells BBC he has been diagnosed with motor neurone diseaseLewis Moody, the former England rugby captain and 2003 World Cup winner, has been diagnosed with motor neurone disease.The 47-year-old told the BBC he was having trouble accepting what the news meant for his future, and for his family, though his symptoms were relatively mild. Continue reading...",
-            "content": "Former World Cup winner, 47, tells BBC he has been diagnosed with motor neurone diseaseLewis Moody, the former England rugby captain and 2003 World Cup winner, has been diagnosed with motor neurone disease.The 47-year-old told the BBC he was having trouble accepting what the news meant for his future, and for his family, though his symptoms were relatively mild. Continue reading...",
-            "feed_position": 3
-          },
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/sport/rugby-union/articles/cz7rddrrlqno?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 06 Oct 2025 06:00:04 GMT",
-            "title": "Former England captain Moody reveals MND diagnosis",
-            "standfirst": "Former England captain Lewis Moody says in an exclusive BBC interview he has \"a reluctance to look the future in the face\".",
-            "content": "Former England captain Lewis Moody says in an exclusive BBC interview he has \"a reluctance to look the future in the face\".",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d040/live/48ea27d0-a1f5-11f0-928c-71dbb8619e94.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d040/live/48ea27d0-a1f5-11f0-928c-71dbb8619e94.jpg",
-        "ai_summary": [
-          "Former England rugby captain Lewis Moody has been diagnosed with motor neurone disease.",
-          "Moody, a 2003 World Cup winner, shared his diagnosis in a BBC interview.",
-          "He expressed reluctance to accept the future implications of his diagnosis.",
-          "The diagnosis of MND is a significant life event for Moody and his family.",
-          "Moody's symptoms are currently relatively mild, according to reports."
-        ]
-      },
       {
         "id": "cluster_0",
         "coverage": 1,
-        "updated_at": "Mon, 06 Oct 2025 10:28:37 GMT",
-        "title": "Nobel Prize for how immune system stops destructive rampage",
-        "neutral_headline": "Nobel Prize for how immune system stops destructive rampage",
+        "updated_at": "Mon, 06 Oct 2025 18:51:14 GMT",
+        "title": "First-year resident doctors back strike action over jobs shortage",
+        "neutral_headline": "First-year resident doctors back strike action over jobs shortage: British Medical Association say 30,000 medics were chasing 10,000 jobs this year",
         "items": [
           {
             "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c2knwvpd7vno?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 06 Oct 2025 10:28:37 GMT",
-            "title": "Nobel Prize for how immune system stops destructive rampage",
-            "standfirst": "The prize-winning work explains how the immune system attacks hostile infections, but not the body's own cells.",
-            "content": "The prize-winning work explains how the immune system attacks hostile infections, but not the body's own cells.",
+            "url": "https://www.bbc.com/news/articles/cly147075p2o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 06 Oct 2025 18:51:14 GMT",
+            "title": "First-year resident doctors back strike action over jobs shortage",
+            "standfirst": "British Medical Association say 30,000 medics were chasing 10,000 jobs this year.",
+            "content": "British Medical Association say 30,000 medics were chasing 10,000 jobs this year.",
             "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d22/live/4ce477f0-a29a-11f0-b5fb-09dc1426da0e.jpg"
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b567/live/b3b82fb0-a2dd-11f0-b741-177e3e2c2fc7.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d22/live/4ce477f0-a29a-11f0-b5fb-09dc1426da0e.jpg",
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b567/live/b3b82fb0-a2dd-11f0-b741-177e3e2c2fc7.jpg",
         "ai_summary": [
-          "The Nobel Prize recognizes work on how the immune system functions.",
-          "The research explains how the immune system attacks infections.",
-          "The immune system is able to differentiate between body cells and threats.",
-          "The work clarifies how the immune system avoids attacking the body.",
-          "The prize-winning research is crucial for understanding immune responses."
+          "First-year resident doctors support strike action.",
+          "The British Medical Association reported a job shortage.",
+          "30,000 medics competed for 10,000 jobs this year.",
+          "The strike is related to the lack of available positions.",
+          "The action highlights concerns about job availability."
         ]
       },
       {
         "id": "cluster_1",
         "coverage": 1,
+        "updated_at": "Mon, 06 Oct 2025 18:29:23 GMT",
+        "title": "Rugby world rallies round former England captain Lewis Moody after MND diagnosis",
+        "neutral_headline": "Rugby world rallies round former England captain Lewis Moody after MND diagnosis: World Cup winner diagnosed with motor neurone diseaseFundraising page set up by former Leicester teammatesThe rugby world has rallied around the former England captain Lewis Moody, who has revealed he has been diagnosed with motor neurone disease. The 47-year-old 2003 World Cup winner admitted he was having trouble accepting what his diagnosis means for the future but that he intends to stay positive.Among the most decorated forwards to play for England, he earned 71 caps and led his country at the 2011 World Cup in New Zealand, earning the nickname “Mad Dog” as an all-action, hard-hitting flanker. Continue reading",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/sport/2025/oct/06/former-england-rugby-captain-lewis-moody-reveals-mnd-diagnosis",
+            "published_at": "Mon, 06 Oct 2025 18:29:23 GMT",
+            "title": "Rugby world rallies round former England captain Lewis Moody after MND diagnosis",
+            "standfirst": "World Cup winner diagnosed with motor neurone diseaseFundraising page set up by former Leicester teammatesThe rugby world has rallied around the former England captain Lewis Moody, who has revealed he has been diagnosed with motor neurone disease. The 47-year-old 2003 World Cup winner admitted he was having trouble accepting what his diagnosis means for the future but that he intends to stay positive.Among the most decorated forwards to play for England, he earned 71 caps and led his country at the 2011 World Cup in New Zealand, earning the nickname “Mad Dog” as an all-action, hard-hitting flanker. Continue reading...",
+            "content": "World Cup winner diagnosed with motor neurone diseaseFundraising page set up by former Leicester teammatesThe rugby world has rallied around the former England captain Lewis Moody, who has revealed he has been diagnosed with motor neurone disease. The 47-year-old 2003 World Cup winner admitted he was having trouble accepting what his diagnosis means for the future but that he intends to stay positive.Among the most decorated forwards to play for England, he earned 71 caps and led his country at the 2011 World Cup in New Zealand, earning the nickname “Mad Dog” as an all-action, hard-hitting flanker. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "Lewis Moody, former England captain, has been diagnosed with MND.",
+          "The rugby world is showing support for Moody.",
+          "A fundraising page has been set up by his former teammates.",
+          "Moody captained England at the 2011 World Cup.",
+          "He earned 71 caps and was nicknamed \"Mad Dog\"."
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Mon, 06 Oct 2025 18:13:39 GMT",
+        "title": "Lack of school closure plan ‘an extraordinary dereliction of duty’, Covid inquiry told",
+        "neutral_headline": "Lack of school closure plan ‘an extraordinary dereliction of duty’, Covid inquiry told: Academy trust head Jon Coles says he nearly fell off his chair when Gavin Williamson said no plan was in placeThe leader of one of the largest academy trusts in England has described the Department for Education’s failure to do any planning for school closures before lockdown in March 2020 as “an extraordinary dereliction of duty”.Jon Coles, the chief executive of United Learning, told the UK Covid-19 inquiry he nearly fell off his chair when he read a statement from Gavin Williamson, the education secretary at the time, in which he said there was zero planning for closures because the priority was keeping schools open. Continue reading",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/uk-news/2025/oct/06/dfe-failure-to-plan-for-covid-school-closures-was-extraordinary-dereliction-of-duty-academy-head-tells-inquiry",
+            "published_at": "Mon, 06 Oct 2025 18:13:39 GMT",
+            "title": "Lack of school closure plan ‘an extraordinary dereliction of duty’, Covid inquiry told",
+            "standfirst": "Academy trust head Jon Coles says he nearly fell off his chair when Gavin Williamson said no plan was in placeThe leader of one of the largest academy trusts in England has described the Department for Education’s failure to do any planning for school closures before lockdown in March 2020 as “an extraordinary dereliction of duty”.Jon Coles, the chief executive of United Learning, told the UK Covid-19 inquiry he nearly fell off his chair when he read a statement from Gavin Williamson, the education secretary at the time, in which he said there was zero planning for closures because the priority was keeping schools open. Continue reading...",
+            "content": "Academy trust head Jon Coles says he nearly fell off his chair when Gavin Williamson said no plan was in placeThe leader of one of the largest academy trusts in England has described the Department for Education’s failure to do any planning for school closures before lockdown in March 2020 as “an extraordinary dereliction of duty”.Jon Coles, the chief executive of United Learning, told the UK Covid-19 inquiry he nearly fell off his chair when he read a statement from Gavin Williamson, the education secretary at the time, in which he said there was zero planning for closures because the priority was keeping schools open. Continue reading...",
+            "feed_position": 1
+          }
+        ],
+        "ai_summary": [
+          "Jon Coles called the lack of school closure planning a dereliction of duty.",
+          "Coles is the head of a large academy trust in England.",
+          "He testified at the UK Covid-19 inquiry.",
+          "Gavin Williamson stated there was no closure plan.",
+          "The priority was keeping schools open during the pandemic."
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Mon, 06 Oct 2025 17:30:19 GMT",
+        "title": "What happens when you stop weight loss jabs? – podcast",
+        "neutral_headline": "Weight loss jabs face scrutiny due to rising costs",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/australia-news/audio/2025/oct/06/what-happens-when-you-stop-weight-loss-jabs-full-story-podcast",
+            "published_at": "Mon, 06 Oct 2025 17:30:19 GMT",
+            "title": "What happens when you stop weight loss jabs? – podcast",
+            "standfirst": "Science editor Ian Sample talks through the dilemma facing more than a million people in the UK as the cost of the jabs jumpsIn the UK, it’s estimated that 1.5 million people are on weight loss jabs.For many, as the Guardian’s science editor, Ian Sample, explains, they have proved revolutionary – helping users lose weight in a way few could have imagined just a couple of years ago. Continue reading...",
+            "content": "Science editor Ian Sample talks through the dilemma facing more than a million people in the UK as the cost of the jabs jumpsIn the UK, it’s estimated that 1.5 million people are on weight loss jabs.For many, as the Guardian’s science editor, Ian Sample, explains, they have proved revolutionary – helping users lose weight in a way few could have imagined just a couple of years ago. Continue reading...",
+            "feed_position": 2
+          }
+        ],
+        "ai_summary": [
+          "Weight loss jabs are used by an estimated 1.5 million people in the United Kingdom.",
+          "These jabs have proven revolutionary for many, aiding weight loss effectively.",
+          "The cost of these weight loss jabs is currently increasing for users.",
+          "The Guardian's science editor, Ian Sample, discusses the situation.",
+          "The article explores the challenges faced by those using the jabs."
+        ]
+      },
+      {
+        "id": "cluster_4",
+        "coverage": 1,
+        "updated_at": "Mon, 06 Oct 2025 16:33:24 GMT",
+        "title": "Should I pay heed to this Swift dismissal? | Brief letters",
+        "neutral_headline": "Taylor Swift album review sparks debate on opinions",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/music/2025/oct/06/should-i-pay-heed-to-this-swift-dismissal",
+            "published_at": "Mon, 06 Oct 2025 16:33:24 GMT",
+            "title": "Should I pay heed to this Swift dismissal? | Brief letters",
+            "standfirst": "Taylor Swift review | Aztec broccoli | Bogof v half-price | President Putin | Pannetone puddingEverybody is entitled to an opinion, but I’m not sure what value to attach to that of a bloke in his mid-50s about the latest album by Taylor Swift, an artist whose songs resonate with a massive core audience of women up to two generations younger than him (Taylor Swift: The Life of a Showgirl review – dull razzle-dazzle from a star who seems frazzled, 3 October). Other than to warn off other blokes in their 50s.Ian A Anderson (bloke in his late 70s)Cambridge• I was very pleased to see Adrian Chiles’s appreciation of Aztec broccoli (2 October). I discovered it last year, and though it’s not as tasty as real broccoli, it’s much easier to grow and doesn’t attract the dreaded cabbage white butterfly. I’ve been happily eating the abundant little shoots from just two plants for the past month.Hannah HyamBatheaston, Somerset Continue reading...",
+            "content": "Taylor Swift review | Aztec broccoli | Bogof v half-price | President Putin | Pannetone puddingEverybody is entitled to an opinion, but I’m not sure what value to attach to that of a bloke in his mid-50s about the latest album by Taylor Swift, an artist whose songs resonate with a massive core audience of women up to two generations younger than him (Taylor Swift: The Life of a Showgirl review – dull razzle-dazzle from a star who seems frazzled, 3 October). Other than to warn off other blokes in their 50s.Ian A Anderson (bloke in his late 70s)Cambridge• I was very pleased to see Adrian Chiles’s appreciation of Aztec broccoli (2 October). I discovered it last year, and though it’s not as tasty as real broccoli, it’s much easier to grow and doesn’t attract the dreaded cabbage white butterfly. I’ve been happily eating the abundant little shoots from just two plants for the past month.Hannah HyamBatheaston, Somerset Continue reading...",
+            "feed_position": 3
+          }
+        ],
+        "ai_summary": [
+          "An opinion piece critiques Taylor Swift's latest album.",
+          "The author questions the value of opinions from older men.",
+          "Another reader appreciates an article about Aztec broccoli.",
+          "The reader found Aztec broccoli easy to grow and eat.",
+          "The article includes various reader opinions and observations."
+        ]
+      },
+      {
+        "id": "cluster_5",
+        "coverage": 1,
+        "updated_at": "Mon, 06 Oct 2025 14:00:16 GMT",
+        "title": "Cycle tracking isn’t woo-woo or a tradwife tool. It’s essential education for everyone – no matter the gender | Freya Bennett",
+        "neutral_headline": "Cycle tracking is essential education for everyone",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/commentisfree/2025/oct/07/menstrual-cycle-tracking-isnt-woo-woo-tradwife-its-essential-education-no-matter-gender",
+            "published_at": "Mon, 06 Oct 2025 14:00:16 GMT",
+            "title": "Cycle tracking isn’t woo-woo or a tradwife tool. It’s essential education for everyone – no matter the gender | Freya Bennett",
+            "standfirst": "The 24-hour day might be perfectly synced to men’s hormonal cycle – but the menstrual cycle takes a longer view …Sign up for a weekly email featuring our best readsOnce a month without fail I decide to give up on all my goals and ambitions. “There’s just no point,” I sigh to my mother, who smiles and asks what day of my cycle I’m on. I grumble back, insisting it has nothing to do with my period, I just happen to have lost all motivation and inspiration. “What’s the point anyway,” I add, “when we’re watching the world burn?”Nine times out of 10 my period shows up shortly afterwards and, a few days later, my creativity, motivation and drive all come flooding back. You’d think that growing up with a menstrual educator for a mother – and having a fairly solid knowledge of the cycle myself – I’d remember this each month when feelings of disillusionment and apathy creep in. But deep in the slump it’s hard to convince myself that it’s my hormones playing tricks on me again. Continue reading...",
+            "content": "The 24-hour day might be perfectly synced to men’s hormonal cycle – but the menstrual cycle takes a longer view …Sign up for a weekly email featuring our best readsOnce a month without fail I decide to give up on all my goals and ambitions. “There’s just no point,” I sigh to my mother, who smiles and asks what day of my cycle I’m on. I grumble back, insisting it has nothing to do with my period, I just happen to have lost all motivation and inspiration. “What’s the point anyway,” I add, “when we’re watching the world burn?”Nine times out of 10 my period shows up shortly afterwards and, a few days later, my creativity, motivation and drive all come flooding back. You’d think that growing up with a menstrual educator for a mother – and having a fairly solid knowledge of the cycle myself – I’d remember this each month when feelings of disillusionment and apathy creep in. But deep in the slump it’s hard to convince myself that it’s my hormones playing tricks on me again. Continue reading...",
+            "feed_position": 4
+          }
+        ],
+        "ai_summary": [
+          "The author discusses the importance of cycle tracking.",
+          "She notes how her motivation fluctuates with her cycle.",
+          "She has a menstrual educator for a mother.",
+          "She recognizes the impact of hormones on her mood.",
+          "The article emphasizes the need to understand the menstrual cycle."
+        ]
+      },
+      {
+        "id": "cluster_6",
+        "coverage": 1,
+        "updated_at": "Mon, 06 Oct 2025 12:34:03 GMT",
+        "title": "Alarming number of people now vape, says WHO",
+        "neutral_headline": "Alarming number of people now vape, says WHO",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c1kwxjzeez3o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 06 Oct 2025 12:34:03 GMT",
+            "title": "Alarming number of people now vape, says WHO",
+            "standfirst": "More than 100 million people, including at least 15 million children, use e-cigarettes, fuelling a new wave of nicotine addiction, say experts.",
+            "content": "More than 100 million people, including at least 15 million children, use e-cigarettes, fuelling a new wave of nicotine addiction, say experts.",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0150/live/57488580-a2bb-11f0-928c-71dbb8619e94.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0150/live/57488580-a2bb-11f0-928c-71dbb8619e94.jpg",
+        "ai_summary": [
+          "Over 100 million people use e-cigarettes globally.",
+          "At least 15 million children are among e-cigarette users.",
+          "Experts say vaping is fueling a new nicotine addiction wave.",
+          "The World Health Organization has issued a warning.",
+          "The article highlights the growing prevalence of vaping."
+        ]
+      },
+      {
+        "id": "cluster_7",
+        "coverage": 1,
+        "updated_at": "Mon, 06 Oct 2025 12:28:25 GMT",
+        "title": "Chris and Xand from What's Up Docs? explain how they make time for nature",
+        "neutral_headline": "Chris and Xand explain how they make time for nature",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/videos/cj6x481y43wo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 06 Oct 2025 12:28:25 GMT",
+            "title": "Chris and Xand from What's Up Docs? explain how they make time for nature",
+            "standfirst": "Chris explains how he makes time for nature, even when living in a big city.",
+            "content": "Chris explains how he makes time for nature, even when living in a big city.",
+            "feed_position": 100,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/521e/live/d9b67ef0-a298-11f0-928c-71dbb8619e94.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/521e/live/d9b67ef0-a298-11f0-928c-71dbb8619e94.jpg",
+        "ai_summary": [
+          "Chris explains how he makes time for nature.",
+          "He lives in a big city.",
+          "The article focuses on Chris's approach.",
+          "The article is from the \"What's Up Docs?\" series.",
+          "The article explores ways to connect with nature."
+        ]
+      },
+      {
+        "id": "cluster_8",
+        "coverage": 1,
+        "updated_at": "Mon, 06 Oct 2025 10:28:37 GMT",
+        "title": "Scientists win Nobel Prize for discovering why immune system does not destroy the body",
+        "neutral_headline": "Scientists win Nobel Prize for immune system discovery",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c2knwvpd7vno?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 06 Oct 2025 10:28:37 GMT",
+            "title": "Scientists win Nobel Prize for discovering why immune system does not destroy the body",
+            "standfirst": "The prize-winning discovery explains how the immune system attacks hostile infections, but not the body's own cells.",
+            "content": "The prize-winning discovery explains how the immune system attacks hostile infections, but not the body's own cells.",
+            "feed_position": 2,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d22/live/4ce477f0-a29a-11f0-b5fb-09dc1426da0e.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d22/live/4ce477f0-a29a-11f0-b5fb-09dc1426da0e.jpg",
+        "ai_summary": [
+          "Scientists won the Nobel Prize for their discovery.",
+          "The discovery explains how the immune system functions.",
+          "It explains why the immune system does not attack the body.",
+          "The immune system attacks hostile infections.",
+          "The discovery is about the immune system's function."
+        ]
+      },
+      {
+        "id": "cluster_9",
+        "coverage": 1,
         "updated_at": "Mon, 06 Oct 2025 10:00:06 GMT",
         "title": "You can’t just press ‘undo’ on your life. To move forward, you must first feel your grief and rage",
-        "neutral_headline": "Difficult emotions pave the path to growth",
+        "neutral_headline": "Feeling grief and rage is key to moving forward",
         "items": [
           {
             "source": "Guardian Health",
@@ -169,73 +339,48 @@
             "title": "You can’t just press ‘undo’ on your life. To move forward, you must first feel your grief and rage",
             "standfirst": "Many of us try to reframe our disappointments, to put a happy face on sad circumstances. But the path to growth is paved with difficult emotions, and we have to experience them honestlyI hope you had a good summer: I did not. On the day we were supposed to be going on holiday, I was sitting in A&E with my husband, waiting for him to have urgent but routine surgery, which meant our travel plans had to be cancelled.From this experience I learned something valuable, all over again, about how hard it is for me to feel bad when things go wrong. I’m not talking about life-altering traumas, but the more everyday, quietly devastating disappointments that – unless we can actually feel them – will really weigh us down. Continue reading...",
             "content": "Many of us try to reframe our disappointments, to put a happy face on sad circumstances. But the path to growth is paved with difficult emotions, and we have to experience them honestlyI hope you had a good summer: I did not. On the day we were supposed to be going on holiday, I was sitting in A&E with my husband, waiting for him to have urgent but routine surgery, which meant our travel plans had to be cancelled.From this experience I learned something valuable, all over again, about how hard it is for me to feel bad when things go wrong. I’m not talking about life-altering traumas, but the more everyday, quietly devastating disappointments that – unless we can actually feel them – will really weigh us down. Continue reading...",
-            "feed_position": 1
+            "feed_position": 5
           }
         ],
         "ai_summary": [
-          "The author reflects on the difficulty of feeling negative emotions.",
-          "The author learned from a disappointing experience about feeling bad.",
-          "The author discusses the importance of experiencing difficult emotions.",
-          "The author suggests that suppressing emotions can be detrimental.",
-          "The author believes that growth requires honest emotional experience."
+          "The author discusses the importance of feeling difficult emotions.",
+          "She reflects on a disappointing holiday experience.",
+          "She learned how hard it is to feel bad when things go wrong.",
+          "The article focuses on everyday disappointments.",
+          "The article emphasizes the need to experience emotions honestly."
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 06 Oct 2025 09:00:05 GMT",
         "title": "Christian group ‘deceived’ supreme court about LGBTQ+ research, cited scholars say",
-        "neutral_headline": "Christian group ‘deceived’ supreme court about LGBTQ+ research, cited scholars say",
+        "neutral_headline": "Christian group allegedly deceived Supreme Court",
         "items": [
           {
             "source": "Guardian Health",
             "url": "https://www.theguardian.com/us-news/2025/oct/06/alliance-defending-freedom-supreme-court-conversion-therapy",
             "published_at": "Mon, 06 Oct 2025 09:00:05 GMT",
             "title": "Christian group ‘deceived’ supreme court about LGBTQ+ research, cited scholars say",
-            "standfirst": "Exclusive: Experts say Alliance Defending Freedom, arguing to revive conversion therapy, ‘profoundly misrepresented’ their work in case threatening trans and queer youthOn Tuesday, a Christian legal group will urge the US supreme court to overturn a ban on anti-LGBTQ+ “conversion therapy” in a case that could erode protections for transgender and queer youth across the country.Lawyers from Alliance Defending Freedom (ADF), which has opposed abortion and LGBTQ+ rights in high-profile litigation, are representing a woman challenging a 2019 Colorado law that prohibited conversion practices for youth under age 18. The ban applies to licensed clinicians who seek to change a patient’s sexual orientation or gender identity, tactics medical groups have discredited as harmful and ineffective. Continue reading...",
-            "content": "Exclusive: Experts say Alliance Defending Freedom, arguing to revive conversion therapy, ‘profoundly misrepresented’ their work in case threatening trans and queer youthOn Tuesday, a Christian legal group will urge the US supreme court to overturn a ban on anti-LGBTQ+ “conversion therapy” in a case that could erode protections for transgender and queer youth across the country.Lawyers from Alliance Defending Freedom (ADF), which has opposed abortion and LGBTQ+ rights in high-profile litigation, are representing a woman challenging a 2019 Colorado law that prohibited conversion practices for youth under age 18. The ban applies to licensed clinicians who seek to change a patient’s sexual orientation or gender identity, tactics medical groups have discredited as harmful and ineffective. Continue reading...",
-            "feed_position": 2
+            "standfirst": "Exclusive: Experts say Alliance Defending Freedom, arguing to revive ‘conversion therapy’, ‘profoundly misrepresented’ their work in case threatening trans and queer youthOn Tuesday, a Christian legal group will urge the US supreme court to overturn a ban on anti-LGBTQ+ “conversion therapy” in a case that could erode protections for transgender and queer youth across the country.Lawyers from Alliance Defending Freedom (ADF), which has opposed abortion and LGBTQ+ rights in high-profile litigation, are representing a woman challenging a 2019 Colorado law that prohibited conversion practices for youth under age 18. The ban applies to licensed clinicians who seek to change a patient’s sexual orientation or gender identity, tactics medical groups have discredited as harmful and ineffective. Continue reading...",
+            "content": "Exclusive: Experts say Alliance Defending Freedom, arguing to revive ‘conversion therapy’, ‘profoundly misrepresented’ their work in case threatening trans and queer youthOn Tuesday, a Christian legal group will urge the US supreme court to overturn a ban on anti-LGBTQ+ “conversion therapy” in a case that could erode protections for transgender and queer youth across the country.Lawyers from Alliance Defending Freedom (ADF), which has opposed abortion and LGBTQ+ rights in high-profile litigation, are representing a woman challenging a 2019 Colorado law that prohibited conversion practices for youth under age 18. The ban applies to licensed clinicians who seek to change a patient’s sexual orientation or gender identity, tactics medical groups have discredited as harmful and ineffective. Continue reading...",
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "Experts claim a Christian group misrepresented research to the Supreme Court.",
-          "The Alliance Defending Freedom is arguing to revive conversion therapy.",
-          "The case could weaken protections for transgender and queer youth.",
-          "The ADF is challenging a Colorado law banning conversion practices.",
-          "Medical groups have discredited conversion therapy as harmful and ineffective."
+          "Experts say a Christian group misrepresented research.",
+          "The group is Alliance Defending Freedom (ADF).",
+          "ADF is arguing to revive \"conversion therapy\".",
+          "The case threatens transgender and queer youth.",
+          "The case is before the US Supreme Court."
         ]
       },
       {
-        "id": "cluster_4",
-        "coverage": 1,
-        "updated_at": "Mon, 06 Oct 2025 07:00:03 GMT",
-        "title": "Is it true that … you get shorter as you get older?",
-        "neutral_headline": "Height loss is inevitable as people age",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2025/oct/06/is-it-true-that-you-get-shorter-as-you-get-older",
-            "published_at": "Mon, 06 Oct 2025 07:00:03 GMT",
-            "title": "Is it true that … you get shorter as you get older?",
-            "standfirst": "Some loss of height is inevitable, but diet, exercise and a healthy lifestyle can help slow the decline in bone and muscle mass as we age‘Without a doubt, we get shorter as we age,” says Adam Taylor, professor in Anatomy at Lancaster medical school. He says that after 40, humans typically lose about a centimetre of height every decade. Men lose 0.08-0.1% of their body height per year. Women typically lose 0.12-0.14% per year.Some of this is caused by increasingly slumped posture as we get older. People who sit or stand with a curved spine for prolonged periods of time – perhaps at their desk – may find that, over time, their spine assumes that position naturally. Older people sometimes stoop to find a more secure centre of gravity too. Continue reading...",
-            "content": "Some loss of height is inevitable, but diet, exercise and a healthy lifestyle can help slow the decline in bone and muscle mass as we age‘Without a doubt, we get shorter as we age,” says Adam Taylor, professor in Anatomy at Lancaster medical school. He says that after 40, humans typically lose about a centimetre of height every decade. Men lose 0.08-0.1% of their body height per year. Women typically lose 0.12-0.14% per year.Some of this is caused by increasingly slumped posture as we get older. People who sit or stand with a curved spine for prolonged periods of time – perhaps at their desk – may find that, over time, their spine assumes that position naturally. Older people sometimes stoop to find a more secure centre of gravity too. Continue reading...",
-            "feed_position": 4
-          }
-        ],
-        "ai_summary": [
-          "People typically lose height as they get older, according to experts.",
-          "After age 40, humans lose about a centimeter of height per decade.",
-          "Men lose 0.08-0.1% of their body height per year.",
-          "Women typically lose 0.12-0.14% of their body height per year.",
-          "Posture and lifestyle choices can affect height loss over time."
-        ]
-      },
-      {
-        "id": "cluster_5",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 06 Oct 2025 07:00:03 GMT",
         "title": "The real goal of 'Make America Healthy Again'? Woo-woo treatments for the rich, shrinking healthcare for the poor | Alexander Avila",
-        "neutral_headline": "Make America Healthy Again' is woo-woo treatments for the rich",
+        "neutral_headline": "The real goal of 'Make America Healthy Again'?",
         "items": [
           {
             "source": "Guardian Health",
@@ -244,23 +389,75 @@
             "title": "The real goal of 'Make America Healthy Again'? Woo-woo treatments for the rich, shrinking healthcare for the poor | Alexander Avila",
             "standfirst": "A new coterie of advisers around Robert F Kennedy Jr is shaping the US’s already exclusionary health system for the worseIn Donald Trump’s second administration, the US’s health agenda has taken a new shape in the form of a populist movement known as Make America Healthy Again, or Maha. So far, its central figurehead, US health secretary Robert F Kennedy Jr (RFK Jr) has cancelled $500m of vaccine research, fired thousands of health agency workers and promoted an unsubstantiated link between Tylenol and autism.But what underlying vision ties the Maha project together? Continue reading...",
             "content": "A new coterie of advisers around Robert F Kennedy Jr is shaping the US’s already exclusionary health system for the worseIn Donald Trump’s second administration, the US’s health agenda has taken a new shape in the form of a populist movement known as Make America Healthy Again, or Maha. So far, its central figurehead, US health secretary Robert F Kennedy Jr (RFK Jr) has cancelled $500m of vaccine research, fired thousands of health agency workers and promoted an unsubstantiated link between Tylenol and autism.But what underlying vision ties the Maha project together? Continue reading...",
-            "feed_position": 5
+            "feed_position": 7
           }
         ],
         "ai_summary": [
-          "A movement called \"Make America Healthy Again\" is shaping US healthcare.",
-          "Robert F. Kennedy Jr. is a central figure in this movement.",
-          "The movement has cancelled vaccine research and fired health agency workers.",
-          "The movement promotes unsubstantiated links between Tylenol and autism.",
-          "The underlying vision of the movement is exclusionary healthcare."
+          "The article discusses the \"Make America Healthy Again\" movement.",
+          "Robert F Kennedy Jr is a central figure.",
+          "RFK Jr cancelled vaccine research and fired workers.",
+          "The article questions the movement's underlying vision.",
+          "The movement is shaping the US health system."
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_12",
+        "coverage": 1,
+        "updated_at": "Mon, 06 Oct 2025 07:00:03 GMT",
+        "title": "Is it true that … you get shorter as you get older?",
+        "neutral_headline": "Is it true that you get shorter as you get older?",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/lifeandstyle/2025/oct/06/is-it-true-that-you-get-shorter-as-you-get-older",
+            "published_at": "Mon, 06 Oct 2025 07:00:03 GMT",
+            "title": "Is it true that … you get shorter as you get older?",
+            "standfirst": "Some loss of height is inevitable, but diet, exercise and a healthy lifestyle can help slow the decline in bone and muscle mass as we age‘Without a doubt, we get shorter as we age,” says Adam Taylor, professor in Anatomy at Lancaster medical school. He says that after 40, humans typically lose about a centimetre of height every decade. Men lose 0.08-0.1% of their body height per year. Women typically lose 0.12-0.14% per year.Some of this is caused by increasingly slumped posture as we get older. People who sit or stand with a curved spine for prolonged periods of time – perhaps at their desk – may find that, over time, their spine assumes that position naturally. Older people sometimes stoop to find a more secure centre of gravity too. Continue reading...",
+            "content": "Some loss of height is inevitable, but diet, exercise and a healthy lifestyle can help slow the decline in bone and muscle mass as we age‘Without a doubt, we get shorter as we age,” says Adam Taylor, professor in Anatomy at Lancaster medical school. He says that after 40, humans typically lose about a centimetre of height every decade. Men lose 0.08-0.1% of their body height per year. Women typically lose 0.12-0.14% per year.Some of this is caused by increasingly slumped posture as we get older. People who sit or stand with a curved spine for prolonged periods of time – perhaps at their desk – may find that, over time, their spine assumes that position naturally. Older people sometimes stoop to find a more secure centre of gravity too. Continue reading...",
+            "feed_position": 8
+          }
+        ],
+        "ai_summary": [
+          "Some height loss is inevitable with age.",
+          "Diet, exercise, and lifestyle can slow decline.",
+          "Humans typically lose about a centimeter per decade after 40.",
+          "Men lose 0.08-0.1% of body height per year.",
+          "Women lose 0.12-0.14% of body height per year."
+        ]
+      },
+      {
+        "id": "cluster_13",
+        "coverage": 1,
+        "updated_at": "Mon, 06 Oct 2025 06:00:04 GMT",
+        "title": "Former England captain Moody reveals MND diagnosis",
+        "neutral_headline": "Former England captain Moody reveals MND diagnosis",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/sport/rugby-union/articles/cz7rddrrlqno?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 06 Oct 2025 06:00:04 GMT",
+            "title": "Former England captain Moody reveals MND diagnosis",
+            "standfirst": "Former England captain Lewis Moody says in an exclusive BBC interview he has \"a reluctance to look the future in the face\".",
+            "content": "Former England captain Lewis Moody says in an exclusive BBC interview he has \"a reluctance to look the future in the face\".",
+            "feed_position": 3,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d040/live/48ea27d0-a1f5-11f0-928c-71dbb8619e94.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d040/live/48ea27d0-a1f5-11f0-928c-71dbb8619e94.jpg",
+        "ai_summary": [
+          "Former England captain Lewis Moody has been diagnosed with MND.",
+          "Moody shared his diagnosis in a BBC interview.",
+          "He expresses a reluctance to face the future.",
+          "The article is an exclusive BBC interview.",
+          "The article discusses Moody's diagnosis."
+        ]
+      },
+      {
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Mon, 06 Oct 2025 02:00:04 GMT",
         "title": "My dad, his ‘incurable’ disease, and hope at last - podcast",
-        "neutral_headline": "Josh Halliday discusses Huntington’s disease and hope",
+        "neutral_headline": "My dad, his ‘incurable’ disease, and hope at last - podcast",
         "items": [
           {
             "source": "Guardian Health",
@@ -269,23 +466,23 @@
             "title": "My dad, his ‘incurable’ disease, and hope at last - podcast",
             "standfirst": "The Guardian journalist Josh Halliday talks about Huntington’s disease, the impact the rare inherited condition has had on his family and the hope there may now be a treatmentFor years, the Guardian north of England editor, Josh Halliday, had a secret, unknown even to his friends: that for more than a decade, his father had been suffering from a devastating neurodegenerative disease; and that Halliday feared he had it too.Huntington’s disease is a rare and cruel genetic condition. It can rob people of their voice, their mobility and even their personality. And worse than that, their children are faced with the possibility that one day they could develop the disease as well. Continue reading...",
             "content": "The Guardian journalist Josh Halliday talks about Huntington’s disease, the impact the rare inherited condition has had on his family and the hope there may now be a treatmentFor years, the Guardian north of England editor, Josh Halliday, had a secret, unknown even to his friends: that for more than a decade, his father had been suffering from a devastating neurodegenerative disease; and that Halliday feared he had it too.Huntington’s disease is a rare and cruel genetic condition. It can rob people of their voice, their mobility and even their personality. And worse than that, their children are faced with the possibility that one day they could develop the disease as well. Continue reading...",
-            "feed_position": 6
+            "feed_position": 9
           }
         ],
         "ai_summary": [
-          "Josh Halliday discusses Huntington's disease and its impact on his family.",
-          "Halliday's father has been suffering from the neurodegenerative disease.",
-          "Huntington's disease can rob people of their voice and mobility.",
-          "Halliday fears he may develop the disease as well.",
-          "There is now hope for a potential treatment for Huntington's disease."
+          "The Guardian journalist Josh Halliday discusses Huntington's disease.",
+          "The disease has impacted his family.",
+          "He discusses the hope for a treatment.",
+          "His father has suffered from the disease.",
+          "Huntington's disease is a rare genetic condition."
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 06 Oct 2025 00:35:51 GMT",
         "title": "EastEnders' Kellie Bright on the challenges of being parent of an autistic child",
-        "neutral_headline": "Kellie Bright on the challenges of being parent of an autistic child",
+        "neutral_headline": "EastEnders' Kellie Bright on the challenges of being parent of an autistic child",
         "items": [
           {
             "source": "BBC Health",
@@ -300,19 +497,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f006/live/37372320-a07a-11f0-b741-177e3e2c2fc7.jpg",
         "ai_summary": [
-          "Kellie Bright, an actor from EastEnders, discusses autism.",
-          "Bright meets families fighting for their children's education.",
-          "The discussion is part of a BBC Panorama program.",
-          "The program explores the challenges faced by autistic children.",
-          "The program highlights the struggles of families with autistic children."
+          "Kellie Bright discusses challenges of parenting an autistic child.",
+          "The soap actor meets families fighting for their children's education.",
+          "The article is from BBC Panorama.",
+          "The article focuses on the challenges faced by families.",
+          "The article explores the experiences of autistic children."
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sun, 05 Oct 2025 23:00:03 GMT",
         "title": "One in four UK people fear a loved one drinks too much, survey finds",
-        "neutral_headline": "Many in UK fear loved ones drink too much",
+        "neutral_headline": "One in four UK people fear loved one drinks too much",
         "items": [
           {
             "source": "Guardian Health",
@@ -321,23 +518,23 @@
             "title": "One in four UK people fear a loved one drinks too much, survey finds",
             "standfirst": "Poll of 2,000 people appears to underline experts’ concerns of growing ‘epidemic’ of addiction to alcohol or drugsOne in four people in the UK fear that a partner, relative or friend drinks too much, while one in six worry that a loved one is taking too many drugs.The findings, from a representative survey of 2,000 adults, appear to underline what some experts say is a growing “epidemic” of addiction to alcohol or drugs such as cocaine and cannabis.10% worry that they drink too much and 5% that they use drugs too often.26% worry that a partner, family member or friend drinks too much.16% are concerned about a loved one’s use of illegal drugs.Families that earn more than £50,000 a year are three times more likely to contain someone with an addiction problem. Continue reading...",
             "content": "Poll of 2,000 people appears to underline experts’ concerns of growing ‘epidemic’ of addiction to alcohol or drugsOne in four people in the UK fear that a partner, relative or friend drinks too much, while one in six worry that a loved one is taking too many drugs.The findings, from a representative survey of 2,000 adults, appear to underline what some experts say is a growing “epidemic” of addiction to alcohol or drugs such as cocaine and cannabis.10% worry that they drink too much and 5% that they use drugs too often.26% worry that a partner, family member or friend drinks too much.16% are concerned about a loved one’s use of illegal drugs.Families that earn more than £50,000 a year are three times more likely to contain someone with an addiction problem. Continue reading...",
-            "feed_position": 7
+            "feed_position": 10
           }
         ],
         "ai_summary": [
-          "One in four people in the UK worry about a loved one's drinking.",
-          "One in six worry about a loved one's drug use, a survey found.",
-          "Experts suggest this reflects a growing addiction \"epidemic\".",
-          "10% of people worry about their own drinking habits.",
-          "Families earning over £50,000 are more likely to have addiction problems."
+          "One in four people fear a loved one drinks too much.",
+          "One in six worry about a loved one using drugs.",
+          "The survey involved 2,000 adults.",
+          "Some experts say addiction is a growing \"epidemic\".",
+          "Families earning over £50,000 are more at risk."
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Sun, 05 Oct 2025 16:16:56 GMT",
         "title": "Two hours of exercise a week reduces joint pain and visits to GP",
-        "neutral_headline": "Exercise reduces joint pain and GP visits",
+        "neutral_headline": "Two hours of exercise a week reduces joint pain",
         "items": [
           {
             "source": "Guardian Health",
@@ -346,23 +543,23 @@
             "title": "Two hours of exercise a week reduces joint pain and visits to GP",
             "standfirst": "Study looks at how workouts can help those with hip, knee and back pain – and benefit UK economy to tune of £34bnPeople with sore joints who exercise for two hours a week have less pain, visit their GP less and take less sick leave, a study has found.The findings are from an analysis of how 40,000 people across the UK with hip, back or knee pain fared when they did two one-hour exercise classes for 12 weeks.Had on average 35% less pain.Went to see their GP 29% less often.Took almost half as many sick days from work.Needed their family to look after them 21% less. Continue reading...",
             "content": "Study looks at how workouts can help those with hip, knee and back pain – and benefit UK economy to tune of £34bnPeople with sore joints who exercise for two hours a week have less pain, visit their GP less and take less sick leave, a study has found.The findings are from an analysis of how 40,000 people across the UK with hip, back or knee pain fared when they did two one-hour exercise classes for 12 weeks.Had on average 35% less pain.Went to see their GP 29% less often.Took almost half as many sick days from work.Needed their family to look after them 21% less. Continue reading...",
-            "feed_position": 0
+            "feed_position": 11
           }
         ],
         "ai_summary": [
-          "Exercising two hours a week reduces joint pain, a study found.",
-          "Participants had less pain and visited their GP less often.",
-          "The study analyzed 40,000 people with hip, back, or knee pain.",
-          "Participants took fewer sick days from work.",
-          "The study suggests exercise benefits the UK economy by £34 billion."
+          "Exercising two hours weekly reduces joint pain.",
+          "Study looked at people with hip, knee, and back pain.",
+          "Participants had 35% less pain on average.",
+          "They visited their GP 29% less often.",
+          "They took fewer sick days from work."
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sun, 05 Oct 2025 13:00:36 GMT",
         "title": "The truth about vitamin pills: should midlife women start taking supplements – and if so, which ones?",
-        "neutral_headline": "Vitamin pills: should midlife women start taking supplements?",
+        "neutral_headline": "Vitamin Supplements for Midlife Women: Experts Offer Guidance",
         "items": [
           {
             "source": "Guardian Health",
@@ -371,23 +568,23 @@
             "title": "The truth about vitamin pills: should midlife women start taking supplements – and if so, which ones?",
             "standfirst": "The market for supplements is booming and it can be difficult to know which are actually any use. Dietitians give the lowdown on those you should take and those you can ditchI used to proudly eschew health supplements. Doctors always told me that if you eat a healthy diet, you’d only be flushing money down the loo. Studies showed that people who popped multivitamins didn’t live any longer, with some even dying a little younger – a 4% higher mortality risk according to one just last year. But now I’m unequivocally post youth, my supplement intake has crept up to four a day: vitamin D (by NHS decree), magnesium (for sleep, muscle relaxing, brain and stress; pretty sure it’s helping), lion’s mane mushroom (cognition; no idea if it’s working), biotin (hair health; ditto) and I’m considering crowbarring more in if I can afford them. Am I a total sucker, though? Do women really need to start taking supplements when they hit middle age?“There are plenty of reasons why we might need supplements as we age,” says Claire Pettitt, a specialist women’s health dietitian, who works in the UK and Singapore. “It’s not drastic, as if all of a sudden we need a drip,” she says. “But as we age, our body doesn’t work as well, and there are some nutrients, such as vitamin B12 and calcium, that we start to absorb much less efficiently as we get older.” Continue reading...",
             "content": "The market for supplements is booming and it can be difficult to know which are actually any use. Dietitians give the lowdown on those you should take and those you can ditchI used to proudly eschew health supplements. Doctors always told me that if you eat a healthy diet, you’d only be flushing money down the loo. Studies showed that people who popped multivitamins didn’t live any longer, with some even dying a little younger – a 4% higher mortality risk according to one just last year. But now I’m unequivocally post youth, my supplement intake has crept up to four a day: vitamin D (by NHS decree), magnesium (for sleep, muscle relaxing, brain and stress; pretty sure it’s helping), lion’s mane mushroom (cognition; no idea if it’s working), biotin (hair health; ditto) and I’m considering crowbarring more in if I can afford them. Am I a total sucker, though? Do women really need to start taking supplements when they hit middle age?“There are plenty of reasons why we might need supplements as we age,” says Claire Pettitt, a specialist women’s health dietitian, who works in the UK and Singapore. “It’s not drastic, as if all of a sudden we need a drip,” she says. “But as we age, our body doesn’t work as well, and there are some nutrients, such as vitamin B12 and calcium, that we start to absorb much less efficiently as we get older.” Continue reading...",
-            "feed_position": 8
+            "feed_position": 12
           }
         ],
         "ai_summary": [
-          "The market for supplements is booming, and it can be confusing.",
-          "Dietitians offer advice on which supplements are useful.",
-          "The author takes vitamin D, magnesium, and other supplements.",
-          "Some experts believe supplements are unnecessary with a good diet.",
-          "As people age, their bodies absorb certain nutrients less efficiently."
+          "Supplement market is booming, making it difficult to determine which are beneficial for health.",
+          "Studies show multivitamin users did not live longer, some even had a slightly higher mortality risk.",
+          "As people age, bodies may not function as well, impacting nutrient absorption like B12 and calcium.",
+          "A specialist dietitian notes that supplements are not always necessary, but can be helpful.",
+          "The author takes vitamin D, magnesium, lion's mane mushroom, and biotin daily."
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sun, 05 Oct 2025 11:00:33 GMT",
         "title": "‘We all need someone’: the hairdressers tackling stigma of mental health issues in west Africa",
-        "neutral_headline": "Hairdressers tackle stigma of mental health issues in west Africa",
+        "neutral_headline": "‘We all need someone’: the hairdressers tackling stigma of mental health issues in west Africa",
         "items": [
           {
             "source": "Guardian Health",
@@ -396,177 +593,21 @@
             "title": "‘We all need someone’: the hairdressers tackling stigma of mental health issues in west Africa",
             "standfirst": "In Cameroon, Ivory Coast and Togo, where therapy services are almost absent, some stylists are being trained to listen, comfort and guideYopougon, the largest of Abidjan’s 13 communes, with a population of 1.5 million, is known for its entrepreneurial grit, its bubbly nightlife and, in pop culture, as being the birthplace of Francophone Africa’s most popular comic character, Aya de Yopougon.Beneath the bustle, it is also home to another taboo-busting pioneer: 49-year-old Adjoua Catherine Tano, a hairdresser who has spent two decades offering mental health advice, or just listening quietly as she cuts her clients’ hair. Continue reading...",
             "content": "In Cameroon, Ivory Coast and Togo, where therapy services are almost absent, some stylists are being trained to listen, comfort and guideYopougon, the largest of Abidjan’s 13 communes, with a population of 1.5 million, is known for its entrepreneurial grit, its bubbly nightlife and, in pop culture, as being the birthplace of Francophone Africa’s most popular comic character, Aya de Yopougon.Beneath the bustle, it is also home to another taboo-busting pioneer: 49-year-old Adjoua Catherine Tano, a hairdresser who has spent two decades offering mental health advice, or just listening quietly as she cuts her clients’ hair. Continue reading...",
-            "feed_position": 9
+            "feed_position": 13
           }
         ],
         "ai_summary": [
-          "Hairdressers in West Africa are being trained to offer mental health support.",
-          "Therapy services are limited in Cameroon, Ivory Coast, and Togo.",
-          "Stylists are trained to listen, comfort, and guide clients.",
-          "Adjoua Catherine Tano has offered mental health advice for two decades.",
-          "The initiative aims to address the lack of mental health resources."
-        ]
-      },
-      {
-        "id": "cluster_12",
-        "coverage": 1,
-        "updated_at": "Sun, 05 Oct 2025 05:00:26 GMT",
-        "title": "I am three months sober. How do I support my 11-year-old autistic son? | Ask Annalisa Barbieri",
-        "neutral_headline": "How do I support my 11-year-old autistic son?",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2025/oct/05/i-am-three-months-sober-how-do-i-support-my-11-year-old-autistic-son",
-            "published_at": "Sun, 05 Oct 2025 05:00:26 GMT",
-            "title": "I am three months sober. How do I support my 11-year-old autistic son? | Ask Annalisa Barbieri",
-            "standfirst": "Your son’s autism may make it even harder to navigate this situation. Try to show him things are better, rather than just telling himI am a recovering alcoholic and need advice on how to support my son, who is 11 and autistic. I am three months sober with the help of rehab and AA, but my drinking became heavy over the last two years (I was sober for the first six years of my son’s life).Towards the end, my drinking was 24/7 and my son has sadly seen me out of control and desperately unhappy. He developed a sense of responsibility, that he was the only person who could stop me drinking (by physically removing bottles), which I feel utterly ashamed about. I have said to him many times that the only person who can stop me drinking is me. Continue reading...",
-            "content": "Your son’s autism may make it even harder to navigate this situation. Try to show him things are better, rather than just telling himI am a recovering alcoholic and need advice on how to support my son, who is 11 and autistic. I am three months sober with the help of rehab and AA, but my drinking became heavy over the last two years (I was sober for the first six years of my son’s life).Towards the end, my drinking was 24/7 and my son has sadly seen me out of control and desperately unhappy. He developed a sense of responsibility, that he was the only person who could stop me drinking (by physically removing bottles), which I feel utterly ashamed about. I have said to him many times that the only person who can stop me drinking is me. Continue reading...",
-            "feed_position": 10
-          }
-        ],
-        "ai_summary": [
-          "The author is three months sober and seeking advice.",
-          "The author's son is 11 years old and has autism.",
-          "The author's drinking became heavy over the last two years.",
-          "The son witnessed the author's struggles with alcohol.",
-          "The author seeks guidance on supporting her son's well-being."
-        ]
-      },
-      {
-        "id": "cluster_13",
-        "coverage": 1,
-        "updated_at": "Sun, 05 Oct 2025 00:28:17 GMT",
-        "title": "The before and after images showing glaciers vanishing before our eyes",
-        "neutral_headline": "Glaciers Vanishing Rapidly, Changing Landscapes Globally",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/ce32ezzq6zlo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 05 Oct 2025 00:28:17 GMT",
-            "title": "The before and after images showing glaciers vanishing before our eyes",
-            "standfirst": "They are melting like never seen before, changing landscapes around the world beyond recognition.",
-            "content": "They are melting like never seen before, changing landscapes around the world beyond recognition.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20d7/live/a19d9d30-a07e-11f0-b741-177e3e2c2fc7.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20d7/live/a19d9d30-a07e-11f0-b741-177e3e2c2fc7.jpg",
-        "ai_summary": [
-          "Images show glaciers melting at unprecedented rates, altering global landscapes significantly.",
-          "Melting glaciers are causing substantial changes to environments worldwide, visible in before-and-after photos.",
-          "The visual evidence highlights the dramatic impact of climate change on glacial ice.",
-          "The transformations are occurring at a pace never before witnessed, according to reports.",
-          "These changes are altering the natural world, with significant consequences for ecosystems."
-        ]
-      },
-      {
-        "id": "cluster_14",
-        "coverage": 1,
-        "updated_at": "Sat, 04 Oct 2025 23:05:38 GMT",
-        "title": "What exactly is freshers' flu - and why do so many get it?",
-        "neutral_headline": "Freshers' Flu: Understanding the Illness Affecting Students",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c147218x7rgo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sat, 04 Oct 2025 23:05:38 GMT",
-            "title": "What exactly is freshers' flu - and why do so many get it?",
-            "standfirst": "It's not the actual flu, and it's rarely serious, but when thousands of students arrive on campus they bring a cocktail of viruses.",
-            "content": "It's not the actual flu, and it's rarely serious, but when thousands of students arrive on campus they bring a cocktail of viruses.",
-            "feed_position": 3,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c9b/live/2dd015c0-a0b2-11f0-ac11-a11de8fbd7b8.png"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c9b/live/2dd015c0-a0b2-11f0-ac11-a11de8fbd7b8.png",
-        "ai_summary": [
-          "Freshers' flu is not the actual flu, but a collection of viruses.",
-          "The illness is common among students arriving on campus.",
-          "It is rarely serious, despite affecting many new students.",
-          "Students bring a variety of viruses when they arrive at university.",
-          "The illness is a common experience for many new university students."
-        ]
-      },
-      {
-        "id": "cluster_15",
-        "coverage": 1,
-        "updated_at": "Sat, 04 Oct 2025 21:04:44 GMT",
-        "title": "Environment prize nominees 'heroes of our time', says William",
-        "neutral_headline": "William Calls Environment Prize Nominees \"Heroes",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cz08591znr8o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sat, 04 Oct 2025 21:04:44 GMT",
-            "title": "Environment prize nominees 'heroes of our time', says William",
-            "standfirst": "Fifteen projects are shortlisted for a chance of winning the top £1m prizes at next month's environmental awards ceremony in Rio de Janeiro.",
-            "content": "Fifteen projects are shortlisted for a chance of winning the top £1m prizes at next month's environmental awards ceremony in Rio de Janeiro.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86a5/live/4f93edc0-a16c-11f0-b741-177e3e2c2fc7.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86a5/live/4f93edc0-a16c-11f0-b741-177e3e2c2fc7.jpg",
-        "ai_summary": [
-          "Fifteen projects are shortlisted for the environmental awards.",
-          "The projects are competing for the top £1 million prizes.",
-          "The awards ceremony will be held in Rio de Janeiro next month.",
-          "William described the nominees as \"heroes of our time\".",
-          "The prize recognizes environmental efforts and initiatives."
-        ]
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Sat, 04 Oct 2025 16:27:32 GMT",
-        "title": "Costco to sell weight-loss drugs such as Ozempic and Wegovy at half-price",
-        "neutral_headline": "Costco to sell weight-loss drugs such as Ozempic and Wegovy at half-price",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/us-news/2025/oct/04/costco-ozempic-wegovy",
-            "published_at": "Sat, 04 Oct 2025 16:27:32 GMT",
-            "title": "Costco to sell weight-loss drugs such as Ozempic and Wegovy at half-price",
-            "standfirst": "The move comes as GLP-1 drug prices have soared as supply continues to be increasingly limitedCostco has struck an agreement with drugmaker Novo Nordisk to make anti-obesity GLP-1 medications such as Ozempic and Wegovy available to its members at roughly half the usual cost.Through the store’s prescription program, members with a valid prescription can buy a four-week supply of the injectables for $499. The offer is available only to those paying out of pocket, since many insurers still do not cover these medications. Continue reading...",
-            "content": "The move comes as GLP-1 drug prices have soared as supply continues to be increasingly limitedCostco has struck an agreement with drugmaker Novo Nordisk to make anti-obesity GLP-1 medications such as Ozempic and Wegovy available to its members at roughly half the usual cost.Through the store’s prescription program, members with a valid prescription can buy a four-week supply of the injectables for $499. The offer is available only to those paying out of pocket, since many insurers still do not cover these medications. Continue reading...",
-            "feed_position": 11
-          }
-        ],
-        "ai_summary": [
-          "Costco will offer GLP-1 drugs like Ozempic and Wegovy at reduced prices.",
-          "The medications will be available to members with valid prescriptions.",
-          "A four-week supply of the injectables will cost $499.",
-          "The offer is for those paying out of pocket, not those with insurance.",
-          "The move comes as GLP-1 drug prices have increased due to limited supply."
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Sat, 04 Oct 2025 12:00:05 GMT",
-        "title": "Advocates raise alarm over Pfas pollution from datacenters amid AI boom",
-        "neutral_headline": "Advocates raise alarm over Pfas pollution from datacenters amid AI boom",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/environment/2025/oct/04/pfas-pollution-data-centers-ai",
-            "published_at": "Sat, 04 Oct 2025 12:00:05 GMT",
-            "title": "Advocates raise alarm over Pfas pollution from datacenters amid AI boom",
-            "standfirst": "Tech companies’ use of Pfas gas at facilities may mean datacenters’ climate impact is worse than previously thoughtDatacenters’ electricity demands have been accused of delaying the US’s transition to clean energy and requiring fossil fuel plants to stay online, while their high level of water consumption has also raised alarm. Now public health advocates fear another environmental problem could be linked to them – Pfas “forever chemical” pollution.Big tech companies like Google, Microsoft and Amazon often need datacenters to store servers and networking equipment that process the world’s digital traffic, and the artificial intelligence boom is driving demand for more facilities. Continue reading...",
-            "content": "Tech companies’ use of Pfas gas at facilities may mean datacenters’ climate impact is worse than previously thoughtDatacenters’ electricity demands have been accused of delaying the US’s transition to clean energy and requiring fossil fuel plants to stay online, while their high level of water consumption has also raised alarm. Now public health advocates fear another environmental problem could be linked to them – Pfas “forever chemical” pollution.Big tech companies like Google, Microsoft and Amazon often need datacenters to store servers and networking equipment that process the world’s digital traffic, and the artificial intelligence boom is driving demand for more facilities. Continue reading...",
-            "feed_position": 12
-          }
-        ],
-        "ai_summary": [
-          "Datacenters' use of Pfas gas may worsen their climate impact.",
-          "Datacenters' electricity demands delay the US's clean energy transition.",
-          "High water consumption by datacenters has raised concerns.",
-          "Public health advocates fear Pfas \"forever chemical\" pollution.",
-          "Big tech companies use datacenters for digital traffic processing."
+          "In Cameroon, Ivory Coast, and Togo, therapy services are nearly nonexistent for many people.",
+          "Some stylists are being trained to listen, comfort, and guide people with mental health issues.",
+          "Yopougon, the largest commune in Abidjan, has a population of 1.5 million people.",
+          "Adjoua Catherine Tano, a hairdresser, has offered mental health advice for two decades.",
+          "Tano provides a safe space for clients to discuss their mental health while getting their hair done."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-10-06T11:16:03.146Z",
+    "updated_at": "2025-10-06T19:15:06.382Z",
     "clusters": []
   }
 }
