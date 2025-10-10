@@ -1,13 +1,40 @@
 {
   "clinical": {
-    "updated_at": "2025-10-10T03:32:21.447Z",
+    "updated_at": "2025-10-10T07:18:14.138Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-10-10T03:32:40.360Z",
+    "updated_at": "2025-10-10T07:18:31.541Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Fri, 10 Oct 2025 05:46:45 GMT",
+        "title": "‘More must be done’: RACGP calls for mental health support boost",
+        "neutral_headline": "‘More must be done’: RACGP calls for mental health support boost",
+        "items": [
+          {
+            "source": "newsGP",
+            "url": "https://www1.racgp.org.au/newsgp/professional/more-must-be-done-racgp-calls-for-mental-health-su?feed=RACGPnewsGPArticles",
+            "published_at": "Fri, 10 Oct 2025 05:46:45 GMT",
+            "title": "‘More must be done’: RACGP calls for mental health support boost",
+            "standfirst": "Higher rebates for longer GP consults is one step among many needed to overcome mental healthcare challenges in the bush.",
+            "content": "Higher rebates for longer GP consults is one step among many needed to overcome mental healthcare challenges in the bush.",
+            "feed_position": 0,
+            "image_url": "https://www1.racgp.org.au/getattachment/c8b99b0b-993c-4161-9db9-55bef52eb24f/More-must-be-done-RACGP-calls-for-mental-health-support-boost.aspx"
+          }
+        ],
+        "featured_image": "https://www1.racgp.org.au/getattachment/c8b99b0b-993c-4161-9db9-55bef52eb24f/More-must-be-done-RACGP-calls-for-mental-health-support-boost.aspx",
+        "ai_summary": [
+          "The Royal Australian College of General Practitioners (RACGP) calls for increased mental health support.",
+          "Higher rebates for longer GP consultations are suggested as a step forward.",
+          "The RACGP highlights the need to overcome mental healthcare challenges in rural areas.",
+          "The organization emphasizes the importance of improving mental health services.",
+          "The RACGP advocates for comprehensive strategies to address mental health needs."
+        ]
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Fri, 10 Oct 2025 01:28:58 GMT",
         "title": "DoHDA to send ‘early intervention letters’ in October",
@@ -20,14 +47,21 @@
             "title": "DoHDA to send ‘early intervention letters’ in October",
             "standfirst": "The Department of Health, Disability and Ageing is advising recipients to take proactive steps to identify incorrect &lsquo;moiety&rsquo; claims and put them right.",
             "content": "The Department of Health, Disability and Ageing is advising recipients to take proactive steps to identify incorrect &lsquo;moiety&rsquo; claims and put them right.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://www1.racgp.org.au/getattachment/e6aa756a-a443-4641-b297-5ce55921f86d/DoHDA-to-send-early-intervention-letters-in-October.aspx"
           }
         ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/e6aa756a-a443-4641-b297-5ce55921f86d/DoHDA-to-send-early-intervention-letters-in-October.aspx"
+        "featured_image": "https://www1.racgp.org.au/getattachment/e6aa756a-a443-4641-b297-5ce55921f86d/DoHDA-to-send-early-intervention-letters-in-October.aspx",
+        "ai_summary": [
+          "The Department of Health, Disability and Ageing (DoHDA) will send letters.",
+          "These letters are for early intervention regarding incorrect 'moiety' claims.",
+          "Recipients are advised to take proactive steps to correct any errors.",
+          "The DoHDA aims to address and rectify incorrect claims.",
+          "The initiative focuses on ensuring accurate claim submissions."
+        ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Fri, 10 Oct 2025 00:22:42 GMT",
         "title": "How can your practice improve data quality and sharing?",
@@ -40,14 +74,21 @@
             "title": "How can your practice improve data quality and sharing?",
             "standfirst": "Modern technology is unlocking the full potential of general practice data, but &lsquo;we must keep up&rsquo;, says an RACGP digital health expert.",
             "content": "Modern technology is unlocking the full potential of general practice data, but &lsquo;we must keep up&rsquo;, says an RACGP digital health expert.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://www1.racgp.org.au/getattachment/83caf544-9af2-47b5-839c-380faefa18a9/How-can-your-practice-improve-data-quality-and-sharing.aspx"
           }
         ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/83caf544-9af2-47b5-839c-380faefa18a9/How-can-your-practice-improve-data-quality-and-sharing.aspx"
+        "featured_image": "https://www1.racgp.org.au/getattachment/83caf544-9af2-47b5-839c-380faefa18a9/How-can-your-practice-improve-data-quality-and-sharing.aspx",
+        "ai_summary": [
+          "Modern technology is unlocking the potential of general practice data.",
+          "An RACGP digital health expert emphasizes the need to keep up with advancements.",
+          "The article focuses on improving data quality and sharing practices.",
+          "The discussion centers on leveraging technology for better data management.",
+          "The goal is to enhance the use of data in general practice settings."
+        ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Thu, 09 Oct 2025 05:56:35 GMT",
         "title": "AHPRA walks back telehealth prescribing wording",
@@ -60,24 +101,21 @@
             "title": "AHPRA walks back telehealth prescribing wording",
             "standfirst": "The regulator has clarified that &lsquo;good practice&rsquo; prescribing can occur after a face-to-face, video or phone consultation &ndash; and not just in-person as first indicated.",
             "content": "The regulator has clarified that &lsquo;good practice&rsquo; prescribing can occur after a face-to-face, video or phone consultation &ndash; and not just in-person as first indicated.",
-            "feed_position": 2,
+            "feed_position": 3,
             "image_url": "https://www1.racgp.org.au/getattachment/485e2457-9ff8-4f05-868e-782f0aac5ec7/AHPRA-walks-back-telehealth-prescribing-wording.aspx"
-          },
-          {
-            "source": "newsGP",
-            "url": "https://www1.racgp.org.au/newsgp/professional/ahpra-goes-further-on-telehealth-prescribing-good?feed=RACGPnewsGPArticles",
-            "published_at": "Wed, 08 Oct 2025 06:04:02 GMT",
-            "title": "AHPRA goes further on telehealth prescribing ‘good practice’",
-            "standfirst": "The regulator has flagged the need for a face-to-face consultation prior to prescribing, seemingly contradicting Medical Board guidelines.",
-            "content": "The regulator has flagged the need for a face-to-face consultation prior to prescribing, seemingly contradicting Medical Board guidelines.",
-            "feed_position": 7,
-            "image_url": "https://www1.racgp.org.au/getattachment/dde74bcd-3b93-4376-a51c-b22398cb53ec/AHPRA-goes-further-on-telehealth-prescribing-good-practice.aspx"
           }
         ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/485e2457-9ff8-4f05-868e-782f0aac5ec7/AHPRA-walks-back-telehealth-prescribing-wording.aspx"
+        "featured_image": "https://www1.racgp.org.au/getattachment/485e2457-9ff8-4f05-868e-782f0aac5ec7/AHPRA-walks-back-telehealth-prescribing-wording.aspx",
+        "ai_summary": [
+          "The Australian Health Practitioner Regulation Agency (AHPRA) clarified telehealth prescribing.",
+          "Good practice prescribing can occur after consultations via video or phone.",
+          "The initial indication was that prescribing needed to be in-person.",
+          "The clarification expands the options for prescribing medications.",
+          "The change supports the use of telehealth in healthcare delivery."
+        ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Thu, 09 Oct 2025 05:19:59 GMT",
         "title": "In Practice: Updates to bulk-billing practice signage",
@@ -90,43 +128,138 @@
             "title": "In Practice: Updates to bulk-billing practice signage",
             "standfirst": "Ahead of 1 November bulk billing changes, the Government has released new signage requirements for practices participating in the program.",
             "content": "Ahead of 1 November bulk billing changes, the Government has released new signage requirements for practices participating in the program.",
-            "feed_position": 3,
+            "feed_position": 4,
             "image_url": "https://www1.racgp.org.au/getattachment/10a78d12-9f36-489c-a0ec-6c7d8a035496/In-Practice-Updates-to-bulk-billing-practice-signage.aspx"
           }
         ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/10a78d12-9f36-489c-a0ec-6c7d8a035496/In-Practice-Updates-to-bulk-billing-practice-signage.aspx"
-      },
-      {
-        "id": "cluster_4",
-        "coverage": 1,
-        "updated_at": "Thu, 09 Oct 2025 04:44:22 GMT",
-        "title": "GP awarded for addiction medicine research",
-        "neutral_headline": "GP awarded for addiction medicine research",
-        "items": [
-          {
-            "source": "newsGP",
-            "url": "https://www1.racgp.org.au/newsgp/clinical/gp-awarded-for-addiction-medicine-research?feed=RACGPnewsGPArticles",
-            "published_at": "Thu, 09 Oct 2025 04:44:22 GMT",
-            "title": "GP awarded for addiction medicine research",
-            "standfirst": "A Melbourne GP turned addiction medicine specialist has been acknowledged for his &lsquo;commitment to improving access to care&rsquo;.",
-            "content": "A Melbourne GP turned addiction medicine specialist has been acknowledged for his &lsquo;commitment to improving access to care&rsquo;.",
-            "feed_position": 4,
-            "image_url": "https://www1.racgp.org.au/getattachment/f1c1f697-b25f-4275-9131-7c97f5b1633f/GP-awarded-for-addiction-medicine-research.aspx"
-          }
-        ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/f1c1f697-b25f-4275-9131-7c97f5b1633f/GP-awarded-for-addiction-medicine-research.aspx"
+        "featured_image": "https://www1.racgp.org.au/getattachment/10a78d12-9f36-489c-a0ec-6c7d8a035496/In-Practice-Updates-to-bulk-billing-practice-signage.aspx",
+        "ai_summary": [
+          "The government released new signage requirements for bulk-billing practices.",
+          "The changes are in preparation for bulk billing adjustments on November 1.",
+          "The updates affect practices participating in the bulk-billing program.",
+          "The signage requirements aim to inform patients about billing practices.",
+          "The government is updating practices on the new bulk-billing requirements."
+        ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2025-10-10T03:32:32.596Z",
+    "updated_at": "2025-10-10T07:18:31.607Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Fri, 10 Oct 2025 06:48:16 GMT",
+        "title": "William visibly moved as widow tells of husband's suicide",
+        "neutral_headline": "William visibly moved as widow tells of husband's suicide",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c2ej877g7w1o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 10 Oct 2025 06:48:16 GMT",
+            "title": "William visibly moved as widow tells of husband's suicide",
+            "standfirst": "Prince William's foundation is giving £1m to set up a suicide prevention network.",
+            "content": "Prince William's foundation is giving £1m to set up a suicide prevention network.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/572e/live/8de9a860-a5a6-11f0-b741-177e3e2c2fc7.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/572e/live/8de9a860-a5a6-11f0-b741-177e3e2c2fc7.jpg",
+        "ai_summary": [
+          "Prince William was visibly moved by a widow's account of her husband's suicide.",
+          "Prince William's foundation is providing one million pounds for suicide prevention.",
+          "The funding will be used to establish a suicide prevention network.",
+          "The initiative aims to address and prevent suicide.",
+          "The focus is on supporting those affected by suicide."
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Fri, 10 Oct 2025 05:56:24 GMT",
+        "title": "'It saved me' - how Everton in the Community is changing lives",
+        "neutral_headline": "Everton in the Community supports mental health through club involvement",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/sport/football/videos/cp3qvw5z2vdo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 10 Oct 2025 05:56:24 GMT",
+            "title": "'It saved me' - how Everton in the Community is changing lives",
+            "standfirst": "Everton defender James Tarkowski speaks with lifelong fan Sam to discuss how the club are supporting members of the community with mental health challenges.",
+            "content": "Everton defender James Tarkowski speaks with lifelong fan Sam to discuss how the club are supporting members of the community with mental health challenges.",
+            "feed_position": 100,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ecf/live/6da6f050-a527-11f0-928c-71dbb8619e94.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ecf/live/6da6f050-a527-11f0-928c-71dbb8619e94.jpg",
+        "ai_summary": [
+          "Everton defender James Tarkowski discusses community mental health support.",
+          "The club is helping community members with mental health challenges.",
+          "Tarkowski speaks with a lifelong fan about the program's impact.",
+          "The program aims to change lives through community engagement.",
+          "The discussion highlights the club's role in community well-being."
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Fri, 10 Oct 2025 05:16:55 GMT",
+        "title": "'Marginalised and menopausal' women given spotlight",
+        "neutral_headline": "Women from ethnic communities experience earlier menopause symptoms",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c0ezv14r2pxo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 10 Oct 2025 05:16:55 GMT",
+            "title": "'Marginalised and menopausal' women given spotlight",
+            "standfirst": "Women from ethnic minority communities typically experience perimenopause symptoms earlier and for longer.",
+            "content": "Women from ethnic minority communities typically experience perimenopause symptoms earlier and for longer.",
+            "feed_position": 86,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0414/live/b28826b0-a4f7-11f0-8e74-1f6664d312e9.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0414/live/b28826b0-a4f7-11f0-8e74-1f6664d312e9.jpg",
+        "ai_summary": [
+          "Women from ethnic minority communities often experience perimenopause earlier.",
+          "These women may also experience symptoms for a longer duration.",
+          "The article highlights the experiences of marginalized women.",
+          "The focus is on the impact of perimenopause on these communities.",
+          "The report aims to shed light on this specific demographic's experiences."
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Fri, 10 Oct 2025 05:05:22 GMT",
+        "title": "How singer Calum Scott stays grounded",
+        "neutral_headline": "Calum Scott discusses resilience and staying grounded for mental health",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/videos/c203w8znq0yo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 10 Oct 2025 05:05:22 GMT",
+            "title": "How singer Calum Scott stays grounded",
+            "standfirst": "Singer-songwriter Calum Scott speaks about resilience and staying grounded for World Mental Health Day.",
+            "content": "Singer-songwriter Calum Scott speaks about resilience and staying grounded for World Mental Health Day.",
+            "feed_position": 101,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9a7/live/a041da40-a44e-11f0-b741-177e3e2c2fc7.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9a7/live/a041da40-a44e-11f0-b741-177e3e2c2fc7.jpg",
+        "ai_summary": [
+          "Singer-songwriter Calum Scott speaks about resilience.",
+          "The interview is in recognition of World Mental Health Day.",
+          "Scott discusses strategies for staying grounded.",
+          "The focus is on mental well-being and coping mechanisms.",
+          "The interview aims to promote mental health awareness."
+        ]
+      },
+      {
+        "id": "cluster_4",
+        "coverage": 1,
         "updated_at": "Fri, 10 Oct 2025 00:20:07 GMT",
         "title": "Fossil found on Dorset coast is unique 'sword dragon' species",
-        "neutral_headline": "Fossil found on Dorset coast is unique 'sword dragon' species",
+        "neutral_headline": "Unique \"sword dragon\" fossil discovered on Dorset coast",
         "items": [
           {
             "source": "BBC Science",
@@ -139,14 +272,21 @@
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eb1/live/cdd866d0-a530-11f0-b741-177e3e2c2fc7.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eb1/live/cdd866d0-a530-11f0-b741-177e3e2c2fc7.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eb1/live/cdd866d0-a530-11f0-b741-177e3e2c2fc7.jpg",
+        "ai_summary": [
+          "Scientists found a unique species of marine reptile fossil.",
+          "The fossil was discovered on the Dorset coast.",
+          "The species is nicknamed the \"sword dragon\".",
+          "Scientists believe the reptile met a grisly end.",
+          "The discovery adds to the understanding of marine life."
+        ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Thu, 09 Oct 2025 23:45:15 GMT",
         "title": "How 20 minutes of nature can boost your health",
-        "neutral_headline": "How 20 minutes of nature can boost your health",
+        "neutral_headline": "Spending time in nature can boost health benefits",
         "items": [
           {
             "source": "BBC Health",
@@ -155,18 +295,25 @@
             "title": "How 20 minutes of nature can boost your health",
             "standfirst": "Spending just 20 minutes in nature can lower blood pressure, heart rate and stress levels.",
             "content": "Spending just 20 minutes in nature can lower blood pressure, heart rate and stress levels.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfa1/live/aaf4fca0-a387-11f0-a56f-0b1b78ebdf89.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfa1/live/aaf4fca0-a387-11f0-a56f-0b1b78ebdf89.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfa1/live/aaf4fca0-a387-11f0-a56f-0b1b78ebdf89.jpg",
+        "ai_summary": [
+          "Spending 20 minutes in nature can improve health.",
+          "Nature exposure lowers blood pressure.",
+          "It also reduces heart rate.",
+          "Stress levels are also reduced by nature exposure.",
+          "The study highlights the benefits of nature."
+        ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Thu, 09 Oct 2025 18:06:04 GMT",
         "title": "Naked mole rats' DNA could hold key to long life",
-        "neutral_headline": "Naked mole rats' DNA could hold key to long life",
+        "neutral_headline": "Naked mole rats' DNA may hold key to long life",
         "items": [
           {
             "source": "BBC Science",
@@ -179,10 +326,17 @@
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1e4/live/bb740ed0-a4fa-11f0-b741-177e3e2c2fc7.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1e4/live/bb740ed0-a4fa-11f0-b741-177e3e2c2fc7.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1e4/live/bb740ed0-a4fa-11f0-b741-177e3e2c2fc7.jpg",
+        "ai_summary": [
+          "Naked mole rats are the world's longest-lived rodent.",
+          "Their DNA could hold secrets to longevity.",
+          "The rats are bald and live underground.",
+          "Research focuses on their extended lifespan.",
+          "The study aims to understand aging processes."
+        ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Thu, 09 Oct 2025 16:59:55 GMT",
         "title": "Dismay and anger over Labour’s visa plans | Letters",
@@ -197,14 +351,21 @@
             "content": "Florence Graham, who works in the NHS, on why she fears she will lose her job and her homeAs an immigrant working in the NHS on a health and care visa, I am dismayed, disappointed, angry and terrified by Labour’s immigration reform proposals, due to their potential impact on me, on other immigrants and on all British society (NHS could cease to function under Labour’s new visa rules, say nurses, 6 October).Until the immigration white paper was published, I naively assumed that anti-immigrant sentiment was restricted to the Tories and Reform UK. When Labour came to power, I felt tremendous relief and a budding sense of safety and optimism. I soon learned how naive I was. Betrayed and used, I now fear that I will lose my job and my home. Continue reading...",
             "feed_position": 0
           }
+        ],
+        "ai_summary": [
+          "An NHS worker expresses dismay over Labour's immigration reform proposals.",
+          "The worker fears losing her job and home due to the proposed changes.",
+          "The author felt relief when Labour came to power, but now feels betrayed.",
+          "The author is an immigrant working in the NHS on a health and care visa.",
+          "The proposals could impact immigrants and British society."
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Thu, 09 Oct 2025 16:00:00 GMT",
         "title": "BBC Inside Science",
-        "neutral_headline": "BBC Inside Science",
+        "neutral_headline": "Renewables overtake coal as the world’s biggest electricity source",
         "items": [
           {
             "source": "BBC Science",
@@ -217,10 +378,17 @@
             "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
+        "ai_summary": [
+          "Renewables have surpassed coal as the main electricity source.",
+          "This shift represents a significant change in energy production.",
+          "The change is a global trend in electricity generation.",
+          "The report highlights the rise of renewable energy.",
+          "Coal's decline marks a shift in energy sources."
+        ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 09 Oct 2025 12:00:24 GMT",
         "title": "Alarm as CDC calls for separate MMR vaccines despite measles outbreak",
@@ -235,10 +403,17 @@
             "content": "Concerns that three separate shots would be more costly and time-consuming, and keep kids from being vaccinatedThe measles, mumps and rubella (MMR) vaccine is undergoing more scrutiny by the Trump administration in their ongoing reassessment of vaccines despite the worst measles outbreak in decades.Jim O’Neill, the deputy secretary of the US Department of Health and Human Services (HHS) and the acting director of the US Centers for Disease Control and Prevention (CDC), called on Monday for new vaccines to replace the current MMR shots. Continue reading...",
             "feed_position": 1
           }
+        ],
+        "ai_summary": [
+          "The CDC is calling for separate MMR vaccines.",
+          "Concerns exist about increased costs and time.",
+          "The current MMR vaccine is under scrutiny.",
+          "The measles outbreak is the worst in decades.",
+          "The Trump administration is reassessing vaccines."
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 09 Oct 2025 11:03:36 GMT",
         "title": "Miranda Hart on the healing power of nature walks",
@@ -251,18 +426,25 @@
             "title": "Miranda Hart on the healing power of nature walks",
             "standfirst": "Miranda Hart is interviewed about her recovery from fatigue on Woman's Hour",
             "content": "Miranda Hart is interviewed about her recovery from fatigue on Woman's Hour",
-            "feed_position": 100,
+            "feed_position": 102,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19db/live/20d4b490-a4fc-11f0-92db-77261a15b9d2.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19db/live/20d4b490-a4fc-11f0-92db-77261a15b9d2.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19db/live/20d4b490-a4fc-11f0-92db-77261a15b9d2.jpg",
+        "ai_summary": [
+          "Miranda Hart discusses nature's healing power.",
+          "She was interviewed on Woman's Hour.",
+          "The interview focuses on her recovery from fatigue.",
+          "Hart shares her experience with nature walks.",
+          "The discussion highlights the benefits of nature."
+        ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 09 Oct 2025 10:24:23 GMT",
         "title": "NHS waiting list rises for third month in row",
-        "neutral_headline": "NHS waiting list rises for third month in row",
+        "neutral_headline": "NHS waiting list rises for third month in a row",
         "items": [
           {
             "source": "BBC Health",
@@ -271,14 +453,21 @@
             "title": "NHS waiting list rises for third month in row",
             "standfirst": "Numbers waiting for treatment hit 7.41 million in England at the end of August.",
             "content": "Numbers waiting for treatment hit 7.41 million in England at the end of August.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2f1/live/3869b8b0-a4f9-11f0-8e74-1f6664d312e9.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2f1/live/3869b8b0-a4f9-11f0-8e74-1f6664d312e9.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2f1/live/3869b8b0-a4f9-11f0-8e74-1f6664d312e9.jpg",
+        "ai_summary": [
+          "NHS waiting lists increased for the third month.",
+          "The number waiting for treatment reached 7.41 million.",
+          "This data is from the end of August in England.",
+          "The increase indicates ongoing healthcare challenges.",
+          "The report highlights the growing demand for care."
+        ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 09 Oct 2025 10:08:18 GMT",
         "title": "My eating disorder made me good at lying, says Victoria Beckham",
@@ -295,14 +484,21 @@
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43cc/live/0f472f90-a4fd-11f0-b741-177e3e2c2fc7.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43cc/live/0f472f90-a4fd-11f0-b741-177e3e2c2fc7.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43cc/live/0f472f90-a4fd-11f0-b741-177e3e2c2fc7.jpg",
+        "ai_summary": [
+          "Victoria Beckham discusses her eating disorder.",
+          "She says the disorder made her good at lying.",
+          "A new Netflix documentary features Beckham.",
+          "The documentary is under the shadow of a family feud.",
+          "The interview reveals personal struggles."
+        ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 09 Oct 2025 10:01:24 GMT",
         "title": "Here’s the direct effect of our NHS blame culture: babies die. Tragedy after tragedy, it can’t go on | Jeremy Hunt",
-        "neutral_headline": "Here’s the direct effect of our NHS blame culture: babies die. Tragedy after tragedy,...",
+        "neutral_headline": "Here’s the direct effect of our NHS blame culture: babies die. Tragedy after tragedy, it can’t go on | Jeremy Hunt",
         "items": [
           {
             "source": "Guardian Health",
@@ -313,10 +509,17 @@
             "content": "Until staff are unafraid to be open about genuine mistakes, however devastating, nothing will be learned – and nothing will changeLucian Leape, a pioneer in patient safety, once said the single greatest impediment to error prevention in the medical industry is that “we punish people for making mistakes.” He was right. In my experience as health secretary, the biggest barrier to safer care in the NHS wasn’t a lack of expertise or dedication. It wasn’t – by the end – a lack of money or even clinicians. It was a blame culture that stopped people being open about mistakes. That prevents professionals from learning from tragedies and condemns the system to repeating them.At the start of Baby Loss Awareness Week, we should remember that the number of tragedies remains heartbreaking. Including stillbirths, there are 4870 baby deaths every year in the UK – around 13 every day. Some of these would have happened with the best of care, but many more could have been avoided. And every single one leaves behind devastated parents who must do what no human being should ever have to do – bury their own child.Jeremy Hunt served as secretary of state for health, later secretary of state for health and social care, from 2012 to 2018 Continue reading...",
             "feed_position": 2
           }
+        ],
+        "ai_summary": [
+          "Jeremy Hunt discusses the NHS blame culture.",
+          "He states that the blame culture prevents learning from mistakes.",
+          "The article highlights the number of baby deaths in the UK.",
+          "Hunt served as health secretary from 2012 to 2018.",
+          "The article calls for openness about mistakes to improve care."
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 09 Oct 2025 09:53:39 GMT",
         "title": "Water bills to rise further for millions after appeal",
@@ -333,14 +536,21 @@
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/357a/live/0446f820-a4d3-11f0-9f74-77bc8773bf41.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/357a/live/0446f820-a4d3-11f0-9f74-77bc8773bf41.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/357a/live/0446f820-a4d3-11f0-9f74-77bc8773bf41.jpg",
+        "ai_summary": [
+          "Water bills will increase for millions of people.",
+          "Five water companies won permission for higher bills.",
+          "The companies seek funds to fix infrastructure.",
+          "The infrastructure is outdated and needs repair.",
+          "The increase will affect water consumers."
+        ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 09 Oct 2025 05:18:07 GMT",
         "title": "'I missed a £100 council tax bill while in hospital – the debt ballooned to £6k'",
-        "neutral_headline": "'I missed a £100 council tax bill while in hospital – the debt ballooned to £6k'",
+        "neutral_headline": "I missed a £100 council tax bill while in hospital – the debt ballooned to £6k",
         "items": [
           {
             "source": "BBC Health",
@@ -353,10 +563,17 @@
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75f/live/c8448030-a465-11f0-8c79-29eeaf2ea52d.png"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75f/live/c8448030-a465-11f0-8c79-29eeaf2ea52d.png"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75f/live/c8448030-a465-11f0-8c79-29eeaf2ea52d.png",
+        "ai_summary": [
+          "A person's council tax debt increased significantly.",
+          "The debt grew from £100 to £6,000.",
+          "The bill was missed while in hospital.",
+          "The government is taking action on collection practices.",
+          "The report highlights aggressive debt collection."
+        ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 09 Oct 2025 04:00:14 GMT",
         "title": "Look out for number one! Selfish self-help books are booming – but will they improve your life?",
@@ -374,7 +591,7 @@
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 09 Oct 2025 02:00:11 GMT",
         "title": "What are ultra-processed foods doing to our bodies? – podcast",
@@ -392,7 +609,7 @@
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Wed, 08 Oct 2025 23:50:33 GMT",
         "title": "Trump to visit Walter Reed for ‘routine yearly checkup’, the second since April",
@@ -410,7 +627,7 @@
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Wed, 08 Oct 2025 23:10:14 GMT",
         "title": "'My eyesight might have been saved if I'd gone to the optician sooner'",
@@ -423,92 +640,16 @@
             "title": "'My eyesight might have been saved if I'd gone to the optician sooner'",
             "standfirst": "Gail Cairns started experiencing sight loss, headaches, and eye pain, but did not go to an optician when she first had symptoms.",
             "content": "Gail Cairns started experiencing sight loss, headaches, and eye pain, but did not go to an optician when she first had symptoms.",
-            "feed_position": 5,
+            "feed_position": 6,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a7e/live/02e28580-a528-11f0-92db-77261a15b9d2.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a7e/live/02e28580-a528-11f0-92db-77261a15b9d2.jpg"
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Wed, 08 Oct 2025 21:02:22 GMT",
-        "title": "King Charles hopes nature film will 'inspire' viewers",
-        "neutral_headline": "King Charles hopes nature film will 'inspire' viewers",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cd63dxxv9jpo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 08 Oct 2025 21:02:22 GMT",
-            "title": "King Charles hopes nature film will 'inspire' viewers",
-            "standfirst": "The King is to appear in an Amazon documentary encouraging people to work with rather than against nature.",
-            "content": "The King is to appear in an Amazon documentary encouraging people to work with rather than against nature.",
-            "feed_position": 3,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f200/live/8e426b80-a44d-11f0-8a21-ff96e44d1cc2.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f200/live/8e426b80-a44d-11f0-8a21-ff96e44d1cc2.jpg"
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Wed, 08 Oct 2025 20:10:11 GMT",
-        "title": "NHS could pay 25% more for medicines under plan to end row with drugmakers and Trump",
-        "neutral_headline": "NHS could pay 25% more for medicines under plan to end row with drugmakers and Trump",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/business/2025/oct/08/nhs-could-pay-25-more-for-medicines-under-plan-to-end-row-with-drugmakers-and-trump",
-            "published_at": "Wed, 08 Oct 2025 20:10:11 GMT",
-            "title": "NHS could pay 25% more for medicines under plan to end row with drugmakers and Trump",
-            "standfirst": "UK ministers preparing to raise payments to end standoff with pharma industry, cited as reason for firms axing British investmentsMinisters are preparing to raise the amount the NHS pays pharmaceutical firms for medicines by up to 25% after weeks of intensive talks with the Donald Trump administration and drugmakers.Labour has drawn up fresh proposals to end a standoff with the industry over drug pricing, including changing the cost-effectiveness thresholds under which new medications are assessed for use on the NHS, according to industry sources. Continue reading...",
-            "content": "UK ministers preparing to raise payments to end standoff with pharma industry, cited as reason for firms axing British investmentsMinisters are preparing to raise the amount the NHS pays pharmaceutical firms for medicines by up to 25% after weeks of intensive talks with the Donald Trump administration and drugmakers.Labour has drawn up fresh proposals to end a standoff with the industry over drug pricing, including changing the cost-effectiveness thresholds under which new medications are assessed for use on the NHS, according to industry sources. Continue reading...",
-            "feed_position": 6
-          }
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Wed, 08 Oct 2025 18:42:37 GMT",
-        "title": "Children harmed by decision to redeploy health visitors, Covid inquiry hears",
-        "neutral_headline": "Children harmed by decision to redeploy health visitors, Covid inquiry hears",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c1jz3n126kwo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 08 Oct 2025 18:42:37 GMT",
-            "title": "Children harmed by decision to redeploy health visitors, Covid inquiry hears",
-            "standfirst": "Some children paid \"the highest price\" of death because of redeployments, says health visiting charity head.",
-            "content": "Some children paid \"the highest price\" of death because of redeployments, says health visiting charity head.",
-            "feed_position": 2,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c97/live/867a0080-a465-11f0-8c79-29eeaf2ea52d.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c97/live/867a0080-a465-11f0-8c79-29eeaf2ea52d.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Wed, 08 Oct 2025 16:58:56 GMT",
-        "title": "Can’t sleep? Turn on, tune in and drop off | Letters",
-        "neutral_headline": "Can’t sleep? Turn on, tune in and drop off | Letters",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2025/oct/08/cant-sleep-turn-on-tune-in-and-drop-off",
-            "published_at": "Wed, 08 Oct 2025 16:58:56 GMT",
-            "title": "Can’t sleep? Turn on, tune in and drop off | Letters",
-            "standfirst": "Gillian Greenfield on coping with maintenance insomnia and Michael Peel on our changing sleeping habitsRe your article (Why do I keep waking up at 2am – and how do I get back to sleep?, 1 October), I too have maintenance insomnia and used to spend the wee small hours ruminating on all kinds of real or imagined worries. Then radio on demand changed my life. Your brain simply can’t process two things at once, and I now I have a wealth of shows to choose from that have my attention and prevent the anxiety from creeping in.I still miss some sleep, but I enjoy the time that I have listening to all the shows I never have time to devote attention to during the day. And I often drop off again mid‑programme without the worry of finding my “page” again, as with an audiobook. It might be worth a try for others.Gillian GreenfieldHaydon Bridge, Northumberland Continue reading...",
-            "content": "Gillian Greenfield on coping with maintenance insomnia and Michael Peel on our changing sleeping habitsRe your article (Why do I keep waking up at 2am – and how do I get back to sleep?, 1 October), I too have maintenance insomnia and used to spend the wee small hours ruminating on all kinds of real or imagined worries. Then radio on demand changed my life. Your brain simply can’t process two things at once, and I now I have a wealth of shows to choose from that have my attention and prevent the anxiety from creeping in.I still miss some sleep, but I enjoy the time that I have listening to all the shows I never have time to devote attention to during the day. And I often drop off again mid‑programme without the worry of finding my “page” again, as with an audiobook. It might be worth a try for others.Gillian GreenfieldHaydon Bridge, Northumberland Continue reading...",
-            "feed_position": 7
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-10-10T03:32:40.360Z",
+    "updated_at": "2025-10-10T07:18:31.607Z",
     "clusters": []
   }
 }
