@@ -1,8 +1,8 @@
 {
-  "updated_at": "2025-10-12T19:14:06.225Z",
+  "updated_at": "2025-10-12T23:16:40.192Z",
   "clusters": [
     {
-      "id": "cluster_1",
+      "id": "cluster_10",
       "coverage": 2,
       "updated_at": "Sun, 12 Oct 2025 19:00:00 GMT",
       "title": "We keep talking about AI agents, but do we ever know what they are?",
@@ -20,12 +20,22 @@
         },
         {
           "source": "VentureBeat",
+          "url": "https://venturebeat.com/ai/heres-whats-slowing-down-your-ai-strategy-and-how-to-fix-it",
+          "published_at": "Sun, 12 Oct 2025 07:00:00 GMT",
+          "title": "Here's what's slowing down your AI strategy — and how to fix it",
+          "standfirst": "Your best data science team just spent six months building a model that predicts customer churn with 90% accuracy. It’s sitting on a server, unused. Why? Because it’s been stuck in a risk review queue for a very long period of time, waiting for a committee that doesn’t understand stochastic models to sign off. This isn’t a hypothetical — it’s the daily reality in most large companies. In AI, the models move at internet speed. Enterprises don’t. Every few weeks, a new model family drops, open-source toolchains mutate and entire MLOps practices get rewritten. But in most companies, anything touching production AI has to pass through risk reviews, audit trails, change-management boards and model-risk sign-off. The result is a widening velocity gap: The research community accelerates; the enterprise stalls. This gap isn’t a headline problem like “AI will take your job.” It’s quieter and more expensive: missed productivity, shadow AI sprawl, duplicated spend and compliance drag that turns promising pilots into perpetual proofs-of-concept.The numbers say the quiet part out loudTwo trends collide. First, the pace of innovation: Industry is now the dominant force, producing the vast majority of notable AI models, according to Stanford&#x27;s 2024 AI Index Report. The core inputs for this innovation are compounding at a historic rate, with training compute needs doubling rapidly every few years. That pace all but guarantees rapid model churn and tool fragmentation. Second, enterprise adoption is accelerating. According to IBM&#x27;s, 42% of enterprise-scale companies have actively deployed AI, with many more actively exploring it. Yet the same surveys show governance roles are only now being formalized, leaving many companies to retrofit control after deployment. Layer on new regulation. The EU AI Act’s staged obligations are locked in — unacceptable-risk bans are already active and General Purpose AI (GPAI) transparency duties hit in mid-2025, with high-risk rules following. Brussels has made clear there’s no pause coming. If your governance isn’t ready, your roadmap will be.The real blocker isn&#x27;t modeling, it&#x27;s auditIn most enterprises, the slowest step isn’t fine-tuning a model; it’s proving your model follows certain guidelines. Three frictions dominate:Audit debt: Policies were written for static software, not stochastic models. You can ship a microservice with unit tests; you can’t “unit test” fairness drift without data access, lineage and ongoing monitoring. When controls don’t map, reviews balloon.. MRM overload: Model risk management (MRM), a discipline perfected in banking, is spreading beyond finance — often translated literally, not functionally. Explainability and data-governance checks make sense; forcing every retrieval-augmented chatbot through credit-risk style documentation does not.Shadow AI sprawl: Teams adopt vertical AI inside SaaS tools without central oversight. It feels fast — until the third audit asks who owns the prompts, where embeddings live and how to revoke data. Sprawl is speed’s illusion; integration and governance are the long-term velocity.Frameworks exist, but they&#x27;re not operational by defaultThe NIST AI Risk Management Framework is a solid north star: govern, map, measure, manage. It’s voluntary, adaptable and aligned with international standards. But it’s a blueprint, not a building. Companies still need concrete control catalogs, evidence templates and tooling that turn principles into repeatable reviews. Similarly, the EU AI Act sets deadlines and duties. It doesn’t install your model registry, wire your dataset lineage or resolve the age-old question of who signs off when accuracy and bias trade off. That’s on you soon.What winning enterprises are doing differentlyThe leaders I see closing the velocity gap aren’t chasing every model; they’re making the path to production routine. Five moves show up again and again:Ship a control plane, not a memo: Codify governance as code. Create a small library or service that enforces non-negotiables: Dataset lineage required, evaluation suite attached, risk tier chosen, PII scan passed, human-in-the-loop defined (if required). If a project can’t satisfy the checks, it can’t deploy.Pre-approve patterns: Approve reference architectures — “GPAI with retrieval augmented generation (RAG) on approved vector store,” “high-risk tabular model with feature store X and bias audit Y,” “vendor LLM via API with no data retention.” Pre-approval shifts review from bespoke debates to pattern conformance. (Your auditors will thank you.)Stage your governance by risk, not by team: Tie review depth to use-case criticality (safety, finance, regulated outcomes). A marketing copy assistant shouldn’t endure the same gauntlet as a loan adjudicator. Risk-proportionate review is both defensible and fast.Create an “evidence once, reuse everywhere” backbone: Centralize model cards, eval results, data sheets, prompt templates and vendor attestations. Every subsequent audit should start at 60% done because you’ve already proven the common pieces.Make audit a product: Give legal, risk and compliance a real roadmap. Instrument dashboards that show: Models in production by risk tier, upcoming re-evals, incidents and data-retention attestations. If audit can self-serve, engineering can ship.A pragmatic cadence for the next 12 monthsIf you’re serious about catching up, pick a 12-month governance sprint:Quarter 1: Stand up a minimal AI registry (models, datasets, prompts, evaluations). Draft risk-tiering and control mapping aligned to NIST AI RMF functions; publish two pre-approved patterns.Quarter 2: Turn controls into pipelines (CI checks for evals, data scans, model cards). Convert two fast-moving teams from shadow AI to platform AI by making the paved road easier than the side road.Quarter 3: Pilot a GxP-style review (a rigorous documentation standard from life sciences) for one high-risk use case; automate evidence capture. Start your EU AI Act gap analysis if you touch Europe; assign owners and deadlines.Quarter 4: Expand your pattern catalog (RAG, batch inference, streaming prediction). Roll out dashboards for risk/compliance. Bake governance SLAs into your OKRs. By this point, you haven’t slowed down innovation — you’ve standardized it. The research community can keep moving at light speed; you can keep shipping at enterprise speed — without the audit queue becoming your critical path.The competitive edge isn&#x27;t the next model — it&#x27;s the next mileIt’s tempting to chase each week’s leaderboard. But the durable advantage is the mile between a paper and production: The platform, the patterns, the proofs. That’s what your competitors can’t copy from GitHub, and it’s the only way to keep velocity without trading compliance for chaos. In other words: Make governance the grease, not the grit. Jayachander Reddy Kandakatla is senior machine learning operations (MLOps) engineer at Ford Motor Credit Company.",
+          "content": "Your best data science team just spent six months building a model that predicts customer churn with 90% accuracy. It’s sitting on a server, unused. Why? Because it’s been stuck in a risk review queue for a very long period of time, waiting for a committee that doesn’t understand stochastic models to sign off. This isn’t a hypothetical — it’s the daily reality in most large companies. In AI, the models move at internet speed. Enterprises don’t. Every few weeks, a new model family drops, open-source toolchains mutate and entire MLOps practices get rewritten. But in most companies, anything touching production AI has to pass through risk reviews, audit trails, change-management boards and model-risk sign-off. The result is a widening velocity gap: The research community accelerates; the enterprise stalls. This gap isn’t a headline problem like “AI will take your job.” It’s quieter and more expensive: missed productivity, shadow AI sprawl, duplicated spend and compliance drag that turns promising pilots into perpetual proofs-of-concept.The numbers say the quiet part out loudTwo trends collide. First, the pace of innovation: Industry is now the dominant force, producing the vast majority of notable AI models, according to Stanford&#x27;s 2024 AI Index Report. The core inputs for this innovation are compounding at a historic rate, with training compute needs doubling rapidly every few years. That pace all but guarantees rapid model churn and tool fragmentation. Second, enterprise adoption is accelerating. According to IBM&#x27;s, 42% of enterprise-scale companies have actively deployed AI, with many more actively exploring it. Yet the same surveys show governance roles are only now being formalized, leaving many companies to retrofit control after deployment. Layer on new regulation. The EU AI Act’s staged obligations are locked in — unacceptable-risk bans are already active and General Purpose AI (GPAI) transparency duties hit in mid-2025, with high-risk rules following. Brussels has made clear there’s no pause coming. If your governance isn’t ready, your roadmap will be.The real blocker isn&#x27;t modeling, it&#x27;s auditIn most enterprises, the slowest step isn’t fine-tuning a model; it’s proving your model follows certain guidelines. Three frictions dominate:Audit debt: Policies were written for static software, not stochastic models. You can ship a microservice with unit tests; you can’t “unit test” fairness drift without data access, lineage and ongoing monitoring. When controls don’t map, reviews balloon.. MRM overload: Model risk management (MRM), a discipline perfected in banking, is spreading beyond finance — often translated literally, not functionally. Explainability and data-governance checks make sense; forcing every retrieval-augmented chatbot through credit-risk style documentation does not.Shadow AI sprawl: Teams adopt vertical AI inside SaaS tools without central oversight. It feels fast — until the third audit asks who owns the prompts, where embeddings live and how to revoke data. Sprawl is speed’s illusion; integration and governance are the long-term velocity.Frameworks exist, but they&#x27;re not operational by defaultThe NIST AI Risk Management Framework is a solid north star: govern, map, measure, manage. It’s voluntary, adaptable and aligned with international standards. But it’s a blueprint, not a building. Companies still need concrete control catalogs, evidence templates and tooling that turn principles into repeatable reviews. Similarly, the EU AI Act sets deadlines and duties. It doesn’t install your model registry, wire your dataset lineage or resolve the age-old question of who signs off when accuracy and bias trade off. That’s on you soon.What winning enterprises are doing differentlyThe leaders I see closing the velocity gap aren’t chasing every model; they’re making the path to production routine. Five moves show up again and again:Ship a control plane, not a memo: Codify governance as code. Create a small library or service that enforces non-negotiables: Dataset lineage required, evaluation suite attached, risk tier chosen, PII scan passed, human-in-the-loop defined (if required). If a project can’t satisfy the checks, it can’t deploy.Pre-approve patterns: Approve reference architectures — “GPAI with retrieval augmented generation (RAG) on approved vector store,” “high-risk tabular model with feature store X and bias audit Y,” “vendor LLM via API with no data retention.” Pre-approval shifts review from bespoke debates to pattern conformance. (Your auditors will thank you.)Stage your governance by risk, not by team: Tie review depth to use-case criticality (safety, finance, regulated outcomes). A marketing copy assistant shouldn’t endure the same gauntlet as a loan adjudicator. Risk-proportionate review is both defensible and fast.Create an “evidence once, reuse everywhere” backbone: Centralize model cards, eval results, data sheets, prompt templates and vendor attestations. Every subsequent audit should start at 60% done because you’ve already proven the common pieces.Make audit a product: Give legal, risk and compliance a real roadmap. Instrument dashboards that show: Models in production by risk tier, upcoming re-evals, incidents and data-retention attestations. If audit can self-serve, engineering can ship.A pragmatic cadence for the next 12 monthsIf you’re serious about catching up, pick a 12-month governance sprint:Quarter 1: Stand up a minimal AI registry (models, datasets, prompts, evaluations). Draft risk-tiering and control mapping aligned to NIST AI RMF functions; publish two pre-approved patterns.Quarter 2: Turn controls into pipelines (CI checks for evals, data scans, model cards). Convert two fast-moving teams from shadow AI to platform AI by making the paved road easier than the side road.Quarter 3: Pilot a GxP-style review (a rigorous documentation standard from life sciences) for one high-risk use case; automate evidence capture. Start your EU AI Act gap analysis if you touch Europe; assign owners and deadlines.Quarter 4: Expand your pattern catalog (RAG, batch inference, streaming prediction). Roll out dashboards for risk/compliance. Bake governance SLAs into your OKRs. By this point, you haven’t slowed down innovation — you’ve standardized it. The research community can keep moving at light speed; you can keep shipping at enterprise speed — without the audit queue becoming your critical path.The competitive edge isn&#x27;t the next model — it&#x27;s the next mileIt’s tempting to chase each week’s leaderboard. But the durable advantage is the mile between a paper and production: The platform, the patterns, the proofs. That’s what your competitors can’t copy from GitHub, and it’s the only way to keep velocity without trading compliance for chaos. In other words: Make governance the grease, not the grit. Jayachander Reddy Kandakatla is senior machine learning operations (MLOps) engineer at Ford Motor Credit Company.",
+          "feed_position": 1,
+          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/77WjI7ALpxOD2JSAUGMDRD/e938cb7b3827956c6043438c7af3f0d6/Velocity_gap.png"
+        },
+        {
+          "source": "VentureBeat",
           "url": "https://venturebeat.com/ai/is-vibe-coding-ruining-a-generation-of-engineers",
           "published_at": "Sat, 11 Oct 2025 19:00:00 GMT",
           "title": "Is vibe coding ruining a generation of engineers?",
           "standfirst": "AI tools are revolutionizing software development by automating repetitive tasks, refactoring bloated code, and identifying bugs in real-time. Developers can now generate well-structured code from plain language prompts, saving hours of manual effort. These tools learn from vast codebases, offering context-aware recommendations that enhance productivity and reduce errors. Rather than starting from scratch, engineers can prototype quickly, iterate faster and focus on solving increasingly complex problems.As code generation tools grow in popularity, they raise questions about the future size and structure of engineering teams. Earlier this year, Garry Tan, CEO of startup accelerator Y Combinator, noted that about one-quarter of its current clients use AI to write 95% or more of their software. In an interview with CNBC, Tan said: “What that means for founders is that you don’t need a team of 50 or 100 engineers, you don’t have to raise as much. The capital goes much longer.”AI-powered coding may offer a fast solution for businesses under budget pressure — but its long-term effects on the field and labor pool cannot be ignored.As AI-powered coding rises, human expertise may diminish In the era of AI, the traditional journey to coding expertise that has long supported senior developers may be at risk. Easy access to large language models (LLMs) enables junior coders to quickly identify issues in code. While this speeds up software development, it can distance developers from their own work, delaying the growth of core problem-solving skills. As a result, they may avoid the focused, sometimes uncomfortable hours required to build expertise and progress on the path to becoming successful senior developers.Consider Anthropic’s Claude Code, a terminal-based assistant built on the Claude 3.7 Sonnet model, which automates bug detection and resolution, test creation and code refactoring. Using natural language commands, it reduces repetitive manual work and boosts productivity.Microsoft has also released two open-source frameworks — AutoGen and Semantic Kernel — to support the development of agentic AI systems. AutoGen enables asynchronous messaging, modular components, and distributed agent collaboration to build complex workflows with minimal human input. Semantic Kernel is an SDK that integrates LLMs with languages like C#, Python and Java, letting developers build AI agents to automate tasks and manage enterprise applications.The increasing availability of these tools from Anthropic, Microsoft and others may reduce opportunities for coders to refine and deepen their skills. Rather than “banging their heads against the wall” to debug a few lines or select a library to unlock new features, junior developers may simply turn to AI for an assist. This means senior coders with problem-solving skills honed over decades may become an endangered species.Overreliance on AI for writing code risks weakening developers’ hands-on experience and understanding of key programming concepts. Without regular practice, they may struggle to independently debug, optimize or design systems. Ultimately, this erosion of skill can undermine critical thinking, creativity and adaptability — qualities that are essential not just for coding, but for assessing the quality and logic of AI-generated solutions.AI as mentor: Turning code automation into hands-on learningWhile concerns about AI diminishing human developer skills are valid, businesses shouldn’t dismiss AI-supported coding. They just need to think carefully about when and how to deploy AI tools in development. These tools can be more than productivity boosters; they can act as interactive mentors, guiding coders in real time with explanations, alternatives and best practices.When used as a training tool, AI can reinforce learning by showing coders why code is broken and how to fix it—rather than simply applying a solution. For example, a junior developer using Claude Code might receive immediate feedback on inefficient syntax or logic errors, along with suggestions linked to detailed explanations. This enables active learning, not passive correction. It’s a win-win: Accelerating project timelines without doing all the work for junior coders.Additionally, coding frameworks can support experimentation by letting developers prototype agent workflows or integrate LLMs without needing expert-level knowledge upfront. By observing how AI builds and refines code, junior developers who actively engage with these tools can internalize patterns, architectural decisions and debugging strategies — mirroring the traditional learning process of trial and error, code reviews and mentorship.However, AI coding assistants shouldn’t replace real mentorship or pair programming. Pull requests and formal code reviews remain essential for guiding newer, less experienced team members. We are nowhere near the point at which AI can single-handedly upskill a junior developer.Companies and educators can build structured development programs around these tools that emphasize code comprehension to ensure AI is used as a training partner rather than a crutch. This encourages coders to question AI outputs and requires manual refactoring exercises. In this way, AI becomes less of a replacement for human ingenuity and more of a catalyst for accelerated, experiential learning.Bridging the gap between automation and educationWhen utilized with intention, AI doesn’t just write code; it teaches coding, blending automation with education to prepare developers for a future where deep understanding and adaptability remain indispensable.By embracing AI as a mentor, as a programming partner and as a team of developers we can direct to the problem at hand, we can bridge the gap between effective automation and education. We can empower developers to grow alongside the tools they use. We can ensure that, as AI evolves, so too does the human skill set, fostering a generation of coders who are both efficient and deeply knowledgeable.Richard Sonnenblick is chief data scientist at Planview.",
           "content": "AI tools are revolutionizing software development by automating repetitive tasks, refactoring bloated code, and identifying bugs in real-time. Developers can now generate well-structured code from plain language prompts, saving hours of manual effort. These tools learn from vast codebases, offering context-aware recommendations that enhance productivity and reduce errors. Rather than starting from scratch, engineers can prototype quickly, iterate faster and focus on solving increasingly complex problems.As code generation tools grow in popularity, they raise questions about the future size and structure of engineering teams. Earlier this year, Garry Tan, CEO of startup accelerator Y Combinator, noted that about one-quarter of its current clients use AI to write 95% or more of their software. In an interview with CNBC, Tan said: “What that means for founders is that you don’t need a team of 50 or 100 engineers, you don’t have to raise as much. The capital goes much longer.”AI-powered coding may offer a fast solution for businesses under budget pressure — but its long-term effects on the field and labor pool cannot be ignored.As AI-powered coding rises, human expertise may diminish In the era of AI, the traditional journey to coding expertise that has long supported senior developers may be at risk. Easy access to large language models (LLMs) enables junior coders to quickly identify issues in code. While this speeds up software development, it can distance developers from their own work, delaying the growth of core problem-solving skills. As a result, they may avoid the focused, sometimes uncomfortable hours required to build expertise and progress on the path to becoming successful senior developers.Consider Anthropic’s Claude Code, a terminal-based assistant built on the Claude 3.7 Sonnet model, which automates bug detection and resolution, test creation and code refactoring. Using natural language commands, it reduces repetitive manual work and boosts productivity.Microsoft has also released two open-source frameworks — AutoGen and Semantic Kernel — to support the development of agentic AI systems. AutoGen enables asynchronous messaging, modular components, and distributed agent collaboration to build complex workflows with minimal human input. Semantic Kernel is an SDK that integrates LLMs with languages like C#, Python and Java, letting developers build AI agents to automate tasks and manage enterprise applications.The increasing availability of these tools from Anthropic, Microsoft and others may reduce opportunities for coders to refine and deepen their skills. Rather than “banging their heads against the wall” to debug a few lines or select a library to unlock new features, junior developers may simply turn to AI for an assist. This means senior coders with problem-solving skills honed over decades may become an endangered species.Overreliance on AI for writing code risks weakening developers’ hands-on experience and understanding of key programming concepts. Without regular practice, they may struggle to independently debug, optimize or design systems. Ultimately, this erosion of skill can undermine critical thinking, creativity and adaptability — qualities that are essential not just for coding, but for assessing the quality and logic of AI-generated solutions.AI as mentor: Turning code automation into hands-on learningWhile concerns about AI diminishing human developer skills are valid, businesses shouldn’t dismiss AI-supported coding. They just need to think carefully about when and how to deploy AI tools in development. These tools can be more than productivity boosters; they can act as interactive mentors, guiding coders in real time with explanations, alternatives and best practices.When used as a training tool, AI can reinforce learning by showing coders why code is broken and how to fix it—rather than simply applying a solution. For example, a junior developer using Claude Code might receive immediate feedback on inefficient syntax or logic errors, along with suggestions linked to detailed explanations. This enables active learning, not passive correction. It’s a win-win: Accelerating project timelines without doing all the work for junior coders.Additionally, coding frameworks can support experimentation by letting developers prototype agent workflows or integrate LLMs without needing expert-level knowledge upfront. By observing how AI builds and refines code, junior developers who actively engage with these tools can internalize patterns, architectural decisions and debugging strategies — mirroring the traditional learning process of trial and error, code reviews and mentorship.However, AI coding assistants shouldn’t replace real mentorship or pair programming. Pull requests and formal code reviews remain essential for guiding newer, less experienced team members. We are nowhere near the point at which AI can single-handedly upskill a junior developer.Companies and educators can build structured development programs around these tools that emphasize code comprehension to ensure AI is used as a training partner rather than a crutch. This encourages coders to question AI outputs and requires manual refactoring exercises. In this way, AI becomes less of a replacement for human ingenuity and more of a catalyst for accelerated, experiential learning.Bridging the gap between automation and educationWhen utilized with intention, AI doesn’t just write code; it teaches coding, blending automation with education to prepare developers for a future where deep understanding and adaptability remain indispensable.By embracing AI as a mentor, as a programming partner and as a team of developers we can direct to the problem at hand, we can bridge the gap between effective automation and education. We can empower developers to grow alongside the tools they use. We can ensure that, as AI evolves, so too does the human skill set, fostering a generation of coders who are both efficient and deeply knowledgeable.Richard Sonnenblick is chief data scientist at Planview.",
-          "feed_position": 1,
+          "feed_position": 2,
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6O2FgBkLOdYG0bQrbbceee/70c01c9a6f6498e1888781c6ec759dd8/Junior_coders.png"
         },
         {
@@ -35,7 +45,7 @@
           "title": "When dirt meets data: ScottsMiracle-Gro saved $150M using AI",
           "standfirst": "How a semiconductor veteran turned over a century of horticultural wisdom into AI-led competitive advantage For decades, a ritual played out across ScottsMiracle-Gro’s media facilities. Every few weeks, workers walked acres of towering compost and wood chip piles with nothing more than measuring sticks. They wrapped rulers around each mound, estimated height, and did what company President Nate Baxter now describes as “sixth-grade geometry to figure out volume.”Today, drones glide over those same plants with mechanical precision. Vision systems calculate volumes in real time. The move from measuring sticks to artificial intelligence signals more than efficiency. It is the visible proof of one of corporate America’s most unlikely technology stories.The AI revolution finds an unexpected leaderEnterprise AI has been led by predictable players. Software companies with cloud-native architectures. Financial services firms with vast data lakes. Retailers with rich digital touchpoints. Consumer packaged goods companies that handle physical products like fertilizer and soil were not expected to lead.Yet ScottsMiracle-Gro has realized more than half of a targeted $150 million in supply chain savings. It reports a 90 percent improvement in customer service response times. Its predictive models enable weekly reallocation of marketing resources across regional markets.A Silicon Valley veteran bets on soil scienceBaxter’s path to ScottsMiracle-Gro (SMG) reads like a calculated pivot, not a corporate rescue. After two decades in semiconductor manufacturing at Intel and Tokyo Electron, he knew how to apply advanced technology to complex operations.“I sort of initially said, ‘Why would I do this? I’m running a tech company. It’s an industry I’ve been in for 25 years,’” Baxter recalls of his reaction when ScottsMiracle-Gro CEO Jim Hagedorn approached him in 2023. The company was reeling from a collapsed $1.2 billion hydroponics investment and facing what he describes as “pressure from a leverage standpoint.”His wife challenged him with a direct prompt. If you are not learning or putting yourself in uncomfortable situations, you should change that.Baxter saw clear parallels between semiconductor manufacturing and SMG’s operations. Both require precision, quality control, and the optimization of complex systems. He also saw untapped potential in SMG’s domain knowledge. One hundred fifty years of horticultural expertise, regulatory know-how, and customer insight had never been fully digitized.“It became apparent to me whether it was on the backend with data analytics, business process transformation, and obviously now with AI being front and center of the consumer experience, a lot of opportunities are there,” he explains.The declaration that changed everythingThe pivot began at an all-hands meeting. “I just said, you know, guys, we’re a tech company. You just don’t know it yet,” Baxter recalls. “There’s so much opportunity here to drive this company to where it needs to go.”The first challenge was organizational. SMG had evolved into functional silos. IT, supply chain, and brand teams ran independent systems with little coordination. Drawing on his experience with complex technology organizations, Baxter restructured the consumer business into three business units. General managers became accountable not just for financial results but also for technology implementation within their domains.“I came in and said, we’re going to create new business units,” he explains. “The buck stops with you and I’m holding you accountable not only for the business results, for the quality of the creative and marketing, but for the implementation of technology.”To support the new structure, SMG set up centers of excellence for digital capabilities, insights and analytics, and creative functions. The hybrid design placed centralized expertise behind distributed accountability.Mining corporate memory for AI goldTurning legacy knowledge into machine-ready intelligence required what Fausto Fleites, VP of Data Intelligence, calls “archaeological work.” The team excavated decades of business logic embedded in legacy SAP systems and converted filing cabinets of research into AI-ready datasets. Fleites, a Cuban immigrant with a doctorate from FIU who led Florida’s public hurricane loss model before roles at Sears and Cemex, understood the stakes.“The costly part of the migration was the business reporting layer we have in SAP Business Warehouse,” Fleites explains. “You need to uncover business logic created in many cases over decades.”SMG chose Databricks as its unified data platform. The team had Apache Spark expertise. Databricks offered strong SAP integration and aligned with a preference for open-source technologies that minimize vendor lock-in.The breakthrough came through systematic knowledge management. SMG built an AI bot using Google’s Gemini large language model to catalog and clean internal repositories. The system identified duplicates, grouped content by topic, and restructured information for AI consumption. The effort reduced knowledge articles by 30 percent while increasing their utility.“We used Gemini LLMs to actually categorize them into topics, find similar documents,” Fleites explains. A hybrid approach that combined modern AI with techniques like cosine similarity became the foundation for later applications.Building AI systems that actually understand fertilizerEarly trials with off-the-shelf AI exposed a real risk. General-purpose models confused products designed for killing weeds with those for preventing them. That mistake can ruin a lawn.“Different products, if you use one in the wrong place, would actually have a very negative outcome,” Fleites notes. “But those are kind of synonyms in certain contexts to the LLM. So they were recommending the wrong products.”The solution was a new architecture. SMG created what Fleites calls a “hierarchy of agents.” A supervisor agent routes queries to specialized worker agents organized by brand. Each agent draws on deep product knowledge encoded from a 400-page internal training manual.The system also changes the conversation. When users ask for recommendations, the agents start with questions about location, goals, and lawn conditions. They narrow possibilities step by step before offering suggestions. The stack integrates with APIs for product availability and state-specific regulatory compliance.From drones to demand forecasting across the enterpriseThe transformation runs across the company. Drones measure inventory piles. Demand forecasting models analyze more than 60 factors, including weather patterns, consumer sentiment, and macroeconomic indicators.These predictions enable faster moves. When drought struck Texas, the models supported a shift in promotional spending to regions with favorable weather. The reallocation helped drive positive quarterly results.“We not only have the ability to move marketing and promotion dollars around, but we’ve even gotten to the point where if it’s going to be a big weekend in the Northeast, we’ll shift our field sales resources from other regions up there,” Baxter explains.Consumer Services changed as well. AI agents now process incoming emails through Salesforce, draft responses based on the knowledge base, and flag them for brief human review. Draft times dropped from ten minutes to seconds and response quality improved.The company emphasizes explainable AI. Using SHAP, SMG built dashboards that decompose each forecast and show how weather, promotions, or media spending contribute to predictions.“Typically, if you open a prediction to a business person and you don’t say why, they’ll say, ‘I don’t believe you,’” Fleites explains. Transparency made it possible to move resource allocation from quarterly to weekly cycles.Competing like a startupSMG’s results challenge assumptions about AI readiness in traditional industries. The advantage does not come from owning the most sophisticated models. It comes from combining general-purpose AI with unique, structured domain knowledge.“LLMs are going to be a commodity,” Fleites observes. “The strategic differentiator is what is the additional level of [internal] knowledge we can fit to them.”Partnerships are central. SMG works with Google Vertex AI for foundational models, Sierra.ai for production-ready conversational agents, and Kindwise for computer vision. The ecosystem approach lets a small internal team recruited from Meta, Google, and AI startups deliver outsized impact without building everything from scratch.Talent follows impact. Conventional wisdom says traditional companies cannot compete with Meta salaries or Google stock. SMG offered something different. It offered the chance to build transformative AI applications with immediate business impact.“When we have these interviews, what we propose to them is basically the ability to have real value with the latest knowledge in these spaces,” Fleites explains. “A lot of people feel motivated to come to us” because much of big tech AI work, despite the hype, “doesn’t really have an impact.”Team design mirrors that philosophy. “My direct reports are leaders and not only manage people, but are technically savvy,” Fleites notes. “We always are constantly switching hands between developing or maintaining a solution versus strategy versus managing people.” He still writes code weekly. The small team of 15 to 20 AI and engineering professionals stays lean by contracting out implementation while keeping “the know-how and the direction and the architecture” in-house.When innovation meets immovable objectsNot every pilot succeeded. SMG tested semi-autonomous forklifts in a 1.3 million square foot distribution facility. Remote drivers in the Philippines controlled up to five vehicles at once with strong safety records.“The technology was actually really great,” Baxter acknowledges. The vehicles could not lift enough weight for SMG’s heavy products. The company paused implementation.“Not everything we’ve tried has gone smoothly,” Baxter admits. “But I think another important point is you have to focus on a few critical ones and you have to know when something isn’t going to work and readjust.”The lesson tracks with semiconductor discipline. Investments must show measurable returns within set timeframes. Regulatory complexity adds difficulty. Products must comply with EPA rules and a patchwork of state restrictions, which AI systems must navigate correctly.The gardening sommelier and agent-to-agent futuresThe roadmap reflects a long-term view. SMG plans a “gardening sommelier” mobile app in 2026 that identifies plants, weeds, and lawn problems from photos and provides instant guidance. A beta already helps field sales teams answer complex product questions by querying the 400-page knowledge base.The company is exploring agent-to-agent communication so its specialized AI can interface with retail partners’ systems. A customer who asks a Walmart chatbot for lawn advice could trigger an SMG query that returns accurate, regulation-compliant recommendations.SMG has launched AI-powered search on its website, replacing keyword systems with conversational engines based on the internal stack. The future vision pairs predictive models with conversational agents so the system can reach out when conditions suggest a customer may need help.What traditional industries can learnScottsMiracle-Gro&#x27;s transformation offers a clear playbook for enterprises. The advantage doesn&#x27;t come from deploying the most sophisticated models. Instead, it comes from combining AI with proprietary domain knowledge that competitors can&#x27;t easily replicate.By making general managers responsible for both business results and technology implementation, SMG ensured AI wasn&#x27;t just an IT initiative but a business imperative. The 150 years of horticultural expertise only became valuable when it was digitized, structured, and made accessible to AI systems.Legacy companies competing for AI engineers can&#x27;t match Silicon Valley compensation packages. But they can offer something tech giants often can&#x27;t: immediate, measurable impact. When engineers see their weather forecasting models directly influence quarterly results or their agent architecture prevent customers from ruining their lawns, the work carries weight that another incremental improvement to an ad algorithm never will.“We have a right to win,” Baxter says. “We have 150 years of this experience.” That experience is now data, and data is the company’s competitive edge. ScottsMiracle-Gro didn’t outspend its rivals or chase the newest AI model. It turned knowledge into an operating system for growth. For a company built on soil, its biggest breakthrough might be cultivating data.",
           "content": "How a semiconductor veteran turned over a century of horticultural wisdom into AI-led competitive advantage For decades, a ritual played out across ScottsMiracle-Gro’s media facilities. Every few weeks, workers walked acres of towering compost and wood chip piles with nothing more than measuring sticks. They wrapped rulers around each mound, estimated height, and did what company President Nate Baxter now describes as “sixth-grade geometry to figure out volume.”Today, drones glide over those same plants with mechanical precision. Vision systems calculate volumes in real time. The move from measuring sticks to artificial intelligence signals more than efficiency. It is the visible proof of one of corporate America’s most unlikely technology stories.The AI revolution finds an unexpected leaderEnterprise AI has been led by predictable players. Software companies with cloud-native architectures. Financial services firms with vast data lakes. Retailers with rich digital touchpoints. Consumer packaged goods companies that handle physical products like fertilizer and soil were not expected to lead.Yet ScottsMiracle-Gro has realized more than half of a targeted $150 million in supply chain savings. It reports a 90 percent improvement in customer service response times. Its predictive models enable weekly reallocation of marketing resources across regional markets.A Silicon Valley veteran bets on soil scienceBaxter’s path to ScottsMiracle-Gro (SMG) reads like a calculated pivot, not a corporate rescue. After two decades in semiconductor manufacturing at Intel and Tokyo Electron, he knew how to apply advanced technology to complex operations.“I sort of initially said, ‘Why would I do this? I’m running a tech company. It’s an industry I’ve been in for 25 years,’” Baxter recalls of his reaction when ScottsMiracle-Gro CEO Jim Hagedorn approached him in 2023. The company was reeling from a collapsed $1.2 billion hydroponics investment and facing what he describes as “pressure from a leverage standpoint.”His wife challenged him with a direct prompt. If you are not learning or putting yourself in uncomfortable situations, you should change that.Baxter saw clear parallels between semiconductor manufacturing and SMG’s operations. Both require precision, quality control, and the optimization of complex systems. He also saw untapped potential in SMG’s domain knowledge. One hundred fifty years of horticultural expertise, regulatory know-how, and customer insight had never been fully digitized.“It became apparent to me whether it was on the backend with data analytics, business process transformation, and obviously now with AI being front and center of the consumer experience, a lot of opportunities are there,” he explains.The declaration that changed everythingThe pivot began at an all-hands meeting. “I just said, you know, guys, we’re a tech company. You just don’t know it yet,” Baxter recalls. “There’s so much opportunity here to drive this company to where it needs to go.”The first challenge was organizational. SMG had evolved into functional silos. IT, supply chain, and brand teams ran independent systems with little coordination. Drawing on his experience with complex technology organizations, Baxter restructured the consumer business into three business units. General managers became accountable not just for financial results but also for technology implementation within their domains.“I came in and said, we’re going to create new business units,” he explains. “The buck stops with you and I’m holding you accountable not only for the business results, for the quality of the creative and marketing, but for the implementation of technology.”To support the new structure, SMG set up centers of excellence for digital capabilities, insights and analytics, and creative functions. The hybrid design placed centralized expertise behind distributed accountability.Mining corporate memory for AI goldTurning legacy knowledge into machine-ready intelligence required what Fausto Fleites, VP of Data Intelligence, calls “archaeological work.” The team excavated decades of business logic embedded in legacy SAP systems and converted filing cabinets of research into AI-ready datasets. Fleites, a Cuban immigrant with a doctorate from FIU who led Florida’s public hurricane loss model before roles at Sears and Cemex, understood the stakes.“The costly part of the migration was the business reporting layer we have in SAP Business Warehouse,” Fleites explains. “You need to uncover business logic created in many cases over decades.”SMG chose Databricks as its unified data platform. The team had Apache Spark expertise. Databricks offered strong SAP integration and aligned with a preference for open-source technologies that minimize vendor lock-in.The breakthrough came through systematic knowledge management. SMG built an AI bot using Google’s Gemini large language model to catalog and clean internal repositories. The system identified duplicates, grouped content by topic, and restructured information for AI consumption. The effort reduced knowledge articles by 30 percent while increasing their utility.“We used Gemini LLMs to actually categorize them into topics, find similar documents,” Fleites explains. A hybrid approach that combined modern AI with techniques like cosine similarity became the foundation for later applications.Building AI systems that actually understand fertilizerEarly trials with off-the-shelf AI exposed a real risk. General-purpose models confused products designed for killing weeds with those for preventing them. That mistake can ruin a lawn.“Different products, if you use one in the wrong place, would actually have a very negative outcome,” Fleites notes. “But those are kind of synonyms in certain contexts to the LLM. So they were recommending the wrong products.”The solution was a new architecture. SMG created what Fleites calls a “hierarchy of agents.” A supervisor agent routes queries to specialized worker agents organized by brand. Each agent draws on deep product knowledge encoded from a 400-page internal training manual.The system also changes the conversation. When users ask for recommendations, the agents start with questions about location, goals, and lawn conditions. They narrow possibilities step by step before offering suggestions. The stack integrates with APIs for product availability and state-specific regulatory compliance.From drones to demand forecasting across the enterpriseThe transformation runs across the company. Drones measure inventory piles. Demand forecasting models analyze more than 60 factors, including weather patterns, consumer sentiment, and macroeconomic indicators.These predictions enable faster moves. When drought struck Texas, the models supported a shift in promotional spending to regions with favorable weather. The reallocation helped drive positive quarterly results.“We not only have the ability to move marketing and promotion dollars around, but we’ve even gotten to the point where if it’s going to be a big weekend in the Northeast, we’ll shift our field sales resources from other regions up there,” Baxter explains.Consumer Services changed as well. AI agents now process incoming emails through Salesforce, draft responses based on the knowledge base, and flag them for brief human review. Draft times dropped from ten minutes to seconds and response quality improved.The company emphasizes explainable AI. Using SHAP, SMG built dashboards that decompose each forecast and show how weather, promotions, or media spending contribute to predictions.“Typically, if you open a prediction to a business person and you don’t say why, they’ll say, ‘I don’t believe you,’” Fleites explains. Transparency made it possible to move resource allocation from quarterly to weekly cycles.Competing like a startupSMG’s results challenge assumptions about AI readiness in traditional industries. The advantage does not come from owning the most sophisticated models. It comes from combining general-purpose AI with unique, structured domain knowledge.“LLMs are going to be a commodity,” Fleites observes. “The strategic differentiator is what is the additional level of [internal] knowledge we can fit to them.”Partnerships are central. SMG works with Google Vertex AI for foundational models, Sierra.ai for production-ready conversational agents, and Kindwise for computer vision. The ecosystem approach lets a small internal team recruited from Meta, Google, and AI startups deliver outsized impact without building everything from scratch.Talent follows impact. Conventional wisdom says traditional companies cannot compete with Meta salaries or Google stock. SMG offered something different. It offered the chance to build transformative AI applications with immediate business impact.“When we have these interviews, what we propose to them is basically the ability to have real value with the latest knowledge in these spaces,” Fleites explains. “A lot of people feel motivated to come to us” because much of big tech AI work, despite the hype, “doesn’t really have an impact.”Team design mirrors that philosophy. “My direct reports are leaders and not only manage people, but are technically savvy,” Fleites notes. “We always are constantly switching hands between developing or maintaining a solution versus strategy versus managing people.” He still writes code weekly. The small team of 15 to 20 AI and engineering professionals stays lean by contracting out implementation while keeping “the know-how and the direction and the architecture” in-house.When innovation meets immovable objectsNot every pilot succeeded. SMG tested semi-autonomous forklifts in a 1.3 million square foot distribution facility. Remote drivers in the Philippines controlled up to five vehicles at once with strong safety records.“The technology was actually really great,” Baxter acknowledges. The vehicles could not lift enough weight for SMG’s heavy products. The company paused implementation.“Not everything we’ve tried has gone smoothly,” Baxter admits. “But I think another important point is you have to focus on a few critical ones and you have to know when something isn’t going to work and readjust.”The lesson tracks with semiconductor discipline. Investments must show measurable returns within set timeframes. Regulatory complexity adds difficulty. Products must comply with EPA rules and a patchwork of state restrictions, which AI systems must navigate correctly.The gardening sommelier and agent-to-agent futuresThe roadmap reflects a long-term view. SMG plans a “gardening sommelier” mobile app in 2026 that identifies plants, weeds, and lawn problems from photos and provides instant guidance. A beta already helps field sales teams answer complex product questions by querying the 400-page knowledge base.The company is exploring agent-to-agent communication so its specialized AI can interface with retail partners’ systems. A customer who asks a Walmart chatbot for lawn advice could trigger an SMG query that returns accurate, regulation-compliant recommendations.SMG has launched AI-powered search on its website, replacing keyword systems with conversational engines based on the internal stack. The future vision pairs predictive models with conversational agents so the system can reach out when conditions suggest a customer may need help.What traditional industries can learnScottsMiracle-Gro&#x27;s transformation offers a clear playbook for enterprises. The advantage doesn&#x27;t come from deploying the most sophisticated models. Instead, it comes from combining AI with proprietary domain knowledge that competitors can&#x27;t easily replicate.By making general managers responsible for both business results and technology implementation, SMG ensured AI wasn&#x27;t just an IT initiative but a business imperative. The 150 years of horticultural expertise only became valuable when it was digitized, structured, and made accessible to AI systems.Legacy companies competing for AI engineers can&#x27;t match Silicon Valley compensation packages. But they can offer something tech giants often can&#x27;t: immediate, measurable impact. When engineers see their weather forecasting models directly influence quarterly results or their agent architecture prevent customers from ruining their lawns, the work carries weight that another incremental improvement to an ad algorithm never will.“We have a right to win,” Baxter says. “We have 150 years of this experience.” That experience is now data, and data is the company’s competitive edge. ScottsMiracle-Gro didn’t outspend its rivals or chase the newest AI model. It turned knowledge into an operating system for growth. For a company built on soil, its biggest breakthrough might be cultivating data.",
-          "feed_position": 2,
+          "feed_position": 3,
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7d0hJ4qtWTk5GaypvPfHJY/53aa8c26a39b5f10e16b3073dd73a388/videoframe_878.png"
         },
         {
@@ -45,25 +55,79 @@
           "title": "Stylish beat-'em-ups, platformers and RPGs, and other new indie games worth checking out",
           "standfirst": "Welcome to our latest roundup of what's going on in the indie game space. Some gorgeous new games arrived this week, and we've got some demos and reveals from upcoming projects to take a look at. Later this month, Lorelai and the Laser Eyes studio Simogo is going to celebrate its 15th anniversary with some news and surprises. Perhaps the developer is porting some of its earlier games to more platforms. I'm hoping that we'll learn about Simogo's next game as well.I'm not holding out hope for a sequel to Sayonara Wild Hearts, which is my favorite game of all time depending on the day you ask me (on other days, it's The Legend of Zelda: A Link to the Past, FYI). However, if Simogo announces a live concert of music from the game, I'm going to do my damndest to be there. I'll be tuning in on October 28 to learn what the studio has for me us in any case.Speaking of showcases, Entalto Publishing and developer GGTech ran one of their own this week. The Out of Bounds event shone a spotlight on a dozen indie games, spanning a breadth of genres. Also, a quick reminder that the latest Steam Next Fest starts at 1PM ET on Monday, October 13. As always, the week-long event will have tons of demos for you to check out. It’s always worth trying a bunch of them. You never know, you might end up being one of the first few folks to play the next Balatro, Manor Lords or Deep Rock Galactic Survivor.New releasesAbsolum is a beat-'em-up from the folks behind Streets of Rage 4. It's the first original IP from Dotemu, which has found success with the likes of the terrific Teenage Mutant Ninja Turtles: Shredder’s Revenge. It co-developed this game with Guard Crush Games and Supamonks. The art and animation from the latter looks absolutely divine. You can play Absolum solo or with a friend. Since it's a roguelite, you'll gain upgrades to bolster your character on each run while earning experience that goes toward permanent progression. There are multiple paths to explore, so the replayability factor seems strong here. Engadget senior reporter Igor Bonifacic spent some time with Absolum this summer and was impressed by it. The game received strong reviews this week too.Absolum is out now on Steam, Nintendo Switch, PS4 and PS5. Dotemu also has another beat-'em-up, Marvel Cosmic Invasion, coming soon.A few reviews I've read for Bye Sweet Carole (which are fairly mixed) dinged it for having clunky controls and some other quality-of-life problems, such as getting softlocked while trying to complete puzzles. I hope Little Sewing Machine can iron out those issues since the presentation of this game is quite something. It looks like an early-'90s animated movie, with hand-drawn animations and, seemingly, a soundtrack to match. Bye Sweet Carole is a 2D horror-platformer from publisher Maximum Entertainment in which you play as a young girl trying to find her best friend, who disappeared from an orphanage. It's out now on PC, PS5, Nintendo Switch and Xbox Series X/S.Want to see another new game with a unique look that makes it stand out from the crowd? Of course you do. Exploration action game Dreams of Another — which landed on PS5, PS VR2 and Steam this week — sees you creating the environment in a dream-like world by shooting at it. Director Baiyon (PixelJunk Eden) and the team at Q-Games used point cloud rendering technology to create the unusual, but captivating visuals. Dunno why they felt the need to put a clown in this game though. Clowns are rotten things.Dreams of Another arrived on the same day that Q-Games' PixelJunk Eden 2 hit PS4, PS5 and Steam (it's coming to Epic Games Store as well). That game debuted on Nintendo Switch in 2020.Here's yet another lovely-looking project, and this time it's a pixel-art game from Teenage Astronauts and publisher No More Robots. In Little Rocket Lab, you play as aspiring engineer Morgan, who sets out to build factories with the aim of achieving her family's dream of making a rocket ship. It’s more build a rocket, girl, than Build A Rocket Boy.This is a blend of a factory builder and life sim, and it looks rather charming. Little Rocket Lab has touched down on Steam and Xbox. It's on Game Pass Ultimate and PC Game Pass. On the subject of pixel-art games, I couldn't not include one that came out this week from a developer based in my hometown. Cairn: Mathair’s Curse is a turn-based RPG. It's set in the early 2000s in the Scottish Highlands and it sees a young lad and his mates dealing with the aftermath of a cult casting an ancient curse on their home. Solo developer Ross McRitchie spent five years making Cairn: Mathair’s Curse and his partner, Christine, composed the Celtic soundtrack. It's said to have plenty of Scottish humor, which speaks to me. The game, which Steam reviews have likened to EarthBound, is out on Steam now.Upcoming I'm looking forward to checking out Blackwood, which is slated to hit Steam in the second half of 2026. It has a pretty great pitch:By day, you run a DVD store in 2012 New York. By night, you’re a ruthless assassin. Blackwood is a cinematic third-person shooter with grounded melee combat, brutal takedowns, responsive gunplay and a double life to manage.The facial animations look a little rough in the reveal trailer, but it's alpha footage and there's plenty of time to polish it. I'm hoping the team at Bangladesh-based AttritoM7 Productions manages to do that, because otherwise this game is looking quite nifty with its John Wick-style combat.I do love a game with a great name, and I've got a couple to tell you about. Action RPG Bittersweet Birthday has hand-drawn pixel art and nothing but boss battles when it comes to combat. Bittersweet Birthday — from World Eater Games and publisher Dangen Entertainment — is set to land on Steam, GOG, Humble and Itch on November 11. It's coming to consoles later.Here’s a pinball-themed precision platformer in the mold of games like Baby Steps and Getting Over It. Fittingly, it's called A Pinball Game That Makes You Mad and you can control it with a single button.There’s no release date as yet for this project from Azimuth Studios. However, a demo is available on Steam now. Like a good teenage cousin, it's fun and annoying in equal measure.Another pre-Next Fest demo I've had a chance to check out is for Don't Stop, Girlypop!, a fast-paced arena shooter with an anti-capitalist bent. I've been looking forward to this one since I found out about it late last year. The demo, with its Y2K girly-pop aesthetics and Doom Eternal/Ultrakill-style gameplay, does not disappoint. I'm glad the team trimmed the first word from the original name — Incolatus: Don't Stop, Girlypop! — since the shorter version is much punchier and more memorable. Funny Fintan Softworks and publisher Kwalee haven't revealed a release date as yet, but I'll be checking my T9 flip phone impatiently in the meantime.This article originally appeared on Engadget at https://www.engadget.com/gaming/stylish-beat-em-ups-platformers-and-rpgs-and-other-new-indie-games-worth-checking-out-110000184.html?src=rss",
           "content": "Welcome to our latest roundup of what's going on in the indie game space. Some gorgeous new games arrived this week, and we've got some demos and reveals from upcoming projects to take a look at. Later this month, Lorelai and the Laser Eyes studio Simogo is going to celebrate its 15th anniversary with some news and surprises. Perhaps the developer is porting some of its earlier games to more platforms. I'm hoping that we'll learn about Simogo's next game as well.I'm not holding out hope for a sequel to Sayonara Wild Hearts, which is my favorite game of all time depending on the day you ask me (on other days, it's The Legend of Zelda: A Link to the Past, FYI). However, if Simogo announces a live concert of music from the game, I'm going to do my damndest to be there. I'll be tuning in on October 28 to learn what the studio has for me us in any case.Speaking of showcases, Entalto Publishing and developer GGTech ran one of their own this week. The Out of Bounds event shone a spotlight on a dozen indie games, spanning a breadth of genres. Also, a quick reminder that the latest Steam Next Fest starts at 1PM ET on Monday, October 13. As always, the week-long event will have tons of demos for you to check out. It’s always worth trying a bunch of them. You never know, you might end up being one of the first few folks to play the next Balatro, Manor Lords or Deep Rock Galactic Survivor.New releasesAbsolum is a beat-'em-up from the folks behind Streets of Rage 4. It's the first original IP from Dotemu, which has found success with the likes of the terrific Teenage Mutant Ninja Turtles: Shredder’s Revenge. It co-developed this game with Guard Crush Games and Supamonks. The art and animation from the latter looks absolutely divine. You can play Absolum solo or with a friend. Since it's a roguelite, you'll gain upgrades to bolster your character on each run while earning experience that goes toward permanent progression. There are multiple paths to explore, so the replayability factor seems strong here. Engadget senior reporter Igor Bonifacic spent some time with Absolum this summer and was impressed by it. The game received strong reviews this week too.Absolum is out now on Steam, Nintendo Switch, PS4 and PS5. Dotemu also has another beat-'em-up, Marvel Cosmic Invasion, coming soon.A few reviews I've read for Bye Sweet Carole (which are fairly mixed) dinged it for having clunky controls and some other quality-of-life problems, such as getting softlocked while trying to complete puzzles. I hope Little Sewing Machine can iron out those issues since the presentation of this game is quite something. It looks like an early-'90s animated movie, with hand-drawn animations and, seemingly, a soundtrack to match. Bye Sweet Carole is a 2D horror-platformer from publisher Maximum Entertainment in which you play as a young girl trying to find her best friend, who disappeared from an orphanage. It's out now on PC, PS5, Nintendo Switch and Xbox Series X/S.Want to see another new game with a unique look that makes it stand out from the crowd? Of course you do. Exploration action game Dreams of Another — which landed on PS5, PS VR2 and Steam this week — sees you creating the environment in a dream-like world by shooting at it. Director Baiyon (PixelJunk Eden) and the team at Q-Games used point cloud rendering technology to create the unusual, but captivating visuals. Dunno why they felt the need to put a clown in this game though. Clowns are rotten things.Dreams of Another arrived on the same day that Q-Games' PixelJunk Eden 2 hit PS4, PS5 and Steam (it's coming to Epic Games Store as well). That game debuted on Nintendo Switch in 2020.Here's yet another lovely-looking project, and this time it's a pixel-art game from Teenage Astronauts and publisher No More Robots. In Little Rocket Lab, you play as aspiring engineer Morgan, who sets out to build factories with the aim of achieving her family's dream of making a rocket ship. It’s more build a rocket, girl, than Build A Rocket Boy.This is a blend of a factory builder and life sim, and it looks rather charming. Little Rocket Lab has touched down on Steam and Xbox. It's on Game Pass Ultimate and PC Game Pass. On the subject of pixel-art games, I couldn't not include one that came out this week from a developer based in my hometown. Cairn: Mathair’s Curse is a turn-based RPG. It's set in the early 2000s in the Scottish Highlands and it sees a young lad and his mates dealing with the aftermath of a cult casting an ancient curse on their home. Solo developer Ross McRitchie spent five years making Cairn: Mathair’s Curse and his partner, Christine, composed the Celtic soundtrack. It's said to have plenty of Scottish humor, which speaks to me. The game, which Steam reviews have likened to EarthBound, is out on Steam now.Upcoming I'm looking forward to checking out Blackwood, which is slated to hit Steam in the second half of 2026. It has a pretty great pitch:By day, you run a DVD store in 2012 New York. By night, you’re a ruthless assassin. Blackwood is a cinematic third-person shooter with grounded melee combat, brutal takedowns, responsive gunplay and a double life to manage.The facial animations look a little rough in the reveal trailer, but it's alpha footage and there's plenty of time to polish it. I'm hoping the team at Bangladesh-based AttritoM7 Productions manages to do that, because otherwise this game is looking quite nifty with its John Wick-style combat.I do love a game with a great name, and I've got a couple to tell you about. Action RPG Bittersweet Birthday has hand-drawn pixel art and nothing but boss battles when it comes to combat. Bittersweet Birthday — from World Eater Games and publisher Dangen Entertainment — is set to land on Steam, GOG, Humble and Itch on November 11. It's coming to consoles later.Here’s a pinball-themed precision platformer in the mold of games like Baby Steps and Getting Over It. Fittingly, it's called A Pinball Game That Makes You Mad and you can control it with a single button.There’s no release date as yet for this project from Azimuth Studios. However, a demo is available on Steam now. Like a good teenage cousin, it's fun and annoying in equal measure.Another pre-Next Fest demo I've had a chance to check out is for Don't Stop, Girlypop!, a fast-paced arena shooter with an anti-capitalist bent. I've been looking forward to this one since I found out about it late last year. The demo, with its Y2K girly-pop aesthetics and Doom Eternal/Ultrakill-style gameplay, does not disappoint. I'm glad the team trimmed the first word from the original name — Incolatus: Don't Stop, Girlypop! — since the shorter version is much punchier and more memorable. Funny Fintan Softworks and publisher Kwalee haven't revealed a release date as yet, but I'll be checking my T9 flip phone impatiently in the meantime.This article originally appeared on Engadget at https://www.engadget.com/gaming/stylish-beat-em-ups-platformers-and-rpgs-and-other-new-indie-games-worth-checking-out-110000184.html?src=rss",
-          "feed_position": 8
+          "feed_position": 9
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/5b0hTPUKh7PB9D7CfWwO22/3b31fdc3f95c670ce5096758d8760ccd/Agent_autonomy.png",
-      "popularity_score": 2019.7649375,
+      "popularity_score": 2015.722168888889,
       "ai_summary": [
-        "The article explores the ambiguity surrounding the definition of AI agents.",
-        "It discusses the challenges in building and governing these tools safely.",
-        "The piece examines the different levels of autonomy in AI agents.",
-        "It references the foundational definition of an agent from AI textbooks.",
-        "The article considers the four key components of a modern AI agent."
+        "AI agents vary in intelligence, capability, and the level of trust placed in them.",
+        "The ambiguity surrounding AI agents makes it difficult to build and govern them safely.",
+        "An AI agent is defined as perceiving its environment through sensors and acting upon it.",
+        "Modern AI agents consist of perception, reasoning, planning, and action components.",
+        "The article aims to survey the current landscape of agent autonomy."
       ]
     },
     {
-      "id": "cluster_57",
+      "id": "cluster_0",
+      "coverage": 1,
+      "updated_at": "2025-10-12T23:16:39.550Z",
+      "title": "“Like putting on glasses for the first time”—how AI improves earthquake detection",
+      "neutral_headline": "“Like putting on glasses for the first time”—how AI improves earthquake detection",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2025/10/like-putting-on-glasses-for-the-first-time-how-ai-improves-earthquake-detection/",
+          "published_at": "2025-10-12T23:16:39.550Z",
+          "title": "“Like putting on glasses for the first time”—how AI improves earthquake detection",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 0
+        }
+      ],
+      "popularity_score": 367.99982166666666,
+      "ai_summary": [
+        "AI enhances earthquake detection capabilities.",
+        "The technology provides improved clarity in seismic data analysis.",
+        "AI helps to identify and interpret earthquake patterns more effectively.",
+        "The use of AI offers a new perspective on seismic events.",
+        "The technology is compared to the experience of improved vision."
+      ]
+    },
+    {
+      "id": "cluster_5",
+      "coverage": 1,
+      "updated_at": "Sun, 12 Oct 2025 20:50:35 +0000",
+      "title": "New Starfleet Academy trailer debuts at NYCC",
+      "neutral_headline": "New Starfleet Academy trailer debuts at NYCC: Also: our first look at S4 of Star Trek: Strange New Worlds",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2025/10/new-starfleet-academy-trailer-debuts-at-nycc/",
+          "published_at": "Sun, 12 Oct 2025 20:50:35 +0000",
+          "title": "New Starfleet Academy trailer debuts at NYCC",
+          "standfirst": "Also: our first look at S4 of Star Trek: Strange New Worlds",
+          "content": "The Star Trek universe panel at New York Comic Con (NYCC) this weekend concluded with a brand new trailer for Star Trek: Starfleet Academy. The ten-episode series will follow the exploits of the first new crop of cadets in a century. Per the official premise: Star Trek: Starfleet Academy introduces viewers to a young group of cadets who come together to pursue a common dream of hope and optimism. Under the watchful and demanding eyes of their instructors, they discover what it takes to become Starfleet officers as they navigate blossoming friendships, explosive rivalries, first loves and a new enemy that threatens both the Academy and the Federation itself. The new cadets include Sandro Rosta as human orphan Caleb Mir; Karim Diané as a Klingon cadet, Jay-Den Kraag; Kerrice Brooks as Sam (Series Acclimation Mil), the first Kasquain to attend the Academy; George Hawkins as Darem Reymi, a Khionian cadet who wants to be a captain; Bella Shepard as Genesis Lythe, a Dar-Sha cadet; and Zoë Steiner as Tarima Sadal, daughter of the president of Betazed. In addition, Holly Hunter plays Academy chancellor Captain Nahla Ake; Gina Yashere plays Cadet Master Lura Thok; Becky Lynch plays a member of Starfleet bridge crew; and Paul Giamatti plays a half-Klingon, half-Tellarite character named Nus Braka, the series' chief villain.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/academy1-1152x648-1760302457.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/academy1-1152x648-1760302457.jpg",
+      "popularity_score": 362.5652244444444,
+      "ai_summary": [
+        "A trailer for Starfleet Academy was debuted at New York Comic Con.",
+        "The event also featured a first look at the fourth season of Star Trek: Strange New Worlds.",
+        "The trailer provided a preview of the upcoming Starfleet Academy series.",
+        "Star Trek: Strange New Worlds season four is also in development.",
+        "The announcements were made at the New York Comic Con event."
+      ]
+    },
+    {
+      "id": "cluster_61",
       "coverage": 1,
       "updated_at": "Sat, 11 Oct 2025 12:00:05 +0000",
       "title": "Why doesn’t Cards Against Humanity print its game in the US? It’s complicated.",
-      "neutral_headline": "Cards Against Humanity does not print its game in the US",
+      "neutral_headline": "Why doesn’t Cards Against Humanity print its game in the US? It’s complicated",
       "items": [
         {
           "source": "Ars Technica",
@@ -72,26 +136,26 @@
           "title": "Why doesn’t Cards Against Humanity print its game in the US? It’s complicated.",
           "standfirst": "Price, quality, speed, and relationships all matter.",
           "content": "Cards Against Humanity (CAH) this week announced its newest stunt: a \"Cards Against Humanity Explains the Joke\" edition that ditches the game's rules and adds explanatory notes to each card in the box. This makes the project \"informational material\" rather than a \"game,\" and therefore CAH can avoid import tariffs. All profits from the one-off project will be donated to the American Library Association to fight censorship. While a clever way to stick it to Trump, this week's news did raise a question I've heard from several readers: If CAH is this upset about the whiplash-inducing tariff rates, which are added and then removed with almost no warning, why doesn't it print the game in the US? I mean, it's just a box of cards! How hard can it be? In the board game space, designers have wrestled with this question for years. While many US-based designers would like to work with local manufacturers, in reality, it's often not possible. Complex board games today may feature cardboard creations like constructible dice towers, custom-shaped and painted wooden markers, multicolored jewel pieces, plastic bits of nearly every possible variety, custom-printed component bags, molded miniatures, cards in multiple sizes, metallic coins, dry-erase boards, fancy box inserts, massive dual-sided playing boards, and long manuals. The only manufacturers capable of doing all this work are generally in China or central Europe (Germany still has good manufacturing, and there are also sites in Poland and the Czech Republic).Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 1,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/2f017ee4c36a46e81f80d56890b7b64fc257272d-1400x1260-1-1152x648-1760129115.png"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/2f017ee4c36a46e81f80d56890b7b64fc257272d-1400x1260-1-1152x648-1760129115.png",
-      "popularity_score": 348,
+      "popularity_score": 338,
       "ai_summary": [
-        "The article explores the reasons why Cards Against Humanity is not printed in the US.",
-        "Factors influencing the decision include price, quality, and speed.",
-        "Relationships with printing partners also play a role in the decision.",
-        "The article examines the complexities of the printing process.",
-        "The decision involves multiple considerations beyond just cost."
+        "Price, quality, speed, and relationships all influence the printing location decision.",
+        "The decision to print outside the US involves multiple factors.",
+        "The factors include cost considerations and quality control.",
+        "Speed of production and established relationships are also important.",
+        "The choice of printing location is a complex business decision."
       ]
     },
     {
-      "id": "cluster_59",
+      "id": "cluster_63",
       "coverage": 1,
       "updated_at": "Sat, 11 Oct 2025 11:15:22 +0000",
       "title": "Apple ups the reward for finding major exploits to $2 million",
-      "neutral_headline": "Apple ups the reward for finding major exploits to $2 million",
+      "neutral_headline": "Apple increases reward for finding major exploits to $2 million",
       "items": [
         {
           "source": "Ars Technica",
@@ -100,26 +164,78 @@
           "title": "Apple ups the reward for finding major exploits to $2 million",
           "standfirst": "With bonuses, maximum rewards can be as high as $5 million.",
           "content": "Since launching its bug bounty program nearly a decade ago, Apple has always touted notable maximum payouts—$200,000 in 2016 and $1 million in 2019. Now the company is upping the stakes again. At the Hexacon offensive security conference in Paris on Friday, Apple vice president of security engineering and architecture Ivan Krstić announced a new maximum payout of $2 million for a chain of software exploits that could be abused for spyware. The move reflects how valuable exploitable vulnerabilities can be within Apple's highly protected mobile environment—and the lengths the company will go to to keep such discoveries from falling into the wrong hands. In addition to individual payouts, the company's bug bounty also includes a bonus structure, adding additional awards for exploits that can bypass its extra secure Lockdown Mode as well as those discovered while Apple software is still in its beta testing phase. Taken together, the maximum award for what would otherwise be a potentially catastrophic exploit chain will now be $5 million. The changes take effect next month. “We are lining up to pay many millions of dollars here, and there’s a reason,” Krstić tells WIRED. “We want to make sure that for the hardest categories, the hardest problems, the things that most closely mirror the kinds of attacks that we see with mercenary spyware—that the researchers who have those skills and abilities and put in that effort and time can get a tremendous reward.\"Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 2,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2014/09/apple-logo-1152x648.png"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2014/09/apple-logo-1152x648.png",
-      "popularity_score": 335,
+      "popularity_score": 325,
       "ai_summary": [
-        "Apple is increasing its rewards for discovering major software exploits.",
-        "The base reward is now set at $2 million for qualifying discoveries.",
-        "Bonuses can potentially raise the maximum reward to $5 million.",
-        "The program aims to incentivize security researchers.",
-        "The increased rewards reflect the importance of security."
+        "Apple is offering up to $2 million for discovering major software exploits.",
+        "Bonuses can increase the maximum reward to as high as $5 million.",
+        "The increased reward incentivizes security researchers.",
+        "The program aims to improve Apple product security.",
+        "The reward program encourages vulnerability disclosure."
       ]
     },
     {
-      "id": "cluster_62",
+      "id": "cluster_3",
+      "coverage": 1,
+      "updated_at": "2025-10-12T23:16:39.551Z",
+      "title": "Trump admin fires more health employees amid government shutdown",
+      "neutral_headline": "Trump admin fires more health employees amid government shutdown",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2025/10/more-federal-health-employees-axed-amid-shutdown-linked-terminations/",
+          "published_at": "2025-10-12T23:16:39.551Z",
+          "title": "Trump admin fires more health employees amid government shutdown",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 3
+        }
+      ],
+      "popularity_score": 322.9998219444444,
+      "ai_summary": [
+        "The Trump administration terminated more health employees.",
+        "The firings occurred during a government shutdown.",
+        "The specific number of employees affected is not specified.",
+        "The action was taken amid ongoing budget negotiations.",
+        "The impact of the firings on health services is not detailed."
+      ]
+    },
+    {
+      "id": "cluster_4",
+      "coverage": 1,
+      "updated_at": "2025-10-12T23:16:39.551Z",
+      "title": "Putin OKs plan to turn Russian spacecraft into flying billboards",
+      "neutral_headline": "Putin OKs plan to turn Russian spacecraft into flying billboards",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2025/10/putin-oks-plan-to-turn-russian-spacecraft-into-flying-billboards/",
+          "published_at": "2025-10-12T23:16:39.551Z",
+          "title": "Putin OKs plan to turn Russian spacecraft into flying billboards",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 4
+        }
+      ],
+      "popularity_score": 320.9998219444444,
+      "ai_summary": [
+        "Putin approved a plan to use Russian spacecraft for advertising.",
+        "The spacecraft will be used as flying billboards.",
+        "The initiative aims to generate revenue.",
+        "The plan involves utilizing space assets for commercial purposes.",
+        "The details of the advertising plan are not specified."
+      ]
+    },
+    {
+      "id": "cluster_66",
       "coverage": 1,
       "updated_at": "Sat, 11 Oct 2025 10:30:59 +0000",
       "title": "How close are we to solid state batteries for electric vehicles?",
-      "neutral_headline": "Solid state batteries for electric vehicles are approaching",
+      "neutral_headline": "How close are we to solid state batteries for electric vehicles?",
       "items": [
         {
           "source": "Ars Technica",
@@ -128,130 +244,148 @@
           "title": "How close are we to solid state batteries for electric vehicles?",
           "standfirst": "Superionic materials promise greater range, faster charges and more safety.",
           "content": "Every few weeks, it seems, yet another lab proclaims yet another breakthrough in the race to perfect solid-state batteries: next-generation power packs that promise to give us electric vehicles (EVs) so problem-free that we’ll have no reason left to buy gas-guzzlers. These new solid-state cells are designed to be lighter and more compact than the lithium-ion batteries used in today’s EVs. They should also be much safer, with nothing inside that can burn like those rare but hard-to-extinguish lithium-ion fires. They should hold a lot more energy, turning range anxiety into a distant memory with consumer EVs able to go four, five, six hundred miles on a single charge. And forget about those “fast” recharges lasting half an hour or more: Solid-state batteries promise EV fill-ups in minutes—almost as fast as any standard car gets with gasoline.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/solid-state-batteries-1600x600-1-1152x600.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/solid-state-batteries-1600x600-1-1152x600.jpg",
-      "popularity_score": 319,
+      "popularity_score": 309,
       "ai_summary": [
-        "Solid state batteries promise greater range for electric vehicles.",
-        "They also offer the potential for faster charging times.",
-        "Increased safety is another benefit of solid state batteries.",
-        "The article discusses the progress of superionic materials.",
-        "These materials are key to the development of the batteries."
+        "Superionic materials promise greater range for electric vehicles.",
+        "Solid state batteries offer faster charging capabilities.",
+        "The technology aims to improve safety in electric vehicles.",
+        "Superionic materials are key to solid state battery development.",
+        "The development of solid state batteries is ongoing."
       ]
     },
     {
-      "id": "cluster_77",
+      "id": "cluster_5",
       "coverage": 1,
-      "updated_at": "Fri, 10 Oct 2025 21:48:40 +0000",
-      "title": "Trump admin fires more health employees amid government shutdown",
-      "neutral_headline": "Trump admin fires more health employees amid government shutdown",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2025/10/more-federal-health-employees-axed-amid-shutdown-linked-terminations/",
-          "published_at": "Fri, 10 Oct 2025 21:48:40 +0000",
-          "title": "Trump admin fires more health employees amid government shutdown",
-          "standfirst": "HHS would not say how many are being let go, but union says \"thousands.\"",
-          "content": "An unknown number of federal health employees received termination notifications Friday afternoon as part of a mass reduction in force by the Trump administration that senior officials and federal employment lawyers say is almost certainly illegal. The Department of Health and Human Services has taken heavy hits since Trump came to office. Early in the year, the Trump administration pushed out 10,000 employees through early retirements, deferred resignations, and other efforts while laying off 10,000 more, slashing the HHS workforce from 82,000 to 62,000 in all. In the current government shutdown—which hinges on a dispute over Affordable Care Act tax credits that 80 percent of Americans support—more than 32,000 HHS employees are furloughed. In an emailed statement to Ars Technica, HHS Communications Director Andrew Nixon said that HHS employees \"across multiple divisions\" have received termination notices.Read full article Comments",
-          "feed_position": 3,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-2177324845-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-2177324845-1152x648.jpg",
-      "popularity_score": 303,
-      "ai_summary": [
-        "The Trump administration is letting go of more health employees.",
-        "The exact number of layoffs by HHS is not being disclosed.",
-        "A union claims that \"thousands\" of employees are affected.",
-        "The layoffs are occurring during a government shutdown.",
-        "The article focuses on the impact of the shutdown on HHS."
-      ]
-    },
-    {
-      "id": "cluster_79",
-      "coverage": 1,
-      "updated_at": "Fri, 10 Oct 2025 21:10:09 +0000",
-      "title": "Putin OKs plan to turn Russian spacecraft into flying billboards",
-      "neutral_headline": "Putin OKs plan to turn Russian spacecraft into flying billboards",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2025/10/putin-oks-plan-to-turn-russian-spacecraft-into-flying-billboards/",
-          "published_at": "Fri, 10 Oct 2025 21:10:09 +0000",
-          "title": "Putin OKs plan to turn Russian spacecraft into flying billboards",
-          "standfirst": "This Soyuz mission is brought to you by the Wagner Group.",
-          "content": "These are tough times for Russia's civilian space program. In the last few years, Russia has cut back on the number of Soyuz crew missions it is sending to the International Space Station, and a replacement for the nearly 60-year-old Soyuz spacecraft remains elusive. While the United States and China are launching more space missions than ever before, Russia's once-dominant launch cadence is on a downhill slide. Russia's access to global markets dried up after Russian President Vladimir Putin launched the country's invasion of Ukraine in February 2022. The fallout from the invasion killed several key space partnership between Russia and Europe. Russia's capacity to do new things in space seems to be focused on military programs like anti-satellite weapons.Read full article Comments",
-          "feed_position": 4,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/51a-104-049-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/51a-104-049-1152x648.jpg",
-      "popularity_score": 301,
-      "ai_summary": [
-        "Russia plans to use spacecraft as advertising platforms.",
-        "The mission is sponsored by the Wagner Group.",
-        "The article discusses the commercialization of space.",
-        "The initiative involves turning spacecraft into billboards.",
-        "The project highlights the intersection of space and advertising."
-      ]
-    },
-    {
-      "id": "cluster_80",
-      "coverage": 1,
-      "updated_at": "Fri, 10 Oct 2025 20:58:40 +0000",
+      "updated_at": "2025-10-12T23:16:39.551Z",
       "title": "People regret buying Amazon smart displays after being bombarded with ads",
       "neutral_headline": "People regret buying Amazon smart displays after being bombarded with ads",
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/",
-          "published_at": "Fri, 10 Oct 2025 20:58:40 +0000",
+          "published_at": "2025-10-12T23:16:39.551Z",
           "title": "People regret buying Amazon smart displays after being bombarded with ads",
-          "standfirst": "\"I'm about to just toss the whole thing...\"",
-          "content": "Amazon Echo Show owners are reporting an uptick in advertisements on their smart displays. The company's Echo Show smart displays have previously shown ads through the company's Shopping Lists feature, as well as advertising for Alexa skills. Additionally, Echo Shows may play audio ads when users listen to Amazon Music on Alexa. However, reports on Reddit (examples here, here, and here) and from The Verge’s Jennifer Pattison Tuohy, who owns more than one Echo Show, suggest that Amazon has increased the amount of ads it shows on its smart displays' home screens. The Echo Show’s apparent increase in ads is pushing people to stop using or even return their Echo Shows.Read full article Comments",
-          "feed_position": 5,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/1_Echo_Family_Beekeeper._TTW_-1152x648.jpg"
+          "standfirst": "",
+          "content": "",
+          "feed_position": 5
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/1_Echo_Family_Beekeeper._TTW_-1152x648.jpg",
-      "popularity_score": 283,
+      "popularity_score": 302.9998219444444,
       "ai_summary": [
-        "Users are expressing regret over purchasing Amazon smart displays.",
-        "The primary reason is the overwhelming number of advertisements.",
-        "Some users are considering discarding the devices altogether.",
-        "The article highlights user dissatisfaction with the ads.",
-        "The issue concerns the advertising practices of Amazon."
+        "Some users express regret after purchasing Amazon smart displays.",
+        "The regret stems from being bombarded with advertisements.",
+        "The ads are a common complaint among users.",
+        "The advertising experience is a negative aspect for some.",
+        "The smart displays are criticized for excessive advertising."
       ]
     },
     {
-      "id": "cluster_84",
+      "id": "cluster_6",
       "coverage": 1,
-      "updated_at": "Fri, 10 Oct 2025 19:48:25 +0000",
-      "title": "Marvel gets meta with Wonder Man teaser",
-      "neutral_headline": "Marvel gets meta with Wonder Man teaser",
+      "updated_at": "2025-10-12T23:16:39.551Z",
+      "title": "“Extremely angry” Trump threatens “massive” tariff on all Chinese exports",
+      "neutral_headline": "“Extremely angry” Trump threatens “massive” tariff on all Chinese exports",
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2025/10/marvel-gets-meta-with-wonder-man-teaser/",
-          "published_at": "Fri, 10 Oct 2025 19:48:25 +0000",
-          "title": "Marvel gets meta with Wonder Man teaser",
-          "standfirst": "\"There is an opportunity to shock audiences, to re-imagine a whole genre of storytelling.\"",
-          "content": "Marvel Studios has dropped the first teaser for Wonder Man, an eight-episode miniseries slated for a January release, ahead of its panel at New York Comic Con this weekend. Part of the MCU's Phase Six, the miniseries was created by Destin Daniel Cretton (Shang-Chi and the Legend of Five Rings) and Andrew Guest (Hawkeye), with Guest serving as showrunner. It has been in development since 2022. The comic book version of the character is the son of a rich industrialist who inherits the family munitions factory but is being crushed by the competition: Stark Industries. Baron Zemo (Falcon and the Winter Soldier) then recruits him to infiltrate and betray the Avengers, giving him super powers (\"ionic energy\") via a special serum. He eventually becomes a superhero and Avengers ally, helping them take on Doctor Doom, among other exploits. Since we know Doctor Doom is the Big Bad of the upcoming two new Avengers movies, a Wonder Man miniseries makes sense.Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/wonderman1-1152x648.jpg"
+          "url": "https://arstechnica.com/tech-policy/2025/10/extremely-angry-trump-threatens-massive-tariff-on-all-chinese-exports/",
+          "published_at": "2025-10-12T23:16:39.551Z",
+          "title": "“Extremely angry” Trump threatens “massive” tariff on all Chinese exports",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 6
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/wonderman1-1152x648.jpg",
-      "popularity_score": 270,
+      "popularity_score": 292.9998219444444,
       "ai_summary": [
-        "Marvel is releasing a teaser for the Wonder Man project.",
-        "The project aims to shock audiences with its storytelling.",
-        "It intends to re-imagine the genre of storytelling.",
-        "The article discusses the meta approach of the teaser.",
-        "The teaser hints at a new direction for Marvel."
+        "Trump threatened \"massive\" tariffs on all Chinese exports.",
+        "The threat was made with strong language.",
+        "The tariffs would be a significant economic measure.",
+        "The statement reflects a negative sentiment towards China.",
+        "The potential tariffs could impact international trade."
+      ]
+    },
+    {
+      "id": "cluster_7",
+      "coverage": 1,
+      "updated_at": "2025-10-12T23:16:39.551Z",
+      "title": "Bose SoundTouch home theater systems regress into dumb speakers Feb. 18",
+      "neutral_headline": "Bose SoundTouch home theater systems regress into dumb speakers Feb. 18",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/10/bose-soundtouch-home-theater-systems-regress-into-dumb-speakers-feb-18/",
+          "published_at": "2025-10-12T23:16:39.551Z",
+          "title": "Bose SoundTouch home theater systems regress into dumb speakers Feb. 18",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 7
+        }
+      ],
+      "popularity_score": 282.9998219444444,
+      "ai_summary": [
+        "Bose SoundTouch home theater systems will lose smart features.",
+        "The change will occur on February 18.",
+        "The systems will revert to functioning as basic speakers.",
+        "The functionality change is due to software updates.",
+        "The update will remove certain smart capabilities."
+      ]
+    },
+    {
+      "id": "cluster_9",
+      "coverage": 1,
+      "updated_at": "2025-10-12T23:16:39.551Z",
+      "title": "Microsoft warns of new “Payroll Pirate” scam stealing employees’ direct deposits",
+      "neutral_headline": "Microsoft warns of new “Payroll Pirate” scam stealing employees’ direct deposits",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2025/10/payroll-pirate-phishing-scam-that-takes-over-workday-accounts-steals-paychecks/",
+          "published_at": "2025-10-12T23:16:39.551Z",
+          "title": "Microsoft warns of new “Payroll Pirate” scam stealing employees’ direct deposits",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 9
+        }
+      ],
+      "popularity_score": 274.9998219444444,
+      "ai_summary": [
+        "Microsoft is warning about a new \"Payroll Pirate\" scam.",
+        "The scam targets employees' direct deposit information.",
+        "The scam aims to steal employees' wages.",
+        "The scam involves fraudulent activities.",
+        "Microsoft is alerting users to the potential threat."
+      ]
+    },
+    {
+      "id": "cluster_8",
+      "coverage": 1,
+      "updated_at": "2025-10-12T23:16:39.551Z",
+      "title": "We’re about to find many more interstellar interlopers—here’s how to visit one",
+      "neutral_headline": "Interstellar Interlopers: How to Visit One",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/features/2025/10/were-about-to-find-many-more-interstellar-interlopers-heres-how-to-visit-one/",
+          "published_at": "2025-10-12T23:16:39.551Z",
+          "title": "We’re about to find many more interstellar interlopers—here’s how to visit one",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 8
+        }
+      ],
+      "popularity_score": 272.9998219444444,
+      "ai_summary": [
+        "Scientists anticipate discovering more interstellar objects passing through our solar system.",
+        "These objects originate from outside our solar system, offering unique research opportunities.",
+        "Visiting one would require advanced technology and precise trajectory planning.",
+        "The article likely discusses potential methods for intercepting and studying these objects.",
+        "The focus is on the scientific and technological challenges of interstellar exploration."
       ]
     }
   ]
