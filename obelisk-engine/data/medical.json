@@ -1,17 +1,44 @@
 {
   "clinical": {
-    "updated_at": "2025-10-12T07:16:27.043Z",
+    "updated_at": "2025-10-12T11:13:53.180Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-10-12T07:16:39.487Z",
+    "updated_at": "2025-10-12T11:14:04.732Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2025-10-12T07:16:36.409Z",
+    "updated_at": "2025-10-12T11:14:02.161Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sun, 12 Oct 2025 08:33:52 GMT",
+        "title": "My late husband's organs transformed the lives of four people",
+        "neutral_headline": "My late husband's organs transformed the lives of four people",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c62ldw09y6go?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 12 Oct 2025 08:33:52 GMT",
+            "title": "My late husband's organs transformed the lives of four people",
+            "standfirst": "Mark Hutchinson was only 52 when he died unexpectedly last year after suffering two strokes \"out of the blue\".",
+            "content": "Mark Hutchinson was only 52 when he died unexpectedly last year after suffering two strokes \"out of the blue\".",
+            "feed_position": 27,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1e/live/0949be30-a752-11f0-b741-177e3e2c2fc7.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1e/live/0949be30-a752-11f0-b741-177e3e2c2fc7.jpg",
+        "ai_summary": [
+          "Mark Hutchinson's organs saved four lives after his death.",
+          "He died unexpectedly at age 52 from two strokes.",
+          "His family made the decision to donate his organs.",
+          "The article highlights the impact of organ donation.",
+          "The story emphasizes the importance of this gift."
+        ]
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Sun, 12 Oct 2025 05:00:45 GMT",
         "title": "The plastic inside us: how microplastics may be reshaping our bodies and minds",
@@ -28,15 +55,15 @@
           }
         ],
         "ai_summary": [
-          "Microplastics are found in human blood, brains, and guts.",
-          "Scientists are beginning to understand the effects of microplastics.",
-          "Microplastics have been found in various human organs and tissues.",
-          "Researchers suspect microplastics may affect gut microbes.",
-          "Changes in gut bacteria may be linked to depression and cancer."
+          "Microplastics are found in blood, brains, and guts.",
+          "Scientists are beginning to understand their effects.",
+          "Microplastics may be affecting gut microbes.",
+          "Changes in gut bacteria may be linked to depression.",
+          "The study exposed gut bacteria to common microplastics."
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sat, 11 Oct 2025 19:15:39 GMT",
         "title": "Diane Keaton, Oscar-winning star of Annie Hall and The Godfather, dies aged 79",
@@ -47,21 +74,21 @@
             "url": "https://www.theguardian.com/film/2025/oct/11/diane-keaton-oscar-winning-star-of-annie-hall-and-the-godfather-dies-aged-79",
             "published_at": "Sat, 11 Oct 2025 19:15:39 GMT",
             "title": "Diane Keaton, Oscar-winning star of Annie Hall and The Godfather, dies aged 79",
-            "standfirst": "The legendary actor best known for her many collaborations with Woody Allen, as well as films including Reds, The First Wives Club and Book Club, has diedDiane Keaton: a life in picturesPeter Bradshaw on Diane KeatonKeaton interviewed in 2023 and 2014Diane Keaton, one of the best-loved film stars of the past 50 years, has died at the age of 79 in California.The news was confirmed by People magazine. Further details are not available at this time and her loved ones have asked for privacy, according to a family spokesperson. Continue reading...",
-            "content": "The legendary actor best known for her many collaborations with Woody Allen, as well as films including Reds, The First Wives Club and Book Club, has diedDiane Keaton: a life in picturesPeter Bradshaw on Diane KeatonKeaton interviewed in 2023 and 2014Diane Keaton, one of the best-loved film stars of the past 50 years, has died at the age of 79 in California.The news was confirmed by People magazine. Further details are not available at this time and her loved ones have asked for privacy, according to a family spokesperson. Continue reading...",
+            "standfirst": "The legendary actor best known for her many collaborations with Woody Allen, as well as films including Reds, The First Wives Club and Book Club, has diedDiane Keaton: a life in picturesPeter Bradshaw on Diane KeatonKeaton interviewed in 2023 and 2014Jess Cartner-Morley on Keaton’s styleDiane Keaton, one of the best-loved film stars of the past 50 years, has died at the age of 79 in California.The news was confirmed by People magazine. Further details are not available at this time and her loved ones have asked for privacy, according to a family spokesperson. Continue reading...",
+            "content": "The legendary actor best known for her many collaborations with Woody Allen, as well as films including Reds, The First Wives Club and Book Club, has diedDiane Keaton: a life in picturesPeter Bradshaw on Diane KeatonKeaton interviewed in 2023 and 2014Jess Cartner-Morley on Keaton’s styleDiane Keaton, one of the best-loved film stars of the past 50 years, has died at the age of 79 in California.The news was confirmed by People magazine. Further details are not available at this time and her loved ones have asked for privacy, according to a family spokesperson. Continue reading...",
             "feed_position": 1
           }
         ],
         "ai_summary": [
-          "Diane Keaton, a celebrated actress, has passed away at age 79.",
+          "Diane Keaton, a film star, has died at age 79.",
           "She was known for collaborations with Woody Allen.",
-          "Keaton starred in films like \"Reds\" and \"The Godfather\".",
+          "Keaton starred in films like *Reds* and *The Godfather*.",
           "The news was confirmed by People magazine.",
-          "Her family has requested privacy during this time."
+          "Her family has requested privacy."
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 11 Oct 2025 11:01:27 GMT",
         "title": "Report shows 'stark' gender gap in HIV prevention",
@@ -80,15 +107,40 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3416/live/f81d8660-a67e-11f0-91dc-8bae54b190c0.jpg",
         "ai_summary": [
-          "A report highlights a significant gender gap in HIV prevention.",
-          "A meeting will address the growing inequality in HIV prevention.",
-          "Organizers are concerned about the widening gap.",
-          "The focus is on improving HIV prevention strategies.",
-          "The meeting aims to find solutions to the inequality."
+          "A report reveals a significant gender gap in HIV prevention.",
+          "A meeting will discuss tackling this inequality.",
+          "Organizers say the gap is growing.",
+          "The focus is on addressing disparities in prevention.",
+          "The meeting aims to find solutions to the problem."
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
+        "coverage": 1,
+        "updated_at": "Sat, 11 Oct 2025 05:00:18 GMT",
+        "title": "TikTok influencers fuelling parallel market for unlicensed weight-loss drug",
+        "neutral_headline": "TikTok influencers fuelling parallel market for unlicensed weight-loss drug",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/money/2025/oct/11/tiktok-influencers-telegram-whatsapp-parallel-market-unlicensed-weight-loss-drug-retatrutide-uk",
+            "published_at": "Sat, 11 Oct 2025 05:00:18 GMT",
+            "title": "TikTok influencers fuelling parallel market for unlicensed weight-loss drug",
+            "standfirst": "Guardian finds a thriving trade on Telegram for retatrutide, which is still in clinical trials and illegal to sellAn online parallel market for an unlicensed weight-loss drug is being fuelled by TikTok fitness influencers and sellers on WhatsApp, a Guardian investigation can reveal.Retatrutide, which is still in clinical trials, is being advertised by social media influencers for its supposed fat-burning effects. Followers are urged to message the accounts privately for supplier links, as well as being provided with discount codes. Continue reading...",
+            "content": "Guardian finds a thriving trade on Telegram for retatrutide, which is still in clinical trials and illegal to sellAn online parallel market for an unlicensed weight-loss drug is being fuelled by TikTok fitness influencers and sellers on WhatsApp, a Guardian investigation can reveal.Retatrutide, which is still in clinical trials, is being advertised by social media influencers for its supposed fat-burning effects. Followers are urged to message the accounts privately for supplier links, as well as being provided with discount codes. Continue reading...",
+            "feed_position": 2
+          }
+        ],
+        "ai_summary": [
+          "TikTok influencers are promoting an unlicensed weight-loss drug.",
+          "The drug, retatrutide, is still in clinical trials.",
+          "The drug is being sold on Telegram and WhatsApp.",
+          "Influencers provide discount codes and supplier links.",
+          "The Guardian investigation revealed the thriving trade."
+        ]
+      },
+      {
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sat, 11 Oct 2025 05:00:18 GMT",
         "title": "Will UK taxpayers get their £122m back from PPE Medpro?",
@@ -101,48 +153,23 @@
             "title": "Will UK taxpayers get their £122m back from PPE Medpro?",
             "standfirst": "The high court told the company linked to Michelle Mone to pay up over the supply of defective gowns, but there appears no clear route to reclaim the fundsThe five-year unravelling of Britain’s most high-profile Covid contracts scandal involving a baroness, her husband and multimillion-pound government deals accelerated last week with a high court judgment against the company linked to the former Tory peer Michelle Mone.The judge, Mrs Justice Cockerill, ruled that PPE Medpro, owned by Mone’s husband, the Isle of Man-based businessman Doug Barrowman, supplied defective personal protective equipment (PPE) for use in the NHS during the pandemic. Cockerill ordered that PPE Medpro must return the sum of £122m, which the Department of Health and Social Care paid for the order of 25m sterile surgical gowns, under a contract awarded in June 2020 via the VIP lane. Continue reading...",
             "content": "The high court told the company linked to Michelle Mone to pay up over the supply of defective gowns, but there appears no clear route to reclaim the fundsThe five-year unravelling of Britain’s most high-profile Covid contracts scandal involving a baroness, her husband and multimillion-pound government deals accelerated last week with a high court judgment against the company linked to the former Tory peer Michelle Mone.The judge, Mrs Justice Cockerill, ruled that PPE Medpro, owned by Mone’s husband, the Isle of Man-based businessman Doug Barrowman, supplied defective personal protective equipment (PPE) for use in the NHS during the pandemic. Cockerill ordered that PPE Medpro must return the sum of £122m, which the Department of Health and Social Care paid for the order of 25m sterile surgical gowns, under a contract awarded in June 2020 via the VIP lane. Continue reading...",
-            "feed_position": 2
-          }
-        ],
-        "ai_summary": [
-          "A high court ruled PPE Medpro must repay £122 million.",
-          "The company is linked to Michelle Mone.",
-          "The funds relate to defective PPE gowns supplied during the pandemic.",
-          "The government awarded the contract via a VIP lane.",
-          "There is no clear path to reclaim the funds yet."
-        ]
-      },
-      {
-        "id": "cluster_4",
-        "coverage": 1,
-        "updated_at": "Sat, 11 Oct 2025 05:00:18 GMT",
-        "title": "TikTok influencers fuelling parallel market for unlicensed weight-loss drug",
-        "neutral_headline": "TikTok Influencers Promote Unlicensed Weight Loss Drug",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/money/2025/oct/11/tiktok-influencers-telegram-whatsapp-parallel-market-unlicensed-weight-loss-drug-retatrutide-uk",
-            "published_at": "Sat, 11 Oct 2025 05:00:18 GMT",
-            "title": "TikTok influencers fuelling parallel market for unlicensed weight-loss drug",
-            "standfirst": "Guardian finds a thriving trade on Telegram for retatrutide, which is still in clinical trials and illegal to sellAn online parallel market for an unlicensed weight-loss drug is being fuelled by TikTok fitness influencers and sellers on WhatsApp, a Guardian investigation can reveal.Retatrutide, which is still in clinical trials, is being advertised by social media influencers for its supposed fat-burning effects. Followers are urged to message the accounts privately for supplier links, as well as being provided with discount codes. Continue reading...",
-            "content": "Guardian finds a thriving trade on Telegram for retatrutide, which is still in clinical trials and illegal to sellAn online parallel market for an unlicensed weight-loss drug is being fuelled by TikTok fitness influencers and sellers on WhatsApp, a Guardian investigation can reveal.Retatrutide, which is still in clinical trials, is being advertised by social media influencers for its supposed fat-burning effects. Followers are urged to message the accounts privately for supplier links, as well as being provided with discount codes. Continue reading...",
             "feed_position": 3
           }
         ],
         "ai_summary": [
-          "TikTok influencers are promoting retatrutide, an unlicensed weight-loss drug, on social media.",
-          "The drug is still in clinical trials and illegal to sell, according to the Guardian investigation.",
-          "Influencers urge followers to message privately for supplier links and discount codes.",
-          "Retatrutide is advertised for its supposed fat-burning effects.",
-          "The Guardian found a thriving trade on Telegram for the drug."
+          "A company linked to Michelle Mone was ordered to pay £122m.",
+          "The high court ruled on defective PPE supply.",
+          "The PPE was supplied during the pandemic.",
+          "The government paid for 25 million surgical gowns.",
+          "There is no clear path to reclaim the funds."
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Fri, 10 Oct 2025 16:55:00 GMT",
         "title": "Maureen Crill obituary",
-        "neutral_headline": "Nurse and Midwife Maureen Crill Dies at Age 68",
+        "neutral_headline": "Obituary of Maureen Crill, Nurse and Humanitarian Worker",
         "items": [
           {
             "source": "Guardian Health",
@@ -157,19 +184,19 @@
         ],
         "featured_image": "https://i.guim.co.uk/img/media/e89f8f842e00d6c1c84dc6e9ed7453b790f5eb62/0_29_318_254/master/318.jpg?width=140&quality=85&auto=format&fit=max&s=dc1a87d396ce7a6659d087c047fe3cd2",
         "ai_summary": [
-          "Maureen Crill died from complications of a rare autoimmune disease at age 68.",
-          "She worked in challenging humanitarian postings in Africa, South America, Asia, and North America.",
-          "Crill was a nurse, midwife, and health manager throughout her career.",
-          "She was known for her resilience, courage, and cultural sensitivity.",
-          "Her work often took place in areas of armed conflict."
+          "Maureen Crill, a nurse and midwife, died at age 68 from complications of a rare autoimmune disease.",
+          "She spent her career in challenging humanitarian postings across Africa, South America, and Asia.",
+          "Crill was known for her resilience, courage, and professionalism in areas of armed conflict.",
+          "Her work earned her respect due to her kindness and cultural sensitivity in various settings.",
+          "She was practical, tough, down-to-earth, and brave throughout her humanitarian work."
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 10 Oct 2025 16:21:17 GMT",
         "title": "Enjoying my meat that’s low on miles | Letter",
-        "neutral_headline": "Letter Discusses Meat Consumption and CO2 Levels",
+        "neutral_headline": "Enjoying my meat that’s low on miles | Letter: It’s good to encourage people to reduce their intake of meat and eat more vegetables, but these also contribute to increased CO2 levels, says Dr Kirstine Oswald",
         "items": [
           {
             "source": "Guardian Health",
@@ -182,19 +209,19 @@
           }
         ],
         "ai_summary": [
-          "A letter discusses the impact of ultra-processed food on the environment.",
-          "The letter mentions the need to reduce meat intake and eat more vegetables.",
-          "Vegetables, nuts, and grains also contribute to increased CO2 levels due to transport.",
-          "The letter writer is glad the impact of ultra-processed food is being investigated.",
-          "Meat and dairy are often singled out as foods detrimental to the environment."
+          "Dr. Kirstine Oswald discusses the impact of ultra-processed food on the environment and health.",
+          "She notes the need to transport ingredients globally, contributing to increased CO2 levels.",
+          "Oswald acknowledges the focus on meat and dairy's environmental impact.",
+          "She suggests that vegetables, nuts, and grains also require long-distance transport.",
+          "The letter encourages reducing meat intake and eating more vegetables, nuts, and grains."
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 10 Oct 2025 16:15:02 GMT",
         "title": "Down on the farm with George Clooney | Brief letters",
-        "neutral_headline": "George Clooney Discusses Survival Skills on His Farm",
+        "neutral_headline": "George Clooney Discusses Survival Skills with His Children",
         "items": [
           {
             "source": "Guardian Health",
@@ -207,69 +234,17 @@
           }
         ],
         "ai_summary": [
-          "George Clooney discusses his handyman skills on his farm in France.",
-          "Clooney says it is important for his children to learn survival skills.",
-          "The letter writer notes different definitions of \"survival\" and \"farm\".",
-          "Another letter writer discusses falling asleep to LBC News traffic reports.",
-          "The letter writer woke up fully apprised of the progress of roadworks."
-        ]
-      },
-      {
-        "id": "cluster_8",
-        "coverage": 1,
-        "updated_at": "Fri, 10 Oct 2025 11:11:03 GMT",
-        "title": "Millions of over-50s have undiagnosed sight and hearing problems, UK study suggests",
-        "neutral_headline": "UK Study Reveals Undiagnosed Sight and Hearing Problems",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/politics/2025/oct/10/millions-of-older-britons-likely-to-have-undiagnosed-sensory-problems-study-finds",
-            "published_at": "Fri, 10 Oct 2025 11:11:03 GMT",
-            "title": "Millions of over-50s have undiagnosed sight and hearing problems, UK study suggests",
-            "standfirst": "Research finds significant ‘unmet need’ for help with sight and hearing health with many people unaware of problemsMillions of people aged 50 or over in the UK have undiagnosed sight or hearing problems, according to research, prompting calls for that age group to have checkups more regularly.Doctors involved in the research said the findings were “deeply concerning” and warned that those affected were at risk of falls, mental ill-health and of leading socially restricted lives.6.7 million people in the UK aged 50 or over have trouble seeing out of one or both eyes.2.4 million are visually impaired in one eye20.3 million have some form of hearing loss in one or both ears.7.7 million cannot hear clearly with both ears. Continue reading...",
-            "content": "Research finds significant ‘unmet need’ for help with sight and hearing health with many people unaware of problemsMillions of people aged 50 or over in the UK have undiagnosed sight or hearing problems, according to research, prompting calls for that age group to have checkups more regularly.Doctors involved in the research said the findings were “deeply concerning” and warned that those affected were at risk of falls, mental ill-health and of leading socially restricted lives.6.7 million people in the UK aged 50 or over have trouble seeing out of one or both eyes.2.4 million are visually impaired in one eye20.3 million have some form of hearing loss in one or both ears.7.7 million cannot hear clearly with both ears. Continue reading...",
-            "feed_position": 7
-          }
-        ],
-        "ai_summary": [
-          "Millions of over-50s in the UK have undiagnosed sight or hearing problems.",
-          "The research prompts calls for more regular checkups for the age group.",
-          "6.7 million people aged 50+ have trouble seeing out of one or both eyes.",
-          "2.4 million are visually impaired in one eye.",
-          "20.3 million have some form of hearing loss in one or both ears."
-        ]
-      },
-      {
-        "id": "cluster_9",
-        "coverage": 1,
-        "updated_at": "Fri, 10 Oct 2025 08:01:28 GMT",
-        "title": "Green turtle bounces back from brink in conservation 'win'",
-        "neutral_headline": "Green turtle bounces back from brink in conservation 'win",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cg426qqqqnro?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 10 Oct 2025 08:01:28 GMT",
-            "title": "Green turtle bounces back from brink in conservation 'win'",
-            "standfirst": "Once endangered due to hunting, it is making a strong recovery thanks to global conservation efforts.",
-            "content": "Once endangered due to hunting, it is making a strong recovery thanks to global conservation efforts.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0524/live/c8f01350-a532-11f0-8469-192d9823e9a2.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0524/live/c8f01350-a532-11f0-8469-192d9823e9a2.jpg",
-        "ai_summary": [
-          "Green turtles are making a strong recovery due to global conservation efforts.",
-          "The turtles were once endangered due to hunting.",
-          "Conservation efforts have helped the green turtle population rebound.",
-          "The recovery is considered a significant conservation success.",
-          "The BBC reported on the positive impact of conservation."
+          "George Clooney invites his children to watch him perform handyman tasks on their farm in France.",
+          "Clooney mentions fixing the automated cover for the swimming pool as an example.",
+          "The author notes a different definition of \"survival\" and \"farm\" compared to Clooney.",
+          "Another letter writer shares their experience of using LBC News for traffic reports.",
+          "The letter writer woke up fully informed about roadworks on the Brent Cross flyover."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-10-12T07:16:39.487Z",
+    "updated_at": "2025-10-12T11:14:04.733Z",
     "clusters": []
   }
 }
