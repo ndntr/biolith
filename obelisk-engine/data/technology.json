@@ -1,12 +1,50 @@
 {
-  "updated_at": "2025-10-13T23:16:55.481Z",
+  "updated_at": "2025-10-14T03:33:03.405Z",
   "clusters": [
     {
-      "id": "cluster_1",
+      "id": "cluster_0",
+      "coverage": 2,
+      "updated_at": "Mon, 13 Oct 2025 23:30:01 -0400",
+      "title": "Researchers used an off-the-shelf system to compile a vast collection of private data, including T-Mobile users' calls and texts, sent by satellites unencrypted (Wired)",
+      "neutral_headline": "Satellites Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data",
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/251013/p50#a251013p50",
+          "published_at": "Mon, 13 Oct 2025 23:30:01 -0400",
+          "title": "Researchers used an off-the-shelf system to compile a vast collection of private data, including T-Mobile users' calls and texts, sent by satellites unencrypted (Wired)",
+          "standfirst": "Wired: Researchers used an off-the-shelf system to compile a vast collection of private data, including T-Mobile users' calls and texts, sent by satellites unencrypted &mdash; With just $800 in basic equipment, researchers found a stunning variety of data&mdash;including thousands of T-Mobile users' calls &hellip;",
+          "content": "Wired: Researchers used an off-the-shelf system to compile a vast collection of private data, including T-Mobile users' calls and texts, sent by satellites unencrypted &mdash; With just $800 in basic equipment, researchers found a stunning variety of data&mdash;including thousands of T-Mobile users' calls &hellip;",
+          "feed_position": 0,
+          "image_url": "http://www.techmeme.com/251013/i50.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/satellites-are-leaking-the-worlds-secrets-calls-texts-military-and-corporate-data/",
+          "published_at": "Tue, 14 Oct 2025 01:00:00 +0000",
+          "title": "Satellites Are Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data",
+          "standfirst": "With just $800 in basic equipment, researchers found a stunning variety of data—including thousands of T-Mobile users’ calls and texts and even US military communications—sent by satellites unencrypted.",
+          "content": "With just $800 in basic equipment, researchers found a stunning variety of data—including thousands of T-Mobile users’ calls and texts and even US military communications—sent by satellites unencrypted.",
+          "feed_position": 0,
+          "image_url": "https://media.wired.com/photos/68e961a8dc203222538eb046/master/pass/security_satellites_leak_data.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/251013/i50.jpg",
+      "popularity_score": 2019.9493319444443,
+      "ai_summary": [
+        "Researchers used $800 in equipment to collect unencrypted data from satellites.",
+        "The data included thousands of T-Mobile users' calls and text messages.",
+        "Researchers also accessed US military and corporate communications.",
+        "The unencrypted data was transmitted by satellites.",
+        "The findings highlight security vulnerabilities in satellite communications."
+      ]
+    },
+    {
+      "id": "cluster_17",
       "coverage": 2,
       "updated_at": "Mon, 13 Oct 2025 19:00:01 -0400",
       "title": "Microsoft unveils MAI-Image-1, its first text-to-image AI model developed in house, and says it excels at photorealistic imagery, like lighting and landscapes (Andrew J. Hawkins/The Verge)",
-      "neutral_headline": "Microsoft unveils MAI-Image-1, its first text-to-image AI model developed in house, and says it excels at photorealistic imagery, like lighting and landscapes (Andrew J. Hawkins/The Verge)",
+      "neutral_headline": "Microsoft unveils MAI-Image-1, its first text-to-image AI model",
       "items": [
         {
           "source": "TechMeme",
@@ -15,7 +53,7 @@
           "title": "Microsoft unveils MAI-Image-1, its first text-to-image AI model developed in house, and says it excels at photorealistic imagery, like lighting and landscapes (Andrew J. Hawkins/The Verge)",
           "standfirst": "Andrew J. Hawkins / The Verge: Microsoft unveils MAI-Image-1, its first text-to-image AI model developed in house, and says it excels at photorealistic imagery, like lighting and landscapes &mdash; The model has already secured a spot in the top 10 of LMArena. &hellip; Microsoft AI just announced its first text-to-image generator &hellip;",
           "content": "Andrew J. Hawkins / The Verge: Microsoft unveils MAI-Image-1, its first text-to-image AI model developed in house, and says it excels at photorealistic imagery, like lighting and landscapes &mdash; The model has already secured a spot in the top 10 of LMArena. &hellip; Microsoft AI just announced its first text-to-image generator &hellip;",
-          "feed_position": 1,
+          "feed_position": 10,
           "image_url": "http://www.techmeme.com/251013/i40.jpg"
         },
         {
@@ -25,25 +63,25 @@
           "title": "Microsoft AI announces first image generator created in-house",
           "standfirst": "Microsoft AI just announced its first text-to-image generator, MAI-Image-1, designed and developed in-house. The tech giant, which recently announced its first in-house Microsoft AI models, called the new image generator “the next step on our journey.” Microsoft says it sought feedback from creative professionals in order to avoid “repetitive or generically-stylized outputs.” MAI-Image-1 “excels” at [&#8230;]",
           "content": "Microsoft AI just announced its first text-to-image generator, MAI-Image-1, designed and developed in-house. The tech giant, which recently announced its first in-house Microsoft AI models, called the new image generator “the next step on our journey.” Microsoft says it sought feedback from creative professionals in order to avoid “repetitive or generically-stylized outputs.” MAI-Image-1 “excels” at photorealistic imagery like lightning, landscapes, and more, the company claims. And it can process requests and produce images faster than “larger, slower models.” The model has already secured a spot in the top 10 of LMArena, the AI benchmark site where humans compare outputs from different systems and vote on the best one. MAI-Image-1 joins Microsoft’s other AI products, voice generator MAI-Voice-1 AI and chatbot MAI-1-preview. The company was an early funder of OpenAI, but the two companies’ relationship has grown increasingly complicated. Microsoft has also started to use Anthropic’s AI models for some features in Microsoft 365 recently, and is making “significant investments” in training its own AI models like MAI-Image-1. We haven’t had a chance to test Microsoft’s new image generator, but once we have we’ll report back on its safety guardrails. The company says it’s committed to “ensuring safe and responsible outcomes.”",
-          "feed_position": 1
+          "feed_position": 2
         }
       ],
       "featured_image": "http://www.techmeme.com/251013/i40.jpg",
-      "popularity_score": 2019.7181997222222,
+      "popularity_score": 2015.4493319444443,
       "ai_summary": [
-        "Microsoft's MAI-Image-1 is its first in-house text-to-image AI model.",
-        "The model is designed to generate photorealistic images.",
-        "It is noted for its capabilities in lighting and landscape rendering.",
-        "The model has already achieved a top-10 ranking in LMArena.",
-        "Microsoft sought feedback from creative professionals during development."
+        "Microsoft announced MAI-Image-1, its first in-house text-to-image AI model.",
+        "The model is designed to generate photorealistic imagery, including lighting and landscapes.",
+        "MAI-Image-1 has already achieved a top-ten ranking in LMArena.",
+        "Microsoft sought feedback from creative professionals to avoid generic outputs.",
+        "The announcement marks a step in Microsoft's AI development journey."
       ]
     },
     {
-      "id": "cluster_2",
+      "id": "cluster_18",
       "coverage": 2,
       "updated_at": "Mon, 13 Oct 2025 22:51:00 GMT",
       "title": "Self-improving language models are becoming reality with MIT's updated SEAL technique",
-      "neutral_headline": "Self-improving language models are becoming reality with MIT's updated SEAL technique",
+      "neutral_headline": "MIT researchers develop self-improving language model technique",
       "items": [
         {
           "source": "VentureBeat",
@@ -136,21 +174,21 @@
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/4816Y0YfsXKIENLGFsuaG6/a4620bd99d25c8fe32ab054bd16ff390/cfr0z3n_a_cybernetic_seal_looks_up_with_cute_alert_eyes_under_a_a6f43d56-7792-4d4f-bc1e-18b6dd2f5e4e.png",
-      "popularity_score": 2019.5679219444444,
+      "popularity_score": 2015.2990541666666,
       "ai_summary": [
-        "MIT researchers are developing a technique called SEAL for LLMs.",
-        "SEAL allows LLMs to improve themselves by generating synthetic data.",
-        "The updated version of SEAL was recently released with open-source code.",
-        "SEAL enables models to evolve by producing their own training data.",
+        "MIT researchers updated SEAL, a technique for self-improving language models.",
+        "SEAL allows models to generate synthetic data for fine-tuning themselves.",
+        "The updated paper and open-source code were released last month.",
+        "SEAL enables models to evolve without relying on fixed external data.",
         "The research was presented at the 39th Conference on Neural Information Processing Systems."
       ]
     },
     {
-      "id": "cluster_5",
+      "id": "cluster_21",
       "coverage": 2,
       "updated_at": "Mon, 13 Oct 2025 22:28:12 +0000",
       "title": "Goldman Sachs is acquiring Industry Ventures for up to $965M as alternative VC exits surge",
-      "neutral_headline": "Goldman Sachs is acquiring Industry Ventures for up to $965M as alternative VC exits surge",
+      "neutral_headline": "Goldman Sachs to acquire Industry Ventures for up to $965M",
       "items": [
         {
           "source": "TechCrunch",
@@ -168,63 +206,26 @@
           "title": "Goldman Sachs agrees to acquire multi-stage investment firm Industry Ventures, which has $7B AUM, for $665M in cash and equity plus $300M tied to performance (Saeed Azhar/Reuters)",
           "standfirst": "Saeed Azhar / Reuters: Goldman Sachs agrees to acquire multi-stage investment firm Industry Ventures, which has $7B AUM, for $665M in cash and equity plus $300M tied to performance &mdash; Goldman Sachs (GS.N) has agreed to buy Industry Ventures, a leading venture capital firm that manages $7 billion of assets &hellip;",
           "content": "Saeed Azhar / Reuters: Goldman Sachs agrees to acquire multi-stage investment firm Industry Ventures, which has $7B AUM, for $665M in cash and equity plus $300M tied to performance &mdash; Goldman Sachs (GS.N) has agreed to buy Industry Ventures, a leading venture capital firm that manages $7 billion of assets &hellip;",
-          "feed_position": 5,
+          "feed_position": 14,
           "image_url": "http://www.techmeme.com/251013/i36.jpg"
         }
       ],
       "featured_image": "http://www.techmeme.com/251013/i36.jpg",
-      "popularity_score": 2019.1879219444445,
+      "popularity_score": 2014.9190541666667,
       "ai_summary": [
-        "Goldman Sachs is acquiring Industry Ventures, an investment firm.",
-        "The deal is valued at up to $965 million.",
-        "Industry Ventures manages $7 billion in assets under management.",
-        "The acquisition highlights the importance of secondary markets.",
-        "The deal includes $665 million in cash and equity."
+        "Goldman Sachs will acquire Industry Ventures, a VC firm with $7 billion AUM.",
+        "The deal includes $665 million in cash and equity, plus $300 million tied to performance.",
+        "Industry Ventures is a 25-year-old investment firm based in San Francisco.",
+        "The acquisition highlights the importance of secondary markets and buyouts.",
+        "Traditional venture exits remain slow, influencing the deal's significance."
       ]
     },
     {
-      "id": "cluster_22",
-      "coverage": 2,
-      "updated_at": "Mon, 13 Oct 2025 15:40:00 -0400",
-      "title": "Google updates Search to group paid results into a collapsible section with a single, larger \"Sponsored\" label at the top and a hide button at the bottom (Allison Johnson/The Verge)",
-      "neutral_headline": "Google updates Search to group paid results into a collapsible section with a single, larger \"Sponsored\" label at the top and a hide button at the bottom (Allison Johnson/The Verge)",
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/251013/p34#a251013p34",
-          "published_at": "Mon, 13 Oct 2025 15:40:00 -0400",
-          "title": "Google updates Search to group paid results into a collapsible section with a single, larger \"Sponsored\" label at the top and a hide button at the bottom (Allison Johnson/The Verge)",
-          "standfirst": "Allison Johnson / The Verge: Google updates Search to group paid results into a collapsible section with a single, larger &ldquo;Sponsored&rdquo; label at the top and a hide button at the bottom &mdash; Ads in your search results might be a little less annoying now. &hellip; Ads in Google search results are getting a more prominent label &hellip;",
-          "content": "Allison Johnson / The Verge: Google updates Search to group paid results into a collapsible section with a single, larger &ldquo;Sponsored&rdquo; label at the top and a hide button at the bottom &mdash; Ads in your search results might be a little less annoying now. &hellip; Ads in Google search results are getting a more prominent label &hellip;",
-          "feed_position": 7,
-          "image_url": "http://www.techmeme.com/251013/i34.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/798901/google-will-let-you-hide-sponsored-results-in-search-after-youve-seen-them",
-          "published_at": "2025-10-13T15:21:38-04:00",
-          "title": "Google will let you hide sponsored results in search — after you’ve seen them",
-          "standfirst": "Ads in Google search results are getting a more prominent label, and a way to hide them if you’re not interested. Handy! The thing is, you still have to look at them first. Currently, Google labels paid results on search pages individually with a “sponsored” tag on each one. This change groups them all into [&#8230;]",
-          "content": "Ads in Google search results are getting a more prominent label, and a way to hide them if you’re not interested. Handy! The thing is, you still have to look at them first. Currently, Google labels paid results on search pages individually with a “sponsored” tag on each one. This change groups them all into a collapsable section at the top of the page with a single, larger label that remains in view as you scroll. At the bottom of the section you’ll see a button to hide sponsored results, so you’ll have to scroll by them first. Tap the button to hide them and they’ll remain collapsed under that sponsored heading; tapping again to show sponsored results unfurls them. Google says the update is rolling out now on both desktop and mobile. Over the years, Google has made its paid search results look more and more like organic results, with plenty of backlash along the way. The company shifted from labeling paid results as “ads” to “sponsored” around 2020. A cynical person might think that sounds friendlier to a generation of people accustomed to influencer sponcon. The company calls this latest update an effort to “make navigation even easier,” which, I guess. Wouldn’t it make navigation easier if I could hide sponsored results before I’ve scrolled past them? I think so! But there’s no way Google would jeopardize its bread and butter business like that.",
-          "feed_position": 2
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/251013/i34.jpg",
-      "popularity_score": 2016.3845886111112,
-      "ai_summary": [
-        "Google is updating its search results to group paid ads.",
-        "Paid results will be in a collapsible section with a \"Sponsored\" label.",
-        "Users will have the option to hide the sponsored results.",
-        "The change aims to make ads less annoying in search results.",
-        "The new feature requires users to view the ads before hiding them."
-      ]
-    },
-    {
-      "id": "cluster_10",
+      "id": "cluster_26",
       "coverage": 1,
       "updated_at": "Mon, 13 Oct 2025 21:36:35 +0000",
       "title": "Hackers can steal 2FA codes and private messages from Android phones",
-      "neutral_headline": "Hackers can steal 2FA codes and private messages from Android phones",
+      "neutral_headline": "Hackers can steal 2FA codes and private messages",
       "items": [
         {
           "source": "Ars Technica",
@@ -238,17 +239,17 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/008-family-galaxy-s25ultra-titaniumsilverblue-s25plus-navy-s25-icyblue-1152x648.jpg",
-      "popularity_score": 361.3276441666667,
+      "popularity_score": 357.0587763888889,
       "ai_summary": [
-        "Hackers can steal 2FA codes and private messages.",
-        "The attack is possible on Android phones.",
-        "A malicious app is required for the \"Pixnapping\" attack.",
-        "The malicious app requires no special permissions.",
-        "The attack compromises user security on Android devices."
+        "Hackers can steal two-factor authentication codes from Android phones.",
+        "The \"Pixnapping\" attack requires a malicious application.",
+        "The malicious application needs no special permissions to function.",
+        "This attack can compromise user privacy and security.",
+        "The attack highlights vulnerabilities in Android security."
       ]
     },
     {
-      "id": "cluster_20",
+      "id": "cluster_35",
       "coverage": 1,
       "updated_at": "Mon, 13 Oct 2025 19:52:23 +0000",
       "title": "Google’s Photoshop-killer AI model is coming to search, Photos, and NotebookLM",
@@ -266,21 +267,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/BananaLens-2096x1182.width-2200.format-webp-copy-1152x648.jpg",
-      "popularity_score": 356.5909775,
+      "popularity_score": 352.3221097222222,
       "ai_summary": [
-        "Google's AI model is expanding to new platforms.",
-        "The model is called Nano Banana.",
-        "It will be integrated into Search, Photos, and NotebookLM.",
-        "The model has been used for over 5 billion AI image edits.",
-        "The expansion signifies broader application of the AI model."
+        "Google's AI image editing model, Nano Banana, is expanding its reach.",
+        "The model will be integrated into Google Search, Photos, and NotebookLM.",
+        "Nano Banana has already processed over five billion AI image edits.",
+        "The expansion aims to provide wider access to the AI image editing tools.",
+        "This move signifies Google's investment in AI-powered image editing."
       ]
     },
     {
-      "id": "cluster_15",
+      "id": "cluster_31",
       "coverage": 1,
       "updated_at": "Mon, 13 Oct 2025 20:48:21 +0000",
       "title": "Measles outbreak in SC sends 150 unvaccinated kids into 21-day quarantine",
-      "neutral_headline": "Measles outbreak in SC sends 150 unvaccinated kids into 21-day quarantine",
+      "neutral_headline": "Measles outbreak in South Carolina leads to quarantine",
       "items": [
         {
           "source": "Ars Technica",
@@ -294,21 +295,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024-1152x648.jpg",
-      "popularity_score": 340.52375527777775,
+      "popularity_score": 336.2548875,
       "ai_summary": [
-        "A measles outbreak has occurred in South Carolina.",
+        "A measles outbreak in South Carolina has occurred.",
         "At least seven confirmed cases have been identified.",
-        "150 unvaccinated children are in quarantine for 21 days.",
+        "150 unvaccinated children are in a 21-day quarantine.",
         "Some cases are likely being missed in the outbreak.",
         "The outbreak highlights the importance of vaccination."
       ]
     },
     {
-      "id": "cluster_23",
+      "id": "cluster_37",
       "coverage": 1,
       "updated_at": "Mon, 13 Oct 2025 19:27:10 +0000",
       "title": "Starship’s elementary era ends today with mega-rocket’s 11th test flight",
-      "neutral_headline": "Starship’s elementary era ends today with mega-rocket’s 11th test flight",
+      "neutral_headline": "Starship's eleventh test flight marks a milestone",
       "items": [
         {
           "source": "Ars Technica",
@@ -322,21 +323,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starshipflight11pre1-1152x648.jpg",
-      "popularity_score": 324.17069972222225,
+      "popularity_score": 319.90183194444444,
       "ai_summary": [
-        "Starship is conducting its 11th test flight.",
-        "The flight marks the end of the elementary era.",
+        "Starship's elementary era ends with its eleventh test flight.",
         "The final phase includes a dynamic banking maneuver.",
-        "The mega-rocket is undergoing testing.",
-        "The flight is a significant step in Starship's development."
+        "This flight represents a significant step in Starship's development.",
+        "The test flight is a crucial step for the mega-rocket.",
+        "The maneuver is part of the flight's trajectory."
       ]
     },
     {
-      "id": "cluster_42",
+      "id": "cluster_52",
       "coverage": 1,
       "updated_at": "Mon, 13 Oct 2025 17:16:56 +0000",
       "title": "Apple’s streaming service gets harder to tell apart from its streaming app, box",
-      "neutral_headline": "Apple’s streaming service gets harder to tell apart from its streaming app, box",
+      "neutral_headline": "Apple simplifies streaming services by dropping the \"+",
       "items": [
         {
           "source": "Ars Technica",
@@ -350,21 +351,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/sever2-1152x648.jpg",
-      "popularity_score": 309.00014416666664,
+      "popularity_score": 304.7312763888889,
       "ai_summary": [
         "Apple is unifying its streaming offerings.",
-        "The \"+\" symbol is being dropped from the service name.",
-        "The change aims to streamline the streaming experience.",
-        "The move makes the service harder to distinguish.",
-        "The unification simplifies Apple's streaming branding."
+        "The company is removing the \"+\" from its streaming app.",
+        "This change simplifies the user experience.",
+        "Apple is streamlining its streaming services.",
+        "The move consolidates Apple's streaming presence."
       ]
     },
     {
-      "id": "cluster_30",
+      "id": "cluster_43",
       "coverage": 1,
       "updated_at": "Mon, 13 Oct 2025 18:52:06 +0000",
       "title": "To shield kids, California hikes fake nude fines to $250K max",
-      "neutral_headline": "To shield kids, California hikes fake nude fines to $250K max",
+      "neutral_headline": "California increases fines for creating fake nude images",
       "items": [
         {
           "source": "Ars Technica",
@@ -378,24 +379,24 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1262115351-2-1152x648.jpg",
-      "popularity_score": 308.58625527777775,
+      "popularity_score": 304.3173875,
       "ai_summary": [
-        "California is increasing fines for creating fake nudes.",
+        "California is increasing fines for creating fake nude images.",
         "The maximum fine is now $250,000.",
-        "The action aims to protect children.",
-        "Concerns about child safety are growing.",
-        "The state is cracking down on AI-generated content."
+        "The move addresses growing child safety concerns.",
+        "The state is cracking down on AI-generated content.",
+        "The legislation aims to protect children from exploitation."
       ]
     },
     {
-      "id": "cluster_53",
+      "id": "cluster_61",
       "coverage": 1,
       "updated_at": "Mon, 13 Oct 2025 16:15:53 +0000",
       "title": "Why Signal’s post-quantum makeover is an amazing engineering achievement",
-      "neutral_headline": "Why Signal’s post-quantum makeover is an amazing engineering achievement",
+      "neutral_headline": "Signal's post-quantum makeover is an amazing engineering achievement",
       "items": [
         {
-          "source": "Ars Technica Main",
+          "source": "Ars Technica",
           "url": "https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/",
           "published_at": "Mon, 13 Oct 2025 16:15:53 +0000",
           "title": "Why Signal’s post-quantum makeover is an amazing engineering achievement",
@@ -406,21 +407,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/signal-quantum-security-1152x648.jpg",
-      "popularity_score": 291.98264416666666,
+      "popularity_score": 287.7137763888889,
       "ai_summary": [
         "Signal has undergone a post-quantum makeover.",
-        "The new design sets a high standard for readiness.",
-        "The makeover is considered an engineering achievement.",
-        "The changes enhance security against quantum threats.",
-        "The update focuses on post-quantum cryptography."
+        "The new design sets a high standard for post-quantum readiness.",
+        "The upgrade is considered an amazing engineering achievement.",
+        "The changes enhance Signal's security.",
+        "The update prepares Signal for future threats."
       ]
     },
     {
-      "id": "cluster_55",
+      "id": "cluster_63",
       "coverage": 1,
       "updated_at": "Mon, 13 Oct 2025 15:33:42 +0000",
       "title": "Hans Koenigsmann, who investigated all of SpaceX’s rocket failures, is going to space",
-      "neutral_headline": "SpaceX Rocket Failure Investigator To Experience Spaceflight",
+      "neutral_headline": "Hans Koenigsmann, who investigated all of SpaceX’s rocket failures, is going to space",
       "items": [
         {
           "source": "Ars Technica",
@@ -434,21 +435,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-621034912-1024x648.jpg",
-      "popularity_score": 288.27958861111114,
+      "popularity_score": 284.0107208333333,
       "ai_summary": [
-        "Hans Koenigsmann, who investigated SpaceX rocket failures, will experience spaceflight.",
-        "Koenigsmann expressed interest in experiencing \"Max Q\" from the inside.",
-        "Max Q is the point of maximum aerodynamic stress on a rocket during ascent.",
-        "Koenigsmann's experience will provide a unique perspective on spaceflight.",
-        "This marks a significant personal milestone for the SpaceX veteran."
+        "Hans Koenigsmann, a SpaceX veteran, is going to space.",
+        "He investigated all of SpaceX's rocket failures.",
+        "Koenigsmann is interested in experiencing Max Q.",
+        "He has a deep understanding of rocket technology.",
+        "His experience will provide unique insights."
       ]
     },
     {
-      "id": "cluster_54",
+      "id": "cluster_62",
       "coverage": 1,
       "updated_at": "Mon, 13 Oct 2025 15:49:12 +0000",
       "title": "4chan fined $26K for refusing to assess risks under UK Online Safety Act",
-      "neutral_headline": "4chan Fined for Refusing UK Online Safety Act Risk Assessment",
+      "neutral_headline": "4chan fined for refusing to assess risks under UK Online Safety Act",
       "items": [
         {
           "source": "Ars Technica",
@@ -462,21 +463,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1814351886.jpg",
-      "popularity_score": 275.53792194444446,
+      "popularity_score": 271.26905416666665,
       "ai_summary": [
-        "4chan received a $26,000 fine for not assessing risks under the UK Online Safety Act.",
-        "The fine may test whether the United States will intervene in the UK's Act.",
-        "The UK's Online Safety Act aims to regulate online content and platforms.",
-        "4chan's refusal to comply raises questions about international jurisdiction.",
-        "The outcome could set a precedent for online content regulation."
+        "4chan was fined $26,000 for non-compliance.",
+        "The fine is for refusing to assess risks.",
+        "The UK Online Safety Act is the basis for the fine.",
+        "The fine may test US intervention.",
+        "The case could impact the Act's enforcement."
       ]
     },
     {
-      "id": "cluster_57",
+      "id": "cluster_65",
       "coverage": 1,
       "updated_at": "Mon, 13 Oct 2025 15:14:44 +0000",
       "title": "Layoffs, a “coding error,” chaos: Trump admin ravages the health dept.",
-      "neutral_headline": "Trump Administration's Actions Impact Health Department Operations",
+      "neutral_headline": "Trump administration's actions impact the health department",
       "items": [
         {
           "source": "Ars Technica",
@@ -490,21 +491,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2228551722-1152x648.jpg",
-      "popularity_score": 254.9634775,
+      "popularity_score": 250.69460972222222,
       "ai_summary": [
-        "Reports indicate the Trump administration's actions have negatively impacted the health department.",
-        "The CDC is reportedly struggling to function due to these actions.",
-        "Layoffs and a \"coding error\" are cited as contributing factors.",
-        "The situation is described as chaotic within the department.",
-        "The impact on public health initiatives is a concern."
+        "The Trump administration's actions have affected the health department.",
+        "Layoffs and a \"coding error\" have occurred.",
+        "Reports suggest the CDC is struggling to function.",
+        "The CDC is reportedly the hardest hit.",
+        "The situation indicates significant disruption."
       ]
     },
     {
-      "id": "cluster_95",
+      "id": "cluster_96",
       "coverage": 1,
       "updated_at": "Sun, 12 Oct 2025 20:50:35 +0000",
       "title": "New Starfleet Academy trailer debuts at NYCC",
-      "neutral_headline": "New Starfleet Academy Trailer Debuts at New York Comic Con",
+      "neutral_headline": "Star Trek Academy trailer debuts, Strange New Worlds season four previewed",
       "items": [
         {
           "source": "Ars Technica",
@@ -520,19 +521,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/academy1-1152x648-1760302457.jpg",
       "popularity_score": 145,
       "ai_summary": [
-        "A new trailer for Starfleet Academy was shown at NYCC.",
-        "The trailer provides a first look at the upcoming series.",
-        "Also, the first look at season four of Star Trek: Strange New Worlds was shown.",
-        "The event generated excitement among Star Trek fans.",
-        "The new content expands the Star Trek universe."
+        "A new trailer for Starfleet Academy was revealed at New York Comic Con.",
+        "The trailer also offered a first look at the fourth season of Star Trek: Strange New Worlds.",
+        "Details about the plot or characters were not specified in the provided information.",
+        "The event highlighted upcoming content within the Star Trek franchise.",
+        "Fans received a preview of the next installments in the series."
       ]
     },
     {
-      "id": "cluster_62",
+      "id": "cluster_70",
       "coverage": 1,
       "updated_at": "Mon, 13 Oct 2025 14:57:01 +0000",
       "title": "Keep losing your key fob? Ford’s new “Truckle” is the answer.",
-      "neutral_headline": "Ford's \"Truckle\" Addresses Key Fob Loss Concerns",
+      "neutral_headline": "Ford introduces \"Truckle\" to prevent losing key fobs",
       "items": [
         {
           "source": "Ars Technica",
@@ -546,21 +547,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Truckle_7-1152x648.jpg",
-      "popularity_score": 144.66819972222223,
+      "popularity_score": 140.39933194444444,
       "ai_summary": [
-        "Ford's new \"Truckle\" aims to solve key fob loss issues.",
-        "The device is designed to keep pants up and the F-150 unlocked.",
-        "The \"Truckle\" is a new solution for truck owners.",
-        "The product's functionality is related to vehicle security.",
-        "The device's name is a play on words."
+        "Ford's new \"Truckle\" aims to address the issue of lost key fobs.",
+        "The system is designed to keep pants up and the F-150 unlocked.",
+        "Specific details about the technology were not provided in the text.",
+        "The product's functionality is related to vehicle access and security.",
+        "The announcement targets owners of Ford F-150 trucks."
       ]
     },
     {
-      "id": "cluster_72",
+      "id": "cluster_75",
       "coverage": 1,
       "updated_at": "Mon, 13 Oct 2025 14:10:25 +0000",
       "title": "Software update bricks some Jeep 4xe hybrids over the weekend",
-      "neutral_headline": "Software Update Bricks Jeep 4xe Hybrids",
+      "neutral_headline": "Software update causes issues for some Jeep 4xe hybrid owners",
       "items": [
         {
           "source": "Ars Technica",
@@ -574,13 +575,13 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/2024Wrangler4xe-1152x648.jpg",
-      "popularity_score": 143.89153305555556,
+      "popularity_score": 139.62266527777777,
       "ai_summary": [
-        "A software update caused issues for some Jeep 4xe hybrid owners.",
-        "The update was pulled by Jeep after causing problems.",
-        "Owners are advised to ignore the update if already downloaded.",
-        "The update's failure caused vehicles to become inoperable.",
-        "Jeep is working to resolve the software issue."
+        "A software update caused problems for some Jeep 4xe hybrid vehicles.",
+        "Jeep has pulled the problematic update from distribution.",
+        "Owners are advised to avoid installing the update if already downloaded.",
+        "The update's specific issues were not detailed in the provided text.",
+        "The situation involves a recall or temporary suspension of the update."
       ]
     }
   ]
