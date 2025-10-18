@@ -1,20 +1,55 @@
 {
-  "updated_at": "2025-10-17T23:16:39.725Z",
+  "updated_at": "2025-10-18T03:28:24.910Z",
   "clusters": [
     {
-      "id": "cluster_2",
+      "id": "cluster_3",
+      "coverage": 2,
+      "updated_at": "2025-10-17T20:15:30-04:00",
+      "title": "Facebook’s new button lets its AI look at photos you haven&#8217;t uploaded yet",
+      "neutral_headline": "Facebook’s new button lets its AI look at photos you haven&#8217;t uploaded yet",
+      "items": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/802102/meta-facebook-opt-in-ai-edits-photos-camera-roll",
+          "published_at": "2025-10-17T20:15:30-04:00",
+          "title": "Facebook’s new button lets its AI look at photos you haven&#8217;t uploaded yet",
+          "standfirst": "Meta has rolled out an opt-in AI feature to its US and Canadian Facebook users that claims to make their photos and videos more &#8220;shareworthy.&#8221; The only catch is that the feature is designed for your phone’s camera roll — not the media you’ve already uploaded to Facebook. If you opt in, Meta’s AI will [&#8230;]",
+          "content": "Meta has rolled out an opt-in AI feature to its US and Canadian Facebook users that claims to make their photos and videos more &#8220;shareworthy.&#8221; The only catch is that the feature is designed for your phone’s camera roll — not the media you’ve already uploaded to Facebook. If you opt in, Meta’s AI will comb through your camera roll, upload your unpublished photos to Meta’s cloud, and surface “hidden gems” that are “lost among screenshots, receipts, and random snaps,” the company says. Users will be able to save or share the suggested edits and collages. If Facebook wanting to look at your unpublished photos sounds familiar, it might be because we wrote about an early test in June. At that time, the company claimed unposted, private photos were not being used to train Meta’s AI, but it declined to rule out whether it would do so in the future. Well, the future is now, and it sure sounds like Meta wants to train its AI on your photos — under certain conditions. In the Friday announcement of the feature, Meta says, “We don’t use media from your camera roll to improve AI at Meta, unless you choose to edit this media with our AI tools, or share.” The Verge asked Meta to confirm: Meta will use your camera roll to train its AI if you choose to use this feature, right? We also asked for clarification on when Meta begins using your unpublished photos to train its AI. Does it happen when you opt into the new feature? After you choose to edit something with the tool? Or only after you choose to share the resulting creation? Meta spokesperson Mari Melguizo sent us the following clarification: “This means the camera roll media uploaded by this feature to make suggestions won’t be used to improve AI at Meta. Only if you edit the suggestions with our AI tools or publish those suggestions to Facebook, improvements to AI at Meta may be made.” So, Meta will collect and store your photos in the cloud and Meta’s AI will get to look at them, but the company won’t use them to train their AI unless you take an additional action — at least for now, according to Meta. Today, the feature says it will “select media from your camera roll and upload it to our cloud on an ongoing basis”; in June, Meta told us that it might hold onto some of that data for longer than 30 days. The company claims your media “won’t be used for ad targeting.” Last year, Meta acknowledged that it had already quietly trained its AI models on all public photos and text posted to Facebook and Instagram by adult users since 2007. Facebook’s blog today shows that users will be asked if they want to “allow cloud processing to get creative ideas made for you from your camera roll.” It’s not yet clear if that prompt will also warn users that the feature may train Meta’s AI on your photos. The company says the feature is meant to help users who enjoy snapping pics but want to improve their photos before posting, or who don&#8217;t have time to “create something special.” Facebook says it’ll roll out the feature in the coming months.",
+          "feed_position": 0
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2025/10/17/facebooks-ai-can-now-suggest-edits-to-the-photos-still-on-your-phone/",
+          "published_at": "Fri, 17 Oct 2025 17:29:47 +0000",
+          "title": "Facebook&#8217;s AI can now suggest edits to the photos still on your phone",
+          "standfirst": "Facebook is rolling out a new Meta AI photo suggestion feature across the U.S. and Canada that lets its AI recommend edits to images stored on users’ camera rolls — even if they haven’t been shared. The feature is currently opt-in only.",
+          "content": "Facebook is rolling out a new Meta AI photo suggestion feature across the U.S. and Canada that lets its AI recommend edits to images stored on users’ camera rolls — even if they haven’t been shared. The feature is currently opt-in only.",
+          "feed_position": 5
+        }
+      ],
+      "popularity_score": 2016.7847472222222,
+      "ai_summary": [
+        "Meta is rolling out an AI feature to US and Canadian Facebook users.",
+        "The feature suggests edits to photos on users' camera rolls.",
+        "The AI feature is opt-in only.",
+        "The feature is designed for photos not yet uploaded to Facebook.",
+        "The AI aims to make photos and videos more \"shareworthy\"."
+      ]
+    },
+    {
+      "id": "cluster_8",
       "coverage": 2,
       "updated_at": "Fri, 17 Oct 2025 22:31:00 GMT",
       "title": "Developers can now add live Google Maps data to Gemini-powered AI app outputs",
-      "neutral_headline": "Developers can now add live Google Maps data to Gemini-powered AI app outputs",
+      "neutral_headline": "Google Adds Live Maps Data to Gemini AI for Developers",
       "items": [
         {
           "source": "VentureBeat",
           "url": "https://venturebeat.com/ai/developers-can-now-add-live-google-maps-data-to-gemini-powered-ai-app",
           "published_at": "Fri, 17 Oct 2025 22:31:00 GMT",
           "title": "Developers can now add live Google Maps data to Gemini-powered AI app outputs",
-          "standfirst": "Google is adding a new feature for third-party developers building atop its Gemini AI models that rivals like OpenAI&#x27;s ChatGPT, Anthropic&#x27;s Claude, and the growing array of Chinese open source options are unlikely to get anytime soon: grounding with Google Maps.This addition allows developers to connect Google&#x27;s Gemini AI models&#x27; reasoning capabilities with live geospatial data from Google Maps, enabling applications to deliver detailed, location-relevant responses to user queries—such as business hours, reviews, or the atmosphere of a specific venue. By tapping into data from over 250 million places, developers can now build more intelligent and responsive location-aware experiences.This is particularly useful for applications where proximity, real-time availability, or location-specific personalization matter—such as local search, delivery services, real estate, and travel planning. When the user’s location is known, developers can pass latitude and longitude into the request to enhance the response quality.By tightly integrating real-time and historical Maps data into the Gemini API, Google enables applications to generate grounded, location-specific responses with factual accuracy and contextual depth that are uniquely possible through its mapping infrastructure.Merging AI and Geospatial IntelligenceThe new feature is accessible in Google AI Studio, where developers can try a live demo powered by the Gemini Live API. Models that support the grounding with Google Maps include:Gemini 2.5 ProGemini 2.5 FlashGemini 2.5 Flash-LiteGemini 2.0 FlashIn one demonstration, a user asked for Italian restaurant recommendations in Chicago. The assistant, leveraging Maps data, retrieved top-rated options and clarified a misspelled restaurant name before locating the correct venue with accurate business details.Developers can also retrieve a context token to embed a Google Maps widget in their app’s user interface. This interactive component displays photos, reviews, and other familiar content typically found in Google Maps.Integration is handled via the generateContent method in the Gemini API, where developers include googleMaps as a tool. They can also enable a Maps widget by setting a parameter in the request. The widget, rendered using a returned context token, can provide a visual layer alongside the AI-generated text.Use Cases Across IndustriesThe Maps grounding tool is designed to support a wide range of practical use cases:Itinerary generation: Travel apps can create detailed daily plans with routing, timing, and venue information.Personalized local recommendations: Real estate platforms can highlight listings near kid-friendly amenities like schools and parks.Detailed location queries: Applications can provide specific information, such as whether a cafe offers outdoor seating, using community reviews and Maps metadata.Developers are encouraged to only enable the tool when geographic context is relevant, to optimize both performance and cost. According to the developer documentation, pricing starts at $25 per 1,000 grounded prompts — a steep sum for those trafficking in numerous queries.Combining Search and Maps for Enhanced ContextDevelopers can use Grounding with Google Maps alongside Grounding with Google Search in the same request.While the Maps tool contributes factual data—like addresses, hours, and ratings—the Search tool adds broader context from web content, such as news or event listings.For example, when asked about live music on Beale Street, the combined tools provide venue details from Maps and event times from Search. According to Google, internal testing shows that using both tools together leads to significantly improved response quality.Customization and Developer FlexibilityThe experience is built for customization. Developers can tweak system prompts, choose from different Gemini models, and configure voice settings to tailor interactions. The demo app in Google AI Studio is also remixable, enabling developers to test ideas, add features, and iterate on designs within a flexible development environment.The API returns structured metadata—including source links, place IDs, and citation spans—that developers can use to build inline citations or verify the AI-generated outputs. This supports transparency and enhances trust in user-facing applications. Google also requires that Maps-based sources be attributed clearly and linked back to the source using their URI.Implementation Considerations for AI BuildersFor technical teams integrating this capability, Google recommends:Passing user location context when known, for better results.Displaying Google Maps source links directly beneath the relevant content.Only enabling the tool when the query clearly involves geographic context.Monitoring latency and disabling grounding when performance is critical.Grounding with Google Maps is currently available globally, though prohibited in several territories (including China, Iran, North Korea, and Cuba), and not permitted for emergency response use cases.Availability and AccessGrounding with Google Maps is now generally available through the Gemini API. With this release, Google continues to expand the capabilities of the Gemini API, empowering developers to build AI-driven applications that understand and respond to the world around them.",
-          "content": "Google is adding a new feature for third-party developers building atop its Gemini AI models that rivals like OpenAI&#x27;s ChatGPT, Anthropic&#x27;s Claude, and the growing array of Chinese open source options are unlikely to get anytime soon: grounding with Google Maps.This addition allows developers to connect Google&#x27;s Gemini AI models&#x27; reasoning capabilities with live geospatial data from Google Maps, enabling applications to deliver detailed, location-relevant responses to user queries—such as business hours, reviews, or the atmosphere of a specific venue. By tapping into data from over 250 million places, developers can now build more intelligent and responsive location-aware experiences.This is particularly useful for applications where proximity, real-time availability, or location-specific personalization matter—such as local search, delivery services, real estate, and travel planning. When the user’s location is known, developers can pass latitude and longitude into the request to enhance the response quality.By tightly integrating real-time and historical Maps data into the Gemini API, Google enables applications to generate grounded, location-specific responses with factual accuracy and contextual depth that are uniquely possible through its mapping infrastructure.Merging AI and Geospatial IntelligenceThe new feature is accessible in Google AI Studio, where developers can try a live demo powered by the Gemini Live API. Models that support the grounding with Google Maps include:Gemini 2.5 ProGemini 2.5 FlashGemini 2.5 Flash-LiteGemini 2.0 FlashIn one demonstration, a user asked for Italian restaurant recommendations in Chicago. The assistant, leveraging Maps data, retrieved top-rated options and clarified a misspelled restaurant name before locating the correct venue with accurate business details.Developers can also retrieve a context token to embed a Google Maps widget in their app’s user interface. This interactive component displays photos, reviews, and other familiar content typically found in Google Maps.Integration is handled via the generateContent method in the Gemini API, where developers include googleMaps as a tool. They can also enable a Maps widget by setting a parameter in the request. The widget, rendered using a returned context token, can provide a visual layer alongside the AI-generated text.Use Cases Across IndustriesThe Maps grounding tool is designed to support a wide range of practical use cases:Itinerary generation: Travel apps can create detailed daily plans with routing, timing, and venue information.Personalized local recommendations: Real estate platforms can highlight listings near kid-friendly amenities like schools and parks.Detailed location queries: Applications can provide specific information, such as whether a cafe offers outdoor seating, using community reviews and Maps metadata.Developers are encouraged to only enable the tool when geographic context is relevant, to optimize both performance and cost. According to the developer documentation, pricing starts at $25 per 1,000 grounded prompts — a steep sum for those trafficking in numerous queries.Combining Search and Maps for Enhanced ContextDevelopers can use Grounding with Google Maps alongside Grounding with Google Search in the same request.While the Maps tool contributes factual data—like addresses, hours, and ratings—the Search tool adds broader context from web content, such as news or event listings.For example, when asked about live music on Beale Street, the combined tools provide venue details from Maps and event times from Search. According to Google, internal testing shows that using both tools together leads to significantly improved response quality.Customization and Developer FlexibilityThe experience is built for customization. Developers can tweak system prompts, choose from different Gemini models, and configure voice settings to tailor interactions. The demo app in Google AI Studio is also remixable, enabling developers to test ideas, add features, and iterate on designs within a flexible development environment.The API returns structured metadata—including source links, place IDs, and citation spans—that developers can use to build inline citations or verify the AI-generated outputs. This supports transparency and enhances trust in user-facing applications. Google also requires that Maps-based sources be attributed clearly and linked back to the source using their URI.Implementation Considerations for AI BuildersFor technical teams integrating this capability, Google recommends:Passing user location context when known, for better results.Displaying Google Maps source links directly beneath the relevant content.Only enabling the tool when the query clearly involves geographic context.Monitoring latency and disabling grounding when performance is critical.Grounding with Google Maps is currently available globally, though prohibited in several territories (including China, Iran, North Korea, and Cuba), and not permitted for emergency response use cases.Availability and AccessGrounding with Google Maps is now generally available through the Gemini API. With this release, Google continues to expand the capabilities of the Gemini API, empowering developers to build AI-driven applications that understand and respond to the world around them.",
+          "standfirst": "Google is adding a new feature for third-party developers building atop its Gemini AI models that rivals like OpenAI&#x27;s ChatGPT, Anthropic&#x27;s Claude, and the growing array of Chinese open source options are unlikely to get anytime soon: grounding with Google Maps.This addition allows developers to connect Google&#x27;s Gemini AI models&#x27; reasoning capabilities with live geospatial data from Google Maps, enabling applications to deliver detailed, location-relevant responses to user queries—such as business hours, reviews, or the atmosphere of a specific venue. By tapping into data from over 250 million places, developers can now build more intelligent and responsive location-aware experiences.This is particularly useful for applications where proximity, real-time availability, or location-specific personalization matter—such as local search, delivery services, real estate, and travel planning. When the user’s location is known, developers can pass latitude and longitude into the request to enhance the response quality.By tightly integrating real-time and historical Maps data into the Gemini API, Google enables applications to generate grounded, location-specific responses with factual accuracy and contextual depth that are uniquely possible through its mapping infrastructure.Merging AI and Geospatial IntelligenceThe new feature is accessible in Google AI Studio, where developers can try a live demo powered by the Gemini Live API. Models that support the grounding with Google Maps include:Gemini 2.5 ProGemini 2.5 FlashGemini 2.5 Flash-LiteGemini 2.0 FlashIn one demonstration, a user asked for Italian restaurant recommendations in Chicago. The assistant, leveraging Maps data, retrieved top-rated options and clarified a misspelled restaurant name before locating the correct venue with accurate business details.Developers can also retrieve a context token to embed a Google Maps widget in their app’s user interface. This interactive component displays photos, reviews, and other familiar content typically found in Google Maps.Integration is handled via the generateContent method in the Gemini API, where developers include googleMaps as a tool. They can also enable a Maps widget by setting a parameter in the request. The widget, rendered using a returned context token, can provide a visual layer alongside the AI-generated text.Use Cases Across IndustriesThe Maps grounding tool is designed to support a wide range of practical use cases:Itinerary generation: Travel apps can create detailed daily plans with routing, timing, and venue information.Personalized local recommendations: Real estate platforms can highlight listings near kid-friendly amenities like schools and parks.Detailed location queries: Applications can provide specific information, such as whether a cafe offers outdoor seating, using community reviews and Maps metadata.Developers are encouraged to only enable the tool when geographic context is relevant, to optimize both performance and cost. According to the developer documentation, pricing starts at $25 per 1,000 grounded prompts — a steep sum for those trafficking in numerous queries.Combining Search and Maps for Enhanced ContextDevelopers can use Grounding with Google Maps alongside Grounding with Google Search in the same request.While the Maps tool contributes factual data—like addresses, hours, and ratings—the Search tool adds broader context from web content, such as news or event listings.For example, when asked about live music on Beale Street, the combined tools provide venue details from Maps and event times from Search. According to Google, internal testing shows that using both tools together leads to significantly improved response quality.Unfortunately, it doesn&#x27;t appear that the Google Maps grounding includes live vehicular traffic data — at least not yet.Customization and Developer FlexibilityThe experience is built for customization. Developers can tweak system prompts, choose from different Gemini models, and configure voice settings to tailor interactions. The demo app in Google AI Studio is also remixable, enabling developers to test ideas, add features, and iterate on designs within a flexible development environment.The API returns structured metadata—including source links, place IDs, and citation spans—that developers can use to build inline citations or verify the AI-generated outputs. This supports transparency and enhances trust in user-facing applications. Google also requires that Maps-based sources be attributed clearly and linked back to the source using their URI.Implementation Considerations for AI BuildersFor technical teams integrating this capability, Google recommends:Passing user location context when known, for better results.Displaying Google Maps source links directly beneath the relevant content.Only enabling the tool when the query clearly involves geographic context.Monitoring latency and disabling grounding when performance is critical.Grounding with Google Maps is currently available globally, though prohibited in several territories (including China, Iran, North Korea, and Cuba), and not permitted for emergency response use cases.Availability and AccessGrounding with Google Maps is now generally available through the Gemini API. With this release, Google continues to expand the capabilities of the Gemini API, empowering developers to build AI-driven applications that understand and respond to the world around them.",
+          "content": "Google is adding a new feature for third-party developers building atop its Gemini AI models that rivals like OpenAI&#x27;s ChatGPT, Anthropic&#x27;s Claude, and the growing array of Chinese open source options are unlikely to get anytime soon: grounding with Google Maps.This addition allows developers to connect Google&#x27;s Gemini AI models&#x27; reasoning capabilities with live geospatial data from Google Maps, enabling applications to deliver detailed, location-relevant responses to user queries—such as business hours, reviews, or the atmosphere of a specific venue. By tapping into data from over 250 million places, developers can now build more intelligent and responsive location-aware experiences.This is particularly useful for applications where proximity, real-time availability, or location-specific personalization matter—such as local search, delivery services, real estate, and travel planning. When the user’s location is known, developers can pass latitude and longitude into the request to enhance the response quality.By tightly integrating real-time and historical Maps data into the Gemini API, Google enables applications to generate grounded, location-specific responses with factual accuracy and contextual depth that are uniquely possible through its mapping infrastructure.Merging AI and Geospatial IntelligenceThe new feature is accessible in Google AI Studio, where developers can try a live demo powered by the Gemini Live API. Models that support the grounding with Google Maps include:Gemini 2.5 ProGemini 2.5 FlashGemini 2.5 Flash-LiteGemini 2.0 FlashIn one demonstration, a user asked for Italian restaurant recommendations in Chicago. The assistant, leveraging Maps data, retrieved top-rated options and clarified a misspelled restaurant name before locating the correct venue with accurate business details.Developers can also retrieve a context token to embed a Google Maps widget in their app’s user interface. This interactive component displays photos, reviews, and other familiar content typically found in Google Maps.Integration is handled via the generateContent method in the Gemini API, where developers include googleMaps as a tool. They can also enable a Maps widget by setting a parameter in the request. The widget, rendered using a returned context token, can provide a visual layer alongside the AI-generated text.Use Cases Across IndustriesThe Maps grounding tool is designed to support a wide range of practical use cases:Itinerary generation: Travel apps can create detailed daily plans with routing, timing, and venue information.Personalized local recommendations: Real estate platforms can highlight listings near kid-friendly amenities like schools and parks.Detailed location queries: Applications can provide specific information, such as whether a cafe offers outdoor seating, using community reviews and Maps metadata.Developers are encouraged to only enable the tool when geographic context is relevant, to optimize both performance and cost. According to the developer documentation, pricing starts at $25 per 1,000 grounded prompts — a steep sum for those trafficking in numerous queries.Combining Search and Maps for Enhanced ContextDevelopers can use Grounding with Google Maps alongside Grounding with Google Search in the same request.While the Maps tool contributes factual data—like addresses, hours, and ratings—the Search tool adds broader context from web content, such as news or event listings.For example, when asked about live music on Beale Street, the combined tools provide venue details from Maps and event times from Search. According to Google, internal testing shows that using both tools together leads to significantly improved response quality.Unfortunately, it doesn&#x27;t appear that the Google Maps grounding includes live vehicular traffic data — at least not yet.Customization and Developer FlexibilityThe experience is built for customization. Developers can tweak system prompts, choose from different Gemini models, and configure voice settings to tailor interactions. The demo app in Google AI Studio is also remixable, enabling developers to test ideas, add features, and iterate on designs within a flexible development environment.The API returns structured metadata—including source links, place IDs, and citation spans—that developers can use to build inline citations or verify the AI-generated outputs. This supports transparency and enhances trust in user-facing applications. Google also requires that Maps-based sources be attributed clearly and linked back to the source using their URI.Implementation Considerations for AI BuildersFor technical teams integrating this capability, Google recommends:Passing user location context when known, for better results.Displaying Google Maps source links directly beneath the relevant content.Only enabling the tool when the query clearly involves geographic context.Monitoring latency and disabling grounding when performance is critical.Grounding with Google Maps is currently available globally, though prohibited in several territories (including China, Iran, North Korea, and Cuba), and not permitted for emergency response use cases.Availability and AccessGrounding with Google Maps is now generally available through the Gemini API. With this release, Google continues to expand the capabilities of the Gemini API, empowering developers to build AI-driven applications that understand and respond to the world around them.",
           "feed_position": 0,
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2ehvkDsQ7NC7wQuECOcDGS/cb89da9ccaf13f2888f005ac93cecffa/cfr0z3n_realistic_graphic_novel_hyper_detailed_flat_illustratio_8aae43d5-1e50-4ebd-8760-ea28dbc0f328.png"
         },
@@ -260,34 +295,24 @@
           "content": "When Walmart and OpenAI announced that the retailer would integrate with ChatGPT, the question became how quickly OpenAI could deliver on the promise of agents buying things for people. In the battle of AI-enabled commerce, getting agents to securely complete transactions is one of the biggest hurdles. More and more, chat platforms like ChatGPT are replacing browsers and getting very good at surfacing information people search for. Users will ask ChatGPT for the best humidifiers on the market, and when the model returns results, people have no choice but to click the item link and complete the purchase online. AI agents, as of now, don’t have the ability or the trust infrastructure to make people and banking institutions feel safe enough to let it loose on someone’s cash. Enterprises and other industry players understand that, to allow agents to pay for purchases, there must be a common language shared among the model and agent providers, the bank, the merchant, and, to a lesser extent, the buyer. And so, over the past few weeks, three competing agentic commerce standards have emerged: Google announced the Agent Pay Protocol (AP2) with partners including PayPal, American Express, Mastercard, Salesforce and ServiceNow. Soon after, OpenAI and Stripe debuted the Agentic Commerce Protocol (ACP), and just this week, Visa launched the Trusted Agent Protocol (TAP).All these protocols aim to give agents the trust layer they need to convince banks and their customers that they’re money is safe in the hands of an AI agent. But these may also create walled gardens, showing just how immature agentic commerce really is. This is a problem that could cause enterprises to bet on one chat platform and the agentic pay protocol it runs on, instead of interoperability. How are they differentIt’s not new for players to propose several standards. It usually takes years for the industry to coalesce around a single standard, or even to use different protocols and figure out a way to harmonize them. However, the pace of innovation in enterprise moved the needle on that. Fairly quickly, MCP became the de facto channel for tool-use identification, and most companies began setting up MCP servers or connecting to one. (To be clear, it is not a standard yet) But having three different potential standards might slow that process down a bit, because it’s harder to coalesce on a single standard when there are so many to choose from. These protocols all aim to prove authorization. Both AP2 and TAP rely on cryptographic proofs to show an agent is acting on an individual&#x27;s behalf. For TAP, agents are added to an approved list and get a digital key identifying them. AP2 uses a digital contract that serves as a proxy for human approval for the agent. OpenAI’s ACP doesn’t require too much of an infrastructure change, where ACP essentially acts as a courier to the merchant because the agent relays information to the merchant. Walled gardensThese three protocols ideally work across different chat platforms, but that is never guaranteed, especially when your biggest chat platform competitor has its own protocol. A danger with competing protocols is that they can create wall gardens, where they only work on specific platforms. Enterprises face the problem of getting stuck in a platform and an agentic payment standard that will not interoperate with another. Organizations receive not only the product recommended by the agent, but are also most often the merchants of record and need to trust that the agent contacting them is acting on behalf of a customer.Louis Amira, cofounder and CEO of agent commerce startup Circuit and Chisel, told VentureBeat that while this creates an opportunity for companies in the interoperability layer like his, it could create confusion for enterprises. “The better the protocol proposals get, the more likely they are to end up being walled gardens and very hard to interoperate,” Amira said. “We suspect that they’re going to be fighting it out for the next few years, and the more they fight it out, the more you actually need somebody that sits underneath all of them.”Unlike the internet, where anyone can use any browser to access a website, thanks in large part to the TCP/IP standard, chat platforms tend to remain very separate. I mostly use ChatGPT (because it’s installed on my laptop and I don’t need to open a new tab), so when I want to see how Gemini will handle my query, I actually have to open Gemini to do so—the same works for anyone shopping via chatbot. The number of protocol proposals underscores just how far we are from enabling shopping agents. The industry still needs to decide which standard to get behind, and no matter how many Walmarts integrate with ChatGPT, it’s all moot if people don’t trust the model or agent to handle their cash. Take the best features, hopefully The best thing for enterprises to do for now is to experiment with all the protocols and hope that a winner emerges. Eventually, there could be one agentic commerce protocol that takes the best of each proposal. For Wayne Liu, chief growth officer and president for Americas at Perfect Corp., having multiple protocol proposals just means there’s more learning.“This is where the importance of open source exists because it will be the driving force to put everything together,” Liu said. Of course, what would be interesting to see these next couple of weeks is if there will only be three competing agentic commerce protocols. After all, there are some large retailers and chat platforms that can still throw a wrench into the whole thing.",
           "feed_position": 9,
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1V6XILFC2iVvqfh58LXNkm/d7375489aa11c0096efb78642ca1c7a5/crimedy7_illustration_of_robot_paying_for_groceries_--ar_169__3d2a2c22-022a-4104-9070-fab8f94d73d5_1.png"
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/ai/under-the-hood-of-ai-agents-a-technical-guide-to-the-next-frontier-of-gen-ai",
-          "published_at": "Thu, 16 Oct 2025 02:25:00 GMT",
-          "title": "Under the hood of AI agents: A technical guide to the next frontier of gen AI",
-          "standfirst": "Agents are the trendiest topic in AI today, and with good reason. AI agents act on their users’ behalf, autonomously handling tasks like making online purchases, building software, researching business trends or booking travel. By taking generative AI out of the sandbox of the chat interface and allowing it to act directly on the world, agentic AI represents a leap forward in the power and utility of AI.Taking gen AI out of the protected sandbox of the chat interface and allowing it to act directly on the world represents a leap forward in the power and utility of AI.Agentic AI has been moving really fast: For example, one of the core building blocks of today’s agents, the model context protocol (MCP), is only a year old! As in any fast-moving field, there are many competing definitions, hot takes and misleading opinions.To cut through the noise, I’d like to describe the core components of an agentic AI system and how they fit together: It’s really not as complicated as it may seem. Hopefully, when you’ve finished reading this post, agents won’t seem as mysterious.Agentic ecosystemDefinitions of the word “agent” abound, but I like a slight variation on the British programmer Simon Willison’s minimalist take:An LLM agent runs tools in a loop to achieve a goal.The user prompts a large language model (LLM) with a goal: Say, booking a table at a restaurant near a specific theater. Along with the goal, the model receives a list of the tools at its disposal, such as a database of restaurant locations or a record of the user’s food preferences. The model then plans how to achieve the goal and calls one of the tools, which provides a response; the model then calls a new tool. Through repetitions, the agent moves toward accomplishing the goal. In some cases, the model’s orchestration and planning choices are complemented or enhanced by imperative code.But what kind of infrastructure does it take to realize this approach? An agentic system needs a few core components:A way to build the agent. When you deploy an agent, you don’t want to have to code it from scratch. There are several agent development frameworks out there.Somewhere to run the AI model. A seasoned AI developer can download an open-weight LLM, but it takes expertise to do that right. It also takes expensive hardware that’s going to be poorly utilized for the average user.Somewhere to run the agentic code. With established frameworks, the user creates code for an agent object with a defined set of functions. Most of those functions involve sending prompts to an AI model, but the code needs to run somewhere. In practice, most agents will run in the cloud, because we want them to keep running when our laptops are closed, and we want them to scale up and out to do their work.A mechanism for translating between the text-based LLM and tool calls.A short-term memory for tracking the content of agentic interactions.A long-term memory for tracking the user’s preferences and affinities across sessions.A way to trace the system’s execution, to evaluate the agent’s performance.Let&#x27;s dive into more detail on each of these components.Building an agentAsking an LLM to explain how it plans to approach a particular task improves its performance on that task. This “chain-of-thought reasoning” is now ubiquitous in AI.The analogue in agentic systems is the ReAct (reasoning + action) model, in which the agent has a thought (“I’ll use the map function to locate nearby restaurants”), performs an action (issuing an API call to the map function), then makes an observation (“There are two pizza places and one Indian restaurant within two blocks of the movie theater”).ReAct isn’t the only way to build agents, but it is at the core of most successful agentic systems. Today, agents are commonly loops over the thought-action-observation sequence.The tools available to the agent can include local tools and remote tools such as databases, microservices and software as a service. A tool’s specification includes a natural-language explanation of how and when it’s used and the syntax of its API calls.The developer can also tell the agent to, essentially, build its own tools on the fly. Say that a tool retrieves a table stored as comma-separated text, and to fulfill its goal, the agent needs to sort the table.Sorting a table by repeatedly sending it through an LLM and evaluating the results would be a colossal waste of resources — and it’s not even guaranteed to give the right result. Instead, the developer can simply instruct the agent to generate its own Python code when it encounters a simple but repetitive task. These snippets of code can run locally alongside the agent or in a dedicated secure code interpreter tool. Available tools can divide responsibility between the LLM and the developer. Once the tools available to the agent have been specified, the developer can simply instruct the agent what tools to use when necessary. Or, the developer can specify which tool to use for which types of data, and even which data items to use as arguments during function calls.Similarly, the developer can simply tell the agent to generate Python code when necessary to automate repetitive tasks or, alternatively, tell it which algorithms to use for which data types and even provide pseudocode. The approach can vary from agent to agent.RuntimeHistorically, there were two main ways to isolate code running on shared servers: Containerization, which was efficient but offered lower security; and virtual machines, which were secure but came with a lot of computational overhead.In 2018, Amazon Web Services’ (AWS’s) Lambda serverless-computing service deployed Firecracker, a new paradigm in server isolation. Firecracker creates “microVMs”, complete with hardware isolation and their own Linux kernels but with reduced overhead (as low as a few megabytes) and startup times (as low as a few milliseconds). The low overhead means that each function executed on a Lambda server can have its own microVM.However, because instantiating an agent requires deploying an LLM, together with the memory resources to track the LLM’s inputs and outputs, the per-function isolation model is impractical. Instead, with session-based isolation, every session is assigned its own microVM. When the session finishes, the LLM’s state information is copied to long-term memory, and the microVM is destroyed. This ensures secure and efficient deployment of hosts of agents.Tool callsJust as there are several existing development frameworks for agent creation, there are several existing standards for communication between agents and tools, the most popular of which — currently — is the model context protocol (MCP). MCP establishes a one-to-one connection between the agent’s LLM and a dedicated MCP server that executes tool calls, and it also establishes a standard format for passing different types of data back and forth between the LLM and its server.Many platforms use MCP by default, but are also configurable, so they will support a growing set of protocols over time.Sometimes, however, the necessary tool is not one with an available API. In such cases, the only way to retrieve data or perform an action is through cursor movements and clicks on a website. There are a number of services available to perform such computer use. This makes any website a potential tool for agents, opening up decades of content and valuable services that aren’t yet available directly through APIs.AuthorizationsWith agents, authorization works in two directions. First, of course, users require authorization to run the agents they’ve created. But as the agent is acting on the user’s behalf, it will usually require its own authorization to access networked resources.There are a few different ways to approach the problem of authorization. One is with an access delegation algorithm like OAuth, which essentially plumbs the authorization process through the agentic system. The user enters login credentials into OAuth, and the agentic system uses OAuth to log into protected resources, but the agentic system never has direct access to the user’s passwords.In the other approach, the user logs into a secure session on a server, and the server has its own login credentials on protected resources. Permissions allow the user to select from a variety of authorization strategies and algorithms for implementing those strategies.Memory and tracesShort-term memoryLLMs are next-word prediction engines. What makes them so astoundingly versatile is that their predictions are based on long sequences of words they’ve already seen, known as context. Context is, in itself, a kind of memory. But it’s not the only kind an agentic system needs.Suppose, again, that an agent is trying to book a restaurant near a movie theater, and from a map tool, it’s retrieved a couple dozen restaurants within a mile radius. It doesn’t want to dump information about all those restaurants into the LLM’s context: All that extraneous information could wreak havoc with next-word probabilities.Instead, it can store the complete list in short-term memory and retrieve one or two records at a time, based on, say, the user’s price and cuisine preferences and proximity to the theater. If none of those restaurants pans out, the agent can dip back into short-term memory, rather than having to execute another tool call.Long-term memoryAgents also need to remember their prior interactions with their clients. If last week I told the restaurant booking agent what type of food I like, I don’t want to have to tell it again this week. The same goes for my price tolerance, the sort of ambiance I’m looking for, and so on.Long-term memory allows the agent to look up what it needs to know about prior conversations with the user. Agents don’t typically create long-term memories themselves, however. Instead, after a session is complete, the whole conversation passes to a separate AI model, which creates new long-term memories or updates existing ones.Memory creation can involve LLM summarization and “chunking”, in which documents are split into sections grouped according to topic for ease of retrieval during subsequent sessions. Available systems allow the user to select strategies and algorithms for summarization, chunking and other information-extraction techniques.ObservabilityAgents are a new kind of software system, and they require new ways to think about observing, monitoring and auditing their behavior. Some of the questions we ask will look familiar: Whether the agents are running fast enough, how much they’re costing, how many tool calls they’re making and whether users are happy. But new questions will arise, too, and we can’t necessarily predict what data we’ll need to answer them.Observability and tracing tools can provide an end-to-end view of the execution of a session with an agent, breaking down step-by-step which actions were taken and why. For the agent builder, these traces are key to understanding how well agents are working — and provide the data to make them work better.I hope this explanation has demystified agentic AI enough that you’re willing to try building your own agents!",
-          "content": "Agents are the trendiest topic in AI today, and with good reason. AI agents act on their users’ behalf, autonomously handling tasks like making online purchases, building software, researching business trends or booking travel. By taking generative AI out of the sandbox of the chat interface and allowing it to act directly on the world, agentic AI represents a leap forward in the power and utility of AI.Taking gen AI out of the protected sandbox of the chat interface and allowing it to act directly on the world represents a leap forward in the power and utility of AI.Agentic AI has been moving really fast: For example, one of the core building blocks of today’s agents, the model context protocol (MCP), is only a year old! As in any fast-moving field, there are many competing definitions, hot takes and misleading opinions.To cut through the noise, I’d like to describe the core components of an agentic AI system and how they fit together: It’s really not as complicated as it may seem. Hopefully, when you’ve finished reading this post, agents won’t seem as mysterious.Agentic ecosystemDefinitions of the word “agent” abound, but I like a slight variation on the British programmer Simon Willison’s minimalist take:An LLM agent runs tools in a loop to achieve a goal.The user prompts a large language model (LLM) with a goal: Say, booking a table at a restaurant near a specific theater. Along with the goal, the model receives a list of the tools at its disposal, such as a database of restaurant locations or a record of the user’s food preferences. The model then plans how to achieve the goal and calls one of the tools, which provides a response; the model then calls a new tool. Through repetitions, the agent moves toward accomplishing the goal. In some cases, the model’s orchestration and planning choices are complemented or enhanced by imperative code.But what kind of infrastructure does it take to realize this approach? An agentic system needs a few core components:A way to build the agent. When you deploy an agent, you don’t want to have to code it from scratch. There are several agent development frameworks out there.Somewhere to run the AI model. A seasoned AI developer can download an open-weight LLM, but it takes expertise to do that right. It also takes expensive hardware that’s going to be poorly utilized for the average user.Somewhere to run the agentic code. With established frameworks, the user creates code for an agent object with a defined set of functions. Most of those functions involve sending prompts to an AI model, but the code needs to run somewhere. In practice, most agents will run in the cloud, because we want them to keep running when our laptops are closed, and we want them to scale up and out to do their work.A mechanism for translating between the text-based LLM and tool calls.A short-term memory for tracking the content of agentic interactions.A long-term memory for tracking the user’s preferences and affinities across sessions.A way to trace the system’s execution, to evaluate the agent’s performance.Let&#x27;s dive into more detail on each of these components.Building an agentAsking an LLM to explain how it plans to approach a particular task improves its performance on that task. This “chain-of-thought reasoning” is now ubiquitous in AI.The analogue in agentic systems is the ReAct (reasoning + action) model, in which the agent has a thought (“I’ll use the map function to locate nearby restaurants”), performs an action (issuing an API call to the map function), then makes an observation (“There are two pizza places and one Indian restaurant within two blocks of the movie theater”).ReAct isn’t the only way to build agents, but it is at the core of most successful agentic systems. Today, agents are commonly loops over the thought-action-observation sequence.The tools available to the agent can include local tools and remote tools such as databases, microservices and software as a service. A tool’s specification includes a natural-language explanation of how and when it’s used and the syntax of its API calls.The developer can also tell the agent to, essentially, build its own tools on the fly. Say that a tool retrieves a table stored as comma-separated text, and to fulfill its goal, the agent needs to sort the table.Sorting a table by repeatedly sending it through an LLM and evaluating the results would be a colossal waste of resources — and it’s not even guaranteed to give the right result. Instead, the developer can simply instruct the agent to generate its own Python code when it encounters a simple but repetitive task. These snippets of code can run locally alongside the agent or in a dedicated secure code interpreter tool. Available tools can divide responsibility between the LLM and the developer. Once the tools available to the agent have been specified, the developer can simply instruct the agent what tools to use when necessary. Or, the developer can specify which tool to use for which types of data, and even which data items to use as arguments during function calls.Similarly, the developer can simply tell the agent to generate Python code when necessary to automate repetitive tasks or, alternatively, tell it which algorithms to use for which data types and even provide pseudocode. The approach can vary from agent to agent.RuntimeHistorically, there were two main ways to isolate code running on shared servers: Containerization, which was efficient but offered lower security; and virtual machines, which were secure but came with a lot of computational overhead.In 2018, Amazon Web Services’ (AWS’s) Lambda serverless-computing service deployed Firecracker, a new paradigm in server isolation. Firecracker creates “microVMs”, complete with hardware isolation and their own Linux kernels but with reduced overhead (as low as a few megabytes) and startup times (as low as a few milliseconds). The low overhead means that each function executed on a Lambda server can have its own microVM.However, because instantiating an agent requires deploying an LLM, together with the memory resources to track the LLM’s inputs and outputs, the per-function isolation model is impractical. Instead, with session-based isolation, every session is assigned its own microVM. When the session finishes, the LLM’s state information is copied to long-term memory, and the microVM is destroyed. This ensures secure and efficient deployment of hosts of agents.Tool callsJust as there are several existing development frameworks for agent creation, there are several existing standards for communication between agents and tools, the most popular of which — currently — is the model context protocol (MCP). MCP establishes a one-to-one connection between the agent’s LLM and a dedicated MCP server that executes tool calls, and it also establishes a standard format for passing different types of data back and forth between the LLM and its server.Many platforms use MCP by default, but are also configurable, so they will support a growing set of protocols over time.Sometimes, however, the necessary tool is not one with an available API. In such cases, the only way to retrieve data or perform an action is through cursor movements and clicks on a website. There are a number of services available to perform such computer use. This makes any website a potential tool for agents, opening up decades of content and valuable services that aren’t yet available directly through APIs.AuthorizationsWith agents, authorization works in two directions. First, of course, users require authorization to run the agents they’ve created. But as the agent is acting on the user’s behalf, it will usually require its own authorization to access networked resources.There are a few different ways to approach the problem of authorization. One is with an access delegation algorithm like OAuth, which essentially plumbs the authorization process through the agentic system. The user enters login credentials into OAuth, and the agentic system uses OAuth to log into protected resources, but the agentic system never has direct access to the user’s passwords.In the other approach, the user logs into a secure session on a server, and the server has its own login credentials on protected resources. Permissions allow the user to select from a variety of authorization strategies and algorithms for implementing those strategies.Memory and tracesShort-term memoryLLMs are next-word prediction engines. What makes them so astoundingly versatile is that their predictions are based on long sequences of words they’ve already seen, known as context. Context is, in itself, a kind of memory. But it’s not the only kind an agentic system needs.Suppose, again, that an agent is trying to book a restaurant near a movie theater, and from a map tool, it’s retrieved a couple dozen restaurants within a mile radius. It doesn’t want to dump information about all those restaurants into the LLM’s context: All that extraneous information could wreak havoc with next-word probabilities.Instead, it can store the complete list in short-term memory and retrieve one or two records at a time, based on, say, the user’s price and cuisine preferences and proximity to the theater. If none of those restaurants pans out, the agent can dip back into short-term memory, rather than having to execute another tool call.Long-term memoryAgents also need to remember their prior interactions with their clients. If last week I told the restaurant booking agent what type of food I like, I don’t want to have to tell it again this week. The same goes for my price tolerance, the sort of ambiance I’m looking for, and so on.Long-term memory allows the agent to look up what it needs to know about prior conversations with the user. Agents don’t typically create long-term memories themselves, however. Instead, after a session is complete, the whole conversation passes to a separate AI model, which creates new long-term memories or updates existing ones.Memory creation can involve LLM summarization and “chunking”, in which documents are split into sections grouped according to topic for ease of retrieval during subsequent sessions. Available systems allow the user to select strategies and algorithms for summarization, chunking and other information-extraction techniques.ObservabilityAgents are a new kind of software system, and they require new ways to think about observing, monitoring and auditing their behavior. Some of the questions we ask will look familiar: Whether the agents are running fast enough, how much they’re costing, how many tool calls they’re making and whether users are happy. But new questions will arise, too, and we can’t necessarily predict what data we’ll need to answer them.Observability and tracing tools can provide an end-to-end view of the execution of a session with an agent, breaking down step-by-step which actions were taken and why. For the agent builder, these traces are key to understanding how well agents are working — and provide the data to make them work better.I hope this explanation has demystified agentic AI enough that you’re willing to try building your own agents!",
-          "feed_position": 10,
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5uEgR8k5xDLaMIS0le17hv/595a27e9dc71acf83cc362c433942ce6/AI_agents.png"
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/2ehvkDsQ7NC7wQuECOcDGS/cb89da9ccaf13f2888f005ac93cecffa/cfr0z3n_realistic_graphic_novel_hyper_detailed_flat_illustratio_8aae43d5-1e50-4ebd-8760-ea28dbc0f328.png",
-      "popularity_score": 2019.2389652777779,
+      "popularity_score": 2015.0430805555557,
       "ai_summary": [
-        "Google is adding live Google Maps data to Gemini AI models.",
-        "This allows developers to connect Gemini with geospatial data.",
-        "Applications can deliver location-relevant responses to queries.",
-        "Developers can build intelligent, location-aware experiences.",
-        "The feature is useful for local search, delivery, and travel."
+        "Google allows developers to integrate live geospatial data from Google Maps into Gemini AI models.",
+        "Developers can use the feature to build location-aware applications with detailed, relevant responses.",
+        "The feature is accessible in Google AI Studio, with a live demo powered by the Gemini Live API.",
+        "Applications can generate grounded, location-specific responses with factual accuracy and contextual depth.",
+        "The feature is useful for local search, delivery services, real estate, and travel planning applications."
       ]
     },
     {
-      "id": "cluster_30",
+      "id": "cluster_36",
       "coverage": 2,
       "updated_at": "Fri, 17 Oct 2025 14:45:01 -0400",
       "title": "Automaker Stellantis and Pony.ai sign a non-binding agreement to develop robotaxis for deployment in Europe, with plans to start testing in the coming months (Rebecca Bellan/TechCrunch)",
-      "neutral_headline": "Automaker Stellantis and Pony.ai sign a non-binding agreement to develop robotaxis for deployment in Europe, with plans to start testing in the coming months (Rebecca Bellan/TechCrunch)",
+      "neutral_headline": "Stellantis and Pony.ai Partner to Develop Robotaxis in Europe",
       "items": [
         {
           "source": "TechMeme",
@@ -296,7 +321,7 @@
           "title": "Automaker Stellantis and Pony.ai sign a non-binding agreement to develop robotaxis for deployment in Europe, with plans to start testing in the coming months (Rebecca Bellan/TechCrunch)",
           "standfirst": "Rebecca Bellan / TechCrunch: Automaker Stellantis and Pony.ai sign a non-binding agreement to develop robotaxis for deployment in Europe, with plans to start testing in the coming months &mdash; Automaker Stellantis and Chinese autonomous vehicle company Pony.ai have signed a nonbinding agreement to build robotaxis for deployment in Europe.",
           "content": "Rebecca Bellan / TechCrunch: Automaker Stellantis and Pony.ai sign a non-binding agreement to develop robotaxis for deployment in Europe, with plans to start testing in the coming months &mdash; Automaker Stellantis and Chinese autonomous vehicle company Pony.ai have signed a nonbinding agreement to build robotaxis for deployment in Europe.",
-          "feed_position": 9,
+          "feed_position": 12,
           "image_url": "http://www.techmeme.com/251017/i27.jpg"
         },
         {
@@ -306,62 +331,25 @@
           "title": "Stellantis teams up with Pony AI to develop robotaxis in Europe",
           "standfirst": "The collaboration will integrate Pony’s self-driving software into Stellantis’ electric medium-size van platform, which is built with advanced sensors to support autonomous vehicles.",
           "content": "The collaboration will integrate Pony’s self-driving software into Stellantis’ electric medium-size van platform, which is built with advanced sensors to support autonomous vehicles.",
-          "feed_position": 9
+          "feed_position": 10
         }
       ],
       "featured_image": "http://www.techmeme.com/251017/i27.jpg",
-      "popularity_score": 2015.472576388889,
+      "popularity_score": 2011.2766916666667,
       "ai_summary": [
-        "Stellantis and Pony.ai signed a non-binding agreement.",
-        "They will develop robotaxis for deployment in Europe.",
-        "The companies plan to start testing in the coming months.",
-        "Pony.ai is a Chinese autonomous vehicle company.",
-        "The collaboration will integrate Pony's self-driving software."
+        "Automaker Stellantis and Pony.ai signed a nonbinding agreement to develop robotaxis.",
+        "The agreement aims for deployment in Europe, with testing planned in the coming months.",
+        "The collaboration will integrate Pony's self-driving software into Stellantis' electric van platform.",
+        "The platform is built with advanced sensors to support autonomous vehicles.",
+        "The partnership focuses on developing robotaxis for the European market."
       ]
     },
     {
-      "id": "cluster_53",
-      "coverage": 2,
-      "updated_at": "Fri, 17 Oct 2025 12:05:01 -0400",
-      "title": "WhatsApp is testing limits on how many messages a user or business can send monthly to unknown people without a response; nearing the limit displays a warning (Ivan Mehta/TechCrunch)",
-      "neutral_headline": "WhatsApp Tests Limits on Messages to Curb Spam",
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/251017/p23#a251017p23",
-          "published_at": "Fri, 17 Oct 2025 12:05:01 -0400",
-          "title": "WhatsApp is testing limits on how many messages a user or business can send monthly to unknown people without a response; nearing the limit displays a warning (Ivan Mehta/TechCrunch)",
-          "standfirst": "Ivan Mehta / TechCrunch: WhatsApp is testing limits on how many messages a user or business can send monthly to unknown people without a response; nearing the limit displays a warning &mdash; WhatsApp is attempting to solve its spam problem by putting a curb on how many messages individual users and businesses can send to unknown people without getting a response.",
-          "content": "Ivan Mehta / TechCrunch: WhatsApp is testing limits on how many messages a user or business can send monthly to unknown people without a response; nearing the limit displays a warning &mdash; WhatsApp is attempting to solve its spam problem by putting a curb on how many messages individual users and businesses can send to unknown people without getting a response.",
-          "feed_position": 13,
-          "image_url": "http://www.techmeme.com/251017/i23.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2025/10/17/whatsapp-will-curb-the-number-of-messages-people-and-businesses-can-send-without-a-response/",
-          "published_at": "Fri, 17 Oct 2025 14:11:33 +0000",
-          "title": "WhatsApp will curb the number of messages people and businesses can send without a response",
-          "standfirst": "The company said the controls are designed to be effective against people and businesses that blast messages and spam people.",
-          "content": "The company said the controls are designed to be effective against people and businesses that blast messages and spam people.",
-          "feed_position": 12
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/251017/i23.jpg",
-      "popularity_score": 2012.8059097222222,
-      "ai_summary": [
-        "WhatsApp is testing limits on monthly messages sent to unknown people without a response.",
-        "Users nearing the limit will see a warning message displayed within the application.",
-        "The company aims to reduce spam by controlling messages from individuals and businesses.",
-        "These controls are designed to be effective against mass messaging and spamming practices.",
-        "The changes are intended to improve the user experience by reducing unwanted communications."
-      ]
-    },
-    {
-      "id": "cluster_5",
+      "id": "cluster_11",
       "coverage": 1,
       "updated_at": "Fri, 17 Oct 2025 22:14:59 +0000",
       "title": "With deadline looming, 4 of 9 universities reject Trump’s “compact” to remake higher ed",
-      "neutral_headline": "Four Universities Reject Trump's Higher Education Compact",
+      "neutral_headline": "Universities Reject Trump's Higher Education Compact",
       "items": [
         {
           "source": "Ars Technica",
@@ -375,21 +363,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-588709290-1152x648.jpg",
-      "popularity_score": 351.9720208333333,
+      "popularity_score": 347.7761361111111,
       "ai_summary": [
-        "Four of nine universities have rejected Trump's proposed compact for higher education.",
-        "The deadline for accepting the compact is approaching for the remaining universities.",
-        "Trump is currently pressuring the other five universities to accept the compact.",
-        "The compact aims to reshape the landscape of higher education institutions.",
-        "The specific details of the compact remain subject to ongoing negotiations."
+        "Four of nine universities rejected Trump's \"compact\" to remake higher education.",
+        "The deadline for the compact is approaching.",
+        "Trump is pressuring the remaining five universities to accept the compact.",
+        "The compact's details and specific goals are not mentioned.",
+        "The rejection suggests resistance to Trump's proposed changes."
       ]
     },
     {
-      "id": "cluster_6",
+      "id": "cluster_12",
       "coverage": 1,
       "updated_at": "Fri, 17 Oct 2025 22:02:54 +0000",
       "title": "Vaginal condition treatment update: Men should get treated, too",
-      "neutral_headline": "Treating Vaginal Conditions Requires Partner Involvement",
+      "neutral_headline": "Treatment Update for Vaginal Condition Includes Men",
       "items": [
         {
           "source": "Ars Technica",
@@ -403,21 +391,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2185753669-1152x648.jpg",
-      "popularity_score": 341.77063194444446,
+      "popularity_score": 337.57474722222224,
       "ai_summary": [
-        "Bacterial vaginosis treatment should include treatment for male partners.",
-        "Partners are part of the problem and also part of the solution for this condition.",
-        "This approach aims to prevent reinfection and improve treatment outcomes.",
-        "The recommendation emphasizes a comprehensive approach to healthcare.",
-        "The focus is on addressing the root causes of the condition."
+        "The article discusses updates regarding the treatment of bacterial vaginosis.",
+        "It emphasizes that male partners should also receive treatment for the condition.",
+        "The article suggests that partners are part of the problem and the solution.",
+        "The specific treatment methods are not detailed in the summary.",
+        "The focus is on a comprehensive approach to treating the condition."
       ]
     },
     {
-      "id": "cluster_7",
+      "id": "cluster_13",
       "coverage": 1,
       "updated_at": "Fri, 17 Oct 2025 21:50:10 +0000",
       "title": "Ring cameras are about to get increasingly chummy with law enforcement",
-      "neutral_headline": "Ring Cameras Partner with Law Enforcement Technology Company",
+      "neutral_headline": "Ring Cameras to Increase Collaboration with Law Enforcement",
       "items": [
         {
           "source": "Ars Technica",
@@ -431,21 +419,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/20250611-lifestyle-outdoorcampro-plugin-home-exterior-wall-wht-rgb-1152x648.jpg",
-      "popularity_score": 331.5584097222222,
+      "popularity_score": 327.362525,
       "ai_summary": [
         "Amazon's Ring is partnering with a company whose tech has been used by ICE.",
-        "The partnership could increase the integration of Ring with law enforcement agencies.",
-        "This collaboration raises concerns about data privacy and surveillance practices.",
-        "The technology company's involvement with ICE has drawn criticism.",
-        "The partnership may expand the use of Ring camera footage by authorities."
+        "The partnership suggests increased collaboration between Ring and law enforcement agencies.",
+        "The specific nature of the collaboration is not detailed in the summary.",
+        "The article implies potential concerns regarding privacy and surveillance.",
+        "The partnership involves a company with a history of working with ICE."
       ]
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_38",
       "coverage": 1,
       "updated_at": "Fri, 17 Oct 2025 18:36:18 +0000",
       "title": "Dead Ends is a fun, macabre medical history for kids",
-      "neutral_headline": "Dead Ends is a Macabre Medical History Book for Children",
+      "neutral_headline": "Dead Ends is a Fun, Macabre Medical History for Kids",
       "items": [
         {
           "source": "Ars Technica",
@@ -459,17 +447,17 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/deadends4-1152x648.jpg",
-      "popularity_score": 318.32729861111113,
+      "popularity_score": 314.1314138888889,
       "ai_summary": [
-        "\"Dead Ends\" is a new children's book exploring medical history.",
-        "The book is co-authored by Lindsey Fitzharris and Adrian Teal.",
-        "The book aims to make medical history accessible and engaging for children.",
-        "The authors discuss the book's content and creative process.",
-        "The book's tone is described as fun and macabre."
+        "The article discusses a new children's book titled \"Dead Ends.\"",
+        "The book is described as a fun and macabre medical history.",
+        "The authors, Lindsey Fitzharris and Adrian Teal, are interviewed.",
+        "The book's target audience is children.",
+        "The article highlights the book's unique approach to medical history."
       ]
     },
     {
-      "id": "cluster_38",
+      "id": "cluster_44",
       "coverage": 1,
       "updated_at": "Fri, 17 Oct 2025 17:55:19 +0000",
       "title": "Big Tech sues Texas, says age-verification law is “broad censorship regime”",
@@ -487,21 +475,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/boy-with-phone-1152x648-1760722441.jpg",
-      "popularity_score": 307.64424305555553,
+      "popularity_score": 303.4483583333333,
       "ai_summary": [
-        "Big Tech companies are suing Texas over its age-verification law.",
+        "Big Tech companies are suing Texas over an age-verification law.",
         "The companies claim the law constitutes a \"broad censorship regime.\"",
-        "The law is compared to requiring ID checks at bookstores and malls.",
-        "The lawsuit challenges the constitutionality of the Texas law.",
-        "The legal battle could have significant implications for online content regulation."
+        "The law is compared to checking IDs at bookstores and shopping malls.",
+        "The specific details of the law are not mentioned in the summary.",
+        "The lawsuit challenges the law's impact on free speech."
       ]
     },
     {
-      "id": "cluster_42",
+      "id": "cluster_47",
       "coverage": 1,
       "updated_at": "Fri, 17 Oct 2025 17:14:03 +0000",
       "title": "Teen sues to destroy the nudify app that left her in constant fear",
-      "neutral_headline": "Teen Sues to Destroy Nudify App After Constant Fear",
+      "neutral_headline": "Teen Sues to Destroy Nudify App",
       "items": [
         {
           "source": "Ars Technica",
@@ -515,21 +503,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1204474749-1152x648.jpg",
-      "popularity_score": 296.9564652777778,
+      "popularity_score": 292.7605805555556,
       "ai_summary": [
-        "A teenager is suing to destroy the \"nudify\" app.",
-        "The lawsuit alleges the app caused the teen constant fear.",
+        "A teen is suing to destroy the \"nudify\" app.",
         "The lawsuit accuses the app of training on teen victims' images.",
-        "The case highlights the dangers of AI-powered image manipulation.",
-        "The legal action seeks to hold the app developers accountable."
+        "The app allegedly caused the teen constant fear.",
+        "The specific details of the app's functionality are not mentioned.",
+        "The lawsuit seeks to address the app's harmful impact."
       ]
     },
     {
-      "id": "cluster_43",
+      "id": "cluster_48",
       "coverage": 1,
       "updated_at": "Fri, 17 Oct 2025 16:54:32 +0000",
       "title": "NASA’s next Moonship reaches last stop before launch pad",
-      "neutral_headline": "NASA's Moonship Reaches Final Stop Before Launch",
+      "neutral_headline": "NASA's Moonship Reaches Last Stop Before Launch",
       "items": [
         {
           "source": "Ars Technica",
@@ -543,21 +531,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/orion_transfer_artii-1152x648.jpg",
-      "popularity_score": 286.6311875,
+      "popularity_score": 282.4353027777778,
       "ai_summary": [
-        "NASA's next Moonship has reached its final stop before the launch pad.",
+        "NASA's next Moonship has reached its final destination before launch.",
         "Preparations for the Artemis II mission are ongoing.",
-        "The federal government shutdown has not halted mission preparations.",
-        "The Artemis II mission aims to send astronauts around the Moon.",
-        "The mission is a crucial step in NASA's lunar exploration program."
+        "The preparations continue despite the federal government shutdown.",
+        "The specific details of the Moonship are not mentioned.",
+        "The mission is still on track despite the shutdown."
       ]
     },
     {
-      "id": "cluster_49",
+      "id": "cluster_53",
       "coverage": 1,
       "updated_at": "Fri, 17 Oct 2025 16:27:02 +0000",
       "title": "12 years of HDD analysis brings insight to the bathtub curve’s reliability",
-      "neutral_headline": "HDD Analysis Reveals Insights into Reliability",
+      "neutral_headline": "HDD Analysis Brings Insight to Reliability",
       "items": [
         {
           "source": "Ars Technica",
@@ -571,21 +559,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/GettyImages-462699436-1024x648.jpg",
-      "popularity_score": 276.17285416666664,
+      "popularity_score": 271.9769694444444,
       "ai_summary": [
-        "A backup firm has conducted 12 years of HDD analysis.",
-        "The analysis provides insight into the bathtub curve's reliability.",
+        "A backup firm has analyzed 12 years of HDD data.",
+        "The analysis provides insight into the \"bathtub curve\" of HDD reliability.",
         "The firm offers a unique perspective on HDD failure rates.",
-        "The data helps understand the lifespan and failure patterns of HDDs.",
-        "The findings are valuable for data storage and management."
+        "The specific findings of the analysis are not detailed.",
+        "The analysis focuses on understanding HDD performance over time."
       ]
     },
     {
-      "id": "cluster_58",
+      "id": "cluster_61",
       "coverage": 1,
       "updated_at": "Fri, 17 Oct 2025 15:40:15 +0000",
       "title": "Lead poisoning has been a feature of our evolution",
-      "neutral_headline": "Lead Poisoning Found in Ancient Hominin Fossils",
+      "neutral_headline": "Lead Poisoning Found in Ancient Hominin Teeth",
       "items": [
         {
           "source": "Ars Technica",
@@ -599,21 +587,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1285261327-1152x648.jpg",
-      "popularity_score": 268.39313194444446,
+      "popularity_score": 264.19724722222225,
       "ai_summary": [
         "A recent study found lead in teeth from 2-million-year-old hominin fossils.",
-        "Lead poisoning has been a feature of human evolution.",
+        "The study suggests lead poisoning has been a feature of human evolution.",
+        "The specific details of the study are not mentioned.",
         "The study provides evidence of lead exposure in ancient hominins.",
-        "The findings shed light on the history of environmental toxins.",
-        "The research contributes to understanding human health over time."
+        "The findings highlight the long history of lead exposure."
       ]
     },
     {
-      "id": "cluster_66",
+      "id": "cluster_69",
       "coverage": 1,
       "updated_at": "Fri, 17 Oct 2025 15:07:01 +0000",
       "title": "Apple pays $750 million for US Formula 1 streaming coverage",
-      "neutral_headline": "Apple Pays $750 Million for Formula 1 Streaming Coverage",
+      "neutral_headline": "Apple Pays $750 Million for US Formula 1 Streaming Coverage",
       "items": [
         {
           "source": "Ars Technica",
@@ -627,13 +615,13 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Apple-exclusive-F1-partner-1152x648.jpg",
-      "popularity_score": 266.8392430555556,
+      "popularity_score": 262.6433583333333,
       "ai_summary": [
         "Apple is paying $750 million for US Formula 1 streaming coverage.",
-        "Some races will be available for free on Apple TV.",
-        "F1 TV is transitioning from a standalone streaming service.",
-        "The move integrates F1 content into Apple's streaming platform.",
-        "The deal expands Apple's sports content offerings."
+        "Some races will be free as F1 TV moves to Apple TV.",
+        "The deal involves a shift from standalone streaming to Apple TV.",
+        "The specific details of the streaming coverage are not mentioned.",
+        "The deal aims to expand Formula 1's audience in the US."
       ]
     },
     {
@@ -641,7 +629,7 @@
       "coverage": 1,
       "updated_at": "Thu, 16 Oct 2025 20:40:49 +0000",
       "title": "Nation-state hackers deliver malware from “bulletproof” blockchains",
-      "neutral_headline": "Nation-State Hackers Deliver Malware from Blockchains",
+      "neutral_headline": "Hackers Deliver Malware from Blockchains",
       "items": [
         {
           "source": "Ars Technica",
@@ -657,11 +645,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-1000x648.jpg",
       "popularity_score": 166,
       "ai_summary": [
-        "Nation-state hackers are using \"bulletproof\" blockchains for malware.",
+        "Nation-state hackers are delivering malware from \"bulletproof\" blockchains.",
         "Malicious payloads are stored on Ethereum and BNB blockchains.",
-        "These blockchains are immune to takedowns.",
-        "The technique allows hackers to maintain access to their malware.",
-        "The method poses a significant challenge to cybersecurity efforts."
+        "The malware is immune to takedowns due to blockchain technology.",
+        "The specific details of the malware are not mentioned.",
+        "The hackers are using blockchain for secure malware distribution."
       ]
     },
     {
@@ -669,7 +657,7 @@
       "coverage": 1,
       "updated_at": "Fri, 17 Oct 2025 14:16:58 +0000",
       "title": "Teachers get an F on AI-generated lesson plans",
-      "neutral_headline": "AI-Generated Lesson Plans Fail to Inspire Students",
+      "neutral_headline": "AI-Generated Lesson Plans Fall Short for Teachers",
       "items": [
         {
           "source": "Ars Technica",
@@ -683,13 +671,13 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1287663546-1152x648-1758570568.jpg",
-      "popularity_score": 156.00507638888888,
+      "popularity_score": 151.80919166666666,
       "ai_summary": [
-        "AI-generated lesson plans are falling short in education.",
-        "The plans struggle to inspire students and promote critical thinking.",
-        "The quality of AI-generated educational content is a concern.",
-        "The findings highlight limitations of current AI in education.",
-        "The study suggests a need for human oversight in lesson planning."
+        "AI-generated lesson plans are falling short for teachers.",
+        "The plans fail to inspire students and promote critical thinking.",
+        "The article critiques the quality of AI-generated lesson plans.",
+        "The specific shortcomings of the plans are not detailed.",
+        "The article highlights the limitations of AI in education."
       ]
     },
     {
@@ -697,7 +685,7 @@
       "coverage": 1,
       "updated_at": "Thu, 16 Oct 2025 22:41:42 +0000",
       "title": "RFK Jr.’s MAHA wants to make chemtrail conspiracy theories great again",
-      "neutral_headline": "RFK Jr.'s MAHA Supports Chemtrail Conspiracy Theories",
+      "neutral_headline": "RFK Jr.’s MAHA wants to make chemtrail conspiracy theories great again",
       "items": [
         {
           "source": "Ars Technica",
@@ -713,11 +701,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1182820491-1152x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "RFK Jr.'s MAHA wants to promote chemtrail conspiracy theories.",
-        "It is unclear if Kennedy will follow through with this support.",
-        "Kennedy supports the conspiracy theory.",
-        "The conspiracy theory claims that aircraft release harmful chemicals.",
-        "The theory lacks scientific evidence."
+        "RFK Jr.'s MAHA supports chemtrail conspiracy theories.",
+        "It is unclear if Kennedy will follow through with the theory.",
+        "The article discusses Kennedy's support for the conspiracy theory.",
+        "The specific details of the chemtrail theory are not mentioned.",
+        "The article highlights Kennedy's stance on the conspiracy."
       ]
     },
     {
@@ -725,7 +713,7 @@
       "coverage": 1,
       "updated_at": "Thu, 16 Oct 2025 21:12:48 +0000",
       "title": "AI-powered features begin creeping deeper into the bedrock of Windows 11",
-      "neutral_headline": "AI-Powered Features Creep into Windows 11",
+      "neutral_headline": "Windows 11 Adds AI Features for File Creation and Editing",
       "items": [
         {
           "source": "Ars Technica",
@@ -741,11 +729,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Windows-Blog-Hero-Image_High-Res-1152x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "AI-powered features are expanding within Windows 11.",
-        "Copilot is emphasizing file creation, editing, and voice input.",
-        "The updates aim to enhance user productivity and experience.",
-        "The integration of AI is becoming more deeply embedded.",
-        "The changes reflect a broader trend in software development."
+        "Windows 11 is integrating more AI-powered features into its core functionality.",
+        "Copilot is expanding with a focus on creating and editing files.",
+        "Voice input capabilities are also being enhanced within the operating system.",
+        "The updates aim to improve user interaction and productivity.",
+        "These changes represent a deeper integration of AI into Windows 11."
       ]
     },
     {
@@ -753,7 +741,7 @@
       "coverage": 1,
       "updated_at": "Thu, 16 Oct 2025 20:25:08 +0000",
       "title": "Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in.",
-      "neutral_headline": "Ars Live Discusses AI Bubble, Finances, and Nuclear Power",
+      "neutral_headline": "Ars Live Discusses AI Bubble, OpenAI Finances, and Nuclear Power",
       "items": [
         {
           "source": "Ars Technica",
@@ -769,19 +757,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-1152x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "Ars Technica discussed OpenAI's finances during the live recap.",
-        "The live stream also covered topics related to nuclear power.",
+        "Ars Technica hosted a live recap discussing current technology topics.",
+        "The discussion covered OpenAI's financial situation and its future.",
+        "Nuclear power and its potential were also part of the conversation.",
         "Technical difficulties occurred during the live stream.",
-        "Ed Zitron provided commentary on the current state of AI.",
-        "Sam Altman was also a topic of discussion during the live event."
+        "The event featured commentary from Ed Zitron."
       ]
     },
     {
-      "id": "cluster_105",
+      "id": "cluster_106",
       "coverage": 1,
       "updated_at": "Fri, 17 Oct 2025 10:30:59 +0000",
       "title": "Yes, everything online sucks now—but it doesn’t have to",
-      "neutral_headline": "Ars Technica Discusses Online Issues with Cory Doctorow",
+      "neutral_headline": "Ars Technica Discusses Online Issues and Cory Doctorow's Book",
       "items": [
         {
           "source": "Ars Technica",
@@ -795,21 +783,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cory1-1152x648-1759765718.jpg",
-      "popularity_score": 146.2386875,
+      "popularity_score": 142.04280277777778,
       "ai_summary": [
-        "Ars Technica interviewed Cory Doctorow regarding online problems.",
-        "The interview focused on Doctorow's new book, \"Enshittification\".",
-        "The discussion centered on the current state of the internet.",
-        "Doctorow offered insights into the issues of online platforms.",
-        "The interview explored potential solutions to these problems."
+        "Ars Technica interviewed Cory Doctorow about online problems.",
+        "The discussion focused on Doctorow's new book, \"Enshittification.\"",
+        "The book explores the decline of online platforms and services.",
+        "Doctorow offered insights into the current state of the internet.",
+        "The conversation addressed potential solutions to these issues."
       ]
     },
     {
-      "id": "cluster_72",
+      "id": "cluster_74",
       "coverage": 1,
       "updated_at": "Fri, 17 Oct 2025 14:57:07 +0000",
       "title": "3 years, 4 championships, but 0 Le Mans wins: Assessing the Porsche 963",
-      "neutral_headline": "Porsche 963: IMSA Success, WEC Withdrawal Analyzed",
+      "neutral_headline": "Porsche 963's Racing Performance and Le Mans Absence",
       "items": [
         {
           "source": "Ars Technica",
@@ -823,21 +811,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/IMSA2025PetitLeMans_JT19117-1152x648.jpg",
-      "popularity_score": 144.67424305555556,
+      "popularity_score": 140.47835833333335,
       "ai_summary": [
-        "Porsche's 963 has achieved four championships in three years.",
-        "The team is successful in the IMSA racing series.",
+        "Porsche's 963 has achieved success in IMSA racing.",
+        "The team has won four championships in three years.",
         "Porsche is withdrawing from the World Endurance Championship (WEC).",
         "This decision creates a complex situation for the factory team.",
-        "The article assesses the implications of these contrasting situations."
+        "The team's Le Mans performance remains a point of concern."
       ]
     },
     {
-      "id": "cluster_103",
+      "id": "cluster_104",
       "coverage": 1,
       "updated_at": "Fri, 17 Oct 2025 11:00:49 +0000",
       "title": "Rocket Report: China launches with no advance warning; Europe’s drone ship",
-      "neutral_headline": "Rocket Report: China Launches, US Mega-Constellations Grow",
+      "neutral_headline": "Rocket Report: China Launches, Space Developments, and Constellations",
       "items": [
         {
           "source": "Ars Technica",
@@ -851,13 +839,13 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starshipflight11-presplash-1152x648.jpg",
-      "popularity_score": 140.73590972222223,
+      "popularity_score": 136.540025,
       "ai_summary": [
-        "China launched a rocket without prior warning.",
-        "Starlink and Kuiper added satellites to their constellations.",
-        "The US military also expanded its satellite presence.",
-        "Europe's drone ship was also a topic of discussion.",
-        "The report covers various space-related developments."
+        "China conducted a rocket launch without prior public announcement.",
+        "Europe is developing a drone ship for space-related activities.",
+        "Starlink, Kuiper, and the US military are expanding constellations.",
+        "These developments highlight ongoing space exploration efforts.",
+        "The report covers various space-related news and updates."
       ]
     },
     {
@@ -881,11 +869,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/OP-mind-space-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "OnePlus is releasing the OxygenOS 16 update.",
-        "The update includes deep integration with Gemini.",
-        "The article questions if users have a \"Mind Space\".",
-        "The update will affect the user experience.",
-        "The new features are designed to enhance the phone."
+        "OnePlus is releasing the OxygenOS 16 update for its phones.",
+        "The update includes deep integration with Google's Gemini AI.",
+        "The update introduces a \"Mind Space\" feature.",
+        "The announcement raises questions about phone features.",
+        "The update aims to enhance user experience."
       ]
     },
     {
@@ -893,7 +881,7 @@
       "coverage": 1,
       "updated_at": "Thu, 16 Oct 2025 19:50:58 +0000",
       "title": "Sony tells SCOTUS that people accused of piracy aren’t “innocent grandmothers”",
-      "neutral_headline": "Sony Argues Against \"Innocent Grandmother\" Piracy Defense",
+      "neutral_headline": "Sony Argues Against Piracy Innocence in Supreme Court Case",
       "items": [
         {
           "source": "Ars Technica",
@@ -909,11 +897,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/music-pirate-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Sony presented arguments to the Supreme Court.",
-        "The company addressed the issue of music piracy.",
-        "Sony opposes the \"innocent grandmother\" defense.",
-        "Music companies seek ISP action against repeat infringers.",
-        "They want ISPs to pay damages for copyright violations."
+        "Sony is involved in a Supreme Court case regarding piracy.",
+        "Sony argues that accused pirates are not necessarily \"innocent.\"",
+        "Music companies want ISPs to take action against infringers.",
+        "They seek termination of repeat infringers or financial penalties.",
+        "The case addresses copyright infringement and ISP responsibilities."
       ]
     }
   ]
