@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2025-10-18T07:16:40.338Z",
+    "updated_at": "2025-10-18T11:14:04.044Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-10-18T07:16:57.186Z",
+    "updated_at": "2025-10-18T11:14:20.513Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/5ee4ef55-9607-4839-a27a-7b5fd75d3d93/GP-services-close-over-unsustainable-funding.aspx",
         "ai_summary": [
-          "Three Victorian health clinics will cease GP services.",
-          "Thousands of patients will lose access to their doctors.",
-          "Twenty GPs will be made redundant due to the closures.",
-          "The closures are a result of ongoing financial challenges.",
-          "The funding for the GP services was deemed unsustainable."
+          "Three Victorian health clinics are closing their GP services due to financial issues.",
+          "Approximately 20 GPs will lose their jobs as a result of the closures.",
+          "Thousands of patients will be without their regular doctors.",
+          "The closures are a direct consequence of unsustainable funding models.",
+          "The situation highlights ongoing challenges within the healthcare system."
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/f1dbbd62-bcae-4834-8b64-c3d2778129b0/What-do-patients-most-value-in-a-GP.aspx",
         "ai_summary": [
-          "A new report explores patient engagement with healthcare.",
-          "Sixty-four percent of patients feel completely cared for.",
-          "The report highlights patient perspectives on GP services.",
-          "The report provides insights into patient priorities.",
-          "The report focuses on patient experiences within healthcare."
+          "A new report examines patient engagement within the healthcare system.",
+          "64% of patients reported feeling \"completely cared for\" by their GP.",
+          "The report provides insights into patient priorities and preferences.",
+          "It may influence future healthcare service delivery strategies.",
+          "The study's findings could inform improvements in patient care."
         ]
       },
       {
@@ -80,24 +80,24 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/c57ae54b-9ba2-4f3f-9ed6-6ffb644984da/GPs-take-advocacy-to-Parliament-floor.aspx",
         "ai_summary": [
-          "GPs advocated for improvements in South Australia.",
-          "Boosting the GP workforce was a key agenda item.",
-          "Access to after-hours care was also discussed.",
-          "Rural healthcare access was another focus of advocacy.",
-          "The RACGP hosted the GPs@Parliament event."
+          "The RACGP held a \"GPs@Parliament\" event to advocate for GPs.",
+          "Discussions focused on increasing the GP workforce in South Australia.",
+          "Access to after-hours and rural healthcare was also a key topic.",
+          "The event aimed to influence healthcare policy decisions.",
+          "The RACGP sought to address challenges faced by GPs."
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2025-10-18T07:16:51.197Z",
+    "updated_at": "2025-10-18T11:14:06.665Z",
     "clusters": [
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 2,
         "updated_at": "Fri, 17 Oct 2025 08:18:39 GMT",
         "title": "'Game-changing' HIV protection jab approved in England and Wales",
-        "neutral_headline": "Game-changing' HIV protection jab approved in England and Wales",
+        "neutral_headline": "HIV Prevention Jab Approved in England and Wales",
         "items": [
           {
             "source": "BBC Health",
@@ -121,19 +121,46 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b86c/live/cdc0d600-a837-11f0-9f09-57500e5dbf06.jpg",
         "ai_summary": [
-          "An HIV protection jab has been approved for use.",
-          "The injection is an alternative to daily pills.",
-          "The jab is administered every two months.",
-          "The shot is considered a \"game-changing\" development.",
-          "The approval covers England and Wales."
+          "An HIV prevention injection is approved for use in England and Wales.",
+          "The injection is administered every two months.",
+          "It offers an alternative to daily HIV prevention pills.",
+          "The jab is considered a \"gamechanging\" development.",
+          "The long-acting injection provides a new prevention option."
         ]
       },
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Sat, 18 Oct 2025 09:03:10 GMT",
+        "title": "Skeletons found in mass grave are ancient Roman soldiers, study finds",
+        "neutral_headline": "Ancient Roman Soldiers Found in Mass Grave",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/ckgknnqp33qo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 18 Oct 2025 09:03:10 GMT",
+            "title": "Skeletons found in mass grave are ancient Roman soldiers, study finds",
+            "standfirst": "The archaeological discovery in Croatia contains seven male skeletons scientists believe are 1,700 years old.",
+            "content": "The archaeological discovery in Croatia contains seven male skeletons scientists believe are 1,700 years old.",
+            "feed_position": 2,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88cc/live/85949170-abd7-11f0-a234-21132c44e450.png"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88cc/live/85949170-abd7-11f0-a234-21132c44e450.png",
+        "ai_summary": [
+          "Skeletons of ancient Roman soldiers were found in Croatia.",
+          "The skeletons are believed to be 1,700 years old.",
+          "The discovery was made in a mass grave.",
+          "The remains are all male.",
+          "The find provides insights into Roman military history."
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
         "updated_at": "Sat, 18 Oct 2025 07:13:48 GMT",
         "title": "Exciting results from blood test for 50 cancers",
-        "neutral_headline": "Exciting results from blood test for 50 cancers",
+        "neutral_headline": "Blood Test Shows Promising Results for Cancer Detection",
         "items": [
           {
             "source": "BBC Health",
@@ -148,19 +175,46 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f714/live/07276060-aba5-11f0-bba9-81f28efa2a1e.jpg",
         "ai_summary": [
-          "A blood test can detect fragments of DNA.",
-          "The test looks for DNA from broken-off tumors.",
-          "The test aims to detect 50 different cancers.",
-          "The test results are considered exciting.",
-          "The test analyzes circulating tumor DNA."
+          "A blood test shows promising results for detecting 50 cancers.",
+          "The Galleri test detects fragments of tumor DNA.",
+          "The test looks for DNA circulating in the blood.",
+          "The test could enable earlier cancer detection.",
+          "The results are considered exciting for cancer research."
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Sat, 18 Oct 2025 06:49:31 GMT",
+        "title": "Chinese Nobel laureate and physicist Chen Ning Yang dies aged 103",
+        "neutral_headline": "Chen Ning Yang, Nobel Laureate Physicist, Dies at 103",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cdxrzzk02plo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 18 Oct 2025 06:49:31 GMT",
+            "title": "Chinese Nobel laureate and physicist Chen Ning Yang dies aged 103",
+            "standfirst": "Yang, one of the world's most influential scientists, earned global recognition for his work in theoretical physics.",
+            "content": "Yang, one of the world's most influential scientists, earned global recognition for his work in theoretical physics.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b92/live/827b57a0-abe4-11f0-b2a1-6f537f66f9aa.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b92/live/827b57a0-abe4-11f0-b2a1-6f537f66f9aa.jpg",
+        "ai_summary": [
+          "Chen Ning Yang, a Nobel laureate, has died.",
+          "He was a highly influential scientist in theoretical physics.",
+          "Yang earned global recognition for his work.",
+          "He was 103 years old at the time of his death.",
+          "His contributions significantly impacted the field of physics."
+        ]
+      },
+      {
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 18 Oct 2025 06:07:39 GMT",
         "title": "Woman's rare cancer found after Butlin's holiday injury",
-        "neutral_headline": "Woman's rare cancer found after Butlin's holiday injury",
+        "neutral_headline": "Woman's Rare Cancer Found After Butlin's Holiday Injury",
         "items": [
           {
             "source": "BBC Health",
@@ -175,19 +229,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e93/live/2a1acec0-aa9e-11f0-ba75-093eca1ac29b.jpg",
         "ai_summary": [
-          "A woman was diagnosed with a rare cancer.",
-          "The diagnosis followed an injury at Butlin's.",
+          "A woman's rare cancer was discovered after a Butlin's holiday.",
+          "The discovery was linked to an injury sustained during the trip.",
           "The woman had a \"fantastic\" weekend at Butlin's.",
-          "She was unaware of her upcoming diagnosis.",
-          "The injury led to the cancer discovery."
+          "She was unaware of the cancer diagnosis at the time.",
+          "The incident led to the detection of a cancerous tumor."
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sat, 18 Oct 2025 06:00:38 GMT",
         "title": "Chemical linked to low sperm count, obesity and cancer found in dummies, tests find",
-        "neutral_headline": "Chemical linked to low sperm count, obesity and cancer found in dummies, tests find",
+        "neutral_headline": "Chemical linked to low sperm count, obesity and cancer found in dummies, tests find: BPA, a synthetic chemical used in production of plastics, found in baby products made by three big European brandsA chemical linked to impaired sexual development, obesity and cancer has been found in baby dummies manufactured by three big European brands.Dummies made by the Dutch multinational Philips, the Swiss oral health specialists Curaprox and the French toy brand Sophie la Girafe were found to contain bisphenol A (BPA), according to laboratory testing by dTest, a Czech consumer organisation. Philips said they had carried out subsequent testing and found no BPA, while Sophie la Girafe said the amount found was insignificant. Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -200,19 +254,19 @@
           }
         ],
         "ai_summary": [
-          "BPA was found in baby dummies.",
-          "BPA is linked to health issues.",
-          "Three European brands manufactured the dummies.",
+          "BPA, a chemical, was found in baby dummies from three brands.",
           "The brands include Philips, Curaprox, and Sophie la Girafe.",
-          "The chemical was found by a Czech consumer organization."
+          "BPA is linked to low sperm count, obesity, and cancer.",
+          "Testing was conducted by the Czech consumer organization dTest.",
+          "Philips denies the presence of BPA in their products."
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sat, 18 Oct 2025 06:00:37 GMT",
         "title": "Thousands of new mothers in England readmitted to hospital after birth, figures show",
-        "neutral_headline": "Thousands of new mothers in England readmitted to hospital after birth, figures show",
+        "neutral_headline": "Thousands of new mothers in England readmitted to hospital after birth, figures show: Exclusive: More than 14,600 women readmitted within 30 days of birth in last year, raising alarm over early dischargesThousands of new mothers are being readmitted to hospital in England every year, figures reveal, raising fresh concerns about NHS maternity care.Discharging women from hospital prematurely increases the risk of conditions linked to childbirth being missed, and can be extremely distressing. If childbirth injuries or other conditions are not treated until the mother is readmitted days or weeks later, the chances of a complete recovery may also be reduced. Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -225,19 +279,19 @@
           }
         ],
         "ai_summary": [
-          "Thousands of mothers are readmitted to hospitals.",
-          "Over 14,600 women were readmitted within 30 days.",
-          "The figures raise concerns about maternity care.",
-          "Early discharges may increase risks.",
-          "The data reveals issues in the NHS maternity system."
+          "Over 14,600 new mothers were readmitted to hospitals in England.",
+          "Readmissions occurred within 30 days of giving birth.",
+          "The figures raise concerns about early hospital discharges.",
+          "Premature discharge increases the risk of missed conditions.",
+          "Delayed treatment can reduce chances of full recovery."
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sat, 18 Oct 2025 05:00:36 GMT",
         "title": "Beyond chicken soup: what chefs and doctors eat when they’re sick (or just hungover)",
-        "neutral_headline": "Beyond chicken soup: what chefs and doctors eat when they’re sick (or just hungover)",
+        "neutral_headline": "Beyond chicken soup: what chefs and doctors eat when they’re sick (or just hungover): Laid up with the flu? Suffering with a sore throat? From chicken bhuna to fire honey, this food should get you back on your feetHydrate with teas For Dr Ricardo José, consultant in respiratory medicine, hydration is key: “It’s about taking frequent sips throughout the day to keep the mucous membranes moist.” Immunologist Dr Jenna Macciochi agrees, saying: “I often stir a spoonful of raw honey – nature’s soothing antimicrobial – into a cup of thyme tea (thyme steeped in water), which helps ease irritation and supports respiratory health. I also love marshmallow root tea, which is great for the mucous membranes.” Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -250,19 +304,19 @@
           }
         ],
         "ai_summary": [
-          "The article discusses food choices for illness.",
-          "Hydration is emphasized by a respiratory doctor.",
-          "Honey and thyme tea are recommended by an immunologist.",
-          "The article offers food suggestions for recovery.",
-          "The article provides insights from chefs and doctors."
+          "Chefs and doctors share their food choices when sick.",
+          "Hydration is a key recommendation for recovery.",
+          "Thyme tea and honey are suggested for sore throats.",
+          "Marshmallow root tea is recommended for mucous membranes.",
+          "The article offers food suggestions for various ailments."
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 17 Oct 2025 23:26:57 GMT",
         "title": "Mystery heatwave warms Pacific Ocean to new record",
-        "neutral_headline": "Pacific Ocean experiences record heatwave, scientists unsure",
+        "neutral_headline": "Mystery Heatwave Warms Pacific Ocean to Record High",
         "items": [
           {
             "source": "BBC Science",
@@ -271,25 +325,25 @@
             "title": "Mystery heatwave warms Pacific Ocean to new record",
             "standfirst": "Temperatures have surged across a large area of the north Pacific - and scientists don't know exactly why.",
             "content": "Temperatures have surged across a large area of the north Pacific - and scientists don't know exactly why.",
-            "feed_position": 35,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d48/live/46142140-abb5-11f0-bfbb-b1d6494a340a.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d48/live/46142140-abb5-11f0-bfbb-b1d6494a340a.jpg",
         "ai_summary": [
-          "A large area of the North Pacific Ocean is experiencing a surge in temperatures.",
-          "Scientists are currently unsure of the exact cause of the heatwave.",
-          "The record-breaking temperatures are a cause for scientific investigation.",
-          "The extent and duration of the heatwave are being closely monitored.",
-          "Researchers are working to understand the potential impacts of the warming."
+          "A heatwave has warmed the North Pacific Ocean.",
+          "Temperatures have reached record levels.",
+          "Scientists are unsure of the exact cause.",
+          "The event covers a large area of the ocean.",
+          "The phenomenon is under scientific investigation."
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 17 Oct 2025 22:07:48 GMT",
         "title": "'An adult weekender at Butlin's saved my life'",
-        "neutral_headline": "Weekend trip led to cancer diagnosis for Charlotte Monjaria",
+        "neutral_headline": "Butlin's Holiday Leads to Cancer Discovery",
         "items": [
           {
             "source": "BBC Health",
@@ -304,19 +358,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c465/live/4c4e6ea0-ab4f-11f0-aa13-0b0479f6f42a.jpg",
         "ai_summary": [
-          "Charlotte Monjaria's weekend away with friends led to a cancer discovery.",
-          "The discovery was made after a weekend at Butlin's resort.",
-          "A cancerous tumor was found during the weekend trip.",
-          "The article highlights the importance of early detection.",
-          "The story emphasizes the impact of a timely diagnosis."
+          "A woman's Butlin's weekend led to a cancer diagnosis.",
+          "The discovery was made after a trip with friends.",
+          "The woman was unaware of the cancerous tumor.",
+          "The holiday was described as \"fantastic\".",
+          "The trip resulted in a life-saving medical finding."
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 17 Oct 2025 16:31:07 GMT",
         "title": "Landmark deal to cut global shipping emissions in tatters after US pressure",
-        "neutral_headline": "US pressure undermines global shipping emissions reduction deal",
+        "neutral_headline": "Global shipping emissions deal faces collapse after US intervention",
         "items": [
           {
             "source": "BBC Science",
@@ -325,21 +379,21 @@
             "title": "Landmark deal to cut global shipping emissions in tatters after US pressure",
             "standfirst": "President Trump intervened in the talks calling the deal a \"green scam\".",
             "content": "President Trump intervened in the talks calling the deal a \"green scam\".",
-            "feed_position": 0,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/784f/live/5e54e370-ab6a-11f0-b2a1-6f537f66f9aa.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/784f/live/5e54e370-ab6a-11f0-b2a1-6f537f66f9aa.jpg",
         "ai_summary": [
-          "A landmark deal to cut global shipping emissions is in jeopardy.",
-          "President Trump intervened in the talks, calling the deal a \"green scam\".",
-          "The intervention by Trump has undermined the agreement.",
-          "The deal was intended to reduce emissions from shipping.",
-          "The future of the agreement is now uncertain due to US pressure."
+          "The US President intervened in talks regarding global shipping emissions.",
+          "President Trump called the deal a \"green scam\" during the intervention.",
+          "The intervention has put the landmark deal in jeopardy.",
+          "The deal aimed to reduce emissions from global shipping.",
+          "Details of the US intervention and its impact are still emerging."
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 17 Oct 2025 16:01:07 GMT",
         "title": "Insight is crucial for narcissistic personality disorder | Letters",
@@ -356,19 +410,19 @@
           }
         ],
         "ai_summary": [
-          "The article discusses the importance of insight in NPD.",
-          "Individuals with NPD who understand their problem are highlighted.",
-          "Insight allows for addressing the impact of NPD on others.",
-          "The article references the spectrum of personality traits.",
-          "Extreme cases of NPD with little insight are considered dangerous."
+          "Readers responded to an article about narcissistic personality disorder.",
+          "Subjects with NPD often have insight into their condition.",
+          "Insight helps them understand how their condition affects others.",
+          "Psychiatry considers personality traits on a spectrum.",
+          "Extreme traits with little insight can become bizarre and chaotic."
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 17 Oct 2025 15:03:02 GMT",
         "title": "Mississippi residents sue UK-owned biomass firm granted permit for more emissions",
-        "neutral_headline": "Mississippi residents sue UK-owned biomass firm for emissions",
+        "neutral_headline": "Mississippi residents sue biomass firm over emissions permit",
         "items": [
           {
             "source": "Guardian Health",
@@ -381,19 +435,19 @@
           }
         ],
         "ai_summary": [
-          "Residents of a Mississippi town are suing Drax Biomass.",
-          "The company was granted a permit for increased emissions.",
-          "Residents have expressed health concerns due to air pollution.",
-          "Drax Biomass was previously denied increased emissions.",
-          "The lawsuit follows health consequences reported by residents."
+          "Residents of Gloster, Mississippi, are suing Drax Biomass.",
+          "The company won a permit to become a \"major source\" of pollution.",
+          "Residents claim health concerns due to air pollution from the plant.",
+          "Drax Biomass is a subsidiary of a FTSE 250 energy company.",
+          "The company was previously denied an emissions increase permit."
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 17 Oct 2025 14:24:10 GMT",
         "title": "Alan Partridge is a thoughtful employer",
-        "neutral_headline": "Alan Partridge demonstrates thoughtful employer behavior",
+        "neutral_headline": "Alan Partridge is a thoughtful employer",
         "items": [
           {
             "source": "BBC Health",
@@ -408,19 +462,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5c0/live/4b571880-ab5e-11f0-aa13-0b0479f6f42a.jpg",
         "ai_summary": [
-          "Alan Partridge is portrayed as a thoughtful employer.",
-          "He knows how to respond when a staff member is unwell.",
-          "The article highlights his actions in such situations.",
-          "The focus is on his understanding of employee needs.",
-          "The story presents Partridge's approach to employee care."
+          "The article discusses Alan Partridge's actions as an employer.",
+          "He knows what to do when a staff member is unwell.",
+          "The article highlights his understanding of employee needs.",
+          "The context is a discussion of workplace dynamics.",
+          "The article is likely humorous in tone."
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 17 Oct 2025 12:34:46 GMT",
         "title": "How to spot if you have athlete's foot",
-        "neutral_headline": "Identifying athlete's foot: signs can be missed by doctors",
+        "neutral_headline": "How to spot if you have athlete's foot",
         "items": [
           {
             "source": "BBC Health",
@@ -435,15 +489,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1134/live/1fb28820-ab51-11f0-b2a1-6f537f66f9aa.jpg",
         "ai_summary": [
-          "Dr. Ivan Bristow explains how to spot athlete's foot.",
-          "The signs of athlete's foot can be missed by medical professionals.",
-          "The article is from the British Association of Dermatologists.",
-          "The task force focuses on foot fungus.",
-          "The article aims to improve athlete's foot recognition."
+          "Dr. Ivan Bristow explains how to identify athlete's foot.",
+          "He is from the British Association of Dermatologists’ Foot Fungus Task Force.",
+          "The signs of athlete's foot can be missed by doctors and nurses.",
+          "The article provides information on recognizing the condition.",
+          "It aims to help people identify and address the issue."
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 17 Oct 2025 11:00:57 GMT",
         "title": "Overdose in America: analysis reveals deaths rising in some regions even as US sees national decline",
@@ -469,15 +523,15 @@
           }
         ],
         "ai_summary": [
-          "Overdose deaths are rising in some US regions.",
-          "The Guardian analysis reveals geographical disparities in fatalities.",
-          "Chicago has seen a 37% reduction in overdose deaths.",
-          "The CDC attributes the national decline to several factors.",
-          "Changes in the drug supply affect regions differently."
+          "Overdose deaths are rising in some US communities despite a national decline.",
+          "A Guardian analysis found geographical disparities in overdose fatalities.",
+          "Chicago has seen a 37% reduction in overdose deaths since 2023.",
+          "The CDC attributes the national decline to factors like naloxone access.",
+          "Chicago uses a \"multifactorial approach\" to address the problem."
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 17 Oct 2025 11:00:55 GMT",
         "title": "US anti-vax stance to blame for continent-wide surge in measles, say experts",
@@ -496,17 +550,17 @@
         "ai_summary": [
           "Measles cases are surging across Latin America.",
           "Outbreaks in North America are driving the increase.",
+          "Cases have increased 34-fold in the region this year.",
           "The US is facing its worst measles outbreak in decades.",
-          "Low vaccine coverage and misinformation are contributing factors.",
-          "The article highlights the role of US vaccine policy changes."
+          "Low vaccine coverage and misinformation contribute to the surge."
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 17 Oct 2025 10:21:15 GMT",
         "title": "Student paramedic helps deliver lecturer's baby",
-        "neutral_headline": "Student paramedic assists in delivering lecturer's baby",
+        "neutral_headline": "Student paramedic helps deliver lecturer's baby",
         "items": [
           {
             "source": "BBC Health",
@@ -521,15 +575,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b5/live/ce721040-ab3a-11f0-9f0c-8d8035e68521.jpg",
         "ai_summary": [
-          "A student paramedic helped deliver a baby.",
-          "The baby belonged to a lecturer and his wife.",
-          "The student, Elise Faragher, was on placement.",
-          "The event occurred in Worcester, England.",
-          "The lecturer's name is Aaron Collins."
+          "A student paramedic assisted in delivering a baby.",
+          "The student was on placement in Worcester.",
+          "The lecturer and his wife were involved.",
+          "The event occurred during a placement.",
+          "The student's name is Elise Faragher."
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Fri, 17 Oct 2025 05:01:11 GMT",
         "title": "Calls to suspend GP who 'harassed' woman raped by his son",
@@ -548,19 +602,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66fc/live/41ac4ff0-1422-11ef-b261-4fcd87fa4087.jpg",
         "ai_summary": [
-          "Rape Crisis Scotland wants to suspend Dr. Andrew McFarlane.",
-          "The doctor allegedly distressed his son's rape victim.",
-          "The organization fears harm to other survivors.",
-          "The case involves a woman raped by the doctor's son.",
-          "The focus is on the potential impact on survivors."
+          "Rape Crisis Scotland wants Dr. Andrew McFarlane suspended.",
+          "They claim he distressed his son's rape victim.",
+          "They believe he may harm other rape survivors.",
+          "The case involves a woman raped by his son.",
+          "The organization is advocating for the suspension."
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Fri, 17 Oct 2025 05:01:02 GMT",
         "title": "Pregnant women in England at ‘growing risk’ of serious injury in childbirth",
-        "neutral_headline": "Pregnant women in England face increased childbirth injury risk",
+        "neutral_headline": "Pregnant women in England at ‘growing risk’ of serious injury in childbirth",
         "items": [
           {
             "source": "Guardian Health",
@@ -573,69 +627,17 @@
           }
         ],
         "ai_summary": [
-          "NHS figures show increased risk of serious injury.",
+          "NHS figures show increased risk of serious injury in childbirth.",
           "The number of perineal tears has increased since 2020.",
-          "The increase is 16% in third- or fourth-degree tears.",
-          "The data covers the period from June 2020 to June 2024.",
-          "The article highlights the growing risk for mothers."
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Fri, 17 Oct 2025 00:47:10 GMT",
-        "title": "'I have a sweating problem': What Alan Carr's Traitors admission tells us about how social taboos changed",
-        "neutral_headline": "Alan Carr's admission highlights changing social taboos",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/cwy51pgql7eo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 17 Oct 2025 00:47:10 GMT",
-            "title": "'I have a sweating problem': What Alan Carr's Traitors admission tells us about how social taboos changed",
-            "standfirst": "Let's talk about sweat... From contestants on The Celebrity Traitors and scores of celebrities openly discussing it, to the trend of professionals using saunas for business meetings",
-            "content": "Let's talk about sweat... From contestants on The Celebrity Traitors and scores of celebrities openly discussing it, to the trend of professionals using saunas for business meetings",
-            "feed_position": 27,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4478/live/456d6860-aaa1-11f0-b2a1-6f537f66f9aa.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4478/live/456d6860-aaa1-11f0-b2a1-6f537f66f9aa.jpg",
-        "ai_summary": [
-          "Alan Carr discussed his sweating problem publicly.",
-          "The article explores changing social attitudes.",
-          "The discussion includes celebrities and saunas.",
-          "The focus is on the evolving views on sweat.",
-          "The article examines the impact of social change."
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 16 Oct 2025 23:01:55 GMT",
-        "title": "NHS medical negligence liabilities hit £60bn amid surge in maternity payouts",
-        "neutral_headline": "NHS medical negligence liabilities hit £60bn amid surge in maternity payouts",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2025/oct/17/nhs-medical-negligence-liabilities-hit-60bn-amid-surge-in-maternity-payouts",
-            "published_at": "Thu, 16 Oct 2025 23:01:55 GMT",
-            "title": "NHS medical negligence liabilities hit £60bn amid surge in maternity payouts",
-            "standfirst": "Audit finds average childbirth injury case costs more than £11m to settle as watchdog urges stronger safety measuresThe NHS’s total liabilities for medical negligence have hit £60bn, driven by a jump in childbirth injury cases that cost more than £11m each on average to settle.The total sum of money the health service in England may have to pay out to settle lawsuits for mistakes by staff has quadrupled from £14.4bn in 2006-07, amid more claims and rising legal costs.the bill for negligence is expected to reach £4.1bn in 2029-30the number of cases settled has more than doubled from 5,625 in 2006-07 to 13,329 in 2024-25the total number of settlements has fallen in 11 specialties but risen in six others Continue reading...",
-            "content": "Audit finds average childbirth injury case costs more than £11m to settle as watchdog urges stronger safety measuresThe NHS’s total liabilities for medical negligence have hit £60bn, driven by a jump in childbirth injury cases that cost more than £11m each on average to settle.The total sum of money the health service in England may have to pay out to settle lawsuits for mistakes by staff has quadrupled from £14.4bn in 2006-07, amid more claims and rising legal costs.the bill for negligence is expected to reach £4.1bn in 2029-30the number of cases settled has more than doubled from 5,625 in 2006-07 to 13,329 in 2024-25the total number of settlements has fallen in 11 specialties but risen in six others Continue reading...",
-            "feed_position": 10
-          }
-        ],
-        "ai_summary": [
-          "NHS medical negligence liabilities have reached £60 billion.",
-          "Childbirth injury cases are driving the increase.",
-          "The average childbirth injury case costs over £11 million.",
-          "The total liabilities have quadrupled since 2006-07.",
-          "The bill for negligence is expected to reach £4.1 billion by 2029-30."
+          "Third- or fourth-degree tears have risen by 16%.",
+          "The data is from June 2020 to June of this year.",
+          "The figures highlight a concerning trend in maternal health."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-10-18T07:16:57.186Z",
+    "updated_at": "2025-10-18T11:14:20.513Z",
     "clusters": []
   }
 }
