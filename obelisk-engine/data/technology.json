@@ -1,13 +1,22 @@
 {
-  "updated_at": "2025-10-20T23:17:20.138Z",
+  "updated_at": "2025-10-21T03:38:03.626Z",
   "clusters": [
     {
-      "id": "cluster_3",
+      "id": "cluster_4",
       "coverage": 2,
-      "updated_at": "Mon, 20 Oct 2025 22:48:52 +0000",
-      "title": "X's handle marketplace will sell some 'rare' usernames for millions of dollars",
-      "neutral_headline": "X Marketplace to Sell \"Rare\" Usernames for Millions",
+      "updated_at": "Tue, 21 Oct 2025 01:21:01 +0000",
+      "title": "Amazon's AWS outage knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline",
+      "neutral_headline": "Amazon's AWS outage knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline",
       "items": [
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html",
+          "published_at": "Tue, 21 Oct 2025 01:21:01 +0000",
+          "title": "Amazon's AWS outage knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline",
+          "standfirst": "It felt like half of the internet was dealing with a hangover from the morning of October 19 to the early hours of October 20. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running. That included a long list of popular software like Venmo, Snapchat, Canva and Fortnite. Even Amazon's own assistant Alexa stuttered, and if you were wondering why the internet seemed to be against you — you weren't imagining it. The good news is that, Amazon announced by 6:53PM Eastern time on October 20 that it resolved the \"increased error rates and latencies for AWS Services.\" The company said it \"identified the trigger of the event as DNS resolution issues for the regional DynamoDB service endpoints.\" It ran into more problems as it tried to solve the outage, but it was eventually able to fix everything. \"By 3:01 PM, all AWS services returned to normal operations,\" it said. At about 4:30PM ET on October 20, things seemed to be returning back to normal. Apps like Venmo and Lyft, which were either slow to respond or completely nonresponsive before, were appearing to behave smoothly. As of 1:15PM ET on October 20, multiple services were unavailable, including asking Alexa for the weather or to turn off lights in your home. The Lyft app was also slower to respond than usual, and Venmo transactions were not completing. According to the AWS service health page at the time, Amazon was looking into \"increased error rates and latencies for multiple AWS services\" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients. At about 12:08PM ET, the company posted a small statement that reiterated the above and added that the \"underlying DNS issue was fully mitigated at 2:24 AM PDT.\" According to the notice, some Amazon \"customers still continue to experience increased error rates with AWS services in the N. Virginia (us-east-1) Region due to issues with launching new EC2 instances.\" Amazon also said Amazon.com and Amazon subsidiaries, as well as AWS customer service support operations have been impacted. “Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told CNN. “It’s as if large portions of the internet suffered temporary amnesia.” As of 6:35AM, AWS said it had fully mitigated the DNS issue and that \"most AWS Service operations are succeeding normally now.\" However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications. At 8:48AM, AWS said it was \"making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region.\" It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) \"so that EC2 has flexibility\" in picking a zone that may be a better option. At 9:42AM, Amazon noted on the status page that although it had applied \"multiple mitigations\" across several Availability Zones in US-EAST-1, it was \"still experiencing elevated errors for new EC2 instance launches.\" As such, AWS was \"rate limiting new instance launches to aid recovery.\" The company added at 10:14AM that it was seeing \"significant API errors and connectivity issues across multiple services in the US-EAST-1 Region.\" Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover. Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, Fortnite, Roblox and The New York Times — sorry to anyone whose Wordle streaks may be at risk. Sites like Reddit have posted their own status updates, and though they don't explicitly mention AWS, it's possible that the services' paths may cross somewhere in the pipelines. AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global audience and need to stay online around the clock. As of mid-2025, it was estimated that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem. Update October 20, 2025, 9:21PM ET: This story has been updated with Amazon's latest update that says the issue has been resolved. Update, Oct 20 2025, 10:57AM ET: This story has been updated to include a short list of services affected in the intro. Update, Oct 20 2025, 11:17AM ET: This story has been updated to include a reference to Reddit's own status update website. Update, Oct 20 2025, 1:15PM ET: This story has been updated to include a paragraph reflecting the status of popular services like Lyft, Venmo and Alexa, based on our editors' personal experiences as of this time. Update, Oct 20 2025, 3:15PM ET: This story has been updated to include a short statement from Amazon describing a timeline of events, when the underlying issue was mitigated and what parts of Amazon have been impacted. Update, Oct 20 2025, 4:30PM ET: This story has been updated to reflect the status of services like Venmo and Lyft as of Monday afternoon.This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
+          "content": "It felt like half of the internet was dealing with a hangover from the morning of October 19 to the early hours of October 20. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running. That included a long list of popular software like Venmo, Snapchat, Canva and Fortnite. Even Amazon's own assistant Alexa stuttered, and if you were wondering why the internet seemed to be against you — you weren't imagining it. The good news is that, Amazon announced by 6:53PM Eastern time on October 20 that it resolved the \"increased error rates and latencies for AWS Services.\" The company said it \"identified the trigger of the event as DNS resolution issues for the regional DynamoDB service endpoints.\" It ran into more problems as it tried to solve the outage, but it was eventually able to fix everything. \"By 3:01 PM, all AWS services returned to normal operations,\" it said. At about 4:30PM ET on October 20, things seemed to be returning back to normal. Apps like Venmo and Lyft, which were either slow to respond or completely nonresponsive before, were appearing to behave smoothly. As of 1:15PM ET on October 20, multiple services were unavailable, including asking Alexa for the weather or to turn off lights in your home. The Lyft app was also slower to respond than usual, and Venmo transactions were not completing. According to the AWS service health page at the time, Amazon was looking into \"increased error rates and latencies for multiple AWS services\" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients. At about 12:08PM ET, the company posted a small statement that reiterated the above and added that the \"underlying DNS issue was fully mitigated at 2:24 AM PDT.\" According to the notice, some Amazon \"customers still continue to experience increased error rates with AWS services in the N. Virginia (us-east-1) Region due to issues with launching new EC2 instances.\" Amazon also said Amazon.com and Amazon subsidiaries, as well as AWS customer service support operations have been impacted. “Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told CNN. “It’s as if large portions of the internet suffered temporary amnesia.” As of 6:35AM, AWS said it had fully mitigated the DNS issue and that \"most AWS Service operations are succeeding normally now.\" However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications. At 8:48AM, AWS said it was \"making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region.\" It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) \"so that EC2 has flexibility\" in picking a zone that may be a better option. At 9:42AM, Amazon noted on the status page that although it had applied \"multiple mitigations\" across several Availability Zones in US-EAST-1, it was \"still experiencing elevated errors for new EC2 instance launches.\" As such, AWS was \"rate limiting new instance launches to aid recovery.\" The company added at 10:14AM that it was seeing \"significant API errors and connectivity issues across multiple services in the US-EAST-1 Region.\" Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover. Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, Fortnite, Roblox and The New York Times — sorry to anyone whose Wordle streaks may be at risk. Sites like Reddit have posted their own status updates, and though they don't explicitly mention AWS, it's possible that the services' paths may cross somewhere in the pipelines. AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global audience and need to stay online around the clock. As of mid-2025, it was estimated that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem. Update October 20, 2025, 9:21PM ET: This story has been updated with Amazon's latest update that says the issue has been resolved. Update, Oct 20 2025, 10:57AM ET: This story has been updated to include a short list of services affected in the intro. Update, Oct 20 2025, 11:17AM ET: This story has been updated to include a reference to Reddit's own status update website. Update, Oct 20 2025, 1:15PM ET: This story has been updated to include a paragraph reflecting the status of popular services like Lyft, Venmo and Alexa, based on our editors' personal experiences as of this time. Update, Oct 20 2025, 3:15PM ET: This story has been updated to include a short statement from Amazon describing a timeline of events, when the underlying issue was mitigated and what parts of Amazon have been impacted. Update, Oct 20 2025, 4:30PM ET: This story has been updated to reflect the status of services like Venmo and Lyft as of Monday afternoon.This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
+          "feed_position": 0
+        },
         {
           "source": "Engadget",
           "url": "https://www.engadget.com/social-media/xs-handle-marketplace-will-sell-some-rare-usernames-for-millions-of-dollars-224852740.html",
@@ -15,15 +24,6 @@
           "title": "X's handle marketplace will sell some 'rare' usernames for millions of dollars",
           "standfirst": "X is finally following through on its long-rumored plans to sell old user handles, and some of the most sought-after usernames could fetch millions of dollars. The company shared more details about and opened a waitlist for its \"handle marketplace,\" that will enable paying subscribers to request and buy \"inactive\" handles. According to the company, X will make two types of \"inactive' handles available: \"priority\" usernames that may include \"full names, multi-word phrases, or alphanumeric combinations\" and \"rare\" handles that consist of \"short, generic, or culturally significant names.\" Subscribers to X's Premium+ and Premium Business tiers will eventually be able to request some \"priority\" handles as part of their subscription. The company says @PizzaEater and @GabrielJones are possible examples of such handles. Notably, this process requires what essentially amounts to an indefinite subscription to X Premium, as the company says it will revoke priority handles if an account's subscription lapses. The X Handle Marketplace is our industry-first solution to redistribute handles that are no longer in use. Eligible Premium subscribers will be able to search and make requests, with both complimentary and paid options available.— Handle Marketplace (@XHandles) October 19, 2025 The process for acquiring a \"rare\" handle is a lot less clear. X says that it will offer some rare handles through \"public drops\" and that those will be given away for free \"based on merit\" and that multiple users will be able to apply. X will take a user's engagement and \"past contributions\" to the platform into account when deciding who gets these handles. The company will also make some handles available for sale via an invitation-only process. These prices will be \"fixed\" and \"determined by a number of factors including popularity of word, character length, and cultural significance.\" These usernames could include common one-word usernames like @one, @fly or @compute, according to examples provided by X. They could also be incredibly expensive. \"Some handles are included with a Premium+ or Premium Business subscription,\" X wrote in an FAQ. \"Others – especially Rare handles – may be priced anywhere from $2,500 to over seven figures, depending on demand and uniqueness.\" People who buy a supposedly rare handle will need to have a Premium+ or Premium Business subscription in order to start the process, but won't be required to maintain one in order to keep the handle. In a separate \"handle transfer agreement,\" X describes its handle-buying scheme as an \"evolving initiative\" that it hopes will be adopted by other social media companies in the future. \"We are establishing a new standard for social media handles—a framework we hope the broader industry will adopt, similar to how Community Notes has influenced online transparency,\" the company wrote. Andrew Allemann, the publisher of Domain Name Wire, a publication that tracks the domain name industry, says that there are some similarities between X's plan to sell handles and the marketplace for expired domains. \"For a long time, people have been buying and selling handles off of X, and X hasn't been getting a cut of that,\" he told Engadget. \"So in some ways, I think this will get some of the better handles to be more used on the platform.\" But he said he would have concerns about some of the terms in X's policies, which allow it to \"reclaim'' handles if they become inactive. The company's current \"inactive account policy\" defines an inactive account as one that hasn't been logged into for 30 days. \"I would definitely want a firmer contract if I were to pay money for a handle,\" Allemann says. \"I would want some rights baked into a contract that says it can't just be taken away. I certainly want a longer period of inactivity before it can be taken away.\" X also has a history of commandeering desirable handles from users that were actively using them. The company took the @X handle from a San Francisco photographer in 2023 without compensating him, though he was offered \"merch\" and a tour of X's headquarters. That same year, it also took the @music handle from a longtime user with more than a half million followers. Last year, the company swiped the @America handle from a reported Donald Trump critic. The handle is now used by Musk's super PAC. X's plan to give away handles based on \"merit\" raises additional questions about who the platform could decide to reward and penalize. The company didn't immediately respond to a request for comment. Allemann says that all social media users should remember they don't own any of the content they publish on company platforms. \"If you create your website, you control it, and people can always come to it. On social media, the single billionaire owner of it could decide they don't like you, and it's pretty much within their rights to kick you off, or demote you, or change the algorithm to impact you as well.\" Have a tip for Karissa? You can reach her by email, on X, Bluesky, Threads, or send a message to @karissabe.51 to chat confidentially on Signal.This article originally appeared on Engadget at https://www.engadget.com/social-media/xs-handle-marketplace-will-sell-some-rare-usernames-for-millions-of-dollars-224852740.html?src=rss",
           "content": "X is finally following through on its long-rumored plans to sell old user handles, and some of the most sought-after usernames could fetch millions of dollars. The company shared more details about and opened a waitlist for its \"handle marketplace,\" that will enable paying subscribers to request and buy \"inactive\" handles. According to the company, X will make two types of \"inactive' handles available: \"priority\" usernames that may include \"full names, multi-word phrases, or alphanumeric combinations\" and \"rare\" handles that consist of \"short, generic, or culturally significant names.\" Subscribers to X's Premium+ and Premium Business tiers will eventually be able to request some \"priority\" handles as part of their subscription. The company says @PizzaEater and @GabrielJones are possible examples of such handles. Notably, this process requires what essentially amounts to an indefinite subscription to X Premium, as the company says it will revoke priority handles if an account's subscription lapses. The X Handle Marketplace is our industry-first solution to redistribute handles that are no longer in use. Eligible Premium subscribers will be able to search and make requests, with both complimentary and paid options available.— Handle Marketplace (@XHandles) October 19, 2025 The process for acquiring a \"rare\" handle is a lot less clear. X says that it will offer some rare handles through \"public drops\" and that those will be given away for free \"based on merit\" and that multiple users will be able to apply. X will take a user's engagement and \"past contributions\" to the platform into account when deciding who gets these handles. The company will also make some handles available for sale via an invitation-only process. These prices will be \"fixed\" and \"determined by a number of factors including popularity of word, character length, and cultural significance.\" These usernames could include common one-word usernames like @one, @fly or @compute, according to examples provided by X. They could also be incredibly expensive. \"Some handles are included with a Premium+ or Premium Business subscription,\" X wrote in an FAQ. \"Others – especially Rare handles – may be priced anywhere from $2,500 to over seven figures, depending on demand and uniqueness.\" People who buy a supposedly rare handle will need to have a Premium+ or Premium Business subscription in order to start the process, but won't be required to maintain one in order to keep the handle. In a separate \"handle transfer agreement,\" X describes its handle-buying scheme as an \"evolving initiative\" that it hopes will be adopted by other social media companies in the future. \"We are establishing a new standard for social media handles—a framework we hope the broader industry will adopt, similar to how Community Notes has influenced online transparency,\" the company wrote. Andrew Allemann, the publisher of Domain Name Wire, a publication that tracks the domain name industry, says that there are some similarities between X's plan to sell handles and the marketplace for expired domains. \"For a long time, people have been buying and selling handles off of X, and X hasn't been getting a cut of that,\" he told Engadget. \"So in some ways, I think this will get some of the better handles to be more used on the platform.\" But he said he would have concerns about some of the terms in X's policies, which allow it to \"reclaim'' handles if they become inactive. The company's current \"inactive account policy\" defines an inactive account as one that hasn't been logged into for 30 days. \"I would definitely want a firmer contract if I were to pay money for a handle,\" Allemann says. \"I would want some rights baked into a contract that says it can't just be taken away. I certainly want a longer period of inactivity before it can be taken away.\" X also has a history of commandeering desirable handles from users that were actively using them. The company took the @X handle from a San Francisco photographer in 2023 without compensating him, though he was offered \"merch\" and a tour of X's headquarters. That same year, it also took the @music handle from a longtime user with more than a half million followers. Last year, the company swiped the @America handle from a reported Donald Trump critic. The handle is now used by Musk's super PAC. X's plan to give away handles based on \"merit\" raises additional questions about who the platform could decide to reward and penalize. The company didn't immediately respond to a request for comment. Allemann says that all social media users should remember they don't own any of the content they publish on company platforms. \"If you create your website, you control it, and people can always come to it. On social media, the single billionaire owner of it could decide they don't like you, and it's pretty much within their rights to kick you off, or demote you, or change the algorithm to impact you as well.\" Have a tip for Karissa? You can reach her by email, on X, Bluesky, Threads, or send a message to @karissabe.51 to chat confidentially on Signal.This article originally appeared on Engadget at https://www.engadget.com/social-media/xs-handle-marketplace-will-sell-some-rare-usernames-for-millions-of-dollars-224852740.html?src=rss",
-          "feed_position": 1
-        },
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html",
-          "published_at": "Mon, 20 Oct 2025 20:38:05 +0000",
-          "title": "Amazon's AWS outage has knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline",
-          "standfirst": "On this crisp October morning, it feels like half of the internet is dealing with a hangover. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running. That includes a long list of popular software like Venmo, Snapchat, Canva and Fortnite. Even Amazon's own assistant Alexa has been stuttering, and if you're wondering why the internet seems to be against you today — you're not imagining it. There is some good news now though. At about 4:30PM ET today (October 20), things seem to be returning back to normal. Apps like Venmo and Lyft, which were either slow to respond or completely nonresponsive before, are appearing to behave smoothly. As of 1:15PM ET though, multiple services were unavailable, including asking Alexa for the weather or to turn off lights in your home. The Lyft app was also slower to respond than usual, and Venmo transactions were not completing. According to the AWS service health page, Amazon was looking into \"increased error rates and latencies for multiple AWS services\" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients. At about 12:08PM ET, the company posted a small statement that reiterated the above and added that the \"underlying DNS issue was fully mitigated at 2:24 AM PDT.\" According to the notice, some Amazon \"customers still continue to experience increased error rates with AWS services in the N. Virginia (us-east-1) Region due to issues with launching new EC2 instances.\" Amazon also said Amazon.com and Amazon subsidiaries, as well as AWS customer service support operations have been impacted. “Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told CNN. “It’s as if large portions of the internet suffered temporary amnesia.” As of 6:35AM, AWS said it had fully mitigated the DNS issue and that \"most AWS Service operations are succeeding normally now.\" However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications. At 8:48AM, AWS said it was \"making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region.\" It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) \"so that EC2 has flexibility\" in picking a zone that may be a better option. At 9:42AM, Amazon noted on the status page that although it had applied \"multiple mitigations\" across several Availability Zones in US-EAST-1, it was \"still experiencing elevated errors for new EC2 instance launches.\" As such, AWS was \"rate limiting new instance launches to aid recovery.\" The company added at 10:14AM that it was seeing \"significant API errors and connectivity issues across multiple services in the US-EAST-1 Region.\" Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover. Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, Fortnite, Roblox and The New York Times — sorry to anyone whose Wordle streaks may be at risk. Sites like Reddit have posted their own status updates, and though they don't explicitly mention AWS, it's possible that the services' paths may cross somewhere in the pipelines. AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global audience and need to stay online around the clock. As of mid-2025, it was estimated that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem. Update, Oct 20 2025, 10:57AM ET: This story has been updated to include a short list of services affected in the intro. Update, Oct 20 2025, 11:17AM ET: This story has been updated to include a reference to Reddit's own status update website. Update, Oct 20 2025, 1:15PM ET: This story has been updated to include a paragraph reflecting the status of popular services like Lyft, Venmo and Alexa, based on our editors' personal experiences as of this time. Update, Oct 20 2025, 3:15PM ET: This story has been updated to include a short statement from Amazon describing a timeline of events, when the underlying issue was mitigated and what parts of Amazon have been impacted. Update, Oct 20 2025, 4:30PM ET: This story has been updated to reflect the status of services like Venmo and Lyft as of Monday afternoon.This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
-          "content": "On this crisp October morning, it feels like half of the internet is dealing with a hangover. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running. That includes a long list of popular software like Venmo, Snapchat, Canva and Fortnite. Even Amazon's own assistant Alexa has been stuttering, and if you're wondering why the internet seems to be against you today — you're not imagining it. There is some good news now though. At about 4:30PM ET today (October 20), things seem to be returning back to normal. Apps like Venmo and Lyft, which were either slow to respond or completely nonresponsive before, are appearing to behave smoothly. As of 1:15PM ET though, multiple services were unavailable, including asking Alexa for the weather or to turn off lights in your home. The Lyft app was also slower to respond than usual, and Venmo transactions were not completing. According to the AWS service health page, Amazon was looking into \"increased error rates and latencies for multiple AWS services\" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients. At about 12:08PM ET, the company posted a small statement that reiterated the above and added that the \"underlying DNS issue was fully mitigated at 2:24 AM PDT.\" According to the notice, some Amazon \"customers still continue to experience increased error rates with AWS services in the N. Virginia (us-east-1) Region due to issues with launching new EC2 instances.\" Amazon also said Amazon.com and Amazon subsidiaries, as well as AWS customer service support operations have been impacted. “Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told CNN. “It’s as if large portions of the internet suffered temporary amnesia.” As of 6:35AM, AWS said it had fully mitigated the DNS issue and that \"most AWS Service operations are succeeding normally now.\" However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications. At 8:48AM, AWS said it was \"making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region.\" It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) \"so that EC2 has flexibility\" in picking a zone that may be a better option. At 9:42AM, Amazon noted on the status page that although it had applied \"multiple mitigations\" across several Availability Zones in US-EAST-1, it was \"still experiencing elevated errors for new EC2 instance launches.\" As such, AWS was \"rate limiting new instance launches to aid recovery.\" The company added at 10:14AM that it was seeing \"significant API errors and connectivity issues across multiple services in the US-EAST-1 Region.\" Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover. Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, Fortnite, Roblox and The New York Times — sorry to anyone whose Wordle streaks may be at risk. Sites like Reddit have posted their own status updates, and though they don't explicitly mention AWS, it's possible that the services' paths may cross somewhere in the pipelines. AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global audience and need to stay online around the clock. As of mid-2025, it was estimated that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem. Update, Oct 20 2025, 10:57AM ET: This story has been updated to include a short list of services affected in the intro. Update, Oct 20 2025, 11:17AM ET: This story has been updated to include a reference to Reddit's own status update website. Update, Oct 20 2025, 1:15PM ET: This story has been updated to include a paragraph reflecting the status of popular services like Lyft, Venmo and Alexa, based on our editors' personal experiences as of this time. Update, Oct 20 2025, 3:15PM ET: This story has been updated to include a short statement from Amazon describing a timeline of events, when the underlying issue was mitigated and what parts of Amazon have been impacted. Update, Oct 20 2025, 4:30PM ET: This story has been updated to reflect the status of services like Venmo and Lyft as of Monday afternoon.This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
           "feed_position": 2
         },
         {
@@ -127,21 +127,58 @@
         }
       ],
       "featured_image": "https://s.yimg.com/os/creatr-uploaded-images/2025-10/c836b6e0-a60d-11f0-aff0-71a091f199fd",
-      "popularity_score": 2019.5255172222223,
+      "popularity_score": 2017.7159375,
       "ai_summary": [
-        "X plans to sell inactive usernames through a \"handle marketplace\" for paying subscribers.",
-        "\"Priority\" usernames will be available to Premium+ and Premium Business subscribers.",
-        "\"Rare\" handles will be offered through public drops and invitation-only sales.",
-        "Prices for rare handles will be fixed based on factors like popularity and length.",
-        "X will revoke priority handles if a subscriber's subscription lapses."
+        "A severe Amazon Web Services outage occurred on October 19-20.",
+        "Many websites, apps, and games relied on Amazon's cloud division.",
+        "Services like Venmo, Snapchat, and Fortnite were affected.",
+        "Amazon identified DNS resolution issues as the trigger.",
+        "AWS services returned to normal operations by October 20."
       ]
     },
     {
-      "id": "cluster_24",
+      "id": "cluster_6",
+      "coverage": 2,
+      "updated_at": "2025-10-20T20:14:57-04:00",
+      "title": "Bryan Cranston and SAG-AFTRA say OpenAI is taking their deepfake concerns seriously",
+      "neutral_headline": "OpenAI to work with SAG-AFTRA on deepfake concerns",
+      "items": [
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/803141/openai-sora-bryan-cranston-deepfakes",
+          "published_at": "2025-10-20T20:14:57-04:00",
+          "title": "Bryan Cranston and SAG-AFTRA say OpenAI is taking their deepfake concerns seriously",
+          "standfirst": "Actors, studios, agents, and the actors union SAG-AFTRA have all expressed their concerns about appearing in Sora 2&#8217;s AI-generated videos ever since the deepfake machine was released last month. Now a joint statement from actor Bryan Cranston, OpenAI, the union, and others says that after videos of him appeared on Sora — one even showed [&#8230;]",
+          "content": "Actors, studios, agents, and the actors union SAG-AFTRA have all expressed their concerns about appearing in Sora 2&#8217;s AI-generated videos ever since the deepfake machine was released last month. Now a joint statement from actor Bryan Cranston, OpenAI, the union, and others says that after videos of him appeared on Sora — one even showed him taking a selfie with Michael Jackson — the company has “strengthened guardrails” around its opt-in policy for likeness and voice. The joint statement said that OpenAI “expressed regret for these unintentional generations.” It also carried cosigns from talent agencies United Talent Agency, the Association of Talent Agents, and the Creative Artists Agency, which had criticized the company’s lack of protections for artists in the past. OpenAI did not give specifics on how it would change the app, or reply to The Verge’s request for comment in time for publication. OpenAI appeared to reaffirm its commitment to stronger protections for those who do not opt in: “All artists, performers, and individuals will have the right to determine how and whether they can be simulated.” It also said it would “expeditiously” review complaints about breaches of the policy. Cranston said he is “grateful to OpenAI for its policy and for improving its guardrails.” While Cranston’s case came to a positive resolution, SAG-AFTRA president Sean Astin said in the joint statement that performers need a law to protect them from “massive misappropriation by replication technology,” and pointed to the proposed Nurture Originals, Foster Art, and Keep Entertainment Safe Act, or NO FAKES Act. OpenAI launched Sora 2 with an opt-out policy for copyright holders, before reversing course following public outcry and videos of Nazi SpongeBob, promising to “give rightsholders more granular control over generation of characters, similar to the opt-in model for likeness but with additional controls.”",
+          "feed_position": 1
+        },
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/251020/p29#a251020p29",
+          "published_at": "Mon, 20 Oct 2025 15:35:04 -0400",
+          "title": "OpenAI says it will work with SAG-AFTRA, CAA, UTA, and others to crack down on Sora 2 deepfakes, following concerns from actor Bryan Cranston and SAG-AFTRA (Jaures Yip/CNBC)",
+          "standfirst": "Jaures Yip / CNBC: OpenAI says it will work with SAG-AFTRA, CAA, UTA, and others to crack down on Sora 2 deepfakes, following concerns from actor Bryan Cranston and SAG-AFTRA &mdash; OpenAI announced on Monday in a joint statement that it will be working with Bryan Cranston, SAG-AFTRA, and other actor unions &hellip;",
+          "content": "Jaures Yip / CNBC: OpenAI says it will work with SAG-AFTRA, CAA, UTA, and others to crack down on Sora 2 deepfakes, following concerns from actor Bryan Cranston and SAG-AFTRA &mdash; OpenAI announced on Monday in a joint statement that it will be working with Bryan Cranston, SAG-AFTRA, and other actor unions &hellip;",
+          "feed_position": 7,
+          "image_url": "http://www.techmeme.com/251020/i29.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/251020/i29.jpg",
+      "popularity_score": 2016.6148263888888,
+      "ai_summary": [
+        "OpenAI will collaborate with SAG-AFTRA and other groups to address deepfake concerns.",
+        "The collaboration follows concerns raised by actor Bryan Cranston regarding AI-generated videos.",
+        "The joint statement was released by OpenAI, SAG-AFTRA, and other involved parties.",
+        "The focus is on mitigating the potential misuse of AI in creating deepfakes.",
+        "The goal is to protect actors and their likenesses from unauthorized use."
+      ]
+    },
+    {
+      "id": "cluster_31",
       "coverage": 2,
       "updated_at": "Mon, 20 Oct 2025 19:00:00 +0000",
       "title": "Mystery Object From ‘Space’ Strikes United Airlines Flight Over Utah",
-      "neutral_headline": "Object from Space Strikes United Airlines Flight Over Utah",
+      "neutral_headline": "United Airlines flight struck by object over Utah",
       "items": [
         {
           "source": "Wired Tech",
@@ -165,21 +202,21 @@
         }
       ],
       "featured_image": "https://media.wired.com/photos/68f65dea692735b39dbd9c74/master/pass/Mystery-Object-From-%E2%80%98Space%E2%80%99-Science-2208683302.jpg",
-      "popularity_score": 2015.7110727777779,
+      "popularity_score": 2011.3656597222223,
       "ai_summary": [
-        "A United Airlines flight over Utah was struck by an object, possibly from space.",
-        "The incident caused damage to the aircraft's windshield.",
-        "Government investigators are gathering data to determine the object's origin.",
-        "The NTSB is collecting radar, weather, and flight recorder data.",
-        "The aircraft involved was a Boeing 737 Max."
+        "A United Airlines 737 Max aircraft was struck by an object over Utah.",
+        "The incident occurred at an altitude exceeding 30,000 feet.",
+        "Government investigators are gathering data to determine the object's identity.",
+        "The National Transportation Safety Board is collecting radar and flight data.",
+        "The investigation includes analyzing weather data and flight recorder information."
       ]
     },
     {
-      "id": "cluster_38",
+      "id": "cluster_45",
       "coverage": 2,
       "updated_at": "Mon, 20 Oct 2025 18:15:00 GMT",
       "title": "Claude Code comes to web and mobile, letting devs launch parallel jobs on Anthropic’s managed infra",
-      "neutral_headline": "Claude Code Launches on Web and Mobile Platforms",
+      "neutral_headline": "Claude Code launches on web and mobile platforms",
       "items": [
         {
           "source": "VentureBeat",
@@ -202,21 +239,21 @@
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/479x9yR2m3sOxcfXEPnxI/dd6f7e7281ced692395996331a3b5646/crimedy7_illustration_of_a_robot_coding_a_program_--ar_169_--_7dafd9d4-817a-4c5c-abbe-fb9112e639c7_0.png",
-      "popularity_score": 2014.9610727777779,
+      "popularity_score": 2010.6156597222223,
       "ai_summary": [
         "Anthropic's Claude Code is now available on the web and iOS app in preview.",
-        "Developers can launch parallel coding jobs on Anthropic's managed infrastructure.",
+        "Developers can access asynchronous coding capabilities through these platforms.",
         "The web version allows users to connect GitHub repositories and describe needs.",
-        "Claude Code runs each session in an isolated environment with real-time tracking.",
-        "Anthropic is working to match the availability of OpenAI's Codex AI platform."
+        "Each coding session runs in an isolated environment with real-time progress tracking.",
+        "Anthropic aims to match OpenAI's Codex AI coding platform's availability."
       ]
     },
     {
-      "id": "cluster_56",
+      "id": "cluster_63",
       "coverage": 2,
       "updated_at": "Mon, 20 Oct 2025 16:49:58 +0000",
       "title": "FTC removes Lina Khan-era posts about AI risks and open source",
-      "neutral_headline": "FTC Removes Posts About AI Risks and Open Source",
+      "neutral_headline": "FTC removes posts about AI risks and open source",
       "items": [
         {
           "source": "TechCrunch",
@@ -234,138 +271,54 @@
           "title": "The FTC Is Disappearing Blog Posts About AI Published During Lina Khan’s Tenure",
           "standfirst": "The Federal Trade Commission removed several blog posts in recent months about open source and potential risks to consumers from the rapid spread of commercial AI tools.",
           "content": "The Federal Trade Commission removed several blog posts in recent months about open source and potential risks to consumers from the rapid spread of commercial AI tools.",
-          "feed_position": 12,
+          "feed_position": 13,
           "image_url": "https://media.wired.com/photos/68f1899c43997c1874543fc3/master/pass/GettyImages-2153112061.jpg"
         }
       ],
       "featured_image": "https://media.wired.com/photos/68f1899c43997c1874543fc3/master/pass/GettyImages-2153112061.jpg",
-      "popularity_score": 2013.5438505555555,
+      "popularity_score": 2009.1984375,
       "ai_summary": [
-        "The Federal Trade Commission removed blog posts about AI risks.",
+        "The Federal Trade Commission removed posts about AI risks and open source.",
         "The posts were published during Lina Khan's tenure at the FTC.",
         "One post discussed AI's potential for consumer harm.",
-        "The FTC noted concerns about commercial surveillance and discrimination.",
-        "The removed posts also addressed open source software."
+        "The FTC is taking note of AI's potential for real-world instances of harm.",
+        "The posts addressed concerns about commercial AI tools' rapid spread."
       ]
     },
     {
-      "id": "cluster_87",
-      "coverage": 2,
-      "updated_at": "Mon, 20 Oct 2025 09:40:02 -0400",
-      "title": "Q&A with NYC mayoral front-runner Zohran Mamdani on social media, tech leaders, Apple's and Google's \"wrong decision\" to remove ICE-tracking apps, and more (Katie Drummond/Wired)",
-      "neutral_headline": "NYC Mayoral Front-Runner Zohran Mamdani Discusses Tech",
+      "id": "cluster_0",
+      "coverage": 1,
+      "updated_at": "Tue, 21 Oct 2025 02:54:29 +0000",
+      "title": "It wasn’t space debris that struck a United Airlines plane—it was a weather balloon",
+      "neutral_headline": "It wasn’t space debris that struck a United Airlines plane—it was a weather balloon",
       "items": [
         {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/251020/p20#a251020p20",
-          "published_at": "Mon, 20 Oct 2025 09:40:02 -0400",
-          "title": "Q&A with NYC mayoral front-runner Zohran Mamdani on social media, tech leaders, Apple's and Google's \"wrong decision\" to remove ICE-tracking apps, and more (Katie Drummond/Wired)",
-          "standfirst": "Katie Drummond / Wired: Q&A with NYC mayoral front-runner Zohran Mamdani on social media, tech leaders, Apple's and Google's &ldquo;wrong decision&rdquo; to remove ICE-tracking apps, and more &mdash; Mere months ago, New York's mayoral front-runner was polling right next to &ldquo;Someone Else.&rdquo;",
-          "content": "Katie Drummond / Wired: Q&A with NYC mayoral front-runner Zohran Mamdani on social media, tech leaders, Apple's and Google's &ldquo;wrong decision&rdquo; to remove ICE-tracking apps, and more &mdash; Mere months ago, New York's mayoral front-runner was polling right next to &ldquo;Someone Else.&rdquo;",
-          "feed_position": 12,
-          "image_url": "http://www.techmeme.com/251020/i20.jpg"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/the-big-interview-podcast-zohran-mamdani/",
-          "published_at": "Mon, 20 Oct 2025 10:30:00 +0000",
-          "title": "Zohran Mamdani, the Internet’s Mayor",
-          "standfirst": "Mere months ago, New York’s mayoral front-runner was polling right next to “Someone Else.” He spoke to WIRED about building a social media machine, Big Tech capitulation, and learning from Eric Adams.",
-          "content": "Mere months ago, New York’s mayoral front-runner was polling right next to “Someone Else.” He spoke to WIRED about building a social media machine, Big Tech capitulation, and learning from Eric Adams.",
-          "feed_position": 11,
-          "image_url": "https://media.wired.com/photos/68f17b23f35e2b5038d3c935/master/pass/edeani_25-zohran-2106.jpg"
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/space/2025/10/the-mystery-object-that-struck-a-plane-in-flight-it-was-probably-a-weather-balloon/",
+          "published_at": "Tue, 21 Oct 2025 02:54:29 +0000",
+          "title": "It wasn’t space debris that struck a United Airlines plane—it was a weather balloon",
+          "standfirst": "WindBorne says its balloons are compliant with all applicable airspace regulations.",
+          "content": "The mysterious impact of a United Airlines aircraft in flight last week has sparked plenty of theories online, from space debris to high-flying birds. However the question of what happened to flight 1093, and its severely damaged front window, appears to be answered by a weather balloon. “I think this was a WindBorne balloon,” Kai Marshland, co-founder of the weather prediction company WindBorne Systems, told Ars in an email on Monday evening. “We learned about UA1093 and the potential that it was related to one of our balloons at 11pm PT on Sunday and immediately looked into it. At 6am PT, we sent our preliminary investigation to both NTSB and FAA, and are working with both of them to investigate further.”Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/68a6ba53499bdd827f510e35_54fca9353dfe2c2a33bb46167c61cd64_payload-block3-957x648.png"
         }
       ],
-      "featured_image": "http://www.techmeme.com/251020/i20.jpg",
-      "popularity_score": 2010.378295,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/68a6ba53499bdd827f510e35_54fca9353dfe2c2a33bb46167c61cd64_payload-block3-957x648.png",
+      "popularity_score": 370.2737152777778,
       "ai_summary": [
-        "Zohran Mamdani is the front-runner for New York City mayor.",
-        "He discussed social media, tech leaders, and Apple/Google's decisions.",
-        "Mamdani criticized Apple and Google for removing ICE-tracking apps.",
-        "He spoke about building a social media presence.",
-        "Mamdani is learning from current Mayor Eric Adams."
+        "A weather balloon, not space debris, struck the United Airlines plane.",
+        "The balloon was from WindBorne, a weather data company.",
+        "WindBorne states its balloons comply with all airspace regulations.",
+        "The incident occurred over Utah, causing damage to the aircraft.",
+        "The NTSB investigated the incident to determine the cause."
       ]
     },
     {
-      "id": "cluster_88",
-      "coverage": 2,
-      "updated_at": "Mon, 20 Oct 2025 09:25:01 -0400",
-      "title": "Oura launches a redesigned app with a new feature showing a weekly overview of stress management and says it's working with the US FDA on a blood pressure study (Jess Weatherbed/The Verge)",
-      "neutral_headline": "Oura Launches Redesigned App with Stress Management Feature",
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/251020/p19#a251020p19",
-          "published_at": "Mon, 20 Oct 2025 09:25:01 -0400",
-          "title": "Oura launches a redesigned app with a new feature showing a weekly overview of stress management and says it's working with the US FDA on a blood pressure study (Jess Weatherbed/The Verge)",
-          "standfirst": "Jess Weatherbed / The Verge: Oura launches a redesigned app with a new feature showing a weekly overview of stress management and says it's working with the US FDA on a blood pressure study &mdash; The company is launching a study that uses ring data to detect &lsquo;early signs of hypertension.&rsquo;&#65279;",
-          "content": "Jess Weatherbed / The Verge: Oura launches a redesigned app with a new feature showing a weekly overview of stress management and says it's working with the US FDA on a blood pressure study &mdash; The company is launching a study that uses ring data to detect &lsquo;early signs of hypertension.&rsquo;&#65279;",
-          "feed_position": 13,
-          "image_url": "http://www.techmeme.com/251020/i19.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2025/10/20/oura-launches-redesigned-app-and-cumulative-stress-feature/",
-          "published_at": "Mon, 20 Oct 2025 13:00:00 +0000",
-          "title": "Oura launches redesigned app and &#8216;Cumulative Stress&#8217; feature",
-          "standfirst": "The company also shared that it's pursuing FDA clearance for blood pressure features that give users a likelihood assessment of hypertension.",
-          "content": "The company also shared that it's pursuing FDA clearance for blood pressure features that give users a likelihood assessment of hypertension.",
-          "feed_position": 16
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/251020/i19.jpg",
-      "popularity_score": 2010.1280172222223,
-      "ai_summary": [
-        "Oura launched a redesigned app with a new stress management feature.",
-        "The app provides a weekly overview of stress management.",
-        "Oura is working with the US FDA on a blood pressure study.",
-        "The study uses ring data to detect early signs of hypertension.",
-        "Oura is pursuing FDA clearance for blood pressure features."
-      ]
-    },
-    {
-      "id": "cluster_89",
-      "coverage": 2,
-      "updated_at": "Mon, 20 Oct 2025 09:15:01 -0400",
-      "title": "Adobe launches AI Foundry, a program that helps enterprise customers create bespoke, commercially safe, Firefly-based generative AI models trained on their IP (Webb Wright/ZDNET)",
-      "neutral_headline": "Adobe Launches AI Foundry for Enterprise Customers",
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/251020/p18#a251020p18",
-          "published_at": "Mon, 20 Oct 2025 09:15:01 -0400",
-          "title": "Adobe launches AI Foundry, a program that helps enterprise customers create bespoke, commercially safe, Firefly-based generative AI models trained on their IP (Webb Wright/ZDNET)",
-          "standfirst": "Webb Wright / ZDNET: Adobe launches AI Foundry, a program that helps enterprise customers create bespoke, commercially safe, Firefly-based generative AI models trained on their IP &mdash; ZDNET's key takeaways &mdash; Adobe assures its new AI model service is copyright-safe. &mdash; Foundry models leverage Firefly and are trained on brands' IP.",
-          "content": "Webb Wright / ZDNET: Adobe launches AI Foundry, a program that helps enterprise customers create bespoke, commercially safe, Firefly-based generative AI models trained on their IP &mdash; ZDNET's key takeaways &mdash; Adobe assures its new AI model service is copyright-safe. &mdash; Foundry models leverage Firefly and are trained on brands' IP.",
-          "feed_position": 14,
-          "image_url": "http://www.techmeme.com/251020/i18.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2025/10/20/adobe-launches-a-foundry-service-that-builds-custom-generative-ai-models-for-enterprises/",
-          "published_at": "Mon, 20 Oct 2025 13:00:00 +0000",
-          "title": "Adobe launches a foundry service that builds custom generative AI models for enterprises",
-          "standfirst": "Adobe will build custom AI models by training its Firefly model family on a brand's intellectual property.",
-          "content": "Adobe will build custom AI models by training its Firefly model family on a brand's intellectual property.",
-          "feed_position": 17
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/251020/i18.jpg",
-      "popularity_score": 2009.9613505555556,
-      "ai_summary": [
-        "Adobe launched AI Foundry to create custom AI models for enterprises.",
-        "The program builds commercially safe, Firefly-based generative AI models.",
-        "Models are trained on the intellectual property of the brand.",
-        "Adobe assures the new AI model service is copyright-safe.",
-        "The service leverages Adobe's Firefly technology."
-      ]
-    },
-    {
-      "id": "cluster_5",
+      "id": "cluster_13",
       "coverage": 1,
       "updated_at": "Mon, 20 Oct 2025 22:18:22 +0000",
       "title": "NSO permanently barred from targeting WhatsApp users with Pegasus spyware",
-      "neutral_headline": "NSO Permanently Barred from Targeting WhatsApp Users",
+      "neutral_headline": "NSO permanently barred from targeting WhatsApp users",
       "items": [
         {
           "source": "Ars Technica",
@@ -379,21 +332,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/whatsapp-1024x648.jpg",
-      "popularity_score": 352.0171838888889,
+      "popularity_score": 347.6717708333333,
       "ai_summary": [
         "NSO Group is permanently barred from targeting WhatsApp users.",
-        "The ruling concerns the use of Pegasus spyware.",
-        "Defeating end-to-end encryption harms Meta's business.",
-        "The ruling was made by a court or regulatory body.",
-        "The ban prevents NSO from using its spyware on WhatsApp."
+        "The ruling stems from the use of Pegasus spyware.",
+        "Defeating end-to-end encryption in WhatsApp harms Meta's business.",
+        "The ban is a result of legal action against NSO Group.",
+        "The decision protects user privacy on the messaging platform."
       ]
     },
     {
-      "id": "cluster_8",
+      "id": "cluster_16",
       "coverage": 1,
       "updated_at": "Mon, 20 Oct 2025 21:53:54 +0000",
       "title": "Why did NASA’s chief just shake up the agency’s plans to land on the Moon?",
-      "neutral_headline": "Why did NASA’s chief just shake up the agency’s plans to land on the Moon?",
+      "neutral_headline": "NASA's Moon landing plans altered by agency chief",
       "items": [
         {
           "source": "Ars Technica",
@@ -407,21 +360,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/NHQ202507310028medium-1152x648.jpg",
-      "popularity_score": 341.6094061111111,
+      "popularity_score": 337.26399305555555,
       "ai_summary": [
-        "NASA's chief is changing the agency's plans for lunar landings.",
-        "The changes are related to the Artemis program.",
-        "The president wants to beat China in the space race.",
-        "The changes may involve shifting resources or timelines.",
-        "The goal is to ensure a successful lunar landing."
+        "NASA's chief has altered the agency's plans for Moon landings.",
+        "The change is influenced by the president's desire to compete with China.",
+        "The agency is adjusting its strategy for lunar exploration.",
+        "The goal is to accelerate the timeline for Moon missions.",
+        "The decision reflects a renewed focus on space race competition."
       ]
     },
     {
-      "id": "cluster_15",
+      "id": "cluster_23",
       "coverage": 1,
       "updated_at": "Mon, 20 Oct 2025 20:14:29 +0000",
       "title": "Google reportedly searching for 15 Pixel “Superfans” to test unreleased phones",
-      "neutral_headline": "Google reportedly searching for 15 Pixel “Superfans” to test unreleased phones",
+      "neutral_headline": "Google seeks Pixel \"Superfans\" to test unreleased phones",
       "items": [
         {
           "source": "Ars Technica",
@@ -435,21 +388,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Pixel-10-Pro-Fold-4-1152x648.jpg",
-      "popularity_score": 336.9524616666667,
+      "popularity_score": 332.6070486111111,
       "ai_summary": [
-        "Google is looking for 15 Pixel \"Superfans\" to test unreleased phones.",
-        "Selected testers will be required to sign a non-disclosure agreement.",
-        "Testers will use a disguised case for the phones.",
-        "The testing program is likely confidential.",
-        "The goal is to gather feedback on new Pixel devices."
+        "Google is searching for 15 Pixel \"Superfans\" to test unreleased phones.",
+        "Selected testers must sign a non-disclosure agreement.",
+        "Testers will be required to use a disguised case for the phones.",
+        "The program allows Google to gather feedback on new devices.",
+        "The testing aims to improve the user experience before release."
       ]
     },
     {
-      "id": "cluster_11",
+      "id": "cluster_19",
       "coverage": 1,
       "updated_at": "Mon, 20 Oct 2025 20:45:26 +0000",
       "title": "Claude Code gets a web version—but it’s the new sandboxing that really matters",
-      "neutral_headline": "Claude Code gets a web version—but it’s the new sandboxing that really matters",
+      "neutral_headline": "Claude Code web version introduces new sandboxing",
       "items": [
         {
           "source": "Ars Technica",
@@ -463,21 +416,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Screenshot-2025-10-20-at-3.36.24-PM.png",
-      "popularity_score": 330.468295,
+      "popularity_score": 326.12288194444443,
       "ai_summary": [
-        "Claude Code now has a web version available for users.",
-        "Sandboxing is a key feature of the new web version.",
-        "Sandboxing reduces the hassle of using the tool.",
-        "Agentic tools still pose risks despite sandboxing.",
-        "The web version offers new capabilities for developers."
+        "Claude Code now has a web version with new sandboxing features.",
+        "Sandboxing aims to reduce hassle for users.",
+        "Agentic tools still pose risks despite the new features.",
+        "The web version offers a more accessible interface.",
+        "The sandboxing feature enhances security and isolation."
       ]
     },
     {
-      "id": "cluster_16",
+      "id": "cluster_24",
       "coverage": 1,
       "updated_at": "Mon, 20 Oct 2025 20:01:59 +0000",
       "title": "Breaking down rare earth element magnets for recycling",
-      "neutral_headline": "Breaking down rare earth element magnets for recycling",
+      "neutral_headline": "New method for recycling rare earth magnets",
       "items": [
         {
           "source": "Ars Technica",
@@ -491,21 +444,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1359528962-e1760988838500-1152x648.jpg",
-      "popularity_score": 317.7441283333333,
+      "popularity_score": 313.3987152777778,
       "ai_summary": [
-        "A new method extracts rare earth elements from waste magnets.",
-        "The method uses less energy and acid than previous methods.",
-        "The goal is to improve the recycling of magnets.",
-        "The method focuses on extracting desirable elements.",
-        "The research aims to make recycling more sustainable."
+        "A new method extracts elements from waste magnets.",
+        "The method uses less energy and acid.",
+        "The process focuses on recycling rare earth element magnets.",
+        "The goal is to improve sustainability in manufacturing.",
+        "The innovation reduces environmental impact."
       ]
     },
     {
-      "id": "cluster_22",
+      "id": "cluster_29",
       "coverage": 1,
       "updated_at": "Mon, 20 Oct 2025 19:15:24 +0000",
       "title": "Do animals fall for optical illusions? It’s complicated.",
-      "neutral_headline": "Do animals fall for optical illusions? It’s complicated",
+      "neutral_headline": "Animals and optical illusions: it's complicated",
       "items": [
         {
           "source": "Ars Technica",
@@ -519,21 +472,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/illusion1-1152x648.jpg",
-      "popularity_score": 298.9677394444444,
+      "popularity_score": 294.6223263888889,
       "ai_summary": [
         "Animals' susceptibility to optical illusions varies.",
         "Guppies are highly susceptible to the Ebbinghaus illusion.",
-        "Ring doves do not appear to be susceptible to the illusion.",
-        "The study explores how animals perceive visual information.",
-        "The results suggest differences in visual processing."
+        "Ring doves do not fall for the same illusion.",
+        "The study explores how animals perceive visual stimuli.",
+        "The research provides insights into animal cognition."
       ]
     },
     {
-      "id": "cluster_31",
+      "id": "cluster_38",
       "coverage": 1,
       "updated_at": "Mon, 20 Oct 2025 18:38:02 +0000",
       "title": "SpaceX launches 10,000th Starlink satellite, with no sign of slowing down",
-      "neutral_headline": "SpaceX launches 10,000th Starlink satellite, with no sign of slowing down",
+      "neutral_headline": "SpaceX launches 10,000th Starlink satellite",
       "items": [
         {
           "source": "Ars Technica",
@@ -547,21 +500,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlinkstack-1152x648.jpg",
-      "popularity_score": 296.3449616666667,
+      "popularity_score": 291.9995486111111,
       "ai_summary": [
         "SpaceX launched its 10,000th Starlink satellite.",
         "The launch occurred on a recent Sunday.",
-        "SpaceX continues to deploy Starlink satellites rapidly.",
-        "The Starlink constellation provides internet service.",
-        "The company shows no signs of slowing down its launches."
+        "SpaceX continues to expand its satellite constellation.",
+        "The company aims to provide global internet coverage.",
+        "The launch demonstrates SpaceX's rapid deployment capabilities."
       ]
     },
     {
-      "id": "cluster_45",
+      "id": "cluster_52",
       "coverage": 1,
       "updated_at": "Mon, 20 Oct 2025 17:55:31 +0000",
       "title": "Musk’s $1 trillion Tesla pay plan draws some protest ahead of likely approval",
-      "neutral_headline": "Tesla CEO Elon Musk's pay plan faces some protest",
+      "neutral_headline": "Musk's Tesla pay plan faces some protest",
       "items": [
         {
           "source": "Ars Technica",
@@ -575,21 +528,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/musk-cybertruck-1152x648-1760980565.jpg",
-      "popularity_score": 288.63635055555557,
+      "popularity_score": 284.2909375,
       "ai_summary": [
-        "Proxy firm suggests Musk's pay plan does not ensure his focus on Tesla.",
-        "The plan, valued at $1 trillion, is up for shareholder approval.",
-        "Concerns exist regarding Musk's time commitment to the company.",
-        "The proxy firm recommends voting against the proposed compensation.",
-        "The plan's approval is considered likely despite the opposition."
+        "Elon Musk's $1 trillion Tesla pay plan faces some protest.",
+        "A proxy firm questions whether Musk's focus will remain on Tesla.",
+        "The plan is likely to be approved by shareholders.",
+        "The compensation package is a significant financial arrangement.",
+        "The protest highlights concerns about Musk's time allocation."
       ]
     },
     {
-      "id": "cluster_79",
+      "id": "cluster_83",
       "coverage": 1,
       "updated_at": "Mon, 20 Oct 2025 14:27:01 +0000",
       "title": "F1 in Texas: Well, now the championship is exciting again",
-      "neutral_headline": "Formula One racing in Texas is exciting again",
+      "neutral_headline": "F1 in Texas: Championship becomes exciting again",
       "items": [
         {
           "source": "Ars Technica",
@@ -603,21 +556,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2241837010-1152x648.jpg",
-      "popularity_score": 279.16135055555554,
+      "popularity_score": 274.8159375,
       "ai_summary": [
-        "The United States Grand Prix at the Circuit of the Americas was well-attended.",
-        "The race's excitement level has increased for the championship.",
-        "The event drew a large crowd to the Texas race track.",
-        "The championship's competitiveness has been revitalized.",
-        "The race's outcome has added to the season's intrigue."
+        "The US Grand Prix in Texas was well-attended.",
+        "The race has made the championship more exciting.",
+        "The Circuit of the Americas hosted the event.",
+        "The race generated significant fan interest.",
+        "The competition has become more intense."
       ]
     },
     {
-      "id": "cluster_86",
+      "id": "cluster_89",
       "coverage": 1,
       "updated_at": "Mon, 20 Oct 2025 13:51:44 +0000",
       "title": "Anti-vaccine activists want to go nationwide after Idaho law passes",
-      "neutral_headline": "Anti-vaccine activists seek nationwide action after Idaho law",
+      "neutral_headline": "Anti-vaccine activists want to go nationwide after Idaho law passes",
       "items": [
         {
           "source": "Ars Technica",
@@ -631,21 +584,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/GettyImages-1231265707-1152x648.jpeg",
-      "popularity_score": 253.573295,
+      "popularity_score": 249.22788194444445,
       "ai_summary": [
-        "Idaho's new law prohibits mandatory vaccinations.",
-        "Activists plan to expand the law's reach nationally.",
-        "The Idaho Medical Freedom Act is the focus of their efforts.",
-        "The law's passage has emboldened anti-vaccine groups.",
-        "The groups aim to replicate the law in other states."
+        "Anti-vaccine activists are seeking nationwide expansion.",
+        "The movement is spurred by the Idaho Medical Freedom Act.",
+        "The Idaho law makes vaccine mandates illegal.",
+        "The activists aim to restrict vaccine requirements.",
+        "The law's passage has emboldened the movement."
       ]
     },
     {
-      "id": "cluster_96",
+      "id": "cluster_98",
       "coverage": 1,
       "updated_at": "Mon, 20 Oct 2025 11:00:09 +0000",
       "title": "Should an AI copy of you help decide if you live or die?",
-      "neutral_headline": "AI surrogates in life-or-death decisions raise concerns",
+      "neutral_headline": "AI Surrogates in Healthcare Raise Ethical Concerns",
       "items": [
         {
           "source": "Ars Technica",
@@ -659,13 +612,13 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/pull-the-plug-1152x648.jpg",
-      "popularity_score": 155.71357277777778,
+      "popularity_score": 151.36815972222223,
       "ai_summary": [
-        "Doctors are discussing concerns about AI surrogates.",
-        "AI's role in medical decisions is under scrutiny.",
-        "Ethical considerations are central to the discussion.",
-        "Concerns include the potential for bias in AI systems.",
-        "Doctors are sharing their top concerns about AI use."
+        "Doctors express concerns about AI surrogates making life-or-death decisions.",
+        "The ethical implications of AI in healthcare are being actively discussed.",
+        "Concerns include potential biases and lack of human empathy in AI.",
+        "Experts are debating the role of AI in complex medical scenarios.",
+        "The use of AI in healthcare raises questions about accountability."
       ]
     }
   ]
