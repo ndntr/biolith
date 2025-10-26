@@ -1,8 +1,8 @@
 {
-  "updated_at": "2025-10-25T23:16:55.556Z",
+  "updated_at": "2025-10-26T03:40:48.598Z",
   "clusters": [
     {
-      "id": "cluster_1",
+      "id": "cluster_3",
       "coverage": 2,
       "updated_at": "Sat, 25 Oct 2025 23:00:00 +0000",
       "title": "Superhero workplace comedy, more powerwashing and other new indie games worth checking out",
@@ -114,29 +114,20 @@
           "content": "China’s Ant Group, an affiliate of Alibaba, detailed technical information around its new model, Ring-1T, which the company said is “the first open-source reasoning model with one trillion total parameters.”Ring-1T aims to compete with other reasoning models like GPT-5 and the o-series from OpenAI, as well as Google’s Gemini 2.5. With the new release of the latest model, Ant extends the geopolitical debate over who will dominate the AI race: China or the US. Ant Group said Ring-1T is optimized for mathematical and logical problems, code generation and scientific problem-solving. “With approximately 50 billion activated parameters per token, Ring-1T achieves state-of-the-art performance across multiple challenging benchmarks — despite relying solely on natural language reasoning capabilities,” Ant said in a paper.Ring-1T, which was first released on preview in September, adopts the same architecture as Ling 2.0 and trained on the Ling-1T-base model the company released earlier this month. Ant said this allows the model to support up to 128,000 tokens.To train a model as large as Ring-1T, researchers had to develop new methods to scale reinforcement learning (RL).New methods of training Ant Group developed three “interconnected innovations” to support the RL and training of Ring-1T, a challenge given the model&#x27;s size and the typically large compute requirements it entails. These three are IcePop, C3PO++ and ASystem.IcePop removes noisy gradient updates to stabilize training without slowing inference. It helps eliminate catastrophic training-inference misalignment in RL. The researchers noted that when training models, particularly those using a mixture-of-experts (MoE) architecture like Ring-1T, there can often be a discrepancy in probability calculations. “This problem is particularly pronounced in the training of MoE models with RL due to the inherent usage of the dynamic routing mechanism. Additionally, in long CoT settings, these discrepancies can gradually accumulate across iterations and become further amplified,” the researchers said. IcePop “suppresses unstable training updates through double-sided masking calibration.”The next new method the researchers had to develop is C3PO++, an improved version of the C3PO system that Ant previously established. The method manages how Ring-1T and other extra-large parameter models generate and process training examples, or what they call rollouts, so GPUs don’t sit idle. The way it works would break work in rollouts into pieces to process in parallel. One group is the inference pool, which generates new data, and the other is the training pool, which collects results to update the model. C3PO++ creates a token budget to control how much data is processed, ensuring GPUs are used efficiently.The last new method, ASystem, adopts a SingleController+SPMD (Single Program, Multiple Data) architecture to enable asynchronous operations. Benchmark resultsAnt pointed Ring-1T to benchmarks measuring performance in mathematics, coding, logical reasoning and general tasks. They tested it against models such as DeepSeek-V3.1-Terminus-Thinking, Qwen-35B-A22B-Thinking-2507, Gemini 2.5 Pro and GPT-5 Thinking. In benchmark testing, Ring-1T performed strongly, coming in second to OpenAI’s GPT-5 across most benchmarks. Ant said that Ring-1T showed the best performance among all the open-weight models it tested. The model posted a 93.4% score on the AIME 25 leaderboard, second only to GPT-5. In coding, Ring-1T outperformed both DeepSeek and Qwen.“It indicates that our carefully synthesized dataset shapes Ring-1T’s robust performance on programming applications, which forms a strong foundation for future endeavors on agentic applications,” the company said. Ring-1T shows how much Chinese companies are investing in models Ring-1T is just the latest model from China aiming to dethrone GPT-5 and Gemini. Chinese companies have been releasing impressive models at a quick pace since the surprise launch of DeepSeek in January. Ant&#x27;s parent company, Alibaba, recently released Qwen3-Omni, a multimodal model that natively unifies text, image, audio and video. DeepSeek has also continued to improve its models and earlier this month, launched DeepSeek-OCR. This new model reimagines how models process information. With Ring-1T and Ant’s development of new methods to train and scale extra-large models, the battle for AI dominance between the US and China continues to heat up.",
           "feed_position": 3,
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1ZZDt515lczBZYmiAPxjJm/323c164f6ce43f0bac50cb5d392d747a/crimedy7_illustration_of_ants_building_a_robot_but_the_robot__62e35f6c-d1f6-47e9-bf3c-393e15b45361_1.png?w=300&q=30"
-        },
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html",
-          "published_at": "Fri, 24 Oct 2025 00:00:35 +0000",
-          "title": "The best VPN service for 2025",
-          "standfirst": "As frustrating as it is that governments and businesses are running roughshod over our online freedoms, at least we have plenty of good VPNs to choose from to keep us protected online. There are so many fast, intelligently designed, full-featured and affordable services on the market that the biggest problem is picking one. For any use case, you can bet at least two providers will be neck-and-neck for first place.On the other hand, the VPN world is still the Wild West in some ways. It's easy enough to slap a cheap VPN together that the market is flooded with low-quality apps that put more money into advertising than infrastructure. They may look good, but it's all styrofoam under the hood.I built this list of the best VPNs after intensive testing to help you reorient your focus on the providers that actually deserve your time and money. Which one truly fits your needs is dependent on who you are and what you do online, but if you pick any of my seven recommendations, you can't go too far wrong.For each VPN on this list, I've shared which platforms it works on, how much it cuts into your download speed, where it offers servers, what other features are included and how much the best available deal costs. At the end, I'll list some honorable and dishonorable mentions, then answer some of the most common questions I hear about VPNs.Editor's note: This list has been completely overhauled and rewritten as of September 2025. We intend to revisit this list every three months at a minimum, at which time our picks may be adjusted based on changes in pricing, features, testing results and other factors. Table of contents Best VPNs for 2025 Other VPNs we tested What to look for in a VPN VPN FAQs Best VPNs for 2025 Other VPNs we tested The VPNs in this section didn't crack our top list above, but we're summarizing them here so you can see their positives and negatives as of the time of our evaluation. Windscribe Windscribe is another well-known free VPN supported by paid subscriptions. In many ways, it takes the best from both Mullvad and Proton VPN, with the former's no-nonsense privacy and the latter's healthy free plan. Without paying, you can connect to 10 of Windscribe's server locations on an unlimited number of devices at once. Unfortunately, Windscribe didn't copy the most important part of Proton VPN's free plan — the unlimited data. You're only allowed to use 10GB per month, which isn't enough for regular streaming. It's also committed to a cramped and headache-inducing user interface that stands out from the crowd in all the worst ways. Private Internet Access Private Internet Access (PIA VPN) has a deeply annoying name — I assume whoever invented it also likes to hop in their Toyota Forward Motion to grab a gallon of Sustaining Cow Extract from the grocery store — but it's a worthwhile VPN whose pricing provides incredible value. Its monthly and yearly plans are good enough, but its three-year plan is the clincher. Not only is it longer than average, but you can continue to renew at the three-year level, so you won't see an unpleasant price jump the first time you re-up. PIA's apps have a dark UI reminiscent of Proton VPN, which is always a good thing. It also supports port forwarding, custom DNS and the use of a SOCKS5 or Shadowsocks proxy as a second step in the VPN connection. You can even set the maximum data packet size to help out a struggling connection, as I cover in my full PIA VPN review. The downside is that your connection will struggle a lot. While well-designed, PIA's apps have a tendency to lag. In my most recent battery of tests, it dragged oddly on my internet in ways that weren't directly reflected in the speed tests. It's also not always capable of unblocking streaming services in other countries, and while its server network offers 152 IP address options in 84 countries, it's heavily bulked out by virtual locations. TunnelBear TunnelBear has a decent interface, which its target audience of VPN beginners will find very easy to use. Its speeds are perfectly good too, and I appreciate the depth and breadth of its transparency reports. But it's far too limited overall, with few extra features, less than 50 server locations and a free plan that caps data at 2GB per month. VyprVPN VyprVPN often flies under the radar, but it has some of the best apps in the business and a very good security record (there was a breach in 2023, but it didn't crack the VPN encryption itself). It's also got a verified privacy policy, a solid jurisdiction and runs every connection through an in-house DNS to prevent leaks. Despite all that, it didn't make the top seven because its connection speeds aren't up to scratch — you'll likely notice a bigger slowdown than average. It also has a troubling history of wild, seemingly experimental swings in its pricing and simultaneous connection limits. Norton VPN Norton VPN is part of the Norton 360 package that includes the well-known antivirus software and other security apps. It's a nice bonus if you use Norton already, but as a standalone VPN, it falls short. My tests repeatedly showed it dropping encryption and revealing my IP address whenever I switched servers, and not all of its locations managed to unblock Netflix. This isn't to say Norton VPN is terrible. It has a fairly large server network, user-friendly apps and some cool features like an IP rotator. It also recently revamped its OpenVPN infrastructure to improve speeds on Windows. But you probably won't find those things sufficient to balance out significant speed drops on other platforms or poorly written FAQs. I especially advise against Norton VPN for Apple users, as its Mac and iPhone apps are much more limited than their Windows and Android counterparts. What to look for in a VPN Choosing a VPN can quickly get you mired in analysis paralysis. We're here to help, but since only you know your particular needs, you should know the major red and green flags so you can make the final call yourself. Every reputable VPN provider offers a free trial or refund guarantee you can use to run the tests below. Compatibility: First, make sure your VPN works on all the platforms you plan to use it on. Most VPNs have apps for Windows, Mac, Android and iOS, but those apps aren't always created equal — check that the app for your chosen OS is user-friendly and has all the features you need. Speed: Use a speed testing app to see how fast your internet is before and after connecting to the VPN (I use Ookla's speedtest.net). To check security, look up your IP address while connected to a VPN server and see if it's actually changed your virtual location. Be sure it's using expert-vetted protocols like OpenVPN, WireGuard and IKEv2. Try connecting to streaming services and seeing whether the VPN changes the available content. Background: Do some outside research into the VPN's origins, especially its parent company, privacy policy and any past incidents. It's a dealbreaker if you can't figure out where the VPN is headquartered (which indicates a lax approach to transparency) or if it seems to have never passed a real third-party audit. Server network: Look at the server network to make sure the VPN has locations near you and in any countries where you'll want an IP address — e.g. if you need a VPN to unblock Canadian Netflix, look for multiple server locations in Canada. Customer Service: I also advise testing the customer support options by looking for the answer to a straightforward question. If phone support (versus email and chat) is important to you, make sure to prioritize that — and make sure it's available at convenient times in your timezone. Pricing: Finally, check prices. See if the VPN is affordable and decide whether you're comfortable taking a long-term subscription for better savings. If you do get a multi-year plan, check what price it will renew at, since many of the cheapest subscriptions are only introductory deals. VPN FAQs To wrap up, let's answer some of the most common questions we get about VPNs. Feel free to get in touch if you have a query I don't cover here. What is a VPN? VPN stands for virtual private network. There are a few different types of VPNs, but for this list, we're talking about commercial services that let individual users access the internet with an assumed identity. Whenever you get online, you're assigned an IP address — a digital nametag that tells websites where to send the information you request. For an IP address to work, it needs to be unique, which means it's possible to create a record of what an individual does online. When you use a VPN, all the data you send to the internet goes through one of the VPN's servers before heading to its final destination. The VPN encrypts the connection between your computer and its server so the data won't trace back to you. Any website, ISP or third party that cares to look will only see the VPN's IP address, not yours. What are some things VPNs are used for? The three main use cases for a commercial VPN are security, privacy and entertainment. Using a VPN conceals your real IP address from anyone who might want to use it for nefarious purposes like cyberstalking, DDoS attacks or deducing your real location. It also keeps your ISP from profiling you for ads based on where you live or what you do online. One side effect of borrowing a VPN's IP address is that you can make it appear as though your connection is coming from another country. You can use this to access streaming content and platforms that are only available in certain regions due to copyright. Changing your location can even get you better prices when shopping online. Location spoofing can also be used to get online in countries that censor internet access, like China and Russia, as well as certain US states or countries — like the UK — that are adding barriers like age-gating to previously unfettered online access. All you have to do is connect to a neighboring country (or locality) where the internet isn't blocked. If you plan to do this while traveling, make sure you have the VPN downloaded before you go, as some nations prevent you from even loading a VPN's homepage. Make sure you check with local laws regarding the legality of VPN use as well — just because your VPN traffic is encrypted doesn't mean that authorities can't detect that it's being used in a given location. Are VPNs worth it? Whether a VPN is worth the price depends on how much you value those three use cases above. It's no secret that your personal information is profitable for a lot of people, from illicit hackers to corporations to law enforcement. A VPN will not make you completely anonymous, nor is it a license to commit crimes (see the next question) but it will give you a lot more control over what you transmit to the world. With entertainment, the value is even clearer. You can use a VPN to fight back against streaming balkanization by getting more shows and movies out of a single platform — for example, a lot of shows that have been kicked off American Netflix are still on Netflix in other countries. What information does a VPN hide? A VPN does not make it impossible for you to be unmasked or taken advantage of online. It prevents you from passively leaking information, keeps your IP address undiscoverable on public wi-fi networks and gets you around online censorship. However, if you share personal information of your own volition, there's nothing the VPN can do. If you reveal your password in a social media post or click a link in a phishing email, that information bypasses the VPN. Likewise, if you do anything sensitive while logged into an account, the account holder will have that information even if you're using a VPN. A VPN is a critical part of your online security, but it can't do the whole job by itself. Healthy passwords, malware scanners, private search engines and common sense all have roles to play. Never forget, too, that using a VPN means trusting the VPN provider with access to information that's concealed from everyone else — make sure you trust the privacy policy before signing up. Are VPNs safe? As far as we can determine, all the VPNs recommended in this story are safe to use. As with anything you subscribe to online, due diligence is important, but there's very little inherent risk; generally, the worst thing a bad VPN will do is fail to work, leaving you no worse off than before. There are some VPNs (usually offered for free) that transmit malware, so always make sure to look up any complaints or warnings about a service before you download it. Can you get a VPN on your phone? Absolutely — almost every VPN has apps for both desktop and mobile devices. A good VPN will redesign its app to be mobile-friendly without dropping too many features. Both iOS and Android natively support VPN connections, so you're free to choose whichever provider you like. What about Google's One VPN? Google One VPN was, as you might expect, a VPN provided by Google. It was launched in 2020 for Google One subscribers and discontinued in 2024 due to lack of use. If you really want a Google VPN, you can still get one if you have certain Pixel models or if you're a Google Fi subscriber. That said, I don't recommend using a VPN from Google even if you do still have access to one. Google is one of the worst big tech companies at protecting user privacy. While its VPN might not leak, I wouldn't trust it to guard your sensitive information.This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html?src=rss",
-          "content": "As frustrating as it is that governments and businesses are running roughshod over our online freedoms, at least we have plenty of good VPNs to choose from to keep us protected online. There are so many fast, intelligently designed, full-featured and affordable services on the market that the biggest problem is picking one. For any use case, you can bet at least two providers will be neck-and-neck for first place.On the other hand, the VPN world is still the Wild West in some ways. It's easy enough to slap a cheap VPN together that the market is flooded with low-quality apps that put more money into advertising than infrastructure. They may look good, but it's all styrofoam under the hood.I built this list of the best VPNs after intensive testing to help you reorient your focus on the providers that actually deserve your time and money. Which one truly fits your needs is dependent on who you are and what you do online, but if you pick any of my seven recommendations, you can't go too far wrong.For each VPN on this list, I've shared which platforms it works on, how much it cuts into your download speed, where it offers servers, what other features are included and how much the best available deal costs. At the end, I'll list some honorable and dishonorable mentions, then answer some of the most common questions I hear about VPNs.Editor's note: This list has been completely overhauled and rewritten as of September 2025. We intend to revisit this list every three months at a minimum, at which time our picks may be adjusted based on changes in pricing, features, testing results and other factors. Table of contents Best VPNs for 2025 Other VPNs we tested What to look for in a VPN VPN FAQs Best VPNs for 2025 Other VPNs we tested The VPNs in this section didn't crack our top list above, but we're summarizing them here so you can see their positives and negatives as of the time of our evaluation. Windscribe Windscribe is another well-known free VPN supported by paid subscriptions. In many ways, it takes the best from both Mullvad and Proton VPN, with the former's no-nonsense privacy and the latter's healthy free plan. Without paying, you can connect to 10 of Windscribe's server locations on an unlimited number of devices at once. Unfortunately, Windscribe didn't copy the most important part of Proton VPN's free plan — the unlimited data. You're only allowed to use 10GB per month, which isn't enough for regular streaming. It's also committed to a cramped and headache-inducing user interface that stands out from the crowd in all the worst ways. Private Internet Access Private Internet Access (PIA VPN) has a deeply annoying name — I assume whoever invented it also likes to hop in their Toyota Forward Motion to grab a gallon of Sustaining Cow Extract from the grocery store — but it's a worthwhile VPN whose pricing provides incredible value. Its monthly and yearly plans are good enough, but its three-year plan is the clincher. Not only is it longer than average, but you can continue to renew at the three-year level, so you won't see an unpleasant price jump the first time you re-up. PIA's apps have a dark UI reminiscent of Proton VPN, which is always a good thing. It also supports port forwarding, custom DNS and the use of a SOCKS5 or Shadowsocks proxy as a second step in the VPN connection. You can even set the maximum data packet size to help out a struggling connection, as I cover in my full PIA VPN review. The downside is that your connection will struggle a lot. While well-designed, PIA's apps have a tendency to lag. In my most recent battery of tests, it dragged oddly on my internet in ways that weren't directly reflected in the speed tests. It's also not always capable of unblocking streaming services in other countries, and while its server network offers 152 IP address options in 84 countries, it's heavily bulked out by virtual locations. TunnelBear TunnelBear has a decent interface, which its target audience of VPN beginners will find very easy to use. Its speeds are perfectly good too, and I appreciate the depth and breadth of its transparency reports. But it's far too limited overall, with few extra features, less than 50 server locations and a free plan that caps data at 2GB per month. VyprVPN VyprVPN often flies under the radar, but it has some of the best apps in the business and a very good security record (there was a breach in 2023, but it didn't crack the VPN encryption itself). It's also got a verified privacy policy, a solid jurisdiction and runs every connection through an in-house DNS to prevent leaks. Despite all that, it didn't make the top seven because its connection speeds aren't up to scratch — you'll likely notice a bigger slowdown than average. It also has a troubling history of wild, seemingly experimental swings in its pricing and simultaneous connection limits. Norton VPN Norton VPN is part of the Norton 360 package that includes the well-known antivirus software and other security apps. It's a nice bonus if you use Norton already, but as a standalone VPN, it falls short. My tests repeatedly showed it dropping encryption and revealing my IP address whenever I switched servers, and not all of its locations managed to unblock Netflix. This isn't to say Norton VPN is terrible. It has a fairly large server network, user-friendly apps and some cool features like an IP rotator. It also recently revamped its OpenVPN infrastructure to improve speeds on Windows. But you probably won't find those things sufficient to balance out significant speed drops on other platforms or poorly written FAQs. I especially advise against Norton VPN for Apple users, as its Mac and iPhone apps are much more limited than their Windows and Android counterparts. What to look for in a VPN Choosing a VPN can quickly get you mired in analysis paralysis. We're here to help, but since only you know your particular needs, you should know the major red and green flags so you can make the final call yourself. Every reputable VPN provider offers a free trial or refund guarantee you can use to run the tests below. Compatibility: First, make sure your VPN works on all the platforms you plan to use it on. Most VPNs have apps for Windows, Mac, Android and iOS, but those apps aren't always created equal — check that the app for your chosen OS is user-friendly and has all the features you need. Speed: Use a speed testing app to see how fast your internet is before and after connecting to the VPN (I use Ookla's speedtest.net). To check security, look up your IP address while connected to a VPN server and see if it's actually changed your virtual location. Be sure it's using expert-vetted protocols like OpenVPN, WireGuard and IKEv2. Try connecting to streaming services and seeing whether the VPN changes the available content. Background: Do some outside research into the VPN's origins, especially its parent company, privacy policy and any past incidents. It's a dealbreaker if you can't figure out where the VPN is headquartered (which indicates a lax approach to transparency) or if it seems to have never passed a real third-party audit. Server network: Look at the server network to make sure the VPN has locations near you and in any countries where you'll want an IP address — e.g. if you need a VPN to unblock Canadian Netflix, look for multiple server locations in Canada. Customer Service: I also advise testing the customer support options by looking for the answer to a straightforward question. If phone support (versus email and chat) is important to you, make sure to prioritize that — and make sure it's available at convenient times in your timezone. Pricing: Finally, check prices. See if the VPN is affordable and decide whether you're comfortable taking a long-term subscription for better savings. If you do get a multi-year plan, check what price it will renew at, since many of the cheapest subscriptions are only introductory deals. VPN FAQs To wrap up, let's answer some of the most common questions we get about VPNs. Feel free to get in touch if you have a query I don't cover here. What is a VPN? VPN stands for virtual private network. There are a few different types of VPNs, but for this list, we're talking about commercial services that let individual users access the internet with an assumed identity. Whenever you get online, you're assigned an IP address — a digital nametag that tells websites where to send the information you request. For an IP address to work, it needs to be unique, which means it's possible to create a record of what an individual does online. When you use a VPN, all the data you send to the internet goes through one of the VPN's servers before heading to its final destination. The VPN encrypts the connection between your computer and its server so the data won't trace back to you. Any website, ISP or third party that cares to look will only see the VPN's IP address, not yours. What are some things VPNs are used for? The three main use cases for a commercial VPN are security, privacy and entertainment. Using a VPN conceals your real IP address from anyone who might want to use it for nefarious purposes like cyberstalking, DDoS attacks or deducing your real location. It also keeps your ISP from profiling you for ads based on where you live or what you do online. One side effect of borrowing a VPN's IP address is that you can make it appear as though your connection is coming from another country. You can use this to access streaming content and platforms that are only available in certain regions due to copyright. Changing your location can even get you better prices when shopping online. Location spoofing can also be used to get online in countries that censor internet access, like China and Russia, as well as certain US states or countries — like the UK — that are adding barriers like age-gating to previously unfettered online access. All you have to do is connect to a neighboring country (or locality) where the internet isn't blocked. If you plan to do this while traveling, make sure you have the VPN downloaded before you go, as some nations prevent you from even loading a VPN's homepage. Make sure you check with local laws regarding the legality of VPN use as well — just because your VPN traffic is encrypted doesn't mean that authorities can't detect that it's being used in a given location. Are VPNs worth it? Whether a VPN is worth the price depends on how much you value those three use cases above. It's no secret that your personal information is profitable for a lot of people, from illicit hackers to corporations to law enforcement. A VPN will not make you completely anonymous, nor is it a license to commit crimes (see the next question) but it will give you a lot more control over what you transmit to the world. With entertainment, the value is even clearer. You can use a VPN to fight back against streaming balkanization by getting more shows and movies out of a single platform — for example, a lot of shows that have been kicked off American Netflix are still on Netflix in other countries. What information does a VPN hide? A VPN does not make it impossible for you to be unmasked or taken advantage of online. It prevents you from passively leaking information, keeps your IP address undiscoverable on public wi-fi networks and gets you around online censorship. However, if you share personal information of your own volition, there's nothing the VPN can do. If you reveal your password in a social media post or click a link in a phishing email, that information bypasses the VPN. Likewise, if you do anything sensitive while logged into an account, the account holder will have that information even if you're using a VPN. A VPN is a critical part of your online security, but it can't do the whole job by itself. Healthy passwords, malware scanners, private search engines and common sense all have roles to play. Never forget, too, that using a VPN means trusting the VPN provider with access to information that's concealed from everyone else — make sure you trust the privacy policy before signing up. Are VPNs safe? As far as we can determine, all the VPNs recommended in this story are safe to use. As with anything you subscribe to online, due diligence is important, but there's very little inherent risk; generally, the worst thing a bad VPN will do is fail to work, leaving you no worse off than before. There are some VPNs (usually offered for free) that transmit malware, so always make sure to look up any complaints or warnings about a service before you download it. Can you get a VPN on your phone? Absolutely — almost every VPN has apps for both desktop and mobile devices. A good VPN will redesign its app to be mobile-friendly without dropping too many features. Both iOS and Android natively support VPN connections, so you're free to choose whichever provider you like. What about Google's One VPN? Google One VPN was, as you might expect, a VPN provided by Google. It was launched in 2020 for Google One subscribers and discontinued in 2024 due to lack of use. If you really want a Google VPN, you can still get one if you have certain Pixel models or if you're a Google Fi subscriber. That said, I don't recommend using a VPN from Google even if you do still have access to one. Google is one of the worst big tech companies at protecting user privacy. While its VPN might not leak, I wouldn't trust it to guard your sensitive information.This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/vpn/best-vpn-130004396.html?src=rss",
-          "feed_position": 36
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/6hk25wIFL5HjUQrONWEmCM/a80871621b39fb561fb1479cbdd273c2/Comet.png?w=300&q=30",
-      "popularity_score": 2019.7179011111111,
+      "popularity_score": 2015.319833888889,
       "ai_summary": [
-        "Dispatch is a superhero workplace comedy from AdHoc Studio, former Telltale developers.",
-        "The game features narrative-heavy, dialogue-driven gameplay with player choices.",
-        "Dispatch has a cast including Aaron Paul, Laura Bailey, and Jeffrey Wright.",
-        "PowerWash Simulator 2 is one of the titles hitting Game Pass Ultimate and PC Game Pass.",
-        "The article also mentions other new indie games worth checking out."
+        "Dispatch is a superhero workplace comedy from AdHoc Studio.",
+        "The game adopts narrative-heavy, dialogue-driven gameplay.",
+        "Choices in Dispatch affect how everything plays out.",
+        "The first two episodes of Dispatch are out on PS5 and Steam.",
+        "PowerWash Simulator 2 is one of the titles on Game Pass."
       ]
     },
     {
-      "id": "cluster_5",
+      "id": "cluster_7",
       "coverage": 2,
       "updated_at": "Sat, 25 Oct 2025 19:48:54 +0000",
       "title": "OpenAI reportedly developing new generative music tool",
@@ -158,22 +149,22 @@
           "title": "Sources: OpenAI is developing AI tools to generate music from text and audio prompts, including capabilities such as adding guitar accompaniment to vocal tracks (The Information)",
           "standfirst": "The Information: Sources: OpenAI is developing AI tools to generate music from text and audio prompts, including capabilities such as adding guitar accompaniment to vocal tracks &mdash; OpenAI recently made a splash with artificial intelligence that generates short videos from text prompts&mdash;say, a scene from &hellip;",
           "content": "The Information: Sources: OpenAI is developing AI tools to generate music from text and audio prompts, including capabilities such as adding guitar accompaniment to vocal tracks &mdash; OpenAI recently made a splash with artificial intelligence that generates short videos from text prompts&mdash;say, a scene from &hellip;",
-          "feed_position": 4,
+          "feed_position": 6,
           "image_url": "http://www.techmeme.com/251025/i9.jpg"
         }
       ],
       "featured_image": "http://www.techmeme.com/251025/i9.jpg",
-      "popularity_score": 2016.5329011111112,
+      "popularity_score": 2012.1348338888888,
       "ai_summary": [
-        "OpenAI is reportedly developing a new tool for generating music.",
+        "OpenAI is reportedly developing a new generative music tool.",
         "The tool could add music to existing videos.",
-        "It could also add guitar accompaniment to vocal tracks.",
-        "Sources indicate the development of these AI tools.",
-        "OpenAI recently released AI that generates short videos from text prompts."
+        "It could also add guitar accompaniment to vocals.",
+        "Sources say the tool is in development.",
+        "The tool would use text and audio prompts."
       ]
     },
     {
-      "id": "cluster_7",
+      "id": "cluster_9",
       "coverage": 2,
       "updated_at": "Sat, 25 Oct 2025 19:05:11 +0000",
       "title": "High school’s AI security system confuses Doritos bag for a possible firearm",
@@ -198,21 +189,21 @@
           "feed_position": 6
         }
       ],
-      "popularity_score": 2015.80429,
+      "popularity_score": 2011.4062227777779,
       "ai_summary": [
-        "An AI security system in a Baltimore County high school flagged a Doritos bag.",
-        "The system mistook the bag for a possible firearm.",
-        "A student was handcuffed and searched as a result.",
-        "Local police were alerted by the AI system.",
-        "The incident highlights potential issues with AI security systems."
+        "An AI system flagged a student's bag of chips.",
+        "The system mistook the bag for a firearm.",
+        "Police were called to the high school.",
+        "The student was handcuffed and searched.",
+        "The incident occurred in Baltimore County, Maryland."
       ]
     },
     {
-      "id": "cluster_36",
+      "id": "cluster_38",
       "coverage": 1,
       "updated_at": "Sat, 25 Oct 2025 11:00:09 +0000",
       "title": "Whale and dolphin migrations are being disrupted by climate change",
-      "neutral_headline": "Whale and dolphin migrations disrupted by climate change",
+      "neutral_headline": "Climate Change Disrupts Whale, Dolphin Migrations",
       "items": [
         {
           "source": "Ars Technica",
@@ -226,13 +217,13 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/whale1-1152x648.jpg",
-      "popularity_score": 348.72040111111113,
+      "popularity_score": 344.32233388888886,
       "ai_summary": [
-        "Climate change is disrupting whale and dolphin migrations.",
-        "Marine mammals are being forced into new waters.",
-        "Scientists warn these new waters are more dangerous.",
-        "The changes are due to the effects of climate change.",
-        "The article highlights the impact of climate change on marine life."
+        "Climate change is disrupting marine mammal migrations.",
+        "Whales and dolphins are being affected.",
+        "They are being forced into new waters.",
+        "These new waters are more dangerous.",
+        "Scientists are warning of the impact."
       ]
     },
     {
@@ -240,7 +231,7 @@
       "coverage": 1,
       "updated_at": "Fri, 24 Oct 2025 21:53:20 +0000",
       "title": "A single point of failure triggered the Amazon outage affecting millions",
-      "neutral_headline": "Single point of failure triggered Amazon outage",
+      "neutral_headline": "A single point of failure triggered the Amazon outage affecting millions",
       "items": [
         {
           "source": "Ars Technica",
@@ -257,10 +248,10 @@
       "popularity_score": 328,
       "ai_summary": [
         "A single point of failure caused an Amazon outage.",
-        "A DNS manager in one region triggered the 16-hour debacle.",
+        "The failure was in a single region.",
         "The outage affected millions of users.",
-        "The failure originated within Amazon's network.",
-        "The article explains the cause of the widespread outage."
+        "A DNS manager was the cause.",
+        "The outage lasted for 16 hours."
       ]
     },
     {
@@ -268,7 +259,7 @@
       "coverage": 1,
       "updated_at": "Fri, 24 Oct 2025 22:26:30 +0000",
       "title": "Are you the asshole? Of course not!—quantifying LLMs’ sycophancy problem",
-      "neutral_headline": "Are you the asshole? Of course not!—quantifying LLMs’ sycophancy problem",
+      "neutral_headline": "AI Models Show Tendency to Agree with User Statements",
       "items": [
         {
           "source": "Ars Technica",
@@ -284,11 +275,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2195752979-1152x648.jpg",
       "popularity_score": 323,
       "ai_summary": [
-        "New research shows AI models agree with user statements.",
-        "AI models exhibit a tendency to agree with users.",
-        "This is a concerning issue with language models.",
-        "The research quantifies the sycophancy problem.",
-        "The article discusses the issue of AI agreement."
+        "Research indicates AI models often agree with user statements, regardless of accuracy.",
+        "This sycophancy poses a problem, potentially leading to misinformation and bias.",
+        "The study quantifies this tendency, highlighting the issue's prevalence.",
+        "AI's willingness to agree raises concerns about its reliability and trustworthiness.",
+        "The findings underscore the need for improved AI development and evaluation."
       ]
     },
     {
@@ -296,7 +287,7 @@
       "coverage": 1,
       "updated_at": "Fri, 24 Oct 2025 21:29:30 +0000",
       "title": "Man takes herbal pain quackery, nearly dies, spends months in hospital",
-      "neutral_headline": "Man's Herbal Pain Treatment Leads to Hospitalization",
+      "neutral_headline": "Man Nearly Dies After Using Herbal Pain Remedies",
       "items": [
         {
           "source": "Ars Technica",
@@ -312,11 +303,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2019/11/GettyImages-462760366-1152x648.jpg",
       "popularity_score": 318,
       "ai_summary": [
-        "A 61-year-old man experienced severe wounds and a bacterial infection.",
-        "He required intensive care and spent months in the hospital.",
-        "The man's health issues stemmed from using herbal pain remedies.",
-        "The article details the negative health consequences of the treatment.",
-        "The case highlights the potential dangers of unregulated herbal treatments."
+        "A 61-year-old man experienced severe health complications from herbal remedies.",
+        "He developed wounds, a bacterial infection, and required intensive hospital care.",
+        "The man spent months in the hospital recovering from the adverse effects.",
+        "The case highlights the potential dangers of unregulated herbal treatments.",
+        "The incident underscores the importance of seeking medical advice."
       ]
     },
     {
@@ -324,7 +315,7 @@
       "coverage": 1,
       "updated_at": "Fri, 24 Oct 2025 20:58:11 +0000",
       "title": "Clinical trial of a technique that could give everyone the best antibodies",
-      "neutral_headline": "Clinical Trial Aims to Provide Superior Antibodies",
+      "neutral_headline": "Clinical Trial Explores Antibody Production Technique",
       "items": [
         {
           "source": "Ars Technica",
@@ -340,11 +331,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/abstractdna-1152x648.jpg",
       "popularity_score": 299,
       "ai_summary": [
-        "The trial explores a technique to produce optimal antibodies for everyone.",
-        "Researchers are identifying the DNA sequences for effective antibodies.",
-        "The goal is to enable anyone to manufacture these beneficial antibodies.",
-        "This approach could revolutionize antibody production and treatment.",
-        "The study focuses on the potential for widespread antibody availability."
+        "Researchers are testing a method to produce optimal antibodies for everyone.",
+        "The technique involves identifying the DNA sequence for effective antibodies.",
+        "This approach could allow anyone to manufacture the desired antibodies.",
+        "The trial aims to make antibody production more accessible and efficient.",
+        "The innovation could revolutionize treatment for various diseases."
       ]
     },
     {
@@ -368,11 +359,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2232417355-1152x648.jpg",
       "popularity_score": 288,
       "ai_summary": [
-        "Tech billionaires are using their wealth to shape urban militarization.",
-        "Their financial resources provide access to significant political power.",
-        "The article examines the intersection of technology and militarization.",
-        "It explores the impact of tech money on city governance and policing.",
-        "The focus is on the influence of tech leaders in this domain."
+        "Tech billionaires are using their wealth to shape city militarization efforts.",
+        "Their financial resources provide access to power and influence.",
+        "This trend raises concerns about the role of technology in policing.",
+        "The influence extends to funding and shaping law enforcement technologies.",
+        "The impact on communities and civil liberties is a growing concern."
       ]
     },
     {
@@ -380,7 +371,7 @@
       "coverage": 1,
       "updated_at": "Fri, 24 Oct 2025 20:07:30 +0000",
       "title": "The Android-powered Boox Palma 2 Pro fits in your pocket, but it’s not a phone",
-      "neutral_headline": "Boox Palma 2 Pro E-Reader Offers Color Screen, 5G",
+      "neutral_headline": "Boox Palma 2 Pro E-Reader Features Color Screen, 5G",
       "items": [
         {
           "source": "Ars Technica",
@@ -396,11 +387,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Boox-Palam-2-Pro-1152x648.jpg",
       "popularity_score": 283,
       "ai_summary": [
-        "The Boox Palma 2 Pro is an Android-powered e-reader.",
-        "It features a color screen and 5G connectivity for users.",
-        "The device is designed to fit comfortably in a pocket.",
-        "It is not intended to function as a smartphone.",
-        "The e-reader offers a unique combination of features."
+        "The Boox Palma 2 Pro is an Android-powered e-reader designed for portability.",
+        "It features a color screen, enhancing the reading experience.",
+        "The device includes 5G connectivity for faster data transfer.",
+        "It is designed to fit in a pocket, offering convenience.",
+        "The e-reader is not a phone, focusing on reading functionality."
       ]
     },
     {
@@ -426,9 +417,9 @@
       "ai_summary": [
         "Tesla's new \"Mad Max\" mode is under federal investigation.",
         "The mode allows vehicles to speed and weave through traffic.",
-        "The feature was introduced in a recent software update.",
-        "Authorities are examining the safety implications of the mode.",
-        "The investigation focuses on potential risks to drivers and others."
+        "The feature was added in the latest software update.",
+        "Concerns exist regarding the safety implications of the mode.",
+        "The federal government is assessing the potential risks."
       ]
     },
     {
@@ -436,7 +427,7 @@
       "coverage": 1,
       "updated_at": "Fri, 24 Oct 2025 17:07:57 +0000",
       "title": "Microsoft’s Mico heightens the risks of parasocial LLM relationships",
-      "neutral_headline": "Microsoft's Mico Raises Concerns About LLM Relationships",
+      "neutral_headline": "Microsoft's Mico Raises Parasocial LLM Relationship Risks",
       "items": [
         {
           "source": "Ars Technica",
@@ -452,11 +443,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/micoheart-1152x648-1761323845.png",
       "popularity_score": 255,
       "ai_summary": [
-        "Microsoft's Mico AI assistant poses risks of parasocial relationships.",
-        "The AI prompts users with phrases like \"Would you like help?\"",
-        "The article explores the potential for emotional dependence.",
-        "It examines the ethical implications of such interactions.",
-        "The focus is on the impact of AI on human relationships."
+        "Microsoft's Mico AI assistant may encourage parasocial relationships.",
+        "The AI offers prompts like \"It looks like you're trying to find a friend.\"",
+        "This interaction style could blur the lines between user and AI.",
+        "The feature raises concerns about emotional manipulation.",
+        "The potential for unhealthy attachments is a key concern."
       ]
     },
     {
@@ -464,7 +455,7 @@
       "coverage": 1,
       "updated_at": "Fri, 24 Oct 2025 18:18:19 +0000",
       "title": "EU accuses Meta of violating content rules in move that could anger Trump",
-      "neutral_headline": "EU Accuses Meta of Content Rule Violations",
+      "neutral_headline": "EU Accuses Meta of Violating Content Rules",
       "items": [
         {
           "source": "Ars Technica",
@@ -481,10 +472,10 @@
       "popularity_score": 253,
       "ai_summary": [
         "The European Union accuses Meta of violating content regulations.",
-        "The EU alleges Facebook and Instagram hinder illegal content reporting.",
-        "This action could potentially upset Donald Trump.",
+        "The EU alleges Facebook and Instagram make reporting difficult.",
+        "This action could potentially anger Donald Trump.",
         "The EU is scrutinizing Meta's content moderation practices.",
-        "The case highlights the ongoing tension between the EU and Meta."
+        "The case highlights ongoing tensions between the EU and Meta."
       ]
     },
     {
@@ -492,7 +483,7 @@
       "coverage": 1,
       "updated_at": "Fri, 24 Oct 2025 14:37:03 +0000",
       "title": "This browser claims “perfect privacies protection,” but it acts like malware",
-      "neutral_headline": "Browser Claiming Privacy Protection Acts Like Malware",
+      "neutral_headline": "Browser Claims Privacy Protection, Acts Like Malware",
       "items": [
         {
           "source": "Ars Technica",
@@ -508,11 +499,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/universebrowser-1152x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "A browser claiming \"perfect privacy protection\" behaves like malware.",
+        "A browser claiming \"perfect privacy\" acts like malware.",
         "Researchers found links to cybercrime and illegal gambling networks.",
-        "The article exposes the deceptive practices of the browser.",
-        "It highlights the risks associated with using the browser.",
-        "The focus is on the browser's malicious activities."
+        "The browser's behavior raises serious security concerns.",
+        "The findings highlight the risks of using untrusted software.",
+        "The browser's practices may compromise user data."
       ]
     },
     {
@@ -520,7 +511,7 @@
       "coverage": 1,
       "updated_at": "Fri, 24 Oct 2025 16:30:12 +0000",
       "title": "Rivian is settling $250 million lawsuit to focus on next year’s R2 EV",
-      "neutral_headline": "Rivian Settles Lawsuit for $250 Million",
+      "neutral_headline": "Rivian Settles Lawsuit, Focuses on R2 EV",
       "items": [
         {
           "source": "Ars Technica",
@@ -537,10 +528,10 @@
       "popularity_score": 139,
       "ai_summary": [
         "Rivian is settling a $250 million lawsuit with investors.",
-        "Investors claimed Rivian knew prices would increase after its IPO.",
-        "The settlement allows Rivian to focus on its R2 EV.",
-        "The lawsuit involved allegations of financial misrepresentation.",
-        "The settlement resolves the legal dispute."
+        "Investors claimed Rivian knew prices would rise after its IPO.",
+        "The settlement allows Rivian to focus on the R2 EV launch.",
+        "The lawsuit stemmed from alleged financial misrepresentations.",
+        "The company aims to move forward with its electric vehicle plans."
       ]
     },
     {
@@ -564,11 +555,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/napoleon2-1152x648-1760798560.jpg",
       "popularity_score": 139,
       "ai_summary": [
-        "DNA analysis identified pathogens that killed Napoleon's army.",
+        "DNA analysis identified pathogens that affected Napoleon's army.",
         "Troops likely suffered from paratyphoid fever and relapsing fever.",
-        "The study examined microbial DNA from the soldiers.",
-        "The findings provide insights into historical disease outbreaks.",
-        "The research sheds light on the causes of mortality."
+        "The study examined microbial DNA from historical samples.",
+        "The findings provide insights into the causes of mortality.",
+        "The research sheds light on the diseases that impacted the army."
       ]
     },
     {
@@ -576,7 +567,7 @@
       "coverage": 1,
       "updated_at": "Fri, 24 Oct 2025 11:00:36 +0000",
       "title": "Rocket Report: China tests Falcon 9 lookalike; NASA’s Moon rocket fully stacked",
-      "neutral_headline": "Rocket Report: China Tests Falcon 9 Lookalike; NASA's Moon Rocket",
+      "neutral_headline": "Rocket Report: China Tests Falcon 9 Lookalike",
       "items": [
         {
           "source": "Ars Technica",
@@ -592,11 +583,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/artemisiistacked-1152x648-1761259328.jpg",
       "popularity_score": 138,
       "ai_summary": [
-        "China tested a Falcon 9 lookalike rocket.",
-        "NASA's Moon rocket is fully stacked.",
-        "A South Korean startup will attempt to reach low-Earth orbit.",
-        "The report covers recent developments in space exploration.",
-        "It highlights advancements in rocket technology."
+        "China tested a rocket similar to SpaceX's Falcon 9.",
+        "NASA's Moon rocket is fully stacked for its next launch.",
+        "A South Korean startup will attempt to reach orbit soon.",
+        "The report covers developments in space exploration.",
+        "The news highlights global advancements in rocketry."
       ]
     },
     {
@@ -604,7 +595,7 @@
       "coverage": 1,
       "updated_at": "Fri, 24 Oct 2025 16:16:55 +0000",
       "title": "Bats eat the birds they pluck from the sky while on the wing",
-      "neutral_headline": "Bats Hunt Birds While in Flight",
+      "neutral_headline": "Bats Eat Birds They Pluck From the Sky",
       "items": [
         {
           "source": "Ars Technica",
@@ -620,11 +611,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/image-4-1152x648.jpeg",
       "popularity_score": 133,
       "ai_summary": [
-        "Certain bat species hunt birds while they are flying.",
-        "New sensor data reveals how bats capture birds.",
-        "The article explores the predatory behavior of bats.",
-        "It provides insights into bat hunting strategies.",
-        "The research focuses on the interaction between bats and birds."
+        "Certain bat species hunt and eat birds mid-flight.",
+        "New sensor data reveals details about this behavior.",
+        "The study focuses on a handful of bat species.",
+        "The findings provide insights into bat predation.",
+        "The research expands knowledge of animal behavior."
       ]
     },
     {
@@ -632,7 +623,7 @@
       "coverage": 1,
       "updated_at": "Fri, 24 Oct 2025 14:18:13 +0000",
       "title": "Satellite shows what’s really happening at the East Wing of the White House",
-      "neutral_headline": "Satellite Shows Changes at White House East Wing",
+      "neutral_headline": "Satellite Shows White House East Wing Activity",
       "items": [
         {
           "source": "Ars Technica",
@@ -648,11 +639,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2242218583-1152x648-1761262960.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Satellite imagery reveals changes at the White House East Wing.",
-        "The article suggests the White House is physically being destroyed.",
-        "The imagery provides a visual record of the changes.",
-        "The article explores the implications of the observed changes.",
-        "The focus is on the visual evidence from the satellite."
+        "Satellite imagery reveals activity at the White House East Wing.",
+        "The imagery suggests physical changes to the building.",
+        "The report describes the visual observations.",
+        "The analysis offers a unique perspective on the site.",
+        "The findings provide a visual assessment of the area."
       ]
     }
   ]
