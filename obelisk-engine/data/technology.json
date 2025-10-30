@@ -1,12 +1,12 @@
 {
-  "updated_at": "2025-10-30T03:42:38.675Z",
+  "updated_at": "2025-10-30T07:19:03.134Z",
   "clusters": [
     {
-      "id": "cluster_19",
+      "id": "cluster_27",
       "coverage": 3,
       "updated_at": "2025-10-29T19:20:53-04:00",
       "title": "Microsoft says it’s recovering after Azure outage took down 365, Xbox, and Starbucks",
-      "neutral_headline": "Microsoft says it’s recovering after Azure outage took down 365, Xbox, and Starbucks:",
+      "neutral_headline": "Microsoft says it’s recovering after Azure outage took down 365, Xbox, and Starbucks",
       "items": [
         {
           "source": "The Verge",
@@ -33,24 +33,24 @@
           "title": "Microsoft Azure is down, affecting 365, Xbox, Minecraft, and others",
           "standfirst": "Microsoft Azure is facing a significant outage, with services affected like Microsoft 365, Xbox, and Minecraft.",
           "content": "Microsoft Azure is facing a significant outage, with services affected like Microsoft 365, Xbox, and Minecraft.",
-          "feed_position": 10
+          "feed_position": 11
         }
       ],
-      "popularity_score": 3015.6373125,
+      "popularity_score": 3012.0305183333335,
       "ai_summary": [
-        "Microsoft Azure experienced an outage, impacting multiple services.",
+        "Microsoft Azure experienced an outage, impacting services.",
         "The outage affected Microsoft 365, Xbox, and Minecraft.",
-        "Other companies like Capital One and Starbucks also experienced outages.",
-        "The Azure outage occurred one week after issues with AWS.",
-        "Recovery efforts are underway after the significant outage."
+        "Other companies, including Starbucks, were also affected.",
+        "The outage occurred one week after issues with AWS.",
+        "Recovery efforts are underway for the Azure outage."
       ]
     },
     {
-      "id": "cluster_30",
+      "id": "cluster_38",
       "coverage": 2,
       "updated_at": "Wed, 29 Oct 2025 21:54:57 +0000",
       "title": "The best VPN deals: 88 percent discounts on ProtonVPN, ExpressVPN, Surfshark and more",
-      "neutral_headline": "The best VPN deals: 88 percent discounts on ProtonVPN, ExpressVPN, Surfshark and more:",
+      "neutral_headline": "Best VPN Deals Offer Significant Discounts for Subscribers",
       "items": [
         {
           "source": "Engadget",
@@ -286,34 +286,24 @@
           "content": "Building AI for financial software requires a different playbook than consumer AI, and Intuit&#x27;s latest QuickBooks release provides an example.The company has announced Intuit Intelligence, a system that orchestrates specialized AI agents across its QuickBooks platform to handle tasks including sales tax compliance and payroll processing. These new agents augment existing accounting and project management agents (which have also been updated) as well as a unified interface that lets users query data across QuickBooks, third-party systems and uploaded files using natural language. The new development follow years of investment and improvement in Intuit&#x27;s GenOS, allowing the company to build AI capabilities that reduce latency and improve accuracy.But the real news isn&#x27;t what Intuit built — it&#x27;s how they built it and why their design decisions will make AI more usable. The company&#x27;s latest AI rollout represents an evolution built on hard-won lessons about what works and what doesn&#x27;t when deploying AI in financial contexts.What the company learned is sobering: Even when its accounting agent improved transaction categorization accuracy by 20 percentage points on average, they still received complaints about errors.\"The use cases that we&#x27;re trying to solve for customers include tax and finance; if you make a mistake in this world, you lose trust with customers in buckets and we only get it back in spoonfuls,\" Joe Preston, Intuit&#x27;s VP of product and design, told VentureBeat.The architecture of trust: Real data queries over generative responsesIntuit&#x27;s technical strategy centers on a fundamental design decision. For financial queries and business intelligence, the system queries actual data, rather than generating responses through large language models (LLMs).Also critically important: That data isn&#x27;t all in one place. Intuit&#x27;s technical implementation allows QuickBooks to ingest data from multiple distinct sources: native Intuit data, OAuth-connected third-party systems like Square for payments and user-uploaded files such as spreadsheets containing vendor pricing lists or marketing campaign data. This creates a unified data layer that AI agents can query reliably.\"We&#x27;re actually querying your real data,\" Preston explained. \"That&#x27;s very different than if you were to just copy, paste out a spreadsheet or a PDF and paste into ChatGPT.\"This architectural choice means that the Intuit Intelligence system functions more as an orchestration layer. It&#x27;s a natural language interface to structured data operations. When a user asks about projected profitability or wants to run payroll, the system translates the natural language query into database operations against verified financial data.This matters because Intuit&#x27;s internal research has uncovered widespread shadow AI usage. When surveyed, 25% of accountants using QuickBooks admitted they were already copying and pasting data into ChatGPT or Google Gemini for analysis.Intuit&#x27;s approach treats AI as a query translation and orchestration mechanism, not a content generator. This reduces the hallucination risk that has plagued AI deployments in financial contexts.Explainability as a design requirement, not an afterthoughtBeyond the technical architecture, Intuit has made explainability a core user experience across its AI agents. This goes beyond simply providing correct answers: It means showing users the reasoning behind automated decisions.When Intuit&#x27;s accounting agent categorizes a transaction, it doesn&#x27;t just display the result; it shows the reasoning. This isn&#x27;t marketing copy about explainable AI, it&#x27;s actual UI displaying data points and logic.\"It&#x27;s about closing that trust loop and making sure customers understand the why,\" Alastair Simpson, Intuit&#x27;s VP of design, told VentureBeat.This becomes particularly critical when you consider Intuit&#x27;s user research: While half of small businesses describe AI as helpful, nearly a quarter haven&#x27;t used AI at all. The explanation layer serves both populations: Building confidence for newcomers, while giving experienced users the context to verify accuracy.The design also enforces human control at critical decision points. This approach extends beyond the interface. Intuit connects users directly with human experts, embedded in the same workflows, when automation reaches its limits or when users want validation.Navigating the transition from forms to conversationsOne of Intuit&#x27;s more interesting challenges involves managing a fundamental shift in user interfaces. Preston described it as having one foot in the past and one foot in the future.\"This isn&#x27;t just Intuit, this is the market as a whole,\" said Preston. \"Today we still have a lot of customers filling out forms and going through tables full of data. We&#x27;re investing a lot into leaning in and questioning the ways that we do it across our products today, where you&#x27;re basically just filling out, form after form, or table after table, because we see where the world is headed, which is really a different form of interacting with these products.\"This creates a product design challenge: How do you serve users who are comfortable with traditional interfaces while gradually introducing conversational and agentic capabilities?Intuit&#x27;s approach has been to embed AI agents directly into existing workflows. This means not forcing users to adopt entirely new interaction patterns. The payments agent appears alongside invoicing workflows; the accounting agent enhances the existing reconciliation process rather than replacing it. This incremental approach lets users experience AI benefits without abandoning familiar processes.What enterprise AI builders can learn from Intuit&#x27;s approachIntuit&#x27;s experience deploying AI in financial contexts surfaces several principles that apply broadly to enterprise AI initiatives. Architecture matters for trust: In domains where accuracy is critical, consider whether you need content generation or data query translation. Intuit&#x27;s decision to treat AI as an orchestration and natural language interface layer dramatically reduces hallucination risk and avoids using AI as a generative system.Explainability must be designed in, not bolted on: Showing users why the AI made a decision isn&#x27;t optional when trust is at stake. This requires deliberate UX design. It may constrain model choices.User control preserves trust during accuracy improvements: Intuit&#x27;s accounting agent improved categorization accuracy by 20 percentage points. Yet, maintaining user override capabilities was essential for adoption.Transition gradually from familiar interfaces: Don&#x27;t force users to abandon forms for conversations. Embed AI capabilities into existing workflows first. Let users experience benefits before asking them to change behavior.Be honest about what&#x27;s reactive versus proactive: Current AI agents primarily respond to prompts and automate defined tasks. True proactive intelligence that makes unprompted strategic recommendations remains an evolving capability. Address workforce concerns with tooling, not just messaging: If AI is meant to augment rather than replace workers, provide workers with AI tools. Show them how to leverage the technology.For enterprises navigating AI adoption, Intuit&#x27;s journey offers a clear directive. The winning approach prioritizes trustworthiness over capability demonstrations. In domains where mistakes have real consequences, that means investing in accuracy, transparency and human oversight before pursuing conversational sophistication or autonomous action.Simpson frames the challenge succinctly: \"We didn&#x27;t want it to be a bolted-on layer. We wanted customers to be in their natural workflow, and have agents doing work for customers, embedded in the workflow.\"",
           "feed_position": 12,
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/26uFKCJx7guEmpRjNxJdWl/bee15b7153fa921dc410f50175781a25/ai_trust_in_a_bucket-SMK.png?w=300&q=30"
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/ai/paypals-agentic-commerce-play-shows-why-flexibility-not-standards-will",
-          "published_at": "Tue, 28 Oct 2025 04:00:00 GMT",
-          "title": "PayPal’s agentic commerce play shows why flexibility, not standards, will define the next e-commerce wave",
-          "standfirst": "Enterprises looking to sell goods and services online are waiting for the backbone of agentic commerce to be hashed out; but PayPal is hoping its new features will bridge the gap.The payments company is launching a discoverability solution that allows enterprises to make its product available on any chat platform, regardless of the model or agent payment protocol. PayPal, which is a participant in Google’s Agent Payments Protocol (AP2), found that it can leverage its relationship with merchants and enterprises to help pave the way for an easier transition into agentic commerce and offer flexibility that will benefit the ecosystem. Michelle Gill, PayPal&#x27;s GM for small business and financial services, told VentureBeat that AI-powered shopping will continue to grow, so enterprises and brands must begin laying the groundwork early. “We think that merchants who&#x27;ve historically sold through web stores, particularly in the e-commerce space, are really going to need a way to get active on all of these large language models (LLMs),” Gill said. “The challenge is that no one really knows how fast all of this is going to move. We’re trying to help merchants think through how to do all of this as low-touch as possible while using the infrastructure they already have without doing a bazillion integrations.”She added that AI shopping would also bring about “a resurgence from consumers trying to ensure their investment is protected.”PayPal partnered with website builder Wix, Cymbio, Commerce and Shopware to bring products to chat platforms like Perplexity. Agent-powered shopping PayPal’s Agentic Commerce Services include two features. The first is Agent Ready, which would allow existing PayPal merchants to accept payments on AI platforms. The second is Shop Sync, which will enable companies’ product data to be discoverable through different AI chat interfaces. It takes a company’s catalog information and plug its inventory and fulfillment data to chat platforms. Gill said the data goes into a central repository where AI models can ingest the information. Right now, companies can access Shop Sync; Agent Ready is coming in 2026. Gill said Agentic Commerce Services is a one-to-many solution that would be helpful right now, as different LLMs scrape different data sources to surface information. Other benefits include:Fast integration with current and future partners;More product discovery over the traditional search, browse and cart experiences;Preserved customer insights and relationships where the brand continues to have control over their records and communications with customers. Right now, the service is only available through Perplexity, but Gill said more platforms will be added soon. Fragmented AI platforms Agentic commerce is still very much in the early stages. AI agents are just beginning to get better at reading a browser. while platforms like ChatGPT, Gemini and Perplexity can now surface products and services based on user queries, people cannot technically buy things from chat (yet).There’s a race right now to create a standard to enable agents to transact on behalf of users. Other than Google’s AP2, OpenAI and Stripe have the Agentic Commerce Protocol (ACP), and Visa recently launched its Trusted Agent Protocol. Beyond enabling a trust layer for agents to transact, enterprises struggle with fragmentation in agentic commerce. Different chat platforms use different models, which also interpret information in slightly different ways. Gill said PayPal learned that when it comes to working with merchants, flexibility is critical. “How do you decide if you&#x27;re going to spend your time integrating with Google, Microsoft, ChatGPT or Perplexity?\" Gill noted. \"And each one of them right now has a different protocol, a different catalog, config, a different everything. That is a lot of time to make a bet as to where you should spend your time.\"",
-          "content": "Enterprises looking to sell goods and services online are waiting for the backbone of agentic commerce to be hashed out; but PayPal is hoping its new features will bridge the gap.The payments company is launching a discoverability solution that allows enterprises to make its product available on any chat platform, regardless of the model or agent payment protocol. PayPal, which is a participant in Google’s Agent Payments Protocol (AP2), found that it can leverage its relationship with merchants and enterprises to help pave the way for an easier transition into agentic commerce and offer flexibility that will benefit the ecosystem. Michelle Gill, PayPal&#x27;s GM for small business and financial services, told VentureBeat that AI-powered shopping will continue to grow, so enterprises and brands must begin laying the groundwork early. “We think that merchants who&#x27;ve historically sold through web stores, particularly in the e-commerce space, are really going to need a way to get active on all of these large language models (LLMs),” Gill said. “The challenge is that no one really knows how fast all of this is going to move. We’re trying to help merchants think through how to do all of this as low-touch as possible while using the infrastructure they already have without doing a bazillion integrations.”She added that AI shopping would also bring about “a resurgence from consumers trying to ensure their investment is protected.”PayPal partnered with website builder Wix, Cymbio, Commerce and Shopware to bring products to chat platforms like Perplexity. Agent-powered shopping PayPal’s Agentic Commerce Services include two features. The first is Agent Ready, which would allow existing PayPal merchants to accept payments on AI platforms. The second is Shop Sync, which will enable companies’ product data to be discoverable through different AI chat interfaces. It takes a company’s catalog information and plug its inventory and fulfillment data to chat platforms. Gill said the data goes into a central repository where AI models can ingest the information. Right now, companies can access Shop Sync; Agent Ready is coming in 2026. Gill said Agentic Commerce Services is a one-to-many solution that would be helpful right now, as different LLMs scrape different data sources to surface information. Other benefits include:Fast integration with current and future partners;More product discovery over the traditional search, browse and cart experiences;Preserved customer insights and relationships where the brand continues to have control over their records and communications with customers. Right now, the service is only available through Perplexity, but Gill said more platforms will be added soon. Fragmented AI platforms Agentic commerce is still very much in the early stages. AI agents are just beginning to get better at reading a browser. while platforms like ChatGPT, Gemini and Perplexity can now surface products and services based on user queries, people cannot technically buy things from chat (yet).There’s a race right now to create a standard to enable agents to transact on behalf of users. Other than Google’s AP2, OpenAI and Stripe have the Agentic Commerce Protocol (ACP), and Visa recently launched its Trusted Agent Protocol. Beyond enabling a trust layer for agents to transact, enterprises struggle with fragmentation in agentic commerce. Different chat platforms use different models, which also interpret information in slightly different ways. Gill said PayPal learned that when it comes to working with merchants, flexibility is critical. “How do you decide if you&#x27;re going to spend your time integrating with Google, Microsoft, ChatGPT or Perplexity?\" Gill noted. \"And each one of them right now has a different protocol, a different catalog, config, a different everything. That is a lot of time to make a bet as to where you should spend your time.\"",
-          "feed_position": 13,
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7pKgIkX0gvCbEs132P6qBy/93b6eff0b869b8f047b79eed33e75a86/crimedy7_illustration_of_robot_paying_for_groceries_--ar_169__3d2a2c22-022a-4104-9070-fab8f94d73d5_0.png?w=300&q=30"
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/3XICNbOGJJDY7SoZx0m1SV/4b4ec66e5aa6a03194e432369e6e6ac8/cfr0z3n_flat_illustration_elegant_constructivist_1920s_art_deco_6818187a-93ac-437e-af85-43b96b2507a5.png?w=300&q=30",
-      "popularity_score": 2014.2050902777778,
+      "popularity_score": 2010.598296111111,
       "ai_summary": [
-        "VPNs can stream foreign content, protect against hackers, and ensure anonymity.",
-        "Comparison shopping is recommended due to opaque VPN pricing.",
-        "VPN providers offer deep discounts for longer subscription periods.",
-        "NordVPN offers a two-year subscription with three months free.",
-        "The article highlights various VPN deals available currently."
+        "NordVPN offers a two-year subscription with three months free, totaling 74 percent off.",
+        "NordVPN's Plus subscription also has a 74 percent discount for a two-year plan with extra months.",
+        "VPN providers offer deep discounts to customers who sign up for a year or more.",
+        "VPNs can stream foreign TV shows, protect against hackers, and maintain online anonymity.",
+        "Consider a longer commitment to maximize savings, as prices are cheaper over time."
       ]
     },
     {
-      "id": "cluster_64",
+      "id": "cluster_68",
       "coverage": 2,
       "updated_at": "Wed, 29 Oct 2025 17:40:19 +0000",
       "title": "Former L3Harris Trenchant boss pleads guilty to selling zero-day exploits to Russian broker",
-      "neutral_headline": "Former L3Harris Trenchant boss pleads guilty to selling zero-day exploits to Russian broker:",
+      "neutral_headline": "Former L3Harris Executive Pleads Guilty to Selling Exploits",
       "items": [
         {
           "source": "TechCrunch",
@@ -322,7 +312,7 @@
           "title": "Former L3Harris Trenchant boss pleads guilty to selling zero-day exploits to Russian broker",
           "standfirst": "Prosecutors confirmed Peter Williams, the former Trenchant boss, sold eight exploits to a Russian buyer. TechCrunch exclusively reported that the Trenchant division was investigating a leak of its hacking tools, after another employee was accused of involvement.",
           "content": "Prosecutors confirmed Peter Williams, the former Trenchant boss, sold eight exploits to a Russian buyer. TechCrunch exclusively reported that the Trenchant division was investigating a leak of its hacking tools, after another employee was accused of involvement.",
-          "feed_position": 12
+          "feed_position": 13
         },
         {
           "source": "Wired Tech",
@@ -331,26 +321,26 @@
           "title": "Ex-L3Harris Cyber Boss Pleads Guilty to Selling Trade Secrets to Russian Firm",
           "standfirst": "Peter Williams, a former executive of Trenchant, L3Harris’ cyber division, has pleaded guilty to two counts of stealing trade secrets and selling them to an unnamed Russian software broker.",
           "content": "Peter Williams, a former executive of Trenchant, L3Harris’ cyber division, has pleaded guilty to two counts of stealing trade secrets and selling them to an unnamed Russian software broker.",
-          "feed_position": 6,
+          "feed_position": 11,
           "image_url": "https://media.wired.com/photos/690228d865b611a9f97823f6/master/pass/sec-L3Harris-trial-2172435098.jpg"
         }
       ],
       "featured_image": "https://media.wired.com/photos/690228d865b611a9f97823f6/master/pass/sec-L3Harris-trial-2172435098.jpg",
-      "popularity_score": 2009.9612013888889,
+      "popularity_score": 2006.3544072222223,
       "ai_summary": [
-        "Peter Williams, former Trenchant boss, sold exploits to a Russian buyer.",
-        "Williams pleaded guilty to selling trade secrets.",
-        "He sold eight exploits to an unnamed Russian software broker.",
-        "TechCrunch reported on the leak of hacking tools.",
-        "Williams was an executive of L3Harris' cyber division."
+        "Peter Williams, former Trenchant boss, sold zero-day exploits to a Russian broker.",
+        "Williams, a former executive of L3Harris' cyber division, stole trade secrets.",
+        "Williams pleaded guilty to two counts of stealing trade secrets and selling them.",
+        "TechCrunch reported the Trenchant division investigated a hacking tools leak.",
+        "The Russian buyer remains unnamed in the reports of the case."
       ]
     },
     {
-      "id": "cluster_108",
+      "id": "cluster_111",
       "coverage": 2,
       "updated_at": "Wed, 29 Oct 2025 13:00:18 +0000",
       "title": "Republican plan would make deanonymization of census data trivial",
-      "neutral_headline": "Republican plan would make deanonymization of census data trivial:",
+      "neutral_headline": "Republican Plan Could Compromise Census Data Privacy",
       "items": [
         {
           "source": "Ars Technica",
@@ -369,26 +359,26 @@
           "title": "The Republican Plan to Reform the Census Could Put Everyone’s Privacy at Risk",
           "standfirst": "A little-known algorithmic process called “differential privacy” helps keep census data anonymous. Conservatives want it gone.",
           "content": "A little-known algorithmic process called “differential privacy” helps keep census data anonymous. Conservatives want it gone.",
-          "feed_position": 40,
+          "feed_position": 45,
           "image_url": "https://media.wired.com/photos/68f6b13d4cd4cc76ba1c8542/master/pass/politics_census_republicans_data_privacy.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/census-1152x648.jpg",
-      "popularity_score": 2005.2942569444444,
+      "popularity_score": 2001.6874627777777,
       "ai_summary": [
-        "A Republican plan could compromise the anonymity of census data.",
-        "The plan involves changes to the \"differential privacy\" algorithm.",
-        "Differential privacy protects statistical data from individual identification.",
-        "Conservatives want to eliminate the current privacy measures.",
-        "The proposed changes could put privacy at risk."
+        "A Republican plan could make deanonymization of census data easier.",
+        "The current \"differential privacy\" algorithm protects individual data.",
+        "Conservatives are seeking to eliminate the current privacy measures.",
+        "The algorithmic process helps keep census data anonymous.",
+        "The proposed changes could put everyone's privacy at risk."
       ]
     },
     {
-      "id": "cluster_34",
+      "id": "cluster_42",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 21:35:58 +0000",
       "title": "Meta denies torrenting porn to train AI, says downloads were for “personal use”",
-      "neutral_headline": "Meta denies torrenting porn to train AI, says downloads were for “personal use”:",
+      "neutral_headline": "Meta Denies Using Porn to Train Artificial Intelligence",
       "items": [
         {
           "source": "Ars Technica",
@@ -402,21 +392,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2171230457-1152x648.jpg",
-      "popularity_score": 361.8887013888889,
+      "popularity_score": 358.28190722222223,
       "ai_summary": [
-        "Meta denies claims of pirating porn to train its AI models.",
-        "The company states the downloads were for personal use.",
-        "A lawsuit alleges Meta used pirated porn for AI training.",
-        "Meta claims the lawsuit's allegations are unfounded.",
-        "The company is responding to the lawsuit's claims."
+        "Meta denies claims of pirating porn to train its artificial intelligence.",
+        "The lawsuit alleges Meta downloaded pornographic material.",
+        "Meta claims the downloads were for \"personal use\" only.",
+        "The company states the lawsuit's claims are without merit.",
+        "The case involves allegations of copyright infringement."
       ]
     },
     {
-      "id": "cluster_36",
+      "id": "cluster_44",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 21:23:22 +0000",
       "title": "Space station astronauts eager to open “golden treasure box” from Japan",
-      "neutral_headline": "Space station astronauts eager to open “golden treasure box” from Japan:",
+      "neutral_headline": "Space Station Astronauts Excited for Japanese Treasure Box",
       "items": [
         {
           "source": "Ars Technica",
@@ -430,21 +420,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/htvx1-arrive1-1152x648.jpg",
-      "popularity_score": 344.6787013888889,
+      "popularity_score": 341.0719072222222,
       "ai_summary": [
-        "Astronauts on the space station are anticipating opening a Japanese cargo.",
-        "The cargo is described as a \"golden treasure box.\"",
+        "Astronauts are eager to open a \"golden treasure box\" from Japan.",
         "The spacecraft is described as beautiful and shiny.",
-        "The cargo represents a bright future, according to astronauts.",
-        "The astronauts are excited to receive the shipment."
+        "The astronauts see the spacecraft as representing a bright future.",
+        "The Japanese spacecraft is a source of excitement for the crew.",
+        "The contents of the \"treasure box\" are highly anticipated."
       ]
     },
     {
-      "id": "cluster_39",
+      "id": "cluster_45",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 21:04:45 +0000",
       "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
-      "neutral_headline": "Malicious Packages Flood NPM, Downloaded Over 86,000 Times",
+      "neutral_headline": "Malicious Packages Flooding NPM, Downloaded Thousands of Times",
       "items": [
         {
           "source": "Ars Technica",
@@ -458,21 +448,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
-      "popularity_score": 326.3684236111111,
+      "popularity_score": 322.76162944444445,
       "ai_summary": [
-        "Malicious packages on NPM can fetch dependencies from untrusted sites, posing security risks.",
-        "The packages were downloaded over 86,000 times, indicating a widespread impact.",
-        "This highlights the importance of verifying package sources before installation.",
-        "Developers should carefully review dependencies to mitigate potential threats.",
-        "The incident underscores the need for improved security measures within NPM."
+        "Malicious packages on NPM have been downloaded over 86,000 times.",
+        "Packages downloaded from NPM can fetch dependencies from untrusted sites.",
+        "The downloads pose a security risk to users of the packages.",
+        "The issue highlights the importance of package security.",
+        "The packages are a potential source of malware."
       ]
     },
     {
-      "id": "cluster_51",
+      "id": "cluster_55",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 19:44:40 +0000",
       "title": "Trump health official ousted after allegedly giving himself a fake title",
-      "neutral_headline": "Trump Health Official Ousted After Allegedly Using Fake Title",
+      "neutral_headline": "Trump Health Official Ousted After Alleged Title Falsification",
       "items": [
         {
           "source": "Ars Technica",
@@ -486,21 +476,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-122179143-1152x648.jpg",
-      "popularity_score": 315.0337013888889,
+      "popularity_score": 311.4269072222222,
       "ai_summary": [
-        "Steven Hatfill, a former health official, was ousted from his position.",
-        "The ousting occurred after allegations of Hatfill using a fake title.",
-        "Hatfill had a notable history prior to his abrupt departure from the role.",
-        "Details surrounding the specific reasons for the ousting remain unclear.",
-        "The incident raises questions about the vetting process for government officials."
+        "Steven Hatfill was ousted after allegedly giving himself a fake title.",
+        "Hatfill had a notable history before his abrupt ouster.",
+        "The circumstances surrounding the ouster are under scrutiny.",
+        "The incident raises questions about the official's background.",
+        "The ouster occurred within the Trump administration."
       ]
     },
     {
-      "id": "cluster_53",
+      "id": "cluster_57",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 19:18:37 +0000",
       "title": "FCC Republicans force prisoners and families to pay more for phone calls",
-      "neutral_headline": "FCC Republicans Increase Prisoner, Family Phone Call Costs",
+      "neutral_headline": "FCC Republicans Increase Phone Call Costs for Prisoners",
       "items": [
         {
           "source": "Ars Technica",
@@ -514,21 +504,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/brendan-carr-fcc-1152x648-1761764153.jpg",
-      "popularity_score": 304.59953472222224,
+      "popularity_score": 300.99274055555554,
       "ai_summary": [
-        "FCC Republicans are increasing phone call costs for prisoners and their families.",
-        "A Democrat criticized the FCC, claiming it rewards corporations.",
-        "The Democrat stated the FCC takes money from vulnerable families.",
-        "The policy change is expected to impact communication access.",
-        "The FCC's decision has sparked controversy and criticism."
+        "FCC Republicans are forcing prisoners and families to pay more for calls.",
+        "A Democrat stated the FCC \"rewards corporations with money from families.\"",
+        "The policy change impacts vulnerable families.",
+        "The FCC's decision has drawn criticism from Democrats.",
+        "The increased costs affect communication access."
       ]
     },
     {
-      "id": "cluster_80",
+      "id": "cluster_84",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 16:37:06 +0000",
       "title": "TV-focused YouTube update brings AI upscaling, shopping QR codes",
-      "neutral_headline": "YouTube Update Focuses on TV Experience, Adds AI Upscaling",
+      "neutral_headline": "YouTube Update Includes AI Upscaling and Shopping QR Codes",
       "items": [
         {
           "source": "Ars Technica",
@@ -542,21 +532,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2021/12/getty-youtube-1152x648.jpg",
-      "popularity_score": 296.9075902777778,
+      "popularity_score": 293.30079611111114,
       "ai_summary": [
-        "YouTube's update focuses on enhancing the viewing experience on televisions.",
-        "The update includes AI upscaling to improve video quality on larger screens.",
-        "Shopping QR codes are being integrated for easier product purchases.",
-        "The changes aim to make YouTube more user-friendly on the couch.",
-        "YouTube is adapting to the growing trend of TV-based content consumption."
+        "YouTube's update focuses on a more couch-friendly experience.",
+        "The update includes AI upscaling for improved video quality.",
+        "Shopping QR codes are being integrated into the platform.",
+        "The changes aim to enhance user engagement.",
+        "The update is designed for TV-focused viewing."
       ]
     },
     {
-      "id": "cluster_58",
+      "id": "cluster_62",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 18:29:45 +0000",
       "title": "ICE’s forced face scans to verify citizens is unconstitutional, lawmakers say",
-      "neutral_headline": "ICE Face Scans to Verify Citizens Are Unconstitutional, Lawmakers Say",
+      "neutral_headline": "Lawmakers Say ICE Face Scans Are Unconstitutional",
       "items": [
         {
           "source": "Ars Technica",
@@ -570,21 +560,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2238024951-1024x648.jpg",
-      "popularity_score": 293.7850902777778,
+      "popularity_score": 290.17829611111114,
       "ai_summary": [
-        "Lawmakers are claiming ICE's use of face scans is unconstitutional.",
+        "Lawmakers claim ICE's forced face scans are unconstitutional.",
         "Videos show ICE conducting random face scans on US streets.",
-        "The practice is raising concerns about privacy and civil liberties.",
-        "The lawmakers are challenging the legality of the face scan program.",
-        "The issue is likely to lead to legal battles and policy changes."
+        "The practice is being challenged on legal grounds.",
+        "The face scans are used to verify citizens' identities.",
+        "The lawmakers are raising concerns about privacy violations."
       ]
     },
     {
-      "id": "cluster_97",
+      "id": "cluster_100",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 14:46:21 +0000",
       "title": "Nvidia hits record $5 trillion mark as CEO dismisses AI bubble concerns",
-      "neutral_headline": "Nvidia Hits Record $5 Trillion Mark, CEO Dismisses AI Bubble",
+      "neutral_headline": "Nvidia Hits Record $5 Trillion Mark, CEO Dismisses Bubble Concerns",
       "items": [
         {
           "source": "Ars Technica",
@@ -598,21 +588,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/nvidia_flag_2-1152x648.jpg",
-      "popularity_score": 275.0617569444444,
+      "popularity_score": 271.4549627777778,
       "ai_summary": [
-        "Nvidia's market capitalization reached a record $5 trillion.",
-        "The CEO dismissed concerns about an AI bubble.",
+        "Nvidia hit a record $5 trillion market capitalization.",
+        "CEO Huang dismissed concerns about an artificial intelligence bubble.",
         "Huang announced $500 billion in orders for the company.",
-        "The company's growth is fueled by the demand for AI technology.",
-        "Nvidia's success reflects the increasing importance of AI."
+        "The company's growth is driven by artificial intelligence demand.",
+        "Nvidia is a major player in the technology industry."
       ]
     },
     {
-      "id": "cluster_82",
+      "id": "cluster_86",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 16:20:59 +0000",
       "title": "The chemistry behind that pricey cup of civet coffee",
-      "neutral_headline": "Chemistry Behind Expensive Civet Coffee Explained by Analysis",
+      "neutral_headline": "Chemical Analysis Reveals Secrets of Civet Coffee",
       "items": [
         {
           "source": "Ars Technica",
@@ -626,21 +616,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/civet2-1152x648.jpg",
-      "popularity_score": 271.6389791666667,
+      "popularity_score": 268.032185,
       "ai_summary": [
-        "Kopi luwak coffee is claimed to have a unique aroma and taste.",
+        "Fans of kopi luwak claim it has a unique aroma and taste.",
         "A new chemical analysis supports the claims about the coffee.",
-        "The analysis explores the chemical compounds in the coffee beans.",
-        "Fans of the coffee claim it has a unique aroma and taste.",
-        "The study aims to understand the factors contributing to the coffee's flavor."
+        "The analysis explores the chemistry behind the coffee's flavor.",
+        "Kopi luwak is a pricey type of coffee.",
+        "The study investigates the coffee's distinctive characteristics."
       ]
     },
     {
-      "id": "cluster_100",
+      "id": "cluster_103",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 14:28:19 +0000",
       "title": "Man accidentally gets leech up his nose. It took 20 days to figure it out.",
-      "neutral_headline": "Man Gets Leech Up Nose, Takes 20 Days to Discover",
+      "neutral_headline": "Man Finds Leech in Nose After Twenty Days",
       "items": [
         {
           "source": "Ars Technica",
@@ -654,21 +644,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2220375814-1152x648.jpg",
-      "popularity_score": 249.76120138888888,
+      "popularity_score": 246.15440722222223,
       "ai_summary": [
         "A man accidentally got a leech up his nose.",
-        "It took 20 days for the man to realize the leech was present.",
+        "It took twenty days to figure out the cause of the problem.",
         "Leeches have a long history in medical practices.",
-        "The incident highlights the potential for unusual medical cases.",
-        "The story details what happens when a leech enters the nasal cavity."
+        "The article discusses what happens if a leech enters the nose.",
+        "The incident highlights the potential for unusual medical cases."
       ]
     },
     {
-      "id": "cluster_113",
+      "id": "cluster_116",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 12:23:08 +0000",
       "title": "NASA races to keep Artemis II on schedule, even when workers aren’t being paid",
-      "neutral_headline": "NASA Races to Keep Artemis II on Schedule Amid Delays",
+      "neutral_headline": "NASA Races to Keep Artemis II on Schedule",
       "items": [
         {
           "source": "Ars Technica",
@@ -682,21 +672,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/KSC-20250807-PH-SNW01_0001orig-1152x648-1761709022.jpg",
-      "popularity_score": 158.6748125,
+      "popularity_score": 155.06801833333333,
       "ai_summary": [
-        "NASA is racing to keep the Artemis II mission on schedule.",
-        "Delays are impacting the project, including worker payment issues.",
-        "NASA is approaching a point where delays will have a significant impact.",
-        "The mission aims to send astronauts around the Moon.",
-        "The project faces challenges in meeting its deadlines."
+        "NASA is racing to keep Artemis II on schedule.",
+        "Workers not being paid is impacting the project.",
+        "The project is approaching a critical point of impact.",
+        "The Artemis II mission is a priority for NASA.",
+        "The financial issues are causing delays."
       ]
     },
     {
-      "id": "cluster_131",
+      "id": "cluster_133",
       "coverage": 1,
       "updated_at": "Tue, 28 Oct 2025 22:38:46 +0000",
       "title": "Westinghouse is claiming a nuclear deal would see $80B of new reactors",
-      "neutral_headline": "Westinghouse Claims Nuclear Deal Could See $80B in Reactors",
+      "neutral_headline": "Westinghouse Claims Nuclear Deal for New Reactors",
       "items": [
         {
           "source": "Ars Technica",
@@ -712,19 +702,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-526258466-1024x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "Westinghouse claims a nuclear deal could lead to $80 billion in new reactors.",
-        "Details about the agreement are remarkably sparse.",
-        "The announcement suggests a significant investment in nuclear energy.",
-        "The lack of specifics raises questions about the deal's feasibility.",
-        "The deal's impact on the nuclear energy landscape remains unclear."
+        "Westinghouse claims a nuclear deal for $80 billion in new reactors.",
+        "Details are remarkably sparse on what has been agreed to.",
+        "The deal involves the construction of new nuclear reactors.",
+        "The agreement is a significant development in the industry.",
+        "The specifics of the deal are not yet fully disclosed."
       ]
     },
     {
-      "id": "cluster_143",
+      "id": "cluster_145",
       "coverage": 1,
       "updated_at": "Tue, 28 Oct 2025 18:11:36 +0000",
       "title": "OpenAI data suggests 1 million users discuss suicide with ChatGPT weekly",
-      "neutral_headline": "OpenAI data suggests 1 million users discuss suicide with ChatGPT weekly",
+      "neutral_headline": "OpenAI Reports One Million Users Discuss Suicide Weekly",
       "items": [
         {
           "source": "Ars Technica",
@@ -740,19 +730,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/robot_therapy_1-1152x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "OpenAI data indicates approximately 1 million users discuss suicide weekly with ChatGPT.",
-        "Sensitive chats are rare but significant given the large user base of the AI.",
-        "The data highlights the potential for AI to be used in mental health discussions.",
-        "The findings raise ethical considerations regarding AI and mental health support.",
-        "OpenAI is likely to face scrutiny regarding its handling of sensitive conversations."
+        "OpenAI data indicates approximately one million users engage in suicide-related discussions weekly with ChatGPT.",
+        "Sensitive conversations are infrequent, but the large user base makes them statistically significant.",
+        "The company is working to improve safety protocols and mitigate potential harms.",
+        "OpenAI is actively monitoring and analyzing user interactions to identify concerning trends.",
+        "The company is committed to responsible AI development and user well-being."
       ]
     },
     {
-      "id": "cluster_129",
+      "id": "cluster_131",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 03:30:56 +0000",
       "title": "Mazda shows a rotary hybrid concept for Tokyo with evolved design language",
-      "neutral_headline": "Mazda Shows Rotary Hybrid Concept for Tokyo, Evolved Design",
+      "neutral_headline": "Mazda Unveils Rotary Hybrid Concept at Tokyo Motor Show",
       "items": [
         {
           "source": "Ars Technica",
@@ -768,19 +758,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/MAZDA_VISION_MODEL_3-X-COUPE-1152x648.jpg",
       "popularity_score": 139,
       "ai_summary": [
-        "Mazda is showcasing a rotary hybrid concept at the Tokyo Motor Show.",
-        "The concept features an evolved design language.",
-        "Ideas include algae-based fuels and carbon capture from exhaust.",
-        "The concept explores sustainable technologies for the future.",
-        "Mazda is demonstrating its commitment to innovation in the automotive industry."
+        "Mazda showcased a rotary hybrid concept at the Tokyo Motor Show with evolved design.",
+        "The concept explores algae-based fuels and carbon capture from exhaust.",
+        "The design language hints at future Mazda vehicle aesthetics.",
+        "Mazda continues to explore sustainable technologies for its vehicles.",
+        "The concept demonstrates Mazda's commitment to innovation and environmental responsibility."
       ]
     },
     {
-      "id": "cluster_105",
+      "id": "cluster_108",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 13:40:15 +0000",
       "title": "New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel",
-      "neutral_headline": "New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel",
+      "neutral_headline": "New Physical Attacks Compromise Secure Enclave Defenses",
       "items": [
         {
           "source": "Ars Technica",
@@ -794,21 +784,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/cpu-key-1152x648.jpg",
-      "popularity_score": 138.96009027777777,
+      "popularity_score": 135.35329611111112,
       "ai_summary": [
-        "New physical attacks are quickly weakening secure enclave defenses.",
-        "On-chip TEEs withstand rooted OSes but fall to cheap physical attacks.",
-        "The attacks target security features from Nvidia, AMD, and Intel.",
-        "The findings raise concerns about the security of hardware.",
-        "The research highlights vulnerabilities in current security measures."
+        "New physical attacks are quickly bypassing secure enclave defenses from Nvidia, AMD, and Intel.",
+        "On-chip Trusted Execution Environments (TEEs) resist rooted operating systems.",
+        "Cheap physical attacks instantly defeat on-chip TEE security measures.",
+        "Researchers are actively working to improve the security of these systems.",
+        "The attacks highlight vulnerabilities in hardware-based security solutions."
       ]
     },
     {
-      "id": "cluster_136",
+      "id": "cluster_138",
       "coverage": 1,
       "updated_at": "Tue, 28 Oct 2025 19:12:29 +0000",
       "title": "If things in America weren’t stupid enough, Texas is suing Tylenol maker",
-      "neutral_headline": "Texas Sues Tylenol Maker Over Autism Claim",
+      "neutral_headline": "Texas Sues Tylenol Maker Over Autism Claims",
       "items": [
         {
           "source": "Ars Technica",
@@ -824,19 +814,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2150327872-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Texas is suing the maker of Tylenol.",
-        "The lawsuit is based on an unproven claim that Tylenol causes autism.",
-        "The lawsuit is based on an unproven claim.",
-        "The case is likely to be highly contested.",
-        "The lawsuit could have significant implications for the company."
+        "Texas is suing the Tylenol maker, alleging the pain medicine causes autism.",
+        "The lawsuit is based on an unproven claim regarding the link between Tylenol and autism.",
+        "The scientific community has not established a definitive connection between the two.",
+        "The lawsuit is likely to face legal challenges due to the lack of scientific evidence.",
+        "The case highlights the ongoing debate surrounding the safety of medications."
       ]
     },
     {
-      "id": "cluster_141",
+      "id": "cluster_143",
       "coverage": 1,
       "updated_at": "Tue, 28 Oct 2025 18:30:32 +0000",
       "title": "An autonomous car for consumers? Lucid says it’s happening.",
-      "neutral_headline": "An autonomous car for consumers? Lucid says it’s happening",
+      "neutral_headline": "Lucid Announces Plans for Autonomous Consumer Cars",
       "items": [
         {
           "source": "Ars Technica",
@@ -852,19 +842,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/EMBARGO_Lucid_NVIDIA-GTC_IMAGE-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Lucid claims it will release an autonomous car for consumers.",
-        "Nvidia is working with Lucid on autonomous cars and future factories.",
-        "The partnership aims to bring self-driving technology to market.",
-        "The announcement suggests a shift toward autonomous vehicles.",
-        "The project could reshape the automotive industry."
+        "Lucid states it is developing autonomous cars for consumer markets.",
+        "Nvidia is collaborating with Lucid on autonomous vehicle technology.",
+        "Nvidia is also involved in Lucid's future factory development.",
+        "The partnership aims to accelerate the production of autonomous vehicles.",
+        "The announcement signals a move towards self-driving technology for consumers."
       ]
     },
     {
-      "id": "cluster_142",
+      "id": "cluster_144",
       "coverage": 1,
       "updated_at": "Tue, 28 Oct 2025 18:28:51 +0000",
       "title": "Senators move to keep Big Tech’s creepy companion bots away from kids",
-      "neutral_headline": "Senators propose law to limit Big Tech's companion bots for children",
+      "neutral_headline": "Senators Seek to Regulate Big Tech's Companion Bots",
       "items": [
         {
           "source": "Ars Technica",
@@ -880,19 +870,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1285352680-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Senators are working to regulate Big Tech's use of AI companion bots for children.",
-        "The proposed law aims to address potential risks associated with these bots.",
-        "Big Tech companies have expressed opposition to the proposed legislation.",
-        "Concerns include the potential for inappropriate interactions and exploitation.",
-        "The law is described as \"heavy-handed\" by the tech industry."
+        "Senators are proposing legislation to regulate Big Tech's companion bots for children.",
+        "The proposed law aims to protect children from potentially harmful interactions.",
+        "Big Tech companies immediately opposed the proposed legislation.",
+        "Concerns exist regarding the impact of these bots on children's development.",
+        "The debate highlights the ethical considerations of AI companions for children."
       ]
     },
     {
-      "id": "cluster_144",
+      "id": "cluster_146",
       "coverage": 1,
       "updated_at": "Tue, 28 Oct 2025 18:10:18 +0000",
       "title": "Samsung makes ads on $3,499 smart fridges official with upcoming software update",
-      "neutral_headline": "Samsung to add ads to smart fridges via software update",
+      "neutral_headline": "Samsung to Introduce Ads on Smart Fridges",
       "items": [
         {
           "source": "Ars Technica",
@@ -908,11 +898,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Samsung.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Samsung will introduce advertisements on its smart fridges through a software update.",
-        "The update will provide two methods for the fridges to display advertisements.",
-        "The ads will likely be integrated into the fridge's user interface.",
-        "This move represents an expansion of Samsung's advertising strategy.",
-        "The $3,499 smart fridges will be the initial recipients of the update."
+        "Samsung will officially introduce advertisements on its smart fridges.",
+        "The software update will provide two methods for displaying ads.",
+        "The ads will be integrated into the fridge's user interface.",
+        "The move is part of Samsung's strategy to monetize its smart appliances.",
+        "The update will likely raise privacy concerns among consumers."
       ]
     }
   ]
