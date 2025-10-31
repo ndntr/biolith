@@ -1,8 +1,8 @@
 {
-  "updated_at": "2025-10-31T03:43:39.972Z",
+  "updated_at": "2025-10-31T07:18:28.989Z",
   "clusters": [
     {
-      "id": "cluster_6",
+      "id": "cluster_12",
       "coverage": 2,
       "updated_at": "Thu, 30 Oct 2025 19:40:01 -0400",
       "title": "OpenAI starts to sell extra credits for Sora, which currently has a limit of 30 free gens per day; 10 video gens will retail for $4 through Apple's App Store (Anna Washenko/Engadget)",
@@ -15,7 +15,7 @@
           "title": "OpenAI starts to sell extra credits for Sora, which currently has a limit of 30 free gens per day; 10 video gens will retail for $4 through Apple's App Store (Anna Washenko/Engadget)",
           "standfirst": "Anna Washenko / Engadget: OpenAI starts to sell extra credits for Sora, which currently has a limit of 30 free gens per day; 10 video gens will retail for $4 through Apple's App Store &mdash; Expect more monetization moves from the company soon. &mdash; OpenAI has started selling power users extra credits for its Sora AI video generation tool.",
           "content": "Anna Washenko / Engadget: OpenAI starts to sell extra credits for Sora, which currently has a limit of 30 free gens per day; 10 video gens will retail for $4 through Apple's App Store &mdash; Expect more monetization moves from the company soon. &mdash; OpenAI has started selling power users extra credits for its Sora AI video generation tool.",
-          "feed_position": 5,
+          "feed_position": 8,
           "image_url": "http://www.techmeme.com/251030/i56.jpg"
         },
         {
@@ -38,21 +38,21 @@
         }
       ],
       "featured_image": "http://www.techmeme.com/251030/i56.jpg",
-      "popularity_score": 2015.9391744444445,
+      "popularity_score": 2012.3588919444444,
       "ai_summary": [
         "OpenAI is selling extra credits for its Sora AI video generation tool.",
-        "Users can purchase 10 video generations for $4 through the App Store.",
-        "The free generation limit is currently 30 per day, but may decrease.",
-        "OpenAI plans to monetize by licensing copyrighted material.",
-        "The company is facing a trademark infringement lawsuit from Cameo."
+        "Users can purchase 10 video generations for $4 through the Apple App Store.",
+        "The current limit is 30 free video generations per day.",
+        "OpenAI plans to reduce free generations to accommodate growth.",
+        "The company may allow licensing of copyrighted material for monetization."
       ]
     },
     {
-      "id": "cluster_20",
+      "id": "cluster_25",
       "coverage": 2,
       "updated_at": "Thu, 30 Oct 2025 21:07:00 GMT",
       "title": "Meet Aardvark, OpenAI’s security agent for code analysis and patching",
-      "neutral_headline": "Meet Aardvark, OpenAI’s security agent for code analysis and patching",
+      "neutral_headline": "OpenAI Introduces Aardvark Security Agent for Code Analysis",
       "items": [
         {
           "source": "VentureBeat",
@@ -200,64 +200,24 @@
           "content": "Enterprise AI agents today face a fundamental timing problem: They can&#x27;t easily act on critical business events because they aren&#x27;t always aware of them in real-time.The challenge is infrastructure. Most enterprise data lives in databases fed by extract-transform-load (ETL) jobs that run hourly or daily — ultimately too slow for agents that must respond in real time.One potential way to tackle that challenge is to have agents directly interface with streaming data systems. Among the primary approaches in use today are the open source Apache Kafka and Apache Flink technologies. There are multiple commercial implementations based on those technologies, too, Confluent, which is led by the original creators behind Kafka, being one of them.Today, Confluent is introducing a real-time context engine designed to solve this latency problem. The technology builds on Apache Kafka, the distributed event streaming platform that captures data as events occur, and open-source Apache Flink, the stream processing engine that transforms those events in real time.The company is also releasing an open-source framework, Flink Agents, developed in collaboration with Alibaba Cloud, LinkedIn and Ververica. The framework brings event-driven AI agent capabilities directly to Apache Flink, allowing organizations to build agents that monitor data streams and trigger automatically based on conditions without committing to Confluent&#x27;s managed platform.\"Today, most enterprise AI systems can&#x27;t respond automatically to important events in a business without someone prompting them first,\" Sean Falconer, Confluent&#x27;s head of AI, told VentureBeat. \"This leads to lost revenue, unhappy customers or added risk when a payment fails or a network malfunctions.\"The significance extends beyond Confluent&#x27;s specific products. The industry is recognizing that AI agents require different data infrastructure than traditional applications. Agents don&#x27;t just retrieve information when asked. They need to observe continuous streams of business events and act automatically when conditions warrant. This requires streaming architecture, not batch pipelines.Batch versus streaming: Why RAG alone isn&#x27;t enoughTo understand the problem, it&#x27;s important to distinguish between the different approaches to moving data through enterprise systems and how they can connect to agentic AI.In batch processing, data accumulates in source systems until a scheduled job runs. That job extracts the data, transforms it and loads it into a target database or data warehouse. This might occur hourly, daily or even weekly. The approach works well for analytical workloads, but it creates latency between when something happens in the business and when systems can act on it.Data streaming inverts this model. Instead of waiting for scheduled jobs, streaming platforms like Apache Kafka capture events as they occur. Each database update, user action, transaction or sensor reading becomes an event published to a stream. Apache Flink then processes these streams to join, filter and aggregate data in real time. The result is processed data that reflects the current state of the business, updating continuously as new events arrive.This distinction becomes critical when you consider what kinds of context AI agents actually need. Much of the current enterprise AI discussion focuses on retrieval-augmented generation (RAG), which handles semantic search over knowledge bases to find relevant documentation, policies or historical information. RAG works well for questions like \"What&#x27;s our refund policy?\" where the answer exists in static documents.But many enterprise use cases require what Falconer calls \"structural context\" — precise, up-to-date information from multiple operational systems stitched together in real time. Consider a job recommendation agent that requires user profile data from the HR database, browsing behavior from the last hour, search queries from minutes ago and current open positions across multiple systems.\"The part that we&#x27;re unlocking for businesses is the ability to essentially serve that structural context needed to deliver the freshest version,\" Falconer said.The MCP connection problem: Stale data and fragmented contextThe challenge isn&#x27;t simply connecting AI to enterprise data. Model Context Protocol (MCP), introduced by Anthropic earlier this year, already standardized how agents access data sources. The problem is what happens after the connection is made.In most enterprise architectures today, AI agents connect via MCP to data lakes or warehouses fed by batch ETL pipelines. This creates two critical failures: The data is stale, reflecting yesterday&#x27;s reality rather than current events, and it&#x27;s fragmented across multiple systems, requiring significant preprocessing before an agent can reason about it effectively.The alternative — putting MCP servers directly in front of operational databases and APIs — creates different problems. Those endpoints weren&#x27;t designed for agent consumption, which can lead to high token costs as agents process excessive raw data and multiple inference loops as they try to make sense of unstructured responses.\"Enterprises have the data, but it&#x27;s often stale, fragmented or locked in formats that AI can&#x27;t use effectively,\" Falconer explained. \"The real-time context engine solves this by unifying data processing, reprocessing and serving, turning continuous data streams into live context for smarter, faster and more reliable AI decisions.\"The technical architecture: Three layers for real-time agent contextConfluent&#x27;s platform encompasses three elements that work together or adopted separately.The real-time context engine is the managed data infrastructure layer on Confluent Cloud. Connectors pull data into Kafka topics as events occur. Flink jobs process these streams into \"derived datasets\" — materialized views joining historical and real-time signals. For customer support, this might combine account history, current session behavior and inventory status into one unified context object. The Engine exposes this through a managed MCP server.Streaming agents is Confluent&#x27;s proprietary framework for building AI agents that run natively on Flink. These agents monitor data streams and trigger automatically based on conditions — they don&#x27;t wait for prompts. The framework includes simplified agent definitions, built-in observability and native Claude integration from Anthropic. It&#x27;s available in open preview on Confluent&#x27;s platform.Flink Agents is the open-source framework developed with Alibaba Cloud, LinkedIn and Ververica. It brings event-driven agent capabilities directly to Apache Flink, allowing organizations to build streaming agents without committing to Confluent&#x27;s managed platform. They handle operational complexity themselves but avoid vendor lock-in.Competition heats up for agent-ready data infrastructureConfluent isn&#x27;t alone in recognizing that AI agents need different data infrastructure. The day before Confluent&#x27;s announcement, rival Redpanda introduced its own Agentic Data Plane — combining streaming, SQL and governance specifically for AI agents. Redpanda acquired Oxla&#x27;s distributed SQL engine to give agents standard SQL endpoints for querying data in motion or at rest. The platform emphasizes MCP-aware connectivity, full observability of agent interactions and what it calls \"agentic access control\" with fine-grained, short-lived tokens.The architectural approaches differ. Confluent emphasizes stream processing with Flink to create derived datasets optimized for agents. Redpanda emphasizes federated SQL querying across disparate sources. Both recognize agents need real-time context with governance and observability.Beyond direct streaming competitors, Databricks and Snowflake are fundamentally analytical platforms adding streaming capabilities. Their strength is complex queries over large datasets, with streaming as an enhancement. Confluent and Redpanda invert this: Streaming is the foundation, with analytical and AI workloads built on top of data in motion.How streaming context works in practiceAmong the users of Confluent&#x27;s system is transportation vendor Busie. The company is building a modern operating system for charter bus companies that helps them manage quotes, trips, payments and drivers in real time. \"Data streaming is what makes that possible,\" Louis Bookoff, Busie co-founder and CEO told VentureBeat. \"Using Confluent, we move data instantly between different parts of our system instead of waiting for overnight updates or batch reports. That keeps everything in sync and helps us ship new features faster.Bookoff noted that the same foundation is what will make gen AI valuable for his customers.\"In our case, every action like a quote sent or a driver assigned becomes an event that streams through the system immediately,\" Bookoff said. \"That live feed of information is what will let our AI tools respond in real time with low latency rather than just summarize what already happened.\"The challenge, however, is how to understand context. When thousands of live events flow through the system every minute, AI models need relevant, accurate data without getting overwhelmed. \"If the data isn&#x27;t grounded in what is happening in the real world, AI can easily make wrong assumptions and in turn take wrong actions,\" Bookoff said. \"Stream processing solves that by continuously validating and reconciling live data against activity in Busie.\"What this means for enterprise AI strategyStreaming context architecture signals a fundamental shift in how AI agents consume enterprise data. AI agents require continuous context that blends historical understanding with real-time awareness — they need to know what happened, what&#x27;s happening and what might happen next, all at once.For enterprises evaluating this approach, start by identifying use cases where data staleness breaks the agent. Fraud detection, anomaly investigation and real-time customer intervention fail with batch pipelines that refresh hourly or daily. If your agents need to act on events within seconds or minutes of them occurring, streaming context becomes necessary rather than optional.\"When you&#x27;re building applications on top of foundation models, because they&#x27;re inherently probabilistic, you use data and context to steer the model in a direction where you want to get some kind of outcome,\" Falconer said. \"The better you can do that, the more reliable and better the outcome.\"",
           "feed_position": 5,
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/sMKzhGAOWD3jIgUIXU3sF/dc476ec50bb21f290514114b8465106b/data_streaming_to_AI-smk.jpg?w=300&q=30"
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/ai/geostar-pioneers-geo-as-traditional-seo-faces-25-decline-from-ai-chatbots",
-          "published_at": "Wed, 29 Oct 2025 07:00:00 GMT",
-          "title": "Geostar pioneers GEO as traditional SEO faces 25% decline from AI chatbots, Gartner says",
-          "standfirst": "The moment Mack McConnell knew everything about search had changed came last summer at the Paris Olympics. His parents, independently and without prompting, had both turned to ChatGPT to plan their day&#x27;s activities in the French capital. The AI recommended specific tour companies, restaurants, and attractions — businesses that had won a new kind of visibility lottery.\"It was almost like this intuitive interface that older people were as comfortable with using as younger people,\" McConnell recalled in an exclusive interview with VentureBeat. \"I could just see the businesses were now being recommended.\"That observation has now become the foundation of Geostar, a Pear VC-backed startup that&#x27;s racing to help businesses navigate what may be the most significant shift in online discovery since Google&#x27;s founding. The company, which recently emerged from stealth with impressive early customer traction, is betting that the rise of AI-powered search represents a significant opportunity to reinvent how companies get found online. The global AI search engine market alone is projected to grow from $43.63 billion in 2025 to $108.88 billion by 2032.Already the fastest-growing company in PearX&#x27;s latest cohort, Geostar is fast approaching $1 million in annual recurring revenue in just four months — with only two founders and no employees.Why Gartner predicts traditional search volume will decline 25% by 2026The numbers tell a stark story of disruption. Gartner predicts that traditional search engine volume will decline by 25% by 2026, largely due to the rise of AI chatbots. Google&#x27;s AI Overviews now appear on billions of searches monthly. Princeton University researchers have found that optimizing for these new AI systems can increase visibility by up to 40%.\"Search used to mean that you had to make Google happy,\" McConnell explained. \"But now you have to optimize for four different Google interfaces — traditional search, AI Mode, Gemini, and AI Overviews — each with different criteria. And then ChatGPT, Claude, and Perplexity each work differently on top of that.\"This fragmentation is creating chaos for businesses that have spent decades perfecting their Google search strategies. A recent Forrester study found that 95% of B2B buyers plan to use generative AI in future purchase decisions. Yet most companies remain woefully unprepared for this shift.\"Anybody who&#x27;s not on this right now is losing out,\" said Cihan Tas, Geostar&#x27;s co-founder and chief technology officer. \"We see lawyers getting 50% of their clients through ChatGPT now. It&#x27;s just such a massive shift.\"How language models read the web differently than search engines ever didWhat Geostar and a growing cohort of competitors call Generative Engine Optimization or GEO represents a fundamental departure from traditional search engine optimization. Where SEO focused primarily on keywords and backlinks, GEO requires understanding how large language models parse, understand, and synthesize information across the entire web.The technical challenges are formidable. Every website must now function as what Tas calls \"its own little database\" capable of being understood by dozens of different AI crawlers, each with unique requirements and preferences. Google&#x27;s systems pull from their existing search index. ChatGPT relies heavily on structured data and specific content formats. Perplexity shows a marked preference for Wikipedia and authoritative sources.\"Now the strategy is actually being concise, clear, and answering the question, because that&#x27;s directly what the AI is looking for,\" Tas explained. \"You&#x27;re actually tuning for somewhat of an intelligent model that makes decisions similarly to how we make decisions.\"Consider schema markup, the structured data that helps machines understand web content. While only 30% of websites currently implement comprehensive schema, research shows that pages with proper markup are 36% more likely to appear in AI-generated summaries. Yet most businesses don&#x27;t even know what schema markup is, let alone how to implement it effectively.Inside Geostar&#x27;s AI agents that optimize websites continuously without human interventionGeostar&#x27;s solution embodies a broader trend in enterprise software: the rise of autonomous AI agents that can take action on behalf of businesses. The company embeds what it calls \"ambient agents\" directly into client websites, continuously optimizing content, technical configurations, and even creating new pages based on patterns learned across its entire customer base.\"Once we learn something about the way content performs, or the way a technical optimization performs, we can then syndicate that same change across the remaining users so everyone in the network benefits,\" McConnell said.For RedSift, a cybersecurity company, this approach yielded a 27% increase in AI mentions within three months. In one case, Geostar identified an opportunity to rank for \"best DMARC vendors,\" a high-value search term in the email security space. The company&#x27;s agents created and optimized content that achieved first-page rankings on both Google and ChatGPT within four days.\"We&#x27;re doing the work of an agency that charges $10,000 a month,\" McConnell said, noting that Geostar&#x27;s pricing ranges from $1,000 to $3,000 monthly. \"AI creates a situation where, for the first time ever, you can take action like an agency, but you can scale like software.\"Why brand mentions without links now matter more than ever in the AI eraThe implications of this shift extend far beyond technical optimizations. In the SEO era, a mention without a link was essentially worthless. In the age of AI, that calculus has reversed. AI systems can analyze vast amounts of text to understand sentiment and context, meaning that brand mentions on Reddit, in news articles, or across social media now directly influence how AI systems describe and recommend companies.\"If the New York Times mentions a company without linking to it, that company would actually benefit from that in an AI system,\" McConnell explained. \"AI has the ability to do mass analysis of huge amounts of text, and it will understand the sentiment around that mention.\"This has created new vulnerabilities. Research from the Indian Institute of Technology and Princeton found that AI systems show systematic bias toward third-party sources over brand-owned content. A company&#x27;s own website might be less influential in shaping AI perceptions than what others say about it online.The shifting landscape has also disrupted traditional metrics of success. Where SEO focused on rankings and click-through rates, GEO must account for what researchers call impression metrics — how prominently and positively a brand appears within AI-generated responses, even when users never click through to the source.A growing market as SEO veterans and new players rush to dominate AI optimizationGeostar is hardly alone in recognizing this opportunity. Companies like Brandlight, Profound, and Goodie are all racing to help businesses navigate the new landscape. The SEO industry, worth approximately $80 billion globally, is scrambling to adapt, with established players like Semrush and Ahrefs rushing to add AI visibility tracking features.But the company&#x27;s founders, who previously built and sold a Y-Combinator-backed e-commerce optimization startup called Monto, believe their technical approach gives them an edge. Unlike competitors who largely provide dashboards and recommendations, Geostar&#x27;s agents actively implement changes.\"Everyone is taking the same solutions that worked in the last era and just saying, &#x27;We&#x27;ll do this for AI instead,&#x27;\" McConnell argued. \"But when you think about what AI is truly capable of, it can actually do the work for you.\"The stakes are particularly high for small and medium-sized businesses. While large corporations can afford to hire specialized consultants or build internal expertise, smaller companies risk becoming invisible in AI-mediated search. Geostar sees this as its primary market opportunity: nearly half of the 33.2 million small businesses in America invest in SEO. Among the roughly 418,000 law firms in the U.S., many spend between $2,500 and $5,000 monthly on search optimization to stay competitive in local markets.From Kurdish village to PearX: The unlikely partnership building the future of searchFor Tas, whose journey to Silicon Valley began in a tiny Kurdish village in Turkey with just 50 residents, the current moment represents both opportunity and responsibility. His mother&#x27;s battle with cancer prevented him from finishing college, leading him to teach himself programming and eventually partner with McConnell — whom he worked with for an entire year before they ever met in person.\"We&#x27;re not just copy and pasting a solution that was existing before,\" Tas emphasized. \"This is something that&#x27;s different and was uniquely possible today.\"Looking forward, the transformation of search appears to be accelerating rather than stabilizing. Industry observers predict that search functionality will soon be embedded in productivity tools, wearables, and even augmented reality interfaces. Each new surface will likely have its own optimization requirements, further complicating the landscape.\"Soon, search will be in our eyes, in our ears,\" McConnell predicted. \"When Siri breaks out of her prison, whatever that Jony Ive and OpenAI are building together will be like a multimodal search interface.\"The technical challenges are matched by ethical ones. As businesses scramble to influence AI recommendations, questions arise about manipulation, fairness, and transparency. There&#x27;s currently no oversight body or established best practices for GEO, creating what some critics describe as a Wild West environment.As businesses grapple with these changes, one thing seems certain: the era of simply optimizing for Google is over. In its place is emerging a far more complex ecosystem where success requires understanding not just how machines index information, but how they think about it, synthesize it, and ultimately decide what to recommend to humans seeking answers.For the millions of businesses whose survival depends on being discovered online, mastering this new paradigm isn&#x27;t just an opportunity — it&#x27;s an existential imperative. The question is no longer whether to optimize for AI search, but whether companies can adapt quickly enough to remain visible as the pace of change accelerates.McConnell&#x27;s parents at the Olympics were a preview of what&#x27;s already becoming the norm. They didn&#x27;t search for tour companies in Paris. They didn&#x27;t scroll through results or click on links. They simply asked ChatGPT what to do — and the AI decided which businesses deserved their attention.In the new economy of discovery, the businesses that win won&#x27;t be the ones that rank highest. They&#x27;ll be the ones AI chooses to recommend.",
-          "content": "The moment Mack McConnell knew everything about search had changed came last summer at the Paris Olympics. His parents, independently and without prompting, had both turned to ChatGPT to plan their day&#x27;s activities in the French capital. The AI recommended specific tour companies, restaurants, and attractions — businesses that had won a new kind of visibility lottery.\"It was almost like this intuitive interface that older people were as comfortable with using as younger people,\" McConnell recalled in an exclusive interview with VentureBeat. \"I could just see the businesses were now being recommended.\"That observation has now become the foundation of Geostar, a Pear VC-backed startup that&#x27;s racing to help businesses navigate what may be the most significant shift in online discovery since Google&#x27;s founding. The company, which recently emerged from stealth with impressive early customer traction, is betting that the rise of AI-powered search represents a significant opportunity to reinvent how companies get found online. The global AI search engine market alone is projected to grow from $43.63 billion in 2025 to $108.88 billion by 2032.Already the fastest-growing company in PearX&#x27;s latest cohort, Geostar is fast approaching $1 million in annual recurring revenue in just four months — with only two founders and no employees.Why Gartner predicts traditional search volume will decline 25% by 2026The numbers tell a stark story of disruption. Gartner predicts that traditional search engine volume will decline by 25% by 2026, largely due to the rise of AI chatbots. Google&#x27;s AI Overviews now appear on billions of searches monthly. Princeton University researchers have found that optimizing for these new AI systems can increase visibility by up to 40%.\"Search used to mean that you had to make Google happy,\" McConnell explained. \"But now you have to optimize for four different Google interfaces — traditional search, AI Mode, Gemini, and AI Overviews — each with different criteria. And then ChatGPT, Claude, and Perplexity each work differently on top of that.\"This fragmentation is creating chaos for businesses that have spent decades perfecting their Google search strategies. A recent Forrester study found that 95% of B2B buyers plan to use generative AI in future purchase decisions. Yet most companies remain woefully unprepared for this shift.\"Anybody who&#x27;s not on this right now is losing out,\" said Cihan Tas, Geostar&#x27;s co-founder and chief technology officer. \"We see lawyers getting 50% of their clients through ChatGPT now. It&#x27;s just such a massive shift.\"How language models read the web differently than search engines ever didWhat Geostar and a growing cohort of competitors call Generative Engine Optimization or GEO represents a fundamental departure from traditional search engine optimization. Where SEO focused primarily on keywords and backlinks, GEO requires understanding how large language models parse, understand, and synthesize information across the entire web.The technical challenges are formidable. Every website must now function as what Tas calls \"its own little database\" capable of being understood by dozens of different AI crawlers, each with unique requirements and preferences. Google&#x27;s systems pull from their existing search index. ChatGPT relies heavily on structured data and specific content formats. Perplexity shows a marked preference for Wikipedia and authoritative sources.\"Now the strategy is actually being concise, clear, and answering the question, because that&#x27;s directly what the AI is looking for,\" Tas explained. \"You&#x27;re actually tuning for somewhat of an intelligent model that makes decisions similarly to how we make decisions.\"Consider schema markup, the structured data that helps machines understand web content. While only 30% of websites currently implement comprehensive schema, research shows that pages with proper markup are 36% more likely to appear in AI-generated summaries. Yet most businesses don&#x27;t even know what schema markup is, let alone how to implement it effectively.Inside Geostar&#x27;s AI agents that optimize websites continuously without human interventionGeostar&#x27;s solution embodies a broader trend in enterprise software: the rise of autonomous AI agents that can take action on behalf of businesses. The company embeds what it calls \"ambient agents\" directly into client websites, continuously optimizing content, technical configurations, and even creating new pages based on patterns learned across its entire customer base.\"Once we learn something about the way content performs, or the way a technical optimization performs, we can then syndicate that same change across the remaining users so everyone in the network benefits,\" McConnell said.For RedSift, a cybersecurity company, this approach yielded a 27% increase in AI mentions within three months. In one case, Geostar identified an opportunity to rank for \"best DMARC vendors,\" a high-value search term in the email security space. The company&#x27;s agents created and optimized content that achieved first-page rankings on both Google and ChatGPT within four days.\"We&#x27;re doing the work of an agency that charges $10,000 a month,\" McConnell said, noting that Geostar&#x27;s pricing ranges from $1,000 to $3,000 monthly. \"AI creates a situation where, for the first time ever, you can take action like an agency, but you can scale like software.\"Why brand mentions without links now matter more than ever in the AI eraThe implications of this shift extend far beyond technical optimizations. In the SEO era, a mention without a link was essentially worthless. In the age of AI, that calculus has reversed. AI systems can analyze vast amounts of text to understand sentiment and context, meaning that brand mentions on Reddit, in news articles, or across social media now directly influence how AI systems describe and recommend companies.\"If the New York Times mentions a company without linking to it, that company would actually benefit from that in an AI system,\" McConnell explained. \"AI has the ability to do mass analysis of huge amounts of text, and it will understand the sentiment around that mention.\"This has created new vulnerabilities. Research from the Indian Institute of Technology and Princeton found that AI systems show systematic bias toward third-party sources over brand-owned content. A company&#x27;s own website might be less influential in shaping AI perceptions than what others say about it online.The shifting landscape has also disrupted traditional metrics of success. Where SEO focused on rankings and click-through rates, GEO must account for what researchers call impression metrics — how prominently and positively a brand appears within AI-generated responses, even when users never click through to the source.A growing market as SEO veterans and new players rush to dominate AI optimizationGeostar is hardly alone in recognizing this opportunity. Companies like Brandlight, Profound, and Goodie are all racing to help businesses navigate the new landscape. The SEO industry, worth approximately $80 billion globally, is scrambling to adapt, with established players like Semrush and Ahrefs rushing to add AI visibility tracking features.But the company&#x27;s founders, who previously built and sold a Y-Combinator-backed e-commerce optimization startup called Monto, believe their technical approach gives them an edge. Unlike competitors who largely provide dashboards and recommendations, Geostar&#x27;s agents actively implement changes.\"Everyone is taking the same solutions that worked in the last era and just saying, &#x27;We&#x27;ll do this for AI instead,&#x27;\" McConnell argued. \"But when you think about what AI is truly capable of, it can actually do the work for you.\"The stakes are particularly high for small and medium-sized businesses. While large corporations can afford to hire specialized consultants or build internal expertise, smaller companies risk becoming invisible in AI-mediated search. Geostar sees this as its primary market opportunity: nearly half of the 33.2 million small businesses in America invest in SEO. Among the roughly 418,000 law firms in the U.S., many spend between $2,500 and $5,000 monthly on search optimization to stay competitive in local markets.From Kurdish village to PearX: The unlikely partnership building the future of searchFor Tas, whose journey to Silicon Valley began in a tiny Kurdish village in Turkey with just 50 residents, the current moment represents both opportunity and responsibility. His mother&#x27;s battle with cancer prevented him from finishing college, leading him to teach himself programming and eventually partner with McConnell — whom he worked with for an entire year before they ever met in person.\"We&#x27;re not just copy and pasting a solution that was existing before,\" Tas emphasized. \"This is something that&#x27;s different and was uniquely possible today.\"Looking forward, the transformation of search appears to be accelerating rather than stabilizing. Industry observers predict that search functionality will soon be embedded in productivity tools, wearables, and even augmented reality interfaces. Each new surface will likely have its own optimization requirements, further complicating the landscape.\"Soon, search will be in our eyes, in our ears,\" McConnell predicted. \"When Siri breaks out of her prison, whatever that Jony Ive and OpenAI are building together will be like a multimodal search interface.\"The technical challenges are matched by ethical ones. As businesses scramble to influence AI recommendations, questions arise about manipulation, fairness, and transparency. There&#x27;s currently no oversight body or established best practices for GEO, creating what some critics describe as a Wild West environment.As businesses grapple with these changes, one thing seems certain: the era of simply optimizing for Google is over. In its place is emerging a far more complex ecosystem where success requires understanding not just how machines index information, but how they think about it, synthesize it, and ultimately decide what to recommend to humans seeking answers.For the millions of businesses whose survival depends on being discovered online, mastering this new paradigm isn&#x27;t just an opportunity — it&#x27;s an existential imperative. The question is no longer whether to optimize for AI search, but whether companies can adapt quickly enough to remain visible as the pace of change accelerates.McConnell&#x27;s parents at the Olympics were a preview of what&#x27;s already becoming the norm. They didn&#x27;t search for tour companies in Paris. They didn&#x27;t scroll through results or click on links. They simply asked ChatGPT what to do — and the AI decided which businesses deserved their attention.In the new economy of discovery, the businesses that win won&#x27;t be the ones that rank highest. They&#x27;ll be the ones AI chooses to recommend.",
-          "feed_position": 6,
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5JXMNBhUMiSimHDDeX6ODt/2793b1842c2ef9825b7127d7bbd65f4f/_Geostar-2.jpg?w=300&q=30"
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/ai/from-static-classifiers-to-reasoning-engines-openais-new-model-rethinks",
-          "published_at": "Wed, 29 Oct 2025 04:00:00 GMT",
-          "title": "From static classifiers to reasoning engines: OpenAI’s new model rethinks content moderation",
-          "standfirst": "Enterprises, eager to ensure any AI models they use adhere to safety and safe-use policies, fine-tune LLMs so they do not respond to unwanted queries. However, much of the safeguarding and red teaming happens before deployment, “baking in” policies before users fully test the models’ capabilities in production. OpenAI believes it can offer a more flexible option for enterprises and encourage more companies to bring in safety policies. The company has released two open-weight models under research preview that it believes will make enterprises and models more flexible in terms of safeguards. gpt-oss-safeguard-120b and gpt-oss-safeguard-20b will be available on a permissive Apache 2.0 license. The models are fine-tuned versions of OpenAI’s open-source gpt-oss, released in August, marking the first release in the oss family since the summer.In a blog post, OpenAI said oss-safeguard uses reasoning “to directly interpret a developer-provider policy at inference time — classifying user messages, completions and full chats according to the developer’s needs.”The company explained that, since the model uses a chain-of-thought (CoT), developers can get explanations of the model&#x27;s decisions for review. “Additionally, the policy is provided during inference, rather than being trained into the model, so it is easy for developers to iteratively revise policies to increase performance,\" OpenAI said in its post. \"This approach, which we initially developed for internal use, is significantly more flexible than the traditional method of training a classifier to indirectly infer a decision boundary from a large number of labeled examples.\" Developers can download both models from Hugging Face. Flexibility versus baking inAt the onset, AI models will not know a company’s preferred safety triggers. While model providers do red-team models and platforms, these safeguards are intended for broader use. Companies like Microsoft and Amazon Web Services even offer platforms to bring guardrails to AI applications and agents. Enterprises use safety classifiers to help train a model to recognize patterns of good or bad inputs. This helps the models learn which queries they shouldn’t reply to. It also helps ensure that the models do not drift and answer accurately.“Traditional classifiers can have high performance, with low latency and operating cost,\" OpenAI said. \"But gathering a sufficient quantity of training examples can be time-consuming and costly, and updating or changing the policy requires re-training the classifier.\"The models takes in two inputs at once before it outputs a conclusion on where the content fails. It takes a policy and the content to classify under its guidelines. OpenAI said the models work best in situations where: The potential harm is emerging or evolving, and policies need to adapt quickly.The domain is highly nuanced and difficult for smaller classifiers to handle.Developers don’t have enough samples to train a high-quality classifier for each risk on their platform.Latency is less important than producing high-quality, explainable labels.The company said gpt-oss-safeguard “is different because its reasoning capabilities allow developers to apply any policy,” even ones they’ve written during inference. The models are based on OpenAI’s internal tool, the Safety Reasoner, which enables its teams to be more iterative in setting guardrails. They often begin with very strict safety policies, “and use relatively large amounts of compute where needed,” then adjust policies as they move the model through production and risk assessments change. Performing safetyOpenAI said the gpt-oss-safeguard models outperformed its GPT-5-thinking and the original gpt-oss models on multipolicy accuracy based on benchmark testing. It also ran the models on the ToxicChat public benchmark, where they performed well, although GPT-5-thinking and the Safety Reasoner slightly edged them out.But there is concern that this approach could bring a centralization of safety standards.“Safety is not a well-defined concept. Any implementation of safety standards will reflect the values and priorities of the organization that creates it, as well as the limits and deficiencies of its models,” said John Thickstun, an assistant professor of computer science at Cornell University. “If industry as a whole adopts standards developed by OpenAI, we risk institutionalizing one particular perspective on safety and short-circuiting broader investigations into the safety needs for AI deployments across many sectors of society.”It should also be noted that OpenAI did not release the base model for the oss family of models, so developers cannot fully iterate on them. OpenAI, however, is confident that the developer community can help refine gpt-oss-safeguard. It will host a Hackathon on December 8 in San Francisco.",
-          "content": "Enterprises, eager to ensure any AI models they use adhere to safety and safe-use policies, fine-tune LLMs so they do not respond to unwanted queries. However, much of the safeguarding and red teaming happens before deployment, “baking in” policies before users fully test the models’ capabilities in production. OpenAI believes it can offer a more flexible option for enterprises and encourage more companies to bring in safety policies. The company has released two open-weight models under research preview that it believes will make enterprises and models more flexible in terms of safeguards. gpt-oss-safeguard-120b and gpt-oss-safeguard-20b will be available on a permissive Apache 2.0 license. The models are fine-tuned versions of OpenAI’s open-source gpt-oss, released in August, marking the first release in the oss family since the summer.In a blog post, OpenAI said oss-safeguard uses reasoning “to directly interpret a developer-provider policy at inference time — classifying user messages, completions and full chats according to the developer’s needs.”The company explained that, since the model uses a chain-of-thought (CoT), developers can get explanations of the model&#x27;s decisions for review. “Additionally, the policy is provided during inference, rather than being trained into the model, so it is easy for developers to iteratively revise policies to increase performance,\" OpenAI said in its post. \"This approach, which we initially developed for internal use, is significantly more flexible than the traditional method of training a classifier to indirectly infer a decision boundary from a large number of labeled examples.\" Developers can download both models from Hugging Face. Flexibility versus baking inAt the onset, AI models will not know a company’s preferred safety triggers. While model providers do red-team models and platforms, these safeguards are intended for broader use. Companies like Microsoft and Amazon Web Services even offer platforms to bring guardrails to AI applications and agents. Enterprises use safety classifiers to help train a model to recognize patterns of good or bad inputs. This helps the models learn which queries they shouldn’t reply to. It also helps ensure that the models do not drift and answer accurately.“Traditional classifiers can have high performance, with low latency and operating cost,\" OpenAI said. \"But gathering a sufficient quantity of training examples can be time-consuming and costly, and updating or changing the policy requires re-training the classifier.\"The models takes in two inputs at once before it outputs a conclusion on where the content fails. It takes a policy and the content to classify under its guidelines. OpenAI said the models work best in situations where: The potential harm is emerging or evolving, and policies need to adapt quickly.The domain is highly nuanced and difficult for smaller classifiers to handle.Developers don’t have enough samples to train a high-quality classifier for each risk on their platform.Latency is less important than producing high-quality, explainable labels.The company said gpt-oss-safeguard “is different because its reasoning capabilities allow developers to apply any policy,” even ones they’ve written during inference. The models are based on OpenAI’s internal tool, the Safety Reasoner, which enables its teams to be more iterative in setting guardrails. They often begin with very strict safety policies, “and use relatively large amounts of compute where needed,” then adjust policies as they move the model through production and risk assessments change. Performing safetyOpenAI said the gpt-oss-safeguard models outperformed its GPT-5-thinking and the original gpt-oss models on multipolicy accuracy based on benchmark testing. It also ran the models on the ToxicChat public benchmark, where they performed well, although GPT-5-thinking and the Safety Reasoner slightly edged them out.But there is concern that this approach could bring a centralization of safety standards.“Safety is not a well-defined concept. Any implementation of safety standards will reflect the values and priorities of the organization that creates it, as well as the limits and deficiencies of its models,” said John Thickstun, an assistant professor of computer science at Cornell University. “If industry as a whole adopts standards developed by OpenAI, we risk institutionalizing one particular perspective on safety and short-circuiting broader investigations into the safety needs for AI deployments across many sectors of society.”It should also be noted that OpenAI did not release the base model for the oss family of models, so developers cannot fully iterate on them. OpenAI, however, is confident that the developer community can help refine gpt-oss-safeguard. It will host a Hackathon on December 8 in San Francisco.",
-          "feed_position": 7,
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7hdJbWzLDjzRu2QOtkbDKV/a3a7d637a3e748ccb3ff4ba06e1ff953/crimedy7_illustration_of_technological_safety_cones_--ar_169__cf756a3e-79a5-47c3-993d-cdb5f37f28a2_3.png?w=300&q=30"
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/security/securitys-ai-dilemma-moving-faster-while-risking-more",
-          "published_at": "Wed, 29 Oct 2025 04:00:00 GMT",
-          "title": "Security's AI dilemma: Moving faster while risking more",
-          "standfirst": "Presented by Splunk, a Cisco CompanyAs AI rapidly evolves from a theoretical promise to an operational reality, CISOs and CIOs face a fundamental challenge: how to harness AI&#x27;s transformative potential while maintaining the human oversight and strategic thinking that security demands. The rise of agentic AI is reshaping security operations, but success requires balancing automation with accountability.The efficiency paradox: Automation without abdicationThe pressure to adopt AI is intense. Organizations are being pushed to reduce headcount or redirect resources toward AI-driven initiatives, often without fully understanding what that transformation entails. The promise is compelling: AI can reduce investigation times from 60 minutes to just 5 minutes, potentially delivering 10x productivity improvements for security analysts.However, the critical question isn&#x27;t whether AI can automate tasks — it&#x27;s which tasks should be automated and where human judgment remains irreplaceable. The answer lies in understanding that AI excels at accelerating investigative workflows, but remediation and response actions still require human validation. Taking a system offline or quarantining an endpoint can have massive business impact. An AI making that call autonomously could inadvertently cause the very disruption it&#x27;s meant to prevent.The goal isn&#x27;t to replace security analysts but to free them for higher-value work. With routine alert triage automated, analysts can focus on red team/blue team exercises, collaborate with engineering teams on remediation, and engage in proactive threat hunting. There&#x27;s no shortage of security problems to solve — there&#x27;s a shortage of security experts to address them strategically.The trust deficit: Showing your workWhile confidence in AI&#x27;s ability to improve efficiency is high, skepticism about the quality of AI-driven decisions remains significant. Security teams need more than just AI-generated conclusions — they need transparency into how those conclusions were reached.When AI determines an alert is benign and closes it, SOC analysts need to understand the investigative steps that led to that determination. What data was examined? What patterns were identified? What alternative explanations were considered and ruled out?This transparency builds trust in AI recommendations, enables validation of AI logic, and creates opportunities for continuous improvement. Most importantly, it maintains the critical human-in-the-loop for complex judgment calls that require nuanced understanding of business context, compliance requirements, and potential cascading impacts.The future likely involves a hybrid model where autonomous capabilities are integrated into guided workflows and playbooks, with analysts remaining involved in complex decisions. The adversarial advantage: Fighting AI with AI — carefullyAI presents a dual-edged sword in security. While we&#x27;re carefully implementing AI with appropriate guardrails, adversaries face no such constraints. AI lowers the barrier to entry for attackers, enabling rapid exploit development and vulnerability discovery at scale. What was once the domain of sophisticated threat actors could soon be accessible to script kiddies armed with AI tools.The asymmetry is striking: defenders must be thoughtful and risk-averse, while attackers can experiment freely. If we make a mistake implementing autonomous security responses, we risk taking down production systems. If an attacker&#x27;s AI-driven exploit fails, they simply try again with no consequences.This creates an imperative to use AI defensively, but with appropriate caution. We must learn from attackers&#x27; techniques while maintaining the guardrails that prevent our AI from becoming the vulnerability. The recent emergence of malicious MCP (Model Context Protocol) supply chain attacks demonstrates how quickly adversaries exploit new AI infrastructure. The skills dilemma: Building capabilities while maintaining core competenciesAs AI handles more routine investigative work, a concerning question emerges: will security professionals&#x27; fundamental skills atrophy over time? This isn&#x27;t an argument against AI adoption — it&#x27;s a call for intentional skill development strategies. Organizations must balance AI-enabled efficiency with programs that maintain core competencies. This includes regular exercises that require manual investigation, cross-training that deepens understanding of underlying systems, and career paths that evolve roles rather than eliminate them.The responsibility is shared. Employers must provide tools, training, and culture that enable AI to augment rather than replace human expertise. Employees must actively engage in continuous learning, treating AI as a collaborative partner rather than a replacement for critical thinking.The identity crisis: Governing the agent explosionPerhaps the most underestimated challenge ahead is identity and access management in an agentic AI world. IDC estimates 1.3 billion agents by 2028 — each requiring identity, permissions, and governance. The complexity compounds exponentially.Overly permissive agents represent significant risk. An agent with broad administrative access could be socially engineered into taking destructive actions, approving fraudulent transactions, or exfiltrating sensitive data. The technical shortcuts engineers take to \"just make it work\" — granting excessive permissions to expedite deployment — create vulnerabilities that adversaries will exploit.Tool-based access control offers one path forward, granting agents only the specific capabilities they need. But governance frameworks must also address how LLMs themselves might learn and retain authentication information, potentially enabling impersonation attacks that bypass traditional access controls.The path forward: Start with compliance and reportingAmid these challenges, one area offers immediate, high-impact opportunity: continuous compliance and risk reporting. AI&#x27;s ability to consume vast amounts of documentation, interpret complex requirements, and generate concise summaries makes it ideal for compliance and reporting work that has traditionally consumed enormous analysts’ time. This represents a low-risk, high-value entry point for AI in security operations. The data foundation: Enabling the AI-powered SOCNone of these AI capabilities can succeed without addressing the fundamental data challenges facing security operations. SOC teams struggle with siloed data and disparate tools. Success requires a deliberate data strategy that prioritizes accessibility, quality, and unified data contexts. Security-relevant data must be immediately available to AI agents without friction, properly governed to ensure reliability, and enriched with metadata that provides the business context AI cannot understand. Closing thought: Innovation with intentionalityThe autonomous SOC is emerging — not as a light switch to flip, but as an evolutionary journey requiring continuous adaptation. Success demands that we embrace AI&#x27;s efficiency gains while maintaining the human judgment, strategic thinking, and ethical oversight that security requires.We&#x27;re not replacing security teams with AI. We&#x27;re building collaborative, multi-agent systems where human expertise guides AI capabilities toward outcomes that neither could achieve alone. That&#x27;s the promise of the agentic AI era — if we&#x27;re intentional about how we get there.Tanya Faddoul, VP Product, Customer Strategy and Chief of Staff for Splunk, a Cisco Company. Michael Fanning is Chief Information Security Officer for Splunk, a Cisco Company. Cisco Data Fabric provides the needed data architecture powered by Splunk Platform — unified data fabric, federated search capabilities, comprehensive metadata management — to unlock AI and SOC’s full potential. Learn more about Cisco Data Fabric.Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
-          "content": "Presented by Splunk, a Cisco CompanyAs AI rapidly evolves from a theoretical promise to an operational reality, CISOs and CIOs face a fundamental challenge: how to harness AI&#x27;s transformative potential while maintaining the human oversight and strategic thinking that security demands. The rise of agentic AI is reshaping security operations, but success requires balancing automation with accountability.The efficiency paradox: Automation without abdicationThe pressure to adopt AI is intense. Organizations are being pushed to reduce headcount or redirect resources toward AI-driven initiatives, often without fully understanding what that transformation entails. The promise is compelling: AI can reduce investigation times from 60 minutes to just 5 minutes, potentially delivering 10x productivity improvements for security analysts.However, the critical question isn&#x27;t whether AI can automate tasks — it&#x27;s which tasks should be automated and where human judgment remains irreplaceable. The answer lies in understanding that AI excels at accelerating investigative workflows, but remediation and response actions still require human validation. Taking a system offline or quarantining an endpoint can have massive business impact. An AI making that call autonomously could inadvertently cause the very disruption it&#x27;s meant to prevent.The goal isn&#x27;t to replace security analysts but to free them for higher-value work. With routine alert triage automated, analysts can focus on red team/blue team exercises, collaborate with engineering teams on remediation, and engage in proactive threat hunting. There&#x27;s no shortage of security problems to solve — there&#x27;s a shortage of security experts to address them strategically.The trust deficit: Showing your workWhile confidence in AI&#x27;s ability to improve efficiency is high, skepticism about the quality of AI-driven decisions remains significant. Security teams need more than just AI-generated conclusions — they need transparency into how those conclusions were reached.When AI determines an alert is benign and closes it, SOC analysts need to understand the investigative steps that led to that determination. What data was examined? What patterns were identified? What alternative explanations were considered and ruled out?This transparency builds trust in AI recommendations, enables validation of AI logic, and creates opportunities for continuous improvement. Most importantly, it maintains the critical human-in-the-loop for complex judgment calls that require nuanced understanding of business context, compliance requirements, and potential cascading impacts.The future likely involves a hybrid model where autonomous capabilities are integrated into guided workflows and playbooks, with analysts remaining involved in complex decisions. The adversarial advantage: Fighting AI with AI — carefullyAI presents a dual-edged sword in security. While we&#x27;re carefully implementing AI with appropriate guardrails, adversaries face no such constraints. AI lowers the barrier to entry for attackers, enabling rapid exploit development and vulnerability discovery at scale. What was once the domain of sophisticated threat actors could soon be accessible to script kiddies armed with AI tools.The asymmetry is striking: defenders must be thoughtful and risk-averse, while attackers can experiment freely. If we make a mistake implementing autonomous security responses, we risk taking down production systems. If an attacker&#x27;s AI-driven exploit fails, they simply try again with no consequences.This creates an imperative to use AI defensively, but with appropriate caution. We must learn from attackers&#x27; techniques while maintaining the guardrails that prevent our AI from becoming the vulnerability. The recent emergence of malicious MCP (Model Context Protocol) supply chain attacks demonstrates how quickly adversaries exploit new AI infrastructure. The skills dilemma: Building capabilities while maintaining core competenciesAs AI handles more routine investigative work, a concerning question emerges: will security professionals&#x27; fundamental skills atrophy over time? This isn&#x27;t an argument against AI adoption — it&#x27;s a call for intentional skill development strategies. Organizations must balance AI-enabled efficiency with programs that maintain core competencies. This includes regular exercises that require manual investigation, cross-training that deepens understanding of underlying systems, and career paths that evolve roles rather than eliminate them.The responsibility is shared. Employers must provide tools, training, and culture that enable AI to augment rather than replace human expertise. Employees must actively engage in continuous learning, treating AI as a collaborative partner rather than a replacement for critical thinking.The identity crisis: Governing the agent explosionPerhaps the most underestimated challenge ahead is identity and access management in an agentic AI world. IDC estimates 1.3 billion agents by 2028 — each requiring identity, permissions, and governance. The complexity compounds exponentially.Overly permissive agents represent significant risk. An agent with broad administrative access could be socially engineered into taking destructive actions, approving fraudulent transactions, or exfiltrating sensitive data. The technical shortcuts engineers take to \"just make it work\" — granting excessive permissions to expedite deployment — create vulnerabilities that adversaries will exploit.Tool-based access control offers one path forward, granting agents only the specific capabilities they need. But governance frameworks must also address how LLMs themselves might learn and retain authentication information, potentially enabling impersonation attacks that bypass traditional access controls.The path forward: Start with compliance and reportingAmid these challenges, one area offers immediate, high-impact opportunity: continuous compliance and risk reporting. AI&#x27;s ability to consume vast amounts of documentation, interpret complex requirements, and generate concise summaries makes it ideal for compliance and reporting work that has traditionally consumed enormous analysts’ time. This represents a low-risk, high-value entry point for AI in security operations. The data foundation: Enabling the AI-powered SOCNone of these AI capabilities can succeed without addressing the fundamental data challenges facing security operations. SOC teams struggle with siloed data and disparate tools. Success requires a deliberate data strategy that prioritizes accessibility, quality, and unified data contexts. Security-relevant data must be immediately available to AI agents without friction, properly governed to ensure reliability, and enriched with metadata that provides the business context AI cannot understand. Closing thought: Innovation with intentionalityThe autonomous SOC is emerging — not as a light switch to flip, but as an evolutionary journey requiring continuous adaptation. Success demands that we embrace AI&#x27;s efficiency gains while maintaining the human judgment, strategic thinking, and ethical oversight that security requires.We&#x27;re not replacing security teams with AI. We&#x27;re building collaborative, multi-agent systems where human expertise guides AI capabilities toward outcomes that neither could achieve alone. That&#x27;s the promise of the agentic AI era — if we&#x27;re intentional about how we get there.Tanya Faddoul, VP Product, Customer Strategy and Chief of Staff for Splunk, a Cisco Company. Michael Fanning is Chief Information Security Officer for Splunk, a Cisco Company. Cisco Data Fabric provides the needed data architecture powered by Splunk Platform — unified data fabric, federated search capabilities, comprehensive metadata management — to unlock AI and SOC’s full potential. Learn more about Cisco Data Fabric.Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
-          "feed_position": 8,
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1xzoYYdBHblQvb1NzXRGSt/8898cd969ec3062a752682e7dae6a437/AdobeStock_1081293355.jpeg?w=300&q=30"
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/ai/agentic-ai-is-all-about-the-context-engineering-that-is",
-          "published_at": "Wed, 29 Oct 2025 04:00:00 GMT",
-          "title": "Agentic AI is all about the context — engineering, that is",
-          "standfirst": "Presented by ElasticAs organizations scramble to enact agentic AI solutions, accessing proprietary data from all the nooks and crannies will be keyBy now, most organizations have heard of agentic AI, which are systems that “think” by autonomously gathering tools, data and other sources of information to return an answer. But here’s the rub: reliability and relevance depend on delivering accurate context. In most enterprises, this context is scattered across various unstructured data sources, including documents, emails, business apps, and customer feedback. As organizations look ahead to 2026, solving this problem will be key to accelerating agentic AI rollouts around the world, says Ken Exner, chief product officer at Elastic. \"People are starting to realize that to do agentic AI correctly, you have to have relevant data,\" Exner says. \"Relevance is critical in the context of agentic AI, because that AI is taking action on your behalf. When people struggle to build AI applications, I can almost guarantee you the problem is relevance.”Agents everywhereThe struggle could be entering a make-or-break period as organizations scramble for competitive edge or to create new efficiencies. A Deloitte study predicts that by 2026, more than 60% of large enterprises will have deployed agentic AI at scale, marking a major increase from experimental phases to mainstream implementation. And researcher Gartner forecasts that by the end of 2026, 40% of all enterprise applications will incorporate task-specific agents, up from less than 5% in 2025. Adding task specialization capabilities evolves AI assistants into context-aware AI agents.Enter context engineeringThe process for getting the relevant context into agents at the right time is known as context engineering. It not only ensures that an agentic application has the data it needs to provide accurate, in-depth responses, it helps the large language model (LLM) understand what tools it needs to find and use that data, and how to call those APIs. While there are now open-source standards such as the Model Context Protocol (MCP) that allow LLMs to connect to and communicate with external data, there are few platforms that let organizations build precise AI agents that use your data and combine retrieval, governance, and orchestration in one place, natively. Elasticsearch has always been a leading platform for the core of context engineering. It recently released a new feature within Elasticsearch called Agent Builder, which simplifies the entire operational lifecycle of agents: development, configuration, execution, customization, and observability.Agent Builder helps build MCP tools on private data using various techniques, including Elasticsearch Query Language, a piped query language for filtering, transforming, and analyzing data, or workflow modeling. Users can then take various tools and combine them with prompts and an LLM to build an agent. Agent Builder offers a configurable, out-of-the-box conversational agent that allows you to chat with the data in the index, and it also gives users the ability to build one from scratch using various tools and prompts on top of private data. \"Data is the center of our world at Elastic. We’re trying to make sure that you have the tools you need to put that data to work,\" Exner explains. \"The second you open up Agent Builder, you point it to an index in Elasticsearch, and you can begin chatting with any data you connect this to, any data that’s indexed in Elasticsearch — or from external sources through integrations.”Context engineering as a disciplinePrompt and context engineering is becoming a discipli. It’s not something you need a computer science degree in, but more classes and best practices will emerge, because there’s an art to it. \"We want to make it very simple to do that,\" Exner says. \"The thing that people will have to figure out is, how do you drive automation with AI? That’s what’s going to drive productivity. The people who are focused on that will see more success.\"Beyond that, other context engineering patterns will emerge. The industry has gone from prompt engineering to retrieval-augmented generation, where information is passed to the LLM in a context window, to MCP solutions that help LLMs with tool selection. But it won&#x27;t stop there.\"Given how fast things are moving, I will guarantee that new patterns will emerge quite quickly,\" Exner says. \"There will still be context engineering, but they’ll be new patterns for how to share data with an LLM, how to get it to be grounded in the right information. And I predict more patterns that make it possible for the LLM to understand private data that it’s not been trained on.\"Agent Builder is available now as a tech preview. Get started with an Elastic Cloud Trial, and check out the documentation for Agent Builder here.Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
-          "content": "Presented by ElasticAs organizations scramble to enact agentic AI solutions, accessing proprietary data from all the nooks and crannies will be keyBy now, most organizations have heard of agentic AI, which are systems that “think” by autonomously gathering tools, data and other sources of information to return an answer. But here’s the rub: reliability and relevance depend on delivering accurate context. In most enterprises, this context is scattered across various unstructured data sources, including documents, emails, business apps, and customer feedback. As organizations look ahead to 2026, solving this problem will be key to accelerating agentic AI rollouts around the world, says Ken Exner, chief product officer at Elastic. \"People are starting to realize that to do agentic AI correctly, you have to have relevant data,\" Exner says. \"Relevance is critical in the context of agentic AI, because that AI is taking action on your behalf. When people struggle to build AI applications, I can almost guarantee you the problem is relevance.”Agents everywhereThe struggle could be entering a make-or-break period as organizations scramble for competitive edge or to create new efficiencies. A Deloitte study predicts that by 2026, more than 60% of large enterprises will have deployed agentic AI at scale, marking a major increase from experimental phases to mainstream implementation. And researcher Gartner forecasts that by the end of 2026, 40% of all enterprise applications will incorporate task-specific agents, up from less than 5% in 2025. Adding task specialization capabilities evolves AI assistants into context-aware AI agents.Enter context engineeringThe process for getting the relevant context into agents at the right time is known as context engineering. It not only ensures that an agentic application has the data it needs to provide accurate, in-depth responses, it helps the large language model (LLM) understand what tools it needs to find and use that data, and how to call those APIs. While there are now open-source standards such as the Model Context Protocol (MCP) that allow LLMs to connect to and communicate with external data, there are few platforms that let organizations build precise AI agents that use your data and combine retrieval, governance, and orchestration in one place, natively. Elasticsearch has always been a leading platform for the core of context engineering. It recently released a new feature within Elasticsearch called Agent Builder, which simplifies the entire operational lifecycle of agents: development, configuration, execution, customization, and observability.Agent Builder helps build MCP tools on private data using various techniques, including Elasticsearch Query Language, a piped query language for filtering, transforming, and analyzing data, or workflow modeling. Users can then take various tools and combine them with prompts and an LLM to build an agent. Agent Builder offers a configurable, out-of-the-box conversational agent that allows you to chat with the data in the index, and it also gives users the ability to build one from scratch using various tools and prompts on top of private data. \"Data is the center of our world at Elastic. We’re trying to make sure that you have the tools you need to put that data to work,\" Exner explains. \"The second you open up Agent Builder, you point it to an index in Elasticsearch, and you can begin chatting with any data you connect this to, any data that’s indexed in Elasticsearch — or from external sources through integrations.”Context engineering as a disciplinePrompt and context engineering is becoming a discipli. It’s not something you need a computer science degree in, but more classes and best practices will emerge, because there’s an art to it. \"We want to make it very simple to do that,\" Exner says. \"The thing that people will have to figure out is, how do you drive automation with AI? That’s what’s going to drive productivity. The people who are focused on that will see more success.\"Beyond that, other context engineering patterns will emerge. The industry has gone from prompt engineering to retrieval-augmented generation, where information is passed to the LLM in a context window, to MCP solutions that help LLMs with tool selection. But it won&#x27;t stop there.\"Given how fast things are moving, I will guarantee that new patterns will emerge quite quickly,\" Exner says. \"There will still be context engineering, but they’ll be new patterns for how to share data with an LLM, how to get it to be grounded in the right information. And I predict more patterns that make it possible for the LLM to understand private data that it’s not been trained on.\"Agent Builder is available now as a tech preview. Get started with an Elastic Cloud Trial, and check out the documentation for Agent Builder here.Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
-          "feed_position": 9,
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3HhYB9aUXlzxC0Q4V716ck/a33201a5ce2da5b486e6a20da9abbb52/AdobeStock_703274424.jpeg?w=300&q=30"
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/bwRyL7w9MR1MG2IrgGTzg/9ecc1886c047d9f1eb5335e80e67fc14/ChatGPT_Image_Oct_30__2025__05_01_04_PM.png?w=300&q=30",
-      "popularity_score": 2013.3888966666666,
+      "popularity_score": 2009.8086141666668,
       "ai_summary": [
-        "OpenAI introduced Aardvark, a GPT-5-powered security agent.",
-        "Aardvark is designed for code analysis, vulnerability detection, and patching.",
-        "It uses a multi-stage, LLM-driven approach for continuous analysis.",
-        "The agent is being tested on internal and external codebases.",
-        "Aardvark follows a structured pipeline for threat modeling and validation."
+        "OpenAI introduced Aardvark, a GPT-5 powered security agent in private beta.",
+        "Aardvark is designed to identify and resolve software vulnerabilities.",
+        "It uses a multi-stage, LLM-driven approach for code analysis.",
+        "The agent continuously analyzes code, validates exploits, and generates patches.",
+        "Aardvark is being tested on internal and external codebases."
       ]
     },
     {
-      "id": "cluster_10",
+      "id": "cluster_16",
       "coverage": 1,
       "updated_at": "Thu, 30 Oct 2025 22:01:59 +0000",
       "title": "Calley Means is out of the White House; Casey Means misses Senate hearing",
-      "neutral_headline": "Calley Means is out of the White House; Casey Means misses Senate hearing",
+      "neutral_headline": "Casey Means Misses Senate Hearing Due to Childbirth",
       "items": [
         {
           "source": "Ars Technica",
@@ -271,21 +231,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2210915866-1152x648.jpg",
-      "popularity_score": 347.30528555555554,
+      "popularity_score": 343.72500305555553,
       "ai_summary": [
-        "Casey Means missed a Senate hearing on a surgeon general nomination.",
-        "She was unable to attend due to going into labor.",
-        "Calley Means is no longer working at the White House.",
-        "The news involves personnel changes and scheduling conflicts.",
-        "The events highlight the personal and professional lives of individuals."
+        "Casey Means missed a Senate hearing.",
+        "The hearing was regarding the surgeon general nomination.",
+        "She missed the hearing because she went into labor.",
+        "Calley Means is no longer in the White House.",
+        "The news reports the circumstances of the missed hearing."
       ]
     },
     {
-      "id": "cluster_25",
+      "id": "cluster_29",
       "coverage": 1,
       "updated_at": "Thu, 30 Oct 2025 20:29:43 +0000",
       "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
-      "neutral_headline": "Cellebrite Can Extract Data From Most Pixel Phones",
+      "neutral_headline": "Cellebrite Can Extract Data from Most Pixel Phones",
       "items": [
         {
           "source": "Ars Technica",
@@ -299,21 +259,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-18-1152x648.jpg",
-      "popularity_score": 341.7675077777778,
+      "popularity_score": 338.18722527777777,
       "ai_summary": [
-        "Cellebrite can extract data from most Pixel phones, according to a leaker.",
-        "GrapheneOS is the only exception, preventing data extraction by Cellebrite.",
-        "The leak reveals vulnerabilities in Pixel phone security.",
-        "This information highlights potential privacy risks for Pixel users.",
-        "The leak underscores the importance of secure operating systems."
+        "Cellebrite can extract data from most Pixel phones.",
+        "This extraction is possible unless the phone runs GrapheneOS.",
+        "The report details the vulnerability of Pixel phones.",
+        "The report highlights the exception of GrapheneOS.",
+        "The report focuses on data extraction capabilities."
       ]
     },
     {
-      "id": "cluster_21",
+      "id": "cluster_26",
       "coverage": 1,
       "updated_at": "Thu, 30 Oct 2025 21:05:26 +0000",
       "title": "Man finally released a month after absurd arrest for reposting Trump meme",
-      "neutral_headline": "Man Released After Arrest for Reposting Trump Meme",
+      "neutral_headline": "Man Released After Absurd Arrest for Trump Meme",
       "items": [
         {
           "source": "Ars Technica",
@@ -327,21 +287,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1368516656-1152x648-1761855653.jpg",
-      "popularity_score": 336.36278555555555,
+      "popularity_score": 332.78250305555554,
       "ai_summary": [
-        "A man was released a month after an absurd arrest for reposting a meme.",
-        "Bodycam footage contradicted the sheriff's justification for the arrest.",
-        "The sheriff claimed the meme constituted a \"true threat.\"",
-        "The footage undermined the sheriff's claims and led to the man's release.",
-        "The case highlights potential misuse of law enforcement powers."
+        "A man was released a month after an absurd arrest.",
+        "The arrest was for reposting a Trump meme.",
+        "Bodycam footage undermined the sheriff's justification.",
+        "The sheriff's justification was based on a \"true threat.\"",
+        "The report details the circumstances of the arrest and release."
       ]
     },
     {
-      "id": "cluster_26",
+      "id": "cluster_30",
       "coverage": 1,
       "updated_at": "Thu, 30 Oct 2025 20:17:46 +0000",
       "title": "Caught cheating in class, college students “apologized” using AI—and profs called them out",
-      "neutral_headline": "College Students Use AI to Apologize for Cheating",
+      "neutral_headline": "Students Used AI to Apologize for Cheating",
       "items": [
         {
           "source": "Ars Technica",
@@ -355,21 +315,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2190439539-1152x648-1761852319.jpg",
-      "popularity_score": 330.5683411111111,
+      "popularity_score": 326.9880586111111,
       "ai_summary": [
-        "College students used AI to apologize after being caught cheating in class.",
-        "Professors called out the students for using AI-generated apologies.",
-        "The incident prompted discussions about academic integrity.",
-        "The professors emphasized the need for \"life lessons\" for the students.",
-        "The event highlights the evolving role of AI in education."
+        "College students used AI to apologize for cheating.",
+        "Professors called out the students for their actions.",
+        "The report highlights the use of AI in the apologies.",
+        "The report focuses on the professors' response.",
+        "The report mentions the need for \"life lessons.\""
       ]
     },
     {
-      "id": "cluster_31",
+      "id": "cluster_35",
       "coverage": 1,
       "updated_at": "Thu, 30 Oct 2025 19:36:49 +0000",
       "title": "Netflix drops a doozy of a trailer for Stranger Things S5",
-      "neutral_headline": "Netflix Releases Trailer for Stranger Things Season Five",
+      "neutral_headline": "Netflix Releases Trailer for Stranger Things S5",
       "items": [
         {
           "source": "Ars Technica",
@@ -383,21 +343,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/strangerTOP-1152x648-1761850731.jpg",
-      "popularity_score": 309.8858411111111,
+      "popularity_score": 306.3055586111111,
       "ai_summary": [
-        "Netflix released a trailer for the upcoming fifth season of Stranger Things.",
-        "The trailer features the character Dustin speaking about friendship.",
-        "Dustin emphasizes staying true to oneself and friends.",
-        "The trailer offers a glimpse into the final season's plot.",
-        "The show's final season is highly anticipated by fans."
+        "Netflix released a trailer for Stranger Things Season 5.",
+        "The trailer features a quote from Dustin.",
+        "The quote is about staying true to oneself and friends.",
+        "The trailer is for the final season of the show.",
+        "The report focuses on the trailer's release."
       ]
     },
     {
-      "id": "cluster_27",
+      "id": "cluster_31",
       "coverage": 1,
       "updated_at": "Thu, 30 Oct 2025 20:05:50 +0000",
       "title": "Affinity’s image-editing apps go “freemium” in first major post-Canva update",
-      "neutral_headline": "Affinity Image-Editing Apps Adopt Freemium Model",
+      "neutral_headline": "Affinity Image-Editing Apps Go \"Freemium",
       "items": [
         {
           "source": "Ars Technica",
@@ -411,21 +371,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/Screenshot-2025-10-30-at-3.30.39-PM-1152x648-1761852764.jpeg",
-      "popularity_score": 305.3694522222222,
+      "popularity_score": 301.7891697222222,
       "ai_summary": [
-        "Affinity's image-editing apps are transitioning to a freemium model.",
-        "The updated app is \"free forever\" for users.",
-        "Users will not receive a perpetually licensed version.",
-        "The change is the first major update since the Canva acquisition.",
-        "The move alters the app's business model."
+        "Affinity's image-editing apps are going \"freemium.\"",
+        "The updated app is \"free forever.\"",
+        "There will not be a perpetually licensed version.",
+        "This is the first major update post-Canva.",
+        "The report details the changes to the app's pricing."
       ]
     },
     {
-      "id": "cluster_41",
+      "id": "cluster_45",
       "coverage": 1,
       "updated_at": "Thu, 30 Oct 2025 18:24:32 +0000",
       "title": "ChatGPT maker reportedly eyes $1 trillion IPO despite major quarterly losses",
-      "neutral_headline": "ChatGPT Maker Eyes $1 Trillion IPO Despite Losses",
+      "neutral_headline": "ChatGPT Maker Eyes $1 Trillion IPO",
       "items": [
         {
           "source": "Ars Technica",
@@ -439,21 +399,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/openai_treasurechest_1-1152x648.jpg",
-      "popularity_score": 288.6811188888889,
+      "popularity_score": 285.10083638888887,
       "ai_summary": [
-        "The maker of ChatGPT is reportedly considering a $1 trillion IPO.",
-        "The company is facing significant quarterly losses.",
-        "Reuters reported the potential IPO could be massive.",
-        "The IPO would be one of the largest in history.",
-        "The company's financial performance is under scrutiny."
+        "The ChatGPT maker is reportedly eyeing a $1 trillion IPO.",
+        "The IPO could be \"one of the biggest of all time.\"",
+        "This information comes from Reuters.",
+        "The report focuses on the potential IPO size.",
+        "The report mentions major quarterly losses."
       ]
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_36",
       "coverage": 1,
       "updated_at": "Thu, 30 Oct 2025 19:26:04 +0000",
       "title": "Trump admin demands states exempt ISPs from net neutrality and price laws",
-      "neutral_headline": "Trump Administration Demands ISP Exemptions from Laws",
+      "neutral_headline": "Trump Admin Demands States Exempt ISPs",
       "items": [
         {
           "source": "Ars Technica",
@@ -467,21 +427,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-network-1152x648.jpg",
-      "popularity_score": 284.70667444444445,
+      "popularity_score": 281.12639194444444,
       "ai_summary": [
-        "The Trump administration wants states to exempt ISPs from net neutrality.",
-        "The administration views net neutrality as price regulation.",
-        "Net neutrality is banned in a $42 billion grant program.",
-        "The move could impact internet access and pricing.",
-        "The administration's stance has implications for internet policy."
+        "The Trump administration demands states exempt ISPs.",
+        "The exemption is from net neutrality and price laws.",
+        "The US says net neutrality is price regulation.",
+        "This is banned in a $42B grant program.",
+        "The report details the administration's demands."
       ]
     },
     {
-      "id": "cluster_51",
+      "id": "cluster_55",
       "coverage": 1,
       "updated_at": "Thu, 30 Oct 2025 17:28:38 +0000",
       "title": "Disney+ gets HDR10+ via “over 1,000” Hulu titles",
-      "neutral_headline": "Disney+ Adds HDR10+ Support for Hulu Titles",
+      "neutral_headline": "Disney+ Adds HDR10+ Support",
       "items": [
         {
           "source": "Ars Technica",
@@ -495,21 +455,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/fc3d1e70-19cf-4cfa-bb07-bd6439b3df66_1761249301-1152x648-1761844035.jpg",
-      "popularity_score": 259.7494522222222,
+      "popularity_score": 256.16916972222225,
       "ai_summary": [
-        "Disney+ is adding HDR10+ support for over 1,000 Hulu titles.",
-        "Disney+ joins Netflix and Apple TV in supporting HDR10+.",
-        "HDR10+ is a rival to Dolby Vision.",
-        "The move enhances the viewing experience for subscribers.",
-        "The update expands the platform's technical capabilities."
+        "Disney+ is getting HDR10+ support.",
+        "This is available via \"over 1,000\" Hulu titles.",
+        "Disney+ joins Netflix and Apple TV in support.",
+        "The report focuses on the addition of HDR10+.",
+        "The report mentions the Dolby Vision rival."
       ]
     },
     {
-      "id": "cluster_56",
+      "id": "cluster_60",
       "coverage": 1,
       "updated_at": "Thu, 30 Oct 2025 17:00:31 +0000",
       "title": "New study settles 40-year debate: Nanotyrannus is a new species",
-      "neutral_headline": "New Study Settles Debate: Nanotyrannus Is New Species",
+      "neutral_headline": "New Study Settles 40-Year Debate",
       "items": [
         {
           "source": "Ars Technica",
@@ -523,21 +483,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/nanotyrannusTOP-1152x648.jpg",
-      "popularity_score": 252.2808411111111,
+      "popularity_score": 248.70055861111112,
       "ai_summary": [
-        "A new study concludes that Nanotyrannus is a distinct species.",
-        "The study settles a 40-year debate about the dinosaur.",
-        "The fossil research challenges existing T. rex research.",
-        "The findings will reshape understanding of dinosaur evolution.",
-        "The study provides new insights into the Tyrannosaurus family."
+        "A new study settles a 40-year debate.",
+        "The debate was about Nanotyrannus.",
+        "Nanotyrannus is confirmed as a new species.",
+        "The study flips decades of T. rex research.",
+        "The report details the findings of the study."
       ]
     },
     {
-      "id": "cluster_68",
+      "id": "cluster_72",
       "coverage": 1,
       "updated_at": "Thu, 30 Oct 2025 15:54:18 +0000",
       "title": "After teen death lawsuits, Character.AI will restrict chats for under-18 users",
-      "neutral_headline": "Character.AI Restricts Chats for Under-18 Users",
+      "neutral_headline": "Character.AI to Restrict Chats for Under-18 Users",
       "items": [
         {
           "source": "Ars Technica",
@@ -551,21 +511,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/robot_no_sign_3-1152x648.jpg",
-      "popularity_score": 156.17723,
+      "popularity_score": 152.5969475,
       "ai_summary": [
-        "Character.AI will restrict chats for users under eighteen years old.",
-        "The AI companion app faces legal and regulatory pressure.",
-        "The restrictions address child safety concerns.",
-        "The app is responding to lawsuits and regulatory scrutiny.",
-        "The changes aim to protect younger users."
+        "Character.AI will restrict chats for under-18 users.",
+        "This is due to lawsuits and regulatory pressure.",
+        "The pressure is over child safety concerns.",
+        "The AI companion app is facing legal issues.",
+        "The report details the restrictions."
       ]
     },
     {
-      "id": "cluster_62",
+      "id": "cluster_66",
       "coverage": 1,
       "updated_at": "Thu, 30 Oct 2025 16:19:28 +0000",
       "title": "Google makes first Play Store changes after losing Epic Games antitrust case",
-      "neutral_headline": "Google Makes First Play Store Changes After Antitrust Case",
+      "neutral_headline": "Google Makes Play Store Changes",
       "items": [
         {
           "source": "Ars Technica",
@@ -579,21 +539,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/google-play-store-1152x648.jpg",
-      "popularity_score": 153.59667444444443,
+      "popularity_score": 150.01639194444445,
       "ai_summary": [
-        "Google is making changes to the Play Store after losing an antitrust case.",
-        "Developers can now direct users away from the Play Store.",
-        "Google is reluctantly implementing the changes.",
-        "The changes are a result of the Epic Games case.",
-        "The changes impact developer practices on the platform."
+        "Google makes first Play Store changes.",
+        "The changes are after losing an antitrust case.",
+        "The case was with Epic Games.",
+        "Google is letting developers lead users away.",
+        "The report details the changes to the Play Store."
       ]
     },
     {
-      "id": "cluster_125",
+      "id": "cluster_128",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 21:35:58 +0000",
       "title": "Meta denies torrenting porn to train AI, says downloads were for “personal use”",
-      "neutral_headline": "Meta Denies Using Porn to Train AI",
+      "neutral_headline": "Meta Denies Using Pornographic Content to Train Artificial Intelligence",
       "items": [
         {
           "source": "Ars Technica",
@@ -609,19 +569,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2171230457-1152x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "Meta denies using pornographic content to train its AI models.",
-        "Meta claims downloads were for \"personal use\" only.",
-        "The denial comes in response to a lawsuit.",
-        "The lawsuit alleges Meta pirated pornographic material.",
-        "Meta argues the lawsuit's claims are unfounded."
+        "Meta denies claims of using pirated pornography for artificial intelligence training purposes.",
+        "The company stated the downloads were for personal use, not for AI development.",
+        "A lawsuit alleged Meta used pornographic content to train its AI models.",
+        "Meta argues the lawsuit's claims are without merit and lack factual basis.",
+        "The company maintains its actions were unrelated to the alleged AI training."
       ]
     },
     {
-      "id": "cluster_82",
+      "id": "cluster_86",
       "coverage": 1,
       "updated_at": "Thu, 30 Oct 2025 14:00:21 +0000",
       "title": "An in-space construction firm says it can help build massive data centers in orbit",
-      "neutral_headline": "Firm Plans to Build Data Centers in Orbit",
+      "neutral_headline": "Space Construction Firm Plans Orbital Data Centers",
       "items": [
         {
           "source": "Ars Technica",
@@ -635,21 +595,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/FinalMission_Solar_WEB-1152x648.webp",
-      "popularity_score": 147.27806333333334,
+      "popularity_score": 143.69778083333333,
       "ai_summary": [
-        "An in-space construction firm plans to build data centers in orbit.",
-        "The firm believes size is no longer a limitation.",
-        "The project aims to create massive data centers in space.",
-        "The initiative could revolutionize data storage.",
-        "The firm is exploring new frontiers in construction."
+        "An in-space construction firm believes it can build large data centers in orbit.",
+        "The firm suggests size limitations are no longer a significant constraint.",
+        "This could lead to a new era of data storage and processing capabilities.",
+        "The company is focused on expanding infrastructure beyond Earth's surface.",
+        "The firm aims to leverage space for advanced technology applications."
       ]
     },
     {
-      "id": "cluster_83",
+      "id": "cluster_87",
       "coverage": 1,
       "updated_at": "Thu, 30 Oct 2025 13:54:33 +0000",
       "title": "GM lays off 1,700 workers making EVs and batteries in Michigan, Tennessee",
-      "neutral_headline": "GM Lays Off Workers Making EVs and Batteries",
+      "neutral_headline": "General Motors Lays Off Workers Due to EV Demand Slowdown",
       "items": [
         {
           "source": "Ars Technica",
@@ -663,21 +623,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1196823844-1152x648.jpg",
-      "popularity_score": 145.18139666666667,
+      "popularity_score": 141.60111416666666,
       "ai_summary": [
-        "General Motors is laying off 1,700 workers in Michigan and Tennessee.",
-        "The layoffs affect workers involved in EV and battery production.",
-        "The automaker expects a slowdown in EV demand.",
-        "The regulatory environment is expected to impact demand.",
-        "The layoffs reflect changing market conditions."
+        "General Motors is laying off 1,700 workers in EV and battery production.",
+        "The layoffs affect facilities in Michigan and Tennessee.",
+        "The automaker anticipates a slowdown in electric vehicle demand.",
+        "Regulatory environment is expected to impact EV market growth.",
+        "The company is adjusting its workforce based on market forecasts."
       ]
     },
     {
-      "id": "cluster_126",
+      "id": "cluster_129",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 21:23:22 +0000",
       "title": "Space station astronauts eager to open “golden treasure box” from Japan",
-      "neutral_headline": "Space Station Astronauts Eager to Open “Golden Treasure Box” from Japan",
+      "neutral_headline": "Astronauts Await Opening of Japanese Spacecraft's Cargo",
       "items": [
         {
           "source": "Ars Technica",
@@ -693,19 +653,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/htvx1-arrive1-1152x648.jpg",
       "popularity_score": 141,
       "ai_summary": [
-        "Astronauts on the space station are excited to open a Japanese cargo.",
-        "The cargo is described as a \"golden treasure box.\"",
-        "The spacecraft is described as beautiful and shiny.",
-        "The cargo represents a bright future, according to astronauts.",
-        "The event highlights international collaboration in space."
+        "Space station astronauts are excited to open a cargo from Japan.",
+        "The spacecraft is described as beautiful and representing a bright future.",
+        "The cargo is referred to as a \"golden treasure box.\"",
+        "The contents of the cargo are eagerly anticipated by the crew.",
+        "The mission highlights international collaboration in space exploration."
       ]
     },
     {
-      "id": "cluster_74",
+      "id": "cluster_78",
       "coverage": 1,
       "updated_at": "Thu, 30 Oct 2025 14:56:01 +0000",
       "title": "TikTok may become more right-wing as China signals approval for US sale",
-      "neutral_headline": "TikTok Could Change if China Approves US Sale",
+      "neutral_headline": "TikTok Could Shift Politically If China Approves Sale",
       "items": [
         {
           "source": "Ars Technica",
@@ -719,21 +679,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2244071819-1024x648.jpg",
-      "popularity_score": 140.2058411111111,
+      "popularity_score": 136.6255586111111,
       "ai_summary": [
-        "China's approval of a TikTok sale to the US could shift the platform's political leanings.",
-        "The shift could result from changes in content moderation and algorithm adjustments.",
-        "This could lead to more conservative or right-wing content on the platform.",
-        "The changes could impact the types of users and creators on TikTok.",
-        "The sale's approval would likely alter the platform's overall user experience."
+        "TikTok may become more right-wing if China approves a US sale.",
+        "The article explores potential changes to the platform's content.",
+        "The shift could impact the political landscape on the app.",
+        "China's approval of a US sale is a key factor in the change.",
+        "The article examines how TikTok could evolve under new ownership."
       ]
     },
     {
-      "id": "cluster_76",
+      "id": "cluster_80",
       "coverage": 1,
       "updated_at": "Thu, 30 Oct 2025 14:28:21 +0000",
       "title": "Falling panel prices lead to global solar boom, except for the US",
-      "neutral_headline": "Solar Panel Prices Drop, Leading to Global Solar Boom",
+      "neutral_headline": "Solar Panel Price Drops Fuel Global Solar Energy Boom",
       "items": [
         {
           "source": "Ars Technica",
@@ -747,49 +707,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/chinawind-solar-1152x648.jpg",
-      "popularity_score": 139.74473,
+      "popularity_score": 136.1644475,
       "ai_summary": [
-        "Falling solar panel prices are driving a global boom in solar energy adoption.",
-        "The United States is an exception to this trend, not experiencing the same boom.",
-        "The economic case for solar power is now stronger than ever before.",
-        "Lower prices make solar energy more competitive with fossil fuels.",
-        "This trend is accelerating the transition to renewable energy sources worldwide."
+        "Falling solar panel prices are driving a global solar boom.",
+        "The economic case for solar power is stronger than ever before.",
+        "The United States is an exception to the global trend.",
+        "The article highlights the economic advantages of solar energy.",
+        "The US market faces different challenges compared to other countries."
       ]
     },
     {
-      "id": "cluster_100",
-      "coverage": 1,
-      "updated_at": "Thu, 30 Oct 2025 11:00:37 +0000",
-      "title": "Halloween film fest: 15 classic ghost stories",
-      "neutral_headline": "Halloween Film Fest: Classic Ghost Stories for Spooky Season",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/features/2025/10/halloween-film-fest-15-classic-ghost-stories/",
-          "published_at": "Thu, 30 Oct 2025 11:00:37 +0000",
-          "title": "Halloween film fest: 15 classic ghost stories",
-          "standfirst": "From The Uninvited to Crimson Peak, these films will help you set the tone for spooky season.",
-          "content": "It’s spooky season, and what better way to spend Halloween weekend than settling in to watch a classic Hollywood ghost story? To help you figure out what to watch, we’ve compiled a handy list of 15 classic ghost stories, presented in chronological order. What makes a good ghost story? Everyone’s criteria (and taste) will differ, but for this list, we’ve focused on more traditional elements. There’s usually a spooky old house with a ghostly presence and/or someone who’s attuned to said presence. The living must solve the mystery of what happened to trap the ghost(s) there in hopes of setting said ghost(s) free. In that sense, the best, most satisfying ghost stories are mysteries—and sometimes also love stories. The horror is more psychological, and when it comes to gore, less is usually more. As always, the list below isn’t meant to be exhaustive. Mostly, we’re going for a certain atmospheric vibe to set a mood. So our list omits overt comedies like Ghostbusters and (arguably) Ghost, as well as supernatural horror involving demonic possession—The Exorcist, The Conjuring, Insidious—or monsters, like The Babadook or Sinister. Feel free to suggest your own recommendations in the comments.Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ghostTOP-1152x648-1759590541.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ghostTOP-1152x648-1759590541.jpg",
-      "popularity_score": 133.28250777777777,
-      "ai_summary": [
-        "A film festival features 15 classic ghost stories for Halloween viewing.",
-        "Films include \"The Uninvited\" and \"Crimson Peak\" among others.",
-        "These films are selected to set the tone for the spooky season.",
-        "The festival offers a curated selection of horror and suspense films.",
-        "The films represent a range of classic and modern ghost story styles."
-      ]
-    },
-    {
-      "id": "cluster_127",
+      "id": "cluster_130",
       "coverage": 1,
       "updated_at": "Wed, 29 Oct 2025 21:04:45 +0000",
       "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
-      "neutral_headline": "Malicious Packages Flooded NPM, Downloaded Over 86,000 Times",
+      "neutral_headline": "Malicious Packages Flood NPM, Downloaded Thousands of Times",
       "items": [
         {
           "source": "Ars Technica",
@@ -805,11 +737,39 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
       "popularity_score": 133,
       "ai_summary": [
-        "Malicious packages were uploaded to NPM and downloaded over 86,000 times.",
-        "These packages could fetch dependencies from untrusted sites.",
-        "This poses a security risk to developers using these packages.",
-        "The packages could potentially compromise user data or systems.",
-        "The incident highlights the importance of package security in software development."
+        "Malicious packages on NPM have been downloaded over 86,000 times.",
+        "These packages can fetch dependencies from untrusted sources.",
+        "The article highlights the risks associated with software supply chains.",
+        "The issue underscores the importance of package security.",
+        "Developers are urged to be cautious about package dependencies."
+      ]
+    },
+    {
+      "id": "cluster_104",
+      "coverage": 1,
+      "updated_at": "Thu, 30 Oct 2025 11:00:37 +0000",
+      "title": "Halloween film fest: 15 classic ghost stories",
+      "neutral_headline": "Halloween Film Festival Showcases Classic Ghost Stories",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/features/2025/10/halloween-film-fest-15-classic-ghost-stories/",
+          "published_at": "Thu, 30 Oct 2025 11:00:37 +0000",
+          "title": "Halloween film fest: 15 classic ghost stories",
+          "standfirst": "From The Uninvited to Crimson Peak, these films will help you set the tone for spooky season.",
+          "content": "It’s spooky season, and what better way to spend Halloween weekend than settling in to watch a classic Hollywood ghost story? To help you figure out what to watch, we’ve compiled a handy list of 15 classic ghost stories, presented in chronological order. What makes a good ghost story? Everyone’s criteria (and taste) will differ, but for this list, we’ve focused on more traditional elements. There’s usually a spooky old house with a ghostly presence and/or someone who’s attuned to said presence. The living must solve the mystery of what happened to trap the ghost(s) there in hopes of setting said ghost(s) free. In that sense, the best, most satisfying ghost stories are mysteries—and sometimes also love stories. The horror is more psychological, and when it comes to gore, less is usually more. As always, the list below isn’t meant to be exhaustive. Mostly, we’re going for a certain atmospheric vibe to set a mood. So our list omits overt comedies like Ghostbusters and (arguably) Ghost, as well as supernatural horror involving demonic possession—The Exorcist, The Conjuring, Insidious—or monsters, like The Babadook or Sinister. Feel free to suggest your own recommendations in the comments.Read full article Comments",
+          "feed_position": 16,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ghostTOP-1152x648-1759590541.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ghostTOP-1152x648-1759590541.jpg",
+      "popularity_score": 130,
+      "ai_summary": [
+        "The article recommends fifteen classic ghost stories for Halloween.",
+        "Films mentioned include \"The Uninvited\" and \"Crimson Peak.\"",
+        "The selection aims to set the tone for the spooky season.",
+        "The article provides a curated list of horror film recommendations.",
+        "The films are intended to enhance the Halloween experience."
       ]
     }
   ]
