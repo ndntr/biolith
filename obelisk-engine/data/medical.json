@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2025-11-01T07:16:48.493Z",
+    "updated_at": "2025-11-01T11:14:26.351Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-11-01T07:17:05.551Z",
+    "updated_at": "2025-11-01T11:14:42.155Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/4718ec06-d364-4e33-9f17-573b7cbed55e/Hugely-detrimental-Mental-health-item-changes-raise-concern.aspx",
         "ai_summary": [
-          "Doctors are worried about changes to mental health billing items.",
-          "The scrapping of co-billed items is a major concern.",
-          "The 12-month exemption rules are also causing worry.",
-          "Doctors fear the changes will impact patient care.",
-          "Clinic sustainability is also at risk due to the changes."
+          "Doctors are concerned about changes to mental health billing.",
+          "The scrapping of co-billed items and exemptions is a worry.",
+          "The changes may impact patient care and clinic sustainability.",
+          "The article discusses the financial and practical implications.",
+          "The report focuses on the concerns of medical professionals."
         ]
       },
       {
@@ -54,10 +54,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/def657f5-a63a-4657-9e66-35f7d56932a9/Boosting-registrar-numbers-in-the-bush.aspx",
         "ai_summary": [
           "Future GPs took a 300-kilometer road trip in New South Wales.",
-          "The trip offered a taste of rural medicine to the next generation.",
-          "The experience was described as \"incredibly valuable\" by participants.",
-          "The goal was to boost the number of rural GPs.",
-          "The program aimed to encourage rural medicine careers."
+          "The trip offered experience in rural medicine.",
+          "The article discusses the benefits of rural medical training.",
+          "The report focuses on the next generation of GPs.",
+          "The goal is to increase the number of rural doctors."
         ]
       },
       {
@@ -80,20 +80,72 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/e0441565-82e9-47c7-8948-2c2d04801685/Adolescent-to-parent-violence-GPs-need-more-support.aspx",
         "ai_summary": [
-          "Dr. Wei-May Su discussed adolescent to parent violence.",
-          "GPs need more support to manage these family situations.",
-          "The discussion focused on how GPs can be better supported.",
-          "The context of the discussion was adolescent to parent violence.",
-          "The goal is to improve GP's ability to help families."
+          "GPs need more support when dealing with family violence.",
+          "Dr. Wei-May Su discusses how to support families.",
+          "The article focuses on adolescent to parent violence.",
+          "The report highlights the role of GPs in these situations.",
+          "The goal is to improve support for families."
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2025-11-01T07:17:05.576Z",
+    "updated_at": "2025-11-01T11:14:36.720Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 01 Nov 2025 11:00:33 GMT",
+        "title": "US food banks are rushing to stock supplies amid Snap lapse: ‘garner all the resources that we can’",
+        "neutral_headline": "US food banks are rushing to stock supplies amid Snap lapse: ‘garner all the resources that we can’: Food insecurity for millions of Americans set to increase with Trump officials saying Snap benefits will cease as government shutdown enters second monthWaves of hungry Angelenos gathered outside Community Space food bank’s storefront on a recent afternoon, grabbing dry goods like pastries, bagels, lentils and pasta along with refrigerated salads and frozen bags of brisket.The crowd ebbs and flows all day, said founder Gaines Newborn, but as news spread last week that the federal Supplemental Nutrition Assistance Program (Snap) would cease on Saturday, he braced for the need to dramatically increase. Continue reading",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2025/nov/01/food-banks-stock-resources-snap-lapse",
+            "published_at": "Sat, 01 Nov 2025 11:00:33 GMT",
+            "title": "US food banks are rushing to stock supplies amid Snap lapse: ‘garner all the resources that we can’",
+            "standfirst": "Food insecurity for millions of Americans set to increase with Trump officials saying Snap benefits will cease as government shutdown enters second monthWaves of hungry Angelenos gathered outside Community Space food bank’s storefront on a recent afternoon, grabbing dry goods like pastries, bagels, lentils and pasta along with refrigerated salads and frozen bags of brisket.The crowd ebbs and flows all day, said founder Gaines Newborn, but as news spread last week that the federal Supplemental Nutrition Assistance Program (Snap) would cease on Saturday, he braced for the need to dramatically increase. Continue reading...",
+            "content": "Food insecurity for millions of Americans set to increase with Trump officials saying Snap benefits will cease as government shutdown enters second monthWaves of hungry Angelenos gathered outside Community Space food bank’s storefront on a recent afternoon, grabbing dry goods like pastries, bagels, lentils and pasta along with refrigerated salads and frozen bags of brisket.The crowd ebbs and flows all day, said founder Gaines Newborn, but as news spread last week that the federal Supplemental Nutrition Assistance Program (Snap) would cease on Saturday, he braced for the need to dramatically increase. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "US food banks are stocking supplies due to SNAP benefit lapse.",
+          "Food insecurity is increasing for millions of Americans.",
+          "SNAP benefits are ceasing due to the government shutdown.",
+          "Food banks are preparing for increased demand.",
+          "The article discusses the impact on vulnerable populations."
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Sat, 01 Nov 2025 09:15:12 GMT",
+        "title": "Medics got me through cancer but they can't help with my menopause",
+        "neutral_headline": "Medics got me through cancer but they can't help with my menopause",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c77z4yxmnyro?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 01 Nov 2025 09:15:12 GMT",
+            "title": "Medics got me through cancer but they can't help with my menopause",
+            "standfirst": "When Kat Denisi was diagnosed with breast cancer at 32 she was put into a medically induced menopause.",
+            "content": "When Kat Denisi was diagnosed with breast cancer at 32 she was put into a medically induced menopause.",
+            "feed_position": 86,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c971/live/2b12f070-ae7a-11f0-86fd-8d837d20b15a.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c971/live/2b12f070-ae7a-11f0-86fd-8d837d20b15a.jpg",
+        "ai_summary": [
+          "A woman experienced medically induced menopause after cancer.",
+          "The article discusses the challenges of menopause.",
+          "The report focuses on the personal experience of the woman.",
+          "The article highlights the impact of cancer treatment.",
+          "The focus is on the lack of support for menopause symptoms."
+        ]
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sat, 01 Nov 2025 00:52:35 GMT",
         "title": "At 21, I was crushed by a stranger's joke about going bald. Then the way I looked at myself changed",
@@ -112,46 +164,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d49/live/cf60a290-b649-11f0-ba75-093eca1ac29b.jpg",
         "ai_summary": [
-          "A person was affected by a joke about going bald at age 21.",
-          "The experience changed how the person viewed themself.",
-          "Multiple methods exist to combat hair loss for men.",
-          "The article questions if men should have to combat hair loss.",
-          "The article explores the emotional impact of hair loss."
+          "A man was affected by a joke about going bald at age 21.",
+          "The article discusses the impact of the joke on his self-image.",
+          "The report focuses on the man's experience with hair loss.",
+          "The article explores the psychological effects of hair loss.",
+          "The focus is on the changing perception of appearance."
         ]
       },
       {
-        "id": "cluster_1",
-        "coverage": 1,
-        "updated_at": "Fri, 31 Oct 2025 22:57:50 GMT",
-        "title": "Medics got me through cancer but they can't help with my menopause",
-        "neutral_headline": "Medics got me through cancer but they can't help with my menopause",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c77z4yxmnyro?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 31 Oct 2025 22:57:50 GMT",
-            "title": "Medics got me through cancer but they can't help with my menopause",
-            "standfirst": "When Kat Denisi was diagnosed with breast cancer at 32 she was put into a medically induced menopause.",
-            "content": "When Kat Denisi was diagnosed with breast cancer at 32 she was put into a medically induced menopause.",
-            "feed_position": 86,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c971/live/2b12f070-ae7a-11f0-86fd-8d837d20b15a.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c971/live/2b12f070-ae7a-11f0-86fd-8d837d20b15a.jpg",
-        "ai_summary": [
-          "A woman was diagnosed with breast cancer at age 32.",
-          "She was put into medically induced menopause.",
-          "The article discusses the challenges of menopause.",
-          "The woman received medical help for cancer treatment.",
-          "The article highlights the limitations of medical care."
-        ]
-      },
-      {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Fri, 31 Oct 2025 12:00:06 GMT",
         "title": "CDC employees on chaos of being fired, rehired and fired again: ‘stuck in limbo’",
-        "neutral_headline": "CDC employees on chaos of being fired, rehired and fired again: ‘stuck in limbo’",
+        "neutral_headline": "CDC employees on chaos of being fired, rehired and fired again: ‘stuck in limbo’: Americans’ health in jeopardy as agency plunged into tumult and inefficiency even after court ruled firings illegalAs layoff notices swept through the US Centers for Disease Control and Prevention (CDC) on 10 October, Aryn Melton Backus thought she would be safe this time.Then she received the email: she was part of a major reduction in force (RIF) during the US government shutdown. It wasn’t the first time she’d been fired from the CDC by email, nor the second. Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -160,23 +185,23 @@
             "title": "CDC employees on chaos of being fired, rehired and fired again: ‘stuck in limbo’",
             "standfirst": "Americans’ health in jeopardy as agency plunged into tumult and inefficiency even after court ruled firings illegalAs layoff notices swept through the US Centers for Disease Control and Prevention (CDC) on 10 October, Aryn Melton Backus thought she would be safe this time.Then she received the email: she was part of a major reduction in force (RIF) during the US government shutdown. It wasn’t the first time she’d been fired from the CDC by email, nor the second. Continue reading...",
             "content": "Americans’ health in jeopardy as agency plunged into tumult and inefficiency even after court ruled firings illegalAs layoff notices swept through the US Centers for Disease Control and Prevention (CDC) on 10 October, Aryn Melton Backus thought she would be safe this time.Then she received the email: she was part of a major reduction in force (RIF) during the US government shutdown. It wasn’t the first time she’d been fired from the CDC by email, nor the second. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ],
         "ai_summary": [
-          "CDC employees experienced multiple firings and rehirings.",
-          "The firings occurred during a US government shutdown.",
-          "A court ruled the firings illegal.",
-          "The employees felt \"stuck in limbo\" due to the situation.",
-          "The situation caused inefficiency within the CDC."
+          "CDC employees experienced firings and rehirings.",
+          "The agency faced tumult and inefficiency.",
+          "Court ruled previous firings illegal.",
+          "The article discusses the impact of the government shutdown.",
+          "The report focuses on the experiences of CDC employees."
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Fri, 31 Oct 2025 09:00:21 GMT",
         "title": "The nature extinction crisis is mirrored by one in our own bodies. Both have huge implications for health",
-        "neutral_headline": "The nature extinction crisis is mirrored by one in our own bodies. Both have huge implications for health",
+        "neutral_headline": "The nature extinction crisis is mirrored by one in our own bodies. Both have huge implications for health: Modern life is waging a war against ecosystems around us and inside us. Keeping our own microbes healthy is another reason to demand action to preserve the natural worldRead more: The luxury effect: why you’ll find more wildlife in wealthy areas – and what it means for your healthHuman bodies are like cities, teeming with microcitizens – vast communities of viruses, fungi and bacteria that live all over our skin and inside us. Unsung public servants help us digest food, regulate our immune system, defend against pathogens, and keep hormones in check. Together, they make up what we call the human microbiome.Most people have probably heard of the gut microbiome, but different microbes thrive all over our bodies – in our nostrils, on our feet, in our eyes. They are slightly different, like boroughs are composed of different communities of people. Ninety per cent of cells in our body are microbes, and “clouds” of bacteria come off someone’s body as they enter a room. We are all walking ecosystems, picking up and shedding material as we move through life. Continue reading",
         "items": [
           {
             "source": "Guardian Health",
@@ -185,7 +210,7 @@
             "title": "The nature extinction crisis is mirrored by one in our own bodies. Both have huge implications for health",
             "standfirst": "Modern life is waging a war against ecosystems around us and inside us. Keeping our own microbes healthy is another reason to demand action to preserve the natural worldRead more: The luxury effect: why you’ll find more wildlife in wealthy areas – and what it means for your healthHuman bodies are like cities, teeming with microcitizens – vast communities of viruses, fungi and bacteria that live all over our skin and inside us. Unsung public servants help us digest food, regulate our immune system, defend against pathogens, and keep hormones in check. Together, they make up what we call the human microbiome.Most people have probably heard of the gut microbiome, but different microbes thrive all over our bodies – in our nostrils, on our feet, in our eyes. They are slightly different, like boroughs are composed of different communities of people. Ninety per cent of cells in our body are microbes, and “clouds” of bacteria come off someone’s body as they enter a room. We are all walking ecosystems, picking up and shedding material as we move through life. Continue reading...",
             "content": "Modern life is waging a war against ecosystems around us and inside us. Keeping our own microbes healthy is another reason to demand action to preserve the natural worldRead more: The luxury effect: why you’ll find more wildlife in wealthy areas – and what it means for your healthHuman bodies are like cities, teeming with microcitizens – vast communities of viruses, fungi and bacteria that live all over our skin and inside us. Unsung public servants help us digest food, regulate our immune system, defend against pathogens, and keep hormones in check. Together, they make up what we call the human microbiome.Most people have probably heard of the gut microbiome, but different microbes thrive all over our bodies – in our nostrils, on our feet, in our eyes. They are slightly different, like boroughs are composed of different communities of people. Ninety per cent of cells in our body are microbes, and “clouds” of bacteria come off someone’s body as they enter a room. We are all walking ecosystems, picking up and shedding material as we move through life. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           },
           {
             "source": "Guardian Health",
@@ -194,23 +219,23 @@
             "title": "The luxury effect: why you’ll find more wildlife in wealthy areas – and what it means for your health",
             "standfirst": "The discovery that affluent neighbourhoods have more diversity of nature has implications for human wellbeing – and sheds light on the structural injustices in citiesRead more: The nature extinction crisis is mirrored by one in our own bodies. Both have huge implications for healthFor a long time, ecology tended to ignore people. It mostly focused on beautiful places far from large-scale human development: deep rainforest or pristine grassland. Then, in the late 1990s, in the desert city of Phoenix, Arizona, scientists shifted their gaze closer to home.A team of ecologists went out into their own neighbourhood to map the distribution of urban plants in one of the first studies of its kind. Equipped with tape measures and clipboards, they documented trees and shrubs, sometimes getting on all fours to crawl through bushes under the curious watch of local people. Continue reading...",
             "content": "The discovery that affluent neighbourhoods have more diversity of nature has implications for human wellbeing – and sheds light on the structural injustices in citiesRead more: The nature extinction crisis is mirrored by one in our own bodies. Both have huge implications for healthFor a long time, ecology tended to ignore people. It mostly focused on beautiful places far from large-scale human development: deep rainforest or pristine grassland. Then, in the late 1990s, in the desert city of Phoenix, Arizona, scientists shifted their gaze closer to home.A team of ecologists went out into their own neighbourhood to map the distribution of urban plants in one of the first studies of its kind. Equipped with tape measures and clipboards, they documented trees and shrubs, sometimes getting on all fours to crawl through bushes under the curious watch of local people. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ],
         "ai_summary": [
-          "Modern life is at war with ecosystems inside and outside us.",
-          "The human microbiome is composed of viruses, fungi, and bacteria.",
+          "The nature extinction crisis mirrors one in our bodies.",
+          "Modern life impacts ecosystems inside and outside us.",
+          "The human body contains a vast microbiome.",
           "Microbes help digest food and regulate the immune system.",
-          "The gut microbiome is well-known, but microbes thrive everywhere.",
-          "Affluent neighborhoods have more nature diversity, impacting health."
+          "The article discusses the importance of preserving nature."
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Fri, 31 Oct 2025 07:07:29 GMT",
         "title": "'My child won't walk again after failed surgery'",
-        "neutral_headline": "My child won't walk again after failed surgery",
+        "neutral_headline": "Child's Surgery Fails, Hospital Admits Error, Changes Implemented",
         "items": [
           {
             "source": "BBC Health",
@@ -225,19 +250,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a167/live/f64d35b0-b641-11f0-ba75-093eca1ac29b.jpg",
         "ai_summary": [
-          "A child will not walk again after a failed surgery.",
-          "Cambridge University Hospitals admitted the surgery \"should not have happened\".",
-          "Changes are being made at the hospital.",
-          "The article discusses the impact of the failed surgery.",
-          "The hospital is taking steps to prevent future errors."
+          "Cambridge University Hospitals stated a surgery should not have failed.",
+          "The hospital is making changes following the surgical error.",
+          "The article focuses on a child's failed surgery and its aftermath.",
+          "Details about the specific changes being implemented are not provided.",
+          "The hospital acknowledged the error and its impact on the child."
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Fri, 31 Oct 2025 00:41:34 GMT",
         "title": "Long A&E waits causing heartbreaking suffering, charity says",
-        "neutral_headline": "Long A&E waits causing heartbreaking suffering, charity says",
+        "neutral_headline": "Long A&E Waits Cause Suffering, Patients Dying, Charity Says",
         "items": [
           {
             "source": "BBC Health",
@@ -252,19 +277,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ff/live/ab21ca90-b5b2-11f0-962a-97c89857c780.jpg",
         "ai_summary": [
-          "Long A&E waits are causing suffering, according to a charity.",
-          "Patients are dying in corridors due to long wait times.",
-          "Some patients are left in soiled clothes for hours.",
-          "Age UK is the charity making the claims.",
-          "The article highlights the impact of long A&E waits."
+          "Age UK reports long A&E waits are causing suffering for patients.",
+          "Some patients are dying in corridors due to extended wait times.",
+          "Patients are left in soiled clothes for hours while waiting.",
+          "The charity highlights the impact of long wait times on patient care.",
+          "The report emphasizes the need for improved A&E efficiency."
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 31 Oct 2025 00:34:03 GMT",
         "title": "Bats are seeking sanctuary in churches - but they're making an unholy mess",
-        "neutral_headline": "Bats Seek Sanctuary in Churches, Causing Mess in England",
+        "neutral_headline": "Bats Seek Sanctuary in Churches, Causing Mess, Study Finds",
         "items": [
           {
             "source": "BBC Science",
@@ -279,19 +304,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae76/live/ac00a680-b62e-11f0-aa13-0b0479f6f42a.jpg",
         "ai_summary": [
-          "A new study estimates about half of English churches house bats.",
-          "Bats' presence creates an \"unholy mess\" within the churches.",
-          "The study highlights the conflict between bat conservation and church maintenance.",
-          "The impact of bat droppings and other bat-related issues is significant.",
-          "The study explores the challenges of managing bats in historic buildings."
+          "A new study estimates bats live in about half of England's churches.",
+          "The presence of bats in churches creates an \"unholy mess\".",
+          "The article focuses on the impact of bats on church environments.",
+          "Details about the specific mess created by the bats are not provided.",
+          "The study highlights the intersection of wildlife and religious spaces."
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 31 Oct 2025 00:01:10 GMT",
         "title": "Nearly 150,000 aged 90 and above wait 12 hours in England’s A&Es each year",
-        "neutral_headline": "Older People Face Long A&E Waits in England, Report Finds",
+        "neutral_headline": "Elderly Wait Hours in A&E, Report Finds, Experiencing Suffering",
         "items": [
           {
             "source": "Guardian Health",
@@ -300,23 +325,23 @@
             "title": "Nearly 150,000 aged 90 and above wait 12 hours in England’s A&Es each year",
             "standfirst": "Older people left in their own excrement and wet beds for hours and forced to watch others die, Age UK report findsAlmost 150,000 people aged 90 and over in England are forced to wait longer than 12 hours in A&E every year, with some experiencing “truly shocking” waits of several days stuck in corridors, a report warns.Older people are also being left in their own excrement and wet beds for hours, denied pain relief and forced to watch and hear other patients die next to them because they end up waiting so long for care, according to Age UK. Continue reading...",
             "content": "Older people left in their own excrement and wet beds for hours and forced to watch others die, Age UK report findsAlmost 150,000 people aged 90 and over in England are forced to wait longer than 12 hours in A&E every year, with some experiencing “truly shocking” waits of several days stuck in corridors, a report warns.Older people are also being left in their own excrement and wet beds for hours, denied pain relief and forced to watch and hear other patients die next to them because they end up waiting so long for care, according to Age UK. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "Nearly 150,000 people aged 90+ wait over 12 hours in England's A&Es annually.",
-          "Some experience waits of several days in corridors, according to the report.",
-          "Age UK reports older people are left in excrement and wet beds for hours.",
-          "Some are denied pain relief and witness other patients' deaths.",
-          "The report highlights the strain on the healthcare system."
+          "Nearly 150,000 people aged 90 and above wait over 12 hours in England's A&Es annually.",
+          "Some elderly patients are left in their own excrement and wet beds for hours.",
+          "The report highlights instances of patients witnessing others die.",
+          "Age UK's report details the poor conditions and long wait times.",
+          "The report emphasizes the need for improved care for elderly patients."
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 30 Oct 2025 17:28:08 GMT",
         "title": "A doctor’s bracing advice to new mums | Brief letters",
-        "neutral_headline": "Doctor's Advice to New Mums, Income Tax Questions, and More",
+        "neutral_headline": "A doctor’s bracing advice to new mums | Brief letters: Celebrities’ bodies | Rachel Reeves | Income tax | Dogs on sofas",
         "items": [
           {
             "source": "Guardian Health",
@@ -325,19 +350,19 @@
             "title": "A doctor’s bracing advice to new mums | Brief letters",
             "standfirst": "Celebrities’ bodies | Rachel Reeves | Income tax | Dogs on sofasCoco Khan’s article (Opinion, 22 October) reminded me of a visit to my GP 30 years ago, after the birth of my son. While waiting to go in, I’d been perusing the usual array of magazines featuring celebrities, several of whom had recently given birth and had seemingly bounced back into shape overnight. When I saw the doctor, a wonderful gentleman edging towards retirement, and quizzed him on how on earth this was possible, his response was quite simple: “Corsetry, my dear.”Sarah PostinsCatworth, Cambridgeshire• I have a question for Rachel Reeves in response to her column ( 28 October). Can she tell us the income threshold at which someone goes from being in the “working people” category to being in the “broadest shoulders” category? Then everyone will be crystal clear about what is coming for them in November’s budget.Chris HudsonStratford-upon-Avon, Warwickshire Continue reading...",
             "content": "Celebrities’ bodies | Rachel Reeves | Income tax | Dogs on sofasCoco Khan’s article (Opinion, 22 October) reminded me of a visit to my GP 30 years ago, after the birth of my son. While waiting to go in, I’d been perusing the usual array of magazines featuring celebrities, several of whom had recently given birth and had seemingly bounced back into shape overnight. When I saw the doctor, a wonderful gentleman edging towards retirement, and quizzed him on how on earth this was possible, his response was quite simple: “Corsetry, my dear.”Sarah PostinsCatworth, Cambridgeshire• I have a question for Rachel Reeves in response to her column ( 28 October). Can she tell us the income threshold at which someone goes from being in the “working people” category to being in the “broadest shoulders” category? Then everyone will be crystal clear about what is coming for them in November’s budget.Chris HudsonStratford-upon-Avon, Warwickshire Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ],
         "ai_summary": [
-          "An article recalls a doctor's advice on post-birth celebrity body transformations.",
-          "The doctor attributed the quick recovery to corsetry.",
+          "An article discusses a doctor's advice to a new mother about body image.",
           "A reader asks Rachel Reeves about income tax thresholds.",
-          "The reader seeks clarity on the \"working people\" and \"broadest shoulders\" categories.",
-          "The letter writer wants to understand the upcoming budget's impact."
+          "The article includes letters on various topics, including dogs on sofas.",
+          "The article references celebrity body image after childbirth.",
+          "The letters section covers diverse topics and reader opinions."
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 30 Oct 2025 17:00:00 GMT",
         "title": "BBC Inside Science",
@@ -356,19 +381,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
         "ai_summary": [
-          "The BBC Inside Science program will explore hurricane science.",
-          "The episode will focus on the factors that make hurricanes dangerous.",
-          "The program will likely discuss wind speeds and storm surge.",
-          "The science of hurricane formation and intensification will be covered.",
-          "The program may address the impact of climate change on hurricanes."
+          "The BBC Inside Science program explores hurricane science.",
+          "The program focuses on the factors that make hurricanes deadly.",
+          "The article likely discusses the physics of hurricanes.",
+          "The program may cover the impact of hurricanes on populations.",
+          "The article likely explains the science behind hurricane formation."
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 30 Oct 2025 16:19:30 GMT",
         "title": "What is COP30 and why does it matter?",
-        "neutral_headline": "What is COP30 and why does it matter?: World leaders will soon gather for the annual UN meeting on how to tackle climate change",
+        "neutral_headline": "COP30: What it is, Why it Matters, Climate Change Meeting",
         "items": [
           {
             "source": "BBC Science",
@@ -383,19 +408,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/405d/live/55ac28f0-b5a6-11f0-8833-43b4d09dd0bc.jpg",
         "ai_summary": [
-          "COP30 is the annual United Nations meeting on climate change.",
+          "COP30 is the annual UN meeting on climate change.",
           "World leaders will gather to discuss climate change solutions.",
-          "The meeting will address global efforts to reduce emissions.",
-          "COP30 will likely focus on climate change mitigation and adaptation.",
-          "The conference aims to set new climate goals and policies."
+          "The article explains the significance of the COP30 meeting.",
+          "The meeting focuses on tackling climate change issues.",
+          "The article likely discusses the goals and agenda of COP30."
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 30 Oct 2025 16:15:54 GMT",
         "title": "Senate postpones hearing for Trump’s surgeon general pick after she goes into labor",
-        "neutral_headline": "Senate postpones hearing for Trump’s surgeon general pick after she goes into labor: Casey Means, a leading Maha figure with an inactive medical license, is Trump’s second pick for the roleUS politics live – latest updatesThe Senate hearing for Donald Trump’s nominee for surgeon general, Casey Means, has been postponed after the nominee went into labor with her first child.Means had planned to make history as the first nominee to appear virtually before the Senate health, education, labor and pensions committee due to her pregnancy on Thursday. The hearing was originally scheduled for two days after her due date, a person familiar with the matter told CNN. It remains unclear when the hearing will be rescheduled. Continue reading",
+        "neutral_headline": "Senate Postpones Hearing for Trump’s Surgeon General Pick",
         "items": [
           {
             "source": "Guardian Health",
@@ -404,23 +429,23 @@
             "title": "Senate postpones hearing for Trump’s surgeon general pick after she goes into labor",
             "standfirst": "Casey Means, a leading Maha figure with an inactive medical license, is Trump’s second pick for the roleUS politics live – latest updatesThe Senate hearing for Donald Trump’s nominee for surgeon general, Casey Means, has been postponed after the nominee went into labor with her first child.Means had planned to make history as the first nominee to appear virtually before the Senate health, education, labor and pensions committee due to her pregnancy on Thursday. The hearing was originally scheduled for two days after her due date, a person familiar with the matter told CNN. It remains unclear when the hearing will be rescheduled. Continue reading...",
             "content": "Casey Means, a leading Maha figure with an inactive medical license, is Trump’s second pick for the roleUS politics live – latest updatesThe Senate hearing for Donald Trump’s nominee for surgeon general, Casey Means, has been postponed after the nominee went into labor with her first child.Means had planned to make history as the first nominee to appear virtually before the Senate health, education, labor and pensions committee due to her pregnancy on Thursday. The hearing was originally scheduled for two days after her due date, a person familiar with the matter told CNN. It remains unclear when the hearing will be rescheduled. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ],
         "ai_summary": [
-          "The Senate hearing for Casey Means was postponed due to her labor.",
-          "Means is Donald Trump's nominee for surgeon general.",
-          "She planned to appear virtually before the Senate committee.",
+          "The Senate postponed the hearing for Trump's surgeon general nominee.",
+          "The nominee, Casey Means, went into labor before the hearing.",
+          "Means is Trump's second pick for the surgeon general role.",
           "The hearing was originally scheduled shortly after her due date.",
-          "The rescheduling date for the hearing is currently unknown."
+          "The rescheduled date for the hearing remains unclear."
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 30 Oct 2025 15:18:47 GMT",
         "title": "Share how the ongoing US government shutdown could affect your access to food or health insurance",
-        "neutral_headline": "Share how the ongoing US government shutdown could affect your access to food or health insurance: We’re interested to hear how the looming pause of Snap benefits, as well as rising insurance costs due to a loss of subsidies, could affect AmericansMore than 40 million Americans will stop receiving food stamps on 1 November, as the US government shutdown enters its fifth week.The Department of Agriculture says the Supplemental Nutrition Assistance Program (Snap) will be suspended until Congress reopens the government. While the Trump administration argues the department does not have the legal authority to use a $5bn contingency fund to continue the aid, Democrats disagree, and two dozen states have sued the government to force the program to continue. Continue reading",
+        "neutral_headline": "Share how the ongoing US government shutdown could affect your access to food or health insurance",
         "items": [
           {
             "source": "Guardian Health",
@@ -429,23 +454,23 @@
             "title": "Share how the ongoing US government shutdown could affect your access to food or health insurance",
             "standfirst": "We’re interested to hear how the looming pause of Snap benefits, as well as rising insurance costs due to a loss of subsidies, could affect AmericansMore than 40 million Americans will stop receiving food stamps on 1 November, as the US government shutdown enters its fifth week.The Department of Agriculture says the Supplemental Nutrition Assistance Program (Snap) will be suspended until Congress reopens the government. While the Trump administration argues the department does not have the legal authority to use a $5bn contingency fund to continue the aid, Democrats disagree, and two dozen states have sued the government to force the program to continue. Continue reading...",
             "content": "We’re interested to hear how the looming pause of Snap benefits, as well as rising insurance costs due to a loss of subsidies, could affect AmericansMore than 40 million Americans will stop receiving food stamps on 1 November, as the US government shutdown enters its fifth week.The Department of Agriculture says the Supplemental Nutrition Assistance Program (Snap) will be suspended until Congress reopens the government. While the Trump administration argues the department does not have the legal authority to use a $5bn contingency fund to continue the aid, Democrats disagree, and two dozen states have sued the government to force the program to continue. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "Over 40 million Americans will lose food stamps on November 1st.",
-          "The SNAP program will be suspended due to the government shutdown.",
-          "The Department of Agriculture cites lack of legal authority.",
-          "Democrats disagree and some states are suing the government.",
-          "The article seeks personal stories about the shutdown's impact."
+          "The US government shutdown may affect access to food and health insurance.",
+          "Over 40 million Americans will stop receiving food stamps on November 1.",
+          "The Supplemental Nutrition Assistance Program (SNAP) will be suspended.",
+          "The Department of Agriculture says it lacks legal authority to continue aid.",
+          "Two dozen states have sued the government to continue the program."
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 30 Oct 2025 14:35:13 GMT",
         "title": "Health officials worried as flu season comes five weeks early",
-        "neutral_headline": "Health Officials Concerned as Flu Season Arrives Early in UK",
+        "neutral_headline": "Health Officials Concerned, Flu Season Arrives Early, Urge Vaccination",
         "items": [
           {
             "source": "BBC Health",
@@ -462,13 +487,13 @@
         "ai_summary": [
           "UK health officials are worried about an early flu season.",
           "The UK Health Security Agency urges people to get vaccinated.",
-          "Flu cases are currently on the rise in the United Kingdom.",
-          "The flu season has started approximately five weeks early.",
-          "Health officials are monitoring the situation closely."
+          "Flu cases are currently on the rise in the UK.",
+          "The article highlights the early arrival of the flu season.",
+          "The article emphasizes the importance of vaccination."
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 30 Oct 2025 13:26:04 GMT",
         "title": "Teesside hydrogen plant decision delayed again",
@@ -487,17 +512,17 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee21/live/a1d61040-13be-11f0-b1c4-498f305c3d3a.jpg",
         "ai_summary": [
-          "The decision on the Teesside hydrogen plant has been delayed.",
-          "BP and Teesworks are in a dispute over land.",
-          "The land is located at the former steelworks in Redcar.",
-          "The dispute is causing the project's delay.",
-          "The details of the land dispute are not fully disclosed."
+          "The decision on the Teesside hydrogen plant has been delayed again.",
+          "BP and Teesworks are in a dispute over land at the former steelworks.",
+          "The dispute is delaying the project's progress.",
+          "The article focuses on the land dispute's impact.",
+          "The project's future is uncertain due to the ongoing dispute."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-11-01T07:17:05.577Z",
+    "updated_at": "2025-11-01T11:14:42.155Z",
     "clusters": []
   }
 }
