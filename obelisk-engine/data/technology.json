@@ -1,8 +1,8 @@
 {
-  "updated_at": "2025-11-02T23:16:57.594Z",
+  "updated_at": "2025-11-03T03:50:09.622Z",
   "clusters": [
     {
-      "id": "cluster_0",
+      "id": "cluster_12",
       "coverage": 2,
       "updated_at": "Sun, 02 Nov 2025 17:25:00 -0500",
       "title": "Google says it has removed its AI model Gemma from AI Studio; in a letter to Google, Sen. Blackburn said it fabricated sexual misconduct allegations against her (Anthony Ha/TechCrunch)",
@@ -15,7 +15,7 @@
           "title": "Google says it has removed its AI model Gemma from AI Studio; in a letter to Google, Sen. Blackburn said it fabricated sexual misconduct allegations against her (Anthony Ha/TechCrunch)",
           "standfirst": "Anthony Ha / TechCrunch: Google says it has removed its AI model Gemma from AI Studio; in a letter to Google, Sen. Blackburn said it fabricated sexual misconduct allegations against her &mdash; Google says it has removed Gemma from its AI Studio after a U.S. senator accused the AI model of fabricating accusations of sexual misconduct against her.",
           "content": "Anthony Ha / TechCrunch: Google says it has removed its AI model Gemma from AI Studio; in a letter to Google, Sen. Blackburn said it fabricated sexual misconduct allegations against her &mdash; Google says it has removed Gemma from its AI Studio after a U.S. senator accused the AI model of fabricating accusations of sexual misconduct against her.",
-          "feed_position": 0,
+          "feed_position": 3,
           "image_url": "http://www.techmeme.com/251102/i11.jpg"
         },
         {
@@ -25,25 +25,25 @@
           "title": "Google pulls Gemma from AI Studio after Senator Blackburn accuses model of defamation",
           "standfirst": "Senator Martha Blackburn argued Gemma’s fabrications are “not a harmless ‘hallucination,’\" but rather “an act of defamation produced and distributed by a Google-owned AI model.”",
           "content": "Senator Martha Blackburn argued Gemma’s fabrications are “not a harmless ‘hallucination,’\" but rather “an act of defamation produced and distributed by a Google-owned AI model.”",
-          "feed_position": 0
+          "feed_position": 3
         }
       ],
       "featured_image": "http://www.techmeme.com/251102/i11.jpg",
-      "popularity_score": 2019.1340016666666,
+      "popularity_score": 2014.5806605555556,
       "ai_summary": [
         "Google removed its AI model Gemma from AI Studio after accusations.",
-        "Senator Blackburn accused Gemma of fabricating sexual misconduct allegations.",
-        "The senator argued the fabrications were not harmless \"hallucinations.\"",
-        "Blackburn stated the AI model produced an act of defamation.",
-        "The defamation was produced and distributed by a Google-owned AI model."
+        "Senator Blackburn claimed the model fabricated sexual misconduct allegations.",
+        "The senator stated the fabrications were not harmless \"hallucinations\".",
+        "Blackburn called the AI's actions an act of defamation by Google.",
+        "Google has not yet commented on the specific allegations."
       ]
     },
     {
-      "id": "cluster_33",
+      "id": "cluster_44",
       "coverage": 2,
       "updated_at": "Sun, 02 Nov 2025 05:00:00 GMT",
       "title": "Moving past speculation: How deterministic CPUs deliver predictable AI performance",
-      "neutral_headline": "Moving past speculation: How deterministic CPUs deliver predictable AI performance",
+      "neutral_headline": "Deterministic CPUs deliver predictable AI performance",
       "items": [
         {
           "source": "VentureBeat",
@@ -109,70 +109,76 @@
           "content": "Recently, there has been a lot of hullabaloo about the idea that large reasoning models (LRM) are unable to think. This is mostly due to a research article published by Apple, \"The Illusion of Thinking\" Apple argues that LRMs must not be able to think; instead, they just perform pattern-matching. The evidence they provided is that LRMs with chain-of-thought (CoT) reasoning are unable to carry on the calculation using a predefined algorithm as the problem grows.This is a fundamentally flawed argument. If you ask a human who already knows the algorithm for solving the Tower-of-Hanoi problem to solve a Tower-of-Hanoi problem with twenty discs, for instance, he or she would almost certainly fail to do so. By that logic, we must conclude that humans cannot think either. However, this argument only points to the idea that there is no evidence that LRMs cannot think. This alone certainly does not mean that LRMs can think — just that we cannot be sure they don’t.In this article, I will make a bolder claim: LRMs almost certainly can think. I say ‘almost’ because there is always a chance that further research would surprise us. But I think my argument is pretty conclusive.What is thinking?Before we try to understand if LRMs can think, we need to define what we mean by thinking. But first, we have to make sure that humans can think per the definition. We will only consider thinking in relation to problem solving, which is the matter of contention.1. Problem representation (frontal and parietal lobes)When you think about a problem, the process engages your prefrontal cortex. This region is responsible for working memory, attention and executive functions — capacities that let you hold the problem in mind, break it into sub-components and set goals. Your parietal cortex helps encode symbolic structure for math or puzzle problems.2. Mental simulation (morking Memory and inner speech)This has two components: One is an auditory loop that lets you talk to yourself — very similar to CoT generation. The other is visual imagery, which allows you to manipulate objects visually. Geometry was so important for navigating the world that we developed specialized capabilities for it. The auditory part is linked to Broca’s area and the auditory cortex, both reused from language centers. The visual cortex and parietal areas primarily control the visual component.3. Pattern matching and retrieval (Hippocampus and Temporal Lobes)These actions depend on past experiences and stored knowledge from long-term memory:The hippocampus helps retrieve related memories and facts.The temporal Lobe brings in semantic knowledge — meanings, rules, categories.This is similar to how neural networks depend on their training to process the task.4. Monitoring and evaluation (Anterior Cingulate Cortex)Our anterior cingulate cortex (ACC) monitors for errors, conflicts or impasses — it’s where you notice contradictions or dead ends. This process is essentially based on pattern matching from prior experience.5. Insight or reframing (default mode network and right hemisphere)When you&#x27;re stuck, your brain might shift into default mode — a more relaxed, internally-directed network. This is when you step back, let go of the current thread and sometimes ‘suddenly’ see a new angle (the classic “aha!” moment).This is similar to how DeepSeek-R1 was trained for CoT reasoning without having CoT examples in its training data. Remember, the brain continuously learns as it processes data and solves problems.In contrast, LRMs aren’t allowed to change based on real-world feedback during prediction or generation. But with DeepSeek-R1’s CoT training, learning did happen as it attempted to solve the problems — essentially updating while reasoning.Similarities betweem CoT reasoning and biological thinkingLRM does not have all of the faculties mentioned above. For example, an LRM is very unlikely to do too much visual reasoning in its circuit, although a little may happen. But it certainly does not generate intermediate images in the CoT generation.Most humans can make spatial models in their heads to solve problems. Does this mean we can conclude that LRMs cannot think? I would disagree. Some humans also find it difficult to form spatial models of the concepts they think about. This condition is called aphantasia. People with this condition can think just fine. In fact, they go about life as if they don’t lack any ability at all. Many of them are actually great at symbolic reasoning and quite good at math — often enough to compensate for their lack of visual reasoning. We might expect our neural network models also to be able to circumvent this limitation.If we take a more abstract view of the human thought process described earlier, we can see mainly the following things involved:1. Pattern-matching is used for recalling learned experience, problem representation and monitoring and evaluating chains of thought.2. Working memory is to store all the intermediate steps.3. Backtracking search concludes that the CoT is not going anywhere and backtracks to some reasonable point.Pattern-matching in an LRM comes from its training. The whole point of training is to learn both knowledge of the world and the patterns to process that knowledge effectively. Since an LRM is a layered network, the entire working memory needs to fit within one layer. The weights store the knowledge of the world and the patterns to follow, while processing happens between layers using the learned patterns stored as model parameters.Note that even in CoT, the entire text — including the input, CoT and part of the output already generated — must fit into each layer. Working memory is just one layer (in the case of the attention mechanism, this includes the KV-cache).CoT is, in fact, very similar to what we do when we are talking to ourselves (which is almost always). We nearly always verbalize our thoughts, and so does a CoT reasoner.There is also good evidence that CoT reasoner can take backtracking steps when a certain line of reasoning seems futile. In fact, this is what the Apple researchers saw when they tried to ask the LRMs to solve bigger instances of simple puzzles. The LRMs correctly recognized that trying to solve the puzzles directly would not fit in their working memory, so they tried to figure out better shortcuts, just like a human would do. This is even more evidence that LRMs are thinkers, not just blind followers of predefined patterns.But why would a next-token-predictor learn to think?Neural networks of sufficient size can learn any computation, including thinking. But a next-word-prediction system can also learn to think. Let me elaborate. A general idea is LRMs cannot think because, at the end of the day, they are just predicting the next token; it is only a &#x27;glorified auto-complete.&#x27; This view is fundamentally incorrect — not that it is an &#x27;auto-complete,&#x27; but that an &#x27;auto-complete&#x27; does not have to think. In fact, next word prediction is far from a limited representation of thought. On the contrary, it is the most general form of knowledge representation that anyone can hope for. Let me explain.Whenever we want to represent some knowledge, we need a language or a system of symbolism to do so. Different formal languages exist that are very precise in terms of what they can express. However, such languages are fundamentally limited in the kinds of knowledge they can represent.For example, first-order predicate logic cannot represent properties of all predicates that satisfy a certain property, because it doesn&#x27;t allow predicates over predicates.Of course, there are higher-order predicate calculi that can represent predicates on predicates to arbitrary depths. But even they cannot express ideas that lack precision or are abstract in nature.Natural language, however, is complete in expressive power — you can describe any concept in any level of detail or abstraction. In fact, you can even describe concepts about natural language using natural language itself. That makes it a strong candidate for knowledge representation.The challenge, of course, is that this expressive richness makes it harder to process the information encoded in natural language. But we don’t necessarily need to understand how to do it manually — we can simply program the machine using data, through a process called training.A next-token prediction machine essentially computes a probability distribution over the next token, given a context of preceding tokens. Any machine that aims to compute this probability accurately must, in some form, represent world knowledge.A simple example: Consider the incomplete sentence, \"The highest mountain peak in the world is Mount ...\" — to predict the next word as Everest, the model must have this knowledge stored somewhere. If the task requires the model to compute the answer or solve a puzzle, the next-token predictor needs to output CoT tokens to carry the logic forward.This implies that, even though it’s predicting one token at a time, the model must internally represent at least the next few tokens in its working memory — enough to ensure it stays on the logical path.If you think about it, humans also predict the next token — whether during speech or when thinking using the inner voice. A perfect auto-complete system that always outputs the right tokens and produces correct answers would have to be omniscient. Of course, we’ll never reach that point — because not every answer is computable.However, a parameterized model that can represent knowledge by tuning its parameters, and that can learn through data and reinforcement, can certainly learn to think.Does it produce the effects of thinking?At the end of the day, the ultimate test of thought is a system’s ability to solve problems that require thinking. If a system can answer previously unseen questions that demand some level of reasoning, it must have learned to think — or at least to reason — its way to the answer.We know that proprietary LRMs perform very well on certain reasoning benchmarks. However, since there&#x27;s a possibility that some of these models were fine-tuned on benchmark test sets through a backdoor, we’ll focus only on open-source models for fairness and transparency.We evaluate them using the following benchmarks:As one can see, in some benchmarks, LRMs are able to solve a significant number of logic-based questions. While it’s true that they still lag behind human performance in many cases, it’s important to note that the human baseline often comes from individuals trained specifically on those benchmarks. In fact, in certain cases, LRMs outperform the average untrained human.ConclusionBased on the benchmark results, the striking similarity between CoT reasoning and biological reasoning, and the theoretical understanding that any system with sufficient representational capacity, enough training data, and adequate computational power can perform any computable task — LRMs meet those criteria to a considerable extent.It is therefore reasonable to conclude that LRMs almost certainly possess the ability to think.Debasish Ray Chawdhuri is a senior principal engineer at Talentica Software and a Ph.D. candidate in Cryptography at IIT Bombay. Read more from our guest writers. Or, consider submitting a post of your own! See our guidelines here.",
           "feed_position": 1,
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2H0JnerwnmfHRZsVcEeKE6/ac3bd8c2d3ed025d025a30db64bcb8de/LLMs_can_think.png?w=300&q=30"
-        },
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/cybersecurity/vpn/how-to-cancel-private-internet-access-and-get-a-refund-030034510.html",
-          "published_at": "Sat, 01 Nov 2025 03:00:34 +0000",
-          "title": "How to cancel Private Internet Access and get a refund",
-          "standfirst": "Private Internet Access (PIA) comes with some of the best pricing of any VPN, and often doesn't feel like a budget service. I say \"often\" because, sadly, it does sometimes feel like you get what you pay for with PIA. While I'm working on seeing what settings iron out the kinks, the fact is that PIA doesn't always leave you with the internet speeds you need for everyday use. If you've found PIA unreliable, you may want to know how to end your subscription, get a refund and trade up to a more stable VPN service. Here, I'll explain how to stop your subscription from renewing, get your money back and delete your account (if you want to go that far). How to turn off auto-renewal for PIA Like with most VPNs, the standard way to cancel PIA is to stop your subscription from renewing at the end of the current payment period. Whether you've signed up for one month, one year or three years, you'll get to keep using the VPN until that time expires. Here's the process to follow. In a desktop or mobile web browser, go to privateinternetaccess.com. Click Login at the top of the screen. Enter your account username and password. You'll be taken to your client control panel. It should automatically load on the Subscription Overview tab, but check the left-hand column to make sure. Under the username for the subscription you want to cancel, find the \"next billing\" heading, then click the Turn off auto-renewal link. You'll get a message trying to convince you not to cancel. Click Turn off auto-renewal again, this time at the bottom-left of the window. Give a cancellation reason. Feel free to click \"I have another reason,\" then enter one letter and click Continue with cancellation. Finally, the site will offer to connect you with tech support instead of cancelling. Hold the line and click Turn off auto-renewal once more. Sam Chapman for Engadget After fighting through all that, you should get confirmation that your account won't renew when the billing period expires. You've now got the rest of the term to look for a new VPN. Note that if you first download PIA from the Google Play Store or Apple App Store, you may have purchased your subscription directly through the app. In this case, your subscription will be managed by the app store you bought it through, and you'll need to go there to cancel. Just open your profile, tab the subscriptions heading and scroll down to find PIA. How to delete your PIA account If you're certain that you're done with PIA, you may want to go the extra mile and delete your account altogether. You can do this by submitting a support ticket. Go to helpdesk.privateinternetaccess.com, scroll down to the bottom of the page and click on Contact Us under the Resources heading (near the middle of the page). Sam Chapman for Engadget Write a clear, direct message. Feel free to use the above screenshot as an example. To get help faster, you can also use live chat — just go to the main PIA website, then click the button at the bottom-right that reads Need Help? Chat with us! This will get attention on your case right away, but you'll have to defeat an AI assistant first. How to get a refund from PIA PIA only gives refunds within the first 30 days after purchase. If you're within that window and want your money back, start by cancelling auto-renewal, then send a support ticket or contact live chat as described in the previous section. Say you are requesting a full refund under the money-back guarantee. Stick to your guns, as they'll probably try to convince you not to go. PIA alternatives If you still need a VPN after cancelling PIA — and you almost certainly do if you ever go online — Engadget has a list of the best VPNs to help you with comparison shopping. As a quick summary, Proton VPN is the all-around best service. ExpressVPN is pricey, but gives you great speeds and excellent app design. If you need consistently fast speeds every time, go with Surfshark.This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/vpn/how-to-cancel-private-internet-access-and-get-a-refund-030034510.html?src=rss",
-          "content": "Private Internet Access (PIA) comes with some of the best pricing of any VPN, and often doesn't feel like a budget service. I say \"often\" because, sadly, it does sometimes feel like you get what you pay for with PIA. While I'm working on seeing what settings iron out the kinks, the fact is that PIA doesn't always leave you with the internet speeds you need for everyday use. If you've found PIA unreliable, you may want to know how to end your subscription, get a refund and trade up to a more stable VPN service. Here, I'll explain how to stop your subscription from renewing, get your money back and delete your account (if you want to go that far). How to turn off auto-renewal for PIA Like with most VPNs, the standard way to cancel PIA is to stop your subscription from renewing at the end of the current payment period. Whether you've signed up for one month, one year or three years, you'll get to keep using the VPN until that time expires. Here's the process to follow. In a desktop or mobile web browser, go to privateinternetaccess.com. Click Login at the top of the screen. Enter your account username and password. You'll be taken to your client control panel. It should automatically load on the Subscription Overview tab, but check the left-hand column to make sure. Under the username for the subscription you want to cancel, find the \"next billing\" heading, then click the Turn off auto-renewal link. You'll get a message trying to convince you not to cancel. Click Turn off auto-renewal again, this time at the bottom-left of the window. Give a cancellation reason. Feel free to click \"I have another reason,\" then enter one letter and click Continue with cancellation. Finally, the site will offer to connect you with tech support instead of cancelling. Hold the line and click Turn off auto-renewal once more. Sam Chapman for Engadget After fighting through all that, you should get confirmation that your account won't renew when the billing period expires. You've now got the rest of the term to look for a new VPN. Note that if you first download PIA from the Google Play Store or Apple App Store, you may have purchased your subscription directly through the app. In this case, your subscription will be managed by the app store you bought it through, and you'll need to go there to cancel. Just open your profile, tab the subscriptions heading and scroll down to find PIA. How to delete your PIA account If you're certain that you're done with PIA, you may want to go the extra mile and delete your account altogether. You can do this by submitting a support ticket. Go to helpdesk.privateinternetaccess.com, scroll down to the bottom of the page and click on Contact Us under the Resources heading (near the middle of the page). Sam Chapman for Engadget Write a clear, direct message. Feel free to use the above screenshot as an example. To get help faster, you can also use live chat — just go to the main PIA website, then click the button at the bottom-right that reads Need Help? Chat with us! This will get attention on your case right away, but you'll have to defeat an AI assistant first. How to get a refund from PIA PIA only gives refunds within the first 30 days after purchase. If you're within that window and want your money back, start by cancelling auto-renewal, then send a support ticket or contact live chat as described in the previous section. Say you are requesting a full refund under the money-back guarantee. Stick to your guns, as they'll probably try to convince you not to go. PIA alternatives If you still need a VPN after cancelling PIA — and you almost certainly do if you ever go online — Engadget has a list of the best VPNs to help you with comparison shopping. As a quick summary, Proton VPN is the all-around best service. ExpressVPN is pricey, but gives you great speeds and excellent app design. If you need consistently fast speeds every time, go with Surfshark.This article originally appeared on Engadget at https://www.engadget.com/cybersecurity/vpn/how-to-cancel-private-internet-access-and-get-a-refund-030034510.html?src=rss",
-          "feed_position": 13,
-          "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-10/c9b15d60-b5ce-11f0-af5d-9698eea5532b"
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/security/crowdstrike-nvidia-open-source-ai-soc-machine-speed-attacks",
-          "published_at": "Sat, 01 Nov 2025 01:10:00 GMT",
-          "title": "CrowdStrike & NVIDIA’s open source AI gives enterprises the edge against machine-speed attacks",
-          "standfirst": "Every SOC leader knows the feeling: drowning in alerts, blind to the real threat, stuck playing defense in a war waged at the speed of AI. Now CrowdStrike and NVIDIA are flipping the script. Armed with autonomous agents powered by Charlotte AI and NVIDIA Nemotron models, security teams aren&#x27;t just reacting; they&#x27;re striking back at attackers before their next move. Welcome to cybersecurity&#x27;s new arms race. Combining open source&#x27;s many strengths with agentic AI will shift the balance of power against adversarial AI. CrowdStrike and NVIDIA&#x27;s agentic ecosystem combines Charlotte AI AgentWorks, NVIDIA Nemotron open models, NVIDIA NeMo Data Designer synthetic data, NVIDIA Nemo Agent Toolkit, and NVIDIA NIM microservices. \"This collaboration redefines security operations by enabling analysts to build and deploy specialized AI agents at scale, leveraging trusted, enterprise-grade security with Nemotron models,\" writes Bryan Catanzaro, vice president, Applied Deep Learning Research at NVIDIA. The partnership is designed to enable autonomous agents to learn quickly, reducing risks, threats, and false positives. Achieving that takes a heavy load off SOC leaders and their teams, who fight data fatigue nearly every day due to inaccurate data.The announcement at GTC Washington, D.C., signals the arrival of machine-speed defense that can finally match machine-speed attacks. Transforming elite analyst expertise into datasets at machine scaleThe partnership is differentiated by how the AI agents are designed to continually aggregate telemetry data, including insights from CrowdStrike Falcon Complete Managed Detection and Response analysts. \"What we&#x27;re able to do is take the intelligence, take the data, take the experience of our Falcon Complete analysts, and turn these experts into datasets. Turn the datasets into AI models, and then be able to create agents based on, really, the whole composition and experience that we&#x27;ve built up within the company so that our customers can benefit at scale from these agents always,\" said Daniel Bernard, CrowdStrike&#x27;s Chief Business Officer, during a recent briefing. Capitalizing on the strengths of the NVIDIA Nemotron open models, organizations will be able to have their autonomous agents continually learn by training on the datasets from Falcon Complete, the world&#x27;s largest MDR service handling millions of triage decisions monthly. CrowdStrike has previous experience in AI detection triage to the point of launching a service that scales this capability across its customer base. Charlotte AI Detection Triage, designed to integrate into existing security workflows and continuously adapt to evolving threats, automates alert assessment with over 98% accuracy and cuts manual triage by more than 40 hours per week.Elia Zaitsev, CrowdStrike&#x27;s chief technology officer, in explaining how Charlotte AI Detection Triage is able to deliver that level of performance, told VentureBeat: \"We wouldn&#x27;t have achieved this without the support of our Falcon Complete team. They perform triage within their workflow, manually addressing millions of detections. The high-quality, human-annotated dataset they provide is what enabled us to reach an accuracy of over 98%.\"Lessons learned with Charlotte AI Detection Triage directly apply to the NVIDIA partnership, further increasing the value it has the potential to deliver to SOCs who need help dealing with the deluge of alerts. Open source is table stakes for this partnership to work NVIDIA&#x27;s Nemotron open models address what many security leaders identify as the most critical barrier to AI adoption in regulated environments, which is the lack of clarity regarding how the model works, what its weights are, and how secure it is. Justin Boitano, Vice President, Enterprise and Edge Computing at NVIDIA, speaking for NVIDIA during a recent press briefing, explained: \"Open models are where people start in trying to build their own specialized domain knowledge. You want to own the IP ultimately. Not everybody wants to export their data, and then sort of import or pay for the intelligence that they consume. A lot of sovereign countries, many enterprises in regulated industries want to maintain all that data privacy and security.\" John Morello, CTO and co-founder of Gutsy (now Minimus), told VentureBeat that \"the open-source nature of Google&#x27;s BERT open-source language model allows Gutsy to customize and train their model for specific security use cases while maintaining privacy and efficiency.\" Morello emphasized that practitioners cite \"more transparency and better assurances of data privacy, along with great availability of expertise and more integration options across their architectures, as key reasons for going with open source.\"Keeping adversarial AI&#x27;s balance of power in check Cisco&#x27;s DJ Sampath, senior vice president of Cisco&#x27;s AI software and platform group, articulated the industry-wide imperative for open-source security models during a recent interview with VentureBeat: \"The reality is that attackers have access to open-source models too. The goal is to empower as many defenders as possible with robust models to strengthen security.\" Sampath explained that when Cisco released Foundation-Sec-8B, their open-source security model, at RSAC 2025, it was driven by a sense of responsibility: \"Funding for open-source projects has stalled, and there is a growing need for sustainable funding sources within the community. It is a corporate responsibility to provide these models while enabling communities to engage with AI from a defensive standpoint.\"The commitment to transparency extends to the most sensitive aspects of AI development. When concerns emerged about DeepSeek R1&#x27;s training data and potential compromise, NVIDIA responded decisively. As Boitano explained to VentureBeat, \"Government agencies were super concerned. They wanted the reasoning capabilities of DeepSeek, but they were a little concerned with, obviously, what might be trained into the DeepSeek model, which is what actually inspired us to completely open source everything in Nemotron models, including reasoning datasets.\"For practitioners managing open-source security at scale, this transparency is core to their companies. Itamar Sher, CEO of Seal Security, emphasized to VentureBeat that \"open-source models offer transparency,\" though he noted that \"managing their cycles and compliance remains a significant concern.\" Sher&#x27;s company uses generative AI to automate vulnerability remediation in open-source software, and as a recognized CVE Naming Authority (CNA), Seal can identify, document, and assign vulnerabilities, enhancing security across the ecosystem.A key partnership goal: bringing intelligence to the Edge\"Bringing the intelligence closer to where data is and decisions are made is just going to be a big advancement for security operations teams around the industry,\" Boitano emphasized. This edge deployment capability is especially critical for government agencies with fragmented and often legacy IT environments. VentureBeat asked Boitano how the initial discussions went with government agencies briefed on the partnership and its design goals before work began. \"The feeling across agencies that we&#x27;ve talked to is they always feel like, unfortunately, they&#x27;re behind the curve on these technology adoption,\" Boitano explained. \"The response was, anything you guys can do to help us secure the endpoints. It was a tedious and long process to get open models onto these, you know, higher side networks.\"NVIDIA and CrowdStrike have done the foundational work, including STIG hardening, FIPS encryption, air-gap compatibility, and removing the barriers that delayed open-model adoption on higher-side networks. The NVIDIA AI Factory for Government reference design provides comprehensive guidance for deploying AI agents in federal and high-assurance organizations while meeting the strictest security requirements.As Boitano explained, the urgency is existential: \"Having AI defense that&#x27;s running in your estate that can search for and detect these anomalies, and then alert and respond much faster, is just the natural consequence. It&#x27;s the only way to protect against the speed of AI at this point.\"",
-          "content": "Every SOC leader knows the feeling: drowning in alerts, blind to the real threat, stuck playing defense in a war waged at the speed of AI. Now CrowdStrike and NVIDIA are flipping the script. Armed with autonomous agents powered by Charlotte AI and NVIDIA Nemotron models, security teams aren&#x27;t just reacting; they&#x27;re striking back at attackers before their next move. Welcome to cybersecurity&#x27;s new arms race. Combining open source&#x27;s many strengths with agentic AI will shift the balance of power against adversarial AI. CrowdStrike and NVIDIA&#x27;s agentic ecosystem combines Charlotte AI AgentWorks, NVIDIA Nemotron open models, NVIDIA NeMo Data Designer synthetic data, NVIDIA Nemo Agent Toolkit, and NVIDIA NIM microservices. \"This collaboration redefines security operations by enabling analysts to build and deploy specialized AI agents at scale, leveraging trusted, enterprise-grade security with Nemotron models,\" writes Bryan Catanzaro, vice president, Applied Deep Learning Research at NVIDIA. The partnership is designed to enable autonomous agents to learn quickly, reducing risks, threats, and false positives. Achieving that takes a heavy load off SOC leaders and their teams, who fight data fatigue nearly every day due to inaccurate data.The announcement at GTC Washington, D.C., signals the arrival of machine-speed defense that can finally match machine-speed attacks. Transforming elite analyst expertise into datasets at machine scaleThe partnership is differentiated by how the AI agents are designed to continually aggregate telemetry data, including insights from CrowdStrike Falcon Complete Managed Detection and Response analysts. \"What we&#x27;re able to do is take the intelligence, take the data, take the experience of our Falcon Complete analysts, and turn these experts into datasets. Turn the datasets into AI models, and then be able to create agents based on, really, the whole composition and experience that we&#x27;ve built up within the company so that our customers can benefit at scale from these agents always,\" said Daniel Bernard, CrowdStrike&#x27;s Chief Business Officer, during a recent briefing. Capitalizing on the strengths of the NVIDIA Nemotron open models, organizations will be able to have their autonomous agents continually learn by training on the datasets from Falcon Complete, the world&#x27;s largest MDR service handling millions of triage decisions monthly. CrowdStrike has previous experience in AI detection triage to the point of launching a service that scales this capability across its customer base. Charlotte AI Detection Triage, designed to integrate into existing security workflows and continuously adapt to evolving threats, automates alert assessment with over 98% accuracy and cuts manual triage by more than 40 hours per week.Elia Zaitsev, CrowdStrike&#x27;s chief technology officer, in explaining how Charlotte AI Detection Triage is able to deliver that level of performance, told VentureBeat: \"We wouldn&#x27;t have achieved this without the support of our Falcon Complete team. They perform triage within their workflow, manually addressing millions of detections. The high-quality, human-annotated dataset they provide is what enabled us to reach an accuracy of over 98%.\"Lessons learned with Charlotte AI Detection Triage directly apply to the NVIDIA partnership, further increasing the value it has the potential to deliver to SOCs who need help dealing with the deluge of alerts. Open source is table stakes for this partnership to work NVIDIA&#x27;s Nemotron open models address what many security leaders identify as the most critical barrier to AI adoption in regulated environments, which is the lack of clarity regarding how the model works, what its weights are, and how secure it is. Justin Boitano, Vice President, Enterprise and Edge Computing at NVIDIA, speaking for NVIDIA during a recent press briefing, explained: \"Open models are where people start in trying to build their own specialized domain knowledge. You want to own the IP ultimately. Not everybody wants to export their data, and then sort of import or pay for the intelligence that they consume. A lot of sovereign countries, many enterprises in regulated industries want to maintain all that data privacy and security.\" John Morello, CTO and co-founder of Gutsy (now Minimus), told VentureBeat that \"the open-source nature of Google&#x27;s BERT open-source language model allows Gutsy to customize and train their model for specific security use cases while maintaining privacy and efficiency.\" Morello emphasized that practitioners cite \"more transparency and better assurances of data privacy, along with great availability of expertise and more integration options across their architectures, as key reasons for going with open source.\"Keeping adversarial AI&#x27;s balance of power in check Cisco&#x27;s DJ Sampath, senior vice president of Cisco&#x27;s AI software and platform group, articulated the industry-wide imperative for open-source security models during a recent interview with VentureBeat: \"The reality is that attackers have access to open-source models too. The goal is to empower as many defenders as possible with robust models to strengthen security.\" Sampath explained that when Cisco released Foundation-Sec-8B, their open-source security model, at RSAC 2025, it was driven by a sense of responsibility: \"Funding for open-source projects has stalled, and there is a growing need for sustainable funding sources within the community. It is a corporate responsibility to provide these models while enabling communities to engage with AI from a defensive standpoint.\"The commitment to transparency extends to the most sensitive aspects of AI development. When concerns emerged about DeepSeek R1&#x27;s training data and potential compromise, NVIDIA responded decisively. As Boitano explained to VentureBeat, \"Government agencies were super concerned. They wanted the reasoning capabilities of DeepSeek, but they were a little concerned with, obviously, what might be trained into the DeepSeek model, which is what actually inspired us to completely open source everything in Nemotron models, including reasoning datasets.\"For practitioners managing open-source security at scale, this transparency is core to their companies. Itamar Sher, CEO of Seal Security, emphasized to VentureBeat that \"open-source models offer transparency,\" though he noted that \"managing their cycles and compliance remains a significant concern.\" Sher&#x27;s company uses generative AI to automate vulnerability remediation in open-source software, and as a recognized CVE Naming Authority (CNA), Seal can identify, document, and assign vulnerabilities, enhancing security across the ecosystem.A key partnership goal: bringing intelligence to the Edge\"Bringing the intelligence closer to where data is and decisions are made is just going to be a big advancement for security operations teams around the industry,\" Boitano emphasized. This edge deployment capability is especially critical for government agencies with fragmented and often legacy IT environments. VentureBeat asked Boitano how the initial discussions went with government agencies briefed on the partnership and its design goals before work began. \"The feeling across agencies that we&#x27;ve talked to is they always feel like, unfortunately, they&#x27;re behind the curve on these technology adoption,\" Boitano explained. \"The response was, anything you guys can do to help us secure the endpoints. It was a tedious and long process to get open models onto these, you know, higher side networks.\"NVIDIA and CrowdStrike have done the foundational work, including STIG hardening, FIPS encryption, air-gap compatibility, and removing the barriers that delayed open-model adoption on higher-side networks. The NVIDIA AI Factory for Government reference design provides comprehensive guidance for deploying AI agents in federal and high-assurance organizations while meeting the strictest security requirements.As Boitano explained, the urgency is existential: \"Having AI defense that&#x27;s running in your estate that can search for and detect these anomalies, and then alert and respond much faster, is just the natural consequence. It&#x27;s the only way to protect against the speed of AI at this point.\"",
-          "feed_position": 2,
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4cKdUmKudz5BZL8i8Ku0oJ/6b5c0f369fd8c482d46e84054915f220/FINAL_ARTICLE_CrowdStrike___NVIDIA-s_Open-Source_AI_Gives_SOC_Leaders_the_Edge_Against_Machine-Speed_Attacks.jpg?w=300&q=30"
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/7xDQkK3UJNPCfHY5rmlmLW/4b5264fdd5c1156b8c4863814660dadd/Modern_data_infrastructure.png?w=300&q=30",
-      "popularity_score": 2001.717335,
+      "popularity_score": 2000,
       "ai_summary": [
         "Modern CPUs have relied on speculative execution for over three decades.",
-        "A deterministic, time-based execution model is an alternative to speculation.",
-        "This new approach is embodied in six recently issued U.S. patents.",
-        "The deterministic framework replaces guesswork with a time-based mechanism.",
-        "Each instruction is assigned a precise execution slot in the pipeline."
+        "Deterministic CPUs offer an alternative to speculative execution models.",
+        "Deterministic models use a time-based execution approach.",
+        "This approach assigns precise execution slots to each instruction.",
+        "Six recent patents introduce this new deterministic framework."
       ]
     },
     {
       "id": "cluster_0",
       "coverage": 1,
-      "updated_at": "2025-11-02T23:16:56.753Z",
+      "updated_at": "2025-11-03T03:50:08.269Z",
       "title": "“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home",
-      "neutral_headline": "Deer Enters Home Briefly, Gemini Home Experiences It",
+      "neutral_headline": "“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home",
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/google/2025/10/unexpectedly-a-deer-briefly-entered-the-family-room-living-with-gemini-home/",
-          "published_at": "2025-11-02T23:16:56.753Z",
+          "published_at": "2025-11-03T03:50:08.269Z",
           "title": "“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home",
           "standfirst": "",
           "content": "",
           "feed_position": 0
         }
       ],
-      "popularity_score": 352.9997663888889,
+      "popularity_score": 352.99962416666665,
       "ai_summary": [
-        "A deer entered a family room unexpectedly, according to an Ars Technica article.",
-        "The article discusses the experience of living with Google's Gemini Home.",
-        "Details about the deer's interaction with the smart home system are included.",
-        "The article explores how Gemini Home responded to the unusual event.",
-        "The article provides insights into the integration of smart home technology."
+        "The article discusses experiences using Google's Gemini Home.",
+        "The author recounts an unexpected incident involving a deer.",
+        "The deer briefly entered the family room of the author's home.",
+        "The article explores the challenges and quirks of the AI system.",
+        "The experience highlights the unpredictable nature of AI integration."
       ]
     },
     {
-      "id": "cluster_48",
+      "id": "cluster_3",
+      "coverage": 1,
+      "updated_at": "2025-11-03T03:50:08.269Z",
+      "title": "YouTube denies AI was involved with odd removals of tech tutorials",
+      "neutral_headline": "YouTube denies AI involvement in tech tutorial removals",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/10/youtube-denies-ai-was-involved-with-odd-removals-of-tech-tutorials/",
+          "published_at": "2025-11-03T03:50:08.269Z",
+          "title": "YouTube denies AI was involved with odd removals of tech tutorials",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 3
+        }
+      ],
+      "popularity_score": 337.99962416666665,
+      "ai_summary": [
+        "YouTube denies using AI to remove tech tutorials.",
+        "The platform is responding to concerns about content moderation.",
+        "The denial addresses claims of automated content takedowns.",
+        "YouTube maintains human review processes for content decisions.",
+        "The issue highlights the debate over AI's role in content moderation."
+      ]
+    },
+    {
+      "id": "cluster_56",
       "coverage": 1,
       "updated_at": "Sat, 01 Nov 2025 16:38:09 +0000",
       "title": "Research roundup: 6 cool science stories we almost missed",
-      "neutral_headline": "Science Stories: Boggle, Snake Bites, and More Research",
+      "neutral_headline": "Research roundup: Six interesting science stories",
       "items": [
         {
           "source": "Ars Technica",
@@ -188,47 +194,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/karnak1-1152x648-1759588364.jpg",
       "popularity_score": 333,
       "ai_summary": [
-        "Researchers found the highest scoring Boggle board ever recorded.",
-        "Scientists captured high-speed snake bites in detailed action.",
-        "The article highlights other interesting science stories from research.",
-        "The research roundup includes various scientific discoveries.",
-        "The article covers a range of scientific fields and findings."
+        "The roundup features six notable science stories.",
+        "One story covers the highest scoring Boggle board.",
+        "Another story focuses on high-speed snake bite research.",
+        "The collection includes diverse scientific discoveries.",
+        "The stories offer a glimpse into current research trends."
       ]
     },
     {
-      "id": "cluster_78",
-      "coverage": 1,
-      "updated_at": "Sat, 01 Nov 2025 00:32:01 +0000",
-      "title": "YouTube denies AI was involved with odd removals of tech tutorials",
-      "neutral_headline": "YouTube Denies AI Involvement in Tech Tutorial Removals",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/10/youtube-denies-ai-was-involved-with-odd-removals-of-tech-tutorials/",
-          "published_at": "Sat, 01 Nov 2025 00:32:01 +0000",
-          "title": "YouTube denies AI was involved with odd removals of tech tutorials",
-          "standfirst": "YouTubers suspect AI is bizarrely removing popular video explainers.",
-          "content": "This week, tech content creators began to suspect that AI was making it harder to share some of the most highly sought-after tech tutorials on YouTube, but now YouTube is denying that odd removals were due to automation. Creators grew alarmed when educational videos that YouTube had allowed for years were suddenly being bizarrely flagged as “dangerous” or “harmful,” with seemingly no way to trigger human review to overturn removals. AI seemed to be running the show, with creators’ appeals seemingly getting denied faster than a human could possibly review them. Late Friday, a YouTube spokesperson confirmed that videos flagged by Ars have been reinstated, promising that YouTube will take steps to ensure that similar content isn’t removed in the future. But, to creators, it remains unclear why the videos got taken down, as YouTube claimed that both initial enforcement decisions and decisions on appeals were not the result of an automation issue.Read full article Comments",
-          "feed_position": 2,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2216630168-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2216630168-1152x648.jpg",
-      "popularity_score": 328,
-      "ai_summary": [
-        "YouTube denies using AI to remove tech tutorials from the platform.",
-        "YouTubers suspect AI is removing popular video explainers.",
-        "The article explores the reasons behind the video removals.",
-        "The article discusses the concerns of content creators on YouTube.",
-        "The article investigates the role of AI in content moderation."
-      ]
-    },
-    {
-      "id": "cluster_64",
+      "id": "cluster_71",
       "coverage": 1,
       "updated_at": "Sat, 01 Nov 2025 11:15:57 +0000",
       "title": "Inside the marketplace for vaccine medical exemptions",
-      "neutral_headline": "Marketplace for Vaccine Medical Exemptions Examined",
+      "neutral_headline": "Marketplace for vaccine medical exemptions explored",
       "items": [
         {
           "source": "Ars Technica",
@@ -244,167 +222,167 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1326657723-1152x648.jpg",
       "popularity_score": 323,
       "ai_summary": [
-        "Frontline Health Advocates provides medical exemption notes for a fee.",
-        "The article investigates what Frontline Health Advocates sells.",
-        "The article explores the process of obtaining medical exemptions.",
-        "The article examines the legal and ethical implications involved.",
-        "The article provides details about the marketplace's operations."
+        "The article investigates the market for vaccine exemptions.",
+        "Frontline Health Advocates provides medical exemption notes.",
+        "The notes are provided for a fee to customers.",
+        "The article explores the nature of the services offered.",
+        "The investigation raises questions about medical ethics."
       ]
     },
     {
       "id": "cluster_4",
       "coverage": 1,
-      "updated_at": "2025-11-02T23:16:56.753Z",
+      "updated_at": "2025-11-03T03:50:08.269Z",
       "title": "Neural network finds an enzyme that can break down polyurethane",
-      "neutral_headline": "Neural Network Finds Enzyme Breaking Down Polyurethane",
+      "neutral_headline": "Neural network finds enzyme breaking down polyurethane",
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/science/2025/10/polyurethane-is-the-latest-polymer-broken-down-by-designer-enzymes/",
-          "published_at": "2025-11-02T23:16:56.753Z",
+          "published_at": "2025-11-03T03:50:08.269Z",
           "title": "Neural network finds an enzyme that can break down polyurethane",
           "standfirst": "",
           "content": "",
           "feed_position": 4
         }
       ],
-      "popularity_score": 312.9997663888889,
+      "popularity_score": 312.99962416666665,
       "ai_summary": [
-        "A neural network discovered an enzyme that breaks down polyurethane.",
-        "The enzyme's discovery could have environmental implications.",
-        "The article discusses the potential applications of the enzyme.",
-        "The article explains the process of the neural network's discovery.",
-        "The article explores the impact on plastic waste management."
+        "A neural network identified an enzyme.",
+        "The enzyme can break down polyurethane.",
+        "This discovery could aid plastic recycling efforts.",
+        "The research highlights the potential of AI in science.",
+        "The enzyme's properties are being further studied."
       ]
     },
     {
       "id": "cluster_5",
       "coverage": 1,
-      "updated_at": "2025-11-02T23:16:56.753Z",
+      "updated_at": "2025-11-03T03:50:08.269Z",
       "title": "Cursor introduces its coding model alongside multi-agent interface",
-      "neutral_headline": "Cursor Introduces Coding Model and Multi-Agent Interface",
+      "neutral_headline": "Cursor introduces coding model with multi-agent interface",
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/ai/2025/10/cursor-introduces-its-coding-model-alongside-multi-agent-interface/",
-          "published_at": "2025-11-02T23:16:56.753Z",
+          "published_at": "2025-11-03T03:50:08.269Z",
           "title": "Cursor introduces its coding model alongside multi-agent interface",
           "standfirst": "",
           "content": "",
           "feed_position": 5
         }
       ],
-      "popularity_score": 302.9997663888889,
+      "popularity_score": 302.99962416666665,
       "ai_summary": [
-        "Cursor introduced its coding model alongside a multi-agent interface.",
-        "The new interface aims to improve the coding experience.",
-        "The article discusses the features of the new coding model.",
-        "The article explores the benefits of the multi-agent interface.",
-        "The article provides details about the new coding tools."
+        "Cursor has introduced a new coding model.",
+        "The model is accompanied by a multi-agent interface.",
+        "The interface is designed to enhance coding capabilities.",
+        "The announcement marks a step in AI-assisted coding tools.",
+        "The features aim to improve developer productivity."
       ]
     },
     {
       "id": "cluster_7",
       "coverage": 1,
-      "updated_at": "2025-11-02T23:16:56.754Z",
+      "updated_at": "2025-11-03T03:50:08.269Z",
       "title": "FCC to rescind ruling that said ISPs are required to secure their networks",
-      "neutral_headline": "FCC to Rescind ISP Network Security Ruling",
+      "neutral_headline": "FCC to rescind ruling on ISP network security",
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2025/10/fcc-dumps-plan-for-telecom-security-rules-that-internet-providers-dont-like/",
-          "published_at": "2025-11-02T23:16:56.754Z",
+          "published_at": "2025-11-03T03:50:08.269Z",
           "title": "FCC to rescind ruling that said ISPs are required to secure their networks",
           "standfirst": "",
           "content": "",
           "feed_position": 7
         }
       ],
-      "popularity_score": 297.9997666666667,
+      "popularity_score": 297.99962416666665,
       "ai_summary": [
-        "The FCC will rescind a ruling requiring ISPs to secure networks.",
-        "The ruling change affects the security responsibilities of ISPs.",
-        "The article discusses the implications of the FCC's decision.",
-        "The article explores the reasons behind the FCC's reversal.",
-        "The article provides details about the original ruling."
+        "The FCC plans to rescind a network security ruling.",
+        "The ruling previously required ISPs to secure networks.",
+        "The decision will alter internet security regulations.",
+        "The change could affect data protection practices.",
+        "The move is subject to public comment and review."
       ]
     },
     {
       "id": "cluster_6",
       "coverage": 1,
-      "updated_at": "2025-11-02T23:16:56.754Z",
+      "updated_at": "2025-11-03T03:50:08.269Z",
       "title": "Two Windows vulnerabilities, one a 0-day, are under active exploitation",
-      "neutral_headline": "Two Windows Vulnerabilities Under Active Exploitation",
+      "neutral_headline": "Two Windows vulnerabilities under active exploitation",
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/security/2025/10/two-windows-vulnerabilities-one-a-0-day-are-under-active-exploitation/",
-          "published_at": "2025-11-02T23:16:56.754Z",
+          "published_at": "2025-11-03T03:50:08.269Z",
           "title": "Two Windows vulnerabilities, one a 0-day, are under active exploitation",
           "standfirst": "",
           "content": "",
           "feed_position": 6
         }
       ],
-      "popularity_score": 292.9997666666667,
+      "popularity_score": 292.99962416666665,
       "ai_summary": [
-        "Two Windows vulnerabilities are under active exploitation currently.",
+        "Two Windows vulnerabilities are under active exploitation.",
         "One of the vulnerabilities is a zero-day exploit.",
-        "The article discusses the risks associated with the vulnerabilities.",
-        "The article provides details about the affected Windows versions.",
-        "The article explores the potential impact of the exploits."
+        "The vulnerabilities pose security risks to users.",
+        "Microsoft is likely working on patches for the issues.",
+        "Users are advised to take security precautions."
       ]
     },
     {
       "id": "cluster_8",
       "coverage": 1,
-      "updated_at": "2025-11-02T23:16:56.754Z",
+      "updated_at": "2025-11-03T03:50:08.269Z",
       "title": "Measles outbreak investigation in Utah blocked by patient who refuses to talk",
-      "neutral_headline": "Measles Outbreak Investigation Blocked by Patient",
+      "neutral_headline": "Measles outbreak investigation blocked by patient",
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/health/2025/10/measles-outbreak-investigation-in-utah-blocked-by-patient-who-refuses-to-talk/",
-          "published_at": "2025-11-02T23:16:56.754Z",
+          "published_at": "2025-11-03T03:50:08.269Z",
           "title": "Measles outbreak investigation in Utah blocked by patient who refuses to talk",
           "standfirst": "",
           "content": "",
           "feed_position": 8
         }
       ],
-      "popularity_score": 272.9997666666667,
+      "popularity_score": 272.99962416666665,
       "ai_summary": [
-        "A measles outbreak investigation in Utah is blocked by a patient.",
-        "The patient refuses to cooperate with the investigation.",
-        "The article discusses the challenges of the investigation.",
-        "The article explores the public health implications of the situation.",
-        "The article provides details about the outbreak's location."
+        "A measles outbreak investigation is blocked in Utah.",
+        "The investigation is blocked by a patient's refusal.",
+        "The patient refuses to cooperate with investigators.",
+        "The situation hinders efforts to contain the outbreak.",
+        "Public health officials are working to resolve the issue."
       ]
     },
     {
       "id": "cluster_9",
       "coverage": 1,
-      "updated_at": "2025-11-02T23:16:56.754Z",
+      "updated_at": "2025-11-03T03:50:08.269Z",
       "title": "New Glenn rocket has clear path to launch after test-firing at Cape Canaveral",
       "neutral_headline": "New Glenn Rocket Cleared for Launch After Test Firing",
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/space/2025/10/blue-origin-test-fires-second-new-glenn-rocket-ahead-of-launch-next-month/",
-          "published_at": "2025-11-02T23:16:56.754Z",
+          "published_at": "2025-11-03T03:50:08.269Z",
           "title": "New Glenn rocket has clear path to launch after test-firing at Cape Canaveral",
           "standfirst": "",
           "content": "",
           "feed_position": 9
         }
       ],
-      "popularity_score": 267.9997666666667,
+      "popularity_score": 267.99962416666665,
       "ai_summary": [
-        "The New Glenn rocket has a clear path to launch after test firing.",
-        "The test firing occurred at Cape Canaveral.",
-        "The article discusses the results of the test firing.",
-        "The article explores the launch readiness of the rocket.",
-        "The article provides details about the rocket's capabilities."
+        "Blue Origin's New Glenn rocket successfully completed a test firing at Cape Canaveral.",
+        "The test firing is a crucial step toward the rocket's first orbital launch.",
+        "The rocket's engines performed as expected during the test.",
+        "This test confirms the rocket's readiness for its inaugural flight.",
+        "The launch date is not yet announced, but the test is a positive sign."
       ]
     }
   ]
