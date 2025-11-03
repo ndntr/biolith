@@ -1,49 +1,204 @@
 {
-  "updated_at": "2025-11-03T19:16:04.257Z",
+  "updated_at": "2025-11-03T23:18:20.916Z",
   "clusters": [
     {
-      "id": "cluster_23",
-      "coverage": 3,
-      "updated_at": "Mon, 03 Nov 2025 17:23:11 +0000",
-      "title": "OpenAI signs massive AI compute deal with Amazon",
-      "neutral_headline": "OpenAI signs massive AI compute deal with Amazon",
+      "id": "cluster_3",
+      "coverage": 2,
+      "updated_at": "Mon, 03 Nov 2025 22:43:03 +0000",
+      "title": "Studio Ghibli and other Japanese publishers want OpenAI to stop training on their work",
+      "neutral_headline": "Studio Ghibli and other Japanese publishers want OpenAI to stop training on their work",
       "items": [
         {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2025/11/openai-signs-massive-ai-compute-deal-with-amazon/",
-          "published_at": "Mon, 03 Nov 2025 17:23:11 +0000",
-          "title": "OpenAI signs massive AI compute deal with Amazon",
-          "standfirst": "Deal will provide access to hundreds of thousands of Nvidia chips that power ChatGPT.",
-          "content": "On Monday, OpenAI announced it has signed a seven-year, $38 billion deal to buy cloud services from Amazon Web Services to power products like ChatGPT and Sora. It’s the company’s first big computing deal after a fundamental restructuring last week that gave OpenAI more operational and financial freedom from Microsoft. The agreement gives OpenAI access to hundreds of thousands of Nvidia graphics processors to train and run its AI models. “Scaling frontier AI requires massive, reliable compute,” OpenAI CEO Sam Altman said in a statement. “Our partnership with AWS strengthens the broad compute ecosystem that will power this next era and bring advanced AI to everyone.” OpenAI will reportedly use Amazon Web Services immediately, with all planned capacity set to come online by the end of 2026 and room to expand further in 2027 and beyond. Amazon plans to roll out hundreds of thousands of chips, including Nvidia’s GB200 and GB300 AI accelerators, in data clusters built to power ChatGPT’s responses, generate AI videos, and train OpenAI’s next wave of models.Read full article Comments",
-          "feed_position": 1,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/hiding_hero_1-1152x648.jpg"
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2025/11/03/studio-ghibli-and-other-japanese-publishers-want-openai-to-stop-training-on-their-work/",
+          "published_at": "Mon, 03 Nov 2025 22:43:03 +0000",
+          "title": "Studio Ghibli and other Japanese publishers want OpenAI to stop training on their work",
+          "standfirst": "OpenAI's approach to working with copyrighted content is to ask forgiveness, not permission.",
+          "content": "OpenAI's approach to working with copyrighted content is to ask forgiveness, not permission.",
+          "feed_position": 2
         },
         {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai",
-          "published_at": "2025-11-03T10:12:19-05:00",
-          "title": "OpenAI strikes $38 billion AI training deal with Amazon",
-          "standfirst": "OpenAI has struck a $38 billion deal with Amazon Web Services that will give the AI giant access to “hundreds of thousands” of Nvidia GPUs to power its AI models. The seven-year partnership comes as Microsoft continues to loosen its grip on OpenAI, dropping its status as its exclusive cloud provider and losing the first [&#8230;]",
-          "content": "OpenAI has struck a $38 billion deal with Amazon Web Services that will give the AI giant access to “hundreds of thousands” of Nvidia GPUs to power its AI models. The seven-year partnership comes as Microsoft continues to loosen its grip on OpenAI, dropping its status as its exclusive cloud provider and losing the first right of refusal to host its AI workloads. OpenAI will “immediately” start using AWS compute to train its AI models, according to the press release, with “all capacity targeted to be deployed before the end of 2026, and the ability to expand further into 2027 and beyond.” Last week, OpenAI completed its for-profit restructuring and announced a new deal with Microsoft that will give the company the rights to OpenAI’s technology until it reaches advanced general intelligence (AGI). Under the agreement, OpenAI can work with third parties to develop some AI products and release certain open weight models. The new deal also includes OpenAI’s commitment to purchase $250 billion of Microsoft’s Azure services, dwarfing the $38 billion it will pay Amazon. OpenAI also has a reported $300 billion contract with Oracle as well, while Amazon continues to pour billions of dollars into the AI startup Anthropic.",
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/251103/p31#a251103p31",
+          "published_at": "Mon, 03 Nov 2025 13:00:00 -0500",
+          "title": "Japanese trade association CODA, representing Studio Ghibli, Square Enix and others, demands that OpenAI stop using their copyrighted content to train Sora 2 (Stevie Bonifield/The Verge)",
+          "standfirst": "Stevie Bonifield / The Verge: Japanese trade association CODA, representing Studio Ghibli, Square Enix and others, demands that OpenAI stop using their copyrighted content to train Sora 2 &mdash; &#65279;Japanese trade association CODA says Sora 2's opt-out policy may have violated copyright law.",
+          "content": "Stevie Bonifield / The Verge: Japanese trade association CODA, representing Studio Ghibli, Square Enix and others, demands that OpenAI stop using their copyrighted content to train Sora 2 &mdash; &#65279;Japanese trade association CODA says Sora 2's opt-out policy may have violated copyright law.",
+          "feed_position": 10,
+          "image_url": "http://www.techmeme.com/251103/i31.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/251103/i31.jpg",
+      "popularity_score": 2019.41169,
+      "ai_summary": [
+        "Japanese trade association CODA represents Studio Ghibli and others.",
+        "CODA demands OpenAI cease using copyrighted content for training.",
+        "CODA believes Sora 2's opt-out policy may violate copyright law.",
+        "OpenAI's approach is to seek forgiveness, not permission.",
+        "The association includes Square Enix among its members."
+      ]
+    },
+    {
+      "id": "cluster_16",
+      "coverage": 2,
+      "updated_at": "Mon, 03 Nov 2025 21:21:24 +0000",
+      "title": "Lambda inks multibillion-dollar AI infrastructure deal with Microsoft",
+      "neutral_headline": "Lambda inks multibillion-dollar AI infrastructure deal with Microsoft",
+      "items": [
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2025/11/03/lambda-inks-multi-billion-dollar-ai-infrastructure-deal-with-microsoft/",
+          "published_at": "Mon, 03 Nov 2025 21:21:24 +0000",
+          "title": "Lambda inks multibillion-dollar AI infrastructure deal with Microsoft",
+          "standfirst": "This deal was announced just hours after Microsoft announced a $9.7 billion deal with Australian data center company IREN.",
+          "content": "This deal was announced just hours after Microsoft announced a $9.7 billion deal with Australian data center company IREN.",
           "feed_position": 7
         },
         {
           "source": "TechMeme",
-          "url": "http://www.techmeme.com/251103/p23#a251103p23",
-          "published_at": "Mon, 03 Nov 2025 09:10:25 -0500",
-          "title": "As part of its AWS deal, OpenAI says it will immediately begin running workloads on AWS infrastructure, tapping hundreds of thousands of Nvidia's GPUs in the US (MacKenzie Sigalos/CNBC)",
-          "standfirst": "MacKenzie Sigalos / CNBC: As part of its AWS deal, OpenAI says it will immediately begin running workloads on AWS infrastructure, tapping hundreds of thousands of Nvidia's GPUs in the US &mdash; OpenAI has signed a deal to buy $38 billion worth of capacity from Amazon Web Services, its first contract with the leader &hellip;",
-          "content": "MacKenzie Sigalos / CNBC: As part of its AWS deal, OpenAI says it will immediately begin running workloads on AWS infrastructure, tapping hundreds of thousands of Nvidia's GPUs in the US &mdash; OpenAI has signed a deal to buy $38 billion worth of capacity from Amazon Web Services, its first contract with the leader &hellip;",
-          "feed_position": 12,
-          "image_url": "http://www.techmeme.com/251103/i23.jpg"
+          "url": "http://www.techmeme.com/251103/p32#a251103p32",
+          "published_at": "Mon, 03 Nov 2025 13:15:01 -0500",
+          "title": "Lambda announces a multibillion-dollar agreement with Microsoft for AI infrastructure powered by Nvidia chips; the specific deal value was not disclosed (Jaures Yip/CNBC)",
+          "standfirst": "Jaures Yip / CNBC: Lambda announces a multibillion-dollar agreement with Microsoft for AI infrastructure powered by Nvidia chips; the specific deal value was not disclosed &mdash; Cloud computing startup Lambda announced on Monday a multibillion-dollar deal with Microsoft for artificial intelligence infrastructure powered &hellip;",
+          "content": "Jaures Yip / CNBC: Lambda announces a multibillion-dollar agreement with Microsoft for AI infrastructure powered by Nvidia chips; the specific deal value was not disclosed &mdash; Cloud computing startup Lambda announced on Monday a multibillion-dollar deal with Microsoft for artificial intelligence infrastructure powered &hellip;",
+          "feed_position": 9,
+          "image_url": "http://www.techmeme.com/251103/i32.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/hiding_hero_1-1152x648.jpg",
-      "popularity_score": 3018.118539722222
+      "featured_image": "http://www.techmeme.com/251103/i32.jpg",
+      "popularity_score": 2018.0508566666667,
+      "ai_summary": [
+        "Lambda announced a multibillion-dollar agreement with Microsoft.",
+        "The deal is for AI infrastructure powered by Nvidia chips.",
+        "The specific financial value of the deal was not disclosed.",
+        "This announcement followed Microsoft's deal with IREN.",
+        "IREN is an Australian data center company."
+      ]
+    },
+    {
+      "id": "cluster_57",
+      "coverage": 2,
+      "updated_at": "Mon, 03 Nov 2025 12:40:45 -0500",
+      "title": "Indian digital payments company Pine Labs prices its IPO at $2 to $2.5/share, valuing it at $2.9B at the top end of the range, down from a $5B valuation in 2022 (Jagmeet Singh/TechCrunch)",
+      "neutral_headline": "Indian digital payments company Pine Labs prices its IPO at $2 to $2.5/share, valuing it at $2.9B at the top end of the range, down from a $5B valuation in 2022",
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/251103/p30#a251103p30",
+          "published_at": "Mon, 03 Nov 2025 12:40:45 -0500",
+          "title": "Indian digital payments company Pine Labs prices its IPO at $2 to $2.5/share, valuing it at $2.9B at the top end of the range, down from a $5B valuation in 2022 (Jagmeet Singh/TechCrunch)",
+          "standfirst": "Jagmeet Singh / TechCrunch: Indian digital payments company Pine Labs prices its IPO at $2 to $2.5/share, valuing it at $2.9B at the top end of the range, down from a $5B valuation in 2022 &mdash; Pine Labs, an Indian merchant-commerce startup backed by PayPal and Mastercard, is going public this week at a valuation &hellip;",
+          "content": "Jagmeet Singh / TechCrunch: Indian digital payments company Pine Labs prices its IPO at $2 to $2.5/share, valuing it at $2.9B at the top end of the range, down from a $5B valuation in 2022 &mdash; Pine Labs, an Indian merchant-commerce startup backed by PayPal and Mastercard, is going public this week at a valuation &hellip;",
+          "feed_position": 11,
+          "image_url": "http://www.techmeme.com/251103/i30.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2025/11/03/pine-labs-aims-to-take-indian-fintech-global-even-as-it-cuts-valuation-for-ipo/",
+          "published_at": "Mon, 03 Nov 2025 17:00:52 +0000",
+          "title": "Pine Labs aims to take Indian fintech global even as it cuts valuation for IPO",
+          "standfirst": "Pine Labs, an Indian merchant-commerce startup backed by PayPal and Mastercard, is going public this week at a valuation about 40% lower than its last private round — even as it doubles down on plans to take its fintech platform global.",
+          "content": "Pine Labs, an Indian merchant-commerce startup backed by PayPal and Mastercard, is going public this week at a valuation about 40% lower than its last private round — even as it doubles down on plans to take its fintech platform global.",
+          "feed_position": 13
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/251103/i30.jpg",
+      "popularity_score": 2014.3733566666667,
+      "ai_summary": [
+        "Pine Labs is an Indian merchant-commerce startup.",
+        "The company is backed by PayPal and Mastercard.",
+        "Pine Labs is going public this week.",
+        "The IPO valuation is lower than its previous private round.",
+        "Pine Labs aims to expand its fintech platform globally."
+      ]
     },
     {
       "id": "cluster_10",
-      "coverage": 2,
+      "coverage": 1,
+      "updated_at": "Mon, 03 Nov 2025 22:13:53 +0000",
+      "title": "A commercial space station startup now has a foothold in space",
+      "neutral_headline": "Commercial Space Station Startup Now Has Foothold in Space",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2025/11/a-commercial-space-station-startup-now-has-a-foothold-in-space/",
+          "published_at": "Mon, 03 Nov 2025 22:13:53 +0000",
+          "title": "A commercial space station startup now has a foothold in space",
+          "standfirst": "Vast differs from its space station cohorts by flying a series of progressively more complex demos.",
+          "content": "A pathfinder mission for Vast’s privately owned space station launched into orbit Sunday and promptly extended its solar panel, kicking off a shakedown cruise to prove the company’s designs can meet the demands of spaceflight. Vast’s Haven Demo mission lifted off just after midnight Sunday from Cape Canaveral Space Force Station, Florida, and rode a SpaceX Falcon 9 rocket into orbit. Haven Demo was one of 18 satellites sharing a ride on SpaceX’s Bandwagon 4 mission, launching alongside a South Korean spy satellite and a small testbed for Starcloud, a startup working with Nvidia to build an orbital data center. After release from the Falcon 9, the half-ton Haven Demo spacecraft stabilized itself and extended its power-generating solar array. The satellite captured 4K video of the solar array deployment, and Vast shared the beauty shot on social media.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/haven_demo_array-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/haven_demo_array-1152x648.jpg",
+      "popularity_score": 359.9255788888889,
+      "ai_summary": [
+        "Vast is a commercial space station startup.",
+        "Vast differs from its competitors in its approach.",
+        "Vast is flying a series of progressively complex demos.",
+        "The company is making progress in the space industry.",
+        "This approach sets Vast apart from other companies."
+      ]
+    },
+    {
+      "id": "cluster_20",
+      "coverage": 1,
+      "updated_at": "Mon, 03 Nov 2025 21:01:21 +0000",
+      "title": "Real humans don’t stream Drake songs 23 hours a day, rapper suing Spotify says",
+      "neutral_headline": "Real humans don’t stream Drake songs 23 hours a day, rapper suing Spotify says",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/11/real-humans-dont-stream-drake-songs-23-hours-a-day-rapper-suing-spotify-says/",
+          "published_at": "Mon, 03 Nov 2025 21:01:21 +0000",
+          "title": "Real humans don’t stream Drake songs 23 hours a day, rapper suing Spotify says",
+          "standfirst": "Proposed class action may force Spotify to pay back artists harmed by streaming fraud.",
+          "content": "Spotify profits off fake Drake streams that rob other artists of perhaps hundreds of millions in revenue shares, a lawsuit filed Sunday alleged—hoping to force Spotify to reimburse every artist impacted. The lawsuit was filed by an American rapper known as RBX, who may be best known for cameos on two of the 1990s’ biggest hip-hop records, Dr. Dre’s The Chronic and Snoop Dogg’s Doggystyle. The problem goes beyond Drake, RBX’s lawsuit alleged. It claims Spotify ignores “billions of fraudulent streams” each month, selfishly benefiting from bot networks that artificially inflate user numbers to help Spotify attract significantly higher ad revenue.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2182712179-1152x648-1762197922.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2182712179-1152x648-1762197922.jpg",
+      "popularity_score": 340.71668999999997,
+      "ai_summary": [
+        "Drake is suing Spotify over alleged streaming fraud.",
+        "The lawsuit claims non-human streams are inflating numbers.",
+        "A class action may force Spotify to pay harmed artists.",
+        "The suit targets artists affected by streaming manipulation.",
+        "The case highlights concerns about streaming platform integrity."
+      ]
+    },
+    {
+      "id": "cluster_26",
+      "coverage": 1,
+      "updated_at": "Mon, 03 Nov 2025 20:21:36 +0000",
+      "title": "After confusing driver release, AMD says old GPUs are still actively supported",
+      "neutral_headline": "After Confusing Driver Release, AMD Says Old GPUs Are Still Actively Supported",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/11/amd-says-that-its-not-pulling-driver-support-for-older-radeon-gpus-afterall/",
+          "published_at": "Mon, 03 Nov 2025 20:21:36 +0000",
+          "title": "After confusing driver release, AMD says old GPUs are still actively supported",
+          "standfirst": "Re-using old silicon means that dropping \"old\" GPUs can affect \"new\" products.",
+          "content": "Last week, AMD released version 25.10.2 of its Adrenalin driver package for Radeon GPUs. It seemed like a relatively routine driver release with a typical list of bug fixes and game performance improvements, except for one accompanying announcement: AMD said at the time that it would be moving support for Radeon RX 5000-series and 6000-series GPUs (and their RDNA 1 and RDNA 2 architectures) to “maintenance mode.” That meant that a bunch of GPUs, including some dedicated graphics cards launched as recently as 2022, would no longer get fresh fixes and performance optimizations for newly launched games. As reported by Tom’s Hardware, AMD released several clarifying statements to address the ensuing backlash, saying that these older GPUs would still get “new features, bug fixes, and game optimizations” based on “market needs.” That must not have quieted the complaints, because AMD then made an entirely separate post to confirm that the 25.10.2 driver release “is not the end of support for RDNA 1 and RDNA 2,” and that integrated and dedicated GPUs based on these architectures would continue to receive “game support for new releases,” “stability and game optimizations,” and “security and bug fixes.” AMD confirmed that these older GPU architectures had been moved to a separate driver path, but the company says this is meant to keep fixes and features intended for newer RDNA 3 and RDNA 4-based GPUs from inadvertently breaking things for RDNA 1 and RDNA 2 GPUs.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/lisa-su-6900xt-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/lisa-su-6900xt-1152x648.jpg",
+      "popularity_score": 330.05419,
+      "ai_summary": [
+        "AMD has clarified its support for older GPUs.",
+        "Re-using old silicon can affect newer products.",
+        "Dropping support for old GPUs can impact new products.",
+        "AMD is working to maintain compatibility.",
+        "The driver release caused some confusion initially."
+      ]
+    },
+    {
+      "id": "cluster_50",
+      "coverage": 1,
       "updated_at": "Mon, 03 Nov 2025 18:28:22 +0000",
       "title": "Google removes Gemma models from AI Studio after GOP senator’s complaint",
       "neutral_headline": "Google removes Gemma models from AI Studio after GOP senator’s complaint",
@@ -55,109 +210,110 @@
           "title": "Google removes Gemma models from AI Studio after GOP senator’s complaint",
           "standfirst": "Sen. Marsha Blackburn says Gemma concocted sexual misconduct allegations against her.",
           "content": "You may be disappointed if you go looking for Google’s open Gemma AI model in AI Studio today. Google announced late on Friday that it was pulling Gemma from the platform, but it was vague about the reasoning. The abrupt change appears to be tied to a letter from Sen. Marsha Blackburn (R-Tenn.), who claims the Gemma model generated false accusations of sexual misconduct against her. Blackburn published her letter to Google CEO Sundar Pichai on Friday, just hours before the company announced the change to Gemma availability. She demanded Google explain how the model could fail in this way, tying the situation to ongoing hearings that accuse Google and others of creating bots that defame conservatives. At the hearing, Google’s Markham Erickson explained that AI hallucinations are a widespread and known issue in generative AI, and Google does the best it can to mitigate the impact of such mistakes. Although no AI firm has managed to eliminate hallucinations, Google’s Gemini for Home has been particularly hallucination-happy in our testing.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemma-social-share.width-1300-1152x648.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2025/11/02/google-pulls-gemma-from-ai-studio-after-senator-blackburn-accuses-model-of-defamation/",
-          "published_at": "Sun, 02 Nov 2025 21:13:17 +0000",
-          "title": "Google pulls Gemma from AI Studio after Senator Blackburn accuses model of defamation",
-          "standfirst": "Senator Martha Blackburn argued Gemma’s fabrications are “not a harmless ‘hallucination,’\" but rather “an act of defamation produced and distributed by a Google-owned AI model.”",
-          "content": "Senator Martha Blackburn argued Gemma’s fabrications are “not a harmless ‘hallucination,’\" but rather “an act of defamation produced and distributed by a Google-owned AI model.”",
-          "feed_position": 12
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemma-social-share.width-1300-1152x648.jpg",
-      "popularity_score": 2019.2049286111112
+      "popularity_score": 325.16696777777776,
+      "ai_summary": [
+        "Google removed Gemma models from AI Studio.",
+        "The removal followed a complaint from Senator Marsha Blackburn.",
+        "Senator Blackburn alleges the models fabricated misconduct claims.",
+        "The allegations were against Senator Blackburn herself.",
+        "The situation raises questions about AI model accuracy."
+      ]
     },
     {
-      "id": "cluster_15",
-      "coverage": 2,
-      "updated_at": "Mon, 03 Nov 2025 13:00:00 -0500",
-      "title": "Japanese trade association CODA, representing Studio Ghibli, Square Enix and others, demands that OpenAI stop using their copyrighted content to train Sora 2 (Stevie Bonifield/The Verge)",
-      "neutral_headline": "Studio Ghibli, Bandai Namco, Square Enix demand OpenAI stop using...",
+      "id": "cluster_30",
+      "coverage": 1,
+      "updated_at": "Mon, 03 Nov 2025 20:08:40 +0000",
+      "title": "LLMs show a “highly unreliable” capacity to describe their own internal processes",
+      "neutral_headline": "LLMs show a “highly unreliable” capacity to describe their own internal processes",
       "items": [
         {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/251103/p31#a251103p31",
-          "published_at": "Mon, 03 Nov 2025 13:00:00 -0500",
-          "title": "Japanese trade association CODA, representing Studio Ghibli, Square Enix and others, demands that OpenAI stop using their copyrighted content to train Sora 2 (Stevie Bonifield/The Verge)",
-          "standfirst": "Stevie Bonifield / The Verge: Japanese trade association CODA, representing Studio Ghibli, Square Enix and others, demands that OpenAI stop using their copyrighted content to train Sora 2 &mdash; &#65279;Japanese trade association CODA says Sora 2's opt-out policy may have violated copyright law.",
-          "content": "Stevie Bonifield / The Verge: Japanese trade association CODA, representing Studio Ghibli, Square Enix and others, demands that OpenAI stop using their copyrighted content to train Sora 2 &mdash; &#65279;Japanese trade association CODA says Sora 2's opt-out policy may have violated copyright law.",
-          "feed_position": 4,
-          "image_url": "http://www.techmeme.com/251103/i31.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement",
-          "published_at": "2025-11-03T12:34:13-05:00",
-          "title": "Studio Ghibli, Bandai Namco, Square Enix demand OpenAI stop using their content to train AI",
-          "standfirst": "The Content Overseas Distribution Association (CODA), an anti-piracy organization representing Japanese IP holders like Studio Ghibli and Bandai Namco, released a letter last week asking OpenAI to stop using its members’ content to train Sora 2, as reported by Automaton. The letter states that “CODA considers that the act of replication during the machine learning [&#8230;]",
-          "content": "The Content Overseas Distribution Association (CODA), an anti-piracy organization representing Japanese IP holders like Studio Ghibli and Bandai Namco, released a letter last week asking OpenAI to stop using its members’ content to train Sora 2, as reported by Automaton. The letter states that “CODA considers that the act of replication during the machine learning process may constitute copyright infringement,” since the resulting AI model went on to spit out content with copyrighted characters. Sora 2 generated an avalanche of content containing Japanese IP after it launched on September 30th, prompting Japan’s government to formally ask OpenAI to stop replicating Japanese artwork. This isn’t the first time one of OpenAI’s apps clearly pulled from Japanese media, either — the highlight of GPT-4o’s launch back in March was a proliferation of “Ghibli-style” images. Even Sam Altman’s own profile picture on X is currently a portrait in a style reminiscent of Studio Ghibli. Altman announced last month that OpenAI will be changing Sora’s opt-out policy for IP holders, but CODA claims that the use of an opt-out policy to begin with may have violated Japanese copyright law, stating, “under Japan’s copyright system, prior permission is generally required for the use of copyrighted works, and there is no system allowing one to avoid liability for infringement through subsequent objections.” CODA is now requesting on behalf of its members that OpenAI “responds sincerely” to its members’ copyright claims and stops using their content for machine learning without their permission, which seems to include not just Sora output, but also the use of Japanese IP as training data.",
-          "feed_position": 2
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2025/11/llms-show-a-highly-unreliable-capacity-to-describe-their-own-internal-processes/",
+          "published_at": "Mon, 03 Nov 2025 20:08:40 +0000",
+          "title": "LLMs show a “highly unreliable” capacity to describe their own internal processes",
+          "standfirst": "Anthropic finds some LLM \"self-awareness,\" but \"failures of introspection remain the norm.\"",
+          "content": "If you ask an LLM to explain its own reasoning process, it may well simply confabulate a plausible-sounding explanation for its actions based on text found in its training data. To get around this problem, Anthropic is expanding on its previous research into AI interpretability with a new study that aims to measure LLMs’ actual so-called “introspective awareness” of their own inference processes. The full paper on “Emergent Introspective Awareness in Large Language Models” uses some interesting methods to separate out the metaphorical “thought process” represented by an LLM’s artificial neurons from simple text output that purports to represent that process. In the end, though, the research finds that current AI models are “highly unreliable” at describing their own inner workings and that “failures of introspection remain the norm.” Inception, but for AI Anthropic’s new research is centered on a process it calls “concept injection.” The method starts by comparing the model’s internal activation states following both a control prompt and an experimental prompt (e.g. an “ALL CAPS” prompt versus the same prompt in lower case). Calculating the differences between those activations across billions of internal neurons creates what Anthropic calls a “vector” that in some sense represents how that concept is modeled in the LLM’s internal state.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-514162112-1152x648.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/251103/i31.jpg",
-      "popularity_score": 2018.7321508333334
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-514162112-1152x648.jpg",
+      "popularity_score": 319.83863444444444,
+      "ai_summary": [
+        "LLMs demonstrate unreliable self-awareness.",
+        "Anthropic found some LLM introspection capabilities.",
+        "Failures of introspection remain the norm.",
+        "The study highlights limitations in LLM understanding.",
+        "The findings suggest areas for improvement in AI."
+      ]
     },
     {
-      "id": "cluster_27",
-      "coverage": 2,
-      "updated_at": "Mon, 03 Nov 2025 12:05:00 -0500",
-      "title": "TikTok announces its first ever TikTok Awards show in the US; the live event will take place on December 18 and will be streamed on the TikTok app and on Tubi (Aisha Malik/TechCrunch)",
-      "neutral_headline": "TikTok announces its first awards show in the US",
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/251103/p28#a251103p28",
-          "published_at": "Mon, 03 Nov 2025 12:05:00 -0500",
-          "title": "TikTok announces its first ever TikTok Awards show in the US; the live event will take place on December 18 and will be streamed on the TikTok app and on Tubi (Aisha Malik/TechCrunch)",
-          "standfirst": "Aisha Malik / TechCrunch: TikTok announces its first ever TikTok Awards show in the US; the live event will take place on December 18 and will be streamed on the TikTok app and on Tubi &mdash; TikTok announced on Monday that it's launching its first-ever TikTok Awards show in the U.S. The awards will include &hellip;",
-          "content": "Aisha Malik / TechCrunch: TikTok announces its first ever TikTok Awards show in the US; the live event will take place on December 18 and will be streamed on the TikTok app and on Tubi &mdash; TikTok announced on Monday that it's launching its first-ever TikTok Awards show in the U.S. The awards will include &hellip;",
-          "feed_position": 7,
-          "image_url": "http://www.techmeme.com/251103/i28.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2025/11/03/tiktok-announces-its-first-awards-show-in-the-us/",
-          "published_at": "Mon, 03 Nov 2025 16:47:49 +0000",
-          "title": "TikTok announces its first awards show in the US",
-          "standfirst": "The awards will include \"Creator of the Year,\" \"Video of the Year,\" \"Muse of the Year,\" \"Breakthrough Artist of the Year,\" and more.",
-          "content": "The awards will include \"Creator of the Year,\" \"Video of the Year,\" \"Muse of the Year,\" \"Breakthrough Artist of the Year,\" and more.",
-          "feed_position": 4
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/251103/i28.jpg",
-      "popularity_score": 2017.8154841666667
-    },
-    {
-      "id": "cluster_0",
+      "id": "cluster_40",
       "coverage": 1,
       "updated_at": "Mon, 03 Nov 2025 19:15:21 +0000",
       "title": "Trump on why he pardoned Binance CEO: “Are you ready? I don’t know who he is.”",
       "neutral_headline": "Trump on why he pardoned Binance CEO: “Are you ready? I don’t know who he is.”",
       "items": [
         {
-          "source": "Ars Technica Main",
+          "source": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2025/11/trump-on-why-he-pardoned-binance-ceo-are-you-ready-i-dont-know-who-he-is/",
           "published_at": "Mon, 03 Nov 2025 19:15:21 +0000",
           "title": "Trump on why he pardoned Binance CEO: “Are you ready? I don’t know who he is.”",
           "standfirst": "Trump family business could benefit from pardon of crypto ex-con Changpeng Zhao.",
           "content": "President Trump says he still doesn’t know who Binance founder and former CEO Changpeng Zhao is, despite having pardoned Zhao last month. CBS correspondent Norah O’Donnell asked Trump about the pardon in a 60 Minutes interview that aired yesterday, noting that Zhao pleaded guilty to violating anti-money laundering laws. “The government at the time said that C.Z. had caused ‘significant harm to US national security,’ essentially by allowing terrorist groups like Hamas to move millions of dollars around. Why did you pardon him?” O’Donnell asked. “Okay, are you ready? I don’t know who he is. I know he got a four-month sentence or something like that. And I heard it was a Biden witch hunt,” answered Trump, who has criticized his predecessor for signing pardons with an autopen.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/Changpeng-Zhao-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/Changpeng-Zhao-1152x648.jpg",
-      "popularity_score": 352.98798416666665
+      "popularity_score": 308.9500233333333,
+      "ai_summary": [
+        "Donald Trump commented on pardoning Changpeng Zhao.",
+        "Trump stated he did not know who the Binance CEO was.",
+        "The Trump family business could benefit from the pardon.",
+        "Changpeng Zhao is a former crypto ex-con.",
+        "The pardon raises questions about potential conflicts."
+      ]
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_60",
+      "coverage": 1,
+      "updated_at": "Mon, 03 Nov 2025 17:23:11 +0000",
+      "title": "OpenAI signs massive AI compute deal with Amazon",
+      "neutral_headline": "OpenAI signs massive AI compute deal with Amazon",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2025/11/openai-signs-massive-ai-compute-deal-with-amazon/",
+          "published_at": "Mon, 03 Nov 2025 17:23:11 +0000",
+          "title": "OpenAI signs massive AI compute deal with Amazon",
+          "standfirst": "Deal will provide access to hundreds of thousands of Nvidia chips that power ChatGPT.",
+          "content": "On Monday, OpenAI announced it has signed a seven-year, $38 billion deal to buy cloud services from Amazon Web Services to power products like ChatGPT and Sora. It’s the company’s first big computing deal after a fundamental restructuring last week that gave OpenAI more operational and financial freedom from Microsoft. The agreement gives OpenAI access to hundreds of thousands of Nvidia graphics processors to train and run its AI models. “Scaling frontier AI requires massive, reliable compute,” OpenAI CEO Sam Altman said in a statement. “Our partnership with AWS strengthens the broad compute ecosystem that will power this next era and bring advanced AI to everyone.” OpenAI will reportedly use Amazon Web Services immediately, with all planned capacity set to come online by the end of 2026 and room to expand further in 2027 and beyond. Amazon plans to roll out hundreds of thousands of chips, including Nvidia’s GB200 and GB300 AI accelerators, in data clusters built to power ChatGPT’s responses, generate AI videos, and train OpenAI’s next wave of models.Read full article Comments",
+          "feed_position": 6,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/hiding_hero_1-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/hiding_hero_1-1152x648.jpg",
+      "popularity_score": 299.0805788888889,
+      "ai_summary": [
+        "OpenAI has signed a large AI compute deal.",
+        "The deal is with Amazon.",
+        "The agreement provides access to Nvidia chips.",
+        "The chips will power ChatGPT.",
+        "Hundreds of thousands of chips are included."
+      ]
+    },
+    {
+      "id": "cluster_67",
       "coverage": 1,
       "updated_at": "Mon, 03 Nov 2025 16:53:45 +0000",
       "title": "Capitol Hill is abuzz with talk of the “Athena” plan for NASA",
-      "neutral_headline": "Capitol Hill is abuzz with talk of the “Athena” plan for NASA",
+      "neutral_headline": "NASA's Athena plan discussed on Capitol Hill",
       "items": [
         {
           "source": "Ars Technica",
@@ -166,19 +322,26 @@
           "title": "Capitol Hill is abuzz with talk of the “Athena” plan for NASA",
           "standfirst": "The Athena plan lays out a blueprint for Isaacman's tenure at NASA.",
           "content": "In recent weeks, copies of an intriguing policy document have started to spread among space lobbyists on Capitol Hill in Washington, DC. The document bears the title “Athena,” and it purports to summarize the actions that private astronaut Jared Isaacman would have taken, were his nomination to become NASA administrator confirmed. The 62-page plan is notable both for the ideas to remake NASA that it espouses as well as the manner in which it has been leaked to the space community. After receiving a copy of this plan from an industry official, I spoke with multiple sources over the weekend to understand what is happening. Based upon this reporting there are clearly multiple layers to the story, which I want to unpack.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/news-080625d-lg-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/news-080625d-lg-1152x648.jpg",
-      "popularity_score": 330.6279841666667
+      "popularity_score": 276.5900233333333,
+      "ai_summary": [
+        "The Athena plan outlines a blueprint for Isaacman's tenure at NASA.",
+        "Discussions about the plan are currently taking place on Capitol Hill.",
+        "The plan is related to Isaacman's future role within the agency.",
+        "Details of the plan are being shared and debated.",
+        "The plan's specifics are being reviewed by relevant parties."
+      ]
     },
     {
-      "id": "cluster_52",
+      "id": "cluster_74",
       "coverage": 1,
       "updated_at": "Mon, 03 Nov 2025 14:45:11 +0000",
       "title": "Disruption to science will last longer than the US government shutdown",
-      "neutral_headline": "Government Shutdown Impacts Science Beyond Funding Lapses",
+      "neutral_headline": "Government shutdown impacts science beyond funding lapse",
       "items": [
         {
           "source": "Ars Technica",
@@ -187,26 +350,26 @@
           "title": "Disruption to science will last longer than the US government shutdown",
           "standfirst": "The consequences of the shutdown extend far beyond a lapse in funding.",
           "content": "US science always suffers during government shutdowns. Funding lapses send government scientists home without pay. Federal agencies suspend new grant opportunities, place expert review panels on hold, and stop collecting and analyzing critical public datasets that tell us about the economy, the environment, and public health. In 2025, the stakes are higher than in past shutdowns. This shutdown arrives at a time of massive upheaval to American science and innovation driven by President Donald Trump’s ongoing attempts to extend executive power and assert political control of scientific institutions.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/getty-us-capitol-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/getty-us-capitol-1152x648.jpg",
-      "popularity_score": 318.4852063888889,
+      "popularity_score": 264.4472455555556,
       "ai_summary": [
-        "Government shutdown will have lasting effects on scientific research and progress.",
-        "Funding lapses are only one aspect of the shutdown's negative impact.",
-        "Researchers face disruptions to ongoing projects and data collection.",
-        "Shutdowns can lead to loss of valuable data and research opportunities.",
-        "The long-term consequences will be felt across various scientific fields."
+        "The consequences of the shutdown extend beyond a lapse in funding.",
+        "The shutdown has effects that are more widespread than financial issues.",
+        "The impact on scientific research is significant and long-lasting.",
+        "The shutdown is causing disruptions to ongoing scientific projects.",
+        "The effects of the shutdown will be felt for an extended period."
       ]
     },
     {
-      "id": "cluster_65",
+      "id": "cluster_83",
       "coverage": 1,
       "updated_at": "Mon, 03 Nov 2025 12:00:51 +0000",
       "title": "Internet Archive’s legal fights are over, but its founder mourns what was lost",
-      "neutral_headline": "Internet Archive Founder Reflects on Legal Battles' Impact",
+      "neutral_headline": "Internet Archive founder reflects on legal battles and losses",
       "items": [
         {
           "source": "Ars Technica",
@@ -214,149 +377,19 @@
           "published_at": "Mon, 03 Nov 2025 12:00:51 +0000",
           "title": "Internet Archive’s legal fights are over, but its founder mourns what was lost",
           "standfirst": "\"We survived, but it wiped out the library,\" Internet Archive's founder says.",
-          "content": "This month, the Internet Archive’s Wayback Machine archived its trillionth webpage, and the nonprofit invited its more than 1,200 library partners and 800,000 daily users to join a celebration of the moment. To honor “three decades of safeguarding the world’s online heritage,” the city of San Francisco declared October 22 to be “Internet Archive Day.” The Archive was also recently designated a federal depository library by Sen. Alex Padilla (D-Calif.), who proclaimed the organization a “perfect fit” to expand “access to federal government publications amid an increasingly digital landscape.” The Internet Archive might sound like a thriving organization, but it only recently emerged from years of bruising copyright battles that threatened to bankrupt the beloved library project. In the end, the fight led to more than 500,000 books being removed from the Archive’s “Open Library.” “We survived,” Internet Archive founder Brewster Kahle told Ars. “But it wiped out the Library.”Read full article Comments",
-          "feed_position": 4,
+          "content": "Last month, the Internet Archive’s Wayback Machine archived its trillionth webpage, and the nonprofit invited its more than 1,200 library partners and 800,000 daily users to join a celebration of the moment. To honor “three decades of safeguarding the world’s online heritage,” the city of San Francisco declared October 22 to be “Internet Archive Day.” The Archive was also recently designated a federal depository library by Sen. Alex Padilla (D-Calif.), who proclaimed the organization a “perfect fit” to expand “access to federal government publications amid an increasingly digital landscape.” The Internet Archive might sound like a thriving organization, but it only recently emerged from years of bruising copyright battles that threatened to bankrupt the beloved library project. In the end, the fight led to more than 500,000 books being removed from the Archive’s “Open Library.” “We survived,” Internet Archive founder Brewster Kahle told Ars. “But it wiped out the Library.”Read full article Comments",
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/2025-10-22-Internet-Archive-1-Trillion-web-pages-375-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/2025-10-22-Internet-Archive-1-Trillion-web-pages-375-1152x648.jpg",
-      "popularity_score": 305.7463175,
+      "popularity_score": 251.70835666666667,
       "ai_summary": [
-        "Internet Archive founder reflects on the organization's legal challenges.",
-        "The legal battles concluded, but the founder mourns the library's losses.",
-        "The founder states the legal fights significantly impacted the archive's resources.",
-        "The archive's mission faced challenges during the legal proceedings.",
-        "The founder acknowledges the archive's survival despite the setbacks."
-      ]
-    },
-    {
-      "id": "cluster_5",
-      "coverage": 1,
-      "updated_at": "2025-11-03T19:15:55.507Z",
-      "title": "Research roundup: 6 cool science stories we almost missed",
-      "neutral_headline": "Science Stories: Research Roundup Features Six Interesting Findings",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2025/11/research-roundup-6-cool-science-stories-we-almost-missed-3/",
-          "published_at": "2025-11-03T19:15:55.507Z",
-          "title": "Research roundup: 6 cool science stories we almost missed",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 5
-        }
-      ],
-      "popularity_score": 302.9975694444444,
-      "ai_summary": [
-        "Researchers discovered a new method for detecting dark matter.",
-        "Scientists developed a new technique for growing human organs.",
-        "A team found a way to reverse the aging process in mice.",
-        "Researchers have identified a new species of deep-sea fish.",
-        "Scientists have made progress in creating artificial intelligence."
-      ]
-    },
-    {
-      "id": "cluster_7",
-      "coverage": 1,
-      "updated_at": "2025-11-03T19:15:55.507Z",
-      "title": "YouTube denies AI was involved with odd removals of tech tutorials",
-      "neutral_headline": "YouTube Denies AI Involvement in Tech Tutorial Removals",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/10/youtube-denies-ai-was-involved-with-odd-removals-of-tech-tutorials/",
-          "published_at": "2025-11-03T19:15:55.507Z",
-          "title": "YouTube denies AI was involved with odd removals of tech tutorials",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 7
-        }
-      ],
-      "popularity_score": 297.9975694444444,
-      "ai_summary": [
-        "YouTube denies using artificial intelligence to remove tech tutorials.",
-        "The platform addressed concerns about the removal of specific content.",
-        "YouTube stated human review processes were responsible for removals.",
-        "The company clarified its content moderation policies and practices.",
-        "YouTube aims to provide transparency regarding content decisions."
-      ]
-    },
-    {
-      "id": "cluster_6",
-      "coverage": 1,
-      "updated_at": "2025-11-03T19:15:55.507Z",
-      "title": "Inside the marketplace for vaccine medical exemptions",
-      "neutral_headline": "Marketplace for Vaccine Medical Exemptions Examined",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2025/11/inside-the-marketplace-for-vaccine-medical-exemptions/",
-          "published_at": "2025-11-03T19:15:55.507Z",
-          "title": "Inside the marketplace for vaccine medical exemptions",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 6
-        }
-      ],
-      "popularity_score": 292.9975694444444,
-      "ai_summary": [
-        "The article explores the market for vaccine medical exemptions.",
-        "It examines the process of obtaining medical exemptions.",
-        "The article investigates the role of doctors in granting exemptions.",
-        "It discusses the potential for abuse within the system.",
-        "The article analyzes the impact on public health and vaccination rates."
-      ]
-    },
-    {
-      "id": "cluster_8",
-      "coverage": 1,
-      "updated_at": "2025-11-03T19:15:55.507Z",
-      "title": "Neural network finds an enzyme that can break down polyurethane",
-      "neutral_headline": "Neural Network Discovers Enzyme Breaking Down Polyurethane",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2025/10/polyurethane-is-the-latest-polymer-broken-down-by-designer-enzymes/",
-          "published_at": "2025-11-03T19:15:55.507Z",
-          "title": "Neural network finds an enzyme that can break down polyurethane",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 8
-        }
-      ],
-      "popularity_score": 272.9975694444444,
-      "ai_summary": [
-        "A neural network identified an enzyme that degrades polyurethane.",
-        "The enzyme can potentially break down plastic waste.",
-        "The discovery could lead to new methods of waste management.",
-        "Researchers are exploring the enzyme's practical applications.",
-        "The research highlights the potential of artificial intelligence."
-      ]
-    },
-    {
-      "id": "cluster_9",
-      "coverage": 1,
-      "updated_at": "2025-11-03T19:15:55.507Z",
-      "title": "Cursor introduces its coding model alongside multi-agent interface",
-      "neutral_headline": "Cursor Introduces Coding Model and Multi-Agent Interface",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2025/10/cursor-introduces-its-coding-model-alongside-multi-agent-interface/",
-          "published_at": "2025-11-03T19:15:55.507Z",
-          "title": "Cursor introduces its coding model alongside multi-agent interface",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 9
-        }
-      ],
-      "popularity_score": 262.9975694444444,
-      "ai_summary": [
-        "Cursor introduced its coding model and multi-agent interface.",
-        "The coding model aims to assist developers with coding tasks.",
-        "The multi-agent interface allows for collaborative coding.",
-        "The new tools are designed to improve coding efficiency.",
-        "The announcement marks a step forward in software development."
+        "The Internet Archive's legal fights have concluded.",
+        "The founder mourns the loss of the library's original form.",
+        "The founder states the library was \"wiped out\" by the legal battles.",
+        "The archive survived the legal challenges, but at a cost.",
+        "The founder expresses sadness over the changes to the archive."
       ]
     }
   ]
