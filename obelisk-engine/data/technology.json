@@ -1,12 +1,12 @@
 {
-  "updated_at": "2025-11-08T03:35:18.114Z",
+  "updated_at": "2025-11-08T07:17:14.088Z",
   "clusters": [
     {
-      "id": "cluster_4",
+      "id": "cluster_12",
       "coverage": 2,
       "updated_at": "Fri, 07 Nov 2025 23:25:00 GMT",
       "title": "Terminal-Bench 2.0 launches alongside Harbor, a new framework for testing agents in containers",
-      "neutral_headline": "Terminal-Bench 2.0 Launches with Harbor Framework",
+      "neutral_headline": "New AI Agent Testing Framework Released with Terminal-Bench 2.0",
       "items": [
         {
           "source": "VentureBeat",
@@ -178,44 +178,24 @@
           "content": "Google Cloud is introducing what it calls its most powerful artificial intelligence infrastructure to date, unveiling a seventh-generation Tensor Processing Unit and expanded Arm-based computing options designed to meet surging demand for AI model deployment — what the company characterizes as a fundamental industry shift from training models to serving them to billions of users.The announcement, made Thursday, centers on Ironwood, Google&#x27;s latest custom AI accelerator chip, which will become generally available in the coming weeks. In a striking validation of the technology, Anthropic, the AI safety company behind the Claude family of models, disclosed plans to access up to one million of these TPU chips — a commitment worth tens of billions of dollars and among the largest known AI infrastructure deals to date.The move underscores an intensifying competition among cloud providers to control the infrastructure layer powering artificial intelligence, even as questions mount about whether the industry can sustain its current pace of capital expenditure. Google&#x27;s approach — building custom silicon rather than relying solely on Nvidia&#x27;s dominant GPU chips — amounts to a long-term bet that vertical integration from chip design through software will deliver superior economics and performance.Why companies are racing to serve AI models, not just train themGoogle executives framed the announcements around what they call \"the age of inference\" — a transition point where companies shift resources from training frontier AI models to deploying them in production applications serving millions or billions of requests daily.\"Today&#x27;s frontier models, including Google&#x27;s Gemini, Veo, and Imagen and Anthropic&#x27;s Claude train and serve on Tensor Processing Units,\" said Amin Vahdat, vice president and general manager of AI and Infrastructure at Google Cloud. \"For many organizations, the focus is shifting from training these models to powering useful, responsive interactions with them.\"This transition has profound implications for infrastructure requirements. Where training workloads can often tolerate batch processing and longer completion times, inference — the process of actually running a trained model to generate responses — demands consistently low latency, high throughput, and unwavering reliability. A chatbot that takes 30 seconds to respond, or a coding assistant that frequently times out, becomes unusable regardless of the underlying model&#x27;s capabilities.Agentic workflows — where AI systems take autonomous actions rather than simply responding to prompts — create particularly complex infrastructure challenges, requiring tight coordination between specialized AI accelerators and general-purpose computing.Inside Ironwood&#x27;s architecture: 9,216 chips working as one supercomputerIronwood is more than incremental improvement over Google&#x27;s sixth-generation TPUs. According to technical specifications shared by the company, it delivers more than four times better performance for both training and inference workloads compared to its predecessor — gains that Google attributes to a system-level co-design approach rather than simply increasing transistor counts.The architecture&#x27;s most striking feature is its scale. A single Ironwood \"pod\" — a tightly integrated unit of TPU chips functioning as one supercomputer — can connect up to 9,216 individual chips through Google&#x27;s proprietary Inter-Chip Interconnect network operating at 9.6 terabits per second. To put that bandwidth in perspective, it&#x27;s roughly equivalent to downloading the entire Library of Congress in under two seconds.This massive interconnect fabric allows the 9,216 chips to share access to 1.77 petabytes of High Bandwidth Memory — memory fast enough to keep pace with the chips&#x27; processing speeds. That&#x27;s approximately 40,000 high-definition Blu-ray movies&#x27; worth of working memory, instantly accessible by thousands of processors simultaneously. \"For context, that means Ironwood Pods can deliver 118x more FP8 ExaFLOPS versus the next closest competitor,\" Google stated in technical documentation.The system employs Optical Circuit Switching technology that acts as a \"dynamic, reconfigurable fabric.\" When individual components fail or require maintenance — inevitable at this scale — the OCS technology automatically reroutes data traffic around the interruption within milliseconds, allowing workloads to continue running without user-visible disruption.This reliability focus reflects lessons learned from deploying five previous TPU generations. Google reported that its fleet-wide uptime for liquid-cooled systems has maintained approximately 99.999% availability since 2020 — equivalent to less than six minutes of downtime per year.Anthropic&#x27;s billion-dollar bet validates Google&#x27;s custom silicon strategyPerhaps the most significant external validation of Ironwood&#x27;s capabilities comes from Anthropic&#x27;s commitment to access up to one million TPU chips — a staggering figure in an industry where even clusters of 10,000 to 50,000 accelerators are considered massive.\"Anthropic and Google have a longstanding partnership and this latest expansion will help us continue to grow the compute we need to define the frontier of AI,\" said Krishna Rao, Anthropic&#x27;s chief financial officer, in the official partnership agreement. \"Our customers — from Fortune 500 companies to AI-native startups — depend on Claude for their most important work, and this expanded capacity ensures we can meet our exponentially growing demand.\"According to a separate statement, Anthropic will have access to \"well over a gigawatt of capacity coming online in 2026\" — enough electricity to power a small city. The company specifically cited TPUs&#x27; \"price-performance and efficiency\" as key factors in the decision, along with \"existing experience in training and serving its models with TPUs.\"Industry analysts estimate that a commitment to access one million TPU chips, with associated infrastructure, networking, power, and cooling, likely represents a multi-year contract worth tens of billions of dollars — among the largest known cloud infrastructure commitments in history.James Bradbury, Anthropic&#x27;s head of compute, elaborated on the inference focus: \"Ironwood&#x27;s improvements in both inference performance and training scalability will help us scale efficiently while maintaining the speed and reliability our customers expect.\"Google&#x27;s Axion processors target the computing workloads that make AI possibleAlongside Ironwood, Google introduced expanded options for its Axion processor family — custom Arm-based CPUs designed for general-purpose workloads that support AI applications but don&#x27;t require specialized accelerators.The N4A instance type, now entering preview, targets what Google describes as \"microservices, containerized applications, open-source databases, batch, data analytics, development environments, experimentation, data preparation and web serving jobs that make AI applications possible.\" The company claims N4A delivers up to 2X better price-performance than comparable current-generation x86-based virtual machines.Google is also previewing C4A metal, its first bare-metal Arm instance, which provides dedicated physical servers for specialized workloads such as Android development, automotive systems, and software with strict licensing requirements.The Axion strategy reflects a growing conviction that the future of computing infrastructure requires both specialized AI accelerators and highly efficient general-purpose processors. While a TPU handles the computationally intensive task of running an AI model, Axion-class processors manage data ingestion, preprocessing, application logic, API serving, and countless other tasks in a modern AI application stack.Early customer results suggest the approach delivers measurable economic benefits. Vimeo reported observing \"a 30% improvement in performance for our core transcoding workload compared to comparable x86 VMs\" in initial N4A tests. ZoomInfo measured \"a 60% improvement in price-performance\" for data processing pipelines running on Java services, according to Sergei Koren, the company&#x27;s chief infrastructure architect.Software tools turn raw silicon performance into developer productivityHardware performance means little if developers cannot easily harness it. Google emphasized that Ironwood and Axion are integrated into what it calls AI Hypercomputer — \"an integrated supercomputing system that brings together compute, networking, storage, and software to improve system-level performance and efficiency.\"According to an October 2025 IDC Business Value Snapshot study, AI Hypercomputer customers achieved on average 353% three-year return on investment, 28% lower IT costs, and 55% more efficient IT teams.Google disclosed several software enhancements designed to maximize Ironwood utilization. Google Kubernetes Engine now offers advanced maintenance and topology awareness for TPU clusters, enabling intelligent scheduling and highly resilient deployments. The company&#x27;s open-source MaxText framework now supports advanced training techniques including Supervised Fine-Tuning and Generative Reinforcement Policy Optimization.Perhaps most significant for production deployments, Google&#x27;s Inference Gateway intelligently load-balances requests across model servers to optimize critical metrics. According to Google, it can reduce time-to-first-token latency by 96% and serving costs by up to 30% through techniques like prefix-cache-aware routing.The Inference Gateway monitors key metrics including KV cache hits, GPU or TPU utilization, and request queue length, then routes incoming requests to the optimal replica. For conversational AI applications where multiple requests might share context, routing requests with shared prefixes to the same server instance can dramatically reduce redundant computation.The hidden challenge: powering and cooling one-megawatt server racksBehind these announcements lies a massive physical infrastructure challenge that Google addressed at the recent Open Compute Project EMEA Summit. The company disclosed that it&#x27;s implementing +/-400 volt direct current power delivery capable of supporting up to one megawatt per rack — a tenfold increase from typical deployments.\"The AI era requires even greater power delivery capabilities,\" explained Madhusudan Iyengar and Amber Huffman, Google principal engineers, in an April 2025 blog post. \"ML will require more than 500 kW per IT rack before 2030.\"Google is collaborating with Meta and Microsoft to standardize electrical and mechanical interfaces for high-voltage DC distribution. The company selected 400 VDC specifically to leverage the supply chain established by electric vehicles, \"for greater economies of scale, more efficient manufacturing, and improved quality and scale.\"On cooling, Google revealed it will contribute its fifth-generation cooling distribution unit design to the Open Compute Project. The company has deployed liquid cooling \"at GigaWatt scale across more than 2,000 TPU Pods in the past seven years\" with fleet-wide availability of approximately 99.999%.Water can transport approximately 4,000 times more heat per unit volume than air for a given temperature change — critical as individual AI accelerator chips increasingly dissipate 1,000 watts or more.Custom silicon gambit challenges Nvidia&#x27;s AI accelerator dominanceGoogle&#x27;s announcements come as the AI infrastructure market reaches an inflection point. While Nvidia maintains overwhelming dominance in AI accelerators — holding an estimated 80-95% market share — cloud providers are increasingly investing in custom silicon to differentiate their offerings and improve unit economics.Amazon Web Services pioneered this approach with Graviton Arm-based CPUs and Inferentia / Trainium AI chips. Microsoft has developed Cobalt processors and is reportedly working on AI accelerators. Google now offers the most comprehensive custom silicon portfolio among major cloud providers.The strategy faces inherent challenges. Custom chip development requires enormous upfront investment — often billions of dollars. The software ecosystem for specialized accelerators lags behind Nvidia&#x27;s CUDA platform, which benefits from 15+ years of developer tools. And rapid AI model architecture evolution creates risk that custom silicon optimized for today&#x27;s models becomes less relevant as new techniques emerge.Yet Google argues its approach delivers unique advantages. \"This is how we built the first TPU ten years ago, which in turn unlocked the invention of the Transformer eight years ago — the very architecture that powers most of modern AI,\" the company noted, referring to the seminal \"Attention Is All You Need\" paper from Google researchers in 2017.The argument is that tight integration — \"model research, software, and hardware development under one roof\" — enables optimizations impossible with off-the-shelf components.Beyond Anthropic, several other customers provided early feedback. Lightricks, which develops creative AI tools, reported that early Ironwood testing \"makes us highly enthusiastic\" about creating \"more nuanced, precise, and higher-fidelity image and video generation for our millions of global customers,\" said Yoav HaCohen, the company&#x27;s research director.Google&#x27;s announcements raise questions that will play out over coming quarters. Can the industry sustain current infrastructure spending, with major AI companies collectively committing hundreds of billions of dollars? Will custom silicon prove economically superior to Nvidia GPUs? How will model architectures evolve?For now, Google appears committed to a strategy that has defined the company for decades: building custom infrastructure to enable applications impossible on commodity hardware, then making that infrastructure available to customers who want similar capabilities without the capital investment.As the AI industry transitions from research labs to production deployments serving billions of users, that infrastructure layer — the silicon, software, networking, power, and cooling that make it all run — may prove as important as the models themselves.And if Anthropic&#x27;s willingness to commit to accessing up to one million chips is any indication, Google&#x27;s bet on custom silicon designed specifically for the age of inference may be paying off just as demand reaches its inflection point.",
           "feed_position": 4,
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3wiaJuUTbBrUaBp8cSXtO4/81095c7817da6a2967a961ed60356ed4/Ironwood_board.jpg?w=300&q=30"
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/ai/why-googles-file-search-could-displace-diy-rag-stacks-in-the-enterprise",
-          "published_at": "Thu, 06 Nov 2025 05:00:00 GMT",
-          "title": "Why Google’s File Search could displace DIY RAG stacks in the enterprise",
-          "standfirst": "By now, enterprises understand that retrieval augmented generation (RAG) allows applications and agents to find the best, most grounded information for queries. However, typical RAG setups could be an engineering challenge and also exhibit undesirable traits. To help solve this, Google released the File Search Tool on the Gemini API, a fully managed RAG system “that abstracts away the retrieval pipeline.” File Search removes much of the tool and application-gathering involved in setting up RAG pipelines, so engineers don’t need to stitch together things like storage solutions and embedding creators. This tool competes directly with enterprise RAG products from OpenAI, AWS and Microsoft, which also aim to simplify RAG architecture. Google, though, claims its offering requires less orchestration and is more standalone. “File Search provides a simple, integrated and scalable way to ground Gemini with your data, delivering responses that are more accurate, relevant and verifiable,” Google said in a blog post. Enterprises can access some features of File Search, such as storage and embedding generation, for free at query time. Users will begin paying for embeddings when these files are indexed at a fixed rate of $0.15 per 1 million tokens. Google’s Gemini Embedding model, which eventually became the top embedding model on the Massive Text Embedding Benchmark, powers File Search. File Search and integrated experiences Google said File Search works “by handling the complexities of RAG for you.” File Search manages file storage, chunking strategies and embeddings. Developers can invoke File Search within the existing generateContent API, which Google said makes the tool easier to adopt. File Search uses vector search to “understand the meaning and context of a user’s query.” Ideally, it will find the relevant information to answer a query from documents, even if the prompt contains inexact words. The feature has built-in citations that point to the specific parts of a document it used to generate answers, and also supports a variety of file formats. These include PDF, Docx, txt, JSON and “many common programming language file types,\" Google says. Continuous RAG experimentation Enterprises may have already begun building out a RAG pipeline as they lay the groundwork for their AI agents to actually tap the correct data and make informed decisions. Because RAG represents a key part of how enterprises maintain accuracy and tap into insights about their business, organizations must quickly have visibility into this pipeline. RAG can be an engineering pain because orchestrating multiple tools together can become complicated. Building “traditional” RAG pipelines means organizations must assemble and fine-tune a file ingestion and parsing program, including chunking, embedding generation and updates. They must then contract a vector database like Pinecone, determine its retrieval logic, and fit it all within a model’s context window. Additionally, they can, if desired, add source citations. File Search aims to streamline all of that, although competitor platforms offer similar features. OpenAI’s Assistants API allows developers to utilize a file search feature, guiding an agent to relevant documents for responses. AWS’s Bedrock unveiled a data automation managed service in December. While File Search stands similarly to these other platforms, Google’s offering abstracts all, rather than just some, elements of the RAG pipeline creation. Phaser Studio, the creator of AI-driven game generation platform Beam, said in Google’s blog that it used File Search to sift through its library of 3,000 files.“File Search allows us to instantly surface the right material, whether that’s a code snippet for bullet patterns, genre templates or architectural guidance from our Phaser ‘brain’ corpus,” said Phaser CTO Richard Davey. “The result is ideas that once took days to prototype now become playable in minutes.”Since the announcement, several users expressed interest in using the feature.",
-          "content": "By now, enterprises understand that retrieval augmented generation (RAG) allows applications and agents to find the best, most grounded information for queries. However, typical RAG setups could be an engineering challenge and also exhibit undesirable traits. To help solve this, Google released the File Search Tool on the Gemini API, a fully managed RAG system “that abstracts away the retrieval pipeline.” File Search removes much of the tool and application-gathering involved in setting up RAG pipelines, so engineers don’t need to stitch together things like storage solutions and embedding creators. This tool competes directly with enterprise RAG products from OpenAI, AWS and Microsoft, which also aim to simplify RAG architecture. Google, though, claims its offering requires less orchestration and is more standalone. “File Search provides a simple, integrated and scalable way to ground Gemini with your data, delivering responses that are more accurate, relevant and verifiable,” Google said in a blog post. Enterprises can access some features of File Search, such as storage and embedding generation, for free at query time. Users will begin paying for embeddings when these files are indexed at a fixed rate of $0.15 per 1 million tokens. Google’s Gemini Embedding model, which eventually became the top embedding model on the Massive Text Embedding Benchmark, powers File Search. File Search and integrated experiences Google said File Search works “by handling the complexities of RAG for you.” File Search manages file storage, chunking strategies and embeddings. Developers can invoke File Search within the existing generateContent API, which Google said makes the tool easier to adopt. File Search uses vector search to “understand the meaning and context of a user’s query.” Ideally, it will find the relevant information to answer a query from documents, even if the prompt contains inexact words. The feature has built-in citations that point to the specific parts of a document it used to generate answers, and also supports a variety of file formats. These include PDF, Docx, txt, JSON and “many common programming language file types,\" Google says. Continuous RAG experimentation Enterprises may have already begun building out a RAG pipeline as they lay the groundwork for their AI agents to actually tap the correct data and make informed decisions. Because RAG represents a key part of how enterprises maintain accuracy and tap into insights about their business, organizations must quickly have visibility into this pipeline. RAG can be an engineering pain because orchestrating multiple tools together can become complicated. Building “traditional” RAG pipelines means organizations must assemble and fine-tune a file ingestion and parsing program, including chunking, embedding generation and updates. They must then contract a vector database like Pinecone, determine its retrieval logic, and fit it all within a model’s context window. Additionally, they can, if desired, add source citations. File Search aims to streamline all of that, although competitor platforms offer similar features. OpenAI’s Assistants API allows developers to utilize a file search feature, guiding an agent to relevant documents for responses. AWS’s Bedrock unveiled a data automation managed service in December. While File Search stands similarly to these other platforms, Google’s offering abstracts all, rather than just some, elements of the RAG pipeline creation. Phaser Studio, the creator of AI-driven game generation platform Beam, said in Google’s blog that it used File Search to sift through its library of 3,000 files.“File Search allows us to instantly surface the right material, whether that’s a code snippet for bullet patterns, genre templates or architectural guidance from our Phaser ‘brain’ corpus,” said Phaser CTO Richard Davey. “The result is ideas that once took days to prototype now become playable in minutes.”Since the announcement, several users expressed interest in using the feature.",
-          "feed_position": 5,
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2KW1BliyFMc64n78OqnVlM/ac451c69dcc831ebd51d04db82bb7336/crimedy7_illustration_of_digital_pipes_--ar_169_--v_7_bd27b512-87b7-4c25-a63a-7c8829441315_0.png?w=300&q=30"
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise",
-          "published_at": "Thu, 06 Nov 2025 05:00:00 GMT",
-          "title": "From prototype to production: What vibe coding tools must fix for enterprise adoption",
-          "standfirst": "Presented by Salesforce Vibe coding — the fast-growing trend of using generative AI to spin up code from plain-language prompts — is quick, creative, and great for instant prototypes. But many argue that it&#x27;s not cut out for building production-ready business apps with the security, governance, and trusted infrastructure that enterprises require. In other words, a few saved hours in development can mean a future full of security vulnerabilities, endless maintenance, and scalability headaches, says Mohith Shrivastava, principal developer advocate at Salesforce.\"For rapid experimentation, building minimum viable products, and tackling creative challenges, vibe coding is a game-changer,\" Shrivastava says. \"However, that same speed and improvisational nature are exactly what makes its application in a professional, enterprise setting a topic of intense debate. And the skepticism from the developer community is 100% justified.\"Risks and rewards of vibe coding The excitement is all about speed: going from a rough idea to a working prototype in hours, not weeks, is a massive advantage. But as Shrivastava shared, developers have been vocal about the potential downsides.\"When you apply vibe coding indiscriminately to an entire application stack, you’re not just moving fast; you’re accumulating risk at an unprecedented rate,\" Shrivastava explains. \"The cons are significant.\" That includes potential security nightmares, as AI models don&#x27;t typically take into consideration the company&#x27;s specific security policies. They can easily introduce vulnerabilities like hardcoded secrets or use insecure, hallucinated packages. Then there’s the issue of what Shrivastava calls \"spaghetti code on steroids,\" or verbose code that lacks a coherent architectural pattern, creating a mountain of technical debt.Equally concerning is the illusion of progress: vibe coding may complete 80% of a feature in record time, but the remaining 20% — the edge cases, performance tuning, and compliance work — becomes exponentially harder.But does this mean vibe coding has no place in the enterprise?\"The idea that you can just vibe your way to a complex, secure, and maintainable enterprise application is a dangerous fantasy,\" Shrivastava says. \"But — the pros are undeniable if it&#x27;s used correctly. The key is not to avoid vibe coding, but to apply it intelligently in your enterprise.\"Red and green zones: Enterprise-grade vibe codingYou can&#x27;t, and you absolutely should not, vibe code your entire enterprise stack with just any generic tool, Shrivastava warns. But when paired with no-, low-, or pro-code tools that are built for the enterprise, many of the gaps can be addressed. An enterprise-grade vibe coding solution, for example, can automatically scan for security issues, flag performance bottlenecks, and provide a safety net. It’s also critical to understand which parts of an application suit this approach — and which demand a higher level of trust and control. Shrivastava divides the stack into red and green zones to illustrate.The green zone is the presentation layer, or the UI and UX. It’s ideal for vibe coding, where developers can move fast and iterate quickly without much risk. In contrast is the red zone, which covers the foundational pillars of an application, including business logic and data layers.Empowering developers in the green zoneDeveloper expertise remains the foundation for effective and safe vibe coding. But developers can be amplified by AI tools and emerging agents that are grounded in business context, connected to real applications, integrations, and data flows.\"A generic AI agent can&#x27;t grasp your company&#x27;s unique processes, but a context-aware tool can act as a powerful pair programmer, helping a developer draft complex logic or model data with greater speed and accuracy,\" Shrivastava says. \"It’s about making the expert developer more efficient, not trying to do their job for them.\"Some areas will always be high risk for ungoverned AI — especially infrastructure and security. Letting a generic AI agent configure firewalls or Identity and Access Management [IAM] policies without oversight, Shrivastava warns, is a recipe for disaster. The solution isn’t to avoid the red zone entirely, but to approach it with the right tools — ones that embed governance, security, and context from the ground up.\"The winning strategy is clear: Vibe code the green zone for agility, approach the red zone by augmenting your developers with powerful, context-aware tools, and never, ever DIY your core infrastructure with AI,\" he says.Embracing enterprise vibe codingTo harness the power of enterprise vibe coding, Salesforce developed Agentforce Vibes. This new vibe coding offering for the enterprise includes Agentforce, an autonomous AI agent built to collaborate like a pair programmer on the Salesforce Platform. It’s designed precisely to provide developers with the right tools for the job, covering both the green and red zones. For the green zone, it offers the speed and agility to rapidly build UIs and prototypes. But its true power lies in how it augments developers in the red zone.\"Enterprise vibe coding like Agentforce lets organizations take AI-assisted development to the organizational level, accelerating coding, testing, and deployment, while ensuring consistency, security, and performance,\" says Dan Fernandez, VP of product, developer services at Salesforce. \"It&#x27;s not about throwing away governance for speed; it’s about integrating AI into every stage of the application lifecycle to work smarter.\"Because Agentforce Vibes’ tooling is deeply integrated with your business context on the platform, it can safely assist with business logic and data modeling. Most importantly, it operates on a trusted platform. Instead of a DIY approach — jury-rigging a generic AI agent to handle your networking — developers build on a foundation that has security and governance built in, so they can innovate safely, knowing the most critical layers of the stack are secure and compliant.Major enterprises are putting vibe coding to work Agentforce Vibes users are now tapping the tool to build around 20 to 25% of their new code base, according to Salesforce data, and users are accepting around 1.2 million lines of agentic code per month. That includes companies like Coinbase, CGI, Grupo Globo, and one of the top five banks in the U.S., which is using Agentforce Vibes capabilities to develop production-ready apps faster. Agentforce Vibes is part of a suite of tools in Agentforce 360 that span from no-code and low-code to pro-code development. These tools are together helping customers develop and deploy at speeds previously unheard of.With the low-code Agent Builder in Agentforce, the Secret Escapes team was able to build, test, and launch their agent to support customer service in just two weeks, compared to the six months it had previously taken the company to build and train a bot. With Agentforce, 1-800Accountant autonomously resolved 70% of customer chat engagements during tax week in 2025, without writing a line of code, using Salesforce’s low-code tools and AI assistance. Meanwhile, media company Grupo Globo deployed agents to identify subscribers at risk of lapsing, offer personalized upgrades, cross-sell, and convert non-subscribers. As a result, Agentforce boosted Globo’s retention rates by 22% in less than three months.Innovation meets discipline Enterprise tools show that disciplined engineering and creative experimentation can coexist — and that balance, Shrivastava says, is the key to lasting innovation.\"Vibe coding is not a fad, but it&#x27;s also not a silver bullet that will replace disciplined software engineering,\" Shrivastava says. \"The smart path forward is a hybrid approach where human software skills are augmented with agentic intelligence. This balanced approach is how you get the best of both worlds: radical innovation at the edge and unwavering stability at the core.\"Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
-          "content": "Presented by Salesforce Vibe coding — the fast-growing trend of using generative AI to spin up code from plain-language prompts — is quick, creative, and great for instant prototypes. But many argue that it&#x27;s not cut out for building production-ready business apps with the security, governance, and trusted infrastructure that enterprises require. In other words, a few saved hours in development can mean a future full of security vulnerabilities, endless maintenance, and scalability headaches, says Mohith Shrivastava, principal developer advocate at Salesforce.\"For rapid experimentation, building minimum viable products, and tackling creative challenges, vibe coding is a game-changer,\" Shrivastava says. \"However, that same speed and improvisational nature are exactly what makes its application in a professional, enterprise setting a topic of intense debate. And the skepticism from the developer community is 100% justified.\"Risks and rewards of vibe coding The excitement is all about speed: going from a rough idea to a working prototype in hours, not weeks, is a massive advantage. But as Shrivastava shared, developers have been vocal about the potential downsides.\"When you apply vibe coding indiscriminately to an entire application stack, you’re not just moving fast; you’re accumulating risk at an unprecedented rate,\" Shrivastava explains. \"The cons are significant.\" That includes potential security nightmares, as AI models don&#x27;t typically take into consideration the company&#x27;s specific security policies. They can easily introduce vulnerabilities like hardcoded secrets or use insecure, hallucinated packages. Then there’s the issue of what Shrivastava calls \"spaghetti code on steroids,\" or verbose code that lacks a coherent architectural pattern, creating a mountain of technical debt.Equally concerning is the illusion of progress: vibe coding may complete 80% of a feature in record time, but the remaining 20% — the edge cases, performance tuning, and compliance work — becomes exponentially harder.But does this mean vibe coding has no place in the enterprise?\"The idea that you can just vibe your way to a complex, secure, and maintainable enterprise application is a dangerous fantasy,\" Shrivastava says. \"But — the pros are undeniable if it&#x27;s used correctly. The key is not to avoid vibe coding, but to apply it intelligently in your enterprise.\"Red and green zones: Enterprise-grade vibe codingYou can&#x27;t, and you absolutely should not, vibe code your entire enterprise stack with just any generic tool, Shrivastava warns. But when paired with no-, low-, or pro-code tools that are built for the enterprise, many of the gaps can be addressed. An enterprise-grade vibe coding solution, for example, can automatically scan for security issues, flag performance bottlenecks, and provide a safety net. It’s also critical to understand which parts of an application suit this approach — and which demand a higher level of trust and control. Shrivastava divides the stack into red and green zones to illustrate.The green zone is the presentation layer, or the UI and UX. It’s ideal for vibe coding, where developers can move fast and iterate quickly without much risk. In contrast is the red zone, which covers the foundational pillars of an application, including business logic and data layers.Empowering developers in the green zoneDeveloper expertise remains the foundation for effective and safe vibe coding. But developers can be amplified by AI tools and emerging agents that are grounded in business context, connected to real applications, integrations, and data flows.\"A generic AI agent can&#x27;t grasp your company&#x27;s unique processes, but a context-aware tool can act as a powerful pair programmer, helping a developer draft complex logic or model data with greater speed and accuracy,\" Shrivastava says. \"It’s about making the expert developer more efficient, not trying to do their job for them.\"Some areas will always be high risk for ungoverned AI — especially infrastructure and security. Letting a generic AI agent configure firewalls or Identity and Access Management [IAM] policies without oversight, Shrivastava warns, is a recipe for disaster. The solution isn’t to avoid the red zone entirely, but to approach it with the right tools — ones that embed governance, security, and context from the ground up.\"The winning strategy is clear: Vibe code the green zone for agility, approach the red zone by augmenting your developers with powerful, context-aware tools, and never, ever DIY your core infrastructure with AI,\" he says.Embracing enterprise vibe codingTo harness the power of enterprise vibe coding, Salesforce developed Agentforce Vibes. This new vibe coding offering for the enterprise includes Agentforce, an autonomous AI agent built to collaborate like a pair programmer on the Salesforce Platform. It’s designed precisely to provide developers with the right tools for the job, covering both the green and red zones. For the green zone, it offers the speed and agility to rapidly build UIs and prototypes. But its true power lies in how it augments developers in the red zone.\"Enterprise vibe coding like Agentforce lets organizations take AI-assisted development to the organizational level, accelerating coding, testing, and deployment, while ensuring consistency, security, and performance,\" says Dan Fernandez, VP of product, developer services at Salesforce. \"It&#x27;s not about throwing away governance for speed; it’s about integrating AI into every stage of the application lifecycle to work smarter.\"Because Agentforce Vibes’ tooling is deeply integrated with your business context on the platform, it can safely assist with business logic and data modeling. Most importantly, it operates on a trusted platform. Instead of a DIY approach — jury-rigging a generic AI agent to handle your networking — developers build on a foundation that has security and governance built in, so they can innovate safely, knowing the most critical layers of the stack are secure and compliant.Major enterprises are putting vibe coding to work Agentforce Vibes users are now tapping the tool to build around 20 to 25% of their new code base, according to Salesforce data, and users are accepting around 1.2 million lines of agentic code per month. That includes companies like Coinbase, CGI, Grupo Globo, and one of the top five banks in the U.S., which is using Agentforce Vibes capabilities to develop production-ready apps faster. Agentforce Vibes is part of a suite of tools in Agentforce 360 that span from no-code and low-code to pro-code development. These tools are together helping customers develop and deploy at speeds previously unheard of.With the low-code Agent Builder in Agentforce, the Secret Escapes team was able to build, test, and launch their agent to support customer service in just two weeks, compared to the six months it had previously taken the company to build and train a bot. With Agentforce, 1-800Accountant autonomously resolved 70% of customer chat engagements during tax week in 2025, without writing a line of code, using Salesforce’s low-code tools and AI assistance. Meanwhile, media company Grupo Globo deployed agents to identify subscribers at risk of lapsing, offer personalized upgrades, cross-sell, and convert non-subscribers. As a result, Agentforce boosted Globo’s retention rates by 22% in less than three months.Innovation meets discipline Enterprise tools show that disciplined engineering and creative experimentation can coexist — and that balance, Shrivastava says, is the key to lasting innovation.\"Vibe coding is not a fad, but it&#x27;s also not a silver bullet that will replace disciplined software engineering,\" Shrivastava says. \"The smart path forward is a hybrid approach where human software skills are augmented with agentic intelligence. This balanced approach is how you get the best of both worlds: radical innovation at the edge and unwavering stability at the core.\"Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
-          "feed_position": 6,
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2Tb1BL75AhuG8odK9Kz0XF/5237845c829eb7c9f8d20b41fcdbd9da/AdobeStock_1628357042.jpeg?w=300&q=30"
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YRfPQFGsSiFX8rossiNKz/8696ac6b503ac581d02306acc60e62e5/cfr0z3n_intricate_detailed_graphic_novel_two-tone_artwork_sceni_79cceaf2-7024-4d08-9591-c7998cfebd19.png?w=300&q=30",
-      "popularity_score": 2015.8283016666667,
+      "popularity_score": 2012.12942,
       "ai_summary": [
-        "Terminal-Bench 2.0 evaluates autonomous AI agent performance on terminal tasks.",
+        "Terminal-Bench 2.0 is a benchmark suite for evaluating autonomous AI agents on terminal tasks.",
         "Harbor is a new framework for testing and optimizing AI agents in containers.",
-        "The dual release addresses pain points in testing and optimizing AI agents.",
-        "Terminal-Bench 2.0 replaces version 1.0 as the standard benchmark.",
+        "The dual release addresses issues in testing and optimizing AI agents.",
+        "Version 2.0 includes 89 tasks, each validated manually and with LLM assistance.",
         "Harbor enables scaling evaluations across thousands of cloud containers."
       ]
     },
     {
-      "id": "cluster_9",
+      "id": "cluster_17",
       "coverage": 2,
       "updated_at": "Fri, 07 Nov 2025 22:07:00 GMT",
       "title": "Best early Black Friday gaming PC deals 2025: My favorite sales out early",
-      "neutral_headline": "Early Black Friday Deals for Gaming, Tech, and More",
+      "neutral_headline": "Early Black Friday Deals Announced for Various Product Categories",
       "items": [
         {
           "source": "ZDNet",
@@ -314,26 +294,26 @@
           "title": "Best Home Depot Black Friday Deals for 2025",
           "standfirst": "Black Friday lasts a month this year at The Home Depot, including half off select tools and tool sets.",
           "content": "Black Friday lasts a month this year at The Home Depot, including half off select tools and tool sets.",
-          "feed_position": 39,
+          "feed_position": 43,
           "image_url": "https://media.wired.com/photos/6377998b0a4feaa88df7ac55/master/pass/DEWALTDriverKit.jpg"
         }
       ],
       "featured_image": "https://media.wired.com/photos/6377998b0a4feaa88df7ac55/master/pass/DEWALTDriverKit.jpg",
-      "popularity_score": 2014.5283016666667,
+      "popularity_score": 2010.82942,
       "ai_summary": [
-        "Early Black Friday deals are available weeks before the actual event.",
-        "Deals include gaming PCs, laptops, SSDs, and other tech items.",
-        "PlayStation, Nintendo Switch, and TV deals are already live.",
-        "Walmart, Costco, and Verizon are offering early Black Friday deals.",
-        "Streaming deals from various providers are also available early."
+        "ZDNet reports early Black Friday deals are available weeks before the event.",
+        "Deals are available for gaming PCs, PlayStation, Nintendo Switch, and TVs.",
+        "Early deals are also available for Chromebooks, Verizon, and streaming services.",
+        "Costco and Walmart have also released early Black Friday deals.",
+        "The deals cover a wide range of products, including headphones and tablets."
       ]
     },
     {
-      "id": "cluster_21",
+      "id": "cluster_29",
       "coverage": 2,
       "updated_at": "Fri, 07 Nov 2025 15:45:01 -0500",
       "title": "Unit 42: \"commercial grade\" spyware called Landfall, likely zero-click, was used in a hacking campaign aimed at Samsung Galaxy phones in the Middle East (Suzanne Smalley/The Record)",
-      "neutral_headline": "Unit 42: \"commercial grade\" spyware called Landfall, likely zero-click, was used in a hacking campaign aimed at Samsung Galaxy phones in the Middle East (Suzanne Smalley/The Record)",
+      "neutral_headline": "Commercial Spyware \"Landfall\" Targeted Samsung Galaxy Phones",
       "items": [
         {
           "source": "TechMeme",
@@ -342,7 +322,7 @@
           "title": "Unit 42: \"commercial grade\" spyware called Landfall, likely zero-click, was used in a hacking campaign aimed at Samsung Galaxy phones in the Middle East (Suzanne Smalley/The Record)",
           "standfirst": "Suzanne Smalley / The Record: Unit 42: &ldquo;commercial grade&rdquo; spyware called Landfall, likely zero-click, was used in a hacking campaign aimed at Samsung Galaxy phones in the Middle East &mdash; Security researchers on Friday revealed the discovery of &ldquo;commercial grade&rdquo; spyware used in a 9-month-long hacking campaign aimed &hellip;",
           "content": "Suzanne Smalley / The Record: Unit 42: &ldquo;commercial grade&rdquo; spyware called Landfall, likely zero-click, was used in a hacking campaign aimed at Samsung Galaxy phones in the Middle East &mdash; Security researchers on Friday revealed the discovery of &ldquo;commercial grade&rdquo; spyware used in a 9-month-long hacking campaign aimed &hellip;",
-          "feed_position": 5,
+          "feed_position": 10,
           "image_url": "http://www.techmeme.com/251107/i24.jpg"
         },
         {
@@ -356,21 +336,21 @@
         }
       ],
       "featured_image": "http://www.techmeme.com/251107/i24.jpg",
-      "popularity_score": 2013.1619127777778,
+      "popularity_score": 2009.4630311111111,
       "ai_summary": [
         "Unit 42 discovered \"commercial grade\" spyware called Landfall.",
-        "Landfall was likely a zero-click exploit targeting Samsung Galaxy phones.",
-        "The hacking campaign targeted devices in the Middle East.",
-        "The campaign lasted for a period of nine months.",
-        "Security researchers revealed the spyware's existence."
+        "Landfall was used in a nine-month hacking campaign.",
+        "The campaign targeted Samsung Galaxy phones.",
+        "The spyware is likely a zero-click exploit.",
+        "The attacks occurred in the Middle East."
       ]
     },
     {
-      "id": "cluster_51",
+      "id": "cluster_57",
       "coverage": 2,
       "updated_at": "2025-11-07T12:51:40-05:00",
       "title": "Texas sues Roblox for allegedly failing to protect children on its platform",
-      "neutral_headline": "Texas Sues Roblox Over Child Safety Concerns",
+      "neutral_headline": "Texas Sues Roblox Over Alleged Child Safety Failures",
       "items": [
         {
           "source": "The Verge",
@@ -391,54 +371,17 @@
           "feed_position": 10
         }
       ],
-      "popularity_score": 2010.272746111111,
+      "popularity_score": 2006.5738644444446,
       "ai_summary": [
         "Texas Attorney General Ken Paxton is suing Roblox.",
-        "The lawsuit alleges Roblox fails to protect children on its platform.",
-        "The suit accuses Roblox of deceptive trade practices.",
-        "Paxton claims Roblox prioritizes profits over child safety.",
-        "The lawsuit cites concerns about \"pixel pedophiles.\""
+        "The lawsuit accuses Roblox of failing to protect children.",
+        "Paxton alleges Roblox prioritizes profits over child safety.",
+        "The lawsuit claims Roblox ignores state and federal safety laws.",
+        "The suit accuses Roblox of deceptive trade practices."
       ]
     },
     {
-      "id": "cluster_70",
-      "coverage": 2,
-      "updated_at": "Fri, 07 Nov 2025 11:20:01 -0500",
-      "title": "Amazon launches Amazon Bazaar, a standalone, low-cost shopping app in 12+ markets across Asia, Africa, and Latin America, with most products priced under $10 (Sarah Perez/TechCrunch)",
-      "neutral_headline": "Amazon launches Amazon Bazaar, a standalone, low-cost shopping app in 12+ markets across Asia, Africa, and Latin America, with most products priced under $10 (Sarah Perez/TechCrunch)",
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/251107/p16#a251107p16",
-          "published_at": "Fri, 07 Nov 2025 11:20:01 -0500",
-          "title": "Amazon launches Amazon Bazaar, a standalone, low-cost shopping app in 12+ markets across Asia, Africa, and Latin America, with most products priced under $10 (Sarah Perez/TechCrunch)",
-          "standfirst": "Sarah Perez / TechCrunch: Amazon launches Amazon Bazaar, a standalone, low-cost shopping app in 12+ markets across Asia, Africa, and Latin America, with most products priced under $10 &mdash; On Friday, Amazon announced the debut of Amazon Bazaar, a new low-cost shopping destination for Asia, Africa &hellip;",
-          "content": "Sarah Perez / TechCrunch: Amazon launches Amazon Bazaar, a standalone, low-cost shopping app in 12+ markets across Asia, Africa, and Latin America, with most products priced under $10 &mdash; On Friday, Amazon announced the debut of Amazon Bazaar, a new low-cost shopping destination for Asia, Africa &hellip;",
-          "feed_position": 13,
-          "image_url": "http://www.techmeme.com/251107/i16.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2025/11/07/amazon-launches-a-low-price-standalone-shopping-app-amazon-bazaar-in-over-a-dozen-markets/",
-          "published_at": "Fri, 07 Nov 2025 15:25:41 +0000",
-          "title": "Amazon launches a low-price standalone shopping app, Amazon Bazaar, in over a dozen markets",
-          "standfirst": "Amazon Bazaar, a new low-cost shopping destination for Asia, Africa, and Latin America that will be available separately from the main Amazon shopping app.",
-          "content": "Amazon Bazaar, a new low-cost shopping destination for Asia, Africa, and Latin America that will be available separately from the main Amazon shopping app.",
-          "feed_position": 8
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/251107/i16.jpg",
-      "popularity_score": 2008.745246111111,
-      "ai_summary": [
-        "Amazon launched Amazon Bazaar, a new low-cost shopping app.",
-        "The app targets markets in Asia, Africa, and Latin America.",
-        "Most products on Bazaar are priced under ten dollars.",
-        "Amazon Bazaar is a standalone app separate from the main app.",
-        "The launch expands Amazon's reach in developing markets."
-      ]
-    },
-    {
-      "id": "cluster_92",
+      "id": "cluster_96",
       "coverage": 2,
       "updated_at": "Fri, 07 Nov 2025 12:15:25 +0000",
       "title": "The Morning After: GTA 6 is delayed until November 2026",
@@ -474,13 +417,13 @@
         }
       ],
       "featured_image": "https://s.yimg.com/os/creatr-uploaded-images/2025-11/a69f8c60-bbc9-11f0-a33e-aa15d4fad5ce",
-      "popularity_score": 2004.6685794444445,
+      "popularity_score": 2000.9696977777778,
       "ai_summary": [
-        "Rockstar Games delayed Grand Theft Auto VI to November 19, 2026.",
+        "Rockstar Games delayed Grand Theft Auto VI's launch to November 19, 2026.",
         "The game was previously delayed from 2025 to May 26, 2026.",
-        "GTA V was originally released in the year 2013.",
-        "Grand Theft Auto Online continues to be a successful multiplayer mode.",
-        "Take-Two CEO Strauss Zelnick commented on the game's progress."
+        "GTA V was originally released in 2013 and has been re-released.",
+        "GTA Online, a multiplayer mode, remains a hit.",
+        "Take-Two CEO mentioned GTA+ membership growth."
       ]
     },
     {
@@ -488,7 +431,7 @@
       "coverage": 2,
       "updated_at": "Thu, 06 Nov 2025 22:31:59 +0000",
       "title": "Tesla Shareholders Approve Elon Musk’s $1 Trillion Pay Package",
-      "neutral_headline": "Tesla Shareholders Approve Elon Musk’s $1 Trillion Pay Package",
+      "neutral_headline": "Tesla Shareholders Approve Elon Musk's $1 Trillion Pay Package",
       "items": [
         {
           "source": "Wired Tech",
@@ -497,7 +440,7 @@
           "title": "Tesla Shareholders Approve Elon Musk’s $1 Trillion Pay Package",
           "standfirst": "The unprecedented payday will go into full effect by 2035—as long as Tesla hits ambitious financial and production targets.",
           "content": "The unprecedented payday will go into full effect by 2035—as long as Tesla hits ambitious financial and production targets.",
-          "feed_position": 33,
+          "feed_position": 37,
           "image_url": "https://media.wired.com/photos/690cdfca2e32add3a4a02c92/master/pass/Elon-Pay-Package-Business-2217849006.jpg"
         },
         {
@@ -514,18 +457,18 @@
       "popularity_score": 2000,
       "ai_summary": [
         "Tesla shareholders approved Elon Musk's $1 trillion pay package.",
-        "The pay package will be fully effective by the year 2035.",
-        "Tesla must meet financial and production targets for the package.",
-        "The proposal received over seventy-five percent approval.",
+        "The pay package will be fully effective by 2035.",
+        "Tesla must hit financial and production targets.",
+        "The proposal received over 75% approval.",
         "Musk can earn the shares over the next ten years."
       ]
     },
     {
-      "id": "cluster_24",
+      "id": "cluster_32",
       "coverage": 1,
       "updated_at": "Fri, 07 Nov 2025 20:15:33 +0000",
       "title": "Researchers surprised that with AI, toxicity is harder to fake than intelligence",
-      "neutral_headline": "AI Toxicity Is Harder to Fake Than Intelligence",
+      "neutral_headline": "AI Toxicity Harder to Fake Than Intelligence",
       "items": [
         {
           "source": "Ars Technica",
@@ -539,21 +482,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/frowny_bagboy-1152x648.jpg",
-      "popularity_score": 350.67080166666665,
+      "popularity_score": 346.97192,
       "ai_summary": [
-        "Researchers found AI toxicity harder to fake than intelligence.",
-        "A new \"computational Turing test\" was used in the study.",
+        "Researchers found AI toxicity is harder to fake than intelligence.",
+        "A new \"computational Turing test\" was used.",
         "The test reportedly catches AI pretending to be human.",
-        "The test achieved an eighty percent accuracy rate.",
-        "The research focuses on AI deception capabilities."
+        "The test has an 80% accuracy rate.",
+        "The research focuses on AI deception."
       ]
     },
     {
-      "id": "cluster_2",
+      "id": "cluster_10",
       "coverage": 1,
       "updated_at": "Fri, 07 Nov 2025 23:30:51 +0000",
       "title": "James Watson, who helped unravel DNA’s double-helix, has died",
-      "neutral_headline": "James Watson, DNA Double-Helix Discoverer, Dies",
+      "neutral_headline": "James Watson, Co-Discoverer of DNA, Has Died",
       "items": [
         {
           "source": "Ars Technica",
@@ -567,21 +510,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1094223390-1152x648.jpg",
-      "popularity_score": 348.92580166666664,
+      "popularity_score": 345.22692,
       "ai_summary": [
-        "James Watson, a key figure in DNA discovery, has passed away.",
-        "Watson's work was celebrated for its scientific impact.",
-        "He was ostracized due to racist and sexist comments.",
-        "Watson helped unravel the structure of DNA.",
-        "His contributions were significant to biology."
+        "James Watson, a key figure in DNA discovery, has died.",
+        "His work on the double helix was celebrated.",
+        "He was ostracized for racist and sexist comments.",
+        "Watson's contributions were groundbreaking.",
+        "His comments caused controversy."
       ]
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_40",
       "coverage": 1,
       "updated_at": "Fri, 07 Nov 2025 19:33:20 +0000",
       "title": "Commercial spyware “Landfall” ran rampant on Samsung phones for almost a year",
-      "neutral_headline": "Commercial Spyware Ran Rampant on Samsung Phones",
+      "neutral_headline": "Commercial Spyware \"Landfall\" Ran on Samsung Phones",
       "items": [
         {
           "source": "Ars Technica",
@@ -595,17 +538,17 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-17-1152x648.jpg",
-      "popularity_score": 324.96719055555553,
+      "popularity_score": 321.2683088888889,
       "ai_summary": [
         "Commercial spyware \"Landfall\" targeted Samsung phones.",
-        "The attack lasted for almost a year.",
+        "The attacks lasted for almost a year.",
         "The spyware could steal all phone data.",
         "It could activate the camera and microphone.",
-        "The attack was a targeted campaign."
+        "The attacks were targeted."
       ]
     },
     {
-      "id": "cluster_47",
+      "id": "cluster_53",
       "coverage": 1,
       "updated_at": "Fri, 07 Nov 2025 18:28:23 +0000",
       "title": "FBI orders domain registrar to reveal who runs mysterious Archive.is site",
@@ -623,21 +566,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/hidden-face-1152x648-1762539099.jpg",
-      "popularity_score": 314.88469055555555,
+      "popularity_score": 311.1858088888889,
       "ai_summary": [
         "The FBI ordered a domain registrar to reveal information.",
         "The order concerns the mysterious Archive.is site.",
         "Tucows was subpoenaed in a criminal probe.",
-        "The probe seeks info on the \"customer behind archive.today.\"",
-        "The investigation is related to the Archive.is website."
+        "The probe seeks information on the site's owner.",
+        "The investigation is ongoing."
       ]
     },
     {
-      "id": "cluster_37",
+      "id": "cluster_45",
       "coverage": 1,
       "updated_at": "Fri, 07 Nov 2025 19:16:16 +0000",
       "title": "The government shutdown is starting to have cosmic consequences",
-      "neutral_headline": "Government Shutdown Has Cosmic Consequences",
+      "neutral_headline": "Government Shutdown Impacts Cosmic Operations",
       "items": [
         {
           "source": "Ars Technica",
@@ -651,21 +594,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/launchstreak-f9-1152x648.jpg",
-      "popularity_score": 314.6827461111111,
+      "popularity_score": 310.98386444444446,
       "ai_summary": [
-        "The government shutdown is causing problems.",
+        "The government shutdown is causing cosmic consequences.",
         "The FAA is concerned about operations.",
-        "The shutdown is impacting various government functions.",
-        "The article focuses on the FAA's concerns.",
-        "The shutdown is having wider consequences."
+        "The shutdown is affecting various government functions.",
+        "The impact extends to space-related activities.",
+        "The situation is ongoing."
       ]
     },
     {
-      "id": "cluster_39",
+      "id": "cluster_47",
       "coverage": 1,
       "updated_at": "Fri, 07 Nov 2025 18:54:38 +0000",
       "title": "Higher prices, simpler streaming expected if HBO Max folds into Paramount+",
-      "neutral_headline": "HBO Max May Fold into Paramount+",
+      "neutral_headline": "HBO Max Merger Could Mean Higher Prices",
       "items": [
         {
           "source": "Ars Technica",
@@ -679,21 +622,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/pedro-pascal-kaitlyn-dever-1152x648.jpg",
-      "popularity_score": 304.32219055555555,
+      "popularity_score": 300.6233088888889,
       "ai_summary": [
+        "HBO Max could merge with Paramount+.",
         "Higher prices and simpler streaming are expected.",
         "The end of HBO Max is considered plausible.",
-        "The article discusses potential changes in streaming.",
-        "The merger could affect content availability.",
-        "The focus is on the future of streaming services."
+        "The merger could change streaming options.",
+        "The details of the merger are still developing."
       ]
     },
     {
-      "id": "cluster_67",
+      "id": "cluster_72",
       "coverage": 1,
       "updated_at": "Fri, 07 Nov 2025 16:49:53 +0000",
       "title": "Oddest ChatGPT leaks yet: Cringey chat logs found in Google analytics tool",
-      "neutral_headline": "ChatGPT Leaks Reveal OpenAI Scrapes Google Data",
+      "neutral_headline": "ChatGPT Leaks Include Cringey Chat Logs",
       "items": [
         {
           "source": "Ars Technica",
@@ -707,21 +650,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/chatgpt-private-chats-1152x648.jpg",
-      "popularity_score": 299.2430238888889,
+      "popularity_score": 295.5441422222222,
       "ai_summary": [
-        "Leaked chat logs were found within a Google analytics tool, raising privacy concerns.",
-        "The leaks appear to confirm OpenAI's practice of scraping data from Google.",
-        "An expert suggests the data scraping is a potential violation of user privacy.",
-        "The nature of the scraped data and its usage remain unclear at this time.",
-        "OpenAI has not yet issued a public statement regarding the leaked information."
+        "ChatGPT leaks were found in a Google analytics tool.",
+        "The leaks include cringey chat logs.",
+        "The leaks seem to confirm OpenAI scrapes Google.",
+        "An expert has commented on the leaks.",
+        "The leaks raise privacy concerns."
       ]
     },
     {
-      "id": "cluster_49",
+      "id": "cluster_55",
       "coverage": 1,
       "updated_at": "Fri, 07 Nov 2025 18:18:07 +0000",
       "title": "Questions swirl after Trump’s GLP-1 pricing deal announcement",
-      "neutral_headline": "Trump's GLP-1 Pricing Deal Announcement Raises Questions",
+      "neutral_headline": "Questions Swirl After Trump's GLP-1 Pricing Deal",
       "items": [
         {
           "source": "Ars Technica",
@@ -735,21 +678,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2244850793-1152x648.jpg",
-      "popularity_score": 283.71357944444446,
+      "popularity_score": 280.01469777777777,
       "ai_summary": [
-        "The announcement concerns a deal related to the pricing of GLP-1 medications.",
-        "The exact amount of savings the deal will provide is currently unknown.",
-        "The number of individuals who will benefit from the deal is also uncertain.",
-        "Details about the specific terms and conditions of the agreement are lacking.",
-        "Further information is needed to fully assess the impact of the deal."
+        "Questions surround Trump's GLP-1 pricing deal announcement.",
+        "It is unclear how much savings the deal provides.",
+        "The number of people who will benefit is unknown.",
+        "The details of the deal are not fully disclosed.",
+        "The announcement has generated discussion."
       ]
     },
     {
-      "id": "cluster_71",
+      "id": "cluster_75",
       "coverage": 1,
       "updated_at": "Fri, 07 Nov 2025 16:19:43 +0000",
       "title": "With Skigill, the classic RPG skill tree becomes a crowded battlefield",
-      "neutral_headline": "Skigill Offers Unique RPG Skill Tree Gameplay",
+      "neutral_headline": "Skigill Offers a New Take on RPG Skill Trees",
       "items": [
         {
           "source": "Ars Technica",
@@ -763,21 +706,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/skigill1-1152x648-1762529873.jpg",
-      "popularity_score": 261.7402461111111,
+      "popularity_score": 258.04136444444447,
       "ai_summary": [
-        "Skigill is a Vampire Survivors-esque battler with a focus on skill trees.",
-        "The game features a variety of weapons and unique graphics.",
-        "It aims to differentiate itself within the crowded RPG genre.",
-        "The gameplay involves strategic use of skills and weapon combinations.",
-        "The game's visual style contributes to its distinctiveness."
+        "Skigill is a new game with a classic RPG skill tree.",
+        "It is a Vampire Survivors-esque battler.",
+        "The game features great weapons.",
+        "It has unique graphics.",
+        "The game aims to stand out."
       ]
     },
     {
-      "id": "cluster_76",
+      "id": "cluster_80",
       "coverage": 1,
       "updated_at": "Fri, 07 Nov 2025 15:23:03 +0000",
       "title": "Ford says “no exact date” to restart F-150 Lightning production",
-      "neutral_headline": "Ford Delays Restart Date for F-150 Lightning Production",
+      "neutral_headline": "Ford Delays F-150 Lightning Production Restart, Cites Inventory",
       "items": [
         {
           "source": "Ars Technica",
@@ -791,21 +734,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1243051479-1152x648.jpg",
-      "popularity_score": 250.79580166666668,
+      "popularity_score": 247.09692,
       "ai_summary": [
-        "Ford has not provided a specific date for restarting F-150 Lightning production.",
+        "Ford has not set a specific date for restarting F-150 Lightning production.",
         "The automaker currently has a sufficient inventory of electric F-150 pickups.",
-        "Production was previously halted due to quality control issues.",
-        "The delay impacts the availability of new electric F-150 models.",
-        "Ford is working to address the issues before resuming production."
+        "Production was previously halted due to a battery issue.",
+        "Ford is working to resolve the battery issue before resuming production.",
+        "The company has not specified when production will resume."
       ]
     },
     {
-      "id": "cluster_90",
+      "id": "cluster_94",
       "coverage": 1,
       "updated_at": "Fri, 07 Nov 2025 12:30:44 +0000",
       "title": "How to trade your $214,000 cybersecurity job for a jail cell",
-      "neutral_headline": "Ransomware's Diminishing Returns and Cybersecurity Jobs",
+      "neutral_headline": "Cybersecurity Job Leads to Jail Time Due to Ransomware",
       "items": [
         {
           "source": "Ars Technica",
@@ -819,13 +762,13 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2216280119-1152x648.jpg",
-      "popularity_score": 162.9238572222222,
+      "popularity_score": 159.22497555555555,
       "ai_summary": [
-        "The article discusses the declining profitability of ransomware operations.",
-        "It contrasts the high salaries in cybersecurity with the risks of illegal activity.",
-        "The piece highlights the potential consequences of engaging in ransomware schemes.",
-        "It suggests that the financial rewards of ransomware are decreasing.",
-        "The article serves as a cautionary tale about cybercrime."
+        "Ransomware payouts have decreased, impacting cybercriminals' financial gains.",
+        "The article discusses the potential legal consequences for cybersecurity professionals.",
+        "It highlights the risks associated with engaging in ransomware activities.",
+        "The piece explores the changing landscape of cybercrime and its profitability.",
+        "It suggests that the financial incentives for ransomware are diminishing."
       ]
     },
     {
@@ -833,7 +776,7 @@
       "coverage": 1,
       "updated_at": "Thu, 06 Nov 2025 22:17:21 +0000",
       "title": "Wipers from Russia’s most cut-throat hackers rain destruction on Ukraine",
-      "neutral_headline": "Russian Hackers Unleash Data-Destroying Payloads on Ukraine",
+      "neutral_headline": "Russian Hackers Deploy Data-Destroying Payloads in Ukraine",
       "items": [
         {
           "source": "Ars Technica",
@@ -849,11 +792,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/russia-state-hacking.jpg",
       "popularity_score": 158,
       "ai_summary": [
-        "Russian state-sponsored hackers are targeting Ukraine with destructive attacks.",
-        "The attacks involve the use of data-wiping malware.",
-        "The hackers, including Sandworm, are responsible for the attacks.",
-        "The attacks are part of the ongoing conflict between Russia and Ukraine.",
-        "The goal is to disrupt and damage Ukrainian infrastructure and data."
+        "Russian state-sponsored hackers are using data-wiping malware against Ukraine.",
+        "The hackers, including Sandworm, are targeting Ukrainian infrastructure.",
+        "These attacks aim to destroy data and disrupt operations.",
+        "The attacks are part of a broader cyber warfare campaign.",
+        "The malware is designed to cause significant damage to systems."
       ]
     },
     {
@@ -861,7 +804,7 @@
       "coverage": 1,
       "updated_at": "Thu, 06 Nov 2025 19:48:30 +0000",
       "title": "AT&T falsely promised “everyone” a free iPhone, ad-industry board rules",
-      "neutral_headline": "AT&T Falsely Promised Free iPhones, Ad Board Rules",
+      "neutral_headline": "AT&T Misled Customers with Free iPhone Advertising Claims",
       "items": [
         {
           "source": "Ars Technica",
@@ -877,11 +820,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/att-store-1152x648-1762457549.jpg",
       "popularity_score": 151,
       "ai_summary": [
-        "The ad-industry board ruled against AT&T regarding a promotional offer.",
         "AT&T was found to have falsely promised \"everyone\" a free iPhone.",
-        "This is another loss for AT&T in a recent advertising dispute.",
-        "AT&T had previously sued the ad-industry board.",
-        "The ruling impacts AT&T's advertising practices."
+        "The ad-industry board ruled against AT&T's advertising practices.",
+        "This ruling came shortly after AT&T sued the same organization.",
+        "The case highlights issues with misleading advertising claims.",
+        "The board found AT&T's claims to be deceptive to consumers."
       ]
     },
     {
@@ -889,7 +832,7 @@
       "coverage": 1,
       "updated_at": "Thu, 06 Nov 2025 19:25:43 +0000",
       "title": "Bombshell report exposes how Meta relied on scam ad profits to fund AI",
-      "neutral_headline": "Meta Relied on Scam Ad Profits to Fund AI Development",
+      "neutral_headline": "Meta Relied on Scam Ad Profits to Fund Artificial Intelligence",
       "items": [
         {
           "source": "Ars Technica",
@@ -905,11 +848,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2196626975-1024x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "Meta allegedly used profits from scam ads to fund its AI initiatives.",
-        "Internal documents reveal Meta's reliance on these types of ads.",
-        "The company targeted users likely to click on scam advertisements.",
+        "Meta allegedly used profits from scam ads to fund its AI development.",
+        "Internal documents reveal Meta targeted users likely to click on scam ads.",
         "This strategy boosted Meta's revenue figures.",
-        "The practice raises questions about Meta's business practices."
+        "The report exposes questionable financial practices within Meta.",
+        "The company's actions raise ethical concerns about its business model."
       ]
     },
     {
@@ -917,7 +860,7 @@
       "coverage": 1,
       "updated_at": "Thu, 06 Nov 2025 20:39:15 +0000",
       "title": "Gemini Deep Research comes to Google Finance, backed by prediction market data",
-      "neutral_headline": "Google Finance to Feature Gemini Deep Research and Prediction Data",
+      "neutral_headline": "Google Finance to Include Gemini Deep Research and Prediction Data",
       "items": [
         {
           "source": "Ars Technica",
@@ -933,15 +876,43 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google_Finance_AI-1152x648.jpg",
       "popularity_score": 145,
       "ai_summary": [
-        "Google Finance will soon incorporate Gemini Deep Research features.",
-        "The platform will utilize prediction market data from Kalshi and Polymarket.",
-        "This integration aims to provide users with enhanced financial insights.",
-        "The data will be used to generate predictions.",
-        "The launch date for these features is not yet specified."
+        "Google Finance will soon integrate Gemini Deep Research features.",
+        "The platform will use prediction market data from Kalshi and Polymarket.",
+        "This integration aims to provide users with market insights.",
+        "The feature will offer predictions based on data analysis.",
+        "The launch date for the new features has not been announced."
       ]
     },
     {
-      "id": "cluster_82",
+      "id": "cluster_122",
+      "coverage": 1,
+      "updated_at": "Thu, 06 Nov 2025 22:05:55 +0000",
+      "title": "Elon Musk wins $1 trillion Tesla pay vote despite “part-time CEO” criticism",
+      "neutral_headline": "Tesla Investors Approve Elon Musk's $1 Trillion Pay Package",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/11/elon-musk-wins-tesla-pay-vote-that-could-make-him-a-1-trillion-man/",
+          "published_at": "Thu, 06 Nov 2025 22:05:55 +0000",
+          "title": "Elon Musk wins $1 trillion Tesla pay vote despite “part-time CEO” criticism",
+          "standfirst": "Tesla investors back Musk pay despite his busy schedule running other companies.",
+          "content": "Tesla shareholders today voted to approve a compensation plan that would pay Elon Musk more than $1 trillion over the next decade if he hits all of the plan’s goals. Musk won over 75 percent of the vote, according to the announcement at today’s shareholder meeting. The pay plan would give Musk 423,743,904 shares, awarded in 12 tranches of 35,311,992 shares each if Tesla achieves various operational goals and market value milestones. Goals include delivering 20 million vehicles, obtaining 10 million Full Self-Driving subscriptions, delivering 1 million “AI robots,” putting 1 million robotaxis in operation, and achieving a $400 billion adjusted EBITDA (earnings before interest, taxes, depreciation, and amortization). Musk has threatened to leave if he doesn’t get a larger share of Tesla. He told investors last month, “It’s not like I’m going to go spend the money. It’s just, if we build this robot army, do I have at least a strong influence over that robot army? Not control, but a strong influence. That’s what it comes down to in a nutshell. I don’t feel comfortable building that robot army if I don’t have at least a strong influence.”Read full article Comments",
+          "feed_position": 16,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/02/elon-musk-money-pile.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/02/elon-musk-money-pile.jpg",
+      "popularity_score": 139,
+      "ai_summary": [
+        "Tesla shareholders voted to approve Elon Musk's compensation package.",
+        "The approval occurred despite criticism of Musk's time commitment.",
+        "Musk is also the CEO of other companies, including SpaceX and X.",
+        "The pay package is valued at approximately one trillion dollars.",
+        "Investors supported Musk's leadership and vision for Tesla."
+      ]
+    },
+    {
+      "id": "cluster_86",
       "coverage": 1,
       "updated_at": "Fri, 07 Nov 2025 14:29:51 +0000",
       "title": "Mark Zuckerberg’s illegal school drove his neighbors crazy",
@@ -959,21 +930,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/zuckerbergcompund-1152x648.jpg",
-      "popularity_score": 139.909135,
+      "popularity_score": 136.21025333333333,
       "ai_summary": [
-        "Mark Zuckerberg's illegal school caused issues for his neighbors.",
-        "Neighbors complained about noise and security guard presence.",
-        "Traffic congestion was another major concern for the neighbors.",
-        "The school's operations disrupted the neighborhood's peace.",
-        "The situation highlights the challenges of operating a school."
+        "Mark Zuckerberg's school faced complaints from neighbors.",
+        "Neighbors cited issues with noise, security, and traffic congestion.",
+        "The school's operations caused disruptions in the neighborhood.",
+        "The complaints highlight the impact of the school on residents.",
+        "The situation reflects the challenges of community integration."
       ]
     },
     {
-      "id": "cluster_85",
+      "id": "cluster_89",
       "coverage": 1,
       "updated_at": "Fri, 07 Nov 2025 13:51:40 +0000",
       "title": "Rocket Report: Canada invests in sovereign launch; India flexes rocket muscles",
-      "neutral_headline": "Rocket Report: Canada Invests; India Flexes; Ariane 6 Launch",
+      "neutral_headline": "Rocket Report: Canada Invests; India Flexes; Ariane 6 Launches",
       "items": [
         {
           "source": "Ars Technica",
@@ -987,69 +958,13 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2224592867-1152x648.jpg",
-      "popularity_score": 139.2727461111111,
+      "popularity_score": 135.57386444444444,
       "ai_summary": [
         "Canada is investing in sovereign launch capabilities.",
-        "India is demonstrating its rocket capabilities.",
+        "India is demonstrating its rocket technology advancements.",
         "Europe's Ariane 6 rocket successfully launched a satellite.",
-        "The satellite was an environmental monitoring satellite.",
-        "The launch was considered a perfect mission."
-      ]
-    },
-    {
-      "id": "cluster_122",
-      "coverage": 1,
-      "updated_at": "Thu, 06 Nov 2025 22:05:55 +0000",
-      "title": "Elon Musk wins $1 trillion Tesla pay vote despite “part-time CEO” criticism",
-      "neutral_headline": "Elon Musk Wins Tesla Pay Vote Despite Criticism",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2025/11/elon-musk-wins-tesla-pay-vote-that-could-make-him-a-1-trillion-man/",
-          "published_at": "Thu, 06 Nov 2025 22:05:55 +0000",
-          "title": "Elon Musk wins $1 trillion Tesla pay vote despite “part-time CEO” criticism",
-          "standfirst": "Tesla investors back Musk pay despite his busy schedule running other companies.",
-          "content": "Tesla shareholders today voted to approve a compensation plan that would pay Elon Musk more than $1 trillion over the next decade if he hits all of the plan’s goals. Musk won over 75 percent of the vote, according to the announcement at today’s shareholder meeting. The pay plan would give Musk 423,743,904 shares, awarded in 12 tranches of 35,311,992 shares each if Tesla achieves various operational goals and market value milestones. Goals include delivering 20 million vehicles, obtaining 10 million Full Self-Driving subscriptions, delivering 1 million “AI robots,” putting 1 million robotaxis in operation, and achieving a $400 billion adjusted EBITDA (earnings before interest, taxes, depreciation, and amortization). Musk has threatened to leave if he doesn’t get a larger share of Tesla. He told investors last month, “It’s not like I’m going to go spend the money. It’s just, if we build this robot army, do I have at least a strong influence over that robot army? Not control, but a strong influence. That’s what it comes down to in a nutshell. I don’t feel comfortable building that robot army if I don’t have at least a strong influence.”Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/02/elon-musk-money-pile.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/02/elon-musk-money-pile.jpg",
-      "popularity_score": 139,
-      "ai_summary": [
-        "Tesla investors voted to approve Elon Musk's compensation package.",
-        "The vote occurred despite criticism of Musk's \"part-time CEO\" role.",
-        "Investors supported Musk's pay despite his other company commitments.",
-        "The vote confirms investor confidence in Musk's leadership.",
-        "The pay package is valued at approximately $1 trillion."
-      ]
-    },
-    {
-      "id": "cluster_78",
-      "coverage": 1,
-      "updated_at": "Fri, 07 Nov 2025 15:13:25 +0000",
-      "title": "10,000 generations of hominins used the same stone tools to weather a changing world",
-      "neutral_headline": "Stone Tools Used for 10,000 Generations of Hominins",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2025/11/10000-generations-of-hominins-used-the-same-stone-tools-to-weather-a-changing-world/",
-          "published_at": "Fri, 07 Nov 2025 15:13:25 +0000",
-          "title": "10,000 generations of hominins used the same stone tools to weather a changing world",
-          "standfirst": "This technological tradition lasted longer than Homo sapiens have even been a species.",
-          "content": "At a site in Kenya, archaeologists recently unearthed layer upon layer of stone stools from deposits that span 300,000 years, and include a period of intense environmental upheaval. The oldest tools at the site date back to 2.75 million years ago. According to a recent study, the finds suggest that for hundreds of millennia, ancient hominins relied on the same stone tool technology as an anchor while the world changed around them. Oldowan choppers dated to 1.7 million years ago, from Melka Kunture, Ethiopia. Credit: By Didier Descouens - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=11291046 “An extraordinary story of cultural continuity” George Washington University archaeologist David Braun and his colleagues recently unearthed stone tools from a 2.75 million-year-old layer of Kenyan sediment at a site called Nomorotukunan. They’re classic examples of a type of tools archaeologists call Oldowan: the earliest types of sharp-edged stone tools made by hominins. The tools unearthed at Nomorotukunan are some of the oldest Olduwan tools ever found; only three other Oldowan sites in Africa date back any further than 2.6 million years ago. These hand-sized chunks of river rock, with flakes chipped off one or two sides to make sharp edges, were cutting-edge technology (not sorry) from 2.9 million years ago until about 1.7 million years ago. In technical terms, that’s what’s called a long flipping time, enough to span several hominin species and more than one genus. The last hominins to use Oldowan tools looked very different, and probably lived and behaved very differently, from the first; over this huge span of time, the stone tool technology itself changed less than the beings using it.Read full article Comments",
-          "feed_position": 10,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/1302px-Pierre_taillee_Melka_Kunture_Ethiopie_fond-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/1302px-Pierre_taillee_Melka_Kunture_Ethiopie_fond-1152x648.jpg",
-      "popularity_score": 135.63524611111112,
-      "ai_summary": [
-        "Hominins used the same stone tools for 10,000 generations.",
-        "This technological tradition lasted longer than Homo sapiens have existed.",
-        "The tools were used to adapt to a changing environment.",
-        "The tools were a key part of hominin survival.",
-        "The findings highlight the long history of tool use."
+        "The satellite was for environmental monitoring purposes.",
+        "The report covers developments in space exploration."
       ]
     },
     {
@@ -1073,11 +988,39 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/eht5-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Next-generation black hole imaging could improve gravity understanding.",
-        "The differences in images are likely to be subtle.",
-        "The subtle differences will make analysis difficult.",
+        "New black hole imaging techniques could improve gravity understanding.",
+        "The differences in images will likely be subtle.",
+        "It will be challenging to discern the subtle differences.",
         "The research aims to refine our understanding of gravity.",
-        "The project is still in its early stages."
+        "The project involves advanced imaging technologies."
+      ]
+    },
+    {
+      "id": "cluster_82",
+      "coverage": 1,
+      "updated_at": "Fri, 07 Nov 2025 15:13:25 +0000",
+      "title": "10,000 generations of hominins used the same stone tools to weather a changing world",
+      "neutral_headline": "Stone Tools Used for 10,000 Generations by Hominins",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2025/11/10000-generations-of-hominins-used-the-same-stone-tools-to-weather-a-changing-world/",
+          "published_at": "Fri, 07 Nov 2025 15:13:25 +0000",
+          "title": "10,000 generations of hominins used the same stone tools to weather a changing world",
+          "standfirst": "This technological tradition lasted longer than Homo sapiens have even been a species.",
+          "content": "At a site in Kenya, archaeologists recently unearthed layer upon layer of stone stools from deposits that span 300,000 years, and include a period of intense environmental upheaval. The oldest tools at the site date back to 2.75 million years ago. According to a recent study, the finds suggest that for hundreds of millennia, ancient hominins relied on the same stone tool technology as an anchor while the world changed around them. Oldowan choppers dated to 1.7 million years ago, from Melka Kunture, Ethiopia. Credit: By Didier Descouens - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=11291046 “An extraordinary story of cultural continuity” George Washington University archaeologist David Braun and his colleagues recently unearthed stone tools from a 2.75 million-year-old layer of Kenyan sediment at a site called Nomorotukunan. They’re classic examples of a type of tools archaeologists call Oldowan: the earliest types of sharp-edged stone tools made by hominins. The tools unearthed at Nomorotukunan are some of the oldest Olduwan tools ever found; only three other Oldowan sites in Africa date back any further than 2.6 million years ago. These hand-sized chunks of river rock, with flakes chipped off one or two sides to make sharp edges, were cutting-edge technology (not sorry) from 2.9 million years ago until about 1.7 million years ago. In technical terms, that’s what’s called a long flipping time, enough to span several hominin species and more than one genus. The last hominins to use Oldowan tools looked very different, and probably lived and behaved very differently, from the first; over this huge span of time, the stone tool technology itself changed less than the beings using it.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/1302px-Pierre_taillee_Melka_Kunture_Ethiopie_fond-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/1302px-Pierre_taillee_Melka_Kunture_Ethiopie_fond-1152x648.jpg",
+      "popularity_score": 131.93636444444445,
+      "ai_summary": [
+        "Hominins used the same stone tools for 10,000 generations.",
+        "This technological tradition lasted longer than Homo sapiens.",
+        "The tools were used to adapt to changing environments.",
+        "The findings highlight the longevity of early technologies.",
+        "The research provides insights into human evolution."
       ]
     }
   ]
