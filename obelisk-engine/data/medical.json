@@ -1,27 +1,134 @@
 {
   "clinical": {
-    "updated_at": "2025-11-10T03:50:36.220Z",
+    "updated_at": "2025-11-10T07:19:30.336Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-11-10T03:50:40.560Z",
-    "clusters": []
-  },
-  "patient_signals": {
-    "updated_at": "2025-11-10T03:50:39.047Z",
+    "updated_at": "2025-11-10T07:19:40.301Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Mon, 10 Nov 2025 05:51:58 GMT",
+        "title": "Lung Cancer Screening Program uptake revealed",
+        "neutral_headline": "Lung Cancer Screening Program uptake revealed",
+        "items": [
+          {
+            "source": "newsGP",
+            "url": "https://www1.racgp.org.au/newsgp/professional/lung-cancer-screening-program-uptake-revealed?feed=RACGPnewsGPArticles",
+            "published_at": "Mon, 10 Nov 2025 05:51:58 GMT",
+            "title": "Lung Cancer Screening Program uptake revealed",
+            "standfirst": "Almost 26,000 low-dose CT scans have been completed since 1 July, but a new campaign will focus on reaching vulnerable patients.",
+            "content": "Almost 26,000 low-dose CT scans have been completed since 1 July, but a new campaign will focus on reaching vulnerable patients.",
+            "feed_position": 1,
+            "image_url": "https://www1.racgp.org.au/getattachment/7ba82fd6-43bb-41ef-84be-3b563471d769/Lung-Cancer-Screening-Program-uptake-revealed.aspx"
+          }
+        ],
+        "featured_image": "https://www1.racgp.org.au/getattachment/7ba82fd6-43bb-41ef-84be-3b563471d769/Lung-Cancer-Screening-Program-uptake-revealed.aspx",
+        "ai_summary": [
+          "Nearly 26,000 low-dose CT scans were completed since July 1st.",
+          "A new campaign will focus on reaching vulnerable patients.",
+          "The program aims to increase lung cancer screening rates.",
+          "The campaign will target specific patient demographics.",
+          "The goal is to improve early detection of lung cancer."
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Mon, 10 Nov 2025 05:51:53 GMT",
+        "title": "‘Commonsense delay’ to assignment of benefit changes",
+        "neutral_headline": "‘Commonsense delay’ to assignment of benefit changes",
+        "items": [
+          {
+            "source": "newsGP",
+            "url": "https://www1.racgp.org.au/newsgp/professional/commonsense-delay-to-assignment-of-benefit-changes?feed=RACGPnewsGPArticles",
+            "published_at": "Mon, 10 Nov 2025 05:51:53 GMT",
+            "title": "‘Commonsense delay’ to assignment of benefit changes",
+            "standfirst": "The changes, affecting all bulk-billed services, will now begin on 1 July 2026 &ndash; a six-month delay designed to give GPs and patients more time to prepare.",
+            "content": "The changes, affecting all bulk-billed services, will now begin on 1 July 2026 &ndash; a six-month delay designed to give GPs and patients more time to prepare.",
+            "feed_position": 0,
+            "image_url": "https://www1.racgp.org.au/getattachment/430bf27f-a2c8-4a29-b765-0ce9ba770bc3/Commonsense-delay-to-assignment-of-benefit-changes.aspx"
+          }
+        ],
+        "featured_image": "https://www1.racgp.org.au/getattachment/430bf27f-a2c8-4a29-b765-0ce9ba770bc3/Commonsense-delay-to-assignment-of-benefit-changes.aspx",
+        "ai_summary": [
+          "Changes to assignment of benefit are delayed until July 1, 2026.",
+          "The delay is six months to allow preparation for GPs and patients.",
+          "The changes affect all bulk-billed services.",
+          "The delay provides time for adjustments to the new system.",
+          "The goal is to ensure a smoother transition for all parties."
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Mon, 10 Nov 2025 05:45:30 GMT",
+        "title": "‘It’s time to stop pretending that women’s pain doesn’t exist’",
+        "neutral_headline": "‘It’s time to stop pretending that women’s pain doesn’t exist’",
+        "items": [
+          {
+            "source": "newsGP",
+            "url": "https://www1.racgp.org.au/newsgp/professional/it-s-time-to-stop-pretending-that-women-s-pain-doe?feed=RACGPnewsGPArticles",
+            "published_at": "Mon, 10 Nov 2025 05:45:30 GMT",
+            "title": "‘It’s time to stop pretending that women’s pain doesn’t exist’",
+            "standfirst": "GPs want more education and support to meet women&rsquo;s pain care needs, a landmark report has revealed.",
+            "content": "GPs want more education and support to meet women&rsquo;s pain care needs, a landmark report has revealed.",
+            "feed_position": 2,
+            "image_url": "https://www1.racgp.org.au/getattachment/a898c4f4-8a1f-46a4-81d8-2691a82051e7/It-s-time-to-stop-pretending-that-women-s-pain-doesn-t-exist.aspx"
+          }
+        ],
+        "featured_image": "https://www1.racgp.org.au/getattachment/a898c4f4-8a1f-46a4-81d8-2691a82051e7/It-s-time-to-stop-pretending-that-women-s-pain-doesn-t-exist.aspx",
+        "ai_summary": [
+          "GPs seek more education and support for women's pain care.",
+          "A landmark report revealed these needs.",
+          "The report highlights the importance of addressing women's pain.",
+          "The goal is to improve pain management for women.",
+          "The report emphasizes the need for better healthcare practices."
+        ]
+      }
+    ]
+  },
+  "patient_signals": {
+    "updated_at": "2025-11-10T07:19:32.385Z",
+    "clusters": [
+      {
+        "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Mon, 10 Nov 2025 05:00:51 GMT",
+        "title": "Waiting for the all-clear: how medics and villagers rallied when Ebola returned to DRC",
+        "neutral_headline": "Ebola Returns to DRC: Medics and Villagers Rally",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/world/2025/nov/10/ebola-disease-outbreak-democratic-republic-congo-drc-kasai",
+            "published_at": "Mon, 10 Nov 2025 05:00:51 GMT",
+            "title": "Waiting for the all-clear: how medics and villagers rallied when Ebola returned to DRC",
+            "standfirst": "If no new cases are reported in Bulape by early December, the country will have vanquished its 16th outbreak of the deadly virus since it was discovered there in 1976His two-year-old daughter died first, then his mother, then his wife. But Bope Mpona Héritier still had no idea what illness had taken their lives. Then the 25-year-old also began to develop symptoms. When his blood was tested and sent to the Democratic Republic of the Congo’s capital, Kinshasa, the results confirmed he had the Ebola virus.“I felt pain everywhere,” he says. “I had a migraine, a sharp pain in my eyes and throat, and I was vomiting. I couldn’t eat anything because I had no appetite, so I lost a lot of weight.” Continue reading...",
+            "content": "If no new cases are reported in Bulape by early December, the country will have vanquished its 16th outbreak of the deadly virus since it was discovered there in 1976His two-year-old daughter died first, then his mother, then his wife. But Bope Mpona Héritier still had no idea what illness had taken their lives. Then the 25-year-old also began to develop symptoms. When his blood was tested and sent to the Democratic Republic of the Congo’s capital, Kinshasa, the results confirmed he had the Ebola virus.“I felt pain everywhere,” he says. “I had a migraine, a sharp pain in my eyes and throat, and I was vomiting. I couldn’t eat anything because I had no appetite, so I lost a lot of weight.” Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "An Ebola outbreak occurred in the Democratic Republic of Congo.",
+          "The outbreak was the 16th since the virus's discovery in 1976.",
+          "A two-year-old child, mother, and wife died from the virus.",
+          "A 25-year-old man also contracted Ebola and developed symptoms.",
+          "The community and medics worked together to contain the virus."
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
         "updated_at": "Mon, 10 Nov 2025 00:09:19 GMT",
-        "title": "Do UN climate talks have a point any more?",
-        "neutral_headline": "Do UN climate talks have a point any more?",
+        "title": "COP30: Trump and many leaders are skipping it, so does the summit still have a point?",
+        "neutral_headline": "COP30: Trump and Leaders Skipping Climate Summit",
         "items": [
           {
             "source": "BBC Science",
             "url": "https://www.bbc.com/news/articles/c205jvyg3wjo?at_medium=RSS&at_campaign=rss",
             "published_at": "Mon, 10 Nov 2025 00:09:19 GMT",
-            "title": "Do UN climate talks have a point any more?",
+            "title": "COP30: Trump and many leaders are skipping it, so does the summit still have a point?",
             "standfirst": "The US president is notably absent from these UN climate talks, as are other world leaders, all of which prompts questions about the purpose of COP today.",
             "content": "The US president is notably absent from these UN climate talks, as are other world leaders, all of which prompts questions about the purpose of COP today.",
             "feed_position": 45,
@@ -30,19 +137,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdc6/live/3570dfa0-bbe5-11f0-ae46-bd64331f0fd4.jpg",
         "ai_summary": [
-          "The US president is absent from the UN climate talks.",
-          "Other world leaders are also notably absent.",
-          "The article questions the purpose of COP today.",
-          "The absence of leaders raises concerns about the talks.",
-          "The article may discuss the talks' effectiveness."
+          "Donald Trump and other leaders are skipping COP30.",
+          "The absence of leaders raises questions about the summit's purpose.",
+          "The UN climate talks are facing scrutiny due to absences.",
+          "The summit's effectiveness is being questioned.",
+          "The impact of leader absences on climate action is uncertain."
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Mon, 10 Nov 2025 00:01:46 GMT",
         "title": "No link between paracetamol in pregnancy and autism or ADHD in children, review finds",
-        "neutral_headline": "Paracetamol use in pregnancy shows no autism or ADHD link",
+        "neutral_headline": "Paracetamol in Pregnancy and Child Autism/ADHD",
         "items": [
           {
             "source": "Guardian Health",
@@ -51,23 +158,23 @@
             "title": "No link between paracetamol in pregnancy and autism or ADHD in children, review finds",
             "standfirst": "Wide-ranging review finds no convincing connection after Trump said women should ‘fight like hell’ to avoid painkillerA wide-ranging review into paracetamol use by pregnant women has found no convincing link between the common painkiller and the chances of children being diagnosed with autism and ADHD.Publication of the work was fast-tracked to provide prospective mothers and their doctors with reliable information after the Trump administration urged pregnant women to avoid paracetamol – also known as acetaminophen or Tylenol – claiming it was contributing to rising rates of autism. Continue reading...",
             "content": "Wide-ranging review finds no convincing connection after Trump said women should ‘fight like hell’ to avoid painkillerA wide-ranging review into paracetamol use by pregnant women has found no convincing link between the common painkiller and the chances of children being diagnosed with autism and ADHD.Publication of the work was fast-tracked to provide prospective mothers and their doctors with reliable information after the Trump administration urged pregnant women to avoid paracetamol – also known as acetaminophen or Tylenol – claiming it was contributing to rising rates of autism. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ],
         "ai_summary": [
-          "A review found no convincing connection between paracetamol use and autism or ADHD in children.",
-          "The review was fast-tracked to provide reliable information to pregnant women and doctors.",
-          "The Trump administration previously urged pregnant women to avoid paracetamol.",
-          "The administration claimed paracetamol contributed to rising autism rates.",
-          "Paracetamol is also known as acetaminophen or Tylenol."
+          "A review found no link between paracetamol and autism/ADHD.",
+          "The review examined paracetamol use during pregnancy.",
+          "The study aimed to provide reliable information for mothers.",
+          "The Trump administration previously urged avoiding paracetamol.",
+          "The review's findings offer reassurance to expectant mothers."
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sun, 09 Nov 2025 19:40:00 GMT",
         "title": "Illuminated",
-        "neutral_headline": "Illuminated: Emily Berry's exploration of agoraphobia",
+        "neutral_headline": "Illuminated: Emily Berry's Exploration of Agoraphobia",
         "items": [
           {
             "source": "BBC Health",
@@ -82,17 +189,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m9ndl2.jpg",
         "ai_summary": [
-          "This cluster contains a newsGP article.",
-          "The headline is preserved exactly.",
-          "The summary is not generated."
+          "This article discusses Emily Berry's exploration of agoraphobia.",
+          "The article likely delves into the experience of agoraphobia.",
+          "It may explore the challenges and impacts of the condition.",
+          "The article could offer insights into the condition.",
+          "The focus is on Berry's personal experience."
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sun, 09 Nov 2025 17:02:13 GMT",
         "title": "It pays to support women’s health in the workplace | Letter",
-        "neutral_headline": "Workplace support for women's health is crucial, says letter",
+        "neutral_headline": "Workplace Support for Women's Health is Important",
         "items": [
           {
             "source": "Guardian Health",
@@ -101,23 +210,23 @@
             "title": "It pays to support women’s health in the workplace | Letter",
             "standfirst": "Prof Geeta Nargund says employers need to take action on health inequality as research shows more than 32% of women aren’t receiving enough help to stay in workThe Keep Britain Working review has shed valuable light on the number of working-age adults in the UK falling out of work due to ill health (Fixing Britain’s worklessness crisis will cost employers £6bn a year, report says, 5 November). As part of this, we should also specifically acknowledge the impact of women’s health issues and the role of employers in addressing these.In a report by the NHS Confederation in partnership with our foundation, we found that an estimated £11bn is lost annually due to absenteeism for gynaecological conditions alone. And earlier this year, our research found that 15% of women report having to change to part-time work and 14% have had to quit work due to women’s health conditions. Furthermore, 32% of women reported that they aren’t receiving enough support for their health issues from their employers. Continue reading...",
             "content": "Prof Geeta Nargund says employers need to take action on health inequality as research shows more than 32% of women aren’t receiving enough help to stay in workThe Keep Britain Working review has shed valuable light on the number of working-age adults in the UK falling out of work due to ill health (Fixing Britain’s worklessness crisis will cost employers £6bn a year, report says, 5 November). As part of this, we should also specifically acknowledge the impact of women’s health issues and the role of employers in addressing these.In a report by the NHS Confederation in partnership with our foundation, we found that an estimated £11bn is lost annually due to absenteeism for gynaecological conditions alone. And earlier this year, our research found that 15% of women report having to change to part-time work and 14% have had to quit work due to women’s health conditions. Furthermore, 32% of women reported that they aren’t receiving enough support for their health issues from their employers. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ],
         "ai_summary": [
-          "Research shows over 32% of women lack sufficient workplace health support.",
-          "A report estimates £11 billion lost annually due to gynecological condition absences.",
-          "15% of women changed to part-time work due to health conditions.",
-          "14% of women quit work due to women's health issues.",
-          "Employers need to address women's health issues in the workplace."
+          "Employers need to address women's health issues in the workplace.",
+          "Research shows many women lack sufficient health support.",
+          "Absenteeism due to gynecological conditions costs billions annually.",
+          "Many women have reduced work hours or quit due to health issues.",
+          "A significant percentage of women lack adequate employer support."
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sun, 09 Nov 2025 17:01:05 GMT",
         "title": "Older people playing pickleball isn’t risky – it’s medicine | Letter",
-        "neutral_headline": "Pickleball is not risky for older people, says physiotherapist",
+        "neutral_headline": "Pickleball for Older People is Not Risky",
         "items": [
           {
             "source": "Guardian Health",
@@ -126,23 +235,23 @@
             "title": "Older people playing pickleball isn’t risky – it’s medicine | Letter",
             "standfirst": "I’d rather see active, smiling people with the odd strain than a generation glued to the sofa, says physiotherapist Christien BirdSo what if a 2020 study found that 91% of pickleball injuries involved people aged over 50 (You should act your age – at least when it comes to exercise. Here’s why, 3 November)? Most pickleball players are over 50! I’d rather see active, smiling people with the odd strain than a generation glued to the sofa. The real health crisis isn’t overexercising – it’s inactivity.Fitness is the biggest predictor of long-term health and independence. Ageing is inevitable, but fragility is not. Women in particular face an accelerated loss of bone and muscle through menopause, yet 84% of inactive women going through menopause want to be more active and 90% would get active if advised by a professional. There is still a societal acceptance that it is OK to be a fragile older lady behind a Zimmer frame with no bum in her trousers. Continue reading...",
             "content": "I’d rather see active, smiling people with the odd strain than a generation glued to the sofa, says physiotherapist Christien BirdSo what if a 2020 study found that 91% of pickleball injuries involved people aged over 50 (You should act your age – at least when it comes to exercise. Here’s why, 3 November)? Most pickleball players are over 50! I’d rather see active, smiling people with the odd strain than a generation glued to the sofa. The real health crisis isn’t overexercising – it’s inactivity.Fitness is the biggest predictor of long-term health and independence. Ageing is inevitable, but fragility is not. Women in particular face an accelerated loss of bone and muscle through menopause, yet 84% of inactive women going through menopause want to be more active and 90% would get active if advised by a professional. There is still a societal acceptance that it is OK to be a fragile older lady behind a Zimmer frame with no bum in her trousers. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "A physiotherapist argues pickleball is beneficial for older adults.",
-          "A 2020 study found 91% of pickleball injuries involved people over 50.",
-          "Fitness is the biggest predictor of long-term health and independence.",
-          "84% of inactive menopausal women want to be more active.",
-          "90% of menopausal women would get active if advised by a professional."
+          "Pickleball is beneficial for older adults, not risky.",
+          "A study found most pickleball injuries involve those over 50.",
+          "The article argues against the dangers of overexercising.",
+          "Inactivity is a greater health crisis than overexertion.",
+          "Fitness is a key predictor of long-term health and independence."
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sun, 09 Nov 2025 14:00:35 GMT",
         "title": "She left her desk job and walked 3,541 miles from Mexico to Canada: ‘Give yourself permission’",
-        "neutral_headline": "Woman hikes 3,541 miles from Mexico to Canada",
+        "neutral_headline": "Woman Hikes 3,541 Miles from Mexico to Canada",
         "items": [
           {
             "source": "Guardian Health",
@@ -151,23 +260,23 @@
             "title": "She left her desk job and walked 3,541 miles from Mexico to Canada: ‘Give yourself permission’",
             "standfirst": "Jessica Guo hiked 30 miles a day, becoming the first woman to continuously hike two historic US trails in a calendar yearJessica Guo had only slept for two-and-a-half hours on an overnight bus when she arrived at the Mexico-US border near Lordsburg, New Mexico, in April. Out of the window she saw a flat, shadeless landscape. First-day jitters had Guo questioning what she was doing there.The former consultant had left corporate America to attempt something no woman had completed: a single, continuous hike of the Continental Divide Trail (CDT) and the Great Divide Trail (GDT) in one calendar year. Continue reading...",
             "content": "Jessica Guo hiked 30 miles a day, becoming the first woman to continuously hike two historic US trails in a calendar yearJessica Guo had only slept for two-and-a-half hours on an overnight bus when she arrived at the Mexico-US border near Lordsburg, New Mexico, in April. Out of the window she saw a flat, shadeless landscape. First-day jitters had Guo questioning what she was doing there.The former consultant had left corporate America to attempt something no woman had completed: a single, continuous hike of the Continental Divide Trail (CDT) and the Great Divide Trail (GDT) in one calendar year. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ],
         "ai_summary": [
-          "Jessica Guo hiked 30 miles daily, completing two US trails continuously.",
-          "She hiked the Continental Divide Trail and the Great Divide Trail.",
-          "Guo started her hike at the Mexico-US border near Lordsburg, New Mexico.",
-          "She was the first woman to complete both trails in one calendar year.",
-          "Guo left a corporate job to undertake this challenge."
+          "Jessica Guo hiked 3,541 miles from Mexico to Canada.",
+          "She completed the Continental Divide Trail and Great Divide Trail.",
+          "Guo became the first woman to hike both trails continuously.",
+          "She hiked approximately 30 miles per day.",
+          "Guo left a corporate job to pursue this challenge."
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sun, 09 Nov 2025 14:00:34 GMT",
         "title": "What we lose when we surrender care to algorithms | Eric Reinhart",
-        "neutral_headline": "AI in healthcare raises concerns about care quality",
+        "neutral_headline": "Algorithms and Healthcare: What is Lost?",
         "items": [
           {
             "source": "Guardian Health",
@@ -176,23 +285,23 @@
             "title": "What we lose when we surrender care to algorithms | Eric Reinhart",
             "standfirst": "A dangerous faith in AI is sweeping American healthcare – with consequences for the basis of society itselfThe computer interrupted while Pamela was still speaking. I had accompanied her – my dear friend – to a recent doctor’s appointment. She is in her 70s, lives alone while navigating multiple chronic health issues, and has been getting short of breath climbing the front stairs to her apartment. In the exam room, she spoke slowly and self-consciously, the way people often do when they are trying to describe their bodies and anxieties to strangers. Midway through her description of how she had been feeling, the doctor clicked his mouse and a block of text began to bloom across the computer monitor.The clinic had adopted an artificial-intelligence scribe, and it was transcribing and summarizing the conversation in real time. It was also highlighting keywords, suggesting diagnostic possibilities and providing billing codes. The doctor, apparently satisfied that his computer had captured an adequate description of Pamela’s chief complaint and symptoms, turned away from us and began reviewing the text on the screen as Pamela kept speaking. Continue reading...",
             "content": "A dangerous faith in AI is sweeping American healthcare – with consequences for the basis of society itselfThe computer interrupted while Pamela was still speaking. I had accompanied her – my dear friend – to a recent doctor’s appointment. She is in her 70s, lives alone while navigating multiple chronic health issues, and has been getting short of breath climbing the front stairs to her apartment. In the exam room, she spoke slowly and self-consciously, the way people often do when they are trying to describe their bodies and anxieties to strangers. Midway through her description of how she had been feeling, the doctor clicked his mouse and a block of text began to bloom across the computer monitor.The clinic had adopted an artificial-intelligence scribe, and it was transcribing and summarizing the conversation in real time. It was also highlighting keywords, suggesting diagnostic possibilities and providing billing codes. The doctor, apparently satisfied that his computer had captured an adequate description of Pamela’s chief complaint and symptoms, turned away from us and began reviewing the text on the screen as Pamela kept speaking. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ],
         "ai_summary": [
-          "An AI scribe transcribed and summarized a doctor's appointment in real time.",
-          "The AI highlighted keywords and suggested diagnostic possibilities.",
-          "The doctor focused on the computer screen while the patient spoke.",
-          "The author's friend, in her 70s, was the patient in the appointment.",
-          "The author observed the impact of AI on the doctor-patient interaction."
+          "AI is increasingly used in American healthcare.",
+          "The article discusses the impact of AI on patient care.",
+          "The author observed an AI scribe during a doctor's visit.",
+          "The AI transcribed, summarized, and suggested diagnoses.",
+          "The author questions the reliance on AI in healthcare."
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sun, 09 Nov 2025 14:00:34 GMT",
         "title": "If you’re feeling anxious, take a moment to pause before pouring that glass of wine | Diane Young",
-        "neutral_headline": "Anxiety can lead to harmful coping behaviors, says expert",
+        "neutral_headline": "Anxiety and Alcohol: Understanding the Connection and Coping",
         "items": [
           {
             "source": "Guardian Health",
@@ -201,23 +310,23 @@
             "title": "If you’re feeling anxious, take a moment to pause before pouring that glass of wine | Diane Young",
             "standfirst": "Anxiety can disrupt relationships, affect sleep and lead to harmful coping behaviours. Early awareness is crucialThe modern mind is a column where experts discuss mental health issues they are seeing in their workWhen Mia*, 35, walks into my office, she looks composed and ready to start her day fresh with a counselling session. But having seen Mia for almost half a year now, I know she masks the truth behind her polished facade, and I notice the subtle tension in her shoulders that gives it away.Mia tells me that the night before, she had poured herself “just one glass of wine” to unwind after a long day. One glass became two, then three. It’s a pattern she has grown used to; a quiet ritual that helps her “switch off” from the racing thoughts that flood her mind when the day finally slows down. Continue reading...",
             "content": "Anxiety can disrupt relationships, affect sleep and lead to harmful coping behaviours. Early awareness is crucialThe modern mind is a column where experts discuss mental health issues they are seeing in their workWhen Mia*, 35, walks into my office, she looks composed and ready to start her day fresh with a counselling session. But having seen Mia for almost half a year now, I know she masks the truth behind her polished facade, and I notice the subtle tension in her shoulders that gives it away.Mia tells me that the night before, she had poured herself “just one glass of wine” to unwind after a long day. One glass became two, then three. It’s a pattern she has grown used to; a quiet ritual that helps her “switch off” from the racing thoughts that flood her mind when the day finally slows down. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "A counselor discusses the link between anxiety and coping mechanisms.",
-          "A patient, Mia, uses wine to cope with racing thoughts.",
-          "Mia masks her anxiety with a composed facade.",
-          "Anxiety can disrupt relationships and affect sleep.",
-          "Early awareness of anxiety is crucial for intervention."
+          "Anxiety can disrupt relationships, affect sleep, and lead to harmful coping behaviors.",
+          "A woman masks anxiety with a composed facade, using wine to unwind.",
+          "She drinks to quiet racing thoughts that flood her mind at the end of the day.",
+          "This pattern of drinking has become a quiet ritual she has grown accustomed to.",
+          "Experts discuss mental health issues they are seeing in their work."
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sun, 09 Nov 2025 13:00:33 GMT",
         "title": "California’s drying Salton Sea harms the lungs of people living nearby, say researchers",
-        "neutral_headline": "Drying Salton Sea harms lungs of nearby residents",
+        "neutral_headline": "Drying Salton Sea Linked to Lung Damage in Nearby Residents",
         "items": [
           {
             "source": "Guardian Health",
@@ -226,23 +335,23 @@
             "title": "California’s drying Salton Sea harms the lungs of people living nearby, say researchers",
             "standfirst": "Experts suspect that dust from the sea contains endotoxic bacteria membranes caused by fertilizer runoffChemical-laden dust from southern California’s drying Salton Sea is likely harming the lungs of people around the shrinking body of water, and the effects are especially pronounced in children, new peer-reviewed research from the University of California, Irvine, shows.A separate peer-reviewed study from the University of California, Riverside, also found the Salton Sea’s contaminated dust seemed to alter lung microbiome, which could trigger pulmonary issues that have been reported around the lake. Continue reading...",
             "content": "Experts suspect that dust from the sea contains endotoxic bacteria membranes caused by fertilizer runoffChemical-laden dust from southern California’s drying Salton Sea is likely harming the lungs of people around the shrinking body of water, and the effects are especially pronounced in children, new peer-reviewed research from the University of California, Irvine, shows.A separate peer-reviewed study from the University of California, Riverside, also found the Salton Sea’s contaminated dust seemed to alter lung microbiome, which could trigger pulmonary issues that have been reported around the lake. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ],
         "ai_summary": [
-          "Chemical-laden dust from the Salton Sea harms nearby residents' lungs.",
-          "The effects are especially pronounced in children, according to research.",
-          "Research from UC Irvine supports this conclusion.",
-          "A UC Riverside study found dust altered lung microbiome.",
-          "Altered lung microbiomes could trigger pulmonary issues."
+          "Drying Salton Sea in California is harming lungs of nearby residents.",
+          "Dust from the sea contains endotoxic bacteria membranes from fertilizer runoff.",
+          "Effects are especially pronounced in children, according to research.",
+          "Contaminated dust seems to alter lung microbiome, triggering pulmonary issues.",
+          "Studies were conducted by the University of California, Irvine, and Riverside."
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sun, 09 Nov 2025 07:38:34 GMT",
         "title": "Back from the brink: UK red kites aid Spanish cousins",
-        "neutral_headline": "UK red kites aid Spanish cousins",
+        "neutral_headline": "UK Red Kites Aid Spanish Cousins in Population Revival",
         "items": [
           {
             "source": "BBC Science",
@@ -257,17 +366,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6723/live/8296af90-bd42-11f0-8669-5560f5c90fbe.jpg",
         "ai_summary": [
-          "This cluster contains a newsGP article.",
-          "The headline is preserved exactly.",
-          "The summary is not generated."
+          "A project is underway to revive red kite populations in southwest Spain.",
+          "The project has resulted in new mating pairs and chicks.",
+          "The UK is aiding the Spanish cousins in their population revival.",
+          "The project aims to bring the red kite population back from the brink.",
+          "The project is focused on the red kite population in southwest Spain."
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sun, 09 Nov 2025 07:00:25 GMT",
         "title": "‘They treat men like vending machines’: inside the hidden world of social media sperm selling",
-        "neutral_headline": "Social media sperm selling is a murky world",
+        "neutral_headline": "‘They treat men like vending machines’: inside the hidden world of social media sperm selling",
         "items": [
           {
             "source": "Guardian Health",
@@ -276,23 +387,23 @@
             "title": "‘They treat men like vending machines’: inside the hidden world of social media sperm selling",
             "standfirst": "Parenthood can seem an impossible dream for many, and online sperm donor groups offer a solution, but they can be a murky world A man going by the name “Rod Kissme” claims to have “very strong sperm”. It may seem like an eccentric boast for a Facebook profile page, but then this is no mundane corner of the internet. The group where Rod and other men advertise themselves is a community where women and couples come, in many cases, to fulfil a lifelong dream: parenthood.There is a growing number of online sperm donor groups on social media. They offer people the chance of parenting children in an unregulated, dangerous but surprisingly straightforward way. Continue reading...",
             "content": "Parenthood can seem an impossible dream for many, and online sperm donor groups offer a solution, but they can be a murky world A man going by the name “Rod Kissme” claims to have “very strong sperm”. It may seem like an eccentric boast for a Facebook profile page, but then this is no mundane corner of the internet. The group where Rod and other men advertise themselves is a community where women and couples come, in many cases, to fulfil a lifelong dream: parenthood.There is a growing number of online sperm donor groups on social media. They offer people the chance of parenting children in an unregulated, dangerous but surprisingly straightforward way. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ],
         "ai_summary": [
-          "Online sperm donor groups offer parenthood solutions, but are unregulated.",
-          "A man named \"Rod Kissme\" advertises his sperm on Facebook.",
-          "These groups allow people to pursue parenthood in a straightforward way.",
-          "The groups are a growing presence on social media platforms.",
-          "The process of donation is often dangerous."
+          "Online sperm donor groups offer a solution for those seeking parenthood.",
+          "A man claims to have \"very strong sperm\" on a Facebook profile.",
+          "These groups offer parenthood in an unregulated and dangerous way.",
+          "There is a growing number of online sperm donor groups on social media.",
+          "The groups offer a surprisingly straightforward way to have children."
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sat, 08 Nov 2025 16:30:07 GMT",
         "title": "Having open conversations with boys is key to fending off the manosphere threat | Letters",
-        "neutral_headline": "Open conversations with boys are key to fighting the manosphere",
+        "neutral_headline": "Having open conversations with boys is key to fending off the manosphere threat",
         "items": [
           {
             "source": "Guardian Health",
@@ -301,23 +412,23 @@
             "title": "Having open conversations with boys is key to fending off the manosphere threat | Letters",
             "standfirst": "Siobhan Lyons says ignore the static that is social media and turn disillusionment into art, Dr Michael J Richardson thinks money, meaning and manhood should be topics of public conversation, not private ones. Plus a letter from Vicky Dunn It’s great to see that there are young men who are actively looking for alternatives to the kinds of masculinities displayed online (I’m a teenager who was lured into the manosphere. Here’s how to reach young men like me, 2 November). But to me, Josh Sargent’s article is about more than just the manosphere. It’s about the platforms that facilitate it, and how social media diverts attention away from things like reading and toward things that largely don’t matter. Josh says it himself: “in fairness, short-form content is slightly more engaging than Macbeth quotation flashcards”. That’s truly worrying.It’s true that the education system can and should do better, but I also think we need reminding that young people have always felt alienated from the education system. They have always been disillusioned, with feelings of being ignored and misunderstood, and I think many young men today forget that. It isn’t just them. John Hughes made an entire career of writing about disillusioned youth and the pressures to conform to expectations around masculinity and femininity (women have long endured the pressures of not being “feminine” enough, of “failing” as mothers, as women etc). It’s taken a long time for alternatives to emerge, and we’re still not there yet. So what frustrates me most about the idea of toxic masculinity is that (some) men think that their trials are somehow unique, so they lash out at women. Continue reading...",
             "content": "Siobhan Lyons says ignore the static that is social media and turn disillusionment into art, Dr Michael J Richardson thinks money, meaning and manhood should be topics of public conversation, not private ones. Plus a letter from Vicky Dunn It’s great to see that there are young men who are actively looking for alternatives to the kinds of masculinities displayed online (I’m a teenager who was lured into the manosphere. Here’s how to reach young men like me, 2 November). But to me, Josh Sargent’s article is about more than just the manosphere. It’s about the platforms that facilitate it, and how social media diverts attention away from things like reading and toward things that largely don’t matter. Josh says it himself: “in fairness, short-form content is slightly more engaging than Macbeth quotation flashcards”. That’s truly worrying.It’s true that the education system can and should do better, but I also think we need reminding that young people have always felt alienated from the education system. They have always been disillusioned, with feelings of being ignored and misunderstood, and I think many young men today forget that. It isn’t just them. John Hughes made an entire career of writing about disillusioned youth and the pressures to conform to expectations around masculinity and femininity (women have long endured the pressures of not being “feminine” enough, of “failing” as mothers, as women etc). It’s taken a long time for alternatives to emerge, and we’re still not there yet. So what frustrates me most about the idea of toxic masculinity is that (some) men think that their trials are somehow unique, so they lash out at women. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ],
         "ai_summary": [
-          "An article discusses the manosphere and its influence on young men.",
-          "The author suggests social media diverts attention from important things.",
-          "The education system could improve, but young people feel alienated.",
-          "Toxic masculinity is criticized for blaming women for men's issues.",
-          "The article suggests alternatives to online masculinities."
+          "Young men are seeking alternatives to online masculinities.",
+          "Social media diverts attention away from reading and toward short-form content.",
+          "The education system can and should do better in this area.",
+          "Young people have always felt alienated from the education system.",
+          "Some men think their trials are unique, lashing out at women."
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sat, 08 Nov 2025 13:40:51 GMT",
         "title": "Davina McCall reveals she has undergone surgery for breast cancer",
-        "neutral_headline": "Davina McCall reveals breast cancer surgery",
+        "neutral_headline": "Davina McCall reveals she has undergone surgery for breast cancer",
         "items": [
           {
             "source": "Guardian Health",
@@ -326,23 +437,23 @@
             "title": "Davina McCall reveals she has undergone surgery for breast cancer",
             "standfirst": "Presenter says she is ‘in a much more positive place’ after having lumpectomy and catching cancer earlyDavina McCall has revealed she has undergone surgery for breast cancer and urged others to “get checked”.In a video posted to Instagram, the presenter said she was “very angry” when she found out about the cancer, but felt in a “much more positive place” after a lumpectomy. Continue reading...",
             "content": "Presenter says she is ‘in a much more positive place’ after having lumpectomy and catching cancer earlyDavina McCall has revealed she has undergone surgery for breast cancer and urged others to “get checked”.In a video posted to Instagram, the presenter said she was “very angry” when she found out about the cancer, but felt in a “much more positive place” after a lumpectomy. Continue reading...",
-            "feed_position": 9
+            "feed_position": 10
           }
         ],
         "ai_summary": [
-          "Davina McCall underwent surgery for breast cancer.",
+          "Davina McCall has undergone surgery for breast cancer.",
           "She is in a more positive place after a lumpectomy.",
-          "McCall encourages others to get checked for cancer.",
-          "She shared her experience in a video on Instagram.",
-          "McCall expressed anger when she learned of the cancer."
+          "McCall urges others to get checked for breast cancer.",
+          "She felt angry when she found out about the cancer.",
+          "The presenter shared her experience on Instagram."
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sat, 08 Nov 2025 13:01:03 GMT",
         "title": "Social media misinformation driving men to seek unneeded NHS testosterone therapy, doctors say",
-        "neutral_headline": "Social media misinformation drives men to seek testosterone therapy",
+        "neutral_headline": "Social media misinformation driving men to seek unneeded NHS testosterone therapy, doctors say",
         "items": [
           {
             "source": "Guardian Health",
@@ -351,23 +462,23 @@
             "title": "Social media misinformation driving men to seek unneeded NHS testosterone therapy, doctors say",
             "standfirst": "Endocrinologists warn taking testosterone unnecessarily can suppress natural hormone productionSocial media misinformation is driving men to NHS clinics in search of testosterone therapy they don’t need, adding pressure to already stretched waiting lists, doctors have said.Testosterone replacement therapy (TRT) is a prescription-only treatment recommended under national guidelines for men with a clinically proven deficiency, confirmed by symptoms and repeated blood tests. Continue reading...",
             "content": "Endocrinologists warn taking testosterone unnecessarily can suppress natural hormone productionSocial media misinformation is driving men to NHS clinics in search of testosterone therapy they don’t need, adding pressure to already stretched waiting lists, doctors have said.Testosterone replacement therapy (TRT) is a prescription-only treatment recommended under national guidelines for men with a clinically proven deficiency, confirmed by symptoms and repeated blood tests. Continue reading...",
-            "feed_position": 10
+            "feed_position": 11
           }
         ],
         "ai_summary": [
-          "Doctors say misinformation drives men to seek unnecessary testosterone therapy.",
+          "Social media misinformation is driving men to seek testosterone therapy.",
+          "Doctors say this is adding pressure to already stretched waiting lists.",
           "Testosterone replacement therapy is prescription-only.",
-          "Therapy is recommended for men with clinically proven deficiencies.",
-          "Social media adds pressure to already stretched waiting lists.",
-          "Unnecessary testosterone can suppress natural hormone production."
+          "It is recommended for men with a clinically proven deficiency.",
+          "The deficiency must be confirmed by symptoms and blood tests."
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Sat, 08 Nov 2025 12:00:03 GMT",
         "title": "‘The ward felt like a prison. What had I let them do?’: how my daughter was crushed by a health service meant to help her",
-        "neutral_headline": "Daughter's mental health treatment felt like a prison, says parent",
+        "neutral_headline": "Daughter's Death Highlights Mental Health Ward Failures",
         "items": [
           {
             "source": "Guardian Health",
@@ -376,23 +487,23 @@
             "title": "‘The ward felt like a prison. What had I let them do?’: how my daughter was crushed by a health service meant to help her",
             "standfirst": "Ruth was 14 years old and being treated for an eating disorder when she died after being detained under the Mental Health Act. She wasn’t allowed to see her family for more than a few hours a week. How did the system we trusted – and I worked for as a GP – fail us so tragically?I remember so clearly the moment it dawned on me that the mental health ward where my teenage daughter was being treated felt like little more than a prison. Ruth had been so trusting. So had we. That all changed the day she was moved from our local hospital to Thames Ward at Huntercombe hospital in Berkshire. When we left, she walked so easily down to the hospital transport with me and the play therapist – who hugged her tight and waved goodbye. When the van door opened at the other end, the stark building loomed over us. We were met and escorted up a flight of stairs and through the double, air-locked, doors, one slamming closed behind us, the person with the keys waiting for the first lock to click before opening the next. This was a sealed unit, devoid of natural light, my eyes aching already from the harsh glare overhead. We were taken to an inner room, lined with windows. The goldfish bowl, they called it.Ruth’s hand slipped into mine, head down as they told me it was time for me to go. “But I haven’t settled her into her room or met any of the staff yet,” was met with: “Parents aren’t allowed on the ward.” I asked again, and they conceded I could see her room, just once, but then I had to leave immediately. It was hospital policy. Continue reading...",
             "content": "Ruth was 14 years old and being treated for an eating disorder when she died after being detained under the Mental Health Act. She wasn’t allowed to see her family for more than a few hours a week. How did the system we trusted – and I worked for as a GP – fail us so tragically?I remember so clearly the moment it dawned on me that the mental health ward where my teenage daughter was being treated felt like little more than a prison. Ruth had been so trusting. So had we. That all changed the day she was moved from our local hospital to Thames Ward at Huntercombe hospital in Berkshire. When we left, she walked so easily down to the hospital transport with me and the play therapist – who hugged her tight and waved goodbye. When the van door opened at the other end, the stark building loomed over us. We were met and escorted up a flight of stairs and through the double, air-locked, doors, one slamming closed behind us, the person with the keys waiting for the first lock to click before opening the next. This was a sealed unit, devoid of natural light, my eyes aching already from the harsh glare overhead. We were taken to an inner room, lined with windows. The goldfish bowl, they called it.Ruth’s hand slipped into mine, head down as they told me it was time for me to go. “But I haven’t settled her into her room or met any of the staff yet,” was met with: “Parents aren’t allowed on the ward.” I asked again, and they conceded I could see her room, just once, but then I had to leave immediately. It was hospital policy. Continue reading...",
-            "feed_position": 11
+            "feed_position": 12
           }
         ],
         "ai_summary": [
-          "A parent describes their daughter's treatment for an eating disorder.",
+          "A mother describes her daughter's treatment on a mental health ward.",
+          "The ward felt like a prison, and the daughter was not allowed visitors.",
+          "The daughter was being treated for an eating disorder.",
           "The daughter died after being detained under the Mental Health Act.",
-          "The parent worked as a GP and trusted the system.",
-          "The ward felt like a prison to the parent.",
-          "The daughter was not allowed to see her family often."
+          "The mother worked as a GP and trusted the system."
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sat, 08 Nov 2025 10:00:04 GMT",
         "title": "Caught up in a violent attack, would you be a hero – or would you run? Both can be valuable | Emma Kavanagh",
-        "neutral_headline": "Hero or run? Both can be valuable in a violent attack",
+        "neutral_headline": "Train Attack: Heroism or Flight? Understanding Human Responses",
         "items": [
           {
             "source": "Guardian Health",
@@ -401,23 +512,23 @@
             "title": "Caught up in a violent attack, would you be a hero – or would you run? Both can be valuable | Emma Kavanagh",
             "standfirst": "Last weekend’s Cambridgeshire train attack brought up a question that we often ask ourselves. But the answer isn’t simple Emma Kavanagh is a psychologist who has worked for the police and the militaryThe devastating attack on train passengers in Cambridgeshire last weekend was shocking. There has been talk of heroes who risked their lives to help others, and of those who hid to save their lives. If you are anything like me, you will be asking yourself: what if that were me? How would I cope? And just who would I turn out to be when the worst happens?Some of us imagine that we would vault to the rescue, fighting off attackers. Others, perhaps the more realistic among us, anticipate flight, extricating ourselves from the situation as quickly and efficiently as possible. Most of us would like to think that we would stay our urge to run, lingering long enough to offer aid to those in need.Emma Kavanagh is a psychologist who worked for many years for the police and military. Her books include How to Be Broken and The Psychopath Effect, to be published in 2026In the UK, the charity Mind is available on 0300 123 3393. In the US, call or text Mental Health America at 988 or chat 988lifeline.org. In Australia, support is available at Beyond Blue on 1300 22 4636, Lifeline on 13 11 14, and at MensLine on 1300 789 978Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
             "content": "Last weekend’s Cambridgeshire train attack brought up a question that we often ask ourselves. But the answer isn’t simple Emma Kavanagh is a psychologist who has worked for the police and the militaryThe devastating attack on train passengers in Cambridgeshire last weekend was shocking. There has been talk of heroes who risked their lives to help others, and of those who hid to save their lives. If you are anything like me, you will be asking yourself: what if that were me? How would I cope? And just who would I turn out to be when the worst happens?Some of us imagine that we would vault to the rescue, fighting off attackers. Others, perhaps the more realistic among us, anticipate flight, extricating ourselves from the situation as quickly and efficiently as possible. Most of us would like to think that we would stay our urge to run, lingering long enough to offer aid to those in need.Emma Kavanagh is a psychologist who worked for many years for the police and military. Her books include How to Be Broken and The Psychopath Effect, to be published in 2026In the UK, the charity Mind is available on 0300 123 3393. In the US, call or text Mental Health America at 988 or chat 988lifeline.org. In Australia, support is available at Beyond Blue on 1300 22 4636, Lifeline on 13 11 14, and at MensLine on 1300 789 978Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "feed_position": 12
+            "feed_position": 13
           }
         ],
         "ai_summary": [
-          "An article discusses responses to a violent attack on a train.",
-          "The author asks how people would react in a similar situation.",
-          "Some would help, others would flee to save themselves.",
-          "The author is a psychologist who worked for police and military.",
-          "The article provides resources for mental health support."
+          "A train attack in Cambridgeshire brought up questions about responses.",
+          "The author asks how they would cope in a similar situation.",
+          "Some would vault to the rescue, fighting off attackers.",
+          "Others would anticipate flight, extricating themselves quickly.",
+          "Most would like to offer aid to those in need."
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Sat, 08 Nov 2025 07:47:13 GMT",
         "title": "DNA pioneer James Watson dies at 97",
-        "neutral_headline": "DNA Pioneer James Watson Dies at Age Ninety-Seven",
+        "neutral_headline": "DNA pioneer James Watson dies at 97",
         "items": [
           {
             "source": "BBC Health",
@@ -432,17 +543,17 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/635c/live/48b4d9e0-bc76-11f0-b5e1-3386252dffc6.jpg",
         "ai_summary": [
-          "James Watson, co-discoverer of DNA's double-helix structure, passed away at ninety-seven years old.",
-          "Watson's scientific contributions revolutionized biology, earning him a Nobel Prize in 1962.",
-          "His later comments on race and sex significantly damaged his reputation within the scientific community.",
-          "Watson's controversial views led to the loss of honorary titles and public criticism.",
-          "Despite controversy, Watson's work remains foundational to understanding genetics and heredity."
+          "James Watson co-discovered the double-helix structure of DNA.",
+          "His reputation was later damaged by his comments on race and sex.",
+          "Watson was a pioneer in the field of DNA research.",
+          "He passed away at the age of 97.",
+          "Watson's work revolutionized the understanding of genetics."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-11-10T03:50:40.560Z",
+    "updated_at": "2025-11-10T07:19:40.301Z",
     "clusters": []
   }
 }
