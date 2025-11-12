@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2025-11-12T19:16:47.648Z",
+    "updated_at": "2025-11-12T23:18:58.816Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-11-12T19:17:03.279Z",
+    "updated_at": "2025-11-12T23:19:06.317Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -24,7 +24,14 @@
             "image_url": "https://www1.racgp.org.au/getattachment/b54afa19-974f-4d21-a34b-fa95571b2c68/GP-role-vital-in-LARC-services-expansion-RACGP.aspx"
           }
         ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/b54afa19-974f-4d21-a34b-fa95571b2c68/GP-role-vital-in-LARC-services-expansion-RACGP.aspx"
+        "featured_image": "https://www1.racgp.org.au/getattachment/b54afa19-974f-4d21-a34b-fa95571b2c68/GP-role-vital-in-LARC-services-expansion-RACGP.aspx",
+        "ai_summary": [
+          "The RACGP emphasizes the importance of GPs in LARC services expansion.",
+          "Procedures should occur within a multidisciplinary team framework.",
+          "GPs are central to coordinated patient care, according to the RACGP.",
+          "The RACGP supports the expansion of Long-Acting Reversible Contraception.",
+          "The organization highlights the role of GPs in women's health."
+        ]
       },
       {
         "id": "cluster_1",
@@ -44,7 +51,14 @@
             "image_url": "https://www1.racgp.org.au/getattachment/c556d16b-8e7d-4995-a050-12dc2b12a492/ADHD-medication-poisonings-soar.aspx"
           }
         ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/c556d16b-8e7d-4995-a050-12dc2b12a492/ADHD-medication-poisonings-soar.aspx"
+        "featured_image": "https://www1.racgp.org.au/getattachment/c556d16b-8e7d-4995-a050-12dc2b12a492/ADHD-medication-poisonings-soar.aspx",
+        "ai_summary": [
+          "Poisonings from ADHD medications have increased fourfold in ten years.",
+          "GPs are highlighted as \"educators of families\" in this context.",
+          "The rise in poisonings raises concerns about medication safety.",
+          "GPs play a crucial role in educating patients and families.",
+          "The focus is on preventing medication-related adverse events."
+        ]
       },
       {
         "id": "cluster_2",
@@ -64,7 +78,14 @@
             "image_url": "https://www1.racgp.org.au/getattachment/bcd1030d-3119-4799-87ec-04f8e3e6e48b/Research-reveals-value-of-GP-self-care.aspx"
           }
         ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/bcd1030d-3119-4799-87ec-04f8e3e6e48b/Research-reveals-value-of-GP-self-care.aspx"
+        "featured_image": "https://www1.racgp.org.au/getattachment/bcd1030d-3119-4799-87ec-04f8e3e6e48b/Research-reveals-value-of-GP-self-care.aspx",
+        "ai_summary": [
+          "Research highlights the value of self-care for GPs.",
+          "GP wellbeing must become a national priority, the research states.",
+          "Without change, the healthcare system could suffer consequences.",
+          "The research emphasizes the importance of GP mental health.",
+          "The findings suggest a need for systemic support for GPs."
+        ]
       },
       {
         "id": "cluster_3",
@@ -86,11 +107,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/366ceb34-864e-42b8-9da0-5137c0475780/Connect-share-challenge-inspire-GP25-on-the-horizon.aspx",
         "ai_summary": [
-          "The RACGP President emphasizes the importance of professional connection at the upcoming conference.",
-          "The GP25 conference is fast approaching, with the event days away from commencing.",
-          "The conference aims to inspire and challenge general practitioners within the medical field.",
-          "The RACGP President highlights the significance of the conference for the profession.",
-          "The conference will provide a platform for sharing knowledge and experiences among GPs."
+          "The RACGP President discusses the upcoming GP25 conference.",
+          "Connecting with the profession is \"more important than ever.\"",
+          "The conference aims to connect, share, challenge, and inspire.",
+          "The event is a flagship conference for the RACGP.",
+          "The conference is days away from commencing."
         ]
       },
       {
@@ -113,24 +134,24 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/e0f16edf-d43f-43dd-9f01-1d6d4eda3b8f/Japanese-encephalitis-vaccine-boost.aspx",
         "ai_summary": [
-          "The Victorian Government is allocating $2.3 million for a Japanese encephalitis vaccine rollout.",
-          "The vaccine rollout will target individuals residing in areas deemed at risk.",
-          "The announcement aims to protect residents from Japanese encephalitis.",
-          "The government is taking action to address the potential health risks.",
-          "The funding supports the provision of vaccines to vulnerable populations."
+          "The Victorian Government announced a $2.3 million vaccine rollout.",
+          "The rollout targets those living in areas at risk of Japanese encephalitis.",
+          "The funding aims to increase vaccination coverage.",
+          "The government is responding to the threat of the disease.",
+          "The initiative seeks to protect vulnerable populations."
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2025-11-12T19:16:49.818Z",
+    "updated_at": "2025-11-12T23:19:01.716Z",
     "clusters": [
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 2,
         "updated_at": "Wed, 12 Nov 2025 17:29:19 GMT",
         "title": "Streeting accuses doctors' union of acting 'like cartel'",
-        "neutral_headline": "Health Secretary Criticizes Doctors' Union Ahead of Strike",
+        "neutral_headline": "Streeting accuses doctors' union of acting 'like cartel':",
         "items": [
           {
             "source": "BBC Health",
@@ -147,26 +168,26 @@
             "url": "https://www.theguardian.com/society/2025/nov/12/british-medical-association-threat-nhs-wes-streeting-doctors-strike",
             "published_at": "Wed, 12 Nov 2025 17:27:11 GMT",
             "title": "British Medical Association ‘threat to future of NHS’, says Streeting ahead of doctors’ strike",
-            "standfirst": "Health secretary accuses doctors’ union of ‘cartel-like behaviour’ and tells it to ‘get real’ over pay demandsUK politics live – latest updatesThe British Medical Association is acting like a cartel and its “antics” are endangering the NHS’s future, the health secretary has said before the latest doctors’ strike begins on Friday.Wes Streeting launched his most strongly worded attack yet on the doctors’ union, coming close to accusing resident doctors in England of being greedy in their pay demands. Continue reading...",
-            "content": "Health secretary accuses doctors’ union of ‘cartel-like behaviour’ and tells it to ‘get real’ over pay demandsUK politics live – latest updatesThe British Medical Association is acting like a cartel and its “antics” are endangering the NHS’s future, the health secretary has said before the latest doctors’ strike begins on Friday.Wes Streeting launched his most strongly worded attack yet on the doctors’ union, coming close to accusing resident doctors in England of being greedy in their pay demands. Continue reading...",
+            "standfirst": "Health secretary accuses doctors’ union of ‘cartel-like behaviour’ and tells it to ‘get real’ over pay demandsThe British Medical Association is acting like a cartel and its “antics” are endangering the NHS’s future, the health secretary has said before the latest doctors’ strike begins on Friday.Wes Streeting launched his most strongly worded attack yet on the doctors’ union, coming close to accusing resident doctors in England of being greedy in their pay demands. Continue reading...",
+            "content": "Health secretary accuses doctors’ union of ‘cartel-like behaviour’ and tells it to ‘get real’ over pay demandsThe British Medical Association is acting like a cartel and its “antics” are endangering the NHS’s future, the health secretary has said before the latest doctors’ strike begins on Friday.Wes Streeting launched his most strongly worded attack yet on the doctors’ union, coming close to accusing resident doctors in England of being greedy in their pay demands. Continue reading...",
             "feed_position": 4
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf0/live/a48f7cb0-bfdd-11f0-bbea-2df62eb90585.jpg",
         "ai_summary": [
-          "The Health Secretary strongly criticized the doctors' union before the strike.",
-          "The Health Secretary accused the union of acting like a cartel.",
-          "The criticism came before the resident doctors' strike on Friday.",
-          "The Health Secretary's attack was the most strongly worded yet.",
-          "The Health Secretary suggested the union's actions endanger the NHS."
+          "The health secretary criticized the doctors' union.",
+          "The criticism came before a planned strike by resident doctors.",
+          "Streeting accused the union of \"cartel-like behaviour.\"",
+          "The health secretary urged the union to be realistic about pay.",
+          "The dispute centers on pay demands and working conditions."
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 2,
         "updated_at": "Tue, 11 Nov 2025 17:56:00 GMT",
         "title": "NHS trust fined £565,000 after woman killed herself on ‘death trap’ ward",
-        "neutral_headline": "Hospital Trust Fined After Patient Suicide",
+        "neutral_headline": "NHS trust fined £565,000 after woman killed herself on ‘death trap’ ward:",
         "items": [
           {
             "source": "Guardian Health",
@@ -184,25 +205,52 @@
             "title": "Hospital trust fined £500k over death of patient",
             "standfirst": "Alice Figueiredo, 22, took her own life at Goodmayes Hospital, east London, in July 2015.",
             "content": "Alice Figueiredo, 22, took her own life at Goodmayes Hospital, east London, in July 2015.",
-            "feed_position": 3,
+            "feed_position": 4,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b8/live/4c18b3b0-bbd9-11f0-8456-eff94716b162.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b8/live/4c18b3b0-bbd9-11f0-8456-eff94716b162.jpg",
         "ai_summary": [
-          "An NHS trust was fined £565,000 after a woman's suicide.",
-          "The suicide occurred on a mental health ward at Goodmayes hospital.",
-          "The woman, Alice Figueiredo, was 22 years old at the time of death.",
-          "The ward was described as a \"death trap\" by a family member.",
-          "The fine followed 18 previous self-harm attempts by the patient."
+          "An NHS trust was fined £565,000 after a patient's suicide.",
+          "The patient, Alice Figueiredo, died on a mental health ward.",
+          "The ward was described as a \"death trap\" by family members.",
+          "Figueiredo had made 18 previous attempts to self-harm.",
+          "The family is calling for urgent changes to mental health care."
         ]
       },
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Wed, 12 Nov 2025 22:00:03 GMT",
+        "title": "Hospitals knew a heart device led to more patients' deaths - but they kept using it",
+        "neutral_headline": "Heart device caused deaths, hospitals continued use",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cqjwg197855o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 12 Nov 2025 22:00:03 GMT",
+            "title": "Hospitals knew a heart device led to more patients' deaths - but they kept using it",
+            "standfirst": "Almost half of patients given a heart pump, after the NHS had raised concerns about it, died soon after.",
+            "content": "Almost half of patients given a heart pump, after the NHS had raised concerns about it, died soon after.",
+            "feed_position": 2,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f896/live/57829c90-bfec-11f0-8669-5560f5c90fbe.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f896/live/57829c90-bfec-11f0-8669-5560f5c90fbe.jpg",
+        "ai_summary": [
+          "Hospitals knew of heart pump issues, but continued using it on patients.",
+          "Almost half of patients died soon after receiving the heart pump.",
+          "The NHS had previously raised concerns about the device's safety.",
+          "The device was used despite the known risks to patient health.",
+          "The high mortality rate occurred after the NHS's concerns."
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
         "updated_at": "Wed, 12 Nov 2025 19:00:02 GMT",
         "title": "Epstein-Barr virus appears to be trigger of lupus disease, say scientists",
-        "neutral_headline": "Virus May Trigger Lupus, Scientists Say",
+        "neutral_headline": "Epstein-Barr virus appears to be trigger of lupus disease, say scientists",
         "items": [
           {
             "source": "Guardian Health",
@@ -215,19 +263,19 @@
           }
         ],
         "ai_summary": [
-          "Scientists suggest the Epstein-Barr virus may trigger lupus.",
-          "The research links the virus to the autoimmune disease lupus.",
-          "Lupus affects approximately one in one thousand people.",
-          "The study could revolutionize lupus treatment approaches.",
-          "The virus is common, but can cause immune cells to attack the body."
+          "A study suggests EBV can cause immune cells to attack the body.",
+          "EBV is a common virus, usually harmless to most people.",
+          "The research may lead to new treatments for lupus.",
+          "Lupus is an autoimmune disease affecting about one in 1,000 people.",
+          "Uncovering the cause of lupus could revolutionize treatments."
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Wed, 12 Nov 2025 18:07:39 GMT",
         "title": "A good deal struck for the NHS | Brief letters",
-        "neutral_headline": "NHS Bargain and Other Health News",
+        "neutral_headline": "NHS acquired private hospital, a good deal",
         "items": [
           {
             "source": "Guardian Health",
@@ -240,19 +288,19 @@
           }
         ],
         "ai_summary": [
-          "A reader points out a previous NHS purchase of a private hospital in Scotland.",
-          "The Scottish executive bought a private hospital for £37.5 million in 2002.",
-          "The hospital was built in 1994 at a cost of £180 million.",
-          "The hospital now delivers 57,500 procedures annually.",
-          "The letter writer considers this a good bargain for the NHS."
+          "The NHS acquired a private hospital with state-of-the-art facilities.",
+          "The Scottish executive bought a private hospital in 2002 for NHS use.",
+          "The Golden Jubilee hospital performs 57,500 procedures annually.",
+          "The acquired hospital was built in 1994 by a US healthcare firm.",
+          "The Scottish purchase was considered a good bargain for the NHS."
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Wed, 12 Nov 2025 17:30:07 GMT",
         "title": "No 10 says Starmer has confidence in Morgan McSweeney after PM condemns attacks on cabinet members – as it happened",
-        "neutral_headline": "Starmer Backs Morgan McSweeney Amid Downing Street Concerns",
+        "neutral_headline": "No 10 says Starmer has confidence in Morgan McSweeney",
         "items": [
           {
             "source": "Guardian Health",
@@ -265,19 +313,19 @@
           }
         ],
         "ai_summary": [
-          "The Prime Minister's spokesperson expressed confidence in the chief of staff.",
+          "The PM's spokesperson expressed confidence in his chief of staff.",
           "Starmer challenged over a \"toxic culture\" at Downing Street.",
-          "The No 10 briefing row is not the only story this morning.",
-          "There is a live blog about the ongoing turmoil at the BBC.",
-          "Reform UK pulled out of a BBC documentary due to editing concerns."
+          "A live blog covers the ongoing turmoil at the BBC.",
+          "Donald Trump said he has an \"obligation\" to sue the BBC.",
+          "Reform UK pulled out of a BBC documentary due to editing."
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Wed, 12 Nov 2025 17:19:43 GMT",
         "title": "Marianne Rigge obituary",
-        "neutral_headline": "Obituary of Marianne Rigge",
+        "neutral_headline": "Marianne Rigge obituary: Pioneer for NHS patients",
         "items": [
           {
             "source": "Guardian Health",
@@ -292,19 +340,19 @@
         ],
         "featured_image": "https://i.guim.co.uk/img/media/d6f50d1a5d0fb2bd262df6508d4468c36c585ebf/15_20_404_323/master/404.jpg?width=140&quality=85&auto=format&fit=max&s=16d1b87c571b1dcaceef678fd3d9bc1a",
         "ai_summary": [
-          "Marianne Rigge, who died at 77, was a public advocate for NHS patients.",
-          "She pioneered easier access to medical and health information.",
+          "Marianne Rigge, who died at 77, advocated for NHS patients.",
           "She founded the College of Health with Michael Young.",
-          "Michael Young inspired organizations like the Open University.",
-          "She was the daughter of a GP and passionate about patient interests."
+          "The College of Health aimed to provide health information.",
+          "Her father was a GP, which influenced her work.",
+          "Michael Young inspired organizations like the Open University."
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Wed, 12 Nov 2025 15:43:44 GMT",
         "title": "The benefits of giving someone the benefit of the doubt",
-        "neutral_headline": "Benefits of Giving Someone the Benefit of the Doubt",
+        "neutral_headline": "Psychologist explains benefits of giving benefit of doubt",
         "items": [
           {
             "source": "BBC Health",
@@ -319,19 +367,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b4/live/f41a7e60-bfdd-11f0-8669-5560f5c90fbe.jpg",
         "ai_summary": [
-          "Psychologist Kimberley Wilson discusses the benefits of trust.",
-          "Wilson explains how it can lead to a more peaceful life.",
-          "The article focuses on the psychological aspects of trust.",
-          "The discussion centers on the benefits of trust in relationships.",
-          "The article offers insights into improving interpersonal interactions."
+          "Psychologist Kimberley Wilson discusses the benefits of doubt.",
+          "Giving someone the benefit of the doubt can promote peace.",
+          "The article explores the psychological aspects of trust.",
+          "It suggests a more peaceful approach to daily life.",
+          "The article focuses on the benefits of this approach."
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Wed, 12 Nov 2025 14:00:59 GMT",
         "title": "Edge of Life review – can understanding death help us understand how to live?",
-        "neutral_headline": "Review of \"Edge of Life\" Documentary",
+        "neutral_headline": "Documentary explores death and how to live",
         "items": [
           {
             "source": "Guardian Health",
@@ -345,18 +393,18 @@
         ],
         "ai_summary": [
           "The documentary explores the use of psychedelics in palliative care.",
-          "The film links death to new possibilities and new beginnings.",
-          "The core idea is improving the process of dying to improve living.",
-          "The film features an Australian clinical trial on psychedelics.",
-          "The trial was conducted at St Vincent's hospital in Melbourne."
+          "It links death to new possibilities and new beginnings.",
+          "The film focuses on improving the process of dying.",
+          "The film highlights a clinical trial in Melbourne, Australia.",
+          "The trial involved psilocybin, a psychoactive compound."
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Wed, 12 Nov 2025 10:00:20 GMT",
         "title": "Covid vaccines may increase the lifespan of cancer patients – this could be a game changer | Devi Sridhar",
-        "neutral_headline": "Covid Vaccines May Extend Cancer Patient Lifespan",
+        "neutral_headline": "Covid vaccines may increase lifespan of cancer patients",
         "items": [
           {
             "source": "Guardian Health",
@@ -369,19 +417,19 @@
           }
         ],
         "ai_summary": [
-          "A study suggests mRNA vaccines may increase cancer patient lifespan.",
-          "The vaccines trigger a powerful immune response against cancer cells.",
-          "The study indicates a 75% increase in median survival time.",
-          "The findings could lead to repurposing existing vaccines.",
-          "Professor Devi Sridhar is chair of global public health at Edinburgh."
+          "mRNA vaccines may increase cancer patient lifespan.",
+          "A study suggests vaccines trigger a strong immune response.",
+          "The study found a 75% increase in median survival time.",
+          "The vaccines were developed quickly in response to COVID-19.",
+          "The findings could lead to repurposing existing vaccines."
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Wed, 12 Nov 2025 09:00:51 GMT",
         "title": "Thousands of NHS staff in England to lose jobs after deal approved",
-        "neutral_headline": "NHS Staff Face Job Losses After Deal Approval",
+        "neutral_headline": "Thousands of NHS staff in England to lose jobs",
         "items": [
           {
             "source": "BBC Health",
@@ -397,18 +445,18 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e6/live/63cadce0-bf30-11f0-ae46-bd64331f0fd4.jpg",
         "ai_summary": [
           "Thousands of NHS staff in England will lose their jobs.",
-          "A compromise deal has been approved.",
+          "A compromise deal was approved by the NHS.",
           "The deal allows the NHS to overspend this year.",
-          "The article focuses on the financial implications.",
-          "The job losses are a result of the approved deal."
+          "The job losses are a result of the approved deal.",
+          "The deal's details are not specified in the summary."
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Wed, 12 Nov 2025 07:00:18 GMT",
         "title": "Fossil fuel projects around the world threaten the health of 2bn people",
-        "neutral_headline": "Fossil Fuel Projects Threaten Health of Billions",
+        "neutral_headline": "Fossil fuel projects threaten health of billions",
         "items": [
           {
             "source": "Guardian Health",
@@ -421,19 +469,19 @@
           }
         ],
         "ai_summary": [
-          "Fossil fuel projects threaten the health of two billion people.",
-          "A quarter of the world's population lives near these projects.",
-          "The research is from Amnesty International.",
-          "The projects include oil, gas, and coal sites.",
-          "There are over 18,300 sites across 170 countries."
+          "Fossil fuel projects threaten the health of billions globally.",
+          "2 billion people live near operational fossil fuel projects.",
+          "Amnesty International research details the health risks.",
+          "Over 18,300 oil, gas, and coal sites exist worldwide.",
+          "These sites occupy a vast area of the Earth's surface."
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Wed, 12 Nov 2025 06:55:16 GMT",
         "title": "I thought there was something wrong with my body – until I shared a shower with 50 strangers",
-        "neutral_headline": "Author Shares Experience of Body Image Issues",
+        "neutral_headline": "Author shares experience of body image issues",
         "items": [
           {
             "source": "Guardian Health",
@@ -446,19 +494,19 @@
           }
         ],
         "ai_summary": [
-          "The author shares personal experiences with body image.",
-          "The author felt uncomfortable with her body since her teens.",
+          "The author shares experiences of body image issues.",
+          "The author felt uncomfortable with her body as a teen.",
           "She grew nine inches in nine months at age fifteen.",
-          "She grew up in the US in the late 1970s.",
-          "She describes the impact of societal beauty standards."
+          "She grew up in the US during the late 1970s.",
+          "Body image issues started before the author's teens."
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Wed, 12 Nov 2025 06:00:17 GMT",
         "title": "Experts concerned over health effects of high-dose nicotine pouches as sales soar in UK",
-        "neutral_headline": "Experts Concerned Over Nicotine Pouch Health Effects",
+        "neutral_headline": "Experts concerned over nicotine pouches' health effects",
         "items": [
           {
             "source": "Guardian Health",
@@ -471,19 +519,19 @@
           }
         ],
         "ai_summary": [
-          "Experts are concerned about high-dose nicotine pouch health effects.",
-          "Sales of nicotine pouches are soaring in the United Kingdom.",
-          "Teenagers reported nicotine rushes, sickness, and fainting.",
-          "The pouches are marketed as \"tobacco-free\" but contain nicotine.",
-          "UK ministers are considering tighter regulations on the pouches."
+          "Experts are concerned about high-dose nicotine pouches.",
+          "Sales of nicotine pouches are rapidly increasing in the UK.",
+          "Teenagers reported nicotine rushes and fainting.",
+          "The pouches are marketed as \"tobacco-free\".",
+          "UK ministers are considering tighter regulations."
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Wed, 12 Nov 2025 05:54:21 GMT",
         "title": "'My son, 4, has childhood dementia - I'm heartbroken'",
-        "neutral_headline": "Mother raises funds for son with childhood dementia",
+        "neutral_headline": "My son, 4, has childhood dementia - I'm heartbroken",
         "items": [
           {
             "source": "BBC Health",
@@ -492,21 +540,21 @@
             "title": "'My son, 4, has childhood dementia - I'm heartbroken'",
             "standfirst": "Tammy McDaid is raising funds to help her make memories with her son Tate.",
             "content": "Tammy McDaid is raising funds to help her make memories with her son Tate.",
-            "feed_position": 4,
+            "feed_position": 5,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e03/live/20f6f420-bf8b-11f0-af65-43e046963d80.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e03/live/20f6f420-bf8b-11f0-af65-43e046963d80.jpg",
         "ai_summary": [
-          "Tammy McDaid is raising money to create memories with her four-year-old son.",
-          "Her son, Tate, has been diagnosed with childhood dementia.",
-          "The article focuses on the emotional impact of the diagnosis.",
-          "McDaid is seeking to provide Tate with positive experiences.",
-          "The fundraising aims to support Tate's quality of life."
+          "A mother is raising funds for her son with dementia.",
+          "The son is four years old and has childhood dementia.",
+          "The mother wants to make memories with her son.",
+          "The article focuses on the mother's experience.",
+          "The article highlights the emotional impact of the disease."
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Wed, 12 Nov 2025 05:00:16 GMT",
         "title": "‘I don’t want anyone to suffer like I did’: the intersex campaigners fighting to limit surgery on children",
@@ -523,19 +571,19 @@
           }
         ],
         "ai_summary": [
-          "Intersex individuals are advocating to limit surgeries on children.",
-          "The article discusses the experiences of those who underwent early surgeries.",
-          "Small Luk, from Hong Kong, had genital reconstruction surgery at age eight.",
-          "Luk was initially happy but later faced complications from the surgery.",
-          "The article highlights the complexities and potential harms of such procedures."
+          "Intersex campaigners fight to limit surgery on children.",
+          "Many believe surgery is often too quick to schedule.",
+          "The article discusses the experiences of intersex individuals.",
+          "One individual was initially happy about surgery.",
+          "The surgery did not go as planned for the individual."
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Wed, 12 Nov 2025 05:00:15 GMT",
         "title": "Three countries boost family planning funding in ‘powerful shift from dependency’ in Africa after aid cuts",
-        "neutral_headline": "African nations increase family planning funding after aid cuts",
+        "neutral_headline": "Three countries boost family planning funding in ‘powerful shift from dependency’ in Africa after aid cuts",
         "items": [
           {
             "source": "Guardian Health",
@@ -548,19 +596,19 @@
           }
         ],
         "ai_summary": [
-          "Zambia, Zimbabwe, and DRC are increasing family planning budgets.",
-          "Foreign aid cuts threaten reproductive health progress in Africa.",
-          "These countries aim to protect access to birth control.",
-          "The governments are responding to donor fatigue.",
-          "The funding increases are for supplies and services."
+          "African countries boost family planning funding.",
+          "Zambia, Zimbabwe, and DRC increased budgets.",
+          "Foreign aid cuts threaten reproductive health progress.",
+          "The funding protects access to birth control.",
+          "The shift is a response to donor fatigue."
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Wed, 12 Nov 2025 02:50:49 GMT",
         "title": "Protesters break into COP30 venue in Brazil",
-        "neutral_headline": "Protesters disrupt COP30 venue in Brazil",
+        "neutral_headline": "Protesters Disrupt COP30 Venue in Brazil During Climate Talks",
         "items": [
           {
             "source": "BBC Science",
@@ -575,15 +623,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c59/live/01011890-bf85-11f0-ae46-bd64331f0fd4.jpg",
         "ai_summary": [
-          "Protesters entered the venue of the COP30 climate talks.",
-          "Over 200 delegations are attending the UN climate talks.",
-          "Senior world leaders are among the attendees.",
-          "The protest occurred during the climate conference.",
-          "The article reports on the disruption of the event."
+          "Protesters breached security at the COP30 venue in Brazil, disrupting the climate talks.",
+          "Over 200 delegations, including world leaders, are attending the United Nations climate talks.",
+          "The incident occurred during the ongoing international discussions on climate change.",
+          "Details regarding the protesters' specific demands or actions remain unclear at this time.",
+          "Authorities are likely assessing the security breach and its impact on the conference."
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Wed, 12 Nov 2025 00:01:08 GMT",
         "title": "‘Sobering’ study reveals extent of bullying and mental health problems for children in Wales",
@@ -600,19 +648,19 @@
           }
         ],
         "ai_summary": [
-          "A study examined bullying and mental health in Welsh primary schools.",
-          "The study involved 50,000 pupils aged seven to eleven.",
-          "Over half of the children reported being bullied at school.",
-          "Many children struggle with sleep and emotional difficulties.",
-          "Fewer than half eat fruit or vegetables daily."
+          "A study of 50,000 Welsh pupils aged 7-11 found many struggle with sleep and emotional difficulties.",
+          "Over half of the children reported being bullied at school within the past couple of months.",
+          "Fewer than half of the children surveyed eat fruit or vegetables every day, according to the study.",
+          "Approximately 30% of the children reported elevated or clinically significant emotional difficulties.",
+          "Cyberbullying was reported by 29% of year six learners within the past couple of months."
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Tue, 11 Nov 2025 22:30:07 GMT",
         "title": "Reeves rejects plea for £1bn of extra cash to cover NHS redundancy payouts",
-        "neutral_headline": "Reeves rejects plea for extra NHS redundancy funds",
+        "neutral_headline": "Reeves rejects plea for £1bn of extra cash to cover NHS redundancy payouts",
         "items": [
           {
             "source": "Guardian Health",
@@ -625,44 +673,17 @@
           }
         ],
         "ai_summary": [
-          "Chancellor Reeves denied a request for extra NHS funds.",
-          "The health secretary sought £1 billion for redundancy payouts.",
-          "The money was intended to cover the cost of job losses.",
-          "18,000 NHS staff are losing their jobs.",
-          "The decision is a setback for the health secretary."
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Tue, 11 Nov 2025 17:42:17 GMT",
-        "title": "Nurses penalised for trans complaint, says lawyer",
-        "neutral_headline": "Nurses penalised for trans complaint, says lawyer",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/cly4wnkvy9jo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 11 Nov 2025 17:42:17 GMT",
-            "title": "Nurses penalised for trans complaint, says lawyer",
-            "standfirst": "Closing submissions are being made in an employment tribunal brought by eight female nurses.",
-            "content": "Closing submissions are being made in an employment tribunal brought by eight female nurses.",
-            "feed_position": 5,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4714/live/e4d73ac0-bf1e-11f0-aa9c-2dd9cb62df51.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4714/live/e4d73ac0-bf1e-11f0-aa9c-2dd9cb62df51.jpg",
-        "ai_summary": [
-          "An employment tribunal involves eight female nurses.",
-          "Closing submissions are being made in the tribunal.",
-          "The nurses' lawyer is making the claim.",
-          "The case concerns a complaint related to transgender issues.",
-          "The article reports on the legal proceedings."
+          "Chancellor Rachel Reeves denied Health Secretary Wes Streeting's request for £1 billion.",
+          "The requested funds were intended to cover the cost of NHS staff redundancies.",
+          "Streeting had been lobbying for the emergency funds within the government.",
+          "The redundancies involve approximately 18,000 NHS personnel losing their jobs.",
+          "Reeves' decision represents a setback for the Health Secretary's budget requests."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-11-12T19:17:03.279Z",
+    "updated_at": "2025-11-12T23:19:06.317Z",
     "clusters": []
   }
 }
