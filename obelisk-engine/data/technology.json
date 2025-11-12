@@ -1,8 +1,8 @@
 {
-  "updated_at": "2025-11-12T07:19:51.991Z",
+  "updated_at": "2025-11-12T11:18:04.701Z",
   "clusters": [
     {
-      "id": "cluster_18",
+      "id": "cluster_35",
       "coverage": 2,
       "updated_at": "Wed, 12 Nov 2025 00:00:00 GMT",
       "title": "Baidu just dropped an open-source multimodal AI that it claims beats GPT-5 and Gemini",
@@ -262,17 +262,17 @@
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/6PAfmxLhH2Yv7BpN8vczIt/f33baa764e279c49d01c5a10da8eef61/nuneybits_Vector_art_of_a_GPU_made_out_of_computer_code_and_the_59f97a50-f492-452f-bd5d-1d6e6e904c4a.webp?w=300&q=30",
-      "popularity_score": 2012.6688913888888,
+      "popularity_score": 2008.6986941666667,
       "ai_summary": [
-        "Baidu released a new AI model, ERNIE-4.5-VL-28B-A3B-Thinking, claiming it outperforms competitors.",
-        "The model excels in understanding images, videos, and documents alongside text.",
-        "It uses a sophisticated routing architecture, activating only 3 billion parameters during operation.",
-        "The model matches or exceeds larger systems' performance while using less computational power.",
-        "Baidu says the model underwent extensive training with diverse visual-language reasoning data."
+        "Baidu released a new AI model, ERNIE-4.5-VL-28B-A3B-Thinking, on Monday.",
+        "Baidu claims the model outperforms Google and OpenAI competitors on vision benchmarks.",
+        "The model uses 3 billion parameters during operation, with 28 billion total.",
+        "The model can understand images, videos, and documents alongside text.",
+        "The model's design allows it to match or exceed larger systems' performance."
       ]
     },
     {
-      "id": "cluster_70",
+      "id": "cluster_80",
       "coverage": 2,
       "updated_at": "Tue, 11 Nov 2025 17:00:11 +0000",
       "title": "Google announces even more AI in Photos app, powered by Nano Banana",
@@ -285,7 +285,7 @@
           "title": "Google announces even more AI in Photos app, powered by Nano Banana",
           "standfirst": "Google's Nano Banana is powering a raft of new features in the app.",
           "content": "We’re running out of ways to tell you that Google is releasing more generative AI features, but that’s what’s happening in Google Photos today. The Big G is finally making good on its promise to add its market-leading Nano Banana image-editing model to the app. The model powers a couple of features, and it’s not just for Google’s Android platform. Nano Banana edits are also coming to the iOS version of the app. Nano Banana started making waves when it appeared earlier this year as an unbranded demo. You simply feed the model an image and tell it what edits you want to see. Google said Nano Banana was destined for the Photos app back in October, but it’s only now beginning the rollout. The Photos app already had conversational editing in the “Help Me Edit” feature, but it was running an older non-fruit model that produced inferior results. Nano Banana editing will produce AI slop, yes, but it’s better slop. Nano Banana in Help me edit Nano Banana in Help me edit Google says the updated Help Me Edit feature has access to your private face groups, so you can use names in your instructions. For example, you could type “Remove Riley’s sunglasses,” and Nano Banana will identify Riley in the photo (assuming you have a person of that name saved) and make the edit without further instructions. You can also ask for more fantastical edits in Help Me Edit, changing the style of the image from top to bottom.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GP_Nov-AI-Feature_Blog-Post-Hero-1152x648.png"
         },
         {
@@ -295,25 +295,53 @@
           "title": "Google Photos adds new AI features for editing, expands AI-powered search to over 100 countries",
           "standfirst": "Google Photos is getting an image edit feature powered by the Nano Banana model.",
           "content": "Google Photos is getting an image edit feature powered by the Nano Banana model.",
-          "feed_position": 7
+          "feed_position": 8
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GP_Nov-AI-Feature_Blog-Post-Hero-1152x648.png",
-      "popularity_score": 2005.6719469444445,
+      "popularity_score": 2001.7017497222223,
       "ai_summary": [
-        "Google is adding new AI features to its Photos app.",
-        "The new features are powered by Google's Nano Banana model.",
-        "Google Photos is getting an image edit feature.",
-        "AI-powered search is expanding to over 100 countries.",
-        "The updates enhance the app's editing and search capabilities."
+        "Google Photos is adding new AI features powered by Nano Banana.",
+        "The Nano Banana model is driving a range of new features in the app.",
+        "Google Photos is expanding AI-powered search to over 100 countries.",
+        "The new features include image editing capabilities.",
+        "The updates enhance the functionality of the Google Photos application."
       ]
     },
     {
-      "id": "cluster_30",
+      "id": "cluster_6",
+      "coverage": 1,
+      "updated_at": "Wed, 12 Nov 2025 10:00:37 +0000",
+      "title": "Google vows to stop scam E-Z Pass and USPS texts plaguing Americans",
+      "neutral_headline": "Google Vows to Stop Scam E-Z Pass and USPS Texts",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2025/11/google-vows-to-stop-scam-e-z-pass-and-usps-texts-plaguing-americans/",
+          "published_at": "Wed, 12 Nov 2025 10:00:37 +0000",
+          "title": "Google vows to stop scam E-Z Pass and USPS texts plaguing Americans",
+          "standfirst": "\"Phishing for dummies\" kits make it easier to scam millions, Google alleged.",
+          "content": "Google is suing to stop phishing attacks that target millions globally, including campaigns that fake toll notices, offer bogus e-commerce deals, and impersonate financial institutions. In a complaint filed Wednesday, the tech giant accused “a cybercriminal group in China” of selling “phishing for dummies” kits. The kits help unsavvy fraudsters easily “execute a large-scale phishing campaign,” tricking hordes of unsuspecting people into “disclosing sensitive information like passwords, credit card numbers, or banking information, often by impersonating well-known brands, government agencies, or even people the victim knows.” These branded “Lighthouse” kits offer two versions of software, depending on whether bad actors want to launch SMS and e-commerce scams. “Members may subscribe to weekly, monthly, seasonal, annual, or permanent licenses,” Google alleged. Kits include “hundreds of templates for fake websites, domain set-up tools for those fake websites, and other features designed to dupe victims into believing they are entering sensitive information on a legitimate website.”Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-950213928-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-950213928-1152x648.jpg",
+      "popularity_score": 363.70897194444444,
+      "ai_summary": [
+        "Google is working to stop scam texts impersonating E-Z Pass and USPS.",
+        "\"Phishing for dummies\" kits make it easier to scam millions of people.",
+        "Google alleges that these kits are used for fraudulent activities.",
+        "The company is taking steps to combat these types of scams.",
+        "The focus is on preventing fraudulent text messages."
+      ]
+    },
+    {
+      "id": "cluster_46",
       "coverage": 1,
       "updated_at": "Tue, 11 Nov 2025 21:34:10 +0000",
       "title": "Google says new cloud-based “Private AI Compute” is just as secure as local processing",
-      "neutral_headline": "Google says new cloud-based “Private AI Compute” is just as secure as local processing",
+      "neutral_headline": "Google's Private AI Compute is Secure as Local Processing",
       "items": [
         {
           "source": "Ars Technica",
@@ -322,26 +350,26 @@
           "title": "Google says new cloud-based “Private AI Compute” is just as secure as local processing",
           "standfirst": "New system allows devices to connect directly to secure space in Google's AI servers.",
           "content": "Google’s current mission is to weave generative AI into as many products as it can, getting everyone accustomed to, and maybe even dependent on, working with confabulatory robots. That means it needs to feed the bots a lot of your data, and that’s getting easier with the company’s new Private AI Compute. Google claims its new secure cloud environment will power better AI experiences without sacrificing your privacy. The pitch sounds a lot like Apple’s Private Cloud Compute. Google’s Private AI Compute runs on “one seamless Google stack” powered by the company’s custom Tensor Processing Units (TPUs). These chips have integrated secure elements, and the new system allows devices to connect directly to the protected space via an encrypted link. Google’s TPUs rely on an AMD-based Trusted Execution Environment (TEE) that encrypts and isolates memory from the host. Theoretically, that means no one else—not even Google itself—can access your data. Google says independent analysis by NCC Group shows that Private AI Compute meets its strict privacy guidelines.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 2,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google_Private_Inference-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google_Private_Inference-1152x648.jpg",
-      "popularity_score": 360.23833583333334,
+      "popularity_score": 346.2681386111111,
       "ai_summary": [
-        "Google introduces \"Private AI Compute\" for cloud-based processing.",
-        "The system allows devices to connect to secure space in Google's AI servers.",
-        "The system is designed to be as secure as local processing.",
-        "It offers a new approach to cloud-based AI.",
-        "The system aims to enhance user privacy and security."
+        "Google's new cloud-based \"Private AI Compute\" is secure.",
+        "The system allows devices to connect to secure AI servers.",
+        "The system offers a secure alternative to local processing.",
+        "The new system is designed for enhanced privacy.",
+        "The technology aims to protect user data."
       ]
     },
     {
-      "id": "cluster_21",
+      "id": "cluster_38",
       "coverage": 1,
       "updated_at": "Tue, 11 Nov 2025 23:26:04 +0000",
       "title": "The Mac calculator’s original design came from letting Steve Jobs play with menus for ten minutes",
-      "neutral_headline": "The Mac calculator’s original design came from letting Steve Jobs play with menus for ten minutes",
+      "neutral_headline": "Mac Calculator Design: Steve Jobs' Menu Playtime",
       "items": [
         {
           "source": "Ars Technica",
@@ -350,26 +378,26 @@
           "title": "The Mac calculator’s original design came from letting Steve Jobs play with menus for ten minutes",
           "standfirst": "In 1982, a young Mac developer turned Jobs into a UI designer—and accidentally invented a new technique.",
           "content": "In February 1982, Apple employee #8 Chris Espinosa faced a problem that would feel familiar to anyone who has ever had a micromanaging boss: Steve Jobs wouldn’t stop critiquing his calculator design for the Mac. After days of revision cycles, the 21-year-old programmer found an elegant solution: He built what he called the “Steve Jobs Roll Your Own Calculator Construction Set” and let Jobs design it himself. This delightful true story comes from Andy Hertzfeld’s Folklore.org, a legendary tech history site that chronicles the development of the original Macintosh, which was released in January 1984. I ran across the story again recently and thought it was worth sharing as a fun anecdote in an age where influential software designs often come by committee. Design by menu Chris Espinosa started working for Apple at age 14 in 1976 as the company’s youngest employee. By 1981, while studying at UC Berkeley, Jobs convinced Espinosa to drop out and work on the Mac team full time.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 1,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/calc_hero_1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/calc_hero_1-1152x648.jpg",
-      "popularity_score": 351.10333583333335,
+      "popularity_score": 337.1331386111111,
       "ai_summary": [
-        "A young Mac developer involved Steve Jobs in UI design in 1982.",
-        "Jobs's interaction with menus led to a new UI technique.",
-        "The incident resulted in the original design of the Mac calculator.",
-        "The design process was accidental and innovative.",
-        "The event highlights the early development of the Mac interface."
+        "The original Mac calculator design came from Steve Jobs' input.",
+        "A developer let Jobs play with menus for ten minutes.",
+        "This led to the accidental invention of a new UI technique.",
+        "The incident occurred in 1982 during the Mac's development.",
+        "Jobs' interaction influenced the calculator's design."
       ]
     },
     {
-      "id": "cluster_31",
+      "id": "cluster_47",
       "coverage": 1,
       "updated_at": "Tue, 11 Nov 2025 21:20:32 +0000",
       "title": "Ryanair tries forcing app downloads by eliminating paper boarding passes",
-      "neutral_headline": "Ryanair tries forcing app downloads by eliminating paper boarding passes",
+      "neutral_headline": "Ryanair Forces App Downloads, Eliminates Paper Boarding Passes",
       "items": [
         {
           "source": "Ars Technica",
@@ -378,26 +406,26 @@
           "title": "Ryanair tries forcing app downloads by eliminating paper boarding passes",
           "standfirst": "Ryanair CEO admits \"there’ll be some teething problems.\"",
           "content": "Ryanair is trying to force users to download its mobile app by eliminating paper boarding passes, starting on November 12. As announced in February and subsequently delayed from earlier start dates, Europe’s biggest airline is moving to digital-only boarding passes, meaning customers will no longer be able to print physical ones. In order to access their boarding passes, Ryanair flyers will have to download Ryanair’s app. “Almost 100 percent of passengers have smartphones, and we want to move everybody onto that smartphone technology,” Ryanair CEO Michael O’Leary said recently on The Independent’s daily travel podcast.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1200216952-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1200216952-1152x648.jpg",
-      "popularity_score": 338.0111136111111,
+      "popularity_score": 324.0409163888889,
       "ai_summary": [
-        "Ryanair is eliminating paper boarding passes to encourage app downloads.",
-        "The CEO admits there will be \"teething problems\" with the change.",
-        "The move aims to increase app usage among passengers.",
-        "The change may cause inconvenience for some travelers.",
-        "Ryanair is implementing the policy to promote its app."
+        "Ryanair is requiring app downloads by eliminating paper boarding passes.",
+        "The CEO admits there will be some \"teething problems\" with the change.",
+        "The policy aims to encourage app usage among passengers.",
+        "The airline is implementing a digital-first boarding process.",
+        "The change may cause initial difficulties for some travelers."
       ]
     },
     {
-      "id": "cluster_56",
+      "id": "cluster_65",
       "coverage": 1,
       "updated_at": "Tue, 11 Nov 2025 19:21:30 +0000",
       "title": "Reddit mod jailed for sharing movie sex scenes in rare “moral rights” verdict",
-      "neutral_headline": "Reddit mod jailed for sharing movie sex scenes in rare “moral rights” verdict",
+      "neutral_headline": "Reddit Mod Jailed for Sharing Movie Sex Scenes",
       "items": [
         {
           "source": "Ars Technica",
@@ -406,26 +434,26 @@
           "title": "Reddit mod jailed for sharing movie sex scenes in rare “moral rights” verdict",
           "standfirst": "Redditor confessed to violating actresses' \"moral rights\" in landmark ruling.",
           "content": "A Reddit moderator known as “KlammereFyr” was recently convicted by a Danish court after clipping and posting hundreds of nude scenes that actresses filmed for movies and TV shows but apparently never expected to be shared out of context. As TorrentFreak reported, dozens of actresses had complained about the mod’s sub-reddit, “SeDetForPlottet” (WatchItForthePlot), with some feeling “molested or abused.” Demanding Danish police put an end to the forum, the Rights Alliance—representing the Danish Actors’ Association, two broadcasters, and other rightsholders—pushed for a criminal probe.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/reddit-s3xy-time-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/reddit-s3xy-time-1152x648.jpg",
-      "popularity_score": 326.02722472222223,
+      "popularity_score": 312.0570275,
       "ai_summary": [
         "A Reddit moderator was jailed for sharing movie sex scenes.",
-        "The verdict is based on \"moral rights\" violations.",
-        "The Redditor confessed to violating actresses' moral rights.",
-        "The case is considered a landmark ruling.",
-        "The ruling sets a precedent for online content and rights."
+        "The Redditor confessed to violating actresses' \"moral rights.\"",
+        "The ruling is considered a landmark decision.",
+        "The case involved the sharing of explicit content.",
+        "The verdict sets a precedent regarding moral rights."
       ]
     },
     {
-      "id": "cluster_68",
+      "id": "cluster_77",
       "coverage": 1,
       "updated_at": "Tue, 11 Nov 2025 17:18:58 +0000",
       "title": "US states could lose $21 billion of broadband grants after Trump overhaul",
-      "neutral_headline": "US States Could Lose Broadband Grants After Trump Overhaul",
+      "neutral_headline": "US States Could Lose $21 Billion Broadband Grants",
       "items": [
         {
           "source": "Ars Technica",
@@ -434,26 +462,26 @@
           "title": "US states could lose $21 billion of broadband grants after Trump overhaul",
           "standfirst": "Ernst bill would send broadband grant money to Treasury for deficit reduction.",
           "content": "A Senate Republican has drafted legislation that would effectively cut a $42 billion broadband deployment program in half. The bill would complement the Trump administration overhaul of the $42.45 billion Broadband Equity, Access, and Deployment (BEAD) program. The administration required states to rewrite their grant plans, reducing the overall projected spending and diverting some of the money from fiber projects to satellite. The result is that over $21 billion is projected to be left over after money is allocated to projects that expand broadband access. Current US law allows nondeployment funds to be used for other broadband-related purposes, like providing Wi-Fi and Internet-capable devices to US residents. But a draft bill by Sen. Joni Ernst (R-Iowa) would change the law to redirect all the remaining money to the US Treasury for deficit reduction.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/shredded-money-1152x648-1762880813.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/shredded-money-1152x648-1762880813.jpg",
-      "popularity_score": 298.9850025,
+      "popularity_score": 285.0148052777778,
       "ai_summary": [
-        "Ernst bill proposes sending broadband grant money to the Treasury for deficit reduction.",
-        "This could result in US states losing up to twenty-one billion dollars in broadband grants.",
-        "The bill's impact would be significant on broadband infrastructure projects.",
-        "The proposal is part of a broader effort to address the national debt.",
-        "The bill's fate depends on legislative support and potential opposition."
+        "US states could lose $21 billion in broadband grants.",
+        "A Trump-backed bill would redirect grant money to the Treasury.",
+        "The bill aims to use the funds for deficit reduction.",
+        "The proposal could impact broadband infrastructure projects.",
+        "The bill's passage would affect state funding."
       ]
     },
     {
-      "id": "cluster_80",
+      "id": "cluster_90",
       "coverage": 1,
       "updated_at": "Tue, 11 Nov 2025 15:54:11 +0000",
       "title": "You won’t believe the excuses lawyers have after getting busted for using AI",
-      "neutral_headline": "Lawyers Offer Excuses After Being Busted for Using AI",
+      "neutral_headline": "Lawyers' Excuses After AI Use Violations",
       "items": [
         {
           "source": "Ars Technica",
@@ -462,26 +490,26 @@
           "title": "You won’t believe the excuses lawyers have after getting busted for using AI",
           "standfirst": "I got hacked; I lost my login; it was a rough draft; toggling windows is hard.",
           "content": "Amid what one judge called an “epidemic” of fake AI-generated case citations bogging down courts, some common excuses are emerging from lawyers hoping to dodge the most severe sanctions for filings deemed misleading. Using a database compiled by French lawyer and AI researcher Damien Charlotin, Ars reviewed 23 cases where lawyers were sanctioned for AI hallucinations. In many, judges noted that the simplest path to avoid or diminish sanctions was to admit that AI was used as soon as it’s detected, act humble, self-report the error to relevant legal associations, and voluntarily take classes on AI and law. But not every lawyer takes the path of least resistance, Ars’ review found, with many instead offering excuses that no judge found credible. Some even lie about their AI use, judges concluded. Since 2023—when fake AI citations started being publicized—the most popular excuse has been that the lawyer didn’t know AI was used to draft a filing.Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/ai-shrugging-lawyer-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/ai-shrugging-lawyer-1152x648.jpg",
-      "popularity_score": 298.57194694444445,
+      "popularity_score": 284.6017497222222,
       "ai_summary": [
-        "Lawyers have offered various excuses for using AI in legal work.",
-        "Excuses include claims of being hacked and losing login credentials.",
-        "Some lawyers cited rough drafts or difficulty toggling windows as reasons.",
-        "These excuses highlight the challenges of AI integration in legal practice.",
-        "The incidents raise questions about ethical use of AI in the legal field."
+        "Lawyers have offered various excuses for using AI improperly.",
+        "Excuses include being hacked, lost logins, and rough drafts.",
+        "Some lawyers cited difficulty with toggling windows.",
+        "The excuses were given after being caught using AI.",
+        "The cases involve violations of legal ethics."
       ]
     },
     {
-      "id": "cluster_94",
+      "id": "cluster_103",
       "coverage": 1,
       "updated_at": "Tue, 11 Nov 2025 12:30:51 +0000",
       "title": "ClickFix may be the biggest security threat your family has never heard of",
-      "neutral_headline": "ClickFix May Be Biggest Security Threat Your Family Has Never Heard Of",
+      "neutral_headline": "ClickFix: A Major Security Threat",
       "items": [
         {
           "source": "Ars Technica",
@@ -490,26 +518,26 @@
           "title": "ClickFix may be the biggest security threat your family has never heard of",
           "standfirst": "Relatively new technique can bypass many endpoint protections.",
           "content": "Over the past year, scammers have ramped up a new way to infect the computers of unsuspecting people. The increasingly common method, which many potential targets have yet to learn of, is quick, bypasses most endpoint protections, and works against both macOS and Windows users. ClickFix often starts with an email sent from a hotel that the target has a pending registration with and references the correct registration information. In other cases, ClickFix attacks begin with a WhatsApp message. In still other cases, the user receives the URL at the top of Google results for a search query. Once the mark accesses the malicious site referenced, it presents a CAPTCHA challenge or other pretext requiring user confirmation. The user receives an instruction to copy a string of text, open a terminal window, paste it in, and press Enter. One line is all it takes Once entered, the string of text causes the PC or Mac to surreptitiously visit a scammer-controlled server and download malware. Then, the machine automatically installs it—all with no indication to the target. With that, users are infected, usually with credential-stealing malware. Security firms say ClickFix campaigns have run rampant. The lack of awareness of the technique, combined with the links also coming from known addresses or in search results, and the ability to bypass some endpoint protections are all factors driving the growth.Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
-      "popularity_score": 270.18305805555553,
+      "popularity_score": 259,
       "ai_summary": [
-        "ClickFix is a relatively new security threat technique.",
-        "It can bypass many endpoint protection measures.",
-        "The technique poses a significant risk to family security.",
-        "It highlights the evolving nature of cybersecurity threats.",
-        "Awareness of ClickFix is crucial for effective protection."
+        "ClickFix may be a significant security threat.",
+        "The technique can bypass many endpoint protections.",
+        "It is a relatively new security vulnerability.",
+        "The threat may be unknown to many families.",
+        "The technique poses a risk to computer security."
       ]
     },
     {
-      "id": "cluster_81",
+      "id": "cluster_91",
       "coverage": 1,
       "updated_at": "Tue, 11 Nov 2025 15:15:01 +0000",
       "title": "Pirelli’s Cyber Tire might become highway agencies’ newest assistant",
-      "neutral_headline": "Pirelli’s Cyber Tire Could Become Highway Agencies’ Assistant",
+      "neutral_headline": "Pirelli Cyber Tire Assists Highway Agencies and Drivers",
       "items": [
         {
           "source": "Ars Technica",
@@ -518,54 +546,26 @@
           "title": "Pirelli’s Cyber Tire might become highway agencies’ newest assistant",
           "standfirst": "Pirelli's Cyber Tire can work for the greater good as well as the driver.",
           "content": "Pirelli’s sensor-embedded Cyber Tire is starting to find a whole new niche helping traffic agencies. When we first learned of the smart tire, it was making its debut fitted to McLaren’s then-new plug-in hybrid supercar. As an alternative to a tire pressure monitoring system fitted to the car’s wheels, the Cyber Tire wirelessly reports its temperature and pressure to its car via Bluetooth Low Energy, along with some specific information about the tire itself. Since then, Pirelli has continued to develop the technology. When it created Cyber Tires for the Pagani Utopia, it allowed a car to tailor its antilock braking and electronic stability control to the specific rubber fitted to the wheels. Right now, a car’s ABS or ESC will be tuned regardless of the tires it’s fitted to. But a high-performance summer tire acts quite differently from a winter tire, not just because of the composition of the rubber but also due to the tread pattern, depth, and stiffness, not to mention factors like sidewall stiffness. And the Utopia can take advantage of that fact.Read full article Comments",
-          "feed_position": 7,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-875478034-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-875478034-1152x648.jpg",
-      "popularity_score": 266.9191691666667,
+      "popularity_score": 253,
       "ai_summary": [
-        "Pirelli's Cyber Tire has potential applications beyond driver assistance.",
-        "It can benefit highway agencies and contribute to public safety.",
-        "The tire technology can provide valuable data and insights.",
-        "It could improve traffic management and infrastructure maintenance.",
-        "The Cyber Tire represents an innovative approach to road safety."
+        "Pirelli's Cyber Tire collects data on road conditions and tire performance.",
+        "The tire can transmit information to highway agencies for maintenance planning.",
+        "It also provides drivers with real-time safety and performance data.",
+        "This technology aims to improve road safety and optimize vehicle performance.",
+        "The Cyber Tire is designed to benefit both drivers and infrastructure management."
       ]
     },
     {
-      "id": "cluster_103",
-      "coverage": 1,
-      "updated_at": "Tue, 11 Nov 2025 00:39:13 +0000",
-      "title": "Neutron rocket’s debut slips into mid-2026 as company seeks success from the start",
-      "neutral_headline": "Neutron Rocket Debut Delayed to Mid-2026",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2025/11/neutron-rockets-debut-slips-into-mid-2026-as-company-seeks-success-from-the-start/",
-          "published_at": "Tue, 11 Nov 2025 00:39:13 +0000",
-          "title": "Neutron rocket’s debut slips into mid-2026 as company seeks success from the start",
-          "standfirst": "\"Those who have failed to deliver are numerous.\"",
-          "content": "During an earnings call on Monday, Rocket Lab chief executive Peter Beck announced that the company’s medium-lift launch vehicle, Neutron, would not launch this year. For anyone with the slightest understanding of the challenges involved in bringing a new rocket to the launch pad, as well as a calendar, the delay does not come as a surprise. Although Rocket Lab had been holding onto the possibility of launching Neutron this year publicly, it has been clear for months that a slip into 2026 was inevitable. According to Beck, speaking during a third-quarter 2025 earnings call, the new timeline has the company bringing Neutron to Launch Complex 2 at Wallops Flight Facility in Virginia during the first quarter of next year. The first launch is scheduled to occur “thereafter,” according to the company’s plans.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Neutron-Stack-Deploy-Artwork_med__ScaleHeightWzg1MF0-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Neutron-Stack-Deploy-Artwork_med__ScaleHeightWzg1MF0-1152x648.jpg",
-      "popularity_score": 243,
-      "ai_summary": [
-        "Neutron rocket's debut has been pushed back to mid-2026.",
-        "The company aims for success from the very beginning of operations.",
-        "The delay reflects the complexities of rocket development.",
-        "The company acknowledges the challenges of delivering on time.",
-        "The launch date is subject to further adjustments based on progress."
-      ]
-    },
-    {
-      "id": "cluster_110",
+      "id": "cluster_119",
       "coverage": 1,
       "updated_at": "Mon, 10 Nov 2025 23:06:42 +0000",
       "title": "Researchers isolate memorization from problem-solving in AI neural networks",
-      "neutral_headline": "Researchers Isolate Memorization from Problem-Solving in AI",
+      "neutral_headline": "Researchers Separate Memorization and Problem Solving in AI",
       "items": [
         {
           "source": "Ars Technica",
@@ -574,22 +574,22 @@
           "title": "Researchers isolate memorization from problem-solving in AI neural networks",
           "standfirst": "Basic arithmetic ability lives in the memorization pathways, not logic circuits.",
           "content": "When engineers build AI language models like GPT-5 from training data, at least two major processing features emerge: memorization (reciting exact text they’ve seen before, like famous quotes or passages from books) and what you might call “reasoning” (solving new problems using general principles). New research from AI startup Goodfire.ai provides the first potentially clear evidence that these different functions actually work through completely separate neural pathways in the model’s architecture. The researchers discovered that this separation proves remarkably clean. In a preprint paper released in late October, they described that when they removed the memorization pathways, models lost 97 percent of their ability to recite training data verbatim but kept nearly all their “logical reasoning” ability intact. For example, at layer 22 in Allen Institute for AI’s OLMo-7B language model, the researchers ranked all the weight components (the mathematical values that process information) from high to low based on a measure called “curvature” (which we’ll explain more below). When they examined these ranked components, the bottom 50 percent of weight components showed 23 percent higher activation on memorized data, while the top 10 percent showed 26 percent higher activation on general, non-memorized text.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 12,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/surprised_robot_2-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/surprised_robot_2-1152x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "Researchers have separated memorization from problem-solving in AI.",
-        "Basic arithmetic ability resides in memorization pathways.",
-        "Logic circuits are not the primary location for arithmetic skills.",
-        "This research advances understanding of AI neural networks.",
-        "The findings could improve AI design and functionality."
+        "Researchers isolated memorization pathways from logic circuits in AI.",
+        "Basic arithmetic skills were found in memorization pathways, not logic circuits.",
+        "This research helps understand how AI learns and processes information.",
+        "The findings could improve AI's ability to solve complex problems.",
+        "The study suggests different approaches for AI development and training."
       ]
     },
     {
-      "id": "cluster_129",
+      "id": "cluster_136",
       "coverage": 1,
       "updated_at": "Mon, 10 Nov 2025 16:29:34 +0000",
       "title": "The Running Man’s final trailer amps up the high-octane action",
@@ -602,26 +602,26 @@
           "title": "The Running Man’s final trailer amps up the high-octane action",
           "standfirst": "Get ready for what could be the \"biggest underdog win in game show history.\"",
           "content": "It’s shaping up to be an excellent season for Stephen King adaptations. In September, we got The Long Walk, an excellent (though harrowing) adaptation of King’s 1979 Richard Bachman novel. Last month, HBO debuted its new series IT: Welcome to Derry, which explores the mythology and origins of Pennywise the killer clown. And this Friday is the premiere of The Running Man, director Edgar Wright’s (Shaun of the Dead, Baby Driver, Last Night in Soho) take on King’s novel of the same name. So naturally Paramount has released a final trailer to lure us to the theater. As previously reported, the 1987 action film starring Schwarzenegger was only loosely based on King’s novel, preserving the basic concept and very little else in favor of more sci-fi gadgetry and high-octane action. It was a noisy, entertaining romp—and very late ’80s—but it lacked King’s subtler satirical tone. Wright expressed interest in adapting his own version of The Running Man in 2017, and Paramount greenlit the project four years later. Wright and co-screenwriter Michael Bacall envisioned their film as less of a remake and more of a faithful adaptation of King’s original novel. (We’ll see if that faithfulness extends to the novel’s bleak ending.) Per the official premise:Read full article Comments",
-          "feed_position": 16,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/running1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/running1-1152x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "The final trailer for The Running Man has been released.",
-        "It emphasizes high-octane action sequences.",
-        "The trailer previews what could be a major underdog victory.",
-        "The film is expected to deliver thrilling entertainment.",
-        "The release builds anticipation among fans of the franchise."
+        "The final trailer for The Running Man movie has been released.",
+        "It promises intense action sequences and high-stakes competition.",
+        "The film is expected to feature a dramatic underdog story.",
+        "The trailer highlights the film's visual effects and stunts.",
+        "The movie is anticipated to be a major release."
       ]
     },
     {
-      "id": "cluster_122",
+      "id": "cluster_129",
       "coverage": 1,
       "updated_at": "Mon, 10 Nov 2025 18:41:42 +0000",
       "title": "Apple TV execs dismiss introducing an ad tier, buying Warner Bros.",
-      "neutral_headline": "Apple TV Executives Dismiss Ad Tier, Buying Warner Bros",
+      "neutral_headline": "Apple TV Executives Discuss Ad Tier and Warner Bros",
       "items": [
         {
           "source": "Ars Technica",
@@ -630,22 +630,50 @@
           "title": "Apple TV execs dismiss introducing an ad tier, buying Warner Bros.",
           "standfirst": "Apple execs say Apple TV shows and movies are about \"emotional\" experiences.",
           "content": "The heads of Apple TV have “no plans” to bring ads to the streaming service, balking, at least for now, at a strategy that has driven success for Apple’s streaming rivals. In its November 2025 issue, British movie magazine Screen International asked Eddy Cue, senior vice president of Apple Services, if there are plans to launch an ad-based subscription tier for Apple TV. Cue responded: Nothing at this time. … I don’t want to say no forever, but there are no plans. If we can stay aggressive with our pricing, it’s better for consumers not to get interrupted with ads. The comments follow reports over the years suggesting that Apple has been seeking knowledge on how to build a streaming ads business. Most recently, The Telegraph reported that Apple TV executives met with the United Kingdom’s ratings body, Barb, to discuss what tracking ads on Apple TV would look like. In 2023, Apple hired advertising exec Lauren Fry as head of video and Apple News ad sales.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Severance_Photo_0201-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Severance_Photo_0201-1152x648.jpg",
       "popularity_score": 145,
       "ai_summary": [
-        "Apple TV executives have ruled out introducing an ad tier.",
-        "They also dismissed the idea of acquiring Warner Bros.",
-        "Apple executives emphasize \"emotional\" experiences in content.",
-        "The decisions reflect Apple's content strategy.",
-        "The company focuses on premium content offerings."
+        "Apple TV executives are not planning to introduce an ad-supported tier.",
+        "They emphasized the importance of emotional experiences in their content.",
+        "Apple executives dismissed the idea of acquiring Warner Bros.",
+        "The company focuses on creating premium content for its platform.",
+        "Apple is prioritizing its current strategy for Apple TV+."
       ]
     },
     {
-      "id": "cluster_106",
+      "id": "cluster_112",
+      "coverage": 1,
+      "updated_at": "Tue, 11 Nov 2025 00:39:13 +0000",
+      "title": "Neutron rocket’s debut slips into mid-2026 as company seeks success from the start",
+      "neutral_headline": "Neutron Rocket Debut Delayed to Mid-2026",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2025/11/neutron-rockets-debut-slips-into-mid-2026-as-company-seeks-success-from-the-start/",
+          "published_at": "Tue, 11 Nov 2025 00:39:13 +0000",
+          "title": "Neutron rocket’s debut slips into mid-2026 as company seeks success from the start",
+          "standfirst": "\"Those who have failed to deliver are numerous.\"",
+          "content": "During an earnings call on Monday, Rocket Lab chief executive Peter Beck announced that the company’s medium-lift launch vehicle, Neutron, would not launch this year. For anyone with the slightest understanding of the challenges involved in bringing a new rocket to the launch pad, as well as a calendar, the delay does not come as a surprise. Although Rocket Lab had been holding onto the possibility of launching Neutron this year publicly, it has been clear for months that a slip into 2026 was inevitable. According to Beck, speaking during a third-quarter 2025 earnings call, the new timeline has the company bringing Neutron to Launch Complex 2 at Wallops Flight Facility in Virginia during the first quarter of next year. The first launch is scheduled to occur “thereafter,” according to the company’s plans.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Neutron-Stack-Deploy-Artwork_med__ScaleHeightWzg1MF0-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Neutron-Stack-Deploy-Artwork_med__ScaleHeightWzg1MF0-1152x648.jpg",
+      "popularity_score": 133,
+      "ai_summary": [
+        "Neutron rocket's first launch is now scheduled for mid-2026.",
+        "The company aims for a successful debut from the beginning.",
+        "The delay is due to various development and testing factors.",
+        "The company acknowledges the challenges of rocket development.",
+        "The goal is to avoid the pitfalls of previous failures."
+      ]
+    },
+    {
+      "id": "cluster_115",
       "coverage": 1,
       "updated_at": "Mon, 10 Nov 2025 23:34:09 +0000",
       "title": "Intuitive Machines—known for its Moon landers—will become a military contractor",
@@ -658,7 +686,7 @@
           "title": "Intuitive Machines—known for its Moon landers—will become a military contractor",
           "standfirst": "\"They've been Ford Aerospace, Space Systems/Loral, Maxar, Lanteris, and now it'll be Intuitive Machines.\"",
           "content": "Intuitive Machines announced last week an $800 million acquisition that will catapult the one-time startup into the space industry establishment. The company’s planned purchase of Lanteris Space Systems, a satellite manufacturer you may have never heard of, is rather significant. Lanteris is the latest addition to a line of corporate brands that dates back to 1957. Until last month, the company was known as Maxar Space Systems. Its acquisition by Intuitive Machines would be perhaps the industry’s most evident example of a “New Space” firm buying up an “Old Space” company. The deal would help Intuitive Machines expand beyond its core competency of Moon missions to the broader sector of satellite manufacturing and space services. Lanteris has been owned since 2023 by Advent International, a private equity firm. The transaction is expected to close early next year, subject to “customary regulatory approvals and closing conditions,” according to Intuitive Machines.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 11,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/lanterisppe-1152x648.jpg"
         }
       ],
@@ -666,18 +694,18 @@
       "popularity_score": 133,
       "ai_summary": [
         "Intuitive Machines, known for Moon landers, will become a military contractor.",
-        "The company has a history of changing names and affiliations.",
-        "It has been associated with various aerospace entities.",
-        "The move signifies a shift in the company's focus.",
-        "The company will now provide services to the military."
+        "The company will provide services to the United States military.",
+        "This move expands Intuitive Machines' business operations.",
+        "The company has a history of working with government agencies.",
+        "The shift reflects a growing trend in the space industry."
       ]
     },
     {
-      "id": "cluster_112",
+      "id": "cluster_121",
       "coverage": 1,
       "updated_at": "Mon, 10 Nov 2025 22:10:04 +0000",
       "title": "Canada fought measles and measles won; virus now endemic after 1998 elimination",
-      "neutral_headline": "Canada Fought Measles, Measles Won; Virus Now Endemic",
+      "neutral_headline": "Measles Becomes Endemic in Canada After Elimination",
       "items": [
         {
           "source": "Ars Technica",
@@ -686,26 +714,26 @@
           "title": "Canada fought measles and measles won; virus now endemic after 1998 elimination",
           "standfirst": "Canada's loss also represents a loss of regional elimination for the Americas.",
           "content": "Canada has lost its measles elimination status, meaning the highly infectious virus is considered endemic once again in the country, The Pan American Health Organization (PAHO) announced Monday. The determination was made by a committee of PAHO experts, who spent last week poring over disease data to assess the measles status of countries across the entire region. The fact that Canada has lost its elimination status means that the region of the Americas overall has also lost the status, which it achieved in 2016. Of the 35 countries and territories in the region—a health region designated by the World Health Organization—Canada is currently the only country where measles is considered to be spreading endemically, though other countries, namely the US and Mexico, are headed in the same direction. Measles is considered eliminated when a country can go 12 months without continuous local spread. Sporadic cases brought in from international travel can continue to occur, potentially causing limited outbreaks. But elimination is lost and endemicity is declared only when transmission is sustained over the course of a year.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2224876606-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2224876606-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Canada's efforts to eliminate measles have failed.",
-        "Measles is now considered endemic in Canada.",
-        "The loss represents a setback for regional elimination.",
-        "The Americas region also faces a loss of elimination.",
-        "The situation highlights the challenges of disease control."
+        "Measles is now endemic in Canada after being eliminated in 1998.",
+        "The loss represents a setback for regional elimination efforts.",
+        "The virus continues to circulate within the Canadian population.",
+        "This situation highlights the importance of vaccination programs.",
+        "Canada's experience serves as a warning for other countries."
       ]
     },
     {
-      "id": "cluster_123",
+      "id": "cluster_130",
       "coverage": 1,
       "updated_at": "Mon, 10 Nov 2025 18:09:28 +0000",
       "title": "New project brings strong Linux compatibility to more classic Windows games",
-      "neutral_headline": "New Project Brings Linux Compatibility to Windows Games",
+      "neutral_headline": "New Project Improves Linux Compatibility for Windows Games",
       "items": [
         {
           "source": "Ars Technica",
@@ -714,26 +742,26 @@
           "title": "New project brings strong Linux compatibility to more classic Windows games",
           "standfirst": "But author warns that Direct3D 7 \"is a land of highly cursed API inter-operability.\"",
           "content": "For years now, Valve has been slowly improving the capabilities of the Proton compatibility layer that lets thousands of Windows games work seamlessly on the Linux-based SteamOS. But Valve’s Windows-to-Linux compatibility layer generally only extends back to games written for Direct3D 8, the proprietary Windows graphics API Microsoft released in late 2000. Now, a new open source project is seeking to extend Linux interoperability further back into PC gaming history. The d7vk project describes itself as “a Vulkan-based translation layer for Direct3D 7 [D3D7], which allows running 3D applications on Linux using Wine.” More options are always welcome The new project isn’t the first attempt to get Direct3D 7 games running on Linux. Wine‘s own built-in WineD3D compatibility layer has supported D3D7 in some form or another for at least two decades now. But the new d7vk project instead branches off the existing dxvk compatibility layer, which is already used by Valve’s Proton for SteamOS and which reportedly offers better performance than WineD3D on many games.Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/arxfatalis.png"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/arxfatalis.png",
       "popularity_score": 133,
       "ai_summary": [
-        "A new project enhances Linux compatibility for Windows games.",
-        "The project supports more classic Windows games.",
-        "The author warns of challenges with Direct3D 7 API.",
-        "The project aims to improve game compatibility.",
-        "It offers a solution for playing older games on Linux."
+        "A new project enhances Linux compatibility for classic Windows games.",
+        "It allows more older games to run on Linux operating systems.",
+        "The author warns about the complexities of Direct3D 7.",
+        "The project aims to improve the gaming experience on Linux.",
+        "It addresses compatibility issues with older game APIs."
       ]
     },
     {
-      "id": "cluster_126",
+      "id": "cluster_133",
       "coverage": 1,
       "updated_at": "Mon, 10 Nov 2025 17:37:14 +0000",
       "title": "Runaway black hole mergers may have built supermassive black holes",
-      "neutral_headline": "Runaway Black Hole Mergers May Have Built Supermassive Black Holes",
+      "neutral_headline": "Runaway Black Hole Mergers May Have Built Black Holes",
       "items": [
         {
           "source": "Ars Technica",
@@ -742,7 +770,7 @@
           "title": "Runaway black hole mergers may have built supermassive black holes",
           "standfirst": "Early superdense star clusters may have planted seeds for monster black holes.",
           "content": "A new simulation could help solve one of astronomy’s longstanding mysteries—how supermassive black holes formed so rapidly—along with a new one: What are the James Webb Space Telescope’s (JWST) “little red dots?” Invisible leviathans lurk at the cores of nearly all of the 2 trillion or so galaxies strewn throughout space-time. Monster black holes entered the cosmic scene soon after the Universe’s birth and grew rapidly, reaching millions or even billions of times the Sun’s mass in less than a billion years. Astronomers have long wondered how these supermassive black holes could have grown so hefty in such little time. The monster black hole mystery became even more perplexing in 2022 when “little red dots” were spotted at the far edges of space. When these tiny scarlet orbs began unexpectedly popping up in JWST images of the distant Universe, their nature was hotly debated. Now that scientists have amassed a sample of hundreds of them, many think the dots are growing supermassive black holes.Read full article Comments",
-          "feed_position": 15,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/image-1-1152x648-1762702202.png"
         }
       ],
@@ -750,18 +778,18 @@
       "popularity_score": 133,
       "ai_summary": [
         "Runaway black hole mergers may have created supermassive black holes.",
-        "Early superdense star clusters could have seeded monster black holes.",
-        "The mergers are a potential mechanism for black hole growth.",
-        "The research explores the origins of supermassive black holes.",
-        "The findings contribute to understanding galaxy evolution."
+        "Early star clusters may have provided the seeds for these black holes.",
+        "The research explores the formation of supermassive black holes.",
+        "The study offers insights into the evolution of galaxies.",
+        "The findings could change our understanding of the universe."
       ]
     },
     {
-      "id": "cluster_132",
+      "id": "cluster_139",
       "coverage": 1,
       "updated_at": "Mon, 10 Nov 2025 16:10:06 +0000",
       "title": "F1 in Brazil: That’s what generational talent looks like",
-      "neutral_headline": "F1 in Brazil: That’s What Generational Talent Looks Like",
+      "neutral_headline": "Formula 1 in Brazil Showcases Generational Talent",
       "items": [
         {
           "source": "Ars Technica",
@@ -770,26 +798,26 @@
           "title": "F1 in Brazil: That’s what generational talent looks like",
           "standfirst": "Filled with passionate fans, the racetrack between the lakes is a favorite.",
           "content": "After a weekend off, perhaps spent trick or treating, Formula 1’s drivers, engineers, and mechanics made their yearly trip to the Interlagos track for the Brazilian Grand Prix. More formally called the Autodromo Jose Carlos Pace, it’s definitely one of the more old-school circuits that F1 visits—and invariably one of the more dramatic. For one thing, it’s anything but billiard-smooth. Better yet, there’s elevation—lots of it—and cambers, too. Unlike most F1 tracks, it runs counterclockwise, and it combines some very fast sections with several rather technical corners that can catch out even the best drivers in the world. Nestled between a couple of lakes in São Paulo, weather is also a regular factor in races here. And indeed, a severe weather warning was issued in the lead-up to this weekend’s race. You have to hit the ground running This was another sprint weekend, which means that instead of two practice sessions on Friday and another on Saturday morning, the teams get one on Friday, then go into qualifying for the Saturday sprint race. The shortened testing time tends to shake things up a bit, and we definitely saw that this weekend.Read full article Comments",
-          "feed_position": 17,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2245155272-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2245155272-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "The F1 race in Brazil showcased exceptional talent.",
-        "The racetrack between the lakes is a fan favorite.",
-        "The event is filled with passionate fans.",
-        "The race highlighted the skills of top drivers.",
-        "The Brazilian Grand Prix is a highlight of the season."
+        "The Formula 1 race in Brazil highlights exceptional driving skills.",
+        "The racetrack is a favorite among fans due to its atmosphere.",
+        "The race features passionate fans and a vibrant environment.",
+        "The event showcases the best drivers in the world.",
+        "The Brazilian Grand Prix is a significant event in F1."
       ]
     },
     {
-      "id": "cluster_139",
+      "id": "cluster_146",
       "coverage": 1,
       "updated_at": "Mon, 10 Nov 2025 12:00:24 +0000",
       "title": "NASA is kind of a mess: Here are the top priorities for a new administrator",
-      "neutral_headline": "NASA Is Kind of a Mess: Here Are the Top Priorities",
+      "neutral_headline": "NASA's Priorities for a New Administrator Outlined",
       "items": [
         {
           "source": "Ars Technica",
@@ -798,18 +826,18 @@
           "title": "NASA is kind of a mess: Here are the top priorities for a new administrator",
           "standfirst": "\"He inevitably will have to make tough calls.\"",
           "content": "After a long summer and fall of uncertainty, private astronaut Jared Isaacman has been renominated to lead NASA, and there appears to be momentum behind getting him confirmed quickly as the space agency’s 15th administrator. It is possible, although far from a lock, the Senate could finalize his nomination before the end of this year. It cannot happen soon enough. The National Aeronautics and Space Administration is, to put it bluntly, kind of a mess. This is not meant to disparage the many fine people who work at NASA. But years of neglect, changing priorities, mismanagement, creeping bureaucracy, meeting bloat, and other factors have taken their toll. NASA is still capable of doing great things. It still inspires. But it needs a fresh start.Read full article Comments",
-          "feed_position": 18,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/polaris-dawn-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/polaris-dawn-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "NASA faces challenges and requires a new administrator.",
-        "The new administrator will need to make tough decisions.",
-        "The article outlines top priorities for the new leader.",
-        "The priorities include addressing current issues.",
-        "The focus is on improving NASA's performance."
+        "NASA faces several challenges and priorities for a new administrator.",
+        "The new administrator will need to make difficult decisions.",
+        "The agency is dealing with various internal issues.",
+        "The priorities include budget allocation and project management.",
+        "The new leader will shape NASA's future direction."
       ]
     }
   ]
