@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2025-11-15T19:13:34.190Z",
+    "updated_at": "2025-11-15T23:17:18.578Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-11-15T19:13:46.530Z",
+    "updated_at": "2025-11-15T23:17:33.556Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/a9e3ec9d-38ba-4f5b-9108-b406e6b61eb6/Health-Minister-questioned-about-bulk-billing-rhetoric-at-GP25.aspx",
         "ai_summary": [
-          "The Royal Australian College of General Practitioners (RACGP) held its GP25 conference.",
-          "The conference opened with a discussion between the RACGP President and Mark Butler.",
-          "The discussion focused on the Health Minister's rhetoric regarding bulk-billing.",
-          "The conference had 2000 attendees on its first day.",
-          "The conference took place in Brisbane."
+          "The Health Minister faced questions regarding bulk-billing at the GP25 conference.",
+          "The Royal Australian College of General Practitioners hosted the conference in Brisbane.",
+          "The conference's opening session featured a discussion with the RACGP President.",
+          "Approximately 2000 attendees participated in the first day of the conference.",
+          "The discussion between the RACGP President and Mark Butler was frank."
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/1720f994-b310-476b-9779-417f29234426/Aged-care-pilot-aims-to-improve-medicine-safety.aspx",
         "ai_summary": [
-          "A pilot study is assessing medication management in aged care homes.",
-          "The study focuses on clinical work within care homes.",
-          "The study aims to improve medicine safety for elderly patients.",
-          "Medication management is recognized as a source of preventable harm.",
-          "The pilot study is designed to address this issue."
+          "A pilot program is underway to enhance medication safety in aged care facilities.",
+          "The study evaluates medication management practices in care homes.",
+          "The research focuses on clinical work within aged care settings.",
+          "The project addresses medication-related issues in care homes.",
+          "The study recognizes medication errors as a source of preventable harm."
         ]
       },
       {
@@ -80,25 +80,62 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/1cd0c466-abc4-4ab0-b0df-1462e61868bb/Influencers-warned-to-align-with-TGA-advice.aspx",
         "ai_summary": [
-          "The Therapeutic Goods Administration (TGA) is cracking down on social media ads.",
-          "The TGA is targeting the promotion of prescription-only medicines.",
-          "Influencers are being warned to comply with TGA guidelines.",
-          "The crackdown is due to a rise in unlawful advertisements.",
-          "The TGA aims to ensure responsible medicine promotion."
+          "The Therapeutic Goods Administration is warning influencers about medicine promotion.",
+          "The TGA is addressing the rise of unlawful advertisements on social media.",
+          "The focus is on the promotion of prescription-only medications.",
+          "Influencers are advised to comply with TGA guidelines.",
+          "The crackdown aims to ensure responsible medicine advertising practices."
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2025-11-15T19:13:37.287Z",
+    "updated_at": "2025-11-15T23:17:25.409Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
-        "updated_at": "Sat, 15 Nov 2025 17:09:03 GMT",
-        "title": "Thousands march outside COP30 summit in call for action",
-        "neutral_headline": "Thousands march outside COP30 summit in call for action",
+        "updated_at": "Sat, 15 Nov 2025 22:09:37 GMT",
+        "title": "'I didn't tell anyone about my medical cannabis prescription'",
+        "neutral_headline": "I didn't tell anyone about my medical cannabis prescription': More than 50,000 people in the UK each month get a private prescription for medical cannabis",
         "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/videos/cvg43vdk37no?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 15 Nov 2025 22:09:37 GMT",
+            "title": "'I didn't tell anyone about my medical cannabis prescription'",
+            "standfirst": "More than 50,000 people in the UK each month get a private prescription for medical cannabis.",
+            "content": "More than 50,000 people in the UK each month get a private prescription for medical cannabis.",
+            "feed_position": 100,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/843d/live/90059a90-c131-11f0-ae46-bd64331f0fd4.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/843d/live/90059a90-c131-11f0-ae46-bd64331f0fd4.jpg",
+        "ai_summary": [
+          "Over 50,000 people in the UK receive private prescriptions for medical cannabis monthly.",
+          "The article discusses the experiences of individuals using medical cannabis.",
+          "The focus is on the privacy surrounding medical cannabis prescriptions.",
+          "The article highlights the growing use of medical cannabis in the UK.",
+          "The article explores the personal stories of medical cannabis users."
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Sat, 15 Nov 2025 19:19:48 GMT",
+        "title": "Thousands take to streets of Glasgow to highlight 'climate emergency'",
+        "neutral_headline": "Thousands take to streets of Glasgow to highlight 'climate emergency': Demonstrators marched through the city centre on a day of global action to coincide with the COP30 climate talks in Brazil",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/videos/c0rpee2je5go?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 15 Nov 2025 19:19:48 GMT",
+            "title": "Thousands take to streets of Glasgow to highlight 'climate emergency'",
+            "standfirst": "Demonstrators marched through the city centre on a day of global action to coincide with the COP30 climate talks in Brazil.",
+            "content": "Demonstrators marched through the city centre on a day of global action to coincide with the COP30 climate talks in Brazil.",
+            "feed_position": 7,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e5c/live/c03d6e00-c257-11f0-ae46-bd64331f0fd4.jpg"
+          },
           {
             "source": "BBC Science",
             "url": "https://www.bbc.com/news/articles/cy40z22qqwwo?at_medium=RSS&at_campaign=rss",
@@ -106,8 +143,8 @@
             "title": "Thousands march outside COP30 summit in call for action",
             "standfirst": "This is the first time since 2021 that protesters have been allowed to demonstrate outside the UN talks.",
             "content": "This is the first time since 2021 that protesters have been allowed to demonstrate outside the UN talks.",
-            "feed_position": 7,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a94/live/1093fae0-c249-11f0-8669-5560f5c90fbe.jpg"
+            "feed_position": 8,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6269/live/0e701860-c268-11f0-a3d5-9d7d626b89bd.jpg"
           },
           {
             "source": "BBC Science",
@@ -116,25 +153,25 @@
             "title": "Thousands take to streets to highlight 'climate emergency'",
             "standfirst": "Demonstrators marched through Glasgow city centre on a day of global action to coincide with the COP30 climate talks in Brazil.",
             "content": "Demonstrators marched through Glasgow city centre on a day of global action to coincide with the COP30 climate talks in Brazil.",
-            "feed_position": 8,
+            "feed_position": 9,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95f6/live/bbcde1e0-c236-11f0-a786-17e554da8bc7.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a94/live/1093fae0-c249-11f0-8669-5560f5c90fbe.jpg",
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e5c/live/c03d6e00-c257-11f0-ae46-bd64331f0fd4.jpg",
         "ai_summary": [
-          "Thousands of people marched outside the COP30 summit.",
-          "Protesters called for action on climate change.",
-          "This was the first protest outside UN talks since 2021.",
-          "The march coincided with the COP30 climate talks in Brazil.",
-          "Demonstrators highlighted the \"climate emergency\"."
+          "Demonstrators marched in Glasgow to highlight the climate emergency.",
+          "The demonstrations occurred on a day of global climate action.",
+          "The protests coincided with the COP30 climate talks in Brazil.",
+          "This is the first time since 2021 that protesters have demonstrated outside the UN talks.",
+          "Thousands of people participated in the marches in Glasgow."
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sat, 15 Nov 2025 09:03:51 GMT",
         "title": "Our third date was at a fertility clinic - finding love with endometriosis",
-        "neutral_headline": "Our third date was at a fertility clinic - finding love with endometriosis",
+        "neutral_headline": "Our third date was at a fertility clinic - finding love with endometriosis: For Sophie Richards those early conversations were just part of the daunting prospect of finding love when you have endometriosis",
         "items": [
           {
             "source": "BBC Health",
@@ -149,19 +186,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb55/live/61e9c3a0-c15b-11f0-8456-eff94716b162.jpg",
         "ai_summary": [
-          "Sophie Richards discussed finding love while living with endometriosis.",
-          "Early conversations about fertility were part of her dating experience.",
+          "The article discusses finding love while living with endometriosis.",
+          "The author's third date was at a fertility clinic.",
           "The article explores the challenges of dating with endometriosis.",
-          "Richards shared her experiences with the BBC.",
-          "The article focuses on the emotional aspects of dating."
+          "The author shares personal experiences of dating with the condition.",
+          "The article highlights the impact of endometriosis on relationships."
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 15 Nov 2025 08:00:05 GMT",
         "title": "After I burned out, physics helped me understand what had happened to me – and to move on | Zahaan Bharmal",
-        "neutral_headline": "After I burned out, physics helped me understand what had happened to me – and to move on | Zahaan Bharmal",
+        "neutral_headline": "Physics Helped Author Understand Burnout and Move On",
         "items": [
           {
             "source": "Guardian Health",
@@ -174,19 +211,19 @@
           }
         ],
         "ai_summary": [
-          "Zahaan Bharmal wrote about his experience with burnout.",
-          "He used physics to understand his experience and move forward.",
-          "He realized that hard work does not always equal success.",
-          "He is the author of \"The Art of Physics\" and a Google director.",
-          "The article discusses the impact of Newton's second law on his life."
+          "Author Zahaan Bharmal discusses how physics helped him understand his burnout experience.",
+          "He realized that hard work does not always guarantee success in life or career.",
+          "Bharmal's first job ended with redundancy, challenging his belief in Newton's laws.",
+          "The author is a senior director at Google and the author of \"The Art of Physics\".",
+          "He found comfort in the structured nature of physics during his youth."
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sat, 15 Nov 2025 05:00:00 GMT",
         "title": "UK warned that 15% cut to health fund will force ‘impossible choices’ on Africa",
-        "neutral_headline": "UK warned that 15% cut to health fund will force ‘impossible choices’ on Africa",
+        "neutral_headline": "UK Cuts to Health Fund May Force Difficult Choices",
         "items": [
           {
             "source": "Guardian Health",
@@ -199,15 +236,15 @@
           }
         ],
         "ai_summary": [
-          "The UK is cutting its funding to the Global Fund for Aids, TB, and malaria.",
-          "The cut is a 15% reduction in the UK's contribution.",
-          "Advocates fear other donors will follow the UK's lead.",
+          "The UK's 15% cut to the Global Fund for Aids, TB, and malaria is concerning.",
+          "Advocates fear other donors will reduce their commitments to the fund.",
+          "The UK is co-hosting the fund's replenishment drive with South Africa.",
           "The Gates Foundation is a major private contributor to the Global Fund.",
-          "The UK is co-hosting the fund's replenishment drive this year."
+          "Campaigners claim the UK is undermining its legacy in fighting diseases."
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Fri, 14 Nov 2025 23:15:11 GMT",
         "title": "The complications of dating with endometriosis",
@@ -226,19 +263,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaca/live/2466e250-c0a3-11f0-ae46-bd64331f0fd4.jpg",
         "ai_summary": [
-          "Sophie Richards discussed dating while living with endometriosis.",
-          "She is a women's health advocate.",
-          "She is now engaged to Dillon Lewis.",
-          "The article explores the challenges of dating.",
-          "The article focuses on the emotional aspects of dating."
+          "Women's health advocate Sophie Richards discusses dating with endometriosis.",
+          "The article focuses on the challenges and experiences of dating.",
+          "It highlights the impact of endometriosis on relationships.",
+          "Richards is now engaged to Dillon Lewis.",
+          "The article is a personal account of dating with the condition."
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Fri, 14 Nov 2025 18:08:03 GMT",
         "title": "Doctor strike inflicting pain and misery on patients, says health secretary",
-        "neutral_headline": "Doctor Strike Inflicts Pain on Patients, Says Health Secretary",
+        "neutral_headline": "Doctor strike inflicting pain and misery on patients",
         "items": [
           {
             "source": "BBC Health",
@@ -253,19 +290,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5625/live/34fa2590-c162-11f0-ae46-bd64331f0fd4.jpg",
         "ai_summary": [
-          "Health Secretary Wes Streeting calls the five-day resident doctor strike irresponsible.",
-          "The strike is causing pain and misery for patients, according to Streeting.",
-          "The strike involves resident doctors, impacting healthcare services.",
-          "Streeting's statement criticizes the actions of the striking doctors.",
-          "The strike duration is five days, causing disruption to patient care."
+          "Health Secretary Wes Streeting criticizes the resident doctors' strike.",
+          "The five-day strike by resident doctors is described as irresponsible.",
+          "The strike is causing pain and misery for patients.",
+          "Streeting is the current Health Secretary.",
+          "The strike is a major point of contention in the healthcare system."
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 14 Nov 2025 17:47:07 GMT",
         "title": "Sectioned children face more trauma in the institutions supposed to protect them | Letter",
-        "neutral_headline": "Sectioned children face more trauma in institutions",
+        "neutral_headline": "Sectioned children face more trauma in the institutions supposed to protect them",
         "items": [
           {
             "source": "Guardian Health",
@@ -278,15 +315,15 @@
           }
         ],
         "ai_summary": [
-          "A parent shares grief over daughter's death after detention under Mental Health Act.",
-          "The parent recalls feelings of horror at loss of control during daughter's sectioning.",
-          "The daughter suffered from an eating disorder and was sectioned three times.",
-          "The article reflects on the impact of mental health institutions on children.",
-          "The parent's experience highlights the challenges of mental health care."
+          "A parent shares their experience with a child sectioned under the Mental Health Act.",
+          "The parent recalls feelings of horror at the loss of control.",
+          "The article is a response to an article about a daughter's death.",
+          "The daughter died after being detained under the Mental Health Act.",
+          "The parent's child also suffered from an eating disorder."
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 14 Nov 2025 17:01:20 GMT",
         "title": "Treasury won’t cut threshold for higher rate income tax, say sources – UK politics live",
@@ -303,15 +340,15 @@
           }
         ],
         "ai_summary": [
-          "Treasury sources state the government will not cut the higher rate income tax threshold.",
-          "The expected fiscal gap has dropped to £20 billion, according to the Treasury.",
-          "Investors have concerns about the government's willingness to make difficult decisions.",
-          "Long-term borrowing costs increased due to reports of the income tax decision.",
-          "Yields on UK government bonds rose significantly in early trading."
+          "The Treasury says it will not cut the threshold for higher rate income tax.",
+          "Investors have concerns about the chancellor's reported budget U-turn.",
+          "Long-term borrowing costs increased due to the reported U-turn.",
+          "The expected fiscal gap has dropped to £20 billion.",
+          "Yields on UK government bonds increased significantly."
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 14 Nov 2025 14:03:53 GMT",
         "title": "UK hospitals bracing for once-in-a-decade flu surge this winter",
@@ -328,19 +365,19 @@
           }
         ],
         "ai_summary": [
-          "UK hospitals are preparing for a potentially severe flu season this winter.",
-          "A mutated flu virus strain is expected to drive a wave of hospital admissions.",
-          "Officials urge vaccination against the mutated virus strain.",
-          "NHS managers are increasing efforts to vaccinate staff and communities.",
-          "Efforts include expanding emergency care and community-based patient treatment."
+          "Hospitals are preparing for a potentially severe flu season this winter.",
+          "A mutated flu strain is expected to cause a wave of admissions.",
+          "Officials are urging vaccinations against the mutated virus.",
+          "NHS managers are expanding emergency care and community treatment.",
+          "The flu season could be the worst in a decade."
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 14 Nov 2025 12:34:09 GMT",
         "title": "Wellbeing support for terminally-ill islanders",
-        "neutral_headline": "Wellbeing Support for Terminally-Ill Islanders",
+        "neutral_headline": "Wellbeing support for terminally-ill islanders",
         "items": [
           {
             "source": "BBC Health",
@@ -355,19 +392,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b85/live/bed9a920-c0b3-11f0-8a6c-bdcd4bb2f081.jpg",
         "ai_summary": [
-          "A hospice offers a free program for individuals with serious illnesses.",
-          "The program is for those with life-limiting or progressive illnesses.",
-          "The support is provided by a hospice organization.",
-          "The program aims to provide wellbeing support to participants.",
-          "The service is available to residents of the island community."
+          "A hospice offers a free program for terminally ill islanders.",
+          "The program supports those with life-limiting or progressive illnesses.",
+          "The hospice provides wellbeing support to the island community.",
+          "The program is free of charge for eligible individuals.",
+          "The support is for those facing serious health challenges."
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 14 Nov 2025 12:00:41 GMT",
         "title": "Yellow fever and dengue cases surge in South America as climate crisis fuels health issues",
-        "neutral_headline": "Yellow Fever and Dengue Cases Surge in South America",
+        "neutral_headline": "Yellow fever and dengue cases surge in South America",
         "items": [
           {
             "source": "Guardian Health",
@@ -383,16 +420,16 @@
           "Yellow fever and dengue cases are increasing in South America.",
           "The climate crisis is worsening health issues, experts say.",
           "There have been 356 yellow fever cases and 152 deaths this year.",
-          "The Amazon region is experiencing the majority of yellow fever cases.",
-          "Experts warn of infectious diseases spreading into temperate regions."
+          "The Amazon region is most affected by yellow fever.",
+          "The number of yellow fever cases is the highest since 1960."
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 14 Nov 2025 11:46:34 GMT",
         "title": "Boy learns to walk again after life-saving brain tumour surgery",
-        "neutral_headline": "Boy Learns to Walk Again After Brain Tumor Surgery",
+        "neutral_headline": "Boy learns to walk again after life-saving brain tumour surgery",
         "items": [
           {
             "source": "BBC Health",
@@ -401,21 +438,21 @@
             "title": "Boy learns to walk again after life-saving brain tumour surgery",
             "standfirst": "Chace, 11, from Warwickshire, has been supported by Shine a Light, a childhood cancer charity.",
             "content": "Chace, 11, from Warwickshire, has been supported by Shine a Light, a childhood cancer charity.",
-            "feed_position": 102,
+            "feed_position": 103,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c07a/live/27cb2540-c14e-11f0-8669-5560f5c90fbe.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c07a/live/27cb2540-c14e-11f0-8669-5560f5c90fbe.jpg",
         "ai_summary": [
-          "Chace, an 11-year-old from Warwickshire, learned to walk again.",
+          "An 11-year-old boy, Chace, has learned to walk again.",
           "He underwent life-saving surgery for a brain tumor.",
-          "Shine a Light, a childhood cancer charity, supported Chace.",
-          "The surgery was successful in treating the brain tumor.",
-          "Chace's recovery involved learning to walk again."
+          "Chace is from Warwickshire and has been supported by a charity.",
+          "The charity supporting him is called Shine a Light.",
+          "The charity supports children with cancer."
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 14 Nov 2025 08:00:23 GMT",
         "title": "Wes Streeting's gamble with the NHS is greater than any play for Downing Street | Gaby Hinsliff",
@@ -432,19 +469,19 @@
           }
         ],
         "ai_summary": [
-          "The health secretary is undertaking a high-stakes reorganisation of the NHS.",
-          "Waiting lists are a key measure of public perception of the country's health.",
-          "Polling showed a quarter of the public knew waiting lists had fallen.",
-          "A government speech on NHS reform was overshadowed by political debate.",
-          "The article is written by a Guardian columnist, Gaby Hinsliff."
+          "Health Secretary Wes Streeting is undertaking a major NHS reorganisation.",
+          "The reorganisation could be a model or a detriment to Labour's future.",
+          "Waiting lists are a key factor in public perception of the government.",
+          "Polling shows the public is largely unaware of waiting list improvements.",
+          "Streeting's speech on NHS reform was overshadowed by political events."
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 14 Nov 2025 07:59:19 GMT",
         "title": "Resident doctors in Scotland begin ballot for strike action",
-        "neutral_headline": "Resident Doctors Begin Ballot for Strike Action",
+        "neutral_headline": "Resident doctors in Scotland begin ballot for strike action",
         "items": [
           {
             "source": "BBC Health",
@@ -460,18 +497,18 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2862/live/038d4820-c13a-11f0-8717-7b6a6b2fefad.jpg",
         "ai_summary": [
           "BMA Scotland says ministers went back on a pay agreement.",
-          "Health Secretary Neil Gray calls the pay offer fair and affordable.",
-          "Resident doctors in Scotland are voting on potential strike action.",
-          "The BMA Scotland is the British Medical Association Scotland.",
-          "The strike action is related to a pay dispute."
+          "Health Secretary Neil Gray says the pay offer is fair.",
+          "Resident doctors in Scotland are voting on strike action.",
+          "The strike action is over pay disputes.",
+          "The BMA is the British Medical Association."
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 14 Nov 2025 07:00:22 GMT",
         "title": "Resident doctors begin five-day strike in latest walkout over pay",
-        "neutral_headline": "Resident Doctors Begin Five-Day Strike Over Pay",
+        "neutral_headline": "Resident doctors begin five-day strike over pay",
         "items": [
           {
             "source": "Guardian Health",
@@ -484,19 +521,19 @@
           }
         ],
         "ai_summary": [
-          "Resident doctors in England have begun a five-day strike over pay.",
-          "The strike is the thirteenth action since March 2023.",
-          "NHS groups warn of potential cuts to frontline staff due to strikes.",
-          "Fewer appointments and operations may be offered if strikes continue.",
-          "The strike began at 7 am on Friday."
+          "Resident doctors in England have begun a five-day strike.",
+          "The strike is the 13th walkout since March 2023.",
+          "Health leaders warn of potential cuts to frontline staff.",
+          "The strike is over a dispute regarding pay.",
+          "The NHS may have to reduce appointments and operations."
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 14 Nov 2025 06:00:22 GMT",
         "title": "Born in the forest: the women giving birth alone in the Kashmiri mountains",
-        "neutral_headline": "Born in the forest: the women giving birth alone",
+        "neutral_headline": "Born in the forest: the women giving birth alone in the Kashmiri mountains",
         "items": [
           {
             "source": "Guardian Health",
@@ -509,15 +546,15 @@
           }
         ],
         "ai_summary": [
-          "Nomadic Gujjar women in the Kashmiri mountains give birth alone.",
-          "Women face risks during seasonal treks far from hospitals.",
+          "Nomadic Gujjar women give birth alone in the Kashmiri mountains.",
+          "The women face challenges during seasonal treks.",
           "Fatima Deader experienced labor pains during a trek.",
-          "The family was near the midway point of a 134-mile trek.",
-          "The trek was from Rajouri in Jammu to Kashmir's higher pastures."
+          "The trek was a 134-mile journey through the mountains.",
+          "The women often lack access to medical facilities."
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Fri, 14 Nov 2025 01:21:48 GMT",
         "title": "'I could hardly walk' - the issue that affects one in five mums",
@@ -536,19 +573,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3db/live/126fd750-ba68-11f0-ba8c-5f7067df6bdc.jpg",
         "ai_summary": [
-          "Pelvic girdle pain affects one in five mothers.",
           "Two mothers share their experiences with pelvic girdle pain.",
-          "Awareness of the risk helps people seek treatment.",
+          "Pelvic girdle pain affects one in five mothers.",
+          "Awareness of the risk can help people seek treatment.",
           "The article focuses on the experiences of mothers.",
-          "The condition impacts mobility and daily life."
+          "The mothers discuss the impact of the condition."
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 13 Nov 2025 23:30:11 GMT",
         "title": "New AI tool could cut wasted efforts to transplant organs by 60%",
-        "neutral_headline": "New AI Tool Could Cut Wasted Efforts to Transplant Organs",
+        "neutral_headline": "AI Tool May Reduce Organ Transplant Waste by Sixty Percent",
         "items": [
           {
             "source": "Guardian Health",
@@ -561,69 +598,17 @@
           }
         ],
         "ai_summary": [
-          "Doctors developed an AI tool to reduce wasted organ transplant efforts.",
-          "The AI model predicts donor mortality within the liver's viability timeframe.",
-          "The tool could reduce wasted efforts by 60 percent.",
-          "Thousands await transplants, with more candidates than available organs.",
-          "The AI tool aims to improve organ allocation efficiency."
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Thu, 13 Nov 2025 21:20:32 GMT",
-        "title": "The magic touch: how healthy are massages actually?",
-        "neutral_headline": "The magic touch: how healthy are massages actually?",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/wellness/2025/nov/13/massage-health-benefits",
-            "published_at": "Thu, 13 Nov 2025 21:20:32 GMT",
-            "title": "The magic touch: how healthy are massages actually?",
-            "standfirst": "While they can be seen as a luxury, massages are often part of healthcare – here’s how they affect physical and mental healthMassages can feel great. But are they actually good for you?In one study, researchers observed that 8.5% of Americans reported using massage for “overall health” in the 2022 National Health Interview Survey. However, definitions of health tend to vary widely, explains the study’s first author, Jeff Levin, an epidemiologist and distinguished professor at Baylor University. For instance, does it refer to physical health, mental health or both? That makes it tough to study, but may explain why it has such broad appeal, Levin explains. Continue reading...",
-            "content": "While they can be seen as a luxury, massages are often part of healthcare – here’s how they affect physical and mental healthMassages can feel great. But are they actually good for you?In one study, researchers observed that 8.5% of Americans reported using massage for “overall health” in the 2022 National Health Interview Survey. However, definitions of health tend to vary widely, explains the study’s first author, Jeff Levin, an epidemiologist and distinguished professor at Baylor University. For instance, does it refer to physical health, mental health or both? That makes it tough to study, but may explain why it has such broad appeal, Levin explains. Continue reading...",
-            "feed_position": 10
-          }
-        ],
-        "ai_summary": [
-          "Massages are often part of healthcare, but their health effects vary.",
-          "8.5% of Americans reported using massage for \"overall health\" in 2022.",
-          "Definitions of health vary, making it difficult to study massage benefits.",
-          "Researchers are studying the effects of massage on physical and mental health.",
-          "The study's first author is Jeff Levin, an epidemiologist."
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 13 Nov 2025 21:00:00 GMT",
-        "title": "BBC Inside Science",
-        "neutral_headline": "BBC Inside Science: The UK government plans to phase out animal experiments. What are the alternatives?",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/sounds/play/w3ct8txk?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 13 Nov 2025 21:00:00 GMT",
-            "title": "BBC Inside Science",
-            "standfirst": "The UK government plans to phase out animal experiments. What are the alternatives?",
-            "content": "The UK government plans to phase out animal experiments. What are the alternatives?",
-            "feed_position": 55,
-            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
-        "ai_summary": [
-          "The UK government plans to phase out animal experiments.",
-          "The BBC Inside Science program discusses alternatives to animal testing.",
-          "The program explores potential replacements for animal research.",
-          "The focus is on finding alternatives to animal experimentation.",
-          "The program is part of BBC Science coverage."
+          "An AI model predicts donor mortality, potentially improving organ allocation efficiency.",
+          "The tool could decrease wasted efforts in organ transplants by up to 60 percent.",
+          "Many patients await life-saving transplants, with more candidates than available organs.",
+          "The AI model focuses on predicting donor viability within the liver's usable timeframe.",
+          "This technology aims to optimize the use of available organs for transplantation."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-11-15T19:13:46.530Z",
+    "updated_at": "2025-11-15T23:17:33.556Z",
     "clusters": []
   }
 }
