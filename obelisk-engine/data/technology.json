@@ -1,12 +1,12 @@
 {
-  "updated_at": "2025-11-16T03:48:47.339Z",
+  "updated_at": "2025-11-16T07:18:06.521Z",
   "clusters": [
     {
-      "id": "cluster_8",
+      "id": "cluster_11",
       "coverage": 2,
       "updated_at": "Sat, 15 Nov 2025 21:07:41 +0000",
       "title": "Jury says Apple owes Masimo $634M for patent infringement",
-      "neutral_headline": "Apple Ordered to Pay Masimo $634 Million",
+      "neutral_headline": "Jury says Apple owes Masimo $634M for patent infringement",
       "items": [
         {
           "source": "TechCrunch",
@@ -24,26 +24,26 @@
           "title": "A California federal jury says Apple must pay Masimo $634M for infringing a blood-oxygen patent used in Watch workout and heart-rate alerts; Apple will appeal (Blake Brittain/Reuters)",
           "standfirst": "Blake Brittain / Reuters: A California federal jury says Apple must pay Masimo $634M for infringing a blood-oxygen patent used in Watch workout and heart-rate alerts; Apple will appeal &mdash; A federal jury in California said on Friday that Apple (AAPL.O) owes medical-monitoring technology company Masimo (MASI.O) &hellip;",
           "content": "Blake Brittain / Reuters: A California federal jury says Apple must pay Masimo $634M for infringing a blood-oxygen patent used in Watch workout and heart-rate alerts; Apple will appeal &mdash; A federal jury in California said on Friday that Apple (AAPL.O) owes medical-monitoring technology company Masimo (MASI.O) &hellip;",
-          "feed_position": 6,
+          "feed_position": 8,
           "image_url": "http://www.techmeme.com/251115/i2.jpg"
         }
       ],
       "featured_image": "http://www.techmeme.com/251115/i2.jpg",
-      "popularity_score": 2013.3149058333333,
+      "popularity_score": 2009.8262444444445,
       "ai_summary": [
-        "A jury ruled Apple must pay Masimo $634 million.",
-        "The ruling is for infringing a blood oxygen monitoring patent.",
-        "The patent is used in Apple Watch workout and heart-rate alerts.",
-        "Apple plans to appeal the jury's decision.",
-        "The case involves medical device technology and Apple products."
+        "A California federal jury ruled against Apple.",
+        "Apple must pay Masimo $634 million.",
+        "The payment is for infringing a blood oxygen monitoring patent.",
+        "The patent is used in Watch workout and heart-rate alerts.",
+        "Apple plans to appeal the jury's decision."
       ]
     },
     {
-      "id": "cluster_12",
+      "id": "cluster_15",
       "coverage": 2,
       "updated_at": "Sat, 15 Nov 2025 20:00:35 +0000",
       "title": "Black Friday VPN deals: Proton VPN two-year plans are up to 75 percent off",
-      "neutral_headline": "Black Friday VPN Deals: Proton VPN Discounts",
+      "neutral_headline": "Black Friday VPN deals: Proton VPN two-year plans are up to 75 percent off",
       "items": [
         {
           "source": "Engadget",
@@ -375,30 +375,20 @@
           "content": "Chinese hackers automated 90% of an espionage campaign using Anthropic’s Claude, breaching four organizations of the 30 they chose as targets.\"They broke down their attacks into small, seemingly innocent tasks that Claude would execute without being provided the full context of their malicious purpose,\" Jacob Klein, Anthropic&#x27;s head of threat intelligence, told VentureBeat. AI models have reached an inflection point earlier than most experienced threat researchers anticipated, evidenced by hackers being able to jailbreak a model and launch attacks undetected. Cloaking prompts as being part of a legitimate pen testing effort with the aim of exfiltrating confidential data from 30 targeted organizations reflects how powerful models have become. Jailbreaking then weaponizing a model against targets isn&#x27;t rocket science anymore. It&#x27;s now a democratized threat that any attacker or nation-state can use at will.Klein revealed to The Wall Street Journal, which broke the story, that \"the hackers conducted their attacks literally with the click of a button.\" In one breach, \"the hackers directed Anthropic&#x27;s Claude AI tools to query internal databases and extract data independently.\" Human operators intervened at just four to six decision points per campaign.The architecture that made it possible The sophistication of the attack on 30 organizations isn’t found in the tools; it’s in the orchestration. The attackers used commodity pentesting software that anyone can download. Attackers meticulously broke down complex operations into innocent-looking tasks. Claude thought it was conducting security audits.The social engineering was precise: Attackers presented themselves as employees of cybersecurity firms conducting authorized penetration tests, Klein told WSJ.Source: Anthropic The architecture, detailed in Anthropic&#x27;s report, reveals MCP (Model Context Protocol) servers directing multiple Claude sub-agents against the target infrastructure simultaneously. The report describes how \"the framework used Claude as an orchestration system that decomposed complex multi-stage attacks into discrete technical tasks for Claude sub-agents, such as vulnerability scanning, credential validation, data extraction, and lateral movement, each of which appeared legitimate when evaluated in isolation.\"This decomposition was critical. By presenting tasks without a broader context, the attackers induced Claude \"to execute individual components of attack chains without access to the broader malicious context,\" according to the report.Attack velocity reached multiple operations per second, sustained for hours without fatigue. Human involvement dropped to 10 to 20% of effort. Traditional three- to six-month campaigns compressed to 24 to 48 hours. The report documents \"peak activity included thousands of requests, representing sustained request rates of multiple operations per second.\"Source: AnthropicThe six-phase attack progression documented in Anthropic&#x27;s report shows how AI autonomy increased at each stage. Phase 1: Human selects target. Phase 2: Claude maps the entire network autonomously, discovering \"internal services within targeted networks through systematic enumeration.\" Phase 3: Claude identifies and validates vulnerabilities including SSRF flaws. Phase 4: Credential harvesting across networks. Phase 5: Data extraction and intelligence categorization. Phase 6: Complete documentation for handoff.\"Claude was doing the work of nearly an entire red team,\" Klein told VentureBeat. Reconnaissance, exploitation, lateral movement, data extraction, were all happening with minimal human direction between phases. Anthropics&#x27; report notes that \"the campaign demonstrated unprecedented integration and autonomy of artificial intelligence throughout the attack lifecycle, with Claude Code supporting reconnaissance, vulnerability discovery, exploitation, lateral movement, credential harvesting, data analysis, and exfiltration operations largely autonomously.\" How weaponizing models flattens the cost curve for APT attacks Traditional APT campaigns required what the report documents as \"10-15 skilled operators,\" \"custom malware development,\" and \"months of preparation.\" GTG-1002 only needed Claude API access, open-source Model Context Protocol servers, and commodity pentesting tools.\"What shocked us was the efficiency,\" Klein told VentureBeat. \"We&#x27;re seeing nation-state capability achieved with resources accessible to any mid-sized criminal group.\"The report states: \"The minimal reliance on proprietary tools or advanced exploit development demonstrates that cyber capabilities increasingly derive from orchestration of commodity resources rather than technical innovation.\"Klein emphasized the autonomous execution capabilities in his discussion with VentureBeat. The report confirms Claude independently \"scanned target infrastructure, enumerated services and endpoints, mapped attack surfaces,\" then \"identified SSRF vulnerability, researched exploitation techniques,\" and generated \"custom payload, developing exploit chain, validating exploit capability via callback responses.\"Against one technology company, the report documents, Claude \"independently query databases and systems, extract data, parse results to identify proprietary information, and categorize findings by intelligence value.\"\"The compression factor is what enterprises need to understand,\" Klein told VentureBeat. \"What took months now takes days. What required specialized skills now requires basic prompting knowledge.\"Lessons learned on critical detection indicators\"The patterns were so distinct from human behavior, it was like watching a machine pretending to be human,\" Klein told VentureBeat. The report documents \"physically impossible request rates\" with \"sustained request rates of multiple operations per second.\"The report identifies three indicator categories:Traffic patterns: \"Request rates of multiple operations per second\" with \"substantial disparity between data inputs and text outputs.\"Query decomposition: Tasks broken into what Klein called \"small, seemingly innocent tasks\" — technical queries of five to 10 words lacking human browsing patterns. \"Each query looked legitimate in isolation,\" Klein explained to VentureBeat. \"Only in aggregate did the attack pattern emerge.\"Authentication behaviors: The report details \"systematic credential collection across targeted networks\" with Claude \"independently determining which credentials provided access to which services, mapping privilege levels and access boundaries without human direction.\"\"We expanded detection capabilities to further account for novel threat patterns, including by improving our cyber-focused classifiers,\" Klein told VentureBeat. Anthropic is \"prototyping proactive early detection systems for autonomous cyberattacks.\"",
           "feed_position": 3,
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/47Wc5CGIVo2RJMP58dOP96/0cf61ff0aae544a3d2379f176233e9bf/Claude_AI_apps.jpg?w=300&q=30"
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/ai/openai-experiment-finds-that-sparse-models-could-give-ai-builders-the-tools",
-          "published_at": "Fri, 14 Nov 2025 05:00:00 GMT",
-          "title": "OpenAI experiment finds that sparse models could give AI builders the tools to debug neural networks",
-          "standfirst": "OpenAI researchers are experimenting with a new approach to designing neural networks, with the aim of making AI models easier to understand, debug, and govern. Sparse models can provide enterprises with a better understanding of how these models make decisions. Understanding how models choose to respond, a big selling point of reasoning models for enterprises, can provide a level of trust for organizations when they turn to AI models for insights. The method called for OpenAI scientists and researchers to look at and evaluate models not by analyzing post-training performance, but by adding interpretability or understanding through sparse circuits.OpenAI notes that much of the opacity of AI models stems from how most models are designed, so to gain a better understanding of model behavior, they must create workarounds. “Neural networks power today’s most capable AI systems, but they remain difficult to understand,” OpenAI wrote in a blog post. “We don’t write these models with explicit step-by-step instructions. Instead, they learn by adjusting billions of internal connections or weights until they master a task. We design the rules of training, but not the specific behaviors that emerge, and the result is a dense web of connections that no human can easily decipher.”To enhance the interpretability of the mix, OpenAI examined an architecture that trains untangled neural networks, making them simpler to understand. The team trained language models with a similar architecture to existing models, such as GPT-2, using the same training schema. The result: improved interpretability. The path toward interpretabilityUnderstanding how models work, giving us insight into how they&#x27;re making their determinations, is important because these have a real-world impact, OpenAI says. The company defines interpretability as “methods that help us understand why a model produced a given output.” There are several ways to achieve interpretability: chain-of-thought interpretability, which reasoning models often leverage, and mechanistic interpretability, which involves reverse-engineering a model’s mathematical structure.OpenAI focused on improving mechanistic interpretability, which it said “has so far been less immediately useful, but in principle, could offer a more complete explanation of the model’s behavior.”“By seeking to explain model behavior at the most granular level, mechanistic interpretability can make fewer assumptions and give us more confidence. But the path from low-level details to explanations of complex behaviors is much longer and more difficult,” according to OpenAI. Better interpretability allows for better oversight and gives early warning signs if the model’s behavior no longer aligns with policy. OpenAI noted that improving mechanistic interpretability “is a very ambitious bet,” but research on sparse networks has improved this. How to untangle a model To untangle the mess of connections a model makes, OpenAI first cut most of these connections. Since transformer models like GPT-2 have thousands of connections, the team had to “zero out” these circuits. Each will only talk to a select number, so the connections become more orderly.Next, the team ran “circuit tracing” on tasks to create groupings of interpretable circuits. The last task involved pruning the model “to obtain the smallest circuit which achieves a target loss on the target distribution,” according to OpenAI. It targeted a loss of 0.15 to isolate the exact nodes and weights responsible for behaviors. “We show that pruning our weight-sparse models yields roughly 16-fold smaller circuits on our tasks than pruning dense models of comparable pretraining loss. We are also able to construct arbitrarily accurate circuits at the cost of more edges. This shows that circuits for simple behaviors are substantially more disentangled and localizable in weight-sparse models than dense models,” the report said. Small models become easier to trainAlthough OpenAI managed to create sparse models that are easier to understand, these remain significantly smaller than most foundation models used by enterprises. Enterprises increasingly use small models, but frontier models, such as its flagship GPT-5.1, will still benefit from improved interpretability down the line. Other model developers also aim to understand how their AI models think. Anthropic, which has been researching interpretability for some time, recently revealed that it had “hacked” Claude’s brain — and Claude noticed. Meta also is working to find out how reasoning models make their decisions. As more enterprises turn to AI models to help make consequential decisions for their business, and eventually customers, research into understanding how models think would give the clarity many organizations need to trust models more.",
-          "content": "OpenAI researchers are experimenting with a new approach to designing neural networks, with the aim of making AI models easier to understand, debug, and govern. Sparse models can provide enterprises with a better understanding of how these models make decisions. Understanding how models choose to respond, a big selling point of reasoning models for enterprises, can provide a level of trust for organizations when they turn to AI models for insights. The method called for OpenAI scientists and researchers to look at and evaluate models not by analyzing post-training performance, but by adding interpretability or understanding through sparse circuits.OpenAI notes that much of the opacity of AI models stems from how most models are designed, so to gain a better understanding of model behavior, they must create workarounds. “Neural networks power today’s most capable AI systems, but they remain difficult to understand,” OpenAI wrote in a blog post. “We don’t write these models with explicit step-by-step instructions. Instead, they learn by adjusting billions of internal connections or weights until they master a task. We design the rules of training, but not the specific behaviors that emerge, and the result is a dense web of connections that no human can easily decipher.”To enhance the interpretability of the mix, OpenAI examined an architecture that trains untangled neural networks, making them simpler to understand. The team trained language models with a similar architecture to existing models, such as GPT-2, using the same training schema. The result: improved interpretability. The path toward interpretabilityUnderstanding how models work, giving us insight into how they&#x27;re making their determinations, is important because these have a real-world impact, OpenAI says. The company defines interpretability as “methods that help us understand why a model produced a given output.” There are several ways to achieve interpretability: chain-of-thought interpretability, which reasoning models often leverage, and mechanistic interpretability, which involves reverse-engineering a model’s mathematical structure.OpenAI focused on improving mechanistic interpretability, which it said “has so far been less immediately useful, but in principle, could offer a more complete explanation of the model’s behavior.”“By seeking to explain model behavior at the most granular level, mechanistic interpretability can make fewer assumptions and give us more confidence. But the path from low-level details to explanations of complex behaviors is much longer and more difficult,” according to OpenAI. Better interpretability allows for better oversight and gives early warning signs if the model’s behavior no longer aligns with policy. OpenAI noted that improving mechanistic interpretability “is a very ambitious bet,” but research on sparse networks has improved this. How to untangle a model To untangle the mess of connections a model makes, OpenAI first cut most of these connections. Since transformer models like GPT-2 have thousands of connections, the team had to “zero out” these circuits. Each will only talk to a select number, so the connections become more orderly.Next, the team ran “circuit tracing” on tasks to create groupings of interpretable circuits. The last task involved pruning the model “to obtain the smallest circuit which achieves a target loss on the target distribution,” according to OpenAI. It targeted a loss of 0.15 to isolate the exact nodes and weights responsible for behaviors. “We show that pruning our weight-sparse models yields roughly 16-fold smaller circuits on our tasks than pruning dense models of comparable pretraining loss. We are also able to construct arbitrarily accurate circuits at the cost of more edges. This shows that circuits for simple behaviors are substantially more disentangled and localizable in weight-sparse models than dense models,” the report said. Small models become easier to trainAlthough OpenAI managed to create sparse models that are easier to understand, these remain significantly smaller than most foundation models used by enterprises. Enterprises increasingly use small models, but frontier models, such as its flagship GPT-5.1, will still benefit from improved interpretability down the line. Other model developers also aim to understand how their AI models think. Anthropic, which has been researching interpretability for some time, recently revealed that it had “hacked” Claude’s brain — and Claude noticed. Meta also is working to find out how reasoning models make their decisions. As more enterprises turn to AI models to help make consequential decisions for their business, and eventually customers, research into understanding how models think would give the clarity many organizations need to trust models more.",
-          "feed_position": 4,
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5bjGX4CQLCQ6qGu7z6wGPu/02102d978305371822af26fa77648fa2/crimedy7_illustration_of_neural_networks_vivd_colors_--ar_169_31fd5a88-c680-439c-9d2b-e88d0ceeae89_2.png?w=300&q=30"
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/2PbpQZSOMgxoRpp8S0kU3r/59a8d6196a4c9411a45242db863941f5/AI_reasoning_trajectories.jpg?w=300&q=30",
-      "popularity_score": 2012.1965725,
+      "popularity_score": 2008.7079111111111,
       "ai_summary": [
-        "Proton VPN offers up to 75 percent off on two-year plans for Black Friday.",
-        "The VPN Plus tier is available for $59.76, which is $2.49 per month.",
-        "This is a discount from the regular price of $10 per month.",
-        "Proton VPN is recommended for its privacy and no-logs policy.",
-        "The Plus tier allows connections to 15,000 servers across 120 countries."
+        "Proton VPN is offering discounts on two-year plans for Black Friday.",
+        "The VPN Plus tier is available for $59.76, or $2.49 per month.",
+        "This represents a 75 percent discount from the regular price.",
+        "The Plus tier allows connections to 15,000 servers in 120+ countries.",
+        "Proton VPN has a no-logs policy, ensuring user privacy."
       ]
     },
     {
-      "id": "cluster_13",
+      "id": "cluster_16",
       "coverage": 2,
       "updated_at": "2025-11-15T14:31:45-05:00",
       "title": "Tim Cook could step down as Apple CEO next year",
@@ -420,26 +410,26 @@
           "title": "Sources: Apple is intensifying CEO succession planning as Tim Cook, now 65, may step down as early as next year, with John Ternus seen as the likely successor (Financial Times)",
           "standfirst": "Financial Times: Sources: Apple is intensifying CEO succession planning as Tim Cook, now 65, may step down as early as next year, with John Ternus seen as the likely successor &mdash; iPhone maker's board is preparing for its longtime leader to step down as early as next year &mdash; Apple is stepping &hellip;",
           "content": "Financial Times: Sources: Apple is intensifying CEO succession planning as Tim Cook, now 65, may step down as early as next year, with John Ternus seen as the likely successor &mdash; iPhone maker's board is preparing for its longtime leader to step down as early as next year &mdash; Apple is stepping &hellip;",
-          "feed_position": 8,
+          "feed_position": 10,
           "image_url": "http://www.techmeme.com/251114/i35.jpg"
         }
       ],
       "featured_image": "http://www.techmeme.com/251114/i35.jpg",
-      "popularity_score": 2011.7160169444444,
+      "popularity_score": 2008.2273555555555,
       "ai_summary": [
-        "Tim Cook, Apple CEO, may step down as early as next year.",
+        "Tim Cook may step down as Apple CEO as early as next year.",
         "The Apple board is working on a succession plan.",
-        "John Ternus, hardware engineering SVP, is a potential successor.",
+        "John Ternus is considered the frontrunner for the position.",
         "Cook recently turned 65 years old.",
         "The Financial Times reported on the succession planning."
       ]
     },
     {
-      "id": "cluster_20",
+      "id": "cluster_23",
       "coverage": 2,
       "updated_at": "Sat, 15 Nov 2025 11:25:01 -0500",
       "title": "Political fixer Bradley Tusk's nonprofit releases VoteSecure, an open-source cryptographic protocol for mobile voting, amid skepticism from cryptographers (Steven Levy/Wired)",
-      "neutral_headline": "Political fixer Bradley Tusk's nonprofit releases VoteSecure, an open-source cryptographic protocol for mobile voting, amid skepticism from cryptographers (Steven Levy/Wired)",
+      "neutral_headline": "Political fixer Bradley Tusk's nonprofit releases VoteSecure, an open-source cryptographic protocol for mobile voting, amid skepticism from cryptographers",
       "items": [
         {
           "source": "TechMeme",
@@ -448,7 +438,7 @@
           "title": "Political fixer Bradley Tusk's nonprofit releases VoteSecure, an open-source cryptographic protocol for mobile voting, amid skepticism from cryptographers (Steven Levy/Wired)",
           "standfirst": "Steven Levy / Wired: Political fixer Bradley Tusk's nonprofit releases VoteSecure, an open-source cryptographic protocol for mobile voting, amid skepticism from cryptographers &mdash; Political consultant Bradley Tusk has spent a fortune on mobile voting efforts. Now, he's launching a protocol to try to mainstream the technology.",
           "content": "Steven Levy / Wired: Political fixer Bradley Tusk's nonprofit releases VoteSecure, an open-source cryptographic protocol for mobile voting, amid skepticism from cryptographers &mdash; Political consultant Bradley Tusk has spent a fortune on mobile voting efforts. Now, he's launching a protocol to try to mainstream the technology.",
-          "feed_position": 4,
+          "feed_position": 6,
           "image_url": "http://www.techmeme.com/251115/i4.jpg"
         },
         {
@@ -463,21 +453,21 @@
         }
       ],
       "featured_image": "http://www.techmeme.com/251115/i4.jpg",
-      "popularity_score": 2008.6037947222221,
+      "popularity_score": 2005.1151333333332,
       "ai_summary": [
-        "Bradley Tusk's nonprofit released VoteSecure, a mobile voting protocol.",
-        "The protocol is open-source and uses cryptography.",
-        "Cryptographers have expressed skepticism about the technology.",
-        "Tusk has invested heavily in mobile voting efforts.",
-        "The goal is to mainstream mobile voting technology."
+        "Bradley Tusk's nonprofit released VoteSecure.",
+        "VoteSecure is an open-source cryptographic protocol.",
+        "The protocol is for mobile voting.",
+        "Cryptographers have expressed skepticism about it.",
+        "Tusk has invested heavily in mobile voting efforts."
       ]
     },
     {
-      "id": "cluster_56",
+      "id": "cluster_58",
       "coverage": 2,
       "updated_at": "Fri, 14 Nov 2025 22:25:02 -0500",
       "title": "Data Center Watch: local opposition blocked or delayed 17 US data center projects worth $98B in Q2 2025, vs. 16 projects worth $64B from May 2024 to March 2025 (Molly Taft/Wired)",
-      "neutral_headline": "Data Center Watch: local opposition blocked or delayed 17 US data center projects worth $98B in Q2 2025, vs. 16 projects worth $64B from May 2024 to March 2025 (Molly Taft/Wired)",
+      "neutral_headline": "Local Opposition Delays Data Center Projects in United States",
       "items": [
         {
           "source": "TechMeme",
@@ -486,7 +476,7 @@
           "title": "Data Center Watch: local opposition blocked or delayed 17 US data center projects worth $98B in Q2 2025, vs. 16 projects worth $64B from May 2024 to March 2025 (Molly Taft/Wired)",
           "standfirst": "Molly Taft / Wired: Data Center Watch: local opposition blocked or delayed 17 US data center projects worth $98B in Q2 2025, vs. 16 projects worth $64B from May 2024 to March 2025 &mdash; A new report finds that local opposition to data centers skyrocketed in the second quarter of this year.",
           "content": "Molly Taft / Wired: Data Center Watch: local opposition blocked or delayed 17 US data center projects worth $98B in Q2 2025, vs. 16 projects worth $64B from May 2024 to March 2025 &mdash; A new report finds that local opposition to data centers skyrocketed in the second quarter of this year.",
-          "feed_position": 9,
+          "feed_position": 11,
           "image_url": "http://www.techmeme.com/251114/i34.jpg"
         },
         {
@@ -503,19 +493,19 @@
       "featured_image": "http://www.techmeme.com/251114/i34.jpg",
       "popularity_score": 2000,
       "ai_summary": [
-        "Local opposition blocked or delayed data center projects.",
-        "17 projects worth $98 billion were affected in Q2 2025.",
-        "This is compared to 16 projects worth $64 billion previously.",
-        "A report indicates a rise in local opposition to data centers.",
-        "The opposition is delaying or stopping data center construction."
+        "Local opposition blocked or delayed 17 data center projects in Q2 2025.",
+        "These projects were worth a combined $98 billion, according to a new report.",
+        "The previous period saw 16 projects delayed, totaling $64 billion.",
+        "The report indicates a significant increase in local resistance to data centers.",
+        "The data reflects a growing trend of community pushback against these developments."
       ]
     },
     {
-      "id": "cluster_36",
+      "id": "cluster_39",
       "coverage": 1,
       "updated_at": "Sat, 15 Nov 2025 12:00:59 +0000",
       "title": "Wyoming dinosaur mummies give us a new view of duck-billed species",
-      "neutral_headline": "Wyoming Dinosaur Mummies Offer New Insights",
+      "neutral_headline": "Wyoming Dinosaur Fossils Offer New Insights on Duck-Billed Species",
       "items": [
         {
           "source": "Ars Technica",
@@ -529,13 +519,13 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Sereno-adw3536-image-3-1152x648.jpg",
-      "popularity_score": 337.20323916666666,
+      "popularity_score": 333.7145777777778,
       "ai_summary": [
-        "Exquisitely preserved dinosaur fossils were found in Wyoming.",
-        "The fossils come from a single site.",
-        "The fossils provide a new view of duck-billed species.",
-        "The mummies offer a unique look at dinosaur preservation.",
-        "The site is providing new information about dinosaurs."
+        "Exquisitely preserved dinosaur fossils were discovered in Wyoming.",
+        "The fossils come from a single site, providing a unique collection.",
+        "These fossils offer a new view of duck-billed dinosaur species.",
+        "The preservation allows for detailed study of the species.",
+        "The find provides valuable data for paleontological research."
       ]
     },
     {
@@ -543,7 +533,7 @@
       "coverage": 1,
       "updated_at": "Fri, 14 Nov 2025 21:49:01 +0000",
       "title": "US may owe $1 trillion in refunds if SCOTUS cancels Trump tariffs",
-      "neutral_headline": "US May Owe $1 Trillion in Refunds",
+      "neutral_headline": "United States May Owe $1 Trillion in Refunds Due to Tariffs",
       "items": [
         {
           "source": "Ars Technica",
@@ -559,11 +549,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-162749548-1152x648.jpg",
       "popularity_score": 323,
       "ai_summary": [
-        "The US may owe $1 trillion in refunds.",
-        "This is if SCOTUS cancels Trump tariffs.",
-        "The tech industry is prepared for potential refunds.",
-        "The Supreme Court is considering the Trump tariffs.",
-        "The ruling could have significant financial implications."
+        "The United States may owe $1 trillion in refunds.",
+        "This is dependent on a Supreme Court ruling regarding Trump tariffs.",
+        "The tech industry is positioned to receive significant refunds.",
+        "The ruling could have substantial financial implications.",
+        "The case involves legal challenges to the tariffs."
       ]
     },
     {
@@ -571,7 +561,7 @@
       "coverage": 1,
       "updated_at": "Fri, 14 Nov 2025 21:30:07 +0000",
       "title": "The twin probes just launched toward Mars have an Easter egg on board",
-      "neutral_headline": "Mars Probes Launch with Easter Egg",
+      "neutral_headline": "Mars-Bound Probes Include an Easter Egg on Board",
       "items": [
         {
           "source": "Ars Technica",
@@ -587,19 +577,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/news-111325a-lg-1152x648.jpg",
       "popularity_score": 321,
       "ai_summary": [
-        "Twin probes were launched toward Mars.",
-        "The probes have an Easter egg on board.",
+        "Two probes were launched toward Mars.",
         "The probes are named \"Blue\" and \"Gold\".",
         "They are expected to arrive at Mars in September 2027.",
-        "The Easter egg is a unique feature of the mission."
+        "The probes carry a special Easter egg.",
+        "The mission aims to study the Martian environment."
       ]
     },
     {
-      "id": "cluster_78",
+      "id": "cluster_77",
       "coverage": 1,
       "updated_at": "Fri, 14 Nov 2025 20:45:35 +0000",
       "title": "How two Nissan Leafs help make a regional airport more resilient",
-      "neutral_headline": "Nissan Leafs Aid Airport Resilience",
+      "neutral_headline": "Nissan Leafs Aid Regional Airport Resilience",
       "items": [
         {
           "source": "Ars Technica",
@@ -615,19 +605,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Pacific_Gas_ATS_V2X_Testing-1152x648.jpg",
       "popularity_score": 308,
       "ai_summary": [
-        "Two Nissan Leafs are used to help an airport.",
-        "The cars contribute to regional airport resilience.",
-        "The article explores Vehicle-to-Grid (V2G) technology.",
-        "It examines the use of smaller cars in this context.",
-        "The focus is on how the cars support the airport."
+        "Two Nissan Leafs are used to enhance airport resilience.",
+        "The cars are used in a vehicle-to-grid (V2G) system.",
+        "This is similar to V2G systems used by school buses and pickups.",
+        "The system helps the airport manage its energy needs.",
+        "The project demonstrates the versatility of electric vehicles."
       ]
     },
     {
-      "id": "cluster_77",
+      "id": "cluster_76",
       "coverage": 1,
       "updated_at": "Fri, 14 Nov 2025 21:01:15 +0000",
       "title": "As shutdown ends, dubious CDC panel gets back to dismantling vaccine schedule",
-      "neutral_headline": "CDC Panel Faces Vaccine Schedule Criticism",
+      "neutral_headline": "CDC Panel Faces Criticism After Shutdown Ends",
       "items": [
         {
           "source": "Ars Technica",
@@ -643,19 +633,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2235571352-1152x648.jpg",
       "popularity_score": 303,
       "ai_summary": [
-        "A CDC panel is back to dismantling vaccine schedule.",
-        "The panel is facing criticism after a shutdown.",
-        "Pediatricians are calling for member replacements.",
-        "They want all decisions reversed.",
-        "The panel's decisions are under scrutiny."
+        "The CDC panel is resuming its work after a shutdown.",
+        "Pediatricians are calling for panel member replacements.",
+        "They also want all panel decisions reversed.",
+        "The panel is involved in vaccine schedule decisions.",
+        "The controversy surrounds the panel's actions."
       ]
     },
     {
-      "id": "cluster_79",
+      "id": "cluster_78",
       "coverage": 1,
       "updated_at": "Fri, 14 Nov 2025 20:32:10 +0000",
       "title": "“How about no”: FCC boss Brendan Carr says he won’t end news distortion probes",
-      "neutral_headline": "FCC Boss Rejects News Distortion Probe End",
+      "neutral_headline": "FCC Boss Rejects Ending News Distortion Probes",
       "items": [
         {
           "source": "Ars Technica",
@@ -671,19 +661,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-1152x648-1758655744.jpg",
       "popularity_score": 283,
       "ai_summary": [
-        "FCC boss Brendan Carr will not end probes.",
-        "The probes concern news distortion.",
-        "Carr rejects criticism from former FCC chairs.",
-        "The former chairs include three Republicans.",
-        "The probes are a subject of debate."
+        "FCC boss Brendan Carr will not end news distortion probes.",
+        "He is rejecting criticism from former FCC chairs.",
+        "Four former FCC chairs criticized the probes.",
+        "Three of the critics are Republicans.",
+        "Carr is defending the ongoing investigations."
       ]
     },
     {
-      "id": "cluster_87",
+      "id": "cluster_86",
       "coverage": 1,
       "updated_at": "Fri, 14 Nov 2025 19:22:25 +0000",
       "title": "What’s it like to compete in the longest US off-road rally with no GPS?",
-      "neutral_headline": "Off-Road Rally Navigation Without GPS",
+      "neutral_headline": "Off-Road Rally Relies on Low-Tech Navigation",
       "items": [
         {
           "source": "Ars Technica",
@@ -699,19 +689,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Credit-Emme-Hall-1152x648.jpg",
       "popularity_score": 273,
       "ai_summary": [
-        "The article describes the longest US off-road rally.",
-        "The rally is completed without GPS navigation.",
+        "The longest United States off-road rally uses no GPS.",
         "Hydrogen and solar power the rally infrastructure.",
         "Navigation relies on low-tech methods.",
-        "The rally presents unique challenges."
+        "The rally presents unique challenges.",
+        "The event highlights alternative energy use."
       ]
     },
     {
-      "id": "cluster_88",
+      "id": "cluster_87",
       "coverage": 1,
       "updated_at": "Fri, 14 Nov 2025 18:56:24 +0000",
       "title": "Three astronauts are stuck on China’s space station without a safe ride home",
-      "neutral_headline": "Astronauts Stranded on Chinese Space Station Without Safe Return",
+      "neutral_headline": "Three Astronauts Stranded on China's Space Station",
       "items": [
         {
           "source": "Ars Technica",
@@ -727,19 +717,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2246100870-1152x648.jpg",
       "popularity_score": 271,
       "ai_summary": [
-        "Three astronauts are currently stuck on China's space station.",
-        "The return vehicle does not meet safety requirements for a manned return.",
-        "This situation presents a significant challenge for space program.",
-        "The astronauts' safe return is currently uncertain.",
-        "Further details regarding the issue are still emerging."
+        "Three astronauts are stuck on China's space station.",
+        "Their return is delayed due to safety concerns.",
+        "The return conditions do not meet safety requirements.",
+        "The situation poses a significant challenge.",
+        "The astronauts are awaiting a safe return."
       ]
     },
     {
-      "id": "cluster_90",
+      "id": "cluster_89",
       "coverage": 1,
       "updated_at": "Fri, 14 Nov 2025 18:45:34 +0000",
       "title": "Forget AGI—Sam Altman celebrates ChatGPT finally following em dash formatting rules",
-      "neutral_headline": "Sam Altman Celebrates ChatGPT Following Em Dash Formatting Rules",
+      "neutral_headline": "Sam Altman Celebrates ChatGPT's Em Dash Formatting",
       "items": [
         {
           "source": "Ars Technica",
@@ -755,15 +745,15 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/man_wrestling_with_robot_hand_2-1152x648.jpg",
       "popularity_score": 268,
       "ai_summary": [
-        "Sam Altman is celebrating ChatGPT's improved formatting capabilities.",
-        "The AI model now correctly uses em dashes.",
-        "This improvement highlights progress in AI instruction-following.",
-        "True human-level AI remains a distant goal.",
-        "Ongoing struggles with AI instruction-following are still present."
+        "Sam Altman celebrates ChatGPT's em dash formatting.",
+        "The AI model is finally following the rules.",
+        "Ongoing struggles with AI instruction-following persist.",
+        "True human-level AI is still a ways off.",
+        "The progress highlights AI's limitations."
       ]
     },
     {
-      "id": "cluster_93",
+      "id": "cluster_92",
       "coverage": 1,
       "updated_at": "Fri, 14 Nov 2025 18:06:55 +0000",
       "title": "World’s oldest RNA extracted from Ice Age woolly mammoth",
@@ -783,19 +773,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Mammoth-Yuka-3-1152x648.jpg",
       "popularity_score": 243,
       "ai_summary": [
-        "Researchers successfully extracted RNA from a woolly mammoth.",
-        "The mammoth lived during the Ice Age.",
-        "Sequencing the RNA provides insights into extinct life.",
-        "This discovery opens a new avenue for studying ancient creatures.",
-        "The research offers a window into the past."
+        "The world's oldest RNA was extracted.",
+        "It came from an Ice Age woolly mammoth.",
+        "Sequencing the RNA opens a new window.",
+        "The research provides insights into extinct life.",
+        "The discovery advances paleogenomics."
       ]
     },
     {
-      "id": "cluster_116",
+      "id": "cluster_115",
       "coverage": 1,
       "updated_at": "Fri, 14 Nov 2025 14:01:28 +0000",
       "title": "Blue Origin’s New Glenn rocket came back home after taking aim at Mars",
-      "neutral_headline": "Blue Origin's New Glenn Rocket Lands After Aiming at Mars",
+      "neutral_headline": "Blue Origin's New Glenn Rocket Lands Successfully",
       "items": [
         {
           "source": "Ars Technica",
@@ -811,15 +801,15 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG-2-Ascent-11-1152x648.jpg",
       "popularity_score": 156,
       "ai_summary": [
-        "Blue Origin's New Glenn rocket successfully landed.",
-        "The rocket was designed for missions to Mars.",
-        "The landing was achieved on the second attempt.",
-        "This is a significant achievement for the company.",
-        "The booster's size is unprecedented in landing history."
+        "Blue Origin's New Glenn rocket landed successfully.",
+        "The rocket came back home after aiming at Mars.",
+        "The landing was successful on the second try.",
+        "The booster is very large.",
+        "This is a significant achievement for the company."
       ]
     },
     {
-      "id": "cluster_123",
+      "id": "cluster_122",
       "coverage": 1,
       "updated_at": "Fri, 14 Nov 2025 12:20:48 +0000",
       "title": "Researchers question Anthropic claim that AI-assisted attack was 90% autonomous",
@@ -839,19 +829,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-1152x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "Researchers are questioning Anthropic's claims.",
-        "The claims involve AI-assisted hacking.",
-        "The results of the hacking are not as impressive.",
-        "The study suggests the hacking was not fully autonomous.",
-        "The findings challenge the initial assessment."
+        "Researchers question Anthropic's claim.",
+        "The claim involves AI-assisted hacking.",
+        "The results of the hacking are not impressive.",
+        "Many people may have been misled.",
+        "The research challenges the claim's validity."
       ]
     },
     {
-      "id": "cluster_126",
+      "id": "cluster_125",
       "coverage": 1,
       "updated_at": "Fri, 14 Nov 2025 12:00:46 +0000",
       "title": "US spy satellites built by SpaceX send signals in the “wrong direction”",
-      "neutral_headline": "SpaceX US Spy Satellites Send Signals in Wrong Direction",
+      "neutral_headline": "US spy satellites built by SpaceX send signals in the “wrong direction”",
       "items": [
         {
           "source": "Ars Technica",
@@ -867,19 +857,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/spacex-starshield-1152x648-1763068255.jpg",
       "popularity_score": 141,
       "ai_summary": [
-        "SpaceX-built US spy satellites are sending signals incorrectly.",
-        "The satellites are part of the Starshield program.",
-        "The US did not coordinate spectrum use with other countries.",
-        "This lack of coordination is causing issues.",
-        "The situation raises concerns about international cooperation."
+        "United States spy satellites were built by SpaceX.",
+        "The satellites send signals in an unusual direction.",
+        "The United States did not coordinate spectrum use.",
+        "The lack of coordination involved other countries.",
+        "The situation raises concerns about coordination."
       ]
     },
     {
-      "id": "cluster_96",
+      "id": "cluster_95",
       "coverage": 1,
       "updated_at": "Fri, 14 Nov 2025 17:49:45 +0000",
       "title": "Dogs came in a wide range of sizes and shapes long before modern breeds",
-      "neutral_headline": "Dogs Had Wide Range of Sizes Before Modern Breeds",
+      "neutral_headline": "Dogs Had Diverse Shapes Before Modern Breeds",
       "items": [
         {
           "source": "Ars Technica",
@@ -895,19 +885,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/2018-05-10-19.21.34-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Dogs exhibited diverse sizes and shapes long ago.",
-        "This diversity predates modern dog breeds.",
-        "Human interaction significantly changed dogs.",
-        "These changes occurred relatively quickly.",
-        "The study highlights the impact of humans on dogs."
+        "Dogs came in various sizes and shapes.",
+        "This occurred long before modern breeds.",
+        "Life with humans changed dogs dramatically.",
+        "The changes happened relatively quickly.",
+        "The research explores dog evolution."
       ]
     },
     {
-      "id": "cluster_98",
+      "id": "cluster_97",
       "coverage": 1,
       "updated_at": "Fri, 14 Nov 2025 17:34:25 +0000",
       "title": "Scientist pleaded guilty to smuggling Fusarium graminearum into US. But what is it?",
-      "neutral_headline": "Scientist Pleads Guilty to Smuggling Plant Pathogen",
+      "neutral_headline": "Scientist Pleads Guilty to Smuggling Plant Pathogen into US",
       "items": [
         {
           "source": "Ars Technica",
@@ -923,19 +913,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1358429685-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "A scientist pleaded guilty to smuggling a pathogen.",
-        "The pathogen is Fusarium graminearum.",
-        "Universities are developing an early warning system.",
-        "The system may slow the spread of the pathogen.",
-        "The pathogen poses a threat to plants."
+        "A scientist pleaded guilty to smuggling *Fusarium graminearum* into the United States.",
+        "*Fusarium graminearum* is a plant pathogen that can cause disease in crops.",
+        "Universities are developing an early warning system to slow the pathogen's spread.",
+        "The pathogen's impact on agriculture is a significant concern for researchers.",
+        "The case highlights the importance of biosecurity measures for plant health."
       ]
     },
     {
-      "id": "cluster_103",
+      "id": "cluster_102",
       "coverage": 1,
       "updated_at": "Fri, 14 Nov 2025 16:22:33 +0000",
       "title": "Years later, Arkane’s Dishonored is still a modern stealth classic",
-      "neutral_headline": "Arkane's Dishonored Remains a Modern Stealth Classic",
+      "neutral_headline": "Dishonored Remains a Modern Stealth Classic Years Later",
       "items": [
         {
           "source": "Ars Technica",
@@ -951,19 +941,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/dishonored5-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Arkane's Dishonored is still considered a classic.",
-        "The game is a modern stealth title.",
-        "It features a steampunk magical-realist world.",
-        "The game's world-building is highly regarded.",
-        "Dishonored is praised for its unique setting."
+        "*Dishonored* is a video game developed by Arkane Studios.",
+        "The game features a steampunk and magical-realist world setting.",
+        "Players experience stealth gameplay with supernatural abilities.",
+        "The game's world-building is considered a highlight by critics.",
+        "*Dishonored* was released years ago but remains popular."
       ]
     },
     {
-      "id": "cluster_124",
+      "id": "cluster_123",
       "coverage": 1,
       "updated_at": "Fri, 14 Nov 2025 12:10:01 +0000",
       "title": "Rocket Report: Blue Origin’s stunning success; vive le Baguette One!",
-      "neutral_headline": "Rocket Report: Blue Origin's Success and Baguette One!",
+      "neutral_headline": "Rocket Report: Blue Origin's Success, Baguette One!",
       "items": [
         {
           "source": "Ars Technica",
@@ -979,11 +969,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/blue-origin-1-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Blue Origin achieved a stunning success.",
-        "The report also mentions Baguette One.",
-        "NASA is encouraged to move quickly.",
-        "The report highlights the company's progress.",
-        "The report includes a quote about speed."
+        "Blue Origin achieved a significant success in its rocket program.",
+        "The report mentions the company's progress in space exploration.",
+        "A quote from Blue Origin indicates a desire for faster progress.",
+        "The report references the \"Baguette One\" project.",
+        "The article discusses NASA's potential involvement in space travel."
       ]
     }
   ]
