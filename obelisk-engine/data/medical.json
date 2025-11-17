@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2025-11-17T19:15:35.889Z",
+    "updated_at": "2025-11-17T23:18:21.107Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-11-17T19:15:48.915Z",
+    "updated_at": "2025-11-17T23:18:35.859Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -24,7 +24,14 @@
             "image_url": "https://www1.racgp.org.au/getattachment/c9dd9b6e-0464-41ac-a7a1-19c4190f737b/RACGP-President-and-CMO-speak-out.aspx"
           }
         ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/c9dd9b6e-0464-41ac-a7a1-19c4190f737b/RACGP-President-and-CMO-speak-out.aspx"
+        "featured_image": "https://www1.racgp.org.au/getattachment/c9dd9b6e-0464-41ac-a7a1-19c4190f737b/RACGP-President-and-CMO-speak-out.aspx",
+        "ai_summary": [
+          "The RACGP President and CMO addressed the RACGP's conference.",
+          "They discussed raising GPs' visibility within the healthcare system.",
+          "The leaders focused on creating better experiences for patients and doctors.",
+          "Billing changes were also a key topic of discussion at the conference.",
+          "The healthcare leaders shared their vision for the future of general practice."
+        ]
       },
       {
         "id": "cluster_1",
@@ -44,7 +51,14 @@
             "image_url": "https://www1.racgp.org.au/getattachment/5817f483-da5d-41be-b187-48456858d2eb/GP25-conference-a-strong-voice-for-GPs.aspx"
           }
         ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/5817f483-da5d-41be-b187-48456858d2eb/GP25-conference-a-strong-voice-for-GPs.aspx"
+        "featured_image": "https://www1.racgp.org.au/getattachment/5817f483-da5d-41be-b187-48456858d2eb/GP25-conference-a-strong-voice-for-GPs.aspx",
+        "ai_summary": [
+          "Thousands of general practitioners attended the GP25 conference over the weekend.",
+          "The conference provided opportunities for connection and inspiration among attendees.",
+          "A strong future for general practice was a key theme of the conference.",
+          "Attendees celebrated the achievements and contributions of general practitioners.",
+          "The event aimed to foster a sense of community within the general practice field."
+        ]
       },
       {
         "id": "cluster_2",
@@ -64,19 +78,78 @@
             "image_url": "https://www1.racgp.org.au/getattachment/383133e4-e203-46af-83b3-97f35bde4bc2/Game-changer-Queensland-GPs-allowed-to-diagnose-and-treat-ADHD.aspx"
           }
         ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/383133e4-e203-46af-83b3-97f35bde4bc2/Game-changer-Queensland-GPs-allowed-to-diagnose-and-treat-ADHD.aspx"
+        "featured_image": "https://www1.racgp.org.au/getattachment/383133e4-e203-46af-83b3-97f35bde4bc2/Game-changer-Queensland-GPs-allowed-to-diagnose-and-treat-ADHD.aspx",
+        "ai_summary": [
+          "Queensland general practitioners can now diagnose and treat adult ADHD patients.",
+          "GPs can initiate, adjust, and continue prescriptions without additional training.",
+          "This is the first such allowance in Australia for general practitioners.",
+          "The change aims to improve access to ADHD care for adults in Queensland.",
+          "The new policy represents a significant shift in healthcare delivery."
+        ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2025-11-17T19:15:45.498Z",
+    "updated_at": "2025-11-17T23:18:31.994Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Mon, 17 Nov 2025 20:00:14 GMT",
+        "title": "From seabirds to sea turtles: the fatal toll of plastic revealed",
+        "neutral_headline": "Study Reveals Plastic Ingestion's Deadly Impact on Marine Life",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cr5eyjd2zz7o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 17 Nov 2025 20:00:14 GMT",
+            "title": "From seabirds to sea turtles: the fatal toll of plastic revealed",
+            "standfirst": "A new study pinpoints the deadly thresholds of plastic ingestion for marine life.",
+            "content": "A new study pinpoints the deadly thresholds of plastic ingestion for marine life.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/048e/live/0f83aff0-c394-11f0-bf6d-2303f4ff06b7.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/048e/live/0f83aff0-c394-11f0-bf6d-2303f4ff06b7.jpg",
+        "ai_summary": [
+          "A new study identifies lethal plastic ingestion thresholds for marine animals.",
+          "The research focuses on the impact of plastic on various marine species.",
+          "The study highlights the dangers of plastic pollution in the oceans.",
+          "Findings reveal specific amounts of plastic that prove fatal.",
+          "The study aims to raise awareness about plastic's impact on marine ecosystems."
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Mon, 17 Nov 2025 19:46:42 GMT",
+        "title": "Woman killed herself after south London hospital neglect, coroner concludes",
+        "neutral_headline": "Hospital Neglect Leads to Suicide, Coroner Concludes",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2025/nov/17/woman-killed-herself-after-south-london-hospital-neglect-coroner-concludes",
+            "published_at": "Mon, 17 Nov 2025 19:46:42 GMT",
+            "title": "Woman killed herself after south London hospital neglect, coroner concludes",
+            "standfirst": "Michelle Sparman, 48, died after staff at Queen Mary’s hospital in Roehampton failed to search her possessions adequately, inquest findsA woman killed herself after a south London psychiatric unit failed to search her possessions adequately, a coroner has concluded.Michelle Sparman, a personal trainer and call dispatcher for the Metropolitan police from Battersea, south-west London, died on 28 August 2021 at Kingston hospital, four days after trying to take her own life. Continue reading...",
+            "content": "Michelle Sparman, 48, died after staff at Queen Mary’s hospital in Roehampton failed to search her possessions adequately, inquest findsA woman killed herself after a south London psychiatric unit failed to search her possessions adequately, a coroner has concluded.Michelle Sparman, a personal trainer and call dispatcher for the Metropolitan police from Battersea, south-west London, died on 28 August 2021 at Kingston hospital, four days after trying to take her own life. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "A coroner determined a hospital's neglect contributed to a woman's suicide.",
+          "Staff at Queen Mary's hospital failed to adequately search her possessions.",
+          "Michelle Sparman died four days after a suicide attempt at Kingston hospital.",
+          "The inquest revealed failures in the care provided at the hospital.",
+          "The coroner's conclusion highlights the importance of proper patient care."
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
         "updated_at": "Mon, 17 Nov 2025 17:15:35 GMT",
         "title": "UK officials ‘working day and night’ to resolve NHS drug pricing row’",
-        "neutral_headline": "UK officials ‘working day and night’ to resolve NHS drug pricing row’",
+        "neutral_headline": "UK Officials Work to Resolve NHS Drug Pricing Dispute",
         "items": [
           {
             "source": "Guardian Health",
@@ -85,16 +158,23 @@
             "title": "UK officials ‘working day and night’ to resolve NHS drug pricing row’",
             "standfirst": "Patrick Vallance says government trying to rebuild relations with pharma industry as he outlines life sciences ambitionThe UK science minister has said officials are “working day and night” trying to resolve the standoff with big pharmaceutical companies over drug pricing.Speaking to industry leaders and investors at London life sciences week, Patrick Vallance, a former GSK executive, said the government was “clear eyed about the challenges”. Continue reading...",
             "content": "Patrick Vallance says government trying to rebuild relations with pharma industry as he outlines life sciences ambitionThe UK science minister has said officials are “working day and night” trying to resolve the standoff with big pharmaceutical companies over drug pricing.Speaking to industry leaders and investors at London life sciences week, Patrick Vallance, a former GSK executive, said the government was “clear eyed about the challenges”. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
+        ],
+        "ai_summary": [
+          "UK officials are actively working to resolve the drug pricing dispute.",
+          "The government aims to rebuild relations with the pharmaceutical industry.",
+          "Patrick Vallance discussed the challenges during London life sciences week.",
+          "The government is aware of the difficulties in the negotiations.",
+          "The focus is on finding a solution to the ongoing pricing issues."
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Mon, 17 Nov 2025 16:00:40 GMT",
         "title": "‘Better and cheaper’: the case for prostate cancer screening among black men",
-        "neutral_headline": "‘Better and cheaper’: the case for prostate cancer screening among black men",
+        "neutral_headline": "Prostate Cancer Screening: Case for Black Men Examined",
         "items": [
           {
             "source": "Guardian Health",
@@ -103,16 +183,23 @@
             "title": "‘Better and cheaper’: the case for prostate cancer screening among black men",
             "standfirst": "Decision over routine PSA testing is due at end of this month, though some feel the supporting data is unclearJunior Hemans was having a routine health check in 2014 when he was diagnosed with prostate cancer, at the age of 51. He knew there was an increased risk of the disease in black men so asked to have a prostate specific antigen (PSA) test, which was not initially included.“And when I went, they said I had a raised PSA level for my age,” Hemans said. “[The diagnosis] was a shock … because I had no symptoms.” Continue reading...",
             "content": "Decision over routine PSA testing is due at end of this month, though some feel the supporting data is unclearJunior Hemans was having a routine health check in 2014 when he was diagnosed with prostate cancer, at the age of 51. He knew there was an increased risk of the disease in black men so asked to have a prostate specific antigen (PSA) test, which was not initially included.“And when I went, they said I had a raised PSA level for my age,” Hemans said. “[The diagnosis] was a shock … because I had no symptoms.” Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
+        ],
+        "ai_summary": [
+          "The decision on routine PSA testing is due at the end of this month.",
+          "Some feel the supporting data for prostate cancer screening is unclear.",
+          "Junior Hemans was diagnosed with prostate cancer at age 51.",
+          "Hemans requested a PSA test due to increased risk for black men.",
+          "The article discusses the importance of early detection and screening."
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 17 Nov 2025 15:56:47 GMT",
         "title": "Bake Off winner and Strictly star John Whaite reveals steroid addiction",
-        "neutral_headline": "Bake Off winner and Strictly star John Whaite reveals steroid addiction",
+        "neutral_headline": "Bake Off Winner John Whaite Reveals Steroid Addiction",
         "items": [
           {
             "source": "BBC Health",
@@ -125,14 +212,21 @@
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a1/live/62dff990-c3c3-11f0-8669-5560f5c90fbe.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a1/live/62dff990-c3c3-11f0-8669-5560f5c90fbe.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a1/live/62dff990-c3c3-11f0-8669-5560f5c90fbe.jpg",
+        "ai_summary": [
+          "John Whaite, a Strictly runner-up, has revealed a steroid addiction.",
+          "He began taking steroids due to dissatisfaction with his body image.",
+          "Whaite's use of steroids was related to body image concerns.",
+          "The article discusses the impact of steroids on physical health.",
+          "Whaite's story highlights the pressures of body image."
+        ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Mon, 17 Nov 2025 14:50:46 GMT",
         "title": "UK weather: amber cold health alerts issued for northern England",
-        "neutral_headline": "UK Issues Cold Health Alerts for Northern England",
+        "neutral_headline": "Amber Cold Health Alerts Issued for Northern England",
         "items": [
           {
             "source": "Guardian Health",
@@ -141,23 +235,23 @@
             "title": "UK weather: amber cold health alerts issued for northern England",
             "standfirst": "Warnings in place until 8am Saturday, with sub-zero overnight temperatures also expected to disrupt transportAmber cold health alerts have been issued for northern England amid warnings of sub-zero overnight temperatures this week.The UK Health Security Agency issued amber warnings for north-east and north-west England, and Yorkshire and the Humber. The alerts indicate an “increase in risk to health for individuals aged over 65 years or those with pre-existing health conditions, including respiratory and cardiovascular diseases” as well as greater risk of disruptions to roads and public transport. Continue reading...",
             "content": "Warnings in place until 8am Saturday, with sub-zero overnight temperatures also expected to disrupt transportAmber cold health alerts have been issued for northern England amid warnings of sub-zero overnight temperatures this week.The UK Health Security Agency issued amber warnings for north-east and north-west England, and Yorkshire and the Humber. The alerts indicate an “increase in risk to health for individuals aged over 65 years or those with pre-existing health conditions, including respiratory and cardiovascular diseases” as well as greater risk of disruptions to roads and public transport. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "UKHSA issued amber warnings for north-east, north-west England, and Yorkshire and the Humber.",
-          "Alerts indicate increased health risk for those over 65 or with pre-existing conditions.",
-          "Respiratory and cardiovascular diseases are included in the pre-existing conditions.",
-          "Disruptions to roads and public transport are also a potential risk.",
-          "Warnings are in place until 8 AM Saturday, with sub-zero temperatures expected."
+          "Amber cold health alerts are in effect for northern England.",
+          "Warnings are in place until 8 AM Saturday due to cold temperatures.",
+          "Sub-zero overnight temperatures are expected to disrupt transport.",
+          "The alerts indicate increased health risks for vulnerable individuals.",
+          "The UK Health Security Agency issued the warnings."
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Mon, 17 Nov 2025 11:55:01 GMT",
         "title": "Stephen Dawson obituary",
-        "neutral_headline": "Stephen Dawson Obituary: A Urologist in the AIDS Era",
+        "neutral_headline": "Stephen Dawson Obituary: A Newly Minted Urologist",
         "items": [
           {
             "source": "Guardian Health",
@@ -166,23 +260,23 @@
             "title": "Stephen Dawson obituary",
             "standfirst": "My friend Stephen Dawson, who has died of cancer aged 78, had the questionable luck of being a newly minted urologist when Aids first struck in London in the early 1980s.The son of Philip, a nuclear physicist at the Atomic Energy Research Establishment at Harwell, and May, a housewife, Steve was born in London, went to King Alfred’s school, Wantage, and studied medicine at University College Hospital before qualifying as a fellow of the Royal College of Physicians in the late 70s. The decade that followed was both clinically fascinating and emotionally challenging. Continue reading...",
             "content": "My friend Stephen Dawson, who has died of cancer aged 78, had the questionable luck of being a newly minted urologist when Aids first struck in London in the early 1980s.The son of Philip, a nuclear physicist at the Atomic Energy Research Establishment at Harwell, and May, a housewife, Steve was born in London, went to King Alfred’s school, Wantage, and studied medicine at University College Hospital before qualifying as a fellow of the Royal College of Physicians in the late 70s. The decade that followed was both clinically fascinating and emotionally challenging. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ],
         "ai_summary": [
-          "Stephen Dawson died of cancer at age 78, a urologist when AIDS emerged.",
-          "He was the son of a nuclear physicist and a housewife.",
+          "Stephen Dawson, who died of cancer at 78, was a urologist.",
+          "He was a urologist when AIDS first struck in London in the 1980s.",
           "Dawson studied medicine at University College Hospital.",
-          "He qualified as a fellow of the Royal College of Physicians in the late 70s.",
-          "The following decade was clinically fascinating and emotionally challenging."
+          "He qualified as a fellow of the Royal College of Physicians.",
+          "The obituary reflects on his career and life experiences."
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 17 Nov 2025 11:00:07 GMT",
         "title": "Are you stuck in ordinary - but devastating - narcissism? There is a way out",
-        "neutral_headline": "Overcoming Narcissism: Finding Meaningful Therapy",
+        "neutral_headline": "Narcissism: Finding a Path Beyond Devastating Impulses",
         "items": [
           {
             "source": "Guardian Health",
@@ -191,23 +285,23 @@
             "title": "Are you stuck in ordinary - but devastating - narcissism? There is a way out",
             "standfirst": "Meaningful therapy offers a path past our worst impulses. We should be fighting for it to be available for everyoneWhen I picture what a good life means to me, I feel a tension in my chest. I see my daughter and my husband and I feel the profound fulfilment of being exactly where I need to be, tightened by the terror that life is so fragile and I cannot protect them from that reality. Then a memory: lying on my analyst’s couch and describing a feeling of hollowness inside that I felt deeply ashamed of, and her listening and thinking and understanding – and my noticing that while I felt horror and repulsion, she didn’t seem to. Next: different walks around different parks with different friends, each with the same feeling of being warmed from the inside out; also, bumping into neighbours at the playground and feeling a part of my community. I remember powerful moments with my patients, who have felt understood, by me and within themselves. And I think of the moving messages from readers who have got in touch, sharing precious stories from their lives.People often think that psychoanalysis and its NHS-friendly grandchild, psychodynamic psychotherapy, are all about looking inwards. And it’s true – good therapy should give us the time and space, the frame and the containment, to look inside and listen to ourselves. Continue reading...",
             "content": "Meaningful therapy offers a path past our worst impulses. We should be fighting for it to be available for everyoneWhen I picture what a good life means to me, I feel a tension in my chest. I see my daughter and my husband and I feel the profound fulfilment of being exactly where I need to be, tightened by the terror that life is so fragile and I cannot protect them from that reality. Then a memory: lying on my analyst’s couch and describing a feeling of hollowness inside that I felt deeply ashamed of, and her listening and thinking and understanding – and my noticing that while I felt horror and repulsion, she didn’t seem to. Next: different walks around different parks with different friends, each with the same feeling of being warmed from the inside out; also, bumping into neighbours at the playground and feeling a part of my community. I remember powerful moments with my patients, who have felt understood, by me and within themselves. And I think of the moving messages from readers who have got in touch, sharing precious stories from their lives.People often think that psychoanalysis and its NHS-friendly grandchild, psychodynamic psychotherapy, are all about looking inwards. And it’s true – good therapy should give us the time and space, the frame and the containment, to look inside and listen to ourselves. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ],
         "ai_summary": [
-          "The author describes a feeling of hollowness and shame, seeking therapy.",
-          "Therapy provides space to look inward and listen to oneself.",
-          "Good therapy offers time and containment for self-reflection.",
-          "The author finds fulfillment in family and community connections.",
-          "Readers share stories, highlighting the value of understanding."
+          "The article explores the impact of narcissism on individuals.",
+          "It suggests that meaningful therapy can offer a path forward.",
+          "The author reflects on personal experiences with therapy.",
+          "The article emphasizes the importance of self-reflection.",
+          "It advocates for accessible mental health resources."
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Mon, 17 Nov 2025 10:00:04 GMT",
         "title": "The one change that worked: I had Sad and felt desperate – until a scientist gave me some priceless advice",
-        "neutral_headline": "One Change That Worked: Advice for Seasonal Affective Disorder",
+        "neutral_headline": "One Change That Worked: Overcoming Seasonal Affective Disorder",
         "items": [
           {
             "source": "Guardian Health",
@@ -216,23 +310,23 @@
             "title": "The one change that worked: I had Sad and felt desperate – until a scientist gave me some priceless advice",
             "standfirst": "Since I was a teenager I had struggled in winter, experiencing excessive tiredness and low mood. A specific instruction lifted the gloomI’m pretty sure I must be half human, half plant – how else to explain why I need the light to thrive? During the brighter seasons I feel fine, but when winter comes and the light begins to fade, I start drooping.I have struggled with seasonal affective disorder (Sad) since I was a teenager. The symptoms of Sad are similar to regular depression, with low moods and lethargy, and can be equally debilitating. Over the years I’ve experienced the full Sad spectrum, from moments of excessive tiredness and carb cravings (yes, those are official Sad symptoms), to a low point of breaking down crying on the kitchen floor after school because it was so cold, dark and bleak. Continue reading...",
             "content": "Since I was a teenager I had struggled in winter, experiencing excessive tiredness and low mood. A specific instruction lifted the gloomI’m pretty sure I must be half human, half plant – how else to explain why I need the light to thrive? During the brighter seasons I feel fine, but when winter comes and the light begins to fade, I start drooping.I have struggled with seasonal affective disorder (Sad) since I was a teenager. The symptoms of Sad are similar to regular depression, with low moods and lethargy, and can be equally debilitating. Over the years I’ve experienced the full Sad spectrum, from moments of excessive tiredness and carb cravings (yes, those are official Sad symptoms), to a low point of breaking down crying on the kitchen floor after school because it was so cold, dark and bleak. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "The author struggled with Seasonal Affective Disorder (SAD) since teenage years.",
-          "Symptoms include low mood, lethargy, and excessive tiredness.",
-          "The author experienced various SAD symptoms, including carb cravings.",
-          "A scientist gave specific advice that lifted the author's gloom.",
-          "The author feels better during brighter seasons, struggling in winter."
+          "The author shares their experience with seasonal affective disorder.",
+          "They found relief through a specific instruction from a scientist.",
+          "The article discusses the symptoms of seasonal affective disorder.",
+          "The author has struggled with the condition since their teens.",
+          "The article highlights the impact of light on mood and energy."
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 17 Nov 2025 08:00:04 GMT",
         "title": "Is it true that … you burn more fat by working out on an empty stomach?",
-        "neutral_headline": "Exercising on an Empty Stomach: Does It Burn More Fat?",
+        "neutral_headline": "Exercise on Empty Stomach: Does It Burn More Fat?",
         "items": [
           {
             "source": "Guardian Health",
@@ -241,23 +335,23 @@
             "title": "Is it true that … you burn more fat by working out on an empty stomach?",
             "standfirst": "There are modest benefits to exercising on an empty stomach, but it’s more important to burn more energy than you’re consuming‘There’s an element of truth to that,” says Javier Gonzalez, a professor of nutrition and metabolism at the University of Bath. “When we exercise, we’re always burning a mix of fuels – mainly carbohydrates and fat. If you’ve fasted overnight, you’ll generally burn a bit more fat and less carbohydrate than if you’d eaten breakfast, especially one high in carbs.” But that doesn’t mean fasted workouts are better for weight loss.“We can only store a small amount of carbohydrate as glycogen in our muscles and liver. Any extra energy – from carbs, fat or protein – eventually gets stored as body fat. So to lose fat, you need to be in an energy deficit: burning more energy than you consume. If you’re not, it doesn’t matter whether you’re fasted or fed – your body balances things out over time,” says Gonzalez. Continue reading...",
             "content": "There are modest benefits to exercising on an empty stomach, but it’s more important to burn more energy than you’re consuming‘There’s an element of truth to that,” says Javier Gonzalez, a professor of nutrition and metabolism at the University of Bath. “When we exercise, we’re always burning a mix of fuels – mainly carbohydrates and fat. If you’ve fasted overnight, you’ll generally burn a bit more fat and less carbohydrate than if you’d eaten breakfast, especially one high in carbs.” But that doesn’t mean fasted workouts are better for weight loss.“We can only store a small amount of carbohydrate as glycogen in our muscles and liver. Any extra energy – from carbs, fat or protein – eventually gets stored as body fat. So to lose fat, you need to be in an energy deficit: burning more energy than you consume. If you’re not, it doesn’t matter whether you’re fasted or fed – your body balances things out over time,” says Gonzalez. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ],
         "ai_summary": [
-          "Exercising on an empty stomach has modest benefits, according to a professor.",
-          "Fasted workouts burn more fat and less carbohydrates, especially without breakfast.",
-          "To lose fat, one must be in an energy deficit, burning more than consuming.",
-          "The body balances energy intake and expenditure over time.",
-          "Any extra energy gets stored as body fat."
+          "The article explores the effects of exercising on an empty stomach.",
+          "It discusses the role of carbohydrates and fat in energy use.",
+          "Fasted workouts may burn more fat but not necessarily aid weight loss.",
+          "The key to fat loss is burning more energy than consumed.",
+          "The article cites a professor of nutrition and metabolism."
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 17 Nov 2025 06:18:32 GMT",
         "title": "'Price of sports bras shouldn't stop us competing'",
-        "neutral_headline": "Price of sports bras shouldn't stop us competing",
+        "neutral_headline": "Sports Bra Prices Should Not Stop Competition",
         "items": [
           {
             "source": "BBC Health",
@@ -272,19 +366,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c24/live/c1cda040-c16d-11f0-a388-eda4b11262c1.jpg",
         "ai_summary": [
-          "A former Team GB athlete advocates for free sports bras for secondary school girls.",
-          "The athlete also calls for free fittings for secondary school girls.",
-          "The goal is to remove financial barriers to participation in sports.",
-          "The athlete aims to promote equal opportunities in sports.",
-          "The initiative seeks to support girls' physical activity and well-being."
+          "A former Team GB athlete advocates for free sports bras.",
+          "The athlete wants free fittings for secondary school girls.",
+          "The goal is to remove financial barriers to participation.",
+          "The focus is on supporting young female athletes.",
+          "The initiative aims to promote sports accessibility."
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 17 Nov 2025 06:04:43 GMT",
         "title": "Mother had 'agonising' health test without consent",
-        "neutral_headline": "Mother had 'agonising' health test without consent",
+        "neutral_headline": "Mother Had Agonizing Health Test Without Consent",
         "items": [
           {
             "source": "BBC Health",
@@ -299,19 +393,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e84/live/f86d0c20-c3ad-11f0-9282-295abedd69b8.jpg",
         "ai_summary": [
-          "Dawn Lord says she did not know what was happening during a hysteroscopy.",
-          "The procedure was \"traumatic\" for the mother.",
-          "Lord claims she did not give consent for the health test.",
-          "The details of the test are not specified in the summary.",
-          "The article focuses on the mother's experience and lack of awareness."
+          "Dawn Lord describes a \"traumatic\" hysteroscopy experience.",
+          "She claims she was unaware of what was happening during the test.",
+          "The article highlights issues of informed consent in healthcare.",
+          "Lord's experience raises concerns about patient communication.",
+          "The article focuses on the patient's perspective."
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 17 Nov 2025 05:54:45 GMT",
         "title": "Advice for PCOS has not changed for 30 years, says patient",
-        "neutral_headline": "Advice for PCOS has not changed for 30 years, says patient",
+        "neutral_headline": "Advice for PCOS Has Not Changed in Thirty Years",
         "items": [
           {
             "source": "BBC Health",
@@ -326,19 +420,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52a8/live/f1be28a0-befd-11f0-90b3-b57c162d3edc.jpg",
         "ai_summary": [
-          "Alex Allan expresses sadness over lack of progress in PCOS treatment.",
-          "She feels the advice for PCOS has not evolved in three decades.",
-          "The article highlights the patient's frustration with current treatments.",
-          "The patient's perspective emphasizes the need for advancements.",
-          "The article focuses on the patient's experience with the condition."
+          "Alex Allan expresses disappointment with PCOS treatment progress.",
+          "She feels treatment for the condition has not advanced.",
+          "The article highlights the need for updated treatment options.",
+          "Allan feels \"sad\" about the lack of change.",
+          "The article focuses on the patient's experience."
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 17 Nov 2025 05:47:24 GMT",
         "title": "Pauline Quirke's family on her dementia: 'She's still funny and recognises us'",
-        "neutral_headline": "Pauline Quirke's family on her dementia: 'She's still funny and recognises us",
+        "neutral_headline": "Family shares details about Pauline Quirke's dementia journey",
         "items": [
           {
             "source": "BBC Health",
@@ -353,19 +447,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/950e/live/b4b861f0-c3a8-11f0-8669-5560f5c90fbe.jpg",
         "ai_summary": [
-          "The family of Pauline Quirke shares updates on her condition.",
-          "They state she is still funny and recognizes her family members.",
-          "The family's comments offer a positive outlook on her condition.",
-          "The article focuses on the family's support for Quirke.",
-          "The family shares that she is talking and happy."
+          "The family of Pauline Quirke says she is still funny and recognizes them.",
+          "Quirke's family reports she is talking and happy despite her dementia diagnosis.",
+          "The Birds of a Feather actress's family is sharing their experiences.",
+          "The family is offering insights into Quirke's current condition.",
+          "The family is providing an update on Quirke's well-being."
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Mon, 17 Nov 2025 05:44:27 GMT",
         "title": "Children may be hit harder by flu, say officials",
-        "neutral_headline": "Children may be hit harder by flu, say officials",
+        "neutral_headline": "Officials suggest children may face greater flu impact",
         "items": [
           {
             "source": "BBC Health",
@@ -380,19 +474,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bffe/live/8fc6e520-c087-11f0-8669-5560f5c90fbe.jpg",
         "ai_summary": [
-          "Health officials warn children may be more severely affected by flu.",
-          "The UK often mirrors Australia's flu patterns a few months later.",
-          "The article highlights concerns about the impact on children.",
-          "The officials' statements emphasize the need for preparedness.",
-          "The article focuses on potential health risks for children."
+          "Health officials suggest the UK often mirrors Australia's flu trends.",
+          "Children may be more severely affected by the flu this season.",
+          "The UK may see a similar flu pattern to Australia in the coming months.",
+          "Health bosses are raising concerns about the potential impact on children.",
+          "The UK is monitoring flu trends to prepare for potential outbreaks."
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 17 Nov 2025 01:10:54 GMT",
         "title": "Brazil's Amazon rainforest at risk as key protection under threat",
-        "neutral_headline": "Brazil's Amazon rainforest at risk as key protection under threat",
+        "neutral_headline": "Amazon rainforest protection faces threat in Brazil",
         "items": [
           {
             "source": "BBC Science",
@@ -401,25 +495,25 @@
             "title": "Brazil's Amazon rainforest at risk as key protection under threat",
             "standfirst": "Brazilian farmers want to end a ban on planting soya on cleared land, which critics say would spur deforestation.",
             "content": "Brazilian farmers want to end a ban on planting soya on cleared land, which critics say would spur deforestation.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/ef01e980-c308-11f0-8669-5560f5c90fbe.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/ef01e980-c308-11f0-8669-5560f5c90fbe.jpg",
         "ai_summary": [
           "Brazilian farmers want to end a ban on planting soya on cleared land.",
-          "Critics say this would spur deforestation in the Amazon rainforest.",
-          "The article highlights the environmental risks of the proposal.",
-          "The farmers' proposal could impact the Amazon's protection.",
-          "The article focuses on the potential consequences of the change."
+          "Critics believe this change would encourage further deforestation in the Amazon.",
+          "The proposed change could negatively impact the Amazon rainforest.",
+          "The ban on planting soya is currently a key protection measure.",
+          "The situation involves potential changes to land use regulations."
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Mon, 17 Nov 2025 00:01:45 GMT",
         "title": "Two-thirds of nurses in UK work while unwell, says union",
-        "neutral_headline": "Two-thirds of nurses in UK work while unwell, says union",
+        "neutral_headline": "Two-thirds of UK nurses work while unwell, says union",
         "items": [
           {
             "source": "Guardian Health",
@@ -428,19 +522,19 @@
             "title": "Two-thirds of nurses in UK work while unwell, says union",
             "standfirst": "Understaffing driving workers to ill health and discouraging them for taking leave, says Royal College of Nursing CEONurses across the UK are working while unwell in understaffed hospitals, with stress as the leading cause of illness, according to research.A survey by the Royal College of Nursing (RCN) of more than 20,000 nursing staff found that 66% had worked when they should have been on sick leave, up from 49% in 2017. Continue reading...",
             "content": "Understaffing driving workers to ill health and discouraging them for taking leave, says Royal College of Nursing CEONurses across the UK are working while unwell in understaffed hospitals, with stress as the leading cause of illness, according to research.A survey by the Royal College of Nursing (RCN) of more than 20,000 nursing staff found that 66% had worked when they should have been on sick leave, up from 49% in 2017. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ],
         "ai_summary": [
-          "A survey by the Royal College of Nursing (RCN) was conducted.",
-          "66% of nurses worked while unwell, up from 49% in 2017.",
-          "Understaffing is driving workers to ill health and discouraging leave.",
-          "Stress is the leading cause of illness among nurses.",
-          "The survey involved over 20,000 nursing staff."
+          "A Royal College of Nursing survey found 66% of nurses worked while sick.",
+          "This is up from 49% in 2017, indicating a worsening trend.",
+          "Understaffing and stress are major factors contributing to the issue.",
+          "The RCN survey involved over 20,000 nursing staff members.",
+          "The union says understaffing is driving workers to ill health."
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Mon, 17 Nov 2025 00:00:15 GMT",
         "title": "Premature birth can be incredibly lonely, says Beatrice",
@@ -459,15 +553,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83fd/live/877d3130-c389-11f0-ae46-bd64331f0fd4.jpg",
         "ai_summary": [
-          "Princess Beatrice appeared on a podcast ahead of World Prematurity Day.",
-          "She spoke for the premature birth research charity Borne.",
-          "The article highlights the emotional impact of premature birth.",
-          "The princess's comments aim to raise awareness.",
-          "The podcast appearance supports premature birth research."
+          "Princess Beatrice spoke on a podcast about premature birth experiences.",
+          "She appeared on the podcast ahead of World Prematurity Day.",
+          "The podcast was for the premature birth research charity Borne.",
+          "The princess discussed the loneliness associated with premature birth.",
+          "The interview aimed to raise awareness about premature birth challenges."
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sun, 16 Nov 2025 16:00:36 GMT",
         "title": "‘I’d run down the road thinking I was God’: a day at the cannabis psychosis clinic",
@@ -480,19 +574,19 @@
             "title": "‘I’d run down the road thinking I was God’: a day at the cannabis psychosis clinic",
             "standfirst": "Katie hears voices and has been sectioned 50 times. Isiah became paranoid and tried to kill himself. Both link their illness to cannabis – and the drug is getting more and more potent. Is a tiny London clinic showing the way forward?It’s two years since Isiah found himself on the roof of a south London shopping centre, about to jump. “I was very done,” he says of that night in November 2023. “It felt there was no other route or option. First, I did a walk around everywhere important to me: primary school, secondary, college.” Then he headed to Lewisham shopping centre. “I remember my head was telling me: ‘You’re probably better off doing this.’”He was exhausted by his paranoia, which had grown in tandem with a cannabis habit. Now 29, he first tried marijuana at 14, becoming a daily user by 17. At university, studying event management during the pandemic, he smoked more “because this is how you meet people”, but remembers growing “feelings of suspiciousness”, first towards his housemates, then to his workmates at a part-time office job. He struggled to sleep, “started to isolate”, and cannabis became a way to cope. In the end, smoking three joints a day, he felt he could trust no one. Continue reading...",
             "content": "Katie hears voices and has been sectioned 50 times. Isiah became paranoid and tried to kill himself. Both link their illness to cannabis – and the drug is getting more and more potent. Is a tiny London clinic showing the way forward?It’s two years since Isiah found himself on the roof of a south London shopping centre, about to jump. “I was very done,” he says of that night in November 2023. “It felt there was no other route or option. First, I did a walk around everywhere important to me: primary school, secondary, college.” Then he headed to Lewisham shopping centre. “I remember my head was telling me: ‘You’re probably better off doing this.’”He was exhausted by his paranoia, which had grown in tandem with a cannabis habit. Now 29, he first tried marijuana at 14, becoming a daily user by 17. At university, studying event management during the pandemic, he smoked more “because this is how you meet people”, but remembers growing “feelings of suspiciousness”, first towards his housemates, then to his workmates at a part-time office job. He struggled to sleep, “started to isolate”, and cannabis became a way to cope. In the end, smoking three joints a day, he felt he could trust no one. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ],
         "ai_summary": [
-          "Katie hears voices and has been sectioned 50 times.",
-          "Isiah became paranoid and attempted suicide.",
-          "Both link their illness to cannabis use.",
-          "The drug is getting more and more potent.",
-          "A tiny London clinic may be showing the way forward."
+          "Isiah, 29, began using cannabis at 14 and became a daily user by 17.",
+          "Isiah experienced paranoia and attempted suicide, linking it to cannabis use.",
+          "Katie hears voices and has been sectioned 50 times, also linking cannabis.",
+          "The article explores a London clinic addressing cannabis-related psychosis.",
+          "The clinic is examining the increasing potency of cannabis and its effects."
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sun, 16 Nov 2025 14:43:46 GMT",
         "title": "Hundreds of low-paid NHS hospital staff win improved terms after strike threat",
@@ -505,71 +599,21 @@
             "title": "Hundreds of low-paid NHS hospital staff win improved terms after strike threat",
             "standfirst": "More than 330 workers, mainly cleaners, caterers and porters, at St George’s, Epsom and St Helier hospital group voted to strikeHundreds of low-paid NHS hospital workers are celebrating victory after bosses agreed to improve their terms and conditions following the threat of strike action.More than 330 workers, mainly cleaners, caterers and porters, known as facilities staff, at St George’s, Epsom and St Helier hospital group (GESH) – 98% of those balloted – voted for strike action. Continue reading...",
             "content": "More than 330 workers, mainly cleaners, caterers and porters, at St George’s, Epsom and St Helier hospital group voted to strikeHundreds of low-paid NHS hospital workers are celebrating victory after bosses agreed to improve their terms and conditions following the threat of strike action.More than 330 workers, mainly cleaners, caterers and porters, known as facilities staff, at St George’s, Epsom and St Helier hospital group (GESH) – 98% of those balloted – voted for strike action. Continue reading...",
-            "feed_position": 9
-          }
-        ],
-        "ai_summary": [
-          "Over 330 workers, mainly cleaners, caterers, and porters, voted to strike.",
-          "The workers are from St George’s, Epsom, and St Helier hospital group.",
-          "98% of those balloted voted for strike action.",
-          "Bosses agreed to improve terms and conditions after the strike threat.",
-          "The workers are celebrating victory after the agreement."
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Sun, 16 Nov 2025 14:00:33 GMT",
-        "title": "Want to avoid anxiety, headaches and constipation? Try giving up on your goals | Emma Beddington",
-        "neutral_headline": "Want to avoid anxiety, headaches and constipation? Try giving up on your goals",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/commentisfree/2025/nov/16/want-to-avoid-anxiety-headaches-and-constipation-try-giving-up-on-your-goals",
-            "published_at": "Sun, 16 Nov 2025 14:00:33 GMT",
-            "title": "Want to avoid anxiety, headaches and constipation? Try giving up on your goals | Emma Beddington",
-            "standfirst": "We’re taught from infancy that perseverance is a moral virtue and persistence pays. But what if quitters are happier and healthier?Have you ever heard yourself saying “I’m going to do this if it kills me”? As the pensioners at my gym can attest, it’s what I hiss every time I’m there, attempting slowly and laboriously to get myself a millimetre closer to doing the splits.But what if it actually is killing me? Not the groin strain, problematic as that is, but because I’ve just read in New Scientist that giving up is good for you, while grinding on isn’t. One study showed that people who “struggled to disengage from unfulfilling goals” had higher levels of cortisol and inflammatory molecules. “The result,” the article explained, “could be a heightened susceptibility to all kinds of conditions, including cardiovascular disease and Alzheimer’s.” In addition, “goal disengagement” – giving up – correlated with a lower risk of headaches, constipation and eczema; it may even protect against infection. Of 131 older adults, those who scored highly on a giving up scale (asking how easily they stopped fixating on unfulfilling goals and pivoted to others) got fewer colds. Continue reading...",
-            "content": "We’re taught from infancy that perseverance is a moral virtue and persistence pays. But what if quitters are happier and healthier?Have you ever heard yourself saying “I’m going to do this if it kills me”? As the pensioners at my gym can attest, it’s what I hiss every time I’m there, attempting slowly and laboriously to get myself a millimetre closer to doing the splits.But what if it actually is killing me? Not the groin strain, problematic as that is, but because I’ve just read in New Scientist that giving up is good for you, while grinding on isn’t. One study showed that people who “struggled to disengage from unfulfilling goals” had higher levels of cortisol and inflammatory molecules. “The result,” the article explained, “could be a heightened susceptibility to all kinds of conditions, including cardiovascular disease and Alzheimer’s.” In addition, “goal disengagement” – giving up – correlated with a lower risk of headaches, constipation and eczema; it may even protect against infection. Of 131 older adults, those who scored highly on a giving up scale (asking how easily they stopped fixating on unfulfilling goals and pivoted to others) got fewer colds. Continue reading...",
             "feed_position": 10
           }
         ],
         "ai_summary": [
-          "A New Scientist article suggests giving up on unfulfilling goals is beneficial for health.",
-          "People struggling to disengage from unfulfilling goals showed higher cortisol and inflammatory molecules.",
-          "\"Goal disengagement\" correlated with lower risk of headaches, constipation, and eczema.",
-          "Giving up may protect against infection, as seen in a study of older adults.",
-          "Those who easily stopped fixating on unfulfilling goals got fewer colds."
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Sun, 16 Nov 2025 12:00:31 GMT",
-        "title": "Everything I wish I’d known before I decided to freeze my eggs at 36",
-        "neutral_headline": "Everything I wish I’d known before I decided to freeze my eggs at 36: More and more people are turning to egg freezing to increase their chances of becoming a parent. Here’s what you need to know if you’re considering it – from the hidden costs to the chances of success",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2025/nov/16/everything-i-wish-i-had-known-before-i-decided-to-freeze-my-eggs",
-            "published_at": "Sun, 16 Nov 2025 12:00:31 GMT",
-            "title": "Everything I wish I’d known before I decided to freeze my eggs at 36",
-            "standfirst": "More and more people are turning to egg freezing to increase their chances of becoming a parent. Here’s what you need to know if you’re considering it – from the hidden costs to the chances of successWhen I first told my mother I was freezing my eggs, she asked: “So my grandchildren are going to be stored next to some Häagen-Dazs?” (Very funny, Mum.) I’m one of an increasing number of women in the UK who have chosen to put their eggs on ice in order to preserve their fertility, although this does – as discussed later – have clear limitations.According to the Human Fertilisation and Embryology Authority (HFEA), the UK’s regulator for the fertility industry, there was a 170% increase in the number of egg freezing cycles between 2019 and 2023. The technology has been around since the 80s, but became more accessible in the 00s with vitrification, a flash-freezing technique. Now, celebrities such as Florence Pugh and Michaela Coel openly discuss their experiences of it, and companies such as Meta, Spotify and Goldman Sachs subsidise the procedure for employees. Continue reading...",
-            "content": "More and more people are turning to egg freezing to increase their chances of becoming a parent. Here’s what you need to know if you’re considering it – from the hidden costs to the chances of successWhen I first told my mother I was freezing my eggs, she asked: “So my grandchildren are going to be stored next to some Häagen-Dazs?” (Very funny, Mum.) I’m one of an increasing number of women in the UK who have chosen to put their eggs on ice in order to preserve their fertility, although this does – as discussed later – have clear limitations.According to the Human Fertilisation and Embryology Authority (HFEA), the UK’s regulator for the fertility industry, there was a 170% increase in the number of egg freezing cycles between 2019 and 2023. The technology has been around since the 80s, but became more accessible in the 00s with vitrification, a flash-freezing technique. Now, celebrities such as Florence Pugh and Michaela Coel openly discuss their experiences of it, and companies such as Meta, Spotify and Goldman Sachs subsidise the procedure for employees. Continue reading...",
-            "feed_position": 11
-          }
-        ],
-        "ai_summary": [
-          "Egg freezing is increasingly popular in the UK to preserve fertility, with limitations.",
-          "The HFEA reported a 170% increase in egg freezing cycles between 2019 and 2023.",
-          "Vitrification, a flash-freezing technique, made egg freezing more accessible in the 2000s.",
-          "Celebrities and companies like Meta subsidize egg freezing for employees.",
-          "The article discusses hidden costs and success chances of egg freezing."
+          "Over 330 NHS workers, mainly cleaners, won improved terms.",
+          "The workers are from St George’s, Epsom, and St Helier hospital group.",
+          "98% of the workers balloted voted for strike action.",
+          "The improved terms followed a threat of strike action.",
+          "The workers involved are primarily facilities staff."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-11-17T19:15:48.915Z",
+    "updated_at": "2025-11-17T23:18:35.859Z",
     "clusters": []
   }
 }
