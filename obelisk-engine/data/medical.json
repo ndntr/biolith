@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2025-11-24T19:14:26.924Z",
+    "updated_at": "2025-11-24T23:18:29.016Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-11-24T19:14:34.110Z",
+    "updated_at": "2025-11-24T23:18:42.660Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/b018700b-ceca-4fb1-b5e8-082dfaf44109/No-mandated-health-checks-for-older-GPs-urges-world-authority.aspx",
         "ai_summary": [
-          "The World Medical Association opposes mandatory age-related health checks.",
+          "The World Medical Association opposes mandatory age-based retirement for doctors.",
+          "The WMA also opposes mandatory health checks for older GPs.",
           "This stance contrasts with a controversial proposal from AHPRA.",
-          "The WMA believes in not enforcing age-based retirement or health checks.",
-          "The AHPRA proposal is the subject of ongoing debate.",
-          "The WMA's position reflects a broader discussion on physician well-being."
+          "AHPRA's proposal is related to the regulation of healthcare professionals.",
+          "The WMA's position reflects concerns about age discrimination."
         ]
       },
       {
@@ -54,10 +54,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/bd283cd0-5a64-48a2-a62c-87d1083577ba/Prescribing-expansions-step-in-the-wrong-direction.aspx",
         "ai_summary": [
           "The RACGP is criticizing the rapid expansion of prescribers in Australia.",
-          "This criticism comes amid rising antimicrobial resistance concerns.",
-          "The RACGP believes the expansion is a negative development.",
-          "The organization is calling for a reevaluation of prescribing practices.",
-          "The focus is on addressing the growing threat of antibiotic resistance."
+          "This expansion is occurring at a time of rising antimicrobial resistance.",
+          "The RACGP believes this expansion is a negative development.",
+          "The RACGP is a professional body for general practitioners.",
+          "Antimicrobial resistance poses a significant public health threat."
         ]
       },
       {
@@ -81,19 +81,19 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/6af006f6-9c07-4d6c-8a9e-159aaf629141/Pill-testing-trial-expands-further.aspx",
         "ai_summary": [
           "The RACGP welcomes the expansion of pill testing sites in Victoria.",
-          "The rollout at festivals is seen as a positive step.",
-          "The RACGP believes pill testing can save lives.",
-          "The expansion aims to reduce drug-related harm.",
-          "The initiative is part of a harm reduction strategy."
+          "Pill testing is being rolled out at several music festivals.",
+          "The RACGP views this as a positive step to save lives.",
+          "Pill testing helps identify potentially dangerous substances.",
+          "The initiative aims to reduce drug-related harm."
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2025-11-24T19:14:42.061Z",
+    "updated_at": "2025-11-24T23:18:30.997Z",
     "clusters": [
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 2,
         "updated_at": "Mon, 24 Nov 2025 16:12:28 GMT",
         "title": "Groundbreaking UK gene therapy offers hope after progress of three-year-old",
@@ -106,7 +106,7 @@
             "title": "Groundbreaking UK gene therapy offers hope after progress of three-year-old",
             "standfirst": "Oliver Chu from California first person to have the one-off treatment for Hunter syndromeDoctors are cautiously optimistic about a groundbreaking gene therapy for children affected by a devastating inherited disorder after seeing positive results in the first boy to receive the treatment.Three-year-old Oliver Chu from California became the first patient to have the therapy nine months ago as part of a clinical trial run by researchers in Manchester. It is too early to call the therapy a success, but doctors are encouraged by his progress so far. Continue reading...",
             "content": "Oliver Chu from California first person to have the one-off treatment for Hunter syndromeDoctors are cautiously optimistic about a groundbreaking gene therapy for children affected by a devastating inherited disorder after seeing positive results in the first boy to receive the treatment.Three-year-old Oliver Chu from California became the first patient to have the therapy nine months ago as part of a clinical trial run by researchers in Manchester. It is too early to call the therapy a success, but doctors are encouraged by his progress so far. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           },
           {
             "source": "BBC Health",
@@ -126,7 +126,7 @@
             "standfirst": "Oliver has an inherited condition called Hunter syndrome, which causes progressive damage to the body and brain.",
             "content": "Oliver has an inherited condition called Hunter syndrome, which causes progressive damage to the body and brain.",
             "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a74f/live/66c83790-c966-11f0-a892-01d657345866.jpg"
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02f8/live/8c2cdf40-c96b-11f0-8c06-f5d460985095.jpg"
           },
           {
             "source": "BBC Health",
@@ -141,15 +141,67 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aea/live/a41986a0-c923-11f0-8c06-f5d460985095.jpg",
         "ai_summary": [
-          "A three-year-old boy received a gene therapy treatment for Hunter syndrome.",
-          "The treatment is part of a clinical trial in Manchester, UK.",
-          "Doctors are encouraged by the boy's progress after nine months.",
-          "The therapy is a one-off treatment for the inherited disorder.",
-          "It is too early to declare the therapy a complete success."
+          "A three-year-old boy from California received gene therapy for Hunter syndrome.",
+          "The treatment is a one-off therapy, administered as part of a clinical trial.",
+          "Doctors are cautiously optimistic about the boy's progress after nine months.",
+          "Hunter syndrome is a devastating inherited disorder affecting children.",
+          "The therapy is being tested by researchers in Manchester, UK."
         ]
       },
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Mon, 24 Nov 2025 22:18:53 GMT",
+        "title": "Tatiana Schlossberg's poignant essay raises awareness of rare leukaemia",
+        "neutral_headline": "Tatiana Schlossberg's poignant essay raises awareness of rare leukaemia",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cj9ynjg3zy0o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 24 Nov 2025 22:18:53 GMT",
+            "title": "Tatiana Schlossberg's poignant essay raises awareness of rare leukaemia",
+            "standfirst": "Doctors say her struggle - even with the best care as a member of a prominent family - emphasises the need for more research.",
+            "content": "Doctors say her struggle - even with the best care as a member of a prominent family - emphasises the need for more research.",
+            "feed_position": 3,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/404c/live/339002a0-c983-11f0-84b0-85226717c3ac.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/404c/live/339002a0-c983-11f0-84b0-85226717c3ac.jpg",
+        "ai_summary": [
+          "Tatiana Schlossberg's essay highlights the challenges of rare leukemia.",
+          "Doctors emphasize the need for more research into the disease.",
+          "The essay discusses the struggles of a prominent family member.",
+          "Even with the best care, the disease presents significant challenges.",
+          "The essay aims to raise awareness about the need for research."
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Mon, 24 Nov 2025 19:50:11 GMT",
+        "title": "Tracking abortion laws across the United States",
+        "neutral_headline": "Tracking abortion laws across the United States",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/ng-interactive/2024/jul/29/abortion-laws-bans-by-state",
+            "published_at": "Mon, 24 Nov 2025 19:50:11 GMT",
+            "title": "Tracking abortion laws across the United States",
+            "standfirst": "Abortion is now banned in 13 states, while four have banned the procedure past roughly six weeks of pregnancyThe US supreme court’s decision to overturn Roe v Wade may have abolished the national right to abortion, but the state-by-state battle for abortion rights is far from over.Since Roe was overturned in 2022, 13 states have enacted near-total abortion bans, while four states – Georgia, South Carolina, Florida and Iowa – have banned abortion past roughly six weeks of pregnancy. Other states have enacted laws or held ballot referendums to protect abortion rights. Continue reading...",
+            "content": "Abortion is now banned in 13 states, while four have banned the procedure past roughly six weeks of pregnancyThe US supreme court’s decision to overturn Roe v Wade may have abolished the national right to abortion, but the state-by-state battle for abortion rights is far from over.Since Roe was overturned in 2022, 13 states have enacted near-total abortion bans, while four states – Georgia, South Carolina, Florida and Iowa – have banned abortion past roughly six weeks of pregnancy. Other states have enacted laws or held ballot referendums to protect abortion rights. Continue reading...",
+            "feed_position": 1
+          }
+        ],
+        "ai_summary": [
+          "Abortion is banned in 13 US states following the overturning of Roe v Wade.",
+          "Four states have banned abortion after approximately six weeks of pregnancy.",
+          "The Supreme Court's decision ended the national right to abortion.",
+          "The state-by-state battle for abortion rights continues.",
+          "Some states have enacted laws to protect abortion rights."
+        ]
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 17:35:37 GMT",
         "title": "John Stuart Brown obituary",
@@ -162,19 +214,19 @@
             "title": "John Stuart Brown obituary",
             "standfirst": "Doctor whose lobbying led to a government sanctioned increase in minor surgery undertaken by GPsIn 1979, the British Medical Journal published an article by a Kent GP, John Stuart Brown, titled “Minor operations in general practice”.Brown, who has died aged 90, wrote that undertaking an average of four minor operations a week in his GP surgery had huge advantages compared to referring patients to hospital. It was faster, more convenient for patients and cost-effective, saving the area health authority more than £15,000 a year. He estimated the average cost of a procedure in his GP surgery was £5, compared to £78.24 in hospital. Continue reading...",
             "content": "Doctor whose lobbying led to a government sanctioned increase in minor surgery undertaken by GPsIn 1979, the British Medical Journal published an article by a Kent GP, John Stuart Brown, titled “Minor operations in general practice”.Brown, who has died aged 90, wrote that undertaking an average of four minor operations a week in his GP surgery had huge advantages compared to referring patients to hospital. It was faster, more convenient for patients and cost-effective, saving the area health authority more than £15,000 a year. He estimated the average cost of a procedure in his GP surgery was £5, compared to £78.24 in hospital. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ],
         "ai_summary": [
           "John Stuart Brown, a GP, advocated for minor surgeries in general practice.",
-          "He argued it was faster, more convenient, and cost-effective.",
-          "Brown's work led to increased minor surgery by GPs.",
-          "He estimated significant cost savings compared to hospital procedures.",
-          "Brown's article was published in the British Medical Journal in 1979."
+          "He argued that these surgeries were more convenient and cost-effective.",
+          "Brown's article was published in the British Medical Journal in 1979.",
+          "He estimated the cost of a procedure in his surgery was much lower.",
+          "Brown's lobbying led to increased minor surgery by GPs."
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 17:13:38 GMT",
         "title": "Obesity jab drug fails to slow Alzheimer's",
@@ -193,15 +245,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec5c/live/b319be50-c954-11f0-97cf-5bf03e31d3e5.jpg",
         "ai_summary": [
-          "Initial hopes that Wegovy could slow dementia progression were not realized.",
-          "The drug is a weight loss jab.",
-          "The study results showed no impact on slowing Alzheimer's.",
-          "The drug's effect on dementia was a subject of early interest.",
-          "The findings suggest the drug does not affect Alzheimer's progression."
+          "Initial hopes that the weight loss drug Wegovy could slow dementia were dashed.",
+          "The drug, which is an obesity jab, did not show the desired effect.",
+          "The study focused on the drug's impact on Alzheimer's progression.",
+          "The results indicate the drug is ineffective in slowing the disease.",
+          "The research aimed to explore a potential treatment for Alzheimer's."
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 17:01:01 GMT",
         "title": "People who stop using Mounjaro suffer reversal of health benefits, says study",
@@ -218,15 +270,15 @@
           }
         ],
         "ai_summary": [
-          "Stopping Mounjaro use leads to weight regain.",
-          "Health improvements related to cholesterol and blood pressure reverse.",
-          "Mounjaro contains the active ingredient tirzepatide.",
-          "Studies show it can help people lose about 20% of body weight.",
-          "The study highlights the importance of continued treatment."
+          "People who stop using Mounjaro tend to regain weight.",
+          "They also experience a reversal of other health improvements.",
+          "Mounjaro is a weight-loss medication containing tirzepatide.",
+          "Studies show it can help people lose an average of 20% of body weight.",
+          "The study highlights the importance of continued use for benefits."
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 16:03:57 GMT",
         "title": "What is the UK Covid inquiry and how does it work?",
@@ -245,15 +297,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bda/live/d088bf20-5723-11f0-82f9-ffcaa67a8d94.jpg",
         "ai_summary": [
-          "The inquiry investigates the government's handling of the pandemic.",
-          "It has heard from politicians, civil servants, experts, and families.",
-          "The inquiry is examining the government's response to COVID-19.",
-          "Witnesses are providing evidence and insights.",
-          "The inquiry aims to understand the events and decisions."
+          "The UK Covid inquiry is investigating the government's handling of the pandemic.",
+          "The inquiry has heard from politicians, civil servants, and experts.",
+          "Bereaved families have also provided testimony to the inquiry.",
+          "The inquiry aims to understand the government's response to the pandemic.",
+          "The inquiry is examining various aspects of the pandemic response."
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 12:50:37 GMT",
         "title": "Covid inquiry hears impact on firms and staff",
@@ -272,15 +324,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e372/live/efafb100-c92f-11f0-a6fa-73752061276d.jpg",
         "ai_summary": [
-          "Business owners described emotional distress from layoffs.",
+          "Business owners described emotional distress during staff layoffs.",
           "Workers expressed fears about job security during the pandemic.",
-          "The inquiry is examining the economic impact of COVID-19.",
-          "The inquiry is hearing personal accounts of the pandemic's effects.",
-          "The testimonies highlight the human cost of the pandemic."
+          "The inquiry is examining the economic impact of the pandemic.",
+          "The inquiry is hearing from those affected by the pandemic.",
+          "The inquiry is investigating the impact on businesses and employees."
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 12:02:52 GMT",
         "title": "Catherine calls for end to 'stigma' around addiction",
@@ -299,19 +351,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d8d/live/7d357fd0-c8fb-11f0-9fb5-5f3a3703a365.jpg",
         "ai_summary": [
-          "The Princess of Wales is speaking out during Addiction Awareness Week.",
-          "Her message focuses on reducing the stigma associated with addiction.",
-          "The campaign aims to raise awareness about addiction issues.",
-          "The message is part of a broader effort to address addiction.",
-          "The focus is on promoting understanding and support."
+          "The Princess of Wales is advocating for the end of addiction stigma.",
+          "Her message was delivered during Addiction Awareness Week.",
+          "The message aims to raise awareness about addiction.",
+          "The message encourages support for those struggling with addiction.",
+          "The message promotes understanding and compassion."
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 12:00:26 GMT",
         "title": "Doctors respond to ‘data-free’ decision over menopause hormone therapy: ‘It’s not true’",
-        "neutral_headline": "Doctors respond to ‘data-free’ decision over menopause hormone therapy",
+        "neutral_headline": "FDA Decision Regarding Menopause Hormone Therapy",
         "items": [
           {
             "source": "Guardian Health",
@@ -320,23 +372,23 @@
             "title": "Doctors respond to ‘data-free’ decision over menopause hormone therapy: ‘It’s not true’",
             "standfirst": "Physicians say FDA panel conflated two issues and made baseless claims about unproven health benefitsEstrogen-related medications for menopause will no longer carry broad black-box warnings, Marty Makary, commissioner of the US Food and Drug Administration (FDA), announced last week, bypassing the regulatory agency’s typical process and, according to experts, overstating the science behind the medications – with troubling implications for future drug decisions.The decision to remove an ominous warning from 2003 about the risks of cardiovascular disease, breast cancer and dementia makes sense for local vaginal estrogen products, but systemic estrogen is more complicated, menopause experts said – and more than these nuances, they worried about the scientific process, or lack thereof, in making the decision. Continue reading...",
             "content": "Physicians say FDA panel conflated two issues and made baseless claims about unproven health benefitsEstrogen-related medications for menopause will no longer carry broad black-box warnings, Marty Makary, commissioner of the US Food and Drug Administration (FDA), announced last week, bypassing the regulatory agency’s typical process and, according to experts, overstating the science behind the medications – with troubling implications for future drug decisions.The decision to remove an ominous warning from 2003 about the risks of cardiovascular disease, breast cancer and dementia makes sense for local vaginal estrogen products, but systemic estrogen is more complicated, menopause experts said – and more than these nuances, they worried about the scientific process, or lack thereof, in making the decision. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ],
         "ai_summary": [
-          "Physicians are criticizing the FDA's decision on menopause hormone therapy.",
-          "They say the FDA panel conflated issues and made baseless claims.",
-          "The FDA removed warnings from estrogen-related medications.",
-          "Experts are concerned about the scientific process behind the decision.",
-          "The decision has implications for future drug decisions."
+          "FDA removed broad warnings from estrogen-related medications for menopause.",
+          "Experts express concern about the scientific process behind the decision.",
+          "The decision may have implications for future drug decisions.",
+          "Systemic estrogen is more complex than local vaginal estrogen.",
+          "Experts worry about the lack of scientific rigor in the decision-making process."
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 11:00:24 GMT",
         "title": "Horror stories of a ‘feminised workplace’ mask the real crisis in male identity | Finn Mackay",
-        "neutral_headline": "Workplace Feminization Debate Explores Gender Roles",
+        "neutral_headline": "Horror stories of a ‘feminised workplace’ mask the real crisis in male identity | Finn Mackay",
         "items": [
           {
             "source": "Guardian Health",
@@ -345,23 +397,23 @@
             "title": "Horror stories of a ‘feminised workplace’ mask the real crisis in male identity | Finn Mackay",
             "standfirst": "Stereotypes that centre men’s worth in their work are strangling sensible debate, and letting down women tooFinn Mackay is an academic and the author of Female Masculinities and the Gender WarsFirst it was mechanisation threatening our jobs, then AI and now this: the Great Feminisation is taking over the workplace. Well, that’s according to American journalist Helen Andrews, who popularised this thesis in a speech to the National Conservatism conference in Washington DC.The idea is that too many women in the workplace, and in positions of power, has led to the dominance of stereotypical feminine values, to the detriment of everyone. Girly things like conflict resolution rather than manly plain speaking, fussy HR departments, or a lack of healthy aggressive competition, have all created an imbalance in the workplace and in the world, suppressing stereotypical masculine values. Andrews fears for her sons and their future in the feminised world that she believes threatens us all.Finn Mackay is the author of Female Masculinities and the Gender Wars, and a senior lecturer in sociology at the University of the West of England in BristolDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
             "content": "Stereotypes that centre men’s worth in their work are strangling sensible debate, and letting down women tooFinn Mackay is an academic and the author of Female Masculinities and the Gender WarsFirst it was mechanisation threatening our jobs, then AI and now this: the Great Feminisation is taking over the workplace. Well, that’s according to American journalist Helen Andrews, who popularised this thesis in a speech to the National Conservatism conference in Washington DC.The idea is that too many women in the workplace, and in positions of power, has led to the dominance of stereotypical feminine values, to the detriment of everyone. Girly things like conflict resolution rather than manly plain speaking, fussy HR departments, or a lack of healthy aggressive competition, have all created an imbalance in the workplace and in the world, suppressing stereotypical masculine values. Andrews fears for her sons and their future in the feminised world that she believes threatens us all.Finn Mackay is the author of Female Masculinities and the Gender Wars, and a senior lecturer in sociology at the University of the West of England in BristolDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ],
         "ai_summary": [
-          "Article discusses the \"feminization\" of the workplace and its impact on men.",
-          "It references Helen Andrews's views on the dominance of feminine values.",
-          "The author, Finn Mackay, is a sociology lecturer and author.",
-          "Andrews fears for her sons in a workplace she believes is feminized.",
-          "The article invites reader opinions on the issues raised."
+          "The article discusses the concept of a \"feminized workplace\" and its impact.",
+          "It critiques the idea that feminine values are detrimental in the workplace.",
+          "The author, Finn Mackay, is a senior lecturer in sociology.",
+          "The article references the views of American journalist Helen Andrews.",
+          "The author suggests that stereotypes about men's work are harmful."
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 11:00:23 GMT",
         "title": "The one change that worked: I was trembling with anxiety when I found a fun, free way to get calm",
-        "neutral_headline": "Dancing Helps Reduce Anxiety, Author Finds",
+        "neutral_headline": "Dancing as a Method to Reduce Anxiety",
         "items": [
           {
             "source": "Guardian Health",
@@ -370,23 +422,23 @@
             "title": "The one change that worked: I was trembling with anxiety when I found a fun, free way to get calm",
             "standfirst": "I can’t dance. Not even a little bit. But the terrible moves my friends mock are an antidote to the racing heart and quivering breath that arrive in my more anxious momentsThe first time I started dancing at home was a happy accident. I’d just had a terse conversation with an ex, and my body was reacting in its usual way: racing heart, quivering breath and trembling fingers. I needed to calm down. Looking around for quick fixes in my flat – my bed, some stale chocolate digestives and a packet of cigarettes – I settled on the kitchen radio, which had been humming faintly in the background all morning.Tuned to BBC Radio 6 Music, it was playing a disco track I didn’t recognise. But the beat was steady and intermingled with the sounds of tambourines, synths and drums. I turned up the volume, and then my body was moving: limbs swinging, feet tapping, hips wiggling. I continued into the next song, leaning into the feeling and becoming more animated to the sounds of another upbeat 70s track, imagining myself on a crowded, sweaty dancefloor. It was all very silly. But by the third song, my anxiety had melted away. I was smiling. And I felt more like myself again. Continue reading...",
             "content": "I can’t dance. Not even a little bit. But the terrible moves my friends mock are an antidote to the racing heart and quivering breath that arrive in my more anxious momentsThe first time I started dancing at home was a happy accident. I’d just had a terse conversation with an ex, and my body was reacting in its usual way: racing heart, quivering breath and trembling fingers. I needed to calm down. Looking around for quick fixes in my flat – my bed, some stale chocolate digestives and a packet of cigarettes – I settled on the kitchen radio, which had been humming faintly in the background all morning.Tuned to BBC Radio 6 Music, it was playing a disco track I didn’t recognise. But the beat was steady and intermingled with the sounds of tambourines, synths and drums. I turned up the volume, and then my body was moving: limbs swinging, feet tapping, hips wiggling. I continued into the next song, leaning into the feeling and becoming more animated to the sounds of another upbeat 70s track, imagining myself on a crowded, sweaty dancefloor. It was all very silly. But by the third song, my anxiety had melted away. I was smiling. And I felt more like myself again. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "The author found dancing at home helped calm anxiety.",
-          "The author's anxiety included racing heart and trembling.",
-          "Dancing to upbeat music helped the author feel better.",
+          "The author found dancing at home helped reduce anxiety symptoms.",
+          "The author's body reacted to anxiety with a racing heart and trembling.",
+          "Dancing to upbeat music provided a calming effect.",
           "The author felt more like themself after dancing.",
-          "The author's anxiety melted away after dancing."
+          "The author's anxiety melted away after dancing to three songs."
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 09:27:45 GMT",
         "title": "What are the symptoms of prostate cancer and what should you check for?",
-        "neutral_headline": "Prostate Cancer Symptoms and Checks Explained",
+        "neutral_headline": "Symptoms of Prostate Cancer and What to Check",
         "items": [
           {
             "source": "BBC Health",
@@ -402,14 +454,14 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4f7/live/8f655c10-b3c1-11f0-9834-bd5e89cd5975.png",
         "ai_summary": [
           "One in eight men will be diagnosed with prostate cancer.",
-          "The article will likely detail symptoms of prostate cancer.",
-          "The article will likely explain what men should check for.",
+          "The article likely discusses symptoms of prostate cancer.",
+          "The article likely provides information on what to check for.",
           "The article is from BBC Health.",
-          "The article is about prostate cancer."
+          "The article aims to inform readers about prostate cancer."
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 24 Nov 2025 09:13:46 GMT",
         "title": "Lord Cameron reveals he had prostate cancer",
@@ -428,15 +480,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3429/live/e962bde0-c904-11f0-a892-01d657345866.jpg",
         "ai_summary": [
-          "Former Prime Minister Lord Cameron had prostate cancer.",
-          "Cameron is encouraging more men to get screened.",
-          "Prostate cancer is the most common cancer in UK males.",
+          "Former Prime Minister Lord Cameron revealed his prostate cancer diagnosis.",
+          "He is advocating for increased screening for the disease.",
+          "Prostate cancer is the most common cancer in males in the UK.",
           "The article is from BBC Health.",
-          "Cameron is calling for more screenings."
+          "Lord Cameron wants more men to get screened."
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sun, 23 Nov 2025 18:22:20 GMT",
         "title": "Hospitals must get smaller to stop NHS ‘permacrisis’, thinktank urges",
@@ -449,23 +501,23 @@
             "title": "Hospitals must get smaller to stop NHS ‘permacrisis’, thinktank urges",
             "standfirst": "Re:State report says role hospitals play needs ‘fundamental reinvention’ to deliver better care for patientsHospitals need to become smaller, with fewer beds, to help save the NHS from its “permacrisis”, a thinktank has said.The role hospitals play needs to undergo “a fundamental reinvention” to help them escape the overcrowding that has become widespread over the last decade, according to the thinktank Re:State. Continue reading...",
             "content": "Re:State report says role hospitals play needs ‘fundamental reinvention’ to deliver better care for patientsHospitals need to become smaller, with fewer beds, to help save the NHS from its “permacrisis”, a thinktank has said.The role hospitals play needs to undergo “a fundamental reinvention” to help them escape the overcrowding that has become widespread over the last decade, according to the thinktank Re:State. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ],
         "ai_summary": [
-          "A thinktank says hospitals need to be smaller.",
-          "The thinktank, Re:State, wants fewer hospital beds.",
-          "Hospitals need \"fundamental reinvention\" according to Re:State.",
+          "A thinktank suggests smaller hospitals to address NHS \"permacrisis\".",
+          "The thinktank, Re:State, says hospitals need reinvention.",
           "Overcrowding has become widespread in the last decade.",
-          "The goal is to help the NHS avoid \"permacrisis\"."
+          "The report suggests a fundamental reinvention of hospitals.",
+          "The goal is to improve patient care within the NHS."
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Sun, 23 Nov 2025 17:06:35 GMT",
         "title": "Private finance plans for NHS buildings | Letters",
-        "neutral_headline": "Private Finance for NHS Buildings Debated",
+        "neutral_headline": "Private Finance Plans for NHS Buildings Debated",
         "items": [
           {
             "source": "Guardian Health",
@@ -474,19 +526,19 @@
             "title": "Private finance plans for NHS buildings | Letters",
             "standfirst": "Johnbosco Nwogbo says adding a new private finance debt burden is a bad idea, while Lord Hutton thinks PFIs have been good for the NHS and patientsLabour MPs are absolutely right to reject Wes Streeting’s plan to use private capital to build neighbourhood health centres (Labour MPs urge Reeves to drop private finance plans for NHS buildings, 21 November). Like a family using a payday loan to buy their home, yes, we’d end up with a building, but we’ll have to sacrifice meals to keep up with the payments.Given Rachel Reeves’s lack of fiscal wiggle room, no one believes that the NHS’s budget will increase year-on-year to keep pace with the combined financial impact of inflation, the growing health needs of our ageing population and possible rising drug prices. So adding a new private finance debt burden to this cocktail will only result in trusts skimping on the only one of those things they have control over: patient care. Continue reading...",
             "content": "Johnbosco Nwogbo says adding a new private finance debt burden is a bad idea, while Lord Hutton thinks PFIs have been good for the NHS and patientsLabour MPs are absolutely right to reject Wes Streeting’s plan to use private capital to build neighbourhood health centres (Labour MPs urge Reeves to drop private finance plans for NHS buildings, 21 November). Like a family using a payday loan to buy their home, yes, we’d end up with a building, but we’ll have to sacrifice meals to keep up with the payments.Given Rachel Reeves’s lack of fiscal wiggle room, no one believes that the NHS’s budget will increase year-on-year to keep pace with the combined financial impact of inflation, the growing health needs of our ageing population and possible rising drug prices. So adding a new private finance debt burden to this cocktail will only result in trusts skimping on the only one of those things they have control over: patient care. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ],
         "ai_summary": [
-          "Labour MPs oppose using private capital for health centers.",
-          "The author believes private finance adds debt burdens.",
-          "The NHS budget may not keep pace with rising costs.",
-          "Private finance could impact patient care negatively.",
-          "The article discusses the use of private finance."
+          "Labour MPs oppose using private capital for neighborhood health centers.",
+          "The author compares private finance to a payday loan for a home.",
+          "The author believes it will result in cuts to patient care.",
+          "The author cites Rachel Reeves's lack of fiscal flexibility.",
+          "The author believes the NHS budget will not keep pace with costs."
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sun, 23 Nov 2025 14:00:13 GMT",
         "title": "The loneliness fix: I wanted to find new friends in my 30s – and it was easier than I imagined",
@@ -499,19 +551,19 @@
             "title": "The loneliness fix: I wanted to find new friends in my 30s – and it was easier than I imagined",
             "standfirst": "It is said to be harder to make friends as you age. But I found that a mix of apps and other tools, as well as a happy attitude, led to a world of potential new palsTonight, Rachel, Elvira and I will meet for dinner. A year ago, none of us knew the others existed. Six months ago Rachel and Elvira were strangers until I introduced them. But now, here we are, something as close to firm friends as is possible after such a short time.If you’ve ever consumed any media, you would be forgiven for thinking that life after 35 is a burning wasteland of unimaginable horrors: the beginnings of incessant back pain, an interest in dishwasher loading, the discovery that you’re ineligible for entire industries billed as “a young person’s game”, and, apparently, an inability to make friends. Continue reading...",
             "content": "It is said to be harder to make friends as you age. But I found that a mix of apps and other tools, as well as a happy attitude, led to a world of potential new palsTonight, Rachel, Elvira and I will meet for dinner. A year ago, none of us knew the others existed. Six months ago Rachel and Elvira were strangers until I introduced them. But now, here we are, something as close to firm friends as is possible after such a short time.If you’ve ever consumed any media, you would be forgiven for thinking that life after 35 is a burning wasteland of unimaginable horrors: the beginnings of incessant back pain, an interest in dishwasher loading, the discovery that you’re ineligible for entire industries billed as “a young person’s game”, and, apparently, an inability to make friends. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ],
         "ai_summary": [
-          "The author found making friends easier than expected.",
-          "The author used apps and other tools to find friends.",
+          "The author found it easier to make friends in their thirties.",
+          "The author used apps and other tools to find new friends.",
           "The author met Rachel and Elvira through these methods.",
-          "The article challenges the idea that it is hard to make friends.",
-          "The author now has close friends after a short time."
+          "The author challenges the idea that making friends is hard as you age.",
+          "The author has formed close friendships in a short time."
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Sun, 23 Nov 2025 14:00:12 GMT",
         "title": "‘Eating Indigenously’: award-winning chef celebrates Native American cuisine in new cookbook",
@@ -524,23 +576,23 @@
             "title": "‘Eating Indigenously’: award-winning chef celebrates Native American cuisine in new cookbook",
             "standfirst": "James Beard-winning chef Sean Sherman’s cookbook Turtle Island pushes readers to view food systems through an Indigenous lensAs a child growing up on the Pine Ridge Reservation in South Dakota in the 1970s and 80s, Sean Sherman, an Oglala Lakota member and a James Beard award-winning chef, recalls pounding dried bison and mixing it with chokeberry to create a snack called wasná. He and his cousins would often hunt for pheasants and grouse, or harvest wild berries and Thíŋpsiŋla, a wild prairie turnip that’s a staple Lakota food. Sherman’s earliest memories of food were full of history, culture and spiritualism.His idealistic experiences of harvesting and hunting for food on the reservation were juxtaposed with the legacy of colonialism. Most of the time, Sherman and his family ate government-issued food such as canned beef, or blocks of cow cheese, which diverged from their traditional diet. It’s a tale that Sherman, co-founder of the Minneapolis-based Indigenous restaurant Owamni, shares along with other stories in a new cookbook that highlights Indigenous cuisines throughout North America. Continue reading...",
             "content": "James Beard-winning chef Sean Sherman’s cookbook Turtle Island pushes readers to view food systems through an Indigenous lensAs a child growing up on the Pine Ridge Reservation in South Dakota in the 1970s and 80s, Sean Sherman, an Oglala Lakota member and a James Beard award-winning chef, recalls pounding dried bison and mixing it with chokeberry to create a snack called wasná. He and his cousins would often hunt for pheasants and grouse, or harvest wild berries and Thíŋpsiŋla, a wild prairie turnip that’s a staple Lakota food. Sherman’s earliest memories of food were full of history, culture and spiritualism.His idealistic experiences of harvesting and hunting for food on the reservation were juxtaposed with the legacy of colonialism. Most of the time, Sherman and his family ate government-issued food such as canned beef, or blocks of cow cheese, which diverged from their traditional diet. It’s a tale that Sherman, co-founder of the Minneapolis-based Indigenous restaurant Owamni, shares along with other stories in a new cookbook that highlights Indigenous cuisines throughout North America. Continue reading...",
-            "feed_position": 9
+            "feed_position": 10
           }
         ],
         "ai_summary": [
           "Sean Sherman's cookbook highlights Indigenous cuisines.",
-          "Sherman is a James Beard-winning chef.",
           "Sherman grew up on the Pine Ridge Reservation.",
-          "Sherman's early memories involved history and culture.",
-          "The cookbook shares stories about Indigenous food."
+          "Sherman recalls eating traditional foods like wasna.",
+          "His experiences contrasted with government-issued food.",
+          "The cookbook shares stories of Indigenous cuisines."
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sun, 23 Nov 2025 14:00:11 GMT",
         "title": "London exhibition to explore mental health and social bonds in ‘polarised’ times",
-        "neutral_headline": "Exhibition Explores Mental Health and Bonds",
+        "neutral_headline": "Exhibition Explores Mental Health and Social Bonds",
         "items": [
           {
             "source": "Guardian Health",
@@ -549,23 +601,23 @@
             "title": "London exhibition to explore mental health and social bonds in ‘polarised’ times",
             "standfirst": "Artworks to go on display in January at Bethlem Museum of the Mind, in the world’s oldest psychiatric hospitalFrom images of empty community rooms and a colourful canvas crammed with caricatures to a baby linked by an umbilical-like cord to a seated stranger, artworks on the subject of mental health are to go on display in an exhibition that examines social bonds against the backdrop of today’s polarised times.Artists have long drawn on their own experiences of mental ill health. Staged at the Bethlem Museum of the Mind, in the world’s oldest psychiatric hospital, in south-east London, Kindred will explore the power of communities to make people feel comforted as well as isolated. Continue reading...",
             "content": "Artworks to go on display in January at Bethlem Museum of the Mind, in the world’s oldest psychiatric hospitalFrom images of empty community rooms and a colourful canvas crammed with caricatures to a baby linked by an umbilical-like cord to a seated stranger, artworks on the subject of mental health are to go on display in an exhibition that examines social bonds against the backdrop of today’s polarised times.Artists have long drawn on their own experiences of mental ill health. Staged at the Bethlem Museum of the Mind, in the world’s oldest psychiatric hospital, in south-east London, Kindred will explore the power of communities to make people feel comforted as well as isolated. Continue reading...",
-            "feed_position": 10
+            "feed_position": 11
           }
         ],
         "ai_summary": [
-          "An exhibition will explore mental health and social bonds.",
+          "An exhibition in London will explore mental health themes.",
           "The exhibition is at the Bethlem Museum of the Mind.",
-          "Artworks will be on display in January.",
           "The exhibition examines social bonds in polarized times.",
-          "Artists have drawn on their experiences of mental illness."
+          "Artworks will be on display in January.",
+          "Artists have drawn on their experiences with mental illness."
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sun, 23 Nov 2025 13:03:05 GMT",
         "title": "Bereaved parents face ‘harrowing’ delays for NHS postmorterms",
-        "neutral_headline": "Delays for Postmortems Faced by Bereaved Parents",
+        "neutral_headline": "Bereaved Parents Face Delays for Postmortems",
         "items": [
           {
             "source": "Guardian Health",
@@ -574,73 +626,21 @@
             "title": "Bereaved parents face ‘harrowing’ delays for NHS postmorterms",
             "standfirst": "Shortage of specialist doctors means service is in crisis, says chair of Royal College of Pathologists committeeBereaved parents are enduring “harrowing” delays of more than a year to find out why their child died because the NHS has too few specialist doctors to perform postmortems.The shortage of paediatric and perinatal pathologists is revealed in a report by the Royal College of Pathologists published on Sunday. It warns that the situation is “dire”, services in some parts of the UK have “totally collapsed” and families are paying the price.37% of consultant posts in the UK are lying vacant.The UK has just 52 paediatric and perinatal consultants and 13 are due to retire in the next five years.Just 3% of consultants think current staffing levels are enough to sustain their service.Only 13 resident doctors are in training to become consultants in the specialty. Continue reading...",
             "content": "Shortage of specialist doctors means service is in crisis, says chair of Royal College of Pathologists committeeBereaved parents are enduring “harrowing” delays of more than a year to find out why their child died because the NHS has too few specialist doctors to perform postmortems.The shortage of paediatric and perinatal pathologists is revealed in a report by the Royal College of Pathologists published on Sunday. It warns that the situation is “dire”, services in some parts of the UK have “totally collapsed” and families are paying the price.37% of consultant posts in the UK are lying vacant.The UK has just 52 paediatric and perinatal consultants and 13 are due to retire in the next five years.Just 3% of consultants think current staffing levels are enough to sustain their service.Only 13 resident doctors are in training to become consultants in the specialty. Continue reading...",
-            "feed_position": 11
-          }
-        ],
-        "ai_summary": [
-          "Parents face long delays for child postmortems.",
-          "There is a shortage of specialist doctors.",
-          "The Royal College of Pathologists report reveals the crisis.",
-          "37% of consultant posts in the UK are vacant.",
-          "The situation is described as \"dire\" in some areas."
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Sun, 23 Nov 2025 08:00:04 GMT",
-        "title": "‘We’ve got to find answers’: Corby families affected by cancer searching for truth about toxic waste sites",
-        "neutral_headline": "Families Seek Answers on Toxic Waste Sites",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2025/nov/23/cancer-corby-toxic-waste-sites-steelworks",
-            "published_at": "Sun, 23 Nov 2025 08:00:04 GMT",
-            "title": "‘We’ve got to find answers’: Corby families affected by cancer searching for truth about toxic waste sites",
-            "standfirst": "Alison Gaffney believes her son’s rare leukaemia was caused by dumped toxic waste from the town’s steelworksAlison Gaffney and Andy Hinde received the devastating news that their 17-month-old son, Fraser, had a rare type of leukaemia in 2018.Two years of gruelling treatment followed, including chemotherapy, radiotherapy and immunotherapy, before a stem cell transplant. Fraser, then aged three, made a “miraculous recovery” from the surgery, before doctors declared the cancer in remission. Continue reading...",
-            "content": "Alison Gaffney believes her son’s rare leukaemia was caused by dumped toxic waste from the town’s steelworksAlison Gaffney and Andy Hinde received the devastating news that their 17-month-old son, Fraser, had a rare type of leukaemia in 2018.Two years of gruelling treatment followed, including chemotherapy, radiotherapy and immunotherapy, before a stem cell transplant. Fraser, then aged three, made a “miraculous recovery” from the surgery, before doctors declared the cancer in remission. Continue reading...",
             "feed_position": 12
           }
         ],
         "ai_summary": [
-          "Families in Corby are seeking answers about cancer.",
-          "Alison Gaffney believes toxic waste caused her son's cancer.",
-          "Her son, Fraser, had a rare type of leukemia.",
-          "Fraser underwent treatment including a stem cell transplant.",
-          "The article discusses the impact of toxic waste."
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Sun, 23 Nov 2025 07:16:11 GMT",
-        "title": "'It sounds dramatic but singing class saved my life'",
-        "neutral_headline": "It sounds dramatic but singing class saved my life",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c8r07r55g3xo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 23 Nov 2025 07:16:11 GMT",
-            "title": "'It sounds dramatic but singing class saved my life'",
-            "standfirst": "Hundreds of peopling attending singing groups are being taught songs and breathing techniques.",
-            "content": "Hundreds of peopling attending singing groups are being taught songs and breathing techniques.",
-            "feed_position": 92,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8640/live/56676620-c55e-11f0-88c6-23e769b55dc3.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8640/live/56676620-c55e-11f0-88c6-23e769b55dc3.jpg",
-        "ai_summary": [
-          "Hundreds of people are attending singing groups.",
-          "Singing groups teach songs and breathing techniques.",
-          "The article is from BBC Health.",
-          "The singing groups are helping people.",
-          "The article is about singing classes."
+          "Bereaved parents face long delays for NHS postmortems.",
+          "A shortage of specialist doctors is causing the crisis.",
+          "The Royal College of Pathologists published a report.",
+          "37% of consultant posts in the UK are vacant.",
+          "The situation is described as \"dire\" in some areas."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-11-24T19:14:42.061Z",
+    "updated_at": "2025-11-24T23:18:42.660Z",
     "clusters": []
   }
 }
