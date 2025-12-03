@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2025-12-03T19:18:21.676Z",
+    "updated_at": "2025-12-03T23:18:10.276Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-12-03T19:18:39.404Z",
+    "updated_at": "2025-12-03T23:18:26.569Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -24,7 +24,14 @@
             "image_url": "https://www1.racgp.org.au/getattachment/e25ea541-49b0-44e7-9af4-ad5683b38969/Does-patient-age-and-education-affect-consult-length.aspx"
           }
         ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/e25ea541-49b0-44e7-9af4-ad5683b38969/Does-patient-age-and-education-affect-consult-length.aspx"
+        "featured_image": "https://www1.racgp.org.au/getattachment/e25ea541-49b0-44e7-9af4-ad5683b38969/Does-patient-age-and-education-affect-consult-length.aspx",
+        "ai_summary": [
+          "Research investigates factors influencing GP consultation duration beyond health concerns.",
+          "The study aims to identify specific elements impacting the length of appointments.",
+          "Researchers are analyzing data to understand the dynamics of GP consultations.",
+          "The study seeks to provide insights into optimizing patient-doctor interactions.",
+          "Findings could inform strategies for more efficient and effective healthcare delivery."
+        ]
       },
       {
         "id": "cluster_1",
@@ -44,7 +51,14 @@
             "image_url": "https://www1.racgp.org.au/getattachment/9454ec88-459e-4c25-b81e-dec40b583953/More-deprescribing-needed-in-antidepressant-users-Study.aspx"
           }
         ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/9454ec88-459e-4c25-b81e-dec40b583953/More-deprescribing-needed-in-antidepressant-users-Study.aspx"
+        "featured_image": "https://www1.racgp.org.au/getattachment/9454ec88-459e-4c25-b81e-dec40b583953/More-deprescribing-needed-in-antidepressant-users-Study.aspx",
+        "ai_summary": [
+          "Long-term antidepressant use is increasing, especially among young Australians.",
+          "An expert expresses lack of surprise at the rising trend of antidepressant use.",
+          "The study highlights the need for a review of antidepressant prescriptions.",
+          "The research suggests a potential over-reliance on these medications.",
+          "Deprescribing efforts could improve patient outcomes and reduce side effects."
+        ]
       },
       {
         "id": "cluster_2",
@@ -64,7 +78,14 @@
             "image_url": "https://www1.racgp.org.au/getattachment/ebdca6e7-2c2b-4036-b6be-56488ce18a6e/GP-gender-pay-gap-exposed.aspx"
           }
         ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/ebdca6e7-2c2b-4036-b6be-56488ce18a6e/GP-gender-pay-gap-exposed.aspx"
+        "featured_image": "https://www1.racgp.org.au/getattachment/ebdca6e7-2c2b-4036-b6be-56488ce18a6e/GP-gender-pay-gap-exposed.aspx",
+        "ai_summary": [
+          "Research reveals female GPs earn $24 less per consulting hour than male counterparts.",
+          "The Royal Australian College of General Practitioners calls for pay equity.",
+          "The RACGP wants a system that reflects modern clinical practice.",
+          "The pay gap highlights systemic issues within the healthcare system.",
+          "Addressing the disparity could improve workforce satisfaction and retention."
+        ]
       },
       {
         "id": "cluster_3",
@@ -84,7 +105,14 @@
             "image_url": "https://www1.racgp.org.au/getattachment/a7503109-4ad9-4dbe-ba04-a2c5e3f1e63a/Rose-Hunt-Award-recipient-so-proud-to-be-a-GP.aspx"
           }
         ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/a7503109-4ad9-4dbe-ba04-a2c5e3f1e63a/Rose-Hunt-Award-recipient-so-proud-to-be-a-GP.aspx"
+        "featured_image": "https://www1.racgp.org.au/getattachment/a7503109-4ad9-4dbe-ba04-a2c5e3f1e63a/Rose-Hunt-Award-recipient-so-proud-to-be-a-GP.aspx",
+        "ai_summary": [
+          "Associate Professor Frank Jones received the prestigious Rose-Hunt Award.",
+          "Jones is a past RACGP President and a passionate general practitioner.",
+          "He accepted the award on behalf of all working GPs.",
+          "The award recognizes contributions to general practice.",
+          "Jones's dedication reflects commitment to the profession."
+        ]
       },
       {
         "id": "cluster_4",
@@ -104,29 +132,43 @@
             "image_url": "https://www1.racgp.org.au/getattachment/32689123-5abd-4a21-976e-5d37967fc38e/WHO-backs-GLP-1-therapies-for-obesity.aspx"
           }
         ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/32689123-5abd-4a21-976e-5d37967fc38e/WHO-backs-GLP-1-therapies-for-obesity.aspx"
+        "featured_image": "https://www1.racgp.org.au/getattachment/32689123-5abd-4a21-976e-5d37967fc38e/WHO-backs-GLP-1-therapies-for-obesity.aspx",
+        "ai_summary": [
+          "New WHO guidelines endorse Ozempic-like medicines for long-term obesity treatment.",
+          "The guidelines also recommend \"intensive behavioral interventions.\"",
+          "The endorsement marks a significant shift in obesity management.",
+          "The guidelines support a comprehensive approach to obesity care.",
+          "The recommendations aim to improve patient outcomes."
+        ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2025-12-03T19:18:24.005Z",
+    "updated_at": "2025-12-03T23:18:12.878Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
         "updated_at": "Wed, 03 Dec 2025 19:07:45 GMT",
         "title": "‘From taboo to tool’: 30% of GPs in UK use AI tools in patient consultations, study finds",
-        "neutral_headline": "‘From taboo to tool’: 30% of GPs in UK use AI...",
+        "neutral_headline": "AI tools in UK GP consultations",
         "items": [
           {
             "source": "Guardian Health",
             "url": "https://www.theguardian.com/society/2025/dec/03/gp-doctors-health-uk-artificial-intelligence-study",
             "published_at": "Wed, 03 Dec 2025 19:07:45 GMT",
             "title": "‘From taboo to tool’: 30% of GPs in UK use AI tools in patient consultations, study finds",
-            "standfirst": "Study shows rise in GPs using tools such as ChatGPT to produce patient appointment summaries and assist with patient diagnosesAlmost three in ten GPs in the UK are using AI tools such as ChatGPT in consultations with patients, even though it could lead to them making mistakes and being sued, a study reveals.Family doctors’ rapid adoption of AI to ease their workloads is happening alongside a “wild west” lack of regulation of the technology which is leaving GPs unaware which tools are safe to use. Continue reading...",
-            "content": "Study shows rise in GPs using tools such as ChatGPT to produce patient appointment summaries and assist with patient diagnosesAlmost three in ten GPs in the UK are using AI tools such as ChatGPT in consultations with patients, even though it could lead to them making mistakes and being sued, a study reveals.Family doctors’ rapid adoption of AI to ease their workloads is happening alongside a “wild west” lack of regulation of the technology which is leaving GPs unaware which tools are safe to use. Continue reading...",
+            "standfirst": "Survey shows rise in GPs using tools such as ChatGPT to produce appointment summaries and assist with diagnosisAlmost three in 10 GPs in the UK are using AI tools such as ChatGPT in consultations with patients, even though it could lead to them making mistakes and being sued, a study reveals.The rapid adoption of AI to ease workloads is happening alongside a “wild west” lack of regulation of the technology, which is leaving GPs unaware which tools are safe to use. That is the conclusion of research by the Nuffield Trust thinktank, based on a survey of 2,108 family doctors by the Royal College of GPs about AI and on focus groups of GPs. Continue reading...",
+            "content": "Survey shows rise in GPs using tools such as ChatGPT to produce appointment summaries and assist with diagnosisAlmost three in 10 GPs in the UK are using AI tools such as ChatGPT in consultations with patients, even though it could lead to them making mistakes and being sued, a study reveals.The rapid adoption of AI to ease workloads is happening alongside a “wild west” lack of regulation of the technology, which is leaving GPs unaware which tools are safe to use. That is the conclusion of research by the Nuffield Trust thinktank, based on a survey of 2,108 family doctors by the Royal College of GPs about AI and on focus groups of GPs. Continue reading...",
             "feed_position": 0
           }
+        ],
+        "ai_summary": [
+          "Nearly 30% of UK GPs use AI tools like ChatGPT in patient consultations.",
+          "These tools assist with appointment summaries and diagnosis.",
+          "The rapid adoption of AI is happening without sufficient regulation.",
+          "GPs may be unaware of the safety of the AI tools they use.",
+          "The Nuffield Trust conducted research on AI use in general practice."
         ]
       },
       {
@@ -134,7 +176,7 @@
         "coverage": 1,
         "updated_at": "Wed, 03 Dec 2025 18:33:48 GMT",
         "title": "Blackpool report: why do England’s deprived areas have the most troubled hospitals?",
-        "neutral_headline": "Leaked report reveals culture of bullying and harassment at scandal-hit NHS hospital",
+        "neutral_headline": "Troubled hospitals in deprived areas",
         "items": [
           {
             "source": "Guardian Health",
@@ -154,34 +196,48 @@
             "content": "Exclusive: report into Blackpool Victoria hospital by Royal College of Physicians finds systemic failings have affected patient safetyA culture of systemic bullying and harassment has been allowed to flourish among staff at one England’s most scandal-hit hospitals, a damning leaked report reveals.The safety of patients at Blackpool Victoria hospital was affected as a result of the failings, the report by the Royal College of Physicians (RCP) found. Continue reading...",
             "feed_position": 4
           }
+        ],
+        "ai_summary": [
+          "A report reveals challenges for hospitals in deprived areas of England.",
+          "Clinicians in these areas are overwhelmed by ill health and poverty.",
+          "A leaked report details a culture of bullying at Blackpool Victoria hospital.",
+          "The report highlights racial discrimination and harassment.",
+          "Systemic failings have affected patient safety at the hospital."
         ]
       },
       {
         "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Wed, 03 Dec 2025 18:32:35 GMT",
-        "title": "Baby milk can be bought with supermarket loyalty points",
-        "neutral_headline": "Baby milk can be bought with supermarket loyalty points",
+        "title": "Supermarket loyalty discounts to be allowed on baby formula",
+        "neutral_headline": "Baby formula discounts allowed in supermarkets",
         "items": [
           {
             "source": "BBC Health",
             "url": "https://www.bbc.com/news/articles/clyx321ded1o?at_medium=RSS&at_campaign=rss",
             "published_at": "Wed, 03 Dec 2025 18:32:35 GMT",
-            "title": "Baby milk can be bought with supermarket loyalty points",
+            "title": "Supermarket loyalty discounts to be allowed on baby formula",
             "standfirst": "The government claims that parents who cannot or chose not to breastfeed could save £500 a year.",
             "content": "The government claims that parents who cannot or chose not to breastfeed could save £500 a year.",
             "feed_position": 0,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1e/live/067fd4c0-d04f-11f0-93e9-173097fe0286.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1e/live/067fd4c0-d04f-11f0-93e9-173097fe0286.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1e/live/067fd4c0-d04f-11f0-93e9-173097fe0286.jpg",
+        "ai_summary": [
+          "The government will allow supermarket loyalty discounts on baby formula.",
+          "This change aims to help parents who do not breastfeed.",
+          "The government claims parents could save up to £500 annually.",
+          "The policy change affects the cost of infant formula.",
+          "The move is intended to support families."
+        ]
       },
       {
         "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Wed, 03 Dec 2025 17:51:54 GMT",
         "title": "Letters. Text messages. Passwords and more passwords. Why can’t the NHS just give me someone to talk to? | Adrian Chiles",
-        "neutral_headline": "Letters. Text messages. Passwords and more passwords. Why can’t the NHS just give me...",
+        "neutral_headline": "NHS patient access to mental health support",
         "items": [
           {
             "source": "Guardian Health",
@@ -192,6 +248,13 @@
             "content": "I can forgive shabby hospitals, confusion over appointments, even doctors’ poor bedside manner, but all the apps in the world can’t replace a real personI had this thing on the back of my shoulder, which a dermatologist at an NHS hospital looked at. He was brisk, verging on brusque. He said it was either one complicated-sounding thing or the other, but I distinctly heard the word “carcinoma” in there somewhere. He said I’d have to come back and have it taken out, and then they would see whether or not it was a carcinoma. Great. When? We’ll write to you, he said. I suggested that, if cancer was a possibility, then a bit of hurry-up might be called for. To which he said: “Oh, it won’t make any difference now. The only thing that would have made any difference was if you’d come sooner.” To me, this sentence argued against itself somewhat. Time was either of the essence, or it wasn’t. I even flirted with the idea of interpreting “won’t make any difference now” as his way of saying I was doomed anyway.I called the dermatologist I had previously seen about it privately, and she told me not to be silly, it would be fine. A GP I know said the same. I thanked my lucky stars that I’m privileged to have access to such people. Continue reading...",
             "feed_position": 2
           }
+        ],
+        "ai_summary": [
+          "The author describes difficulties accessing mental health support through the NHS.",
+          "The author recounts a negative experience with a dermatologist.",
+          "The author highlights the importance of personal interaction in healthcare.",
+          "The author contrasts the impersonal nature of digital tools with human contact.",
+          "The author expresses frustration with the lack of personalized care."
         ]
       },
       {
@@ -199,7 +262,7 @@
         "coverage": 1,
         "updated_at": "Wed, 03 Dec 2025 17:47:36 GMT",
         "title": "‘Failed former Tory MPs’ who join Reform unlikely to be selected as candidates, Zia Yusuf says – as it happened",
-        "neutral_headline": "‘Failed former Tory MPs’ who join Reform unlikely to be selected as candidates, Zia...",
+        "neutral_headline": "Former Tory MPs joining Reform",
         "items": [
           {
             "source": "Guardian Health",
@@ -210,6 +273,13 @@
             "content": "This live blog is now closed, you can read more of our UK political coverage hereThis is from Ed Davey, the Lib Dem leader, on Nigel Farage’s denial of the FT story. (See 9.33am.)A handy reminder that in 2019 Farage did a deal to put Boris Johnson in No10 and push through his disastrous Brexit deal.But instead of taking responsibility, of course Farage plays the victim. Continue reading...",
             "feed_position": 3
           }
+        ],
+        "ai_summary": [
+          "Zia Yusuf suggests former Tory MPs joining Reform are unlikely to be selected.",
+          "The article discusses Nigel Farage's denial of a Financial Times story.",
+          "The article references Farage's role in supporting Boris Johnson.",
+          "The article criticizes Farage for not taking responsibility.",
+          "The article is part of a live blog on UK political coverage."
         ]
       },
       {
@@ -217,7 +287,7 @@
         "coverage": 1,
         "updated_at": "Wed, 03 Dec 2025 16:00:48 GMT",
         "title": "Having a dog can boost teenagers’ mental health, say scientists",
-        "neutral_headline": "Having a dog can boost teenagers’ mental health, say scientists",
+        "neutral_headline": "Dogs boost teenagers’ mental health",
         "items": [
           {
             "source": "Guardian Health",
@@ -228,6 +298,13 @@
             "content": "Researchers find children who own dogs score lower for social problems, aggressive behaviour and delinquencyHaving a dog in the home could help boost teenagers’ mental health, research suggests, with scientists adding this could in part be down to the sharing of microbes.Prof Takefumi Kikusui, of Azabu University in Japan, who led the work, said being with dogs could reduce owners’ stress and stimulate the release of the bonding hormone oxytocin. Continue reading...",
             "feed_position": 5
           }
+        ],
+        "ai_summary": [
+          "Research suggests dog ownership can improve teenagers' mental health.",
+          "Teenagers with dogs score lower on social problems and aggression.",
+          "Scientists suggest the benefits may be due to shared microbes.",
+          "Being with dogs can reduce stress and release oxytocin.",
+          "The study highlights the positive impact of pets on well-being."
         ]
       },
       {
@@ -235,7 +312,7 @@
         "coverage": 1,
         "updated_at": "Wed, 03 Dec 2025 13:00:34 GMT",
         "title": "Death of Irish mother in ‘free birth’ reveals how poor maternity care is pushing women towards extreme influencers",
-        "neutral_headline": "Death of Irish mother in ‘free birth’ reveals how poor maternity care...",
+        "neutral_headline": "Free birth deaths and extreme influencers",
         "items": [
           {
             "source": "Guardian Health",
@@ -246,6 +323,13 @@
             "content": "Women in Ireland and the UK linked to Free Birth Society among scores around world to have suffered loss or serious harm after birthsFull story: How the FBS is linked to baby deaths around the worldOver a weekend in late June 2024, Emilee Saldaya, the leader of the Free Birth Society, hosted a festival on her 21-hectare (53-acre) property in North Carolina. It was a celebratory gathering for FBS, a multimillion-dollar business that promotes a radical approach to giving birth without medical support.Promotional footage from the Matriarch Rising festival shows Saldaya dancing beside her private lake, wearing a crown. That same weekend, more than 3,000 miles away, in Dundalk, a town on the east coast of Ireland, Naomi James, bled to death after freebirthing her son. Continue reading...",
             "feed_position": 6
           }
+        ],
+        "ai_summary": [
+          "An Irish mother's death in a \"free birth\" highlights maternity care issues.",
+          "Women linked to the Free Birth Society have suffered harm.",
+          "The Free Birth Society promotes giving birth without medical support.",
+          "The leader of the FBS hosted a festival in North Carolina.",
+          "The article discusses the risks associated with freebirthing practices."
         ]
       },
       {
@@ -253,7 +337,7 @@
         "coverage": 1,
         "updated_at": "Wed, 03 Dec 2025 12:20:14 GMT",
         "title": "Streeting brands doctors' union 'moaning minnies' over GP online booking",
-        "neutral_headline": "Streeting brands doctors' union 'moaning minnies' over GP online booking",
+        "neutral_headline": "Doctors' union 'moaning minnies' over online booking",
         "items": [
           {
             "source": "BBC Health",
@@ -266,14 +350,21 @@
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0097/live/acaf6080-d06e-11f0-8c06-f5d460985095.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0097/live/acaf6080-d06e-11f0-8c06-f5d460985095.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0097/live/acaf6080-d06e-11f0-8c06-f5d460985095.jpg",
+        "ai_summary": [
+          "Streeting criticizes doctors' union over opposition to online booking.",
+          "The government mandated web bookings for all NHS practices.",
+          "The doctors' union opposes the implementation of online booking.",
+          "The dispute highlights tensions between the government and the union.",
+          "The issue concerns the use of technology in healthcare."
+        ]
       },
       {
         "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Wed, 03 Dec 2025 11:50:00 GMT",
         "title": "Nike, Superdry and Lacoste ads banned over misleading green claims",
-        "neutral_headline": "Nike, Superdry and Lacoste ads banned over misleading green claims",
+        "neutral_headline": "Nike, Superdry and Lacoste ads banned",
         "items": [
           {
             "source": "BBC Science",
@@ -286,14 +377,21 @@
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22e9/live/170df7b0-d039-11f0-85ee-1313d6fdfda6.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22e9/live/170df7b0-d039-11f0-85ee-1313d6fdfda6.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22e9/live/170df7b0-d039-11f0-85ee-1313d6fdfda6.jpg",
+        "ai_summary": [
+          "Advertising watchdog banned ads from Nike, Superdry, and Lacoste.",
+          "The retailers' \"sustainability\" claims were deemed misleading.",
+          "The ads were found to be deceptive to consumers.",
+          "The ban addresses concerns about greenwashing.",
+          "The decision protects consumers from false advertising."
+        ]
       },
       {
         "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Wed, 03 Dec 2025 10:16:53 GMT",
         "title": "Warning over cosmetic face fillers as scans reveal new details of risks",
-        "neutral_headline": "Warning over cosmetic face fillers as scans reveal new details of risks",
+        "neutral_headline": "Cosmetic face fillers warning",
         "items": [
           {
             "source": "BBC Health",
@@ -306,14 +404,21 @@
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91c5/live/5824e410-cf63-11f0-902b-b378fe598ba1.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91c5/live/5824e410-cf63-11f0-902b-b378fe598ba1.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91c5/live/5824e410-cf63-11f0-902b-b378fe598ba1.jpg",
+        "ai_summary": [
+          "Experts warn about risks of cosmetic face fillers.",
+          "Incorrect placement can damage arteries.",
+          "Damage can lead to skin loss and blindness.",
+          "The warning highlights potential complications.",
+          "The advice emphasizes the importance of proper injection."
+        ]
       },
       {
         "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Wed, 03 Dec 2025 10:02:05 GMT",
         "title": "What is the UK Covid inquiry and how does it work?",
-        "neutral_headline": "What is the UK Covid inquiry and how does it work",
+        "neutral_headline": "UK Covid inquiry hears from various witnesses",
         "items": [
           {
             "source": "BBC Health",
@@ -326,14 +431,21 @@
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bda/live/d088bf20-5723-11f0-82f9-ffcaa67a8d94.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bda/live/d088bf20-5723-11f0-82f9-ffcaa67a8d94.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bda/live/d088bf20-5723-11f0-82f9-ffcaa67a8d94.jpg",
+        "ai_summary": [
+          "The inquiry has heard from politicians, civil servants, experts, and bereaved families.",
+          "The inquiry is investigating the government's handling of the COVID-19 pandemic.",
+          "Witnesses are providing information and perspectives on the pandemic response.",
+          "The inquiry aims to understand the decisions and actions taken during the pandemic.",
+          "The inquiry's findings may inform future pandemic preparedness and responses."
+        ]
       },
       {
         "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Wed, 03 Dec 2025 10:00:12 GMT",
         "title": "What are the symptoms of prostate cancer and what should you check for?",
-        "neutral_headline": "What are the symptoms of prostate cancer and what should you check for",
+        "neutral_headline": "Prostate cancer symptoms and screening information",
         "items": [
           {
             "source": "BBC Health",
@@ -356,14 +468,21 @@
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7912/live/a7a36870-cc8b-11f0-bed8-75fc0eba925d.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4f7/live/8f655c10-b3c1-11f0-9834-bd5e89cd5975.png"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4f7/live/8f655c10-b3c1-11f0-9834-bd5e89cd5975.png",
+        "ai_summary": [
+          "One in eight men will be diagnosed with prostate cancer during their lifetime.",
+          "The article discusses symptoms of prostate cancer that men should be aware of.",
+          "Information is provided on what men should check for regarding prostate cancer.",
+          "The article covers everything one needs to know about prostate cancer screening.",
+          "The article discusses the decision on who should be screened for prostate cancer."
+        ]
       },
       {
         "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Wed, 03 Dec 2025 07:17:46 GMT",
         "title": "Mother wants change so child 'didn't die for nothing'",
-        "neutral_headline": "Mother wants change so child 'didn't die for nothing'",
+        "neutral_headline": "Mother seeks change after daughter's cancer death",
         "items": [
           {
             "source": "BBC Health",
@@ -376,14 +495,21 @@
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/847a/live/48f77090-cc6e-11f0-8c51-edb570175476.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/847a/live/48f77090-cc6e-11f0-8c51-edb570175476.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/847a/live/48f77090-cc6e-11f0-8c51-edb570175476.jpg",
+        "ai_summary": [
+          "A mother, Sam Tucker, believes opportunities were missed in her daughter's care.",
+          "Her daughter, Holly, was diagnosed with a tumor at the age of six.",
+          "The mother is advocating for changes to prevent similar situations.",
+          "The article highlights the emotional impact of the child's death.",
+          "The mother wants to ensure her daughter's death was not in vain."
+        ]
       },
       {
         "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Wed, 03 Dec 2025 06:53:17 GMT",
         "title": "Delhi records 200,000 acute respiratory illness cases amid toxic air",
-        "neutral_headline": "Delhi records 200,000 acute respiratory illness cases amid toxic air",
+        "neutral_headline": "Delhi records high acute respiratory illness cases",
         "items": [
           {
             "source": "BBC Science",
@@ -396,14 +522,21 @@
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/192f/live/676b5270-d016-11f0-8c06-f5d460985095.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/192f/live/676b5270-d016-11f0-8c06-f5d460985095.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/192f/live/676b5270-d016-11f0-8c06-f5d460985095.jpg",
+        "ai_summary": [
+          "Delhi is experiencing a surge in acute respiratory illness cases.",
+          "Over 200,000 cases of acute respiratory illness have been recorded.",
+          "Between 2022 and 2024, over 30,000 people were hospitalized.",
+          "The high number of cases is linked to toxic air quality in Delhi.",
+          "The article highlights the impact of air pollution on public health."
+        ]
       },
       {
         "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Wed, 03 Dec 2025 05:01:52 GMT",
         "title": "Reuse and return schemes could help eliminate plastic pollution in 15 years, says report",
-        "neutral_headline": "Reuse and return schemes could help eliminate plastic pollution...",
+        "neutral_headline": "Reuse and return schemes could help eliminate plastic pollution in 15 years, says report",
         "items": [
           {
             "source": "Guardian Health",
@@ -414,6 +547,13 @@
             "content": "Pew Charitable Trusts finds plastic pollution will more than double globally by 2040 unless action taken The 66m tonnes of pollution from plastic packaging that enters the global environment each year could be almost eliminated by 2040 primarily by reuse and return schemes, significant new research reveals.In the most wide-ranging analysis of the global plastic system, the Pew Charitable Trusts, in collaboration with academics including at Imperial College London and the University of Oxford, said plastic, a material once called revolutionary and modern, was now putting public health, world economies and the future of the planet at risk. Continue reading...",
             "feed_position": 7
           }
+        ],
+        "ai_summary": [
+          "Pew Charitable Trusts finds plastic pollution will more than double globally by 2040.",
+          "The report suggests that action is needed to address plastic pollution.",
+          "Reuse and return schemes could eliminate pollution from plastic packaging by 2040.",
+          "The study is the most wide-ranging analysis of the global plastic system.",
+          "The report highlights the risks plastic poses to public health and the planet."
         ]
       },
       {
@@ -434,7 +574,14 @@
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d46/live/23b918b0-cfa2-11f0-9fb5-5f3a3703a365.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d46/live/23b918b0-cfa2-11f0-9fb5-5f3a3703a365.jpg"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d46/live/23b918b0-cfa2-11f0-9fb5-5f3a3703a365.jpg",
+        "ai_summary": [
+          "BBC analysis shows the government's response cost is 50% higher than thought.",
+          "The inquiry's own costs are estimated at £192 million.",
+          "The government's spending is related to the COVID-19 inquiry.",
+          "The article highlights the financial implications of the inquiry.",
+          "The costs reflect the resources dedicated to the inquiry's work."
+        ]
       },
       {
         "id": "cluster_16",
@@ -452,6 +599,13 @@
             "content": "Ethnic minority people more likely to experience poor treatment and even racism, Migraine Trust research showsPeople from ethnic minority backgrounds are more likely to experience worse migraine care and to fear discrimination because of their condition, a survey by a leading UK charity has found.Migraines are characterised by a severe headache, alongside other symptoms including dizziness, numbness and vision problems. About one in seven people in the UK are affected by the condition. Continue reading...",
             "feed_position": 8
           }
+        ],
+        "ai_summary": [
+          "Ethnic minority people are more likely to experience poor migraine treatment.",
+          "The survey found that some people fear discrimination due to their condition.",
+          "Migraines are characterized by severe headaches and other symptoms.",
+          "About one in seven people in the UK are affected by migraines.",
+          "The research was conducted by a leading UK charity, the Migraine Trust."
         ]
       },
       {
@@ -470,6 +624,13 @@
             "content": "Survey of 11,000 13- to 17-year-olds says emotional and physical abuse includes control, pressure or violenceTwo in five teenagers in intimate relationships say they have experienced emotional or physical abuse, including control, pressure or violence, according to a survey in England and Wales.“Teenage years are often when children first begin to explore romantic relationships,” the report says. “At their best, these can bring joy and companionship and teach important lessons about trust. Continue reading...",
             "feed_position": 9
           }
+        ],
+        "ai_summary": [
+          "A survey of 11,000 teenagers found high rates of abuse.",
+          "Emotional and physical abuse includes control, pressure, or violence.",
+          "The survey was conducted among 13- to 17-year-olds.",
+          "The report highlights the prevalence of abuse in teenage relationships.",
+          "The article discusses the importance of healthy relationships for teenagers."
         ]
       },
       {
@@ -488,6 +649,13 @@
             "content": "Sharp rise in waiting times has led to ‘shocking’ rise in untreated patients leaving NHS emergency departments in England, data showsThe number of people in England walking out of A&E without treatment has tripled in the past six years, new figures show.Analysis of NHS data by the Royal College of Nursing shows that a rise in demand for urgent hospital care and long waits has led to what it describes as a “shocking” rise in the number of patients leaving emergency departments untreated. Continue reading...",
             "feed_position": 10
           }
+        ],
+        "ai_summary": [
+          "The number of people leaving A&E without treatment has tripled.",
+          "The increase is based on data from NHS emergency departments in England.",
+          "The Royal College of Nursing analyzed the NHS data.",
+          "The rise is linked to increased demand and long waiting times.",
+          "The article describes the rise as a \"shocking\" increase in untreated patients."
         ]
       },
       {
@@ -495,7 +663,7 @@
         "coverage": 1,
         "updated_at": "Tue, 02 Dec 2025 17:35:48 GMT",
         "title": "Understanding the role of fascia in keeping the body healthy | Letters",
-        "neutral_headline": "Understanding the role of fascia in keeping the body healthy | Letters",
+        "neutral_headline": "Understanding the role of fascia in keeping the body healthy | Letters: Readers respond to an article by Joel Snape that explores the importance of fascia",
         "items": [
           {
             "source": "Guardian Health",
@@ -506,12 +674,19 @@
             "content": "Readers respond to an article by Joel Snape that explores the importance of fasciaYour article (The fascia secret: how does it affect your health – and should you loosen it up with a foam roller?, 24 November) was enlightening. In addition to the movement and exercise approaches you highlighted, a wide range of strategies for supporting healthy fascia is being researched by the Fascia Research Group at Ulm University in Germany, led by Prof Robert Schleip. Fascia research is still in its infancy, but the implications for healthcare are considerable. As early as 2015, a conference at Harvard Medical School examined links between fascia, acupuncture and oncology; the lectures remain available online and underline how much more we need to understand about fascia’s role in medicine.Manual therapists have long recognised the importance of working with fascia. Andrew Taylor Still, the founder of osteopathy, stressed its significance, and newer approaches such as the Bowen technique aim to improve hydration, proprioception and flexibility by engaging fascia gently but directly. One of the least appreciated aspects of fascia is its extraordinary sensitivity: it provides a constant feedback loop to the central and autonomic nervous systems, responding continuously to internal and external stimuli. Continue reading...",
             "feed_position": 11
           }
+        ],
+        "ai_summary": [
+          "Readers responded to an article about the importance of fascia.",
+          "The article highlighted the role of fascia in health and well-being.",
+          "Research is being conducted on fascia by the Fascia Research Group in Germany.",
+          "Manual therapists have long recognized the importance of working with fascia.",
+          "Fascia provides a constant feedback loop to the nervous systems."
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-12-03T19:18:39.405Z",
+    "updated_at": "2025-12-03T23:18:26.569Z",
     "clusters": []
   }
 }
