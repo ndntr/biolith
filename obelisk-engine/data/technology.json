@@ -1,8 +1,8 @@
 {
-  "updated_at": "2025-12-13T03:50:34.622Z",
+  "updated_at": "2025-12-13T07:21:20.365Z",
   "clusters": [
     {
-      "id": "cluster_16",
+      "id": "cluster_21",
       "coverage": 2,
       "updated_at": "Fri, 12 Dec 2025 22:03:58 +0000",
       "title": "Amazon pulls its bad AI video recaps after Fallout fallout",
@@ -252,23 +252,13 @@
           "content": "Nous Research, the San Francisco-based artificial intelligence startup, released on Tuesday an open-source mathematical reasoning system called Nomos 1 that achieved near-elite human performance on this year&#x27;s William Lowell Putnam Mathematical Competition, one of the most prestigious and notoriously difficult undergraduate math contests in the world.The Putnam is known for its difficulty: While a perfect score is 120, this year&#x27;s top score was 90, and the median was just 2. Nomos 1, by contrast, scored 87 points — a result that would have ranked second out of 3,988 participants in the 2024 competition, according to the company.The release marks an inflection point in the rapidly accelerating race to build AI systems capable of sophisticated mathematical reasoning. Unlike the massive, compute-intensive models deployed by major technology companies, Nomos 1 achieves its results with a relatively compact architecture: 30 billion parameters with roughly 3 billion active at any given time, using a mixture-of-experts design based on Alibaba&#x27;s Qwen3 model.\"This score would rank #2/3988 in 2024 and marks our first step with Hillclimb AI towards creating a SOTA AI mathematician,\" Nous Research announced on social media Tuesday.The same base model scored 24 points without Nous Research&#x27;s specialized trainingPerhaps most striking is the gap between Nomos 1 and its base model. When Nous Research ran the same Qwen3-30B-A3B-Thinking-2507 model through an identical testing harness, it scored just 24 out of 120 — a result that underscores the critical importance of post-training optimization and specialized reasoning techniques over raw model scale.\"Nomos 1 achieved an 87/120 with 8 perfect scores,\" the company stated, noting that the performance difference \"is largely due to post-training and data quality rather than the harness.\"The results were verified through blind grading by a human expert who had previously finished in the top 200 on the Putnam. Nous Research provided the anonymized submissions to the grader, then published the full set of de-anonymized files and the runbooks used to generate them on GitHub.Why the Putnam competition is considered the ultimate test of mathematical reasoningThe William Lowell Putnam Mathematical Competition is an annual mathematics competition for undergraduate college students enrolled at institutions of higher learning in the United States and Canada. It is widely considered to be the most prestigious university-level mathematics competition in the world.The notoriously brutal William Lowell Putnam Mathematical Competition is more of a mathematical sporting event than an academic test. The exam consists of two 3-hour sessions separated by a 2-hour break. There are a total of 12 questions to be solved, 6 for each session. Each question is worth 10 points, for a total of 120 points.Putnam questions are not the type that come up in regular exams or textbooks. They are more like puzzles than calculations, often requiring students to find different ways to represent things before a solution might unfold.Last year, nearly 4,000 students across the continent wrote the Putnam. Sixty-one per cent scored three points or fewer, according to the Mathematical Association of America, which organizes the competition. The top score was 90 out of 120.Many Putnam Fellows have gone on to become distinguished researchers in mathematics and other fields, including three Fields Medalists — John Milnor, David Mumford, and Daniel Quillen — and two Nobel laureates in physics — Richard Feynman and Kenneth Wilson.Inside the two-phase reasoning system that powers Nomos 1&#x27;s mathematical breakthroughsNomos 1 is a specialization of Qwen&#x27;s Qwen3-30B-A3B-Thinking model, optimized for mathematical problem-solving and proof-writing in natural language. The system was developed in collaboration with Hillclimb AI.What distinguishes Nomos 1 from simple model inference is its sophisticated reasoning harness — an open-source framework that orchestrates how the model approaches and solves problems. The harness operates in two distinct phases within a three-hour time limit, mirroring the actual Putnam competition structure.In the solving phase, parallel workers simultaneously tackle problems using a priority-based system. Each worker picks a problem, generates a submission, then scores its own work on a scale of 1 to 7. Problems with the fewest perfect scores receive priority, ensuring the system focuses its compute on the hardest challenges. This process continues until either all problems have achieved a target number of self-critiqued perfect scores or time runs out.The finalization phase begins 15 minutes before the time limit (or at 50% for shorter runs) and employs a two-stage selection process. First, a consolidation step groups submissions by conclusion and attempts to identify the correct group — importantly, not necessarily the majority group. Then, a pairwise tournament using single elimination determines the final submission for each problem.\"Our open source reasoning system consists of a solving phase, where workers attempt a least-solved problem and self-assess, followed by a finalization phase, which consolidates submissions to choose a final submission for each problem,\" Nous Research explained.How Nomos 1 compares to mathematical AI systems from DeepSeek, Google, and OpenAIThe Nomos 1 results arrive amid a flurry of advances in mathematical reasoning AI. DeepSeek&#x27;s model, DeepSeekMath-V2, scored 118 out of 120 points on questions from the 2024 William Lowell Putnam Mathematical Competition, beating the top human score of 90. The model also performed at the level of gold-medal winners in the International Mathematical Olympiad.This year, Google&#x27;s advanced Gemini model operated end-to-end in natural language, producing rigorous mathematical proofs directly from the official problem descriptions – all within the 4.5-hour competition time limit. They achieved this year&#x27;s result using an advanced version of Gemini Deep Think.What makes Nomos 1&#x27;s achievement notable is not raw performance — it trails DeepSeek&#x27;s 118/120 — but rather its accessibility and efficiency. At 30 billion parameters with only 3 billion active, the model can run on consumer-grade hardware, a stark contrast to the massive compute clusters required by frontier models from OpenAI and Google.Hermes 4.3 arrived just six days earlier, trained on a decentralized blockchain networkThe Nomos 1 announcement follows closely on the heels of Nous Research&#x27;s December 3 release of Hermes 4.3, a general-purpose language model that marked another significant milestone for the company.Hermes 4.3, based on ByteDance&#x27;s Seed-OSS-36B-Base model, is the first production model that Nous Research trained entirely on its Psyche network — a distributed training infrastructure that uses a novel optimizer called DisTrO to coordinate training across nodes spread throughout data centers over the open internet, secured by consensus on the Solana blockchain.The company trained Hermes 4.3 both through traditional centralized methods and on the Psyche network, specifically to verify that distributed training could match or exceed centralized performance for production workloads. The Psyche-trained version outperformed the centralized version across a suite of downstream tasks, the company reported.\"The training run proved stable throughout, averaging 144k tokens/second spread across 24 Psyche nodes,\" Nous Research stated. \"Using DisTrO&#x27;s overlapped collective strategy, the entirety of the P2P communications were hidden by the training time, effectively achieving equivalent throughput to traditional, centralized training.\"Hermes 4.3 also achieved state-of-the-art results on RefusalBench, a new benchmark that measures a model&#x27;s willingness to be helpful across a variety of scenarios commonly restricted by other models. The model answered 74.60% of RefusalBench questions in non-reasoning mode, surpassing its predecessor Hermes 4 70B (59.50%) and outperforming closed models including Grok 4 (51.30%) and Gemini 2.5 Pro (24.23%).Small models with smart training are closing the gap with trillion-parameter giantsTogether, the two releases in a single week signal Nous Research&#x27;s strategic bet: that smaller, more efficient models with sophisticated post-training techniques and reasoning harnesses can compete with — and in some cases outperform — the massive models developed by better-funded competitors.For enterprise decision-makers, the implications are significant. Mathematical reasoning capabilities have applications far beyond academic competitions: they&#x27;re essential for formal verification, theorem proving, scientific modeling, cryptographic analysis, and any domain requiring rigorous logical deduction.The open-source nature of both releases — Nomos 1 is available under the Apache 2.0 license on Hugging Face, with the full reasoning harness on GitHub — means that organizations can deploy these capabilities on their own infrastructure without relying on API calls to major cloud providers.\"For the first time, anyone can run or access a state-of-the-art AI mathematician,\" one observer noted on social media. \"This lowers the barrier to serious math research, proof verification, modeling complex systems, advanced reasoning work.\"The key contributors to Nomos 1 include Roger Jin, who led the training; Jeffrey Quesnelle and Dakota Mahan, who built the infrastructure; Chen Guang, who advised; and Ryan Teknium and Jeffrey Quesnelle, who provided leadership. The model was developed with contributions from Hillclimb AI and a team of math experts including Samuel Kim, Miron Yurkevich, and others.The race to build AI mathematicians is accelerating faster than anyone predictedThe 86th Putnam Competition took place on Saturday, December 6, 2025 — just three days before Nous Research released Nomos 1. The timing underscores how rapidly the field is moving: companies are now releasing mathematical AI systems capable of near-elite human performance within days of the competitions they&#x27;re designed to solve.Competition in mathematical AI has intensified dramatically in recent months. In July, an advanced version of Google DeepMind&#x27;s Gemini model and an experimental reasoning model from OpenAI both achieved gold status on the IMO 2025. DeepSeek&#x27;s new model matched their performance, solving 5 out of 6 problems.But the resource requirements for those frontier systems remain prohibitive for most organizations. OpenAI&#x27;s o1-pro is estimated at over 1.8 trillion parameters; Google&#x27;s Gemini 2.5 Pro likely exceeds 400 billion. Nomos 1, by contrast, achieves competitive results with a fraction of that footprint.The gap between massive frontier models and efficient open-source alternatives is narrowing. And for organizations that need mathematical reasoning capabilities without the budget for hyperscale compute, that gap may have just closed enough to matter.As one observer put it on social media: \"This marks a significant jump for AI math models that are small enough to run on your laptop.\"A laptop that can now outperform nearly 4,000 of the continent&#x27;s best undergraduate mathematicians.",
           "feed_position": 5,
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3D8WVGuLYcQWTny9eZ4GTH/bcedb162ba6f9a20be33108305199048/G7wxtuvXQAAaZdv.jpg?w=300&q=30"
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/ai/creating-a-glass-box-how-netsuite-is-engineering-trust-into-ai",
-          "published_at": "Thu, 11 Dec 2025 05:00:00 GMT",
-          "title": "Creating a glass box: How NetSuite is engineering trust into AI",
-          "standfirst": "Presented by Oracle NetSuiteWhen any company tells you it is their biggest product release in almost three decades, it’s worth listening. When the person saying it founded the world’s first cloud computing company, it’s time to take note. At SuiteWorld 2025, Evan Goldberg, founder and EVP of Oracle NetSuite, did just that when he called NetSuite Next the company’s biggest product evolution in nearly three decades. But behind that sweeping vision lies a quieter shift — one centered on how AI behaves, not just what it can do. “Every company is experimenting with AI,” says Brian Chess, SVP of Technology and AI at NetSuite. “Some ideas hit the mark, and some don’t, but each one teaches us something. That’s how innovation works.”For Chess and Gary Wiessinger, SVP of Application Development at NetSuite, the challenge lies in governing AI responsibly. Rather than reinventing its system, NetSuite is extending the same principles into the AI era that have guided its strategy for 27 years — security, control, and auditability. The goal is to make AI actions traceable, permissions enforceable, and outcomes auditable.The philosophy underpins what Chess calls a “glass-box” approach to enterprise AI, where decisions are visible and every agent operates within human-defined guardrails.Built on Oracle’s foundationNetSuite Next is the result of five years of development. It is built on Oracle Cloud Infrastructure (OCI), which is relied on by many of the world’s most important AI model providers, and has AI capabilities integrated directly into its core rather than added as a separate layer.“We are building a fantastic foundation on OCI,” Chess says. “That infrastructure provides more than compute power.” Built on the same OCI foundation that powers NetSuite today, NetSuite Next gives customers access to Oracle’s latest AI innovations along with the performance, scalability, and security of OCI’s enterprise-grade platform.Wiessinger emphasizes the team&#x27;s approach as “needs first, technology second.”“We don’t take a technology-first approach,” he says. “We take a customer-needs-first approach and then figure out how to use the latest technology to solve those needs better.”That philosophy extends across Oracle’s ecosystem. NetSuite’s collaboration with Oracle’s AI Database, Fusion Applications, Analytics, and Cloud Infrastructure teams helps NetSuite deliver capabilities that independent vendors can’t match, he says — an AI system that is both open to innovation and grounded in Oracle’s security and scale.The data structure advantageAt the heart of the platform is a structured data model that serves as a critical advantage.“One of the great things about NetSuite is, because the data comes in and it gets structured, the connections between the data are explicit,” Chess explains. “That means the AI can start exploring that knowledge graph that the company has been building up.”Where general LLMs sift through unstructured text, NetSuite’s AI works from structured data, identifying precise links between transactions, accounts, and workflows to deliver context-aware insights. Wiessinger adds, “The data we have spans financials, CRM, commerce, and HR. We can do more for customers because we see more of their business in one place.” Combined with built-in business logic and metadata, that scope allows NetSuite to generate recommendations and insights that are accurate and explainable.Oracle’s Redwood design system provides the visual layer for this data intelligence, creating what Goldberg described as a \"modern, clean and intuitive\" workspace where AI and humans collaborate naturally.Designing for accountabilityOne downside of enterprise AI is that many systems still function as a black box — they produce results but offer little visibility into how they reached them. NetSuite is different. It is designing its systems around transparency, making visibility a defining feature.“When users can see how AI reached a decision — tracing the path from A to B — they don’t just verify accuracy,” Chess says. “They learn how the AI knew to do that.”That visibility turns AI into a learning engine. As Chess puts it, transparency becomes a “fantastic teacher,” helping organizations understand, improve, and trust automation over time.But Chess cautions against blind trust: “What’s disturbing is when someone presents something to me and says, ‘Look what AI gave me,’ as if that makes it authoritative. People need to ask, ‘What grounded this? Why is it correct?’” NetSuite’s answer is traceability. When someone asks, “Where did this number come from?” the system can show them the full reasoning behind it.Governance by designAI agents inside NetSuite Next follow the same governance model as employees: roles, permissions, and escalation rules. Role-based security embedded directly into workflows helps ensure that agents act only within authorized boundaries.Wiessinger puts it plainly: “If AI generates a narrative summary of a report and it’s 80% of what the user would have written, that’s fine. We’ll learn from their feedback and make it even better. But booking to the general ledger is different. That has to be 100% correct and is where controls and human review really matter.”Auditing the algorithmAuditing has always been part of ERP’s DNA, and NetSuite now extends that discipline to AI. Every agent action, workflow adjustment, and model-generated code snippet is recorded within the system’s existing audit framework. As Chess explains, “It’s the same audit trail you might use to figure out what the humans did. Code is auditable. When the LLM creates code and something happens in the system, we can trace back.”That traceability transforms AI from a black box into a glass box. When an algorithm accelerates a payment or flags an anomaly, teams can see exactly which inputs and logic produced the decision — an essential safeguard for regulated industries and finance teams.Safe extensibilityThe other half of trust is freedom — the ability to extend AI without risking data exposure.The NetSuite AI Connector Service and SuiteCloud Platform make that possible. Through standards like the Model Context Protocol (MCP), customers can connect external language models while keeping sensitive data secure inside Oracle’s environment.“Businesses are hungry for AI,” Chess says. “They want to start putting it to work. But they also want to know those experiments can’t go off the rails. The NetSuite AI Connector Service and governance model give partners the freedom to innovate while maintaining the same audit and permission logic that govern native features.”Culture, experimentation, and guardrailsGovernance frameworks only work if people use them wisely. Both executives see AI adoption as a top-down and bottom-up process.“The board is telling the CEO they need an AI strategy,” Chess says. “Meanwhile, employees are already using AI. If I were a CEO, I’d start by asking: what are you already doing, and what’s working?”Wiessinger agrees that balance is key: “Some companies go all-in on a centralized AI team while others let everyone experiment freely. Neither works by itself. You need structure for major initiatives and freedom for grassroots innovation.”He offers a simple example: “Write an email? Go crazy. Touch financials or employee data? Don’t go crazy with that.”Experimentation, both emphasize, is imperative. “No one should wait for us or anyone else,” Wiessinger says. “Start testing, learn quickly, and be intentional about making it work for your business.”Why transparent AI winsAs AI moves deeper into enterprise operations, governance will define competitive advantage as much as innovation. NetSuite’s approach — extending its heritage of ERP controls into the age of autonomous systems, built on Oracle’s secure cloud infrastructure and structured-data foundation — positions it to lead in both.In a world of opaque models and risky promises, the companies that win won’t just build smarter AI. They’ll build AI you can trust.Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
-          "content": "Presented by Oracle NetSuiteWhen any company tells you it is their biggest product release in almost three decades, it’s worth listening. When the person saying it founded the world’s first cloud computing company, it’s time to take note. At SuiteWorld 2025, Evan Goldberg, founder and EVP of Oracle NetSuite, did just that when he called NetSuite Next the company’s biggest product evolution in nearly three decades. But behind that sweeping vision lies a quieter shift — one centered on how AI behaves, not just what it can do. “Every company is experimenting with AI,” says Brian Chess, SVP of Technology and AI at NetSuite. “Some ideas hit the mark, and some don’t, but each one teaches us something. That’s how innovation works.”For Chess and Gary Wiessinger, SVP of Application Development at NetSuite, the challenge lies in governing AI responsibly. Rather than reinventing its system, NetSuite is extending the same principles into the AI era that have guided its strategy for 27 years — security, control, and auditability. The goal is to make AI actions traceable, permissions enforceable, and outcomes auditable.The philosophy underpins what Chess calls a “glass-box” approach to enterprise AI, where decisions are visible and every agent operates within human-defined guardrails.Built on Oracle’s foundationNetSuite Next is the result of five years of development. It is built on Oracle Cloud Infrastructure (OCI), which is relied on by many of the world’s most important AI model providers, and has AI capabilities integrated directly into its core rather than added as a separate layer.“We are building a fantastic foundation on OCI,” Chess says. “That infrastructure provides more than compute power.” Built on the same OCI foundation that powers NetSuite today, NetSuite Next gives customers access to Oracle’s latest AI innovations along with the performance, scalability, and security of OCI’s enterprise-grade platform.Wiessinger emphasizes the team&#x27;s approach as “needs first, technology second.”“We don’t take a technology-first approach,” he says. “We take a customer-needs-first approach and then figure out how to use the latest technology to solve those needs better.”That philosophy extends across Oracle’s ecosystem. NetSuite’s collaboration with Oracle’s AI Database, Fusion Applications, Analytics, and Cloud Infrastructure teams helps NetSuite deliver capabilities that independent vendors can’t match, he says — an AI system that is both open to innovation and grounded in Oracle’s security and scale.The data structure advantageAt the heart of the platform is a structured data model that serves as a critical advantage.“One of the great things about NetSuite is, because the data comes in and it gets structured, the connections between the data are explicit,” Chess explains. “That means the AI can start exploring that knowledge graph that the company has been building up.”Where general LLMs sift through unstructured text, NetSuite’s AI works from structured data, identifying precise links between transactions, accounts, and workflows to deliver context-aware insights. Wiessinger adds, “The data we have spans financials, CRM, commerce, and HR. We can do more for customers because we see more of their business in one place.” Combined with built-in business logic and metadata, that scope allows NetSuite to generate recommendations and insights that are accurate and explainable.Oracle’s Redwood design system provides the visual layer for this data intelligence, creating what Goldberg described as a \"modern, clean and intuitive\" workspace where AI and humans collaborate naturally.Designing for accountabilityOne downside of enterprise AI is that many systems still function as a black box — they produce results but offer little visibility into how they reached them. NetSuite is different. It is designing its systems around transparency, making visibility a defining feature.“When users can see how AI reached a decision — tracing the path from A to B — they don’t just verify accuracy,” Chess says. “They learn how the AI knew to do that.”That visibility turns AI into a learning engine. As Chess puts it, transparency becomes a “fantastic teacher,” helping organizations understand, improve, and trust automation over time.But Chess cautions against blind trust: “What’s disturbing is when someone presents something to me and says, ‘Look what AI gave me,’ as if that makes it authoritative. People need to ask, ‘What grounded this? Why is it correct?’” NetSuite’s answer is traceability. When someone asks, “Where did this number come from?” the system can show them the full reasoning behind it.Governance by designAI agents inside NetSuite Next follow the same governance model as employees: roles, permissions, and escalation rules. Role-based security embedded directly into workflows helps ensure that agents act only within authorized boundaries.Wiessinger puts it plainly: “If AI generates a narrative summary of a report and it’s 80% of what the user would have written, that’s fine. We’ll learn from their feedback and make it even better. But booking to the general ledger is different. That has to be 100% correct and is where controls and human review really matter.”Auditing the algorithmAuditing has always been part of ERP’s DNA, and NetSuite now extends that discipline to AI. Every agent action, workflow adjustment, and model-generated code snippet is recorded within the system’s existing audit framework. As Chess explains, “It’s the same audit trail you might use to figure out what the humans did. Code is auditable. When the LLM creates code and something happens in the system, we can trace back.”That traceability transforms AI from a black box into a glass box. When an algorithm accelerates a payment or flags an anomaly, teams can see exactly which inputs and logic produced the decision — an essential safeguard for regulated industries and finance teams.Safe extensibilityThe other half of trust is freedom — the ability to extend AI without risking data exposure.The NetSuite AI Connector Service and SuiteCloud Platform make that possible. Through standards like the Model Context Protocol (MCP), customers can connect external language models while keeping sensitive data secure inside Oracle’s environment.“Businesses are hungry for AI,” Chess says. “They want to start putting it to work. But they also want to know those experiments can’t go off the rails. The NetSuite AI Connector Service and governance model give partners the freedom to innovate while maintaining the same audit and permission logic that govern native features.”Culture, experimentation, and guardrailsGovernance frameworks only work if people use them wisely. Both executives see AI adoption as a top-down and bottom-up process.“The board is telling the CEO they need an AI strategy,” Chess says. “Meanwhile, employees are already using AI. If I were a CEO, I’d start by asking: what are you already doing, and what’s working?”Wiessinger agrees that balance is key: “Some companies go all-in on a centralized AI team while others let everyone experiment freely. Neither works by itself. You need structure for major initiatives and freedom for grassroots innovation.”He offers a simple example: “Write an email? Go crazy. Touch financials or employee data? Don’t go crazy with that.”Experimentation, both emphasize, is imperative. “No one should wait for us or anyone else,” Wiessinger says. “Start testing, learn quickly, and be intentional about making it work for your business.”Why transparent AI winsAs AI moves deeper into enterprise operations, governance will define competitive advantage as much as innovation. NetSuite’s approach — extending its heritage of ERP controls into the age of autonomous systems, built on Oracle’s secure cloud infrastructure and structured-data foundation — positions it to lead in both.In a world of opaque models and risky promises, the companies that win won’t just build smarter AI. They’ll build AI you can trust.Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
-          "feed_position": 6,
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6ouXpzYvtEUpMqztfoRe7u/c8be75d5f24ee25abb8f25c45358796a/AdobeStock_1708529298.jpeg?w=300&q=30"
         }
       ],
       "featured_image": "https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-09/a92d7c30-9d6a-11f0-b34f-f4800ebc779d",
-      "popularity_score": 2014.2231605555555
+      "popularity_score": 2010.7104541666668
     },
     {
-      "id": "cluster_47",
+      "id": "cluster_49",
       "coverage": 2,
       "updated_at": "Fri, 12 Dec 2025 18:36:28 +0000",
       "title": "Clair Obscur: Expedition 33 devs dropped a big update after sweeping The Game Awards",
@@ -302,10 +292,10 @@
           "feed_position": 17
         }
       ],
-      "popularity_score": 2010.7648272222223
+      "popularity_score": 2007.2521208333333
     },
     {
-      "id": "cluster_56",
+      "id": "cluster_59",
       "coverage": 2,
       "updated_at": "Fri, 12 Dec 2025 17:00:00 +0000",
       "title": "Google Translate now lets you hear real-time translations in your headphones",
@@ -330,10 +320,10 @@
           "feed_position": 10
         }
       ],
-      "popularity_score": 2009.1570494444445
+      "popularity_score": 2005.6443430555555
     },
     {
-      "id": "cluster_88",
+      "id": "cluster_102",
       "coverage": 2,
       "updated_at": "Fri, 12 Dec 2025 03:58:36 +0000",
       "title": "4:LOOP is a co-op shooter from the creator of Left 4 Dead and JJ Abrams' Bad Robot",
@@ -370,7 +360,38 @@
       "popularity_score": 2000
     },
     {
-      "id": "cluster_13",
+      "id": "cluster_126",
+      "coverage": 2,
+      "updated_at": "Thu, 11 Dec 2025 21:27:18 +0000",
+      "title": "OpenAI releases GPT-5.2 after “code red” Google threat alert",
+      "neutral_headline": "OpenAI releases GPT-5.2 after “code red” Google threat alert",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/",
+          "published_at": "Thu, 11 Dec 2025 21:27:18 +0000",
+          "title": "OpenAI releases GPT-5.2 after “code red” Google threat alert",
+          "standfirst": "Company claims new AI model tops Gemini and matches humans on 70% of work tasks.",
+          "content": "On Thursday, OpenAI released GPT-5.2, its newest family of AI models for ChatGPT, in three versions called Instant, Thinking, and Pro. The release follows CEO Sam Altman’s internal “code red” memo earlier this month, which directed company resources toward improving ChatGPT in response to competitive pressure from Google’s Gemini 3 AI model. “We designed 5.2 to unlock even more economic value for people,” Fidji Simo, OpenAI’s chief product officer, said during a press briefing with journalists on Thursday. “It’s better at creating spreadsheets, building presentations, writing code, perceiving images, understanding long context, using tools and then linking complex, multi-step projects.” As with previous versions of GPT-5, the three model tiers serve different purposes: Instant handles faster tasks like writing and translation; Thinking spits out simulated reasoning “thinking” text in an attempt to tackle more complex work like coding and math; and Pro spits out even more simulated reasoning text with the goal of delivering the highest-accuracy performance for difficult problems.Read full article Comments",
+          "feed_position": 18,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-1152x648.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/openai-gpt-launch-gemini-code-red/",
+          "published_at": "Thu, 11 Dec 2025 18:00:00 +0000",
+          "title": "OpenAI Launches GPT-5.2 as It Navigates ‘Code Red’",
+          "standfirst": "The ChatGPT-maker is releasing its “best model yet” as it faces new pressures from Google and other AI competitors.",
+          "content": "The ChatGPT-maker is releasing its “best model yet” as it faces new pressures from Google and other AI competitors.",
+          "feed_position": 22,
+          "image_url": "https://media.wired.com/photos/6939fd17eaa4088bd3b69c9f/master/pass/GettyImages-2249343616.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-1152x648.jpg",
+      "popularity_score": 2000
+    },
+    {
+      "id": "cluster_18",
       "coverage": 1,
       "updated_at": "Fri, 12 Dec 2025 22:16:42 +0000",
       "title": "OpenAI built an AI coding agent and uses it to improve the agent itself",
@@ -388,10 +409,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/AI_codehead_header-1152x648.jpg",
-      "popularity_score": 362.43538277777776
+      "popularity_score": 358.9226763888889
     },
     {
-      "id": "cluster_31",
+      "id": "cluster_34",
       "coverage": 1,
       "updated_at": "Fri, 12 Dec 2025 20:44:35 +0000",
       "title": "Google Translate expands live translation to all earbuds on Android",
@@ -409,10 +430,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Translate-app-1152x648.jpg",
-      "popularity_score": 337.900105
+      "popularity_score": 334.3873986111111
     },
     {
-      "id": "cluster_19",
+      "id": "cluster_23",
       "coverage": 1,
       "updated_at": "Fri, 12 Dec 2025 21:35:44 +0000",
       "title": "Reminder: Donate to win swag in our annual Charity Drive sweepstakes",
@@ -430,10 +451,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/charitydrive2025-1152x648.jpg",
-      "popularity_score": 336.752605
+      "popularity_score": 333.23989861111113
     },
     {
-      "id": "cluster_35",
+      "id": "cluster_38",
       "coverage": 1,
       "updated_at": "Fri, 12 Dec 2025 19:49:27 +0000",
       "title": "Ukrainians sue US chip firms for powering Russian drones, missiles",
@@ -451,10 +472,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2161674727-1024x648.jpg",
-      "popularity_score": 329.9812161111111
+      "popularity_score": 326.4685097222222
     },
     {
-      "id": "cluster_44",
+      "id": "cluster_45",
       "coverage": 1,
       "updated_at": "Fri, 12 Dec 2025 19:14:31 +0000",
       "title": "Scientists built an AI co-pilot for prosthetic bionic hands",
@@ -472,10 +493,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2207559807-e1765565371849-1152x648-1765565584.jpg",
-      "popularity_score": 319.39899388888887
+      "popularity_score": 315.8862875
     },
     {
-      "id": "cluster_48",
+      "id": "cluster_50",
       "coverage": 1,
       "updated_at": "Fri, 12 Dec 2025 18:29:50 +0000",
       "title": "Trump tries to block state AI laws himself after Congress decided not to",
@@ -493,10 +514,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-1152x648-1756146125.jpg",
-      "popularity_score": 298.65427166666666
+      "popularity_score": 295.1415652777778
     },
     {
-      "id": "cluster_46",
+      "id": "cluster_47",
       "coverage": 1,
       "updated_at": "Fri, 12 Dec 2025 18:58:12 +0000",
       "title": "A study in contrasts: The cinematography of Wake Up Dead Man",
@@ -514,10 +535,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/wakeup1-1152x648.jpg",
-      "popularity_score": 294.1270494444444
+      "popularity_score": 290.61434305555554
     },
     {
-      "id": "cluster_65",
+      "id": "cluster_68",
       "coverage": 1,
       "updated_at": "Fri, 12 Dec 2025 16:00:23 +0000",
       "title": "Apple loses its appeal of a scathing contempt ruling in iOS payments case",
@@ -535,10 +556,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2171810471-1024x648.jpg",
-      "popularity_score": 273.1634383333333
+      "popularity_score": 269.65073194444443
     },
     {
-      "id": "cluster_53",
+      "id": "cluster_55",
       "coverage": 1,
       "updated_at": "Fri, 12 Dec 2025 17:33:22 +0000",
       "title": "Man shocks doctors with extreme blood pressure, stroke from energy drinks",
@@ -556,10 +577,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1025255964-1152x648.jpg",
-      "popularity_score": 272.71316055555553
+      "popularity_score": 269.20045416666665
     },
     {
-      "id": "cluster_70",
+      "id": "cluster_74",
       "coverage": 1,
       "updated_at": "Fri, 12 Dec 2025 15:33:32 +0000",
       "title": "Senator endorses discredited doctor’s book that claims chemical treats autism, cancer",
@@ -577,31 +598,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1438746733-1152x648.jpg",
-      "popularity_score": 265.7159383333333
+      "popularity_score": 262.20323194444444
     },
     {
-      "id": "cluster_108",
-      "coverage": 1,
-      "updated_at": "Thu, 11 Dec 2025 21:27:18 +0000",
-      "title": "OpenAI releases GPT-5.2 after “code red” Google threat alert",
-      "neutral_headline": "OpenAI releases GPT-5.2 after “code red” Google threat alert",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/",
-          "published_at": "Thu, 11 Dec 2025 21:27:18 +0000",
-          "title": "OpenAI releases GPT-5.2 after “code red” Google threat alert",
-          "standfirst": "Company claims new AI model tops Gemini and matches humans on 70% of work tasks.",
-          "content": "On Thursday, OpenAI released GPT-5.2, its newest family of AI models for ChatGPT, in three versions called Instant, Thinking, and Pro. The release follows CEO Sam Altman’s internal “code red” memo earlier this month, which directed company resources toward improving ChatGPT in response to competitive pressure from Google’s Gemini 3 AI model. “We designed 5.2 to unlock even more economic value for people,” Fidji Simo, OpenAI’s chief product officer, said during a press briefing with journalists on Thursday. “It’s better at creating spreadsheets, building presentations, writing code, perceiving images, understanding long context, using tools and then linking complex, multi-step projects.” As with previous versions of GPT-5, the three model tiers serve different purposes: Instant handles faster tasks like writing and translation; Thinking spits out simulated reasoning “thinking” text in an attempt to tackle more complex work like coding and math; and Pro spits out even more simulated reasoning text with the goal of delivering the highest-accuracy performance for difficult problems.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-1152x648.jpg",
-      "popularity_score": 160
-    },
-    {
-      "id": "cluster_103",
+      "id": "cluster_118",
       "coverage": 1,
       "updated_at": "Thu, 11 Dec 2025 23:47:33 +0000",
       "title": "Runway claims its GWM-1 “world models” can stay coherent for minutes at a time",
@@ -622,7 +622,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_71",
+      "id": "cluster_75",
       "coverage": 1,
       "updated_at": "Fri, 12 Dec 2025 15:23:57 +0000",
       "title": "Investors commit quarter-billion dollars to startup designing “Giga” satellites",
@@ -640,10 +640,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/k2gravitas-1152x648.jpg",
-      "popularity_score": 140.5562161111111
+      "popularity_score": 137.0435097222222
     },
     {
-      "id": "cluster_84",
+      "id": "cluster_92",
       "coverage": 1,
       "updated_at": "Fri, 12 Dec 2025 12:15:02 +0000",
       "title": "Chatbot-powered toys rebuked for discussing sexual, dangerous topics with kids",
@@ -661,10 +661,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/F6S-AI_ChatGPT-1152x648.jpg",
-      "popularity_score": 137.407605
+      "popularity_score": 133.8948986111111
     },
     {
-      "id": "cluster_85",
+      "id": "cluster_93",
       "coverage": 1,
       "updated_at": "Fri, 12 Dec 2025 12:00:49 +0000",
       "title": "Rocket Report: Neutron’s Hungry Hippo is deemed ready, whither Orbex?",
@@ -682,31 +682,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Neutron-Hungry-Hippo-1152x648.jpg",
-      "popularity_score": 137.17066055555554
+      "popularity_score": 133.65795416666666
     },
     {
-      "id": "cluster_83",
-      "coverage": 1,
-      "updated_at": "Fri, 12 Dec 2025 12:30:22 +0000",
-      "title": "How to break free from smart TV ads and tracking",
-      "neutral_headline": "How to break free from smart TV ads and tracking",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
-          "published_at": "Fri, 12 Dec 2025 12:30:22 +0000",
-          "title": "How to break free from smart TV ads and tracking",
-          "standfirst": "Sick of smart TVs? Here are your best options.",
-          "content": "Smart TVs can feel like a dumb choice if you’re looking for privacy, reliability, and simplicity. Today’s TVs and streaming sticks are usually loaded up with advertisements and user tracking, making offline TVs seem very attractive. But ever since smart TV operating systems began making money, “dumb” TVs have been hard to find. In response, we created this non-smart TV guide that includes much more than dumb TVs. Since non-smart TVs are so rare, this guide also breaks down additional ways to watch TV and movies online and locally without dealing with smart TVs’ evolution toward software-centric features and snooping. We’ll discuss a range of options suitable for various budgets, different experience levels, and different rooms in your home.Read full article Comments",
-          "feed_position": 11,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/smart-dumb-tv-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/smart-dumb-tv-1152x648.jpg",
-      "popularity_score": 134.66316055555555
-    },
-    {
-      "id": "cluster_90",
+      "id": "cluster_104",
       "coverage": 1,
       "updated_at": "Fri, 12 Dec 2025 02:51:40 +0000",
       "title": "Star Wars: Fate of the Old Republic announced as a KOTOR spiritual successor",
@@ -727,7 +706,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_95",
+      "id": "cluster_109",
       "coverage": 1,
       "updated_at": "Fri, 12 Dec 2025 01:50:08 +0000",
       "title": "Jonathan Blow has spent the past decade designing 1,400 puzzles for you",
@@ -748,7 +727,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_105",
+      "id": "cluster_120",
       "coverage": 1,
       "updated_at": "Thu, 11 Dec 2025 23:03:02 +0000",
       "title": "Instead of fixing WoW’s new floating house exploit, Blizzard makes it official",
@@ -769,7 +748,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_110",
+      "id": "cluster_128",
       "coverage": 1,
       "updated_at": "Thu, 11 Dec 2025 20:25:08 +0000",
       "title": "Supergirl teaser gives us a likably imperfect Kara Zor-El",
@@ -788,6 +767,27 @@
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/supergirl2-1152x648-1765482181.jpg",
       "popularity_score": 133
+    },
+    {
+      "id": "cluster_91",
+      "coverage": 1,
+      "updated_at": "Fri, 12 Dec 2025 12:30:22 +0000",
+      "title": "How to break free from smart TV ads and tracking",
+      "neutral_headline": "How to break free from smart TV ads and tracking",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
+          "published_at": "Fri, 12 Dec 2025 12:30:22 +0000",
+          "title": "How to break free from smart TV ads and tracking",
+          "standfirst": "Sick of smart TVs? Here are your best options.",
+          "content": "Smart TVs can feel like a dumb choice if you’re looking for privacy, reliability, and simplicity. Today’s TVs and streaming sticks are usually loaded up with advertisements and user tracking, making offline TVs seem very attractive. But ever since smart TV operating systems began making money, “dumb” TVs have been hard to find. In response, we created this non-smart TV guide that includes much more than dumb TVs. Since non-smart TVs are so rare, this guide also breaks down additional ways to watch TV and movies online and locally without dealing with smart TVs’ evolution toward software-centric features and snooping. We’ll discuss a range of options suitable for various budgets, different experience levels, and different rooms in your home.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/smart-dumb-tv-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/smart-dumb-tv-1152x648.jpg",
+      "popularity_score": 131.15045416666666
     }
   ]
 }
