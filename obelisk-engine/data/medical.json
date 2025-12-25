@@ -1,17 +1,37 @@
 {
   "clinical": {
-    "updated_at": "2025-12-25T19:16:27.593Z",
+    "updated_at": "2025-12-25T23:20:02.085Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2025-12-25T19:16:40.224Z",
+    "updated_at": "2025-12-25T23:20:11.847Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2025-12-25T19:16:31.075Z",
+    "updated_at": "2025-12-25T23:20:11.539Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Thu, 25 Dec 2025 21:00:00 GMT",
+        "title": "BBC Inside Science",
+        "neutral_headline": "BBC Inside Science",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/sounds/play/w3ct8txr?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 25 Dec 2025 21:00:00 GMT",
+            "title": "BBC Inside Science",
+            "standfirst": "A weekly show exploring science, its mysteries, and the debates it sparks.",
+            "content": "A weekly show exploring science, its mysteries, and the debates it sparks.",
+            "feed_position": 58,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Thu, 25 Dec 2025 13:00:41 GMT",
         "title": "Blood test could predict who is most at risk from common inherited heart condition",
@@ -29,7 +49,7 @@
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Thu, 25 Dec 2025 12:00:40 GMT",
         "title": "Concerns about ageing society ignore huge opportunities, says population expert",
@@ -47,7 +67,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Thu, 25 Dec 2025 08:00:36 GMT",
         "title": "Dr Alex George looks back: ‘A dying friend told me to throw myself into things more – Love Island came into my mind’",
@@ -65,7 +85,7 @@
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Wed, 24 Dec 2025 17:00:16 GMT",
         "title": "How to end the year right: come up with your own personal rituals",
@@ -83,7 +103,7 @@
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Wed, 24 Dec 2025 15:01:56 GMT",
         "title": "Flu cases falling ahead of Christmas, experts say",
@@ -103,7 +123,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a145/live/7c53aff0-e0e4-11f0-a8dc-93c15fe68710.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Wed, 24 Dec 2025 14:11:59 GMT",
         "title": "What is happening to flu this winter - and should you buy a vaccine?",
@@ -123,7 +143,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98c1/live/116b69a0-d746-11f0-a892-01d657345866.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Wed, 24 Dec 2025 14:00:14 GMT",
         "title": "Is Trump mentally OK? A look back at the president’s unusual behavior in 2025",
@@ -141,7 +161,7 @@
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Wed, 24 Dec 2025 14:00:13 GMT",
         "title": "Throwing out flame-retardant furniture can reduce toxic chemicals in blood, study finds",
@@ -159,7 +179,7 @@
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Wed, 24 Dec 2025 13:20:33 GMT",
         "title": "Flu: How are hospitals in your area affected?",
@@ -179,7 +199,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/392b/live/09ea31b0-dbfc-11f0-a030-476ae6d8c14a.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Wed, 24 Dec 2025 13:00:11 GMT",
         "title": "Midwife leading Nottingham maternity inquiry charging NHS up to £26,000 a month",
@@ -197,7 +217,7 @@
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Wed, 24 Dec 2025 11:00:09 GMT",
         "title": "Why are drug prices so high in America? Trump doesn’t have the right answer | Susi Geiger and Théo Bourgeron",
@@ -215,7 +235,7 @@
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Wed, 24 Dec 2025 08:00:05 GMT",
         "title": "Motor neurone disease patients in England die waiting for home adaptations, campaigners say",
@@ -233,7 +253,7 @@
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Wed, 24 Dec 2025 00:24:28 GMT",
         "title": "Christmas can be a nightmare for misophonia sufferers like me",
@@ -255,7 +275,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2025-12-25T19:16:40.224Z",
+    "updated_at": "2025-12-25T23:20:11.847Z",
     "clusters": []
   }
 }
