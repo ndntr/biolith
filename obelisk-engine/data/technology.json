@@ -1,38 +1,8 @@
 {
-  "updated_at": "2025-12-31T03:59:34.683Z",
+  "updated_at": "2025-12-31T07:24:05.099Z",
   "clusters": [
     {
-      "id": "cluster_31",
-      "coverage": 2,
-      "updated_at": "2025-12-30T13:32:27-05:00",
-      "title": "Two cybersecurity employees plead guilty to carrying out ransomware attacks",
-      "neutral_headline": "Two cybersecurity employees plead guilty to carrying out ransomware attacks",
-      "items": [
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware",
-          "published_at": "2025-12-30T13:32:27-05:00",
-          "title": "Two cybersecurity employees plead guilty to carrying out ransomware attacks",
-          "standfirst": "Two former employees at cybersecurity firms - one of whom was a ransomware negotiator - have pleaded guilty to carrying out a series of ransomware attacks in 2023. The Department of Justice announced the guilty pleas on Tuesday, saying 40-year-old Ryan Goldberg and 36-year-old Kevin Martin extorted $1.2 million in Bitcoin from a medical device [&#8230;]",
-          "content": "Two former employees at cybersecurity firms - one of whom was a ransomware negotiator - have pleaded guilty to carrying out a series of ransomware attacks in 2023. The Department of Justice announced the guilty pleas on Tuesday, saying 40-year-old Ryan Goldberg and 36-year-old Kevin Martin extorted $1.2 million in Bitcoin from a medical device company and targeted several others. Goldberg, Martin, and an unnamed co-conspirator were indicted for the attacks in October, which involved using ALPHV / BlackCat ransomware to encrypt and steal data from their victims. As reported by the Chicago Sun-Times, Martin and the third conspirator worked as … Read the full story at The Verge.",
-          "feed_position": 0
-        },
-        {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/251230/p13#a251230p13",
-          "published_at": "Tue, 30 Dec 2025 13:30:00 -0500",
-          "title": "Two ex-staffers of cybersecurity incident response companies Sygnia and DigitalMint plead guilty to targeting US companies in 2023's BlackCat ransomware attacks (Sergiu Gatlan/BleepingComputer)",
-          "standfirst": "Sergiu Gatlan / BleepingComputer: Two ex-staffers of cybersecurity incident response companies Sygnia and DigitalMint plead guilty to targeting US companies in 2023's BlackCat ransomware attacks &mdash; Two former employees of cybersecurity incident response companies Sygnia and DigitalMint have pleaded guilty to targeting U.S. companies &hellip;",
-          "content": "Sergiu Gatlan / BleepingComputer: Two ex-staffers of cybersecurity incident response companies Sygnia and DigitalMint plead guilty to targeting US companies in 2023's BlackCat ransomware attacks &mdash; Two former employees of cybersecurity incident response companies Sygnia and DigitalMint have pleaded guilty to targeting U.S. companies &hellip;",
-          "feed_position": 9,
-          "image_url": "http://www.techmeme.com/251230/i13.jpg"
-        }
-      ],
-      "featured_image": "http://www.techmeme.com/251230/i13.jpg",
-      "popularity_score": 2010.5478658333334
-    },
-    {
-      "id": "cluster_41",
+      "id": "cluster_47",
       "coverage": 2,
       "updated_at": "Tue, 30 Dec 2025 17:00:00 GMT",
       "title": "Why Meta bought Manus — and what it signals for your enterprise AI agent strategy",
@@ -143,23 +113,13 @@
           "content": "With the ecosystem of agentic tools and frameworks exploding in size, navigating the many options for building AI systems is becoming increasingly difficult, leaving developers confused and paralyzed when choosing the right tools and models for their applications.In a new study, researchers from multiple institutions present a comprehensive framework to untangle this complex web. They categorize agentic frameworks based on their area of focus and tradeoffs, providing a practical guide for developers to choose the right tools and strategies for their applications.For enterprise teams, this reframes agentic AI from a model-selection problem into an architectural decision about where to spend training budget, how much modularity to preserve, and what tradeoffs they’re willing to make between cost, flexibility, and risk.Agent vs. tool adaptationThe researchers divide the landscape into two primary dimensions: agent adaptation and tool adaptation.Agent adaptation involves modifying the foundation model that underlies the agentic system. This is done by updating the agent’s internal parameters or policies through methods like fine-tuning or reinforcement learning to better align with specific tasks.Tool adaptation, on the other hand, shifts the focus to the environment surrounding the agent. Instead of retraining the large, expensive foundation model, developers optimize the external tools such as search retrievers, memory modules, or sub-agents. In this strategy, the main agent remains \"frozen\" (unchanged). This approach allows the system to evolve without the massive computational cost of retraining the core model.The study further breaks these down into four distinct strategies:A1: Tool execution signaled: In this strategy, the agent learns by doing. It is optimized using verifiable feedback directly from a tool&#x27;s execution, such as a code compiler interacting with a script or a database returning search results. This teaches the agent the \"mechanics\" of using a tool correctly.A prime example is DeepSeek-R1, where the model was trained through reinforcement learning with verifiable rewards to generate code that successfully executes in a sandbox. The feedback signal is binary and objective (did the code run, or did it crash?). This method builds strong low-level competence in stable, verifiable domains like coding or SQL.A2: Agent output Signaled: Here, the agent is optimized based on the quality of its final answer, regardless of the intermediate steps and number of tool calls it makes. This teaches the agent how to orchestrate various tools to reach a correct conclusion.An example is Search-R1, an agent that performs multi-step retrieval to answer questions. The model receives a reward only if the final answer is correct, implicitly forcing it to learn better search and reasoning strategies to maximize that reward. A2 is ideal for system-level orchestration, enabling agents to handle complex workflows.T1: Agent-agnostic: In this category, tools are trained independently on broad data and then \"plugged in\" to a frozen agent. Think of classic dense retrievers used in RAG systems. A standard retriever model is trained on generic search data. A powerful frozen LLM can use this retriever to find information, even though the retriever wasn&#x27;t designed specifically for that LLM.T2: Agent-supervised: This strategy involves training tools specifically to serve a frozen agent. The supervision signal comes from the agent’s own output, creating a symbiotic relationship where the tool learns to provide exactly what the agent needs.For example, the s3 framework trains a small \"searcher\" model to retrieve documents. This small model is rewarded based on whether a frozen \"reasoner\" (a large LLM) can answer the question correctly using those documents. The tool effectively adapts to fill the specific knowledge gaps of the main agent.Complex AI systems might use a combination of these adaptation paradigms. For example, a deep research system might employ T1-style retrieval tools (pre-trained dense retrievers), T2-style adaptive search agents (trained via frozen LLM feedback), and A1-style reasoning agents (fine-tuned with execution feedback) in a broader orchestrated system.The hidden costs and tradeoffsFor enterprise decision-makers, choosing between these strategies often comes down to three factors: cost, generalization, and modularity.Cost vs. flexibility: Agent adaptation (A1/A2) offers maximum flexibility because you are rewiring the agent&#x27;s brain. However, the costs are steep. For instance, Search-R1 (an A2 system) required training on 170,000 examples to internalize search capabilities. This requires massive compute and specialized datasets. On the other hand, the models can be much more efficient at inference time because they are much smaller than generalist models.In contrast, Tool adaptation (T1/T2) is far more efficient. The s3 system (T2) trained a lightweight searcher using only 2,400 examples (roughly 70 times less data than Search-R1) while achieving comparable performance. By optimizing the ecosystem rather than the agent, enterprises can achieve high performance at a lower cost. However, this comes with an overhead cost inference time since s3 requires coordination with a larger model.Generalization: A1 and A2 methods risk \"overfitting,\" where an agent becomes so specialized in one task that it loses general capabilities. The study found that while Search-R1 excelled at its training tasks, it struggled with specialized medical QA, achieving only 71.8% accuracy. This is not a problem when your agent is designed to perform a very specific set of tasks. Conversely, the s3 system (T2), which used a general-purpose frozen agent assisted by a trained tool, generalized better, achieving 76.6% accuracy on the same medical tasks. The frozen agent retained its broad world knowledge, while the tool handled the specific retrieval mechanics. However, T1/T2 systems rely on the knowledge of the frozen agent, and if the underlying model can’t handle the specific task, they will be useless. Modularity: T1/T2 strategies enable \"hot-swapping.\" You can upgrade a memory module or a searcher without touching the core reasoning engine. For example, Memento optimizes a memory module to retrieve past cases; if requirements change, you update the module, not the planner.A1 and A2 systems are monolithic. Teaching an agent a new skill (like coding) via fine-tuning can cause \"catastrophic forgetting,\" where it degrades on previously learned skills (like math) because its internal weights are overwritten.A strategic framework for enterprise adoptionBased on the study, developers should view these strategies as a progressive ladder, moving from low-risk, modular solutions to high-resource customization.Start with T1 (agent-agnostic tools): Equip a frozen, powerful model (like Gemini or Claude) with off-the-shelf tools such as a dense retriever or an MCP connector. This requires zero training and is perfect for prototyping and general applications. It is the low-hanging fruit that can take you very far for most tasks.Move to T2 (agent-supervised tools): If the agent struggles to use generic tools, don&#x27;t retrain the main model. Instead, train a small, specialized sub-agent (like a searcher or memory manager) to filter and format data exactly how the main agent likes it. This is highly data-efficient and suitable for proprietary enterprise data and applications that are high-volume and cost-sensitive.Use A1 (tool execution signaled) for specialization: If the agent fundamentally fails at technical tasks (e.g., writing non-functional code or wrong API calls) you must rewire its understanding of the tool&#x27;s \"mechanics.\" A1 is best for creating specialists in verifiable domains like SQL or Python or your proprietary tools. For example, you can optimize a small model for your specific toolset and then use it as a T1 plugin for a generalist model.Reserve A2 (agent output signaled) as the \"nuclear option\": Only train a monolithic agent end-to-end if you need it to internalize complex strategy and self-correction. This is resource-intensive and rarely necessary for standard enterprise applications. In reality, you rarely need to get involved in training your own model.As the AI landscape matures, the focus is shifting from building one giant, perfect model to constructing a smart ecosystem of specialized tools around a stable core. For most enterprises, the most effective path to agentic AI isn&#x27;t building a bigger brain but giving the brain better tools.",
           "feed_position": 4,
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/53m6rZtTh6hIfzAH13MKNV/89e1099161b1bb44ed708399eb1e06fb/Agentic_adaptation_strategies.jpg?w=300&q=30"
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/infrastructure/inside-microsoft-ignite-how-microsoft-and-nvidia-are-redefining-the-ai-stack",
-          "published_at": "Mon, 29 Dec 2025 05:00:00 GMT",
-          "title": "Inside Microsoft Ignite: How Microsoft and NVIDIA are redefining the AI stack",
-          "standfirst": "Presented by Microsoft and NVIDIAAs the world’s leading platform providers and champions for advancing AI globally, NVIDIA and Microsoft continue to deliver unequaled value for organizations investing in and deploying AI. The companies’ collaborative efforts at the 2025 Microsoft Ignite conference offered tangible proof, introducing practitioners and decision-makers to new and expanded AI infrastructure and cloud solutions for accelerating enterprise transformation and real-world impact with AI agents.IT and business leaders across industries gathered at Microsoft Ignite, November 18 to 21 in San Francisco. The theme for this year’s conference centered on accelerating success with AI, with a strong topical focus around developing and scaling agentic and physical AI and digital twins. NVIDIA and Microsoft event presence underscored the expansive nature of their collaboration, from silicon to services, as attendees experienced first-hand the full-stack AI solutions now available and heard exciting announcements on new integrations and expanded partnership solutions.NVIDIA sessions from Microsoft Ignite — available on demandLearning sessions at Microsoft Ignite are tailored each year to deliver timely technical and strategic insights for attendees across roles. In-depth learning on the powerful integrations between Microsoft Azure and the NVIDIA platform made up a sizable quotient of this year’s catalog, with over 40 sessions highlighting NVIDIA solutions and capabilities. Now, 15 of these sessions are available on demand for a limited time.Available sessions cover many of the latest integrations available from NVIDIA and Microsoft Azure — some so recent as to be announced during the event. For in-person session attendees and post-event viewers leveraging the on-demand catalog, NVIDIA’s and Microsoft’s presentations during Microsoft Ignite engage customers with the most up-to-date information on what they can get from Microsoft Azure, with NVIDIA integrations to power and elevate their AI journeys. Integrations for next-generation AI NVIDIA Blackwell powers Azure NCv6 for accelerating complex AI workloadsNVIDIA continues to evolve its Blackwell platform for the AI era as a new NVIDIA Blackwell platform expansion brings the new Azure NCv6 Series Virtual Machines with NVIDIA RTX PRO 6000 Blackwell GPUs into public preview. This expansion allows the Blackwell platform to right-size acceleration for converged AI and visual computing workloads spanning digital twins and NVIDIA Omniverse simulation, agentic AI, 3D rendering, LLM inference and retrieval-augmented generation (RAG) on small-to-medium models, and scientific visualization. Ultimately, this solution offers customers a seamless upgrade path, enabling Blackwell performance that supports complex AI tasks with greater efficiency. NVIDIA Omniverse libraries are also now available on Microsoft Azure. These solutions, together with Azure Local for deployment, create unparalleled flexibility and unification from edge to cloud for enterprises looking to develop, deploy, and manage innovative AI solutions for transforming industrial workflows. NVIDIA Omniverse technology on Azure featured heavily at Ignite — NVIDIA, Microsoft, and Ansys convened for the session “Transform manufacturing with digital twins and real-time simulation,” available now on demand, discussing how Omniverse, along with other NVIDIA solutions on Azure, helps accelerate time to insight and optimize manufacturing processes. For more on NVIDIA Blackwell architecture integration with Microsoft Azure and purpose-built capabilities for a wide range of use cases, watch the on-demand session “Power next-generation AI workloads with NVIDIA Blackwell on Azure.” Learn about benefits in cost and energy efficiency, innovative developer tools from NVIDIA, and case studies showcasing the powerful synergy between NVIDIA and Microsoft Azure for customers. You can also watch Microsoft’s session “What’s new in Azure Local” to learn more about integration with NVIDIA RTX PRO 6000 GPUs for computing at the edge.Microsoft Agent 365 with NVIDIA NeMo Agent Toolkit elevates agentic AI utility As agentic AI’s prominence in the workplace continues to grow, Microsoft and NVIDIA are elevating the utility of workplace agents with integration between the NVIDIA NeMo Agent Toolkit and Microsoft Agent 365. This integration allows developers to create and deliver compliant, secure, and tailored workplace agents across Microsoft 365 productivity apps including Outlook, Teams, Word, and SharePoint, empowering customers with tailored agents built to meet their organizations’ unique needs. Microsoft Foundry has also made NVIDIA Nemotron models available as secure NVIDIA NIM microservices to power these new enterprise agents and other digital AI. NVIDIA Cosmos models are available for powering physical AI. These models will enable developers to build enterprise-grade agents with capabilities spanning multimodal intelligence and multilingual reasoning, math, coding, and more.More on NVIDIA’s enterprise strategy and core technologies enabling the promise of agentic AI is available in the NVIDIA Ignite presentation “From prompt to production: Scale agentic AI with NVIDIA and Azure.” Solutions covered include NVIDIA NIM microservices, NVIDIA NeMo Agent Toolkit, NVIDIA CUDA libraries, and the Nemotron model family.SQL Server integrations enable AI-ready enterprise databasesNVIDIA and Microsoft integrations also offer a new solution for building scalable AI on enterprise data. SQL Server 2025 now connects with NVIDIA Nemotron RAG models deployed as NVIDIA NIM microservices. With this integration, customers can streamline AI deployment, overcoming major hurdles in data volumes, data privacy, and security and avoiding the bottlenecks associated with traditional CPU infrastructure.With GPU-accelerated RAG workflows implemented on Azure Cloud or Azure Local, organizations can build high-performance, secure AI applications wherever their data lives, whether in the cloud or on-premises — while preserving full data sovereignty. This integration makes it easy to bring AI directly to the data, without the complexity of managing data pipelines.Watch NVIDIA sessions from Microsoft Ignite nowLearn more about the integrations between NVIDIA and Microsoft technologies and see how frontier firms are driving success with real-world AI use cases. Explore these topics further in the many additional on-demand NVIDIA sessions available from Microsoft Ignite. Topics include agentic AI, robotics simulation, and infrastructure for AI workloads. These sessions will only be available for a limited time, so watch the presentations that match your interests now.Browse available sessions in the catalog here. Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
-          "content": "Presented by Microsoft and NVIDIAAs the world’s leading platform providers and champions for advancing AI globally, NVIDIA and Microsoft continue to deliver unequaled value for organizations investing in and deploying AI. The companies’ collaborative efforts at the 2025 Microsoft Ignite conference offered tangible proof, introducing practitioners and decision-makers to new and expanded AI infrastructure and cloud solutions for accelerating enterprise transformation and real-world impact with AI agents.IT and business leaders across industries gathered at Microsoft Ignite, November 18 to 21 in San Francisco. The theme for this year’s conference centered on accelerating success with AI, with a strong topical focus around developing and scaling agentic and physical AI and digital twins. NVIDIA and Microsoft event presence underscored the expansive nature of their collaboration, from silicon to services, as attendees experienced first-hand the full-stack AI solutions now available and heard exciting announcements on new integrations and expanded partnership solutions.NVIDIA sessions from Microsoft Ignite — available on demandLearning sessions at Microsoft Ignite are tailored each year to deliver timely technical and strategic insights for attendees across roles. In-depth learning on the powerful integrations between Microsoft Azure and the NVIDIA platform made up a sizable quotient of this year’s catalog, with over 40 sessions highlighting NVIDIA solutions and capabilities. Now, 15 of these sessions are available on demand for a limited time.Available sessions cover many of the latest integrations available from NVIDIA and Microsoft Azure — some so recent as to be announced during the event. For in-person session attendees and post-event viewers leveraging the on-demand catalog, NVIDIA’s and Microsoft’s presentations during Microsoft Ignite engage customers with the most up-to-date information on what they can get from Microsoft Azure, with NVIDIA integrations to power and elevate their AI journeys. Integrations for next-generation AI NVIDIA Blackwell powers Azure NCv6 for accelerating complex AI workloadsNVIDIA continues to evolve its Blackwell platform for the AI era as a new NVIDIA Blackwell platform expansion brings the new Azure NCv6 Series Virtual Machines with NVIDIA RTX PRO 6000 Blackwell GPUs into public preview. This expansion allows the Blackwell platform to right-size acceleration for converged AI and visual computing workloads spanning digital twins and NVIDIA Omniverse simulation, agentic AI, 3D rendering, LLM inference and retrieval-augmented generation (RAG) on small-to-medium models, and scientific visualization. Ultimately, this solution offers customers a seamless upgrade path, enabling Blackwell performance that supports complex AI tasks with greater efficiency. NVIDIA Omniverse libraries are also now available on Microsoft Azure. These solutions, together with Azure Local for deployment, create unparalleled flexibility and unification from edge to cloud for enterprises looking to develop, deploy, and manage innovative AI solutions for transforming industrial workflows. NVIDIA Omniverse technology on Azure featured heavily at Ignite — NVIDIA, Microsoft, and Ansys convened for the session “Transform manufacturing with digital twins and real-time simulation,” available now on demand, discussing how Omniverse, along with other NVIDIA solutions on Azure, helps accelerate time to insight and optimize manufacturing processes. For more on NVIDIA Blackwell architecture integration with Microsoft Azure and purpose-built capabilities for a wide range of use cases, watch the on-demand session “Power next-generation AI workloads with NVIDIA Blackwell on Azure.” Learn about benefits in cost and energy efficiency, innovative developer tools from NVIDIA, and case studies showcasing the powerful synergy between NVIDIA and Microsoft Azure for customers. You can also watch Microsoft’s session “What’s new in Azure Local” to learn more about integration with NVIDIA RTX PRO 6000 GPUs for computing at the edge.Microsoft Agent 365 with NVIDIA NeMo Agent Toolkit elevates agentic AI utility As agentic AI’s prominence in the workplace continues to grow, Microsoft and NVIDIA are elevating the utility of workplace agents with integration between the NVIDIA NeMo Agent Toolkit and Microsoft Agent 365. This integration allows developers to create and deliver compliant, secure, and tailored workplace agents across Microsoft 365 productivity apps including Outlook, Teams, Word, and SharePoint, empowering customers with tailored agents built to meet their organizations’ unique needs. Microsoft Foundry has also made NVIDIA Nemotron models available as secure NVIDIA NIM microservices to power these new enterprise agents and other digital AI. NVIDIA Cosmos models are available for powering physical AI. These models will enable developers to build enterprise-grade agents with capabilities spanning multimodal intelligence and multilingual reasoning, math, coding, and more.More on NVIDIA’s enterprise strategy and core technologies enabling the promise of agentic AI is available in the NVIDIA Ignite presentation “From prompt to production: Scale agentic AI with NVIDIA and Azure.” Solutions covered include NVIDIA NIM microservices, NVIDIA NeMo Agent Toolkit, NVIDIA CUDA libraries, and the Nemotron model family.SQL Server integrations enable AI-ready enterprise databasesNVIDIA and Microsoft integrations also offer a new solution for building scalable AI on enterprise data. SQL Server 2025 now connects with NVIDIA Nemotron RAG models deployed as NVIDIA NIM microservices. With this integration, customers can streamline AI deployment, overcoming major hurdles in data volumes, data privacy, and security and avoiding the bottlenecks associated with traditional CPU infrastructure.With GPU-accelerated RAG workflows implemented on Azure Cloud or Azure Local, organizations can build high-performance, secure AI applications wherever their data lives, whether in the cloud or on-premises — while preserving full data sovereignty. This integration makes it easy to bring AI directly to the data, without the complexity of managing data pipelines.Watch NVIDIA sessions from Microsoft Ignite nowLearn more about the integrations between NVIDIA and Microsoft technologies and see how frontier firms are driving success with real-world AI use cases. Explore these topics further in the many additional on-demand NVIDIA sessions available from Microsoft Ignite. Topics include agentic AI, robotics simulation, and infrastructure for AI workloads. These sessions will only be available for a limited time, so watch the presentations that match your interests now.Browse available sessions in the catalog here. Sponsored articles are content produced by a company that is either paying for the post or has a business relationship with VentureBeat, and they’re always clearly marked. For more information, contact sales@venturebeat.com.",
-          "feed_position": 5,
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5saN39AIaBHdzXvxzFIskd/a47daf35dddd9da13b6afea6cfb1c803/VB-NVIDIA-Ignite-Article-D-updated.jpg?w=300&q=30"
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/7nVD4zIrY5Lmnpu1c0lGBG/c788567a8bc13386445b652f6bcbdde6/IQnl4wLLz4s3ciS8747gk.png?w=300&q=30",
-      "popularity_score": 2009.0070325
+      "popularity_score": 2005.598583611111
     },
     {
-      "id": "cluster_14",
+      "id": "cluster_23",
       "coverage": 1,
       "updated_at": "Tue, 30 Dec 2025 21:30:04 +0000",
       "title": "The science of how (and when) we decide to speak out—or self-censor",
@@ -177,10 +137,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2014/05/censorship_2-1152x648-1767113011.jpg",
-      "popularity_score": 346.5081436111111
+      "popularity_score": 343.09969472222224
     },
     {
-      "id": "cluster_17",
+      "id": "cluster_25",
       "coverage": 1,
       "updated_at": "Tue, 30 Dec 2025 20:45:34 +0000",
       "title": "Lawsuit over Trump rejecting medical research grants is settled",
@@ -198,10 +158,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2224898877-1024x648.jpg",
-      "popularity_score": 335.76647694444443
+      "popularity_score": 332.35802805555556
     },
     {
-      "id": "cluster_18",
+      "id": "cluster_26",
       "coverage": 1,
       "updated_at": "Tue, 30 Dec 2025 20:30:01 +0000",
       "title": "DOGE did not find $2T in fraud, but that doesn’t matter, Musk allies say",
@@ -219,10 +179,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2217857584-1024x648.jpg",
-      "popularity_score": 325.5073102777778
+      "popularity_score": 322.0988613888889
     },
     {
-      "id": "cluster_25",
+      "id": "cluster_32",
       "coverage": 1,
       "updated_at": "Tue, 30 Dec 2025 19:00:00 +0000",
       "title": "Stranger Things series finale trailer is here",
@@ -240,10 +200,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/finale3-1152x648.jpg",
-      "popularity_score": 316.0070325
+      "popularity_score": 312.5985836111111
     },
     {
-      "id": "cluster_19",
+      "id": "cluster_27",
       "coverage": 1,
       "updated_at": "Tue, 30 Dec 2025 20:00:43 +0000",
       "title": "NJ’s answer to flooding: it has bought out and demolished 1,200 properties",
@@ -261,31 +221,31 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-113500412-1152x648-1767123440.jpg",
-      "popularity_score": 315.01897694444443
+      "popularity_score": 311.61052805555556
     },
     {
-      "id": "cluster_29",
+      "id": "cluster_36",
       "coverage": 1,
       "updated_at": "Tue, 30 Dec 2025 18:45:54 +0000",
-      "title": "Condé Nast User database reportedly breached, Ars unaffected",
-      "neutral_headline": "Condé Nast User database reportedly breached, Ars unaffected",
+      "title": "Condé Nast user database reportedly breached, Ars unaffected",
+      "neutral_headline": "Condé Nast user database reportedly breached, Ars unaffected",
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/information-technology/2025/12/conde-nast-user-database-reportedly-breached-ars-unaffected/",
           "published_at": "Tue, 30 Dec 2025 18:45:54 +0000",
-          "title": "Condé Nast User database reportedly breached, Ars unaffected",
+          "title": "Condé Nast user database reportedly breached, Ars unaffected",
           "standfirst": "A serious data breach has occurred, but Ars users have nothing to worry about.",
-          "content": "Earlier this month, a hacker named Lovely claimed to have breached a Condé Nast user database and released a list of more than 2.3 million user records from our sister publication WIRED. The released materials contain demographic information (name, email, address, phone, etc.), but no passwords. The hacker also says that they will release an additional 40 million records for other Condé Nast properties, including our other sister publications Vogue, The New Yorker, Vanity Fair, and more. Of critical note to our readers, Ars Technica was not affected as we run on our own bespoke tech stack. The hacker said that they had urged Condé Nast to patch vulnerabilities to no avail. “Condé Nast does not care about the security of their users data,” they wrote. “It took us an entire month to convince them to fix the vulnerabilities on their websites. We will leak more of their users’ data (40 + million) over the next few weeks. Enjoy!”Read full article Comments",
+          "content": "Earlier this month, a hacker named Lovely claimed to have breached a Condé Nast user database and released a list of more than 2.3 million user records from our sister publication WIRED. The released materials contain demographic information (name, email, address, phone, etc.) but no passwords. The hacker also says that they will release an additional 40 million records for other Condé Nast properties, including our other sister publications Vogue, The New Yorker, Vanity Fair, and more. Of critical note to our readers, Ars Technica was not affected as we run on our own bespoke tech stack. The hacker said that they had urged Condé Nast to patch vulnerabilities to no avail. “Condé Nast does not care about the security of their users data,” the hacker wrote. “It took us an entire month to convince them to fix the vulnerabilities on their websites. We will leak more of their users’ data (40+ million) over the next few weeks. Enjoy!”Read full article Comments",
           "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/conde-hack-20205-1152x648-1767119864.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/conde-hack-20205-1152x648-1767119864.jpg",
-      "popularity_score": 293.7720325
+      "popularity_score": 290.3635836111111
     },
     {
-      "id": "cluster_55",
+      "id": "cluster_59",
       "coverage": 1,
       "updated_at": "Tue, 30 Dec 2025 15:00:56 +0000",
       "title": "Looking for friends, lobsters may stumble into an ecological trap",
@@ -303,10 +263,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2251921243-1152x648.jpg",
-      "popularity_score": 280.02258805555556
+      "popularity_score": 276.6141391666667
     },
     {
-      "id": "cluster_62",
+      "id": "cluster_66",
       "coverage": 1,
       "updated_at": "Tue, 30 Dec 2025 14:00:27 +0000",
       "title": "The top 5 most horrifying and fascinating medical cases of 2025",
@@ -324,10 +284,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/moles-many-medical-marvels-1152x648.jpg",
-      "popularity_score": 269.0145325
+      "popularity_score": 265.6060836111111
     },
     {
-      "id": "cluster_67",
+      "id": "cluster_70",
       "coverage": 1,
       "updated_at": "Tue, 30 Dec 2025 13:30:40 +0000",
       "title": "The 10 best vehicles Ars Technica drove in 2025",
@@ -345,10 +305,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/ars-best-cars-2025-1152x648.jpg",
-      "popularity_score": 255.5181436111111
+      "popularity_score": 252.10969472222223
     },
     {
-      "id": "cluster_81",
+      "id": "cluster_84",
       "coverage": 1,
       "updated_at": "Mon, 29 Dec 2025 21:30:29 +0000",
       "title": "US can’t deport hate speech researcher for protected speech, lawsuit says",
@@ -369,7 +329,7 @@
       "popularity_score": 243
     },
     {
-      "id": "cluster_92",
+      "id": "cluster_95",
       "coverage": 1,
       "updated_at": "Mon, 29 Dec 2025 16:30:45 +0000",
       "title": "China drafts world’s strictest rules to end AI-encouraged suicide, violence",
@@ -390,7 +350,7 @@
       "popularity_score": 153
     },
     {
-      "id": "cluster_84",
+      "id": "cluster_87",
       "coverage": 1,
       "updated_at": "Mon, 29 Dec 2025 19:30:47 +0000",
       "title": "Leonardo’s wood charring method predates Japanese practice",
@@ -411,7 +371,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_85",
+      "id": "cluster_88",
       "coverage": 1,
       "updated_at": "Mon, 29 Dec 2025 19:00:42 +0000",
       "title": "Researchers make “neuromorphic” artificial skin for robots",
@@ -432,7 +392,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_94",
+      "id": "cluster_97",
       "coverage": 1,
       "updated_at": "Mon, 29 Dec 2025 15:30:52 +0000",
       "title": "A quirky guide to myths and lore based in actual science",
@@ -453,7 +413,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_96",
+      "id": "cluster_99",
       "coverage": 1,
       "updated_at": "Mon, 29 Dec 2025 15:10:16 +0000",
       "title": "GPS is vulnerable to jamming—here’s how we might fix it",
@@ -474,7 +434,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_102",
+      "id": "cluster_105",
       "coverage": 1,
       "updated_at": "Mon, 29 Dec 2025 13:00:01 +0000",
       "title": "Remembering what Windows 10 did right—and how it made modern Windows more annoying",
@@ -495,7 +455,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_104",
+      "id": "cluster_107",
       "coverage": 1,
       "updated_at": "Mon, 29 Dec 2025 12:45:50 +0000",
       "title": "I switched to eSIM in 2025, and I am full of regret",
@@ -516,7 +476,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_106",
+      "id": "cluster_109",
       "coverage": 1,
       "updated_at": "Mon, 29 Dec 2025 12:00:29 +0000",
       "title": "Big Tech basically took Trump’s unpredictable trade war lying down",
