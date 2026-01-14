@@ -1,13 +1,93 @@
 {
   "clinical": {
-    "updated_at": "2026-01-14T04:08:31.381Z",
+    "updated_at": "2026-01-14T07:26:06.831Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-01-14T04:08:48.388Z",
+    "updated_at": "2026-01-14T07:26:18.454Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Wed, 14 Jan 2026 04:41:56 GMT",
+        "title": "Calls for beefed-up health collaboration",
+        "neutral_headline": "Calls for beefed-up health collaboration",
+        "items": [
+          {
+            "source": "newsGP",
+            "url": "https://www1.racgp.org.au/newsgp/professional/calls-for-beefed-up-health-collaboration?feed=RACGPnewsGPArticles",
+            "published_at": "Wed, 14 Jan 2026 04:41:56 GMT",
+            "title": "Calls for beefed-up health collaboration",
+            "standfirst": "The Productivity Commission says more formal coordination between hospitals and PHNs is key to improving health outcomes.",
+            "content": "The Productivity Commission says more formal coordination between hospitals and PHNs is key to improving health outcomes.",
+            "feed_position": 0,
+            "image_url": "https://www1.racgp.org.au/getattachment/d9f2340c-dcd4-48a0-bdd3-cd79cee9609e/Calls-for-beefed-up-health-collaboration.aspx"
+          }
+        ],
+        "featured_image": "https://www1.racgp.org.au/getattachment/d9f2340c-dcd4-48a0-bdd3-cd79cee9609e/Calls-for-beefed-up-health-collaboration.aspx"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Wed, 14 Jan 2026 04:38:35 GMT",
+        "title": "New medications added to pharmacy prescribing",
+        "neutral_headline": "New medications added to pharmacy prescribing",
+        "items": [
+          {
+            "source": "newsGP",
+            "url": "https://www1.racgp.org.au/newsgp/professional/new-medications-added-to-pharmacy-prescribing?feed=RACGPnewsGPArticles",
+            "published_at": "Wed, 14 Jan 2026 04:38:35 GMT",
+            "title": "New medications added to pharmacy prescribing",
+            "standfirst": "Two more hormonal contraceptives and a treatment for impetigo are the latest additions to Victoria&rsquo;s Community Pharmacist Program.",
+            "content": "Two more hormonal contraceptives and a treatment for impetigo are the latest additions to Victoria&rsquo;s Community Pharmacist Program.",
+            "feed_position": 1,
+            "image_url": "https://www1.racgp.org.au/getattachment/832afecb-49f8-40ac-ab7c-e13feb4c5ba4/New-medications-added-to-pharmacy-prescribing.aspx"
+          }
+        ],
+        "featured_image": "https://www1.racgp.org.au/getattachment/832afecb-49f8-40ac-ab7c-e13feb4c5ba4/New-medications-added-to-pharmacy-prescribing.aspx"
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Wed, 14 Jan 2026 04:34:39 GMT",
+        "title": "Weight-loss pill launches in US",
+        "neutral_headline": "Weight-loss pill launches in US",
+        "items": [
+          {
+            "source": "newsGP",
+            "url": "https://www1.racgp.org.au/newsgp/clinical/weight-loss-pill-launches-in-us?feed=RACGPnewsGPArticles",
+            "published_at": "Wed, 14 Jan 2026 04:34:39 GMT",
+            "title": "Weight-loss pill launches in US",
+            "standfirst": "An Australian obesity expert hopes the new pill will improve health equity but says long-term data on efficacy is still needed.",
+            "content": "An Australian obesity expert hopes the new pill will improve health equity but says long-term data on efficacy is still needed.",
+            "feed_position": 2,
+            "image_url": "https://www1.racgp.org.au/getattachment/e8ec4afb-84f4-44ed-8203-82c6e48a183b/Weight-loss-pill-launches-in-US.aspx"
+          }
+        ],
+        "featured_image": "https://www1.racgp.org.au/getattachment/e8ec4afb-84f4-44ed-8203-82c6e48a183b/Weight-loss-pill-launches-in-US.aspx"
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Wed, 14 Jan 2026 04:23:18 GMT",
+        "title": "New update to antibiotic guidelines",
+        "neutral_headline": "New update to antibiotic guidelines",
+        "items": [
+          {
+            "source": "newsGP",
+            "url": "https://www1.racgp.org.au/newsgp/clinical/new-update-to-antibiotic-guidelines?feed=RACGPnewsGPArticles",
+            "published_at": "Wed, 14 Jan 2026 04:23:18 GMT",
+            "title": "New update to antibiotic guidelines",
+            "standfirst": "The latest update from Therapeutic Guidelines includes changes to perinatal infections, surgical prophylaxis, skin infections, and traumatic wounds.",
+            "content": "The latest update from Therapeutic Guidelines includes changes to perinatal infections, surgical prophylaxis, skin infections, and traumatic wounds.",
+            "feed_position": 3,
+            "image_url": "https://www1.racgp.org.au/getattachment/e541011e-2d7f-4ea6-8d59-826587fef91c/New-update-to-antibiotic-guidelines.aspx"
+          }
+        ],
+        "featured_image": "https://www1.racgp.org.au/getattachment/e541011e-2d7f-4ea6-8d59-826587fef91c/New-update-to-antibiotic-guidelines.aspx"
+      },
+      {
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Tue, 13 Jan 2026 04:25:22 GMT",
         "title": "First new PBS medications listed for 2026",
@@ -20,99 +100,57 @@
             "title": "First new PBS medications listed for 2026",
             "standfirst": "New listings include an expanded use of adalimumab for juvenile idiopathic arthritis and a treatment for rare liver diseases.",
             "content": "New listings include an expanded use of adalimumab for juvenile idiopathic arthritis and a treatment for rare liver diseases.",
-            "feed_position": 0,
+            "feed_position": 4,
             "image_url": "https://www1.racgp.org.au/getattachment/02e4bebc-06db-4d3b-acb7-8d659619a50e/First-new-PBS-medications-listed-for-2026.aspx"
           }
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/02e4bebc-06db-4d3b-acb7-8d659619a50e/First-new-PBS-medications-listed-for-2026.aspx"
-      },
-      {
-        "id": "cluster_1",
-        "coverage": 1,
-        "updated_at": "Tue, 13 Jan 2026 04:22:27 GMT",
-        "title": "Drugs alone not enough for long-term weight control: Study",
-        "neutral_headline": "Drugs alone not enough for long-term weight control: Study",
-        "items": [
-          {
-            "source": "newsGP",
-            "url": "https://www1.racgp.org.au/newsgp/clinical/drugs-alone-not-enough-for-long-term-weight-contro?feed=RACGPnewsGPArticles",
-            "published_at": "Tue, 13 Jan 2026 04:22:27 GMT",
-            "title": "Drugs alone not enough for long-term weight control: Study",
-            "standfirst": "It found most patients return to their original weight two years after stopping weight-loss drugs, regaining 0.4 kilograms a month.",
-            "content": "It found most patients return to their original weight two years after stopping weight-loss drugs, regaining 0.4 kilograms a month.",
-            "feed_position": 1,
-            "image_url": "https://www1.racgp.org.au/getattachment/7b9108e9-4496-4e1f-a922-9a4a4adac609/Drugs-alone-not-enough-for-long-term-weight-control-Study.aspx"
-          }
-        ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/7b9108e9-4496-4e1f-a922-9a4a4adac609/Drugs-alone-not-enough-for-long-term-weight-control-Study.aspx"
-      },
-      {
-        "id": "cluster_2",
-        "coverage": 1,
-        "updated_at": "Tue, 13 Jan 2026 04:18:32 GMT",
-        "title": "GPs’ ECG rebate restrictions reversed",
-        "neutral_headline": "GPs’ ECG rebate restrictions reversed",
-        "items": [
-          {
-            "source": "newsGP",
-            "url": "https://www1.racgp.org.au/newsgp/professional/gps-ecg-rebate-restrictions-reversed?feed=RACGPnewsGPArticles",
-            "published_at": "Tue, 13 Jan 2026 04:18:32 GMT",
-            "title": "GPs’ ECG rebate restrictions reversed",
-            "standfirst": "From 1 March, ECG restrictions will be lifted, allowing MBS item 11714 to be claimed by GPs, reversing a controversial 2020 funding cut.",
-            "content": "From 1 March, ECG restrictions will be lifted, allowing MBS item 11714 to be claimed by GPs, reversing a controversial 2020 funding cut.",
-            "feed_position": 2,
-            "image_url": "https://www1.racgp.org.au/getattachment/d3cde460-2a5b-4bb0-9ea1-687d3eef20b3/GPs-ECG-rebate-restrictions-reversed.aspx"
-          }
-        ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/d3cde460-2a5b-4bb0-9ea1-687d3eef20b3/GPs-ECG-rebate-restrictions-reversed.aspx"
-      },
-      {
-        "id": "cluster_3",
-        "coverage": 1,
-        "updated_at": "Mon, 12 Jan 2026 05:25:08 GMT",
-        "title": "‘A complete reversal’: Surge in bulk-billing practices",
-        "neutral_headline": "‘A complete reversal’: Surge in bulk-billing practices",
-        "items": [
-          {
-            "source": "newsGP",
-            "url": "https://www1.racgp.org.au/newsgp/professional/a-complete-reversal-surge-in-bulk-billing-practice?feed=RACGPnewsGPArticles",
-            "published_at": "Mon, 12 Jan 2026 05:25:08 GMT",
-            "title": "‘A complete reversal’: Surge in bulk-billing practices",
-            "standfirst": "New Cleanbill data shows a sharp rise in the number of general practices offering full bulk billing &ndash; but gap fees are also climbing.",
-            "content": "New Cleanbill data shows a sharp rise in the number of general practices offering full bulk billing &ndash; but gap fees are also climbing.",
-            "feed_position": 4,
-            "image_url": "https://www1.racgp.org.au/getattachment/4b5329ab-b831-4bb9-aeb3-72473f22184e/A-complete-reversal-Surge-in-bulk-billing-practices.aspx"
-          }
-        ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/4b5329ab-b831-4bb9-aeb3-72473f22184e/A-complete-reversal-Surge-in-bulk-billing-practices.aspx"
-      },
-      {
-        "id": "cluster_4",
-        "coverage": 1,
-        "updated_at": "Mon, 12 Jan 2026 05:14:15 GMT",
-        "title": "Health Minister progresses Wegovy’s PBS listing",
-        "neutral_headline": "Health Minister progresses Wegovy’s PBS listing",
-        "items": [
-          {
-            "source": "newsGP",
-            "url": "https://www1.racgp.org.au/newsgp/clinical/health-minister-progresses-wegovy-s-pbs-listing?feed=RACGPnewsGPArticles",
-            "published_at": "Mon, 12 Jan 2026 05:14:15 GMT",
-            "title": "Health Minister progresses Wegovy’s PBS listing",
-            "standfirst": "Following PBAC&rsquo;s recommendation, Mark Butler says he will begin working with manufacturers to list Wegovy on the PBS for obesity.",
-            "content": "Following PBAC&rsquo;s recommendation, Mark Butler says he will begin working with manufacturers to list Wegovy on the PBS for obesity.",
-            "feed_position": 3,
-            "image_url": "https://www1.racgp.org.au/getattachment/8ba06966-0588-443b-a223-ea9eff82d5ab/Health-Minister-progresses-Wegovy-s-PBS-listing.aspx"
-          }
-        ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/8ba06966-0588-443b-a223-ea9eff82d5ab/Health-Minister-progresses-Wegovy-s-PBS-listing.aspx"
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-01-14T04:08:34.440Z",
+    "updated_at": "2026-01-14T07:26:09.836Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Wed, 14 Jan 2026 07:17:48 GMT",
+        "title": "UK secures record supply of offshore wind but price rises",
+        "neutral_headline": "UK secures record supply of offshore wind but price rises",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cn9zyx150xdo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 14 Jan 2026 07:17:48 GMT",
+            "title": "UK secures record supply of offshore wind but price rises",
+            "standfirst": "The government needs to significantly boost its capacity of offshore wind projects if it is to meet its clean power targets.",
+            "content": "The government needs to significantly boost its capacity of offshore wind projects if it is to meet its clean power targets.",
+            "feed_position": 40,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03de/live/902436b0-f0b3-11f0-9f5b-b937c9a457a2.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03de/live/902436b0-f0b3-11f0-9f5b-b937c9a457a2.jpg"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Wed, 14 Jan 2026 07:00:20 GMT",
+        "title": "Wednesday briefing: Over-budget and under-regulated – the NHS’s ADHD crisis",
+        "neutral_headline": "Wednesday briefing: Over-budget and under-regulated – the NHS’s ADHD crisis",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/world/2026/jan/14/wednesday-briefing-over-budget-and-under-regulated-the-nhss-adhd-crisis",
+            "published_at": "Wed, 14 Jan 2026 07:00:20 GMT",
+            "title": "Wednesday briefing: Over-budget and under-regulated – the NHS’s ADHD crisis",
+            "standfirst": "In today’s newsletter: With NHS England set to double its budgeted spending on ADHD services this year, the system is at breaking point – patients are being failed and private providers are cleaning upGood morning. Hundreds of thousands of people are seeking attention deficit hyperactivity disorder (ADHD) diagnoses in England – but the system designed to help them has turned into a fragmented marketplace that is costing the NHS far more than planned. A Guardian investigation has found services are on track to overspend their budgets by £164m this year.The months-long investigation found growing demand is being pushed into an under-regulated – and highly profitable – private sector that, in some cases, is leaving patients dangerously unsupported. It has also landed in the middle of a rancorous political debate about whether ADHD is being overdiagnosed – an argument that ignores the very real struggles that are driving people to seek help in the first place.Iran | China has threatened to retaliate against Donald Trump after the US president said he would impose 25% tariffs on countries that trade with IranUK politics | A vast new Chinese embassy complex in east London is almost certain to be formally approved next week despite worries about security risks and the effect on Hong Kong and Uyghur exiles in the capital.Pollution | High-profile studies reporting the presence of microplastics throughout the human body have been thrown into doubt by scientists who say the discoveries are probably the result of contamination and false positives.Social media | Keir Starmer has told MPs that he is open to the idea of an Australian-style ban on social media for young people after becoming concerned about the amount of time children and teenagers are spending on their phonesAsylum | A Palestinian citizen of Israel has been granted asylum in the UK on the basis of a “well-founded fear of persecution”, despite a former home secretary’s personal interference in the case to try to block the claim. Continue reading...",
+            "content": "In today’s newsletter: With NHS England set to double its budgeted spending on ADHD services this year, the system is at breaking point – patients are being failed and private providers are cleaning upGood morning. Hundreds of thousands of people are seeking attention deficit hyperactivity disorder (ADHD) diagnoses in England – but the system designed to help them has turned into a fragmented marketplace that is costing the NHS far more than planned. A Guardian investigation has found services are on track to overspend their budgets by £164m this year.The months-long investigation found growing demand is being pushed into an under-regulated – and highly profitable – private sector that, in some cases, is leaving patients dangerously unsupported. It has also landed in the middle of a rancorous political debate about whether ADHD is being overdiagnosed – an argument that ignores the very real struggles that are driving people to seek help in the first place.Iran | China has threatened to retaliate against Donald Trump after the US president said he would impose 25% tariffs on countries that trade with IranUK politics | A vast new Chinese embassy complex in east London is almost certain to be formally approved next week despite worries about security risks and the effect on Hong Kong and Uyghur exiles in the capital.Pollution | High-profile studies reporting the presence of microplastics throughout the human body have been thrown into doubt by scientists who say the discoveries are probably the result of contamination and false positives.Social media | Keir Starmer has told MPs that he is open to the idea of an Australian-style ban on social media for young people after becoming concerned about the amount of time children and teenagers are spending on their phonesAsylum | A Palestinian citizen of Israel has been granted asylum in the UK on the basis of a “well-founded fear of persecution”, despite a former home secretary’s personal interference in the case to try to block the claim. Continue reading...",
+            "feed_position": 1
+          }
+        ]
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Wed, 14 Jan 2026 00:12:21 GMT",
         "title": "First leukaemia patient to receive pioneering treatment on NHS says it is 'very sci-fi'",
@@ -132,7 +170,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c876/live/b2058b60-f0b5-11f0-b385-5f48925de19a.jpg"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Wed, 14 Jan 2026 00:01:09 GMT",
         "title": "One in four UK teenagers in care have attempted to end their lives, study says",
@@ -150,7 +188,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Tue, 13 Jan 2026 23:30:09 GMT",
         "title": "Five minutes more exercise and 30 minutes less sitting could help millions live longer",
@@ -163,12 +201,12 @@
             "title": "Five minutes more exercise and 30 minutes less sitting could help millions live longer",
             "standfirst": "Research finds minor changes in physical activity could hugely reduce number of premature deathsJust five extra minutes of exercise and half an hour less sitting time each day could help millions of people live longer, according to research highlighting the potentially huge population benefits of making even tiny lifestyle changes.Until now, evidence about reducing the number of premature deaths assumed that everyone must meet specific targets, overlooking the positives of even minor increases in physical activity. Continue reading...",
             "content": "Research finds minor changes in physical activity could hugely reduce number of premature deathsJust five extra minutes of exercise and half an hour less sitting time each day could help millions of people live longer, according to research highlighting the potentially huge population benefits of making even tiny lifestyle changes.Until now, evidence about reducing the number of premature deaths assumed that everyone must meet specific targets, overlooking the positives of even minor increases in physical activity. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Tue, 13 Jan 2026 23:30:09 GMT",
         "title": "NHS spending up to £19k a time treating people suffering after overseas surgery, research finds",
@@ -181,12 +219,12 @@
             "title": "NHS spending up to £19k a time treating people suffering after overseas surgery, research finds",
             "standfirst": "Study suggests as many as 53% of ‘medical tourists’ end up with complications such as infections and organ failureThe NHS is spending up to almost £20,000 a time treating people who have suffered serious setbacks after having medical procedures abroad, research has found.Hospitals are having to “pick up the pieces” when things go wrong for the growing number of Britons going overseas for weight loss surgery, breast enlargements or other operations. Continue reading...",
             "content": "Study suggests as many as 53% of ‘medical tourists’ end up with complications such as infections and organ failureThe NHS is spending up to almost £20,000 a time treating people who have suffered serious setbacks after having medical procedures abroad, research has found.Hospitals are having to “pick up the pieces” when things go wrong for the growing number of Britons going overseas for weight loss surgery, breast enlargements or other operations. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Tue, 13 Jan 2026 20:00:04 GMT",
         "title": "Tired of the wellness industrial complex? Six rules to ditch – and what to do instead",
@@ -199,12 +237,12 @@
             "title": "Tired of the wellness industrial complex? Six rules to ditch – and what to do instead",
             "standfirst": "Dr Ezekiel J Emanuel, a former Obamacare adviser, has deceptively simple advice for living a healthy lifeBeing healthy shouldn’t feel this complicated. Yet every week brings a new wellness fixation, from “fibermaxxing” to “zone 2 training”, creatine and cortisol-hacking.Between prescriptive plans, complex science and often contradictory advice, it can seem like being healthy is a full-time job – or a hopeless cause. Continue reading...",
             "content": "Dr Ezekiel J Emanuel, a former Obamacare adviser, has deceptively simple advice for living a healthy lifeBeing healthy shouldn’t feel this complicated. Yet every week brings a new wellness fixation, from “fibermaxxing” to “zone 2 training”, creatine and cortisol-hacking.Between prescriptive plans, complex science and often contradictory advice, it can seem like being healthy is a full-time job – or a hopeless cause. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Tue, 13 Jan 2026 18:11:06 GMT",
         "title": "UK politics: Tories call for block on Chinese super-embassy amid claims of hidden chamber near sensitive cables – as it happened",
@@ -217,12 +255,12 @@
             "title": "UK politics: Tories call for block on Chinese super-embassy amid claims of hidden chamber near sensitive cables – as it happened",
             "standfirst": "Shadow home office minister Alicia Kearns says unredacted plans show 208 secret rooms and approving plans would be ‘insanity’Q: Why are the Liberal Democrats still using X?Davey says he is not afraid to pick a fight with Elon Musk. He says Musk has interfered in British democracy “in the most outrageous way”. Musk has also incited violence, he says.I’ve picked a few fights with Elon Musk because I think he has interfered in British democracy in the most outrageous way. He’s incited violence and I have called in the past for investigations into him.The point about Grok – which is quite shocking – and what it is doing, and the danger that it poses to women in the UK, to our children, is quite shocking. We need to take it really seriously. Continue reading...",
             "content": "Shadow home office minister Alicia Kearns says unredacted plans show 208 secret rooms and approving plans would be ‘insanity’Q: Why are the Liberal Democrats still using X?Davey says he is not afraid to pick a fight with Elon Musk. He says Musk has interfered in British democracy “in the most outrageous way”. Musk has also incited violence, he says.I’ve picked a few fights with Elon Musk because I think he has interfered in British democracy in the most outrageous way. He’s incited violence and I have called in the past for investigations into him.The point about Grok – which is quite shocking – and what it is doing, and the danger that it poses to women in the UK, to our children, is quite shocking. We need to take it really seriously. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Tue, 13 Jan 2026 18:09:09 GMT",
         "title": "Louisiana officials seek to extradite abortion provider from California",
@@ -235,12 +273,12 @@
             "title": "Louisiana officials seek to extradite abortion provider from California",
             "standfirst": "Louisiana law enforcement officials allege California doctor mailed abortion pills to a woman in the southern stateLouisiana law enforcement officials are seeking to extradite a California doctor who, officials say, sent abortion pills to a woman living in the southern state.The extradition order for the doctor, Remy Coeytaux, marks the latest salvo in the escalating battle between states that protect abortion rights and those that ban the procedure. While Louisiana is one of more than a dozen states that have banned almost all abortions, California and a handful of other blue states have enacted so-called “shield laws”, which aim to protect abortion providers from out-of-state extradition or prosecution. Continue reading...",
             "content": "Louisiana law enforcement officials allege California doctor mailed abortion pills to a woman in the southern stateLouisiana law enforcement officials are seeking to extradite a California doctor who, officials say, sent abortion pills to a woman living in the southern state.The extradition order for the doctor, Remy Coeytaux, marks the latest salvo in the escalating battle between states that protect abortion rights and those that ban the procedure. While Louisiana is one of more than a dozen states that have banned almost all abortions, California and a handful of other blue states have enacted so-called “shield laws”, which aim to protect abortion providers from out-of-state extradition or prosecution. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Tue, 13 Jan 2026 16:54:44 GMT",
         "title": "Is Dry January a good thing?",
@@ -260,7 +298,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c98c/live/8970a470-f086-11f0-b385-5f48925de19a.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Tue, 13 Jan 2026 16:50:27 GMT",
         "title": "Critical incidents declared at two hospital trusts",
@@ -280,7 +318,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e267/live/5f9d3cb0-f09c-11f0-95c2-2f43243b954d.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Tue, 13 Jan 2026 16:37:12 GMT",
         "title": "How going on The Traitors could have saved Amanda's life",
@@ -300,7 +338,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc3/live/ea18d7f0-f097-11f0-b5f7-49f0357294ff.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Tue, 13 Jan 2026 14:20:23 GMT",
         "title": "‘A bombshell’: doubt cast on discovery of microplastics throughout human body",
@@ -313,12 +351,12 @@
             "title": "‘A bombshell’: doubt cast on discovery of microplastics throughout human body",
             "standfirst": "Exclusive: Some scientists say many detections are most likely error, with one high-profile study called a ‘joke’High-profile studies reporting the presence of microplastics throughout the human body have been thrown into doubt by scientists who say the discoveries are probably the result of contamination and false positives. One chemist called the concerns “a bombshell”.Studies claiming to have revealed micro and nanoplastics in the brain, testes, placentas, arteries and elsewhere were reported by media across the world, including the Guardian. There is no doubt that plastic pollution of the natural world is ubiquitous, and present in the food and drink we consume and the air we breathe. But the health damage potentially caused by microplastics and the chemicals they contain is unclear, and an explosion of research has taken off in this area in recent years. Continue reading...",
             "content": "Exclusive: Some scientists say many detections are most likely error, with one high-profile study called a ‘joke’High-profile studies reporting the presence of microplastics throughout the human body have been thrown into doubt by scientists who say the discoveries are probably the result of contamination and false positives. One chemist called the concerns “a bombshell”.Studies claiming to have revealed micro and nanoplastics in the brain, testes, placentas, arteries and elsewhere were reported by media across the world, including the Guardian. There is no doubt that plastic pollution of the natural world is ubiquitous, and present in the food and drink we consume and the air we breathe. But the health damage potentially caused by microplastics and the chemicals they contain is unclear, and an explosion of research has taken off in this area in recent years. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Tue, 13 Jan 2026 13:38:41 GMT",
         "title": "How to spot illicit cigarettes",
@@ -338,7 +376,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67c0/live/6862b410-f07e-11f0-a422-4ba8a094a8fa.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Tue, 13 Jan 2026 12:28:59 GMT",
         "title": "NHS funds football pitch to help boost island health",
@@ -358,7 +396,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9756/live/39a8bfa0-f06c-11f0-a8a9-7f10ab32742b.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Tue, 13 Jan 2026 11:40:06 GMT",
         "title": "Cold weather and data centres drive up US greenhouse gas emissions",
@@ -371,14 +409,14 @@
             "title": "Cold weather and data centres drive up US greenhouse gas emissions",
             "standfirst": "US emissions of planet-warming gases rise for the first time in three years.",
             "content": "US emissions of planet-warming gases rise for the first time in three years.",
-            "feed_position": 40,
+            "feed_position": 41,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3750/live/a2fca360-efcf-11f0-a1af-5f237a629ac4.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3750/live/a2fca360-efcf-11f0-a1af-5f237a629ac4.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Tue, 13 Jan 2026 11:39:46 GMT",
         "title": "Lib Dems set out plan to end 12-hour A&E waits",
@@ -398,7 +436,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8836/live/4da4b2f0-f073-11f0-812d-4fa04d8c5b4d.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Tue, 13 Jan 2026 10:00:00 GMT",
         "title": "Inside Health",
@@ -418,7 +456,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Tue, 13 Jan 2026 09:49:40 GMT",
         "title": "I spent months trying to find out if boosting my gut health could help me age better",
@@ -438,7 +476,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e0/live/69fdec90-efc5-11f0-b385-5f48925de19a.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Tue, 13 Jan 2026 06:21:22 GMT",
         "title": "'I wake up at night in fear of losing my home'",
@@ -451,63 +489,16 @@
             "title": "'I wake up at night in fear of losing my home'",
             "standfirst": "A fourth home in the village is being demolished due to the eroding coastline.",
             "content": "A fourth home in the village is being demolished due to the eroding coastline.",
-            "feed_position": 41,
+            "feed_position": 42,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb7c/live/8920a660-efdb-11f0-be9a-5d00009628a6.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb7c/live/8920a660-efdb-11f0-be9a-5d00009628a6.png"
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Tue, 13 Jan 2026 06:18:15 GMT",
-        "title": "Boy with flu spent three weeks in intensive care",
-        "neutral_headline": "Boy with flu spent three weeks in intensive care",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/cg4evglly74o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 13 Jan 2026 06:18:15 GMT",
-            "title": "Boy with flu spent three weeks in intensive care",
-            "standfirst": "His family is urging other parents to ensure their children are vaccinated against the virus.",
-            "content": "His family is urging other parents to ensure their children are vaccinated against the virus.",
-            "feed_position": 6,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ed/live/9a916020-efd0-11f0-9a79-cfc8898f9898.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ed/live/9a916020-efd0-11f0-9a79-cfc8898f9898.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Tue, 13 Jan 2026 06:00:26 GMT",
-        "title": "‘He tried so hard to get help’: the tragic results of NHS right-to-choose for ADHD patients",
-        "neutral_headline": "NHS ADHD spending over budget by £164m as unregulated clinics boom",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/jan/13/brother-tried-hard-get-help-tragic-results-nhs-right-to-choose-for-adhd-patients",
-            "published_at": "Tue, 13 Jan 2026 06:00:26 GMT",
-            "title": "‘He tried so hard to get help’: the tragic results of NHS right-to-choose for ADHD patients",
-            "standfirst": "Use of private providers, poor training and inadequate regulation mean obtaining care has become a ‘wild west’NHS ADHD spending over budget by £164m as unregulated clinics boomWhen Leigh White remembers her brother Ryan, she thinks of a boy of extraordinary ability who “won five scholarships at 11” including a coveted place at Bancroft’s, a private school in London. He was, she said, “super bright, witty, personable, generous and kind”.Ryan killed himself on 12 May 2024. A report written after his death acknowledged significant shortcomings in the support he received while seeking help for attention deficit hyperactivity disorder. Continue reading...",
-            "content": "Use of private providers, poor training and inadequate regulation mean obtaining care has become a ‘wild west’NHS ADHD spending over budget by £164m as unregulated clinics boomWhen Leigh White remembers her brother Ryan, she thinks of a boy of extraordinary ability who “won five scholarships at 11” including a coveted place at Bancroft’s, a private school in London. He was, she said, “super bright, witty, personable, generous and kind”.Ryan killed himself on 12 May 2024. A report written after his death acknowledged significant shortcomings in the support he received while seeking help for attention deficit hyperactivity disorder. Continue reading...",
-            "feed_position": 7
-          },
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/uk-news/2026/jan/12/nhs-england-overspending-adhd-millions-under-regulated-private-clinics",
-            "published_at": "Mon, 12 Jan 2026 18:00:11 GMT",
-            "title": "NHS ADHD spending over budget by £164m as unregulated clinics boom",
-            "standfirst": "Exclusive: Total spending in England expected to double existing budgets, with funding for private providers rising threefold‘He tried so hard to get help’: the tragic results of NHS right-to-choose for ADHD patientsThe NHS is overspending by £164m a year on attention deficit hyperactivity disorder (ADHD) services, with an increasing amount going to unregulated private assessments, a Guardian investigation has found.Analysis shows that total spending on NHS ADHD services is expected to be more than double existing budgets. Further data shows the amount spent on private ADHD services has more than tripled over three years. Continue reading...",
-            "content": "Exclusive: Total spending in England expected to double existing budgets, with funding for private providers rising threefold‘He tried so hard to get help’: the tragic results of NHS right-to-choose for ADHD patientsThe NHS is overspending by £164m a year on attention deficit hyperactivity disorder (ADHD) services, with an increasing amount going to unregulated private assessments, a Guardian investigation has found.Analysis shows that total spending on NHS ADHD services is expected to be more than double existing budgets. Further data shows the amount spent on private ADHD services has more than tripled over three years. Continue reading...",
-            "feed_position": 13
-          }
-        ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-01-14T04:08:48.388Z",
+    "updated_at": "2026-01-14T07:26:18.454Z",
     "clusters": []
   }
 }
