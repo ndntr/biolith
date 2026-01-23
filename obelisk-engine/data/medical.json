@@ -1,13 +1,73 @@
 {
   "clinical": {
-    "updated_at": "2026-01-23T04:04:36.872Z",
+    "updated_at": "2026-01-23T07:25:42.050Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-01-23T04:04:56.339Z",
+    "updated_at": "2026-01-23T07:25:59.615Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Fri, 23 Jan 2026 04:44:52 GMT",
+        "title": "How did the rise of telehealth impact GP registrars?",
+        "neutral_headline": "How did the rise of telehealth impact GP registrars",
+        "items": [
+          {
+            "source": "newsGP",
+            "url": "https://www1.racgp.org.au/newsgp/professional/how-did-the-rise-of-telehealth-impact-gp-registrar?feed=RACGPnewsGPArticles",
+            "published_at": "Fri, 23 Jan 2026 04:44:52 GMT",
+            "title": "How did the rise of telehealth impact GP registrars?",
+            "standfirst": "New research from RACGP&rsquo;s GP Training Research team has shed light on how the use of telehealth affected GP education in Australia.",
+            "content": "New research from RACGP&rsquo;s GP Training Research team has shed light on how the use of telehealth affected GP education in Australia.",
+            "feed_position": 0,
+            "image_url": "https://www1.racgp.org.au/getattachment/289bacfa-09c5-4d97-8ce6-cc3357deb3fd/How-did-the-rise-of-telehealth-impact-GP-registrars.aspx"
+          }
+        ],
+        "featured_image": "https://www1.racgp.org.au/getattachment/289bacfa-09c5-4d97-8ce6-cc3357deb3fd/How-did-the-rise-of-telehealth-impact-GP-registrars.aspx"
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Fri, 23 Jan 2026 04:38:14 GMT",
+        "title": "TGA reveals compliance priorities",
+        "neutral_headline": "TGA reveals compliance priorities",
+        "items": [
+          {
+            "source": "newsGP",
+            "url": "https://www1.racgp.org.au/newsgp/professional/tga-reveals-compliance-priorities?feed=RACGPnewsGPArticles",
+            "published_at": "Fri, 23 Jan 2026 04:38:14 GMT",
+            "title": "TGA reveals compliance priorities",
+            "standfirst": "Cannabis, vapes, weight-loss drugs, and melatonin are among the TGA&rsquo;s 2026&ndash;27 priority areas, as it announces a new compliance and enforcement agenda.",
+            "content": "Cannabis, vapes, weight-loss drugs, and melatonin are among the TGA&rsquo;s 2026&ndash;27 priority areas, as it announces a new compliance and enforcement agenda.",
+            "feed_position": 1,
+            "image_url": "https://www1.racgp.org.au/getattachment/cee52357-38a4-400a-8429-e7669065b4aa/TGA-reveals-compliance-priorities.aspx"
+          }
+        ],
+        "featured_image": "https://www1.racgp.org.au/getattachment/cee52357-38a4-400a-8429-e7669065b4aa/TGA-reveals-compliance-priorities.aspx"
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Fri, 23 Jan 2026 04:20:58 GMT",
+        "title": "Shingrix uptake spikes following NIP addition",
+        "neutral_headline": "Shingrix uptake spikes following NIP addition",
+        "items": [
+          {
+            "source": "newsGP",
+            "url": "https://www1.racgp.org.au/newsgp/clinical/shingrix-uptake-spikes-following-nip-addition?feed=RACGPnewsGPArticles",
+            "published_at": "Fri, 23 Jan 2026 04:20:58 GMT",
+            "title": "Shingrix uptake spikes following NIP addition",
+            "standfirst": "More than 2.5 million Shingrix doses were administered in its first year on the NIP, compared to 97,000 the previous year.",
+            "content": "More than 2.5 million Shingrix doses were administered in its first year on the NIP, compared to 97,000 the previous year.",
+            "feed_position": 2,
+            "image_url": "https://www1.racgp.org.au/getattachment/010d2a02-ffc9-4508-8bf7-233e53368d5e/Shingrix-uptake-spikes-following-NIP-addition.aspx"
+          }
+        ],
+        "featured_image": "https://www1.racgp.org.au/getattachment/010d2a02-ffc9-4508-8bf7-233e53368d5e/Shingrix-uptake-spikes-following-NIP-addition.aspx"
+      },
+      {
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Thu, 22 Jan 2026 05:34:05 GMT",
         "title": "Telehealth lowered GPs’ antibiotic prescribing: Study",
@@ -20,14 +80,14 @@
             "title": "Telehealth lowered GPs’ antibiotic prescribing: Study",
             "standfirst": "Using public data, researchers compared antibiotic dispensing before and after the widespread take-up of telehealth.",
             "content": "Using public data, researchers compared antibiotic dispensing before and after the widespread take-up of telehealth.",
-            "feed_position": 0,
+            "feed_position": 3,
             "image_url": "https://www1.racgp.org.au/getattachment/feb5a854-551a-4460-a50d-8eea7f5af084/Telehealth-lowered-GPs-antibiotic-prescribing-Study.aspx"
           }
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/feb5a854-551a-4460-a50d-8eea7f5af084/Telehealth-lowered-GPs-antibiotic-prescribing-Study.aspx"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Thu, 22 Jan 2026 05:13:59 GMT",
         "title": "ChatGPT Health: Risk or innovation?",
@@ -40,79 +100,55 @@
             "title": "ChatGPT Health: Risk or innovation?",
             "standfirst": "Patients can now use ChatGPT to connect medical records, understand test results, and prepare for appointments &ndash; an initiative which has GPs divided.",
             "content": "Patients can now use ChatGPT to connect medical records, understand test results, and prepare for appointments &ndash; an initiative which has GPs divided.",
-            "feed_position": 1,
+            "feed_position": 4,
             "image_url": "https://www1.racgp.org.au/getattachment/e6a5c7e1-ba50-4b25-b678-c01ef826d10d/ChatGPT-Health-Risk-or-innovation.aspx"
           }
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/e6a5c7e1-ba50-4b25-b678-c01ef826d10d/ChatGPT-Health-Risk-or-innovation.aspx"
-      },
-      {
-        "id": "cluster_2",
-        "coverage": 1,
-        "updated_at": "Thu, 22 Jan 2026 04:42:19 GMT",
-        "title": "In Practice: Updates to CDM framework changes",
-        "neutral_headline": "In Practice: Updates to CDM framework changes",
-        "items": [
-          {
-            "source": "newsGP",
-            "url": "https://www1.racgp.org.au/newsgp/racgp/in-practice-updates-to-cdm-framework-changes?feed=RACGPnewsGPArticles",
-            "published_at": "Thu, 22 Jan 2026 04:42:19 GMT",
-            "title": "In Practice: Updates to CDM framework changes",
-            "standfirst": "As GPs work through chronic disease management changes, the RACGP has updated its FAQs to reflect the most up-to-date advice.",
-            "content": "As GPs work through chronic disease management changes, the RACGP has updated its FAQs to reflect the most up-to-date advice.",
-            "feed_position": 3,
-            "image_url": "https://www1.racgp.org.au/getattachment/12336c94-7ac4-4f5f-85d7-063b17a32c42/In-Practice-Updates-to-CDM-framework-changes.aspx"
-          }
-        ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/12336c94-7ac4-4f5f-85d7-063b17a32c42/In-Practice-Updates-to-CDM-framework-changes.aspx"
-      },
-      {
-        "id": "cluster_3",
-        "coverage": 1,
-        "updated_at": "Thu, 22 Jan 2026 04:38:39 GMT",
-        "title": "Small alcohol intake changes save lives: Study",
-        "neutral_headline": "Small alcohol intake changes save lives: Study",
-        "items": [
-          {
-            "source": "newsGP",
-            "url": "https://www1.racgp.org.au/newsgp/clinical/small-alcohol-intake-changes-save-lives-study?feed=RACGPnewsGPArticles",
-            "published_at": "Thu, 22 Jan 2026 04:38:39 GMT",
-            "title": "Small alcohol intake changes save lives: Study",
-            "standfirst": "Drinking just one litre of alcohol less per year reduces rates of liver, colorectal, and breast cancer deaths, new research shows.",
-            "content": "Drinking just one litre of alcohol less per year reduces rates of liver, colorectal, and breast cancer deaths, new research shows.",
-            "feed_position": 2,
-            "image_url": "https://www1.racgp.org.au/getattachment/07280604-0d96-4b2a-9931-c11d4c901af7/Small-alcohol-intake-changes-save-lives-Study.aspx"
-          }
-        ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/07280604-0d96-4b2a-9931-c11d4c901af7/Small-alcohol-intake-changes-save-lives-Study.aspx"
-      },
-      {
-        "id": "cluster_4",
-        "coverage": 1,
-        "updated_at": "Wed, 21 Jan 2026 05:41:33 GMT",
-        "title": "‘I was too ashamed to accept I couldn’t cope’",
-        "neutral_headline": "‘I was too ashamed to accept I couldn’t cope’",
-        "items": [
-          {
-            "source": "newsGP",
-            "url": "https://www1.racgp.org.au/newsgp/professional/i-was-too-ashamed-to-accept-i-couldn-t-cope?feed=RACGPnewsGPArticles",
-            "published_at": "Wed, 21 Jan 2026 05:41:33 GMT",
-            "title": "‘I was too ashamed to accept I couldn’t cope’",
-            "standfirst": "When a new mum &lsquo;finally had the courage&rsquo; to share her postnatal mental health challenges with her GP, everything changed.",
-            "content": "When a new mum &lsquo;finally had the courage&rsquo; to share her postnatal mental health challenges with her GP, everything changed.",
-            "feed_position": 4,
-            "image_url": "https://www1.racgp.org.au/getattachment/bd594bc6-c863-4deb-8ef8-f5ce9981c860/I-was-too-ashamed-to-accept-I-couldn-t-cope.aspx"
-          }
-        ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/bd594bc6-c863-4deb-8ef8-f5ce9981c860/I-was-too-ashamed-to-accept-I-couldn-t-cope.aspx"
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-01-23T04:04:39.668Z",
+    "updated_at": "2026-01-23T07:25:45.358Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Fri, 23 Jan 2026 06:00:09 GMT",
+        "title": "‘Molly never got to hear it’: fury as denials finally end on Glasgow hospital infections",
+        "neutral_headline": "‘Molly never got to hear it’: fury as denials finally...",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/uk-news/2026/jan/23/glasgow-hospital-infections-families",
+            "published_at": "Fri, 23 Jan 2026 06:00:09 GMT",
+            "title": "‘Molly never got to hear it’: fury as denials finally end on Glasgow hospital infections",
+            "standfirst": "Families accuse health board of ‘deceit and cowardice’ after years-long battle to prove contaminated water was linkedAll Molly Cuddihy wanted was recognition of what she had gone through. That was what she told the Scottish hospitals inquiry in 2021, where she described the “frightening” fits and rigors she had suffered after contracting a bacterial infection at Glasgow’s Queen Elizabeth university hospital while undergoing chemotherapy. “I was made sicker by the environment,” the 19-year-old said in her evidence.Molly had been 15 and revising for her National 5 exams when she was diagnosed with a rare bone cancer. She was treated at the Royal hospital for children and the adjacent QEUH, which are both part of a six-year public inquiry that reached its final stages and heard devastating new admissions this week. Continue reading...",
+            "content": "Families accuse health board of ‘deceit and cowardice’ after years-long battle to prove contaminated water was linkedAll Molly Cuddihy wanted was recognition of what she had gone through. That was what she told the Scottish hospitals inquiry in 2021, where she described the “frightening” fits and rigors she had suffered after contracting a bacterial infection at Glasgow’s Queen Elizabeth university hospital while undergoing chemotherapy. “I was made sicker by the environment,” the 19-year-old said in her evidence.Molly had been 15 and revising for her National 5 exams when she was diagnosed with a rare bone cancer. She was treated at the Royal hospital for children and the adjacent QEUH, which are both part of a six-year public inquiry that reached its final stages and heard devastating new admissions this week. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Fri, 23 Jan 2026 06:00:07 GMT",
+        "title": "ADHD waiting lists ‘clogged by patients returning from private care to NHS’",
+        "neutral_headline": "ADHD waiting lists ‘clogged by patients returning from private care to NHS’",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/jan/23/adhd-waiting-lists-clogged-patients-returning-private-care-nhs",
+            "published_at": "Fri, 23 Jan 2026 06:00:07 GMT",
+            "title": "ADHD waiting lists ‘clogged by patients returning from private care to NHS’",
+            "standfirst": "NHS trust warns that people with ADHD in England are facing gaps in care caused by difficulties with private assessmentsWaiting lists for people with attention deficit hyperactivity disorder (ADHD) in England are being clogged by patients returning to NHS care after difficulties with private assessments, a trust has warned.The major NHS trust said people referred by GPs to private clinics using health service funding were increasingly asking to be transferred back after care stalled. Continue reading...",
+            "content": "NHS trust warns that people with ADHD in England are facing gaps in care caused by difficulties with private assessmentsWaiting lists for people with attention deficit hyperactivity disorder (ADHD) in England are being clogged by patients returning to NHS care after difficulties with private assessments, a trust has warned.The major NHS trust said people referred by GPs to private clinics using health service funding were increasingly asking to be transferred back after care stalled. Continue reading...",
+            "feed_position": 1
+          }
+        ]
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Fri, 23 Jan 2026 02:18:37 GMT",
         "title": "US health insurance executives testify before Congress about increasing costs of healthcare",
@@ -125,12 +161,12 @@
             "title": "US health insurance executives testify before Congress about increasing costs of healthcare",
             "standfirst": "CEO of UnitedHealth Group said his company will return profits earned from Affordable Care Act plans to customersExecutives from five of the country’s largest health insurance companies appeared before Congress on Thursday as lawmakers examined why healthcare has become increasingly harder for Americans to afford.In one effort to address the affordability crisis, the CEO of UnitedHealth Group, Stephen Hemsley, announced that the nation’s largest insurance company will rebate profits made this year from its Affordable Care Act (ACA) plans to customers, while adding it was a relatively small participant in the ACA individual market. Continue reading...",
             "content": "CEO of UnitedHealth Group said his company will return profits earned from Affordable Care Act plans to customersExecutives from five of the country’s largest health insurance companies appeared before Congress on Thursday as lawmakers examined why healthcare has become increasingly harder for Americans to afford.In one effort to address the affordability crisis, the CEO of UnitedHealth Group, Stephen Hemsley, announced that the nation’s largest insurance company will rebate profits made this year from its Affordable Care Act (ACA) plans to customers, while adding it was a relatively small participant in the ACA individual market. Continue reading...",
-            "feed_position": 0
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Fri, 23 Jan 2026 00:55:46 GMT",
         "title": "Hundreds of illegal waste tips operating in England - including 11 'super sites'",
@@ -150,7 +186,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/372f/live/cd1454f0-f7ad-11f0-b385-5f48925de19a.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Thu, 22 Jan 2026 22:30:00 GMT",
         "title": "Rural and coastal areas of England to get more cancer doctors",
@@ -163,12 +199,12 @@
             "title": "Rural and coastal areas of England to get more cancer doctors",
             "standfirst": "Government says plan will help end postcode lottery in access to diagnostic tests and treatmentHospitals in rural and coastal parts of England will get more cancer doctors to help tackle stark inequalities that mean people in some areas are far more likely to die from the disease.The plan is part of a government drive to end the “patchy” nature of NHS cancer care, which is characterised by wide postcode lotteries in access to diagnostic tests and treatment. Continue reading...",
             "content": "Government says plan will help end postcode lottery in access to diagnostic tests and treatmentHospitals in rural and coastal parts of England will get more cancer doctors to help tackle stark inequalities that mean people in some areas are far more likely to die from the disease.The plan is part of a government drive to end the “patchy” nature of NHS cancer care, which is characterised by wide postcode lotteries in access to diagnostic tests and treatment. Continue reading...",
-            "feed_position": 1
+            "feed_position": 3
           }
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Thu, 22 Jan 2026 22:25:31 GMT",
         "title": "NIH ends funding of research that uses human fetal tissue from abortions",
@@ -181,12 +217,12 @@
             "title": "NIH ends funding of research that uses human fetal tissue from abortions",
             "standfirst": "Fetal tissue has been used to advance research into diabetes, Alzheimer’s, infertility and vaccinesThe National Institutes of Health (NIH) will no longer fund research that uses human fetal tissue obtained from “elective” abortions, the world’s biggest public funder of biomedical research announced on Thursday.The ban marks the latest, and most dramatic, effort by the Trump administration to end research that uses fetal tissue from abortions – a goal that anti-abortion advocates, who oppose the research, have sought for years. In 2019, during Donald Trump’s first term in office, the NIH stopped funding internal research that involved the tissue and implemented a review committee to evaluate research proposals from scientists outside the government. Joe Biden ended that policy in 2021. Continue reading...",
             "content": "Fetal tissue has been used to advance research into diabetes, Alzheimer’s, infertility and vaccinesThe National Institutes of Health (NIH) will no longer fund research that uses human fetal tissue obtained from “elective” abortions, the world’s biggest public funder of biomedical research announced on Thursday.The ban marks the latest, and most dramatic, effort by the Trump administration to end research that uses fetal tissue from abortions – a goal that anti-abortion advocates, who oppose the research, have sought for years. In 2019, during Donald Trump’s first term in office, the NIH stopped funding internal research that involved the tissue and implemented a review committee to evaluate research proposals from scientists outside the government. Joe Biden ended that policy in 2021. Continue reading...",
-            "feed_position": 2
+            "feed_position": 4
           }
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Thu, 22 Jan 2026 21:00:00 GMT",
         "title": "BBC Inside Science",
@@ -206,7 +242,7 @@
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Thu, 22 Jan 2026 17:00:51 GMT",
         "title": "Feel your feelings and reconnect with past passions: how to recover from burnout",
@@ -219,12 +255,12 @@
             "title": "Feel your feelings and reconnect with past passions: how to recover from burnout",
             "standfirst": "Recognizing the physical and psychological tells is half the battle, says author Emma GannonHow to start … anything: expert tips for trying something newWhat do you do when you come to a hard stop? When work has got too much, even friendships feel like a drain and you feel like you simply can’t keep going with your life as it currently is?For Emma Gannon, the answer was extreme but non-negotiable: an entire year of nothing – or close to it. Gannon, the London-based author of fiction, nonfiction and the Hyphen newsletter, burned out with a bang in late 2022. While on a spa weekend with a friend, she had a panic attack, her first ever. Continue reading...",
             "content": "Recognizing the physical and psychological tells is half the battle, says author Emma GannonHow to start … anything: expert tips for trying something newWhat do you do when you come to a hard stop? When work has got too much, even friendships feel like a drain and you feel like you simply can’t keep going with your life as it currently is?For Emma Gannon, the answer was extreme but non-negotiable: an entire year of nothing – or close to it. Gannon, the London-based author of fiction, nonfiction and the Hyphen newsletter, burned out with a bang in late 2022. While on a spa weekend with a friend, she had a panic attack, her first ever. Continue reading...",
-            "feed_position": 3
+            "feed_position": 5
           }
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Thu, 22 Jan 2026 15:54:49 GMT",
         "title": "Streeting says NHS 'falling short' on autism and ADHD",
@@ -244,7 +280,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f59/live/a76bc540-f78e-11f0-8415-2b8404a6e040.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 22 Jan 2026 14:00:29 GMT",
         "title": "‘Manosphere’ influencers pushing testosterone tests are convincing healthy young men there is something wrong with them, study finds",
@@ -257,12 +293,12 @@
             "title": "‘Manosphere’ influencers pushing testosterone tests are convincing healthy young men there is something wrong with them, study finds",
             "standfirst": "Researcher points to ‘medicalisation of masculinity’ after investigating how men’s health is being monetised online“If you’re not waking up in the morning with a boner, there’s a large possibility that you have low testosterone levels,” an influencer on TikTok with more than 100,000 followers warns his viewers.Despite screening for low testosterone being medically unwarranted in most young men, this group is being aggressively targeted online by influencers and wellness companies promoting hormone tests and treatments as essential to being a “real man”, a study published in the journal Social Science and Medicine has found. Continue reading...",
             "content": "Researcher points to ‘medicalisation of masculinity’ after investigating how men’s health is being monetised online“If you’re not waking up in the morning with a boner, there’s a large possibility that you have low testosterone levels,” an influencer on TikTok with more than 100,000 followers warns his viewers.Despite screening for low testosterone being medically unwarranted in most young men, this group is being aggressively targeted online by influencers and wellness companies promoting hormone tests and treatments as essential to being a “real man”, a study published in the journal Social Science and Medicine has found. Continue reading...",
-            "feed_position": 4
+            "feed_position": 6
           }
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 22 Jan 2026 14:00:27 GMT",
         "title": "Vertigo has turned my world upside down. But knowing there are famous people suffering steadies me | Rebecca Shaw",
@@ -275,12 +311,12 @@
             "title": "Vertigo has turned my world upside down. But knowing there are famous people suffering steadies me | Rebecca Shaw",
             "standfirst": "How can a Normal understand what it feels like to turn my head and suddenly feel like the floor has smashed violently into my face?A couple of years ago I experienced something that turned my world upside down. I mean that literally (and I mean literally literally). I experienced vertigo. Specifically benign paroxysmal positional vertigo.I personally have a huge issue with the inclusion of the word “benign”, just because something isn’t going to kill you doesn’t mean it’s not going to make you feel like you might die. Trying to explain BPPV makes me sound like a spiritual healer, because it happens when tiny crystals in your inner ear shift out of place. Yes, tiny crystals. The shifting of the tiny crystals tells your brain that your body is tumbling in space, but in a fun twist – it isn’t. The earth can suddenly and completely jolt off its axis while you are standing still, let alone turning your head.Sign up for a weekly email featuring our best readsRebecca Shaw is a Guardian Australia columnist Continue reading...",
             "content": "How can a Normal understand what it feels like to turn my head and suddenly feel like the floor has smashed violently into my face?A couple of years ago I experienced something that turned my world upside down. I mean that literally (and I mean literally literally). I experienced vertigo. Specifically benign paroxysmal positional vertigo.I personally have a huge issue with the inclusion of the word “benign”, just because something isn’t going to kill you doesn’t mean it’s not going to make you feel like you might die. Trying to explain BPPV makes me sound like a spiritual healer, because it happens when tiny crystals in your inner ear shift out of place. Yes, tiny crystals. The shifting of the tiny crystals tells your brain that your body is tumbling in space, but in a fun twist – it isn’t. The earth can suddenly and completely jolt off its axis while you are standing still, let alone turning your head.Sign up for a weekly email featuring our best readsRebecca Shaw is a Guardian Australia columnist Continue reading...",
-            "feed_position": 5
+            "feed_position": 7
           }
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 22 Jan 2026 13:56:37 GMT",
         "title": "New wood-burning stoves to carry health warnings in UK plan",
@@ -293,12 +329,12 @@
             "title": "New wood-burning stoves to carry health warnings in UK plan",
             "standfirst": "Pollution from wood burners kills thousands but proposed emissions limit would cut toxic particles by 10%New wood-burning stoves will carry a health warning highlighting the impact of the air pollution they produce, under UK government plans.Ministers have also proposed cutting the limit on the smoke emitted from wood burners by 80%. However, the measure would only apply to new stoves, most of which already meet the stricter limit. The new limit would cut the annual toxic emissions from wood burning in the UK by only 10% over the next decade, according to the consultation. Continue reading...",
             "content": "Pollution from wood burners kills thousands but proposed emissions limit would cut toxic particles by 10%New wood-burning stoves will carry a health warning highlighting the impact of the air pollution they produce, under UK government plans.Ministers have also proposed cutting the limit on the smoke emitted from wood burners by 80%. However, the measure would only apply to new stoves, most of which already meet the stricter limit. The new limit would cut the annual toxic emissions from wood burning in the UK by only 10% over the next decade, according to the consultation. Continue reading...",
-            "feed_position": 6
+            "feed_position": 8
           }
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 22 Jan 2026 13:03:40 GMT",
         "title": "Tower Hamlets mayor acted unlawfully in attempted removal of LTN schemes",
@@ -311,12 +347,12 @@
             "title": "Tower Hamlets mayor acted unlawfully in attempted removal of LTN schemes",
             "standfirst": "Road safety activists ‘vindicated’ after success of campaign supported by NHS trusts and headteachersUK politics live – latest updatesThe mayor of Tower Hamlets acted unlawfully in attempting to remove three low traffic neighbourhood (LTN) schemes, the court of appeal has ruled.Road safety activists say they feel vindicated after campaigning for more than three years to keep the traffic restrictions in place in the east London neighbourhoods of Bethnal Green, Shoreditch and Columbia Road. Continue reading...",
             "content": "Road safety activists ‘vindicated’ after success of campaign supported by NHS trusts and headteachersUK politics live – latest updatesThe mayor of Tower Hamlets acted unlawfully in attempting to remove three low traffic neighbourhood (LTN) schemes, the court of appeal has ruled.Road safety activists say they feel vindicated after campaigning for more than three years to keep the traffic restrictions in place in the east London neighbourhoods of Bethnal Green, Shoreditch and Columbia Road. Continue reading...",
-            "feed_position": 7
+            "feed_position": 9
           }
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 22 Jan 2026 06:13:19 GMT",
         "title": "A bleak midwinter as care continues in the corridors",
@@ -336,7 +372,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc1/live/d745f4d0-f6f2-11f0-8278-4b339fa4d49b.png"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 22 Jan 2026 06:08:15 GMT",
         "title": "Mum, 26, 'wants to be sterilised' due to problems accessing sickness drug",
@@ -356,7 +392,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd65/live/f9c861e0-f7ac-11f0-b385-5f48925de19a.jpg"
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Wed, 21 Jan 2026 23:30:51 GMT",
         "title": "Use of ADHD medication in UK more than tripled in 13 years, study finds",
@@ -369,12 +405,12 @@
             "title": "Use of ADHD medication in UK more than tripled in 13 years, study finds",
             "standfirst": "UK had highest relative increase of five countries in study, with 20-fold rise in proportion of women over 25 using itThe proportion of people in the UK on attention deficit hyperactivity disorder (ADHD) medication has tripled in the past decade, with a 20-fold increase among women aged 25 and over, a study shows.Researchers led by the University of Oxford examined electronic health records from Belgium, Germany, the Netherlands, Spain and the UK to estimate the use of ADHD medication among adults and children aged three and above. Continue reading...",
             "content": "UK had highest relative increase of five countries in study, with 20-fold rise in proportion of women over 25 using itThe proportion of people in the UK on attention deficit hyperactivity disorder (ADHD) medication has tripled in the past decade, with a 20-fold increase among women aged 25 and over, a study shows.Researchers led by the University of Oxford examined electronic health records from Belgium, Germany, the Netherlands, Spain and the UK to estimate the use of ADHD medication among adults and children aged three and above. Continue reading...",
-            "feed_position": 8
+            "feed_position": 10
           }
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Wed, 21 Jan 2026 17:49:34 GMT",
         "title": "Scientific rigour and the dangers of microplastics | Letters",
@@ -387,12 +423,12 @@
             "title": "Scientific rigour and the dangers of microplastics | Letters",
             "standfirst": "Joe Yates, Prof Philip J Landrigan, Prof Jennifer Kirwan and Prof Jamie Davies respond to an article on doubts raised about studies on microplastics in the human bodyWhile it may be a belated Christmas present for the petrochemical industry, your article (‘A bombshell’: doubt cast on discovery of microplastics throughout human body, 13 January) was less surprising to the scientific community, where constructive debate around microplastic detection in humans has been ongoing for some time. Such debate is entirely normal – and essential – for scientific inquiry.New and novel methods must be tried, tested, critiqued, improved and tried again. Science is incremental and gradual – unlike the uncapped production and pollution of plastics, which contain thousands of hazardous chemicals. Decades of robust evidence demonstrates the harms that these inflict on people and planet. Continue reading...",
             "content": "Joe Yates, Prof Philip J Landrigan, Prof Jennifer Kirwan and Prof Jamie Davies respond to an article on doubts raised about studies on microplastics in the human bodyWhile it may be a belated Christmas present for the petrochemical industry, your article (‘A bombshell’: doubt cast on discovery of microplastics throughout human body, 13 January) was less surprising to the scientific community, where constructive debate around microplastic detection in humans has been ongoing for some time. Such debate is entirely normal – and essential – for scientific inquiry.New and novel methods must be tried, tested, critiqued, improved and tried again. Science is incremental and gradual – unlike the uncapped production and pollution of plastics, which contain thousands of hazardous chemicals. Decades of robust evidence demonstrates the harms that these inflict on people and planet. Continue reading...",
-            "feed_position": 9
+            "feed_position": 11
           }
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Wed, 21 Jan 2026 16:53:58 GMT",
         "title": "Coroner calls for more guidance on doulas after baby’s death in Hampshire",
@@ -405,12 +441,12 @@
             "title": "Coroner calls for more guidance on doulas after baby’s death in Hampshire",
             "standfirst": "Prevention of future deaths report issued after delay in taking mother of Matilda Pomfret-Thomas to hospital A coroner has warned that more babies could die without greater clarity and guidance over the role of home birthing assistants, after the death of a baby girl raised concerns about a doula delaying access to hospital treatment.Matilda Pomfret-Thomas died of a brain injury in November 2023, 15 days after her mother had a difficult home labour and was not immediately transferred to hospital despite signs of foetal distress, an inquest concluded last month. Continue reading...",
             "content": "Prevention of future deaths report issued after delay in taking mother of Matilda Pomfret-Thomas to hospital A coroner has warned that more babies could die without greater clarity and guidance over the role of home birthing assistants, after the death of a baby girl raised concerns about a doula delaying access to hospital treatment.Matilda Pomfret-Thomas died of a brain injury in November 2023, 15 days after her mother had a difficult home labour and was not immediately transferred to hospital despite signs of foetal distress, an inquest concluded last month. Continue reading...",
-            "feed_position": 10
+            "feed_position": 12
           }
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Wed, 21 Jan 2026 16:00:07 GMT",
         "title": "Oldest cave painting of red claw hand could rewrite human creativity timeline",
@@ -430,7 +466,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c974/live/49574100-f635-11f0-b385-5f48925de19a.png"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Wed, 21 Jan 2026 15:57:25 GMT",
         "title": "How some countries are rethinking exercise",
@@ -448,51 +484,11 @@
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe77/live/a692e920-f6d8-11f0-b385-5f48925de19a.jpg"
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Wed, 21 Jan 2026 15:26:52 GMT",
-        "title": "Families 'failed' by trust meet ahead of inquiry",
-        "neutral_headline": "Families 'failed' by trust meet ahead of inquiry",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/crkr7v5nlk7o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 21 Jan 2026 15:26:52 GMT",
-            "title": "Families 'failed' by trust meet ahead of inquiry",
-            "standfirst": "Families and patients will discuss what want raised by an inquiry into the Tees, Esk and Wear Valleys Trust.",
-            "content": "Families and patients will discuss what want raised by an inquiry into the Tees, Esk and Wear Valleys Trust.",
-            "feed_position": 2,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c30b/live/c3ffdaf0-d5e4-11f0-a892-01d657345866.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c30b/live/c3ffdaf0-d5e4-11f0-a892-01d657345866.jpg"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Wed, 21 Jan 2026 15:08:27 GMT",
-        "title": "Nature loss is a national security risk, intelligence group warns",
-        "neutral_headline": "Nature loss is a national security risk, intelligence group warns",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/ce9y1e09j72o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 21 Jan 2026 15:08:27 GMT",
-            "title": "Nature loss is a national security risk, intelligence group warns",
-            "standfirst": "The degradation of ecosystems around the world threatens UK food security, a long-awaited report says.",
-            "content": "The degradation of ecosystems around the world threatens UK food security, a long-awaited report says.",
-            "feed_position": 2,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f945/live/d91c7010-f6d2-11f0-9af0-6331be72883e.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f945/live/d91c7010-f6d2-11f0-9af0-6331be72883e.jpg"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-01-23T04:04:56.339Z",
+    "updated_at": "2026-01-23T07:25:59.615Z",
     "clusters": []
   }
 }
