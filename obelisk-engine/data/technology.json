@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-23T23:21:54.754Z",
+  "updated_at": "2026-01-24T03:59:01.992Z",
   "clusters": [
     {
-      "id": "cluster_24",
+      "id": "cluster_38",
       "coverage": 3,
       "updated_at": "2026-01-23T14:50:59-05:00",
       "title": "Meta is stopping teens from chatting with its AI characters",
@@ -15,7 +15,7 @@
           "title": "Meta is stopping teens from chatting with its AI characters",
           "standfirst": "Meta is \"temporarily pausing\" the ability for teens to chat with its AI characters as it develops a \"new version\" of the characters that will offer a \"better experience.\" The company made the announcement in an update to a blog post from October where the company had detailed more parental controls for teen AI use. [&#8230;]",
           "content": "Meta is \"temporarily pausing\" the ability for teens to chat with its AI characters as it develops a \"new version\" of the characters that will offer a \"better experience.\" The company made the announcement in an update to a blog post from October where the company had detailed more parental controls for teen AI use. The change blocking teens from accessing the characters will go into effect \"starting in the coming weeks.\" \"Since we announced our plans to build parental controls for AI characters in October, we started developing a new iteration of AI characters generally (i.e. for both adults and teens),\" spokesperson Sophie Vogel tells The … Read the full story at The Verge.",
-          "feed_position": 1
+          "feed_position": 3
         },
         {
           "source": "TechMeme",
@@ -24,7 +24,7 @@
           "title": "Meta says it is temporarily pausing teens' access to its AI characters globally across all its apps as it develops a new version of AI characters (Ivan Mehta/TechCrunch)",
           "standfirst": "Ivan Mehta / TechCrunch: Meta says it is temporarily pausing teens' access to its AI characters globally across all its apps as it develops a new version of AI characters &mdash; Meta today said that it is pausing teens' access to its AI characters globally across all its apps. The company mentioned that it is not abandoning &hellip;",
           "content": "Ivan Mehta / TechCrunch: Meta says it is temporarily pausing teens' access to its AI characters globally across all its apps as it develops a new version of AI characters &mdash; Meta today said that it is pausing teens' access to its AI characters globally across all its apps. The company mentioned that it is not abandoning &hellip;",
-          "feed_position": 8,
+          "feed_position": 11,
           "image_url": "http://www.techmeme.com/260123/i21.jpg"
         },
         {
@@ -34,14 +34,45 @@
           "title": "Meta pauses teen access to AI characters ahead of new version",
           "standfirst": "Meta today said that it is pausing teens' access to its AI characters globally across all its apps. The company mentioned that it is not abandoning its efforts but wants to develop an updated version of AI characters for teens.",
           "content": "Meta today said that it is pausing teens' access to its AI characters globally across all its apps. The company mentioned that it is not abandoning its efforts but wants to develop an updated version of AI characters for teens.",
-          "feed_position": 6
+          "feed_position": 7
         }
       ],
       "featured_image": "http://www.techmeme.com/260123/i21.jpg",
-      "popularity_score": 3016.4845127777776
+      "popularity_score": 3011.8658355555553
     },
     {
-      "id": "cluster_15",
+      "id": "cluster_5",
+      "coverage": 2,
+      "updated_at": "Fri, 23 Jan 2026 21:00:34 -0500",
+      "title": "TikTok users in the US were presented with a new privacy policy; the changes were part of the app's ownership transition and now allow precise location tracking (Reece Rogers/Wired)",
+      "neutral_headline": "TikTok Is Now Collecting Even More Data About Its Users. Here...",
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/260123/p32#a260123p32",
+          "published_at": "Fri, 23 Jan 2026 21:00:34 -0500",
+          "title": "TikTok users in the US were presented with a new privacy policy; the changes were part of the app's ownership transition and now allow precise location tracking (Reece Rogers/Wired)",
+          "standfirst": "Reece Rogers / Wired: TikTok users in the US were presented with a new privacy policy; the changes were part of the app's ownership transition and now allow precise location tracking &mdash; According to its new privacy policy, TikTok now collects more data on its users, including their precise location &hellip;",
+          "content": "Reece Rogers / Wired: TikTok users in the US were presented with a new privacy policy; the changes were part of the app's ownership transition and now allow precise location tracking &mdash; According to its new privacy policy, TikTok now collects more data on its users, including their precise location &hellip;",
+          "feed_position": 0,
+          "image_url": "http://www.techmeme.com/260123/i32.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/tiktok-new-privacy-policy/",
+          "published_at": "Fri, 23 Jan 2026 21:26:28 +0000",
+          "title": "TikTok Is Now Collecting Even More Data About Its Users. Here Are the 3 Biggest Changes",
+          "standfirst": "According to its new privacy policy, TikTok now collects more data on its users, including their precise location, after majority ownership officially switched to a group based in the US.",
+          "content": "According to its new privacy policy, TikTok now collects more data on its users, including their precise location, after majority ownership officially switched to a group based in the US.",
+          "feed_position": 4,
+          "image_url": "https://media.wired.com/photos/6973ce90b45c9c900b2aa2a1/master/pass/TikTok-New-Policy-Gear-2257704792.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260123/i32.jpg",
+      "popularity_score": 2018.0255577777777
+    },
+    {
+      "id": "cluster_29",
       "coverage": 2,
       "updated_at": "Fri, 23 Jan 2026 20:50:00 +0000",
       "title": "A rival smart glasses company is suing Meta over its Ray-Ban products",
@@ -326,23 +357,13 @@
           "content": "A new technique developed by researchers at Shanghai Jiao Tong University and other institutions enables large language model agents to learn new skills without the need for expensive fine-tuning.The researchers propose MemRL, a framework that gives agents the ability to develop episodic memory, the capacity to retrieve past experiences to create solutions for unseen tasks. MemRL allows agents to use environmental feedback to refine their problem-solving strategies continuously.MemRL is part of a broader push in the research community to develop continual learning capabilities for AI applications. In experiments on key industry benchmarks, the framework outperformed other baselines such as RAG and other memory organization techniques, particularly in complex environments that require exploration and experiments. This suggests MemRL could become a critical component for building AI applications that must operate in dynamic real-world settings where requirements and tasks constantly shift.The stability-plasticity dilemmaOne of the central challenges in deploying agentic applications is adapting the underlying model to new knowledge and tasks after the initial training phase. Current approaches generally fall into two categories: parametric approaches, such as fine-tuning, and non-parametric approaches, such as RAG. But both come with significant trade-offs.Fine-tuning, while effective for baking in new information, is computationally expensive and slow. More critically, it often leads to catastrophic forgetting, a phenomenon where newly acquired knowledge overwrites previously learned data, degrading the model&#x27;s general performance.Conversely, non-parametric methods like RAG are fundamentally passive; they retrieve information based solely on semantic similarity, such as vector embeddings, without evaluating the actual utility of the information to the input query. This approach assumes that \"similar implies useful,\" which is often flawed in complex reasoning tasks. The researchers argue that human intelligence solves this problem by maintaining “the delicate balance between the stability of cognitive reasoning and the plasticity of episodic memory.” In the human brain, stable reasoning (associated with the cortex) is decoupled from dynamic episodic memory. This allows humans to adapt to new tasks without \"rewiring neural circuitry\" (the rough equivalent of model fine-tuning).Inside the MemRL frameworkInspired by humans’ use of episodic memory and cognitive reasoning, MemRL is designed to enable an agent to continuously improve its performance after deployment without compromising the stability of its backbone LLM. Instead of changing the model’s parameters, the framework shifts the adaptation mechanism to an external, self-evolving memory structure.In this architecture, the LLM&#x27;s parameters remain completely frozen. The model acts effectively as the \"cortex,\" responsible for general reasoning, logic, and code generation, but it is not responsible for storing specific successes or failures encountered after deployment. This structure ensures stable cognitive reasoning and prevents catastrophic forgetting.To handle adaptation, MemRL maintains a dynamic episodic memory component. Instead of storing plain text documents and static embedding values, as is common in RAG, MemRL organizes memory into \"intent-experience-utility\" triplets. These contain the user&#x27;s query (the intent), the specific solution trajectory or action taken (the experience), and a score, known as the Q-value, that represents how successful this specific experience was in the past (the utility).Crucially for enterprise architects, this new data structure doesn&#x27;t require ripping out existing infrastructure. \"MemRL is designed to be a &#x27;drop-in&#x27; replacement for the retrieval layer in existing technology stacks and is compatible with various vector databases,\" Muning Wen, a co-author of the paper and PhD candidate at Shanghai Jiao Tong University, told VentureBeat. \"The existence and updating of &#x27;Q-Value&#x27; is solely for better evaluation and management of dynamic data... and is independent of the storage format.\"This utility score is the key differentiator from classic RAG systems. At inference time, MemRL agents employ a \"two-phase retrieval\" mechanism. First, the system identifies memories that are semantically close to the query to ensure relevance. It then re-ranks these candidates based on their Q-value, effectively prioritizing proven strategies.The framework incorporates reinforcement learning directly into the memory retrieval process. When an agent attempts a solution and receives environmental feedback (i.e., success or failure) it updates the Q-value of the retrieved memory. This creates a closed feedback loop: over time, the agent learns to ignore distractor memories and prioritize high-value strategies without ever needing to retrain the underlying LLM.While adding a reinforcement learning step might sound like it adds significant latency, Wen noted that the computational overhead is minimal. \"Our Q-value calculation is performed entirely on the CPU,\" he said.MemRL also possesses runtime continual learning capabilities. When the agent encounters a new scenario, the system uses the frozen LLM to summarize the new trajectory and adds it to the memory bank as a new triplet. This allows the agent to expand its knowledge base dynamically as it interacts with the world.It is worth noting that the automation of the value assignment comes with a risk: If the system mistakenly validates a bad interaction, the agent could learn the wrong lesson. Wen acknowledges this \"poisoned memory\" risk but notes that unlike black-box neural networks, MemRL remains transparent and auditable. \"If a bad interaction is mistakenly classified as a positive example... it may spread more widely,\" Wen said. \"However … we can easily fix it by removing the contaminated data from the memory bank or resetting their Q-values.\"MemRL in actionThe researchers evaluated MemRL against several baselines on four diverse industry benchmarks: BigCodeBench (code generation), ALFWorld (embodied navigation), Lifelong Agent Bench (OS and database interaction), and Humanity&#x27;s Last Exam (complex multidisciplinary reasoning). The results showed that MemRL consistently outperformed baselines in both runtime learning (improving during the session) and transfer learning (generalizing to unseen tasks).The advantages of this value-aware retrieval mechanism were most pronounced in exploration-heavy environments like ALFWorld. In this benchmark, which requires agents to navigate and interact with a simulated household environment, MemRL achieved a relative improvement of approximately 56% over MemP, another agentic memory framework. The researchers found that the reinforcement learning component effectively encouraged the agent to explore and discover solutions for complex tasks that similarity-based retrieval methods often failed to solve.When the memory bank was frozen and tested on held-out sets to measure generalization, MemRL achieved the highest accuracy across benchmarks. For example, on the Lifelong Agent Bench, it improved significantly upon the standard RAG baseline on OS tasks. This indicates that the system does not merely memorize training data but effectively filters out low-value memories to retain high-utility experiences that generalize to new situations.The broader picture for self-evolving agentsMemRL fits within a growing body of research focused on Memory-Based Markov Decision Processes (M-MDP), a formulation that frames memory retrieval as an active decision-making step rather than a passive search function. By treating retrieval as an action that can be optimized via reinforcement learning, frameworks like MemRL and similar approaches such as Memento are paving the way for more autonomous systems. For enterprise AI, this shift is significant. It suggests a future where agents can be deployed with a general-purpose LLM and then rapidly adapt to specific company workflows, proprietary databases, and unique problem sets through interaction alone. The key shift we’re seeing is frameworks that are treating applications as dynamic environments that they can learn from.These emerging capabilities will allow organizations to maintain consistent, high-performance agents that evolve alongside their business needs, solving the problem of stale models without incurring the prohibitive costs of constant retraining.It marks a transition in how we value data. \"In a future where static data is about to be exhausted, the interaction experience generated by each intelligent agent during its lifespan will become the new fuel,\" Wen said.",
           "feed_position": 5,
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/40SgVNw3VJp5vnnAeHNxFi/d5086bdc81a54e45d780d47f5cd2090d/self-evolving_agent.jpg?w=300&q=30"
-        },
-        {
-          "source": "VentureBeat",
-          "url": "https://venturebeat.com/infrastructure/why-linkedin-says-prompting-was-a-non-starter-and-small-models-was-the",
-          "published_at": "Wed, 21 Jan 2026 23:30:00 GMT",
-          "title": "Why LinkedIn says prompting was a non-starter — and small models was the breakthrough",
-          "standfirst": "LinkedIn is a leader in AI recommender systems, having developed them over the last 15-plus years. But getting to a next-gen recommendation stack for the job-seekers of tomorrow required a whole new technique. The company had to look beyond off-the-shelf models to achieve next-level accuracy, latency, and efficiency.“There was just no way we were gonna be able to do that through prompting,” Erran Berger, VP of product engineering at LinkedIn, says in a new Beyond the Pilot podcast. “We didn&#x27;t even try that for next-gen recommender systems because we realized it was a non-starter.”Instead, his team set to develop a highly detailed product policy document to fine-tune an initially massive 7-billion-parameter model; that was then further distilled into additional teacher and student models optimized to hundreds of millions of parameters. The technique has created a repeatable cookbook now reused across LinkedIn’s AI products. “Adopting this eval process end to end will drive substantial quality improvement of the likes we probably haven&#x27;t seen in years here at LinkedIn,” Berger says. Why multi-teacher distillation was a ‘breakthrough’ for LinkedIn Berger and his team set out to build an LLM that could interpret individual job queries, candidate profiles and job descriptions in real time, and in a way that mirrored LinkedIn’s product policy as accurately as possible. Working with the company&#x27;s product management team, engineers eventually built out a 20-to-30-page document scoring job description and profile pairs “across many dimensions.” “We did many, many iterations on this,” Berger says. That product policy document was then paired with a “golden dataset” comprising thousands of pairs of queries and profiles; the team fed this into ChatGPT during data generation and experimentation, prompting the model over time to learn scoring pairs and eventually generate a much larger synthetic data set to train a 7-billion-parameter teacher model.However, Berger says, it&#x27;s not enough to have an LLM running in production just on product policy. “At the end of the day, it&#x27;s a recommender system, and we need to do some amount of click prediction and personalization.” So, his team used that initial product policy-focused teacher model to develop a second teacher model oriented toward click prediction. Using the two, they further distilled a 1.7 billion parameter model for training purposes. That eventual student model was run through “many, many training runs,” and was optimized “at every point” to minimize quality loss, Berger says. This multi-teacher distillation technique allowed the team to “achieve a lot of affinity” to the original product policy and “land” click prediction, he says. They were also able to “modularize and componentize” the training process for the student.Consider it in the context of a chat agent with two different teacher models: One is training the agent on accuracy in responses, the other on tone and how it should communicate. Those two things are very different, yet critical, objectives, Berger notes. “By now mixing them, you get better outcomes, but also iterate on them independently,” he says. “That was a breakthrough for us.” Changing how teams work togetherBerger says he can’t understate the importance of anchoring on a product policy and an iterative eval process. Getting a “really, really good product policy” requires translating product manager domain expertise into a unified document. Historically, Berger notes, the product management team was laser focused on strategy and user experience, leaving modeling iteration approaches to ML engineers. Now, though, the two teams work together to “dial in” and create an aligned teacher model. “How product managers work with machine learning engineers now is very different from anything we&#x27;ve done previously,” he says. “It’s now a blueprint for basically any AI products we do at LinkedIn.”Watch the full podcast to hear more about: How LinkedIn optimized every step of the R&D process to support velocity, leading to real results with days or hours rather than weeks; Why teams should develop pipelines for plugability and experimentation and try out different models to support flexibility; The continued importance of traditional engineering debugging.You can also listen and subscribe to Beyond the Pilot on Spotify, Apple or wherever you get your podcasts.",
-          "content": "LinkedIn is a leader in AI recommender systems, having developed them over the last 15-plus years. But getting to a next-gen recommendation stack for the job-seekers of tomorrow required a whole new technique. The company had to look beyond off-the-shelf models to achieve next-level accuracy, latency, and efficiency.“There was just no way we were gonna be able to do that through prompting,” Erran Berger, VP of product engineering at LinkedIn, says in a new Beyond the Pilot podcast. “We didn&#x27;t even try that for next-gen recommender systems because we realized it was a non-starter.”Instead, his team set to develop a highly detailed product policy document to fine-tune an initially massive 7-billion-parameter model; that was then further distilled into additional teacher and student models optimized to hundreds of millions of parameters. The technique has created a repeatable cookbook now reused across LinkedIn’s AI products. “Adopting this eval process end to end will drive substantial quality improvement of the likes we probably haven&#x27;t seen in years here at LinkedIn,” Berger says. Why multi-teacher distillation was a ‘breakthrough’ for LinkedIn Berger and his team set out to build an LLM that could interpret individual job queries, candidate profiles and job descriptions in real time, and in a way that mirrored LinkedIn’s product policy as accurately as possible. Working with the company&#x27;s product management team, engineers eventually built out a 20-to-30-page document scoring job description and profile pairs “across many dimensions.” “We did many, many iterations on this,” Berger says. That product policy document was then paired with a “golden dataset” comprising thousands of pairs of queries and profiles; the team fed this into ChatGPT during data generation and experimentation, prompting the model over time to learn scoring pairs and eventually generate a much larger synthetic data set to train a 7-billion-parameter teacher model.However, Berger says, it&#x27;s not enough to have an LLM running in production just on product policy. “At the end of the day, it&#x27;s a recommender system, and we need to do some amount of click prediction and personalization.” So, his team used that initial product policy-focused teacher model to develop a second teacher model oriented toward click prediction. Using the two, they further distilled a 1.7 billion parameter model for training purposes. That eventual student model was run through “many, many training runs,” and was optimized “at every point” to minimize quality loss, Berger says. This multi-teacher distillation technique allowed the team to “achieve a lot of affinity” to the original product policy and “land” click prediction, he says. They were also able to “modularize and componentize” the training process for the student.Consider it in the context of a chat agent with two different teacher models: One is training the agent on accuracy in responses, the other on tone and how it should communicate. Those two things are very different, yet critical, objectives, Berger notes. “By now mixing them, you get better outcomes, but also iterate on them independently,” he says. “That was a breakthrough for us.” Changing how teams work togetherBerger says he can’t understate the importance of anchoring on a product policy and an iterative eval process. Getting a “really, really good product policy” requires translating product manager domain expertise into a unified document. Historically, Berger notes, the product management team was laser focused on strategy and user experience, leaving modeling iteration approaches to ML engineers. Now, though, the two teams work together to “dial in” and create an aligned teacher model. “How product managers work with machine learning engineers now is very different from anything we&#x27;ve done previously,” he says. “It’s now a blueprint for basically any AI products we do at LinkedIn.”Watch the full podcast to hear more about: How LinkedIn optimized every step of the R&D process to support velocity, leading to real results with days or hours rather than weeks; Why teams should develop pipelines for plugability and experimentation and try out different models to support flexibility; The continued importance of traditional engineering debugging.You can also listen and subscribe to Beyond the Pilot on Spotify, Apple or wherever you get your podcasts.",
-          "feed_position": 6,
-          "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4XBHNMOZc0HSRXb863QC65/7d721c02ce3113eec61a47188e030fdf/LinkedIn.png?w=300&q=30"
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/2nMZ8lzfqYONXXqLmfp03c/ef9465cd0a706732727d46c445280358/chatGPT-PostgreSQL.jpg?w=300&q=30",
-      "popularity_score": 2017.4681238888888
+      "popularity_score": 2012.8494466666666
     },
     {
-      "id": "cluster_70",
+      "id": "cluster_80",
       "coverage": 2,
       "updated_at": "Fri, 23 Jan 2026 10:15:07 -0500",
       "title": "Source: by the end of 2025, Claude Code's ARR had grown by at least another $100M from the $1B announced in November, making up 12% of Anthropic's total ARR (Maxwell Zeff/Wired)",
@@ -355,7 +376,7 @@
           "title": "Source: by the end of 2025, Claude Code's ARR had grown by at least another $100M from the $1B announced in November, making up 12% of Anthropic's total ARR (Maxwell Zeff/Wired)",
           "standfirst": "Maxwell Zeff / Wired: Source: by the end of 2025, Claude Code's ARR had grown by at least another $100M from the $1B announced in November, making up 12% of Anthropic's total ARR &mdash; WIRED spoke with Boris Cherny, head of Claude Code, about how the viral coding tool is changing the way Anthropic works.",
           "content": "Maxwell Zeff / Wired: Source: by the end of 2025, Claude Code's ARR had grown by at least another $100M from the $1B announced in November, making up 12% of Anthropic's total ARR &mdash; WIRED spoke with Boris Cherny, head of Claude Code, about how the viral coding tool is changing the way Anthropic works.",
-          "feed_position": 11,
+          "feed_position": 14,
           "image_url": "http://www.techmeme.com/260123/i18.jpg"
         },
         {
@@ -365,15 +386,15 @@
           "title": "How Claude Code Is Reshaping Software—and Anthropic",
           "standfirst": "WIRED spoke with Boris Cherny, head of Claude Code, about how the viral coding tool is changing the way Anthropic works.",
           "content": "WIRED spoke with Boris Cherny, head of Claude Code, about how the viral coding tool is changing the way Anthropic works.",
-          "feed_position": 23,
+          "feed_position": 25,
           "image_url": "https://media.wired.com/photos/697159f166613a243527a63c/master/pass/Model-Behavior-Whats-Really-Driving-Claude-Codes-Success-Business.jpg"
         }
       ],
       "featured_image": "http://www.techmeme.com/260123/i18.jpg",
-      "popularity_score": 2011.886735
+      "popularity_score": 2007.2680577777778
     },
     {
-      "id": "cluster_7",
+      "id": "cluster_22",
       "coverage": 1,
       "updated_at": "Fri, 23 Jan 2026 21:52:24 +0000",
       "title": "TR-49 is interactive fiction for fans of deep research rabbit holes",
@@ -391,10 +412,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/4-1152x648.jpg",
-      "popularity_score": 351.5081238888889
+      "popularity_score": 346.8894466666667
     },
     {
-      "id": "cluster_22",
+      "id": "cluster_36",
       "coverage": 1,
       "updated_at": "Fri, 23 Jan 2026 20:10:40 +0000",
       "title": "DHS keeps trying and failing to unmask anonymous ICE critics online",
@@ -412,10 +433,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2257128839-1024x648.jpg",
-      "popularity_score": 344.81256833333333
+      "popularity_score": 340.1938911111111
     },
     {
-      "id": "cluster_16",
+      "id": "cluster_30",
       "coverage": 1,
       "updated_at": "Fri, 23 Jan 2026 20:48:46 +0000",
       "title": "Demand for Intel's processors is apparently there, but the supply is not",
@@ -433,10 +454,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/intel-core-ultra-series-3-1152x648.jpg",
-      "popularity_score": 340.4475683333333
+      "popularity_score": 335.8288911111111
     },
     {
-      "id": "cluster_33",
+      "id": "cluster_47",
       "coverage": 1,
       "updated_at": "Fri, 23 Jan 2026 18:46:31 +0000",
       "title": "White House alters arrest photo of ICE protester, says \"the memes will continue\"",
@@ -454,10 +475,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/nekima-levy-white-house-manipulated-image-1152x648-1769192287.jpg",
-      "popularity_score": 323.41006833333336
+      "popularity_score": 318.7913911111111
     },
     {
-      "id": "cluster_37",
+      "id": "cluster_51",
       "coverage": 1,
       "updated_at": "Fri, 23 Jan 2026 18:32:42 +0000",
       "title": "Telly’s \"free\" ad-based TVs make notable revenue—when they’re actually delivered",
@@ -475,10 +496,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/652fa4f61e054d1c335ce241_Rectangle_20180_203.jpg",
-      "popularity_score": 314.17979055555554
+      "popularity_score": 309.5611133333333
     },
     {
-      "id": "cluster_44",
+      "id": "cluster_57",
       "coverage": 1,
       "updated_at": "Fri, 23 Jan 2026 17:29:06 +0000",
       "title": "TikTok deal is done; Trump wants praise while users fear MAGA tweaks",
@@ -496,10 +517,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2257704699-1024x648.jpg",
-      "popularity_score": 312.11979055555554
+      "popularity_score": 307.5011133333333
     },
     {
-      "id": "cluster_49",
+      "id": "cluster_62",
       "coverage": 1,
       "updated_at": "Fri, 23 Jan 2026 16:54:12 +0000",
       "title": "Tesla kills Autopilot, locks lane-keeping behind $99/month fee",
@@ -517,10 +538,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-1415090444-1152x648.jpg",
-      "popularity_score": 292.5381238888889
+      "popularity_score": 287.91944666666666
     },
     {
-      "id": "cluster_78",
+      "id": "cluster_84",
       "coverage": 1,
       "updated_at": "Fri, 23 Jan 2026 14:31:44 +0000",
       "title": "Rocket Report: Chinese rockets fail twice in 12 hours; Rocket Lab reports setback",
@@ -538,10 +559,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/54643108625_7db2967a37_k-1152x648.jpg",
-      "popularity_score": 289.1636794444444
+      "popularity_score": 284.54500222222225
     },
     {
-      "id": "cluster_92",
+      "id": "cluster_94",
       "coverage": 1,
       "updated_at": "Fri, 23 Jan 2026 12:00:31 +0000",
       "title": "2026 Lucid Air Touring review: This feels like a complete car now",
@@ -559,10 +580,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/2026-Lucid-Air-Touring-1-e1768932171844-1152x648.jpg",
-      "popularity_score": 277.64340166666665
+      "popularity_score": 273.0247244444445
     },
     {
-      "id": "cluster_82",
+      "id": "cluster_85",
       "coverage": 1,
       "updated_at": "Fri, 23 Jan 2026 14:10:48 +0000",
       "title": "Tiny falcons are helping keep the food supply safe on cherry farms",
@@ -580,10 +601,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/kestrel-1152x648.jpg",
-      "popularity_score": 263.81479055555553
+      "popularity_score": 259.19611333333336
     },
     {
-      "id": "cluster_115",
+      "id": "cluster_116",
       "coverage": 1,
       "updated_at": "Thu, 22 Jan 2026 21:32:28 +0000",
       "title": "Report: Apple plans to launch AI-powered wearable pin device as soon as 2027",
@@ -604,7 +625,7 @@
       "popularity_score": 166
     },
     {
-      "id": "cluster_137",
+      "id": "cluster_138",
       "coverage": 1,
       "updated_at": "Thu, 22 Jan 2026 16:35:41 +0000",
       "title": "Google adds your Gmail and Photos to AI Mode to enable \"Personal Intelligence\"",
@@ -625,7 +646,7 @@
       "popularity_score": 160
     },
     {
-      "id": "cluster_111",
+      "id": "cluster_112",
       "coverage": 1,
       "updated_at": "Thu, 22 Jan 2026 22:23:15 +0000",
       "title": "Hacker who stole 120,000 bitcoins wants a second chance—and a security job",
@@ -646,7 +667,7 @@
       "popularity_score": 151
     },
     {
-      "id": "cluster_119",
+      "id": "cluster_120",
       "coverage": 1,
       "updated_at": "Thu, 22 Jan 2026 20:46:10 +0000",
       "title": "Google begins offering free SAT practice tests powered by Gemini",
@@ -667,7 +688,7 @@
       "popularity_score": 150
     },
     {
-      "id": "cluster_108",
+      "id": "cluster_109",
       "coverage": 1,
       "updated_at": "Thu, 22 Jan 2026 23:07:45 +0000",
       "title": "US officially out of WHO, leaving hundreds of millions of dollars unpaid",
@@ -688,7 +709,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_109",
+      "id": "cluster_110",
       "coverage": 1,
       "updated_at": "Thu, 22 Jan 2026 22:46:30 +0000",
       "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
@@ -709,7 +730,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_124",
+      "id": "cluster_125",
       "coverage": 1,
       "updated_at": "Thu, 22 Jan 2026 19:18:34 +0000",
       "title": "Check out the first trailer for Masters of the Universe",
@@ -730,7 +751,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_93",
+      "id": "cluster_95",
       "coverage": 1,
       "updated_at": "Fri, 23 Jan 2026 12:00:29 +0000",
       "title": "This 67,800-year-old hand stencil is the world's oldest human-made art",
@@ -748,10 +769,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Narrowed-finger-hand-stencils-from-Leang-Jarie-Maros-Sulawesi-1152x648.jpg",
-      "popularity_score": 141.6428461111111
+      "popularity_score": 137.02416888888888
     },
     {
-      "id": "cluster_116",
+      "id": "cluster_117",
       "coverage": 1,
       "updated_at": "Thu, 22 Jan 2026 21:16:42 +0000",
       "title": "Asking Grok to delete fake nudes may force victims to sue in Musk's chosen court",
@@ -772,7 +793,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_131",
+      "id": "cluster_132",
       "coverage": 1,
       "updated_at": "Thu, 22 Jan 2026 17:49:24 +0000",
       "title": "Blue Origin makes impressive strides with reuse—next launch will refly booster",
