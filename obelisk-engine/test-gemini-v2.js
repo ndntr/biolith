@@ -52,9 +52,9 @@ async function runTest() {
   }
   
   console.log('=====================================');
-  console.log('Gemini 2.0 Flash-Lite API Test');
+  console.log('Gemini 2.5 Flash-Lite API Test');
   console.log('Configuration:');
-  console.log('  - Model: gemini-2.0-flash-lite');
+  console.log('  - Model: gemini-2.5-flash-lite');
   console.log('  - Rate limits: 30 RPM, 200 RPD');
   console.log('  - Chunk size: 15 clusters');
   console.log('  - Concurrency: 3 requests');
