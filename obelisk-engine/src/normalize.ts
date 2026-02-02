@@ -2,6 +2,25 @@ import { NewsItem } from './types';
 import { geminiQueue } from './request-queue';
 import { geminiQuotaTracker } from './quota-tracker';
 
+const DEFAULT_GEMINI_MODEL = 'gemini-2.0-flash';
+const DEFAULT_GEMINI_API_VERSION = 'v1';
+type GeminiApiError = Error & { status?: number; retryAfter?: number };
+
+function getGeminiEndpoint(apiKey: string, env?: any): string {
+  const geminiModel = env?.GEMINI_MODEL || process.env.GEMINI_MODEL || DEFAULT_GEMINI_MODEL;
+  const geminiApiVersion = env?.GEMINI_API_VERSION || process.env.GEMINI_API_VERSION || DEFAULT_GEMINI_API_VERSION;
+  return `https://generativelanguage.googleapis.com/${geminiApiVersion}/models/${geminiModel}:generateContent?key=${apiKey}`;
+}
+
+function createGeminiApiError(status: number): GeminiApiError {
+  const modelHint = status === 404 || status === 410
+    ? ' Model not found or deprecated; update GEMINI_MODEL to a supported model.'
+    : '';
+  const error = new Error(`Gemini API error: ${status}.${modelHint}`) as GeminiApiError;
+  error.status = status;
+  return error;
+}
+
 const STOPWORDS = new Set([
   'a', 'an', 'and', 'are', 'as', 'at', 'be', 'by', 'for', 'from',
   'has', 'he', 'in', 'is', 'it', 'its', 'of', 'on', 'that', 'the',
@@ -256,7 +275,7 @@ ${batchInput}`;
 
     try {
       const response = await geminiQueue.enqueue(async () => {
-        const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent?key=${geminiApiKey}`, {
+        const res = await fetch(getGeminiEndpoint(geminiApiKey, env), {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
@@ -275,8 +294,7 @@ ${batchInput}`;
         });
         
         if (!res.ok) {
-          const error = new Error(`Gemini API error: ${res.status}`) as any;
-          error.status = res.status;
+          const error = createGeminiApiError(res.status);
           error.retryAfter = res.headers.get('retry-after') ? 
             parseInt(res.headers.get('retry-after')!) : undefined;
           throw error;
@@ -397,7 +415,7 @@ Output exactly 5 bullets:`;
     
     if (geminiApiKey) {
       const response = await geminiQueue.enqueue(async () => {
-        const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent?key=${geminiApiKey}`, {
+        const res = await fetch(getGeminiEndpoint(geminiApiKey, env), {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
@@ -416,8 +434,7 @@ Output exactly 5 bullets:`;
         });
         
         if (!res.ok) {
-          const error = new Error(`Gemini API error: ${res.status}`) as any;
-          error.status = res.status;
+          const error = createGeminiApiError(res.status);
           error.retryAfter = res.headers.get('retry-after') ? 
             parseInt(res.headers.get('retry-after')!) : undefined;
           throw error;
@@ -536,7 +553,7 @@ Headline:`;
     
     if (geminiApiKey) {
       const response = await geminiQueue.enqueue(async () => {
-        const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent?key=${geminiApiKey}`, {
+        const res = await fetch(getGeminiEndpoint(geminiApiKey, env), {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
@@ -555,8 +572,7 @@ Headline:`;
         });
         
         if (!res.ok) {
-          const error = new Error(`Gemini API error: ${res.status}`) as any;
-          error.status = res.status;
+          const error = createGeminiApiError(res.status);
           error.retryAfter = res.headers.get('retry-after') ? 
             parseInt(res.headers.get('retry-after')!) : undefined;
           throw error;

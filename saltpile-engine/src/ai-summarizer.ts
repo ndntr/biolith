@@ -50,6 +50,23 @@ class SimpleRequestQueue implements RequestQueue {
 }
 
 const geminiQueue = new SimpleRequestQueue();
+const DEFAULT_GEMINI_MODEL = 'gemini-2.0-flash';
+const DEFAULT_GEMINI_API_VERSION = 'v1';
+
+function getGeminiEndpoint(apiKey: string): string {
+  const geminiModel = process.env.GEMINI_MODEL || DEFAULT_GEMINI_MODEL;
+  const geminiApiVersion = process.env.GEMINI_API_VERSION || DEFAULT_GEMINI_API_VERSION;
+  return `https://generativelanguage.googleapis.com/${geminiApiVersion}/models/${geminiModel}:generateContent?key=${apiKey}`;
+}
+
+function createGeminiApiError(status: number): Error & { status?: number } {
+  const modelHint = status === 404 || status === 410
+    ? ' Model not found or deprecated; update GEMINI_MODEL to a supported model.'
+    : '';
+  const error = new Error(`Gemini API error: ${status}.${modelHint}`) as Error & { status?: number };
+  error.status = status;
+  return error;
+}
 
 /**
  * Generate a one-sentence AI summary for an evidence article
@@ -101,7 +118,7 @@ Summary:`;
 
   try {
     const response = await geminiQueue.enqueue(async () => {
-      const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent?key=${geminiApiKey}`, {
+      const res = await fetch(getGeminiEndpoint(geminiApiKey), {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -120,9 +137,7 @@ Summary:`;
       });
       
       if (!res.ok) {
-        const error = new Error(`Gemini API error: ${res.status}`) as any;
-        error.status = res.status;
-        throw error;
+        throw createGeminiApiError(res.status);
       }
       
       return res;

@@ -11,6 +11,7 @@
 - **From**: `gemini-1.5-flash` (10 RPM) and `gemini-1.5-pro` (5 RPM)
 - **To**: `gemini-2.0-flash-lite` (30 RPM, 200 RPD, 1M TPM)
 - **Benefits**: 3-6x higher rate limits, better performance, same free tier
+- **Configurable**: Model/API version can be overridden via env vars (see below)
 
 ### 2. Chunked Processing
 - Breaks clusters into chunks of 15 (optimal for Flash-Lite)
@@ -51,6 +52,8 @@ export const geminiQueue = new RateLimitedQueue({
 ### Environment Setup
 ```bash
 export GEMINI_API_KEY=your_api_key_here
+export GEMINI_MODEL=gemini-2.0-flash
+export GEMINI_API_VERSION=v1
 ```
 
 ### Running the Processor
