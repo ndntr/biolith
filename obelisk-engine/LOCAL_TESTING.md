@@ -7,6 +7,8 @@ This document explains how to set up and use the local testing environment for t
 1. **Set up environment**:
    ```bash
    export GEMINI_API_KEY=your_api_key_here
+   export GEMINI_MODEL=gemini-2.0-flash
+   export GEMINI_API_VERSION=v1
    ```
 
 2. **Run comprehensive test**:
@@ -156,6 +158,11 @@ aninda-news-processor/
 1. **API Key Missing**:
    ```bash
    export GEMINI_API_KEY=your_key_here
+   ```
+   Optional overrides:
+   ```bash
+   export GEMINI_MODEL=gemini-2.0-flash
+   export GEMINI_API_VERSION=v1
    ```
 
 2. **TypeScript Errors**:
