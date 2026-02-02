@@ -1,7 +1,7 @@
 import { Env, SectionData, MedicalSectionData, NewsCluster } from './types';
 import { FEED_SOURCES, getFeedsBySection } from './feeds';
 import { fetchAllFeeds, fetchEvidenceAlerts } from './fetcher';
-import { clusterNewsItems } from './cluster';
+import { clusterNewsItems, CLUSTER_CONFIGS } from './cluster';
 import { fetchScrapedPopularArticles } from './scraper';
 
 export default {
@@ -140,8 +140,10 @@ async function refreshSection(section: string, env: Env): Promise<void> {
   try {
     const sources = getFeedsBySection(section);
     const items = await fetchAllFeeds(sources);
-    
-    const clusters = clusterNewsItems(items, 0.18); // Optimal threshold
+
+    // Use section-specific clustering config to prevent transitive false positives
+    const clusterConfig = CLUSTER_CONFIGS[section] || CLUSTER_CONFIGS.global;
+    const clusters = clusterNewsItems(items, clusterConfig);
 
     // Define trusted sources that can show single-source stories
     const trustedSources = {
@@ -182,7 +184,7 @@ async function refreshSection(section: string, env: Env): Promise<void> {
       });
       
       // Create clusters from scraped articles (they won't cluster with RSS items due to different sources)
-      const scrapedClusters = clusterNewsItems(sectionScrapedArticles, 0.18);
+      const scrapedClusters = clusterNewsItems(sectionScrapedArticles, clusterConfig);
       
       // Add scraped clusters that don't duplicate existing content
       const existingUrls = new Set(filteredClusters.flatMap(c => c.items.map(i => i.url)));
@@ -227,7 +229,8 @@ async function refreshMedicalSections(env: Env): Promise<void> {
     await Promise.all(subsections.map(async (subsection) => {
       const sources = getFeedsBySection('medical', subsection);
       const items = await fetchAllFeeds(sources);
-      const clusters = clusterNewsItems(items, 0.18); // Optimal threshold
+      const medicalConfig = CLUSTER_CONFIGS.medical || CLUSTER_CONFIGS.global;
+      const clusters = clusterNewsItems(items, medicalConfig);
 
       const data: SectionData = {
         updated_at: new Date().toISOString(),

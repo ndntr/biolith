@@ -1,7 +1,7 @@
 import { promises as fs } from 'fs';
 import { getFeedsBySection } from './feeds';
 import { fetchAllFeeds, fetchEvidenceAlerts } from './fetcher';
-import { clusterNewsItems } from './cluster';
+import { clusterNewsItems, CLUSTER_CONFIGS } from './cluster';
 import { fetchScrapedPopularArticles } from './scraper';
 import { generateBatchAISummaries } from './normalize';
 import { SectionData, MedicalSectionData, NewsCluster } from './types';
@@ -20,15 +20,17 @@ const checkAI = () => {
 
 async function processSection(section: string): Promise<SectionData> {
   console.log(`Processing section: ${section}`);
-  
+
   const sources = getFeedsBySection(section);
   console.log(`Fetching ${sources.length} feeds for ${section}`);
-  
+
   const items = await fetchAllFeeds(sources);
   console.log(`Retrieved ${items.length} items from feeds`);
-  
-  const clusters = clusterNewsItems(items, 0.18); // Optimal threshold
-  console.log(`Created ${clusters.length} clusters`);
+
+  // Use section-specific clustering config to prevent transitive false positives
+  const clusterConfig = CLUSTER_CONFIGS[section] || CLUSTER_CONFIGS.global;
+  const clusters = clusterNewsItems(items, clusterConfig);
+  console.log(`Created ${clusters.length} clusters (threshold: ${clusterConfig.similarityThreshold}, minPair: ${clusterConfig.minPairSimilarity})`);
 
   // Define trusted sources that can show single-source stories
   const trustedSources = {
@@ -69,7 +71,7 @@ async function processSection(section: string): Promise<SectionData> {
     });
     
     // Create clusters from scraped articles (they won't cluster with RSS items due to different sources)
-    const scrapedClusters = clusterNewsItems(sectionScrapedArticles, 0.18);
+    const scrapedClusters = clusterNewsItems(sectionScrapedArticles, clusterConfig);
     
     // Add scraped clusters that don't duplicate existing content
     const existingUrls = new Set(filteredClusters.flatMap(c => c.items.map(i => i.url)));
@@ -109,7 +111,8 @@ async function processMedicalSections(): Promise<MedicalSectionData> {
   const results = await Promise.all(subsections.map(async (subsection) => {
     const sources = getFeedsBySection('medical', subsection);
     const items = await fetchAllFeeds(sources);
-    const clusters = clusterNewsItems(items, 0.18); // Optimal threshold
+    const medicalConfig = CLUSTER_CONFIGS.medical || CLUSTER_CONFIGS.global;
+    const clusters = clusterNewsItems(items, medicalConfig);
 
     const data: SectionData = {
       updated_at: new Date().toISOString(),
