@@ -12,9 +12,9 @@ export class QuotaTracker {
   private maxDailyRequests: number;
   private quotaData: QuotaData | null = null;
 
-  constructor(maxDailyRequests: number = 200) {
+  constructor(maxDailyRequests: number = 14400, quotaFileName: string = '.groq-quota.json') {
     this.maxDailyRequests = maxDailyRequests;
-    this.quotaFile = path.join(process.cwd(), '.gemini-quota.json');
+    this.quotaFile = path.join(process.cwd(), quotaFileName);
   }
 
   // Get current date in Pacific Time (where quota resets)
@@ -125,5 +125,5 @@ export class QuotaTracker {
   }
 }
 
-// Singleton instance for Gemini 2.5 Flash-Lite (200 RPD)
-export const geminiQuotaTracker = new QuotaTracker(200);
+// Singleton instance for Groq free tier (14,400 RPD)
+export const groqQuotaTracker = new QuotaTracker(14400, '.groq-quota.json');

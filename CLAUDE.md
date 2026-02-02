@@ -52,7 +52,7 @@ npm run local                 # Build and test locally
 
 1. **RSS Feed Fetching** (`src/fetcher.ts`): Fetches from 40+ news sources defined in `src/feeds.ts`
 2. **Article Clustering** (`src/cluster.ts`): Groups related articles using Jaccard similarity (threshold: 0.18)
-3. **AI Summarization** (`src/normalize.ts`): Generates 5-bullet summaries via Google Gemini API with rate limiting
+3. **AI Summarization** (`src/normalize.ts`): Generates 5-bullet summaries via Groq API (Llama 3.3 70B) with rate limiting
 4. **Data Storage**: Outputs JSON files to `obelisk-engine/data/` directory
 5. **Frontend Display**: `scripts/js/news-new.js` fetches and renders the JSON data
 
@@ -71,7 +71,7 @@ npm run local                 # Build and test locally
 - **src/github-processor.ts**: Main orchestrator, processes all sections
 - **src/feeds.ts**: Defines RSS feeds for global, australia, technology, medical sections
 - **src/cluster.ts**: Implements article clustering with similarity algorithms
-- **src/normalize.ts**: Handles text normalization and Gemini API integration
+- **src/normalize.ts**: Handles text normalization and Groq API integration
 - **src/request-queue.ts**: Rate limiting for API requests
 - **src/quota-tracker.ts**: Tracks API quota usage
 - **src/types.ts**: TypeScript interfaces (NewsItem, NewsCluster, SectionData)
@@ -107,10 +107,10 @@ npm run local                 # Build and test locally
 ## Environment Setup
 
 ### Obelisk Engine
-Requires Google Gemini API key:
-- **Local development**: Create `obelisk-engine/.env` with `GEMINI_API_KEY=your-key`
-- **GitHub Actions**: Set `GEMINI_API_KEY` repository secret
-- **Optional**: `GEMINI_MODEL` (default: `gemini-2.5-flash`) and `GEMINI_API_VERSION` (default: `v1`)
+Requires Groq API key:
+- **Local development**: Create `obelisk-engine/.env` with `GROQ_KEY=your-key`
+- **GitHub Actions**: Set `GROQ_KEY` repository secret
+- **Optional**: `GROQ_MODEL` (default: `llama-3.3-70b-versatile`)
 
 ### Saltpile Engine
 Requires EvidenceAlerts RSS URL (from Kill the Newsletter):
@@ -139,7 +139,7 @@ Requires EvidenceAlerts RSS URL (from Kill the Newsletter):
 - Runs every 4 hours: 19:00, 23:00, 03:00, 07:00, 11:00 UTC (AEDT times)
 - Processes obelisk-engine news and commits updated JSON files
 - Uses Node.js 20, Ubuntu latest
-- Requires `GEMINI_API_KEY` secret
+- Requires `GROQ_KEY` secret
 
 **Evidence Processing** (`.github/workflows/process-evidence.yml`):
 - Runs daily at 23:00 UTC (10am AEDT)
