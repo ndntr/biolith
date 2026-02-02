@@ -34,9 +34,9 @@ jobs:
       
     - name: Process RSS feeds and generate summaries
       env:
-        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        GROQ_KEY: ${{ secrets.GROQ_KEY }}
       run: |
-        echo "GEMINI_API_KEY is set: $([[ -n "$GEMINI_API_KEY" ]] && echo "Yes" || echo "No")"
+        echo "GROQ_KEY is set: $([[ -n "$GROQ_KEY" ]] && echo "Yes" || echo "No")"
         npm run process-news
       
     - name: Commit and push generated data

@@ -1,22 +1,17 @@
 import { NewsItem } from './types';
-import { geminiQueue } from './request-queue';
-import { geminiQuotaTracker } from './quota-tracker';
+import { groqQueue } from './request-queue';
+import { groqQuotaTracker } from './quota-tracker';
 
-const DEFAULT_GEMINI_MODEL = 'gemini-2.5-flash';
-const DEFAULT_GEMINI_API_VERSION = 'v1';
-type GeminiApiError = Error & { status?: number; retryAfter?: number };
+const DEFAULT_GROQ_MODEL = 'llama-3.3-70b-versatile';
+const GROQ_ENDPOINT = 'https://api.groq.com/openai/v1/chat/completions';
 
-function getGeminiEndpoint(apiKey: string, env?: any): string {
-  const geminiModel = env?.GEMINI_MODEL || process.env.GEMINI_MODEL || DEFAULT_GEMINI_MODEL;
-  const geminiApiVersion = env?.GEMINI_API_VERSION || process.env.GEMINI_API_VERSION || DEFAULT_GEMINI_API_VERSION;
-  return `https://generativelanguage.googleapis.com/${geminiApiVersion}/models/${geminiModel}:generateContent?key=${apiKey}`;
-}
+type GroqApiError = Error & { status?: number; retryAfter?: number };
 
-function createGeminiApiError(status: number): GeminiApiError {
-  const modelHint = status === 404 || status === 410
-    ? ' Model not found or deprecated; update GEMINI_MODEL to a supported model.'
+function createGroqApiError(status: number): GroqApiError {
+  const modelHint = status === 404
+    ? ' Model not found; update GROQ_MODEL to a supported model.'
     : '';
-  const error = new Error(`Gemini API error: ${status}.${modelHint}`) as GeminiApiError;
+  const error = new Error(`Groq API error: ${status}.${modelHint}`) as GroqApiError;
   error.status = status;
   return error;
 }
@@ -198,29 +193,31 @@ export function generateClusterHeadline(items: NewsItem[]): string {
   return generateNeutralHeadline(items[0].title, items[0].content);
 }
 
-// Batch process multiple clusters with Gemini API in smaller chunks
+// Batch process multiple clusters with Groq API in smaller chunks
 export async function generateBatchAISummaries(clusters: any[], env?: any): Promise<void> {
   if (clusters.length === 0) return;
 
-  const geminiApiKey = process.env.GEMINI_API_KEY || env?.GEMINI_API_KEY;
-  if (!geminiApiKey) return;
+  const groqApiKey = process.env.GROQ_KEY || env?.GROQ_KEY;
+  if (!groqApiKey) return;
 
-  // Process in chunks optimized for Gemini 2.5 Flash free tier (15 RPM, 200 RPD)
+  const groqModel = process.env.GROQ_MODEL || env?.GROQ_MODEL || DEFAULT_GROQ_MODEL;
+
+  // Process in chunks optimized for Groq free tier (30 RPM, 14,400 RPD)
   const CHUNK_SIZE = 15;
-  const MAX_CONCURRENT = 1; // Reduced from 3 to prevent bursts exceeding 15 RPM
-  
-  console.log(`Processing ${clusters.length} clusters in chunks of ${CHUNK_SIZE} with ${MAX_CONCURRENT} concurrent requests`);
-  
+  const MAX_CONCURRENT = 2; // Groq allows 30 RPM, so we can be more aggressive
+
+  console.log(`Processing ${clusters.length} clusters in chunks of ${CHUNK_SIZE} with ${MAX_CONCURRENT} concurrent requests (Groq/${groqModel})`);
+
   // Split clusters into chunks
   let chunks: any[][] = [];
   for (let i = 0; i < clusters.length; i += CHUNK_SIZE) {
     chunks.push(clusters.slice(i, i + CHUNK_SIZE));
   }
-  
+
   // Check quota before processing
-  const quotaStatus = await geminiQuotaTracker.getStatus();
+  const quotaStatus = await groqQuotaTracker.getStatus();
   console.log(`Quota status: ${quotaStatus.used}/${quotaStatus.total} requests used today, ${quotaStatus.remaining} remaining`);
-  
+
   if (quotaStatus.remaining < chunks.length) {
     console.warn(`⚠️ Daily quota insufficient: need ${chunks.length} requests, have ${quotaStatus.remaining} remaining`);
     console.warn(`Quota resets at ${quotaStatus.resetsAt}`);
@@ -231,7 +228,7 @@ export async function generateBatchAISummaries(clusters: any[], env?: any): Prom
       return;
     }
   }
-  
+
   // Process chunks with controlled parallelism
   const processChunk = async (chunk: any[], chunkIndex: number) => {
     // Prepare batch input for this chunk
@@ -274,66 +271,62 @@ Requirements:
 ${batchInput}`;
 
     try {
-      const response = await geminiQueue.enqueue(async () => {
-        const res = await fetch(getGeminiEndpoint(geminiApiKey, env), {
+      const response = await groqQueue.enqueue(async () => {
+        const res = await fetch(GROQ_ENDPOINT, {
           method: 'POST',
           headers: {
+            'Authorization': `Bearer ${groqApiKey}`,
             'Content-Type': 'application/json',
           },
           body: JSON.stringify({
-            contents: [{
-              parts: [{
-                text: prompt
-              }]
-            }],
-            generationConfig: {
-              maxOutputTokens: 3000, // Increased to allow complete 15-cluster processing
-              temperature: 0.1
-            }
+            model: groqModel,
+            messages: [{ role: 'user', content: prompt }],
+            max_tokens: 3000,
+            temperature: 0.1
           })
         });
-        
+
         if (!res.ok) {
-          const error = createGeminiApiError(res.status);
-          error.retryAfter = res.headers.get('retry-after') ? 
+          const error = createGroqApiError(res.status);
+          error.retryAfter = res.headers.get('retry-after') ?
             parseInt(res.headers.get('retry-after')!) : undefined;
           throw error;
         }
-        
+
         return res;
       }, 10 - (chunkIndex % 3)); // Vary priority slightly to avoid thundering herd
-      
+
       const result = await response.json() as any;
-      const batchResponse = result.candidates?.[0]?.content?.parts?.[0]?.text?.trim() || '';
-      
+      const batchResponse = result.choices?.[0]?.message?.content?.trim() || '';
+
       // Parse the batch response and assign to this chunk
       parseBatchResponse(batchResponse, chunk);
-      
+
       // Track successful request
-      await geminiQuotaTracker.incrementRequests(1);
-      
+      await groqQuotaTracker.incrementRequests(1);
+
       console.log(`Chunk ${chunkIndex + 1}/${chunks.length} processed successfully`);
-      
+
     } catch (error) {
       console.error(`Chunk ${chunkIndex + 1}/${chunks.length} AI processing failed:`, error);
       // This chunk will keep original titles and no AI summaries
     }
   };
-  
+
   // Process chunks in batches with controlled concurrency
   for (let i = 0; i < chunks.length; i += MAX_CONCURRENT) {
     const batch = chunks.slice(i, i + MAX_CONCURRENT);
     const promises = batch.map((chunk, index) => processChunk(chunk, i + index));
-    
+
     // Wait for this batch to complete before starting the next
     await Promise.allSettled(promises);
-    
+
     // Small delay between batches to avoid bursting
     if (i + MAX_CONCURRENT < chunks.length) {
-      await new Promise(resolve => setTimeout(resolve, 1000)); // 1 second delay between batches
+      await new Promise(resolve => setTimeout(resolve, 500)); // 500ms delay (Groq is faster)
     }
   }
-  
+
   console.log('All chunks processed');
 }
 
@@ -380,7 +373,7 @@ function parseBatchResponse(response: string, clusters: any[]): void {
   }
 }
 
-// New AI-powered summary generation using Gemini API (kept for backward compatibility)
+// AI-powered summary generation using Groq API
 export async function generateAISummary(items: NewsItem[], env?: any): Promise<string> {
   if (items.length === 0) return '';
 
@@ -390,7 +383,7 @@ export async function generateAISummary(items: NewsItem[], env?: any): Promise<s
     const content = item.standfirst || item.content || '';
     const source = item.source || '';
     return `[${source}] ${title}: ${content}`;
-  }).join('\n\n').slice(0, 3000); // More content allowed with Gemini
+  }).join('\n\n').slice(0, 3000);
 
   const prompt = `For the article(s) provided, summarize the news story into a 5-bullet point overview. Summarize only what is supported by the supplied articles. Be concise, neutral, and specific. Avoid clickbait, vagueness, adjectives, and opinion.
 
@@ -410,51 +403,46 @@ ${combinedContent}
 Output exactly 5 bullets:`;
 
   try {
-    // Use Gemini API
-    const geminiApiKey = process.env.GEMINI_API_KEY || env?.GEMINI_API_KEY;
-    
-    if (geminiApiKey) {
-      const response = await geminiQueue.enqueue(async () => {
-        const res = await fetch(getGeminiEndpoint(geminiApiKey, env), {
+    const groqApiKey = process.env.GROQ_KEY || env?.GROQ_KEY;
+    const groqModel = process.env.GROQ_MODEL || env?.GROQ_MODEL || DEFAULT_GROQ_MODEL;
+
+    if (groqApiKey) {
+      const response = await groqQueue.enqueue(async () => {
+        const res = await fetch(GROQ_ENDPOINT, {
           method: 'POST',
           headers: {
+            'Authorization': `Bearer ${groqApiKey}`,
             'Content-Type': 'application/json',
           },
           body: JSON.stringify({
-            contents: [{
-              parts: [{
-                text: prompt
-              }]
-            }],
-            generationConfig: {
-              maxOutputTokens: 200,
-              temperature: 0.1
-            }
+            model: groqModel,
+            messages: [{ role: 'user', content: prompt }],
+            max_tokens: 300,
+            temperature: 0.1
           })
         });
-        
+
         if (!res.ok) {
-          const error = createGeminiApiError(res.status);
-          error.retryAfter = res.headers.get('retry-after') ? 
+          const error = createGroqApiError(res.status);
+          error.retryAfter = res.headers.get('retry-after') ?
             parseInt(res.headers.get('retry-after')!) : undefined;
           throw error;
         }
-        
+
         return res;
       }, 5); // Medium priority for individual summaries
-      
+
       const result = await response.json() as any;
-      const summary = result.candidates?.[0]?.content?.parts?.[0]?.text?.trim() || '';
-      
+      const summary = result.choices?.[0]?.message?.content?.trim() || '';
+
       // Post-process to extract and clean bullets
       const cleanSummary = cleanAIBullets(summary);
       if (cleanSummary) {
         return cleanSummary;
       }
-      
+
       // If AI bullets failed, try to use AI response as-is if it's reasonable
       if (summary && summary.length > 20 && summary.length < 500) {
-        // Clean up any remaining formatting issues
         const cleanedResponse = summary
           .replace(/^(Here (is|are).*?:|Summary:|The summary is:)/gi, '')
           .replace(/\*\*(.*?)\*\*/g, '$1')
@@ -462,12 +450,10 @@ Output exactly 5 bullets:`;
           .trim();
         return cleanedResponse;
       }
-      
-      // Final fallback to structured bullets
+
       return generateFallbackBullets(items);
     }
-    
-    // Fallback to simple extraction if AI is not available
+
     return generateFallbackBullets(items);
   } catch (error) {
     console.error('AI summary generation failed:', error);
@@ -522,7 +508,7 @@ function generateSimpleSummary(items: NewsItem[]): string {
   return sentences.join('. ').trim() + (sentences.length > 0 ? '.' : '');
 }
 
-// AI-powered headline generation
+// AI-powered headline generation using Groq API
 export async function generateAIHeadline(items: NewsItem[], env?: any): Promise<string> {
   if (items.length === 0) return '';
 
@@ -548,42 +534,38 @@ Context: ${content}
 Headline:`;
 
   try {
-    // Use Gemini API
-    const geminiApiKey = process.env.GEMINI_API_KEY || env?.GEMINI_API_KEY;
-    
-    if (geminiApiKey) {
-      const response = await geminiQueue.enqueue(async () => {
-        const res = await fetch(getGeminiEndpoint(geminiApiKey, env), {
+    const groqApiKey = process.env.GROQ_KEY || env?.GROQ_KEY;
+    const groqModel = process.env.GROQ_MODEL || env?.GROQ_MODEL || DEFAULT_GROQ_MODEL;
+
+    if (groqApiKey) {
+      const response = await groqQueue.enqueue(async () => {
+        const res = await fetch(GROQ_ENDPOINT, {
           method: 'POST',
           headers: {
+            'Authorization': `Bearer ${groqApiKey}`,
             'Content-Type': 'application/json',
           },
           body: JSON.stringify({
-            contents: [{
-              parts: [{
-                text: prompt
-              }]
-            }],
-            generationConfig: {
-              maxOutputTokens: 50,
-              temperature: 0.1
-            }
+            model: groqModel,
+            messages: [{ role: 'user', content: prompt }],
+            max_tokens: 50,
+            temperature: 0.1
           })
         });
-        
+
         if (!res.ok) {
-          const error = createGeminiApiError(res.status);
-          error.retryAfter = res.headers.get('retry-after') ? 
+          const error = createGroqApiError(res.status);
+          error.retryAfter = res.headers.get('retry-after') ?
             parseInt(res.headers.get('retry-after')!) : undefined;
           throw error;
         }
-        
+
         return res;
       }, 5); // Medium priority for headlines
-      
+
       const result = await response.json() as any;
-      const headline = result.candidates?.[0]?.content?.parts?.[0]?.text?.trim() || '';
-      
+      const headline = result.choices?.[0]?.message?.content?.trim() || '';
+
       // Clean up any quotes, bullet points, multiple options, or extra formatting
       let cleanHeadline = headline
         .replace(/^["']|["']$/g, '') // Remove quotes
@@ -591,12 +573,12 @@ Headline:`;
         .split(/\n|\*|\-|•/)[0] // Take only first line/option
         .replace(/^\s*[\-\*•]\s*/, '') // Remove bullet points
         .trim();
-      
+
       // Remove any "Here's what..." or similar clickbait endings
       cleanHeadline = cleanHeadline
         .replace(/\.\s*(Here's what.*|What you need to know.*|What it means.*)$/i, '')
         .trim();
-      
+
       // Expand common contractions that might slip through
       cleanHeadline = cleanHeadline
         .replace(/\bgovt\b/gi, 'government')
@@ -612,14 +594,13 @@ Headline:`;
         .replace(/\bhere's\b/gi, 'here is')
         .replace(/\bthere's\b/gi, 'there is')
         .replace(/\bwhat's\b/gi, 'what is');
-      
+
       // Remove trailing periods from headlines (news headlines shouldn't end with periods)
       cleanHeadline = cleanHeadline.replace(/\.+$/, '').trim();
-      
+
       return cleanHeadline || selectBestHeadline(items);
     }
-    
-    // Fallback to existing logic
+
     return selectBestHeadline(items);
   } catch (error) {
     console.error('AI headline generation failed:', error);

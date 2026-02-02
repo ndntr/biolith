@@ -192,10 +192,10 @@ export class RateLimitedQueue {
   }
 }
 
-// Singleton instance for Gemini API requests (optimized for Gemini 2.5 Flash free tier 15 RPM)
-export const geminiQueue = new RateLimitedQueue({
-  maxConcurrent: 2, // Reduced from 5 to prevent bursts exceeding 15 RPM
-  maxRetries: 4, // Reasonable retries
-  baseDelay: 3000, // 3 second base delay for retries
-  minInterval: 4500 // 4.5 seconds between requests (~13 RPM, safely under 15 RPM)
+// Singleton instance for Groq API requests (optimized for Groq free tier 30 RPM)
+export const groqQueue = new RateLimitedQueue({
+  maxConcurrent: 3, // Groq allows 30 RPM, more headroom for concurrency
+  maxRetries: 4,
+  baseDelay: 2000, // 2 second base delay for retries
+  minInterval: 2100 // 2.1 seconds between requests (~28 RPM, safely under 30 RPM)
 });

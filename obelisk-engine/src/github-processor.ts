@@ -6,12 +6,12 @@ import { fetchScrapedPopularArticles } from './scraper';
 import { generateBatchAISummaries } from './normalize';
 import { SectionData, MedicalSectionData, NewsCluster } from './types';
 
-// GitHub Actions environment - check for Gemini API key
+// GitHub Actions environment - check for Groq API key
 const checkAI = () => {
-  const geminiApiKey = process.env.GEMINI_API_KEY;
-  
-  if (!geminiApiKey) {
-    console.warn('Gemini API key not found, AI summaries will be disabled');
+  const groqKey = process.env.GROQ_KEY;
+
+  if (!groqKey) {
+    console.warn('Groq API key not found, AI summaries will be disabled');
     return false;
   }
 
@@ -249,18 +249,18 @@ async function main() {
           ...(medicalData.patient_signals?.clusters || [])
         ];
         
-        console.log(`Generating AI summaries for ${allClusters.length} clusters from all sections with Gemini API (single batch call)`);
-        
-        // Process ALL clusters in one API call
-        await generateBatchAISummaries(allClusters, { GEMINI_API_KEY: process.env.GEMINI_API_KEY });
+        console.log(`Generating AI summaries for ${allClusters.length} clusters from all sections with Groq API (batch calls)`);
+
+        // Process ALL clusters in batch calls
+        await generateBatchAISummaries(allClusters, { GROQ_KEY: process.env.GROQ_KEY });
         console.log('Consolidated batch AI processing completed successfully');
-        
+
       } catch (error) {
         console.error('Consolidated batch AI processing failed:', error);
         // Clusters will keep their original titles and no AI summaries
       }
     } else {
-      console.log('AI processing disabled - no Gemini API key');
+      console.log('AI processing disabled - no Groq API key');
     }
     
     // Write data to JSON files
