@@ -192,10 +192,10 @@ export class RateLimitedQueue {
   }
 }
 
-// Singleton instance for Gemini API requests (optimized for Flash-Lite 30 RPM)
+// Singleton instance for Gemini API requests (optimized for Gemini 2.5 Flash free tier 15 RPM)
 export const geminiQueue = new RateLimitedQueue({
-  maxConcurrent: 5, // Can handle more concurrent with 30 RPM
+  maxConcurrent: 2, // Reduced from 5 to prevent bursts exceeding 15 RPM
   maxRetries: 4, // Reasonable retries
   baseDelay: 3000, // 3 second base delay for retries
-  minInterval: 2100 // 2.1 seconds between requests (~28 RPM, safely under 30 RPM)
+  minInterval: 4500 // 4.5 seconds between requests (~13 RPM, safely under 15 RPM)
 });

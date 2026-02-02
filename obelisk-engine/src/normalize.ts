@@ -205,9 +205,9 @@ export async function generateBatchAISummaries(clusters: any[], env?: any): Prom
   const geminiApiKey = process.env.GEMINI_API_KEY || env?.GEMINI_API_KEY;
   if (!geminiApiKey) return;
 
-  // Process in chunks optimized for Gemini 2.5 Flash-Lite (30 RPM, 200 RPD)
-  const CHUNK_SIZE = 15; // Larger chunks work fine with Flash-Lite
-  const MAX_CONCURRENT = 3; // Can handle 3 concurrent with 30 RPM limit
+  // Process in chunks optimized for Gemini 2.5 Flash free tier (15 RPM, 200 RPD)
+  const CHUNK_SIZE = 15;
+  const MAX_CONCURRENT = 1; // Reduced from 3 to prevent bursts exceeding 15 RPM
   
   console.log(`Processing ${clusters.length} clusters in chunks of ${CHUNK_SIZE} with ${MAX_CONCURRENT} concurrent requests`);
   
