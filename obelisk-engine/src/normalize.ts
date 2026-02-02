@@ -2,7 +2,7 @@ import { NewsItem } from './types';
 import { geminiQueue } from './request-queue';
 import { geminiQuotaTracker } from './quota-tracker';
 
-const DEFAULT_GEMINI_MODEL = 'gemini-2.0-flash';
+const DEFAULT_GEMINI_MODEL = 'gemini-2.5-flash';
 const DEFAULT_GEMINI_API_VERSION = 'v1';
 type GeminiApiError = Error & { status?: number; retryAfter?: number };
 
@@ -205,7 +205,7 @@ export async function generateBatchAISummaries(clusters: any[], env?: any): Prom
   const geminiApiKey = process.env.GEMINI_API_KEY || env?.GEMINI_API_KEY;
   if (!geminiApiKey) return;
 
-  // Process in chunks optimized for Gemini 2.0 Flash-Lite (30 RPM, 200 RPD)
+  // Process in chunks optimized for Gemini 2.5 Flash-Lite (30 RPM, 200 RPD)
   const CHUNK_SIZE = 15; // Larger chunks work fine with Flash-Lite
   const MAX_CONCURRENT = 3; // Can handle 3 concurrent with 30 RPM limit
   

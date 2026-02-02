@@ -43,7 +43,7 @@ This repository processes RSS feeds from 40+ international news sources, perform
    ```
    Optional overrides:
    ```
-   GEMINI_MODEL=gemini-2.0-flash
+   GEMINI_MODEL=gemini-2.5-flash
    GEMINI_API_VERSION=v1
    ```
    Get your API key from: https://aistudio.google.com/app/apikey
@@ -60,13 +60,13 @@ This repository processes RSS feeds from 40+ international news sources, perform
    - Name: `GEMINI_API_KEY`
    - Value: Your Google Gemini API key
 3. Optional repository secrets:
-- `GEMINI_MODEL` (default: `gemini-2.0-flash`)
+- `GEMINI_MODEL` (default: `gemini-2.5-flash`)
    - `GEMINI_API_VERSION` (default: `v1`)
 
 3. GitHub Actions will automatically:
    - Run every 4 hours
    - Process all RSS feeds  
-  - Generate AI summaries using the configured Gemini model (defaults to `gemini-2.0-flash`)
+  - Generate AI summaries using the configured Gemini model (defaults to `gemini-2.5-flash`)
    - Commit updated JSON files
 
 **IMPORTANT**: Never commit your actual API key to the repository!

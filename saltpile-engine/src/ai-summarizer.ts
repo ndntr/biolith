@@ -50,7 +50,7 @@ class SimpleRequestQueue implements RequestQueue {
 }
 
 const geminiQueue = new SimpleRequestQueue();
-const DEFAULT_GEMINI_MODEL = 'gemini-2.0-flash';
+const DEFAULT_GEMINI_MODEL = 'gemini-2.5-flash';
 const DEFAULT_GEMINI_API_VERSION = 'v1';
 
 function getGeminiEndpoint(apiKey: string): string {

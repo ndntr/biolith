@@ -3,13 +3,13 @@
 ## Problem Solved
 - **Initial Issue**: 503 complexity errors when sending all ~240 clusters in one request
 - **Rate Limiting**: 429 errors with Gemini 1.5 models (only 5-10 RPM on free tier)
-- **Solution**: Switched to Gemini 2.0 Flash-Lite with proper chunking and quota management
+- **Solution**: Switched to Gemini 2.5 Flash-Lite with proper chunking and quota management
 
 ## Key Changes Implemented
 
 ### 1. Model Upgrade
 - **From**: `gemini-1.5-flash` (10 RPM) and `gemini-1.5-pro` (5 RPM)
-- **To**: `gemini-2.0-flash-lite` (30 RPM, 200 RPD, 1M TPM)
+- **To**: `gemini-2.5-flash-lite` (30 RPM, 200 RPD, 1M TPM)
 - **Benefits**: 3-6x higher rate limits, better performance, same free tier
 - **Configurable**: Model/API version can be overridden via env vars (see below)
 
@@ -52,7 +52,7 @@ export const geminiQueue = new RateLimitedQueue({
 ### Environment Setup
 ```bash
 export GEMINI_API_KEY=your_api_key_here
-export GEMINI_MODEL=gemini-2.0-flash
+export GEMINI_MODEL=gemini-2.5-flash
 export GEMINI_API_VERSION=v1
 ```
 

@@ -125,5 +125,5 @@ export class QuotaTracker {
   }
 }
 
-// Singleton instance for Gemini 2.0 Flash-Lite (200 RPD)
+// Singleton instance for Gemini 2.5 Flash-Lite (200 RPD)
 export const geminiQuotaTracker = new QuotaTracker(200);

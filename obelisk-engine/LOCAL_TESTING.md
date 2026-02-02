@@ -7,7 +7,7 @@ This document explains how to set up and use the local testing environment for t
 1. **Set up environment**:
    ```bash
    export GEMINI_API_KEY=your_api_key_here
-   export GEMINI_MODEL=gemini-2.0-flash
+   export GEMINI_MODEL=gemini-2.5-flash
    export GEMINI_API_VERSION=v1
    ```
 
@@ -161,7 +161,7 @@ aninda-news-processor/
    ```
    Optional overrides:
    ```bash
-   export GEMINI_MODEL=gemini-2.0-flash
+   export GEMINI_MODEL=gemini-2.5-flash
    export GEMINI_API_VERSION=v1
    ```
 

@@ -110,14 +110,14 @@ npm run local                 # Build and test locally
 Requires Google Gemini API key:
 - **Local development**: Create `obelisk-engine/.env` with `GEMINI_API_KEY=your-key`
 - **GitHub Actions**: Set `GEMINI_API_KEY` repository secret
-- **Optional**: `GEMINI_MODEL` (default: `gemini-2.0-flash`) and `GEMINI_API_VERSION` (default: `v1`)
+- **Optional**: `GEMINI_MODEL` (default: `gemini-2.5-flash`) and `GEMINI_API_VERSION` (default: `v1`)
 
 ### Saltpile Engine
 Requires EvidenceAlerts RSS URL (from Kill the Newsletter):
 - **Local development**: Create `saltpile-engine/.env` with `EVIDENCE_ALERTS_RSS_URL=your-rss-url`
 - **GitHub Actions**: Set `EVIDENCE_ALERTS_RSS_URL` repository secret
 - **Test mode**: Place test email files in `saltpile-engine/test-email.eml` (or specify custom path)
-- **Optional (AI summaries)**: `GEMINI_API_KEY` plus `GEMINI_MODEL` (default: `gemini-2.0-flash`) and `GEMINI_API_VERSION` (default: `v1`)
+- **Optional (AI summaries)**: `GEMINI_API_KEY` plus `GEMINI_MODEL` (default: `gemini-2.5-flash`) and `GEMINI_API_VERSION` (default: `v1`)
 
 ## TypeScript Configuration
 
