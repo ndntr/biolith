@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-02-02T08:53:46.336Z",
+    "updated_at": "2026-02-02T11:35:26.489Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-02T08:53:57.812Z",
+    "updated_at": "2026-02-02T11:35:37.673Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/ef5337bf-8d4b-4668-ade2-48b645ad4ca2/Prostate-cancer-treatment-goes-on-PBS.aspx",
         "ai_summary": [
-          "Andriga-10 treatment listed on PBS for prostate cancer",
-          "Medication combines with steroid for aggressive cases",
-          "Treatment provides new option for patients",
-          "PBS listing increases accessibility and affordability",
-          "Andriga-10 shows promise for improving patient outcomes"
+          "Andriga-10 is now on PBS list",
+          "Treatment combines medication and steroid",
+          "Helps aggressive prostate cancer",
+          "Patients can access treatment now",
+          "Medication is effective in trials"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/bc51a448-003e-4ef4-b2a2-54f132d2b74d/GPs-issue-urgent-medical-misinformation-warning.aspx",
         "ai_summary": [
-          "GPs warn about medical misinformation online",
-          "Doctors combat misinformation during consultations",
-          "Social media misinformation poses significant risks",
-          "Patients are misled by false medical information",
-          "GPs work to educate patients and promote accuracy"
+          "GPs warn about medical misinformation",
+          "Patients believe online mistruths",
+          "Doctors dispel myths in consults",
+          "Social media spreads false info",
+          "GPs urge patients to verify sources"
         ]
       },
       {
@@ -80,56 +80,29 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/e3174d81-0d25-452f-b52c-833acfbf7439/Aspirin-ineffective-in-cutting-cancer-risk-in-older-adults-Study.aspx",
         "ai_summary": [
-          "Aspirin ineffective in reducing cancer risk for older adults",
-          "Study finds no significant impact on cancer incidence",
-          "Monash researchers conduct study on aspirin effects",
-          "Low-dose aspirin does not provide cancer protection",
-          "Findings contradict previous assumptions about aspirin"
+          "Aspirin does not cut cancer risk",
+          "Study finds no effect on incidence",
+          "Healthy older adults not helped",
+          "Low-dose aspirin is ineffective",
+          "Researchers recommend alternative"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-02-02T08:53:49.187Z",
+    "updated_at": "2026-02-02T11:35:36.067Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
-        "updated_at": "Mon, 02 Feb 2026 07:17:22 GMT",
-        "title": "Residents terrified as climate change puts homes at risk of being bulldozed",
-        "neutral_headline": "Climate Change Puts Homes At Risk",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/ckgl62rx6l2o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 02 Feb 2026 07:17:22 GMT",
-            "title": "Residents terrified as climate change puts homes at risk of being bulldozed",
-            "standfirst": "People on a street at risk of flooding will discover whether their homes are to be demolished.",
-            "content": "People on a street at risk of flooding will discover whether their homes are to be demolished.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/971b/live/a69adc30-fdda-11f0-a440-19d8ed03cea6.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/971b/live/a69adc30-fdda-11f0-a440-19d8ed03cea6.jpg",
-        "ai_summary": [
-          "Climate change threatens homes with flooding risk",
-          "Residents face potential demolition of homes",
-          "Government considers flood risk management options",
-          "Homeowners worry about property values and safety",
-          "Climate change mitigation efforts are necessary"
-        ]
-      },
-      {
-        "id": "cluster_1",
-        "coverage": 1,
-        "updated_at": "Mon, 02 Feb 2026 06:23:51 GMT",
+        "updated_at": "Mon, 02 Feb 2026 10:26:52 GMT",
         "title": "Couple to re-start trek around Britain's coastline",
         "neutral_headline": "Couple Resumes Britain Coastline Trek",
         "items": [
           {
             "source": "BBC Health",
             "url": "https://www.bbc.com/news/articles/cn82qx0p385o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 02 Feb 2026 06:23:51 GMT",
+            "published_at": "Mon, 02 Feb 2026 10:26:52 GMT",
             "title": "Couple to re-start trek around Britain's coastline",
             "standfirst": "After having to halt their first attempt due to an injury, the couple are ready to set off again.",
             "content": "After having to halt their first attempt due to an injury, the couple are ready to set off again.",
@@ -139,19 +112,73 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/845a/live/bf2329f0-fd27-11f0-890b-55ca0a00c59d.png",
         "ai_summary": [
-          "Couple restarts trek around Britain's coastline",
-          "Previous attempt halted due to injury",
-          "Couple prepares for new challenge and adventure",
-          "Trek raises awareness for various causes and charities",
-          "Couple's journey inspires others to explore Britain"
+          "Couple resumes trek around Britain",
+          "Previous attempt was halted due injury",
+          "Couple is now ready to continue",
+          "Trek will cover entire coastline",
+          "Couple is determined to finish"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Mon, 02 Feb 2026 10:10:03 GMT",
+        "title": "What does 'quiet resilience' look like?",
+        "neutral_headline": "Building Quiet Resilience",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/videos/cn7jnm8r4zdo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 02 Feb 2026 10:10:03 GMT",
+            "title": "What does 'quiet resilience' look like?",
+            "standfirst": "Kimberley Wilson talks to psychologist and therapist Dr Sula Windgassen on how to build \"quiet\" or \"flexible\" resilience.",
+            "content": "Kimberley Wilson talks to psychologist and therapist Dr Sula Windgassen on how to build \"quiet\" or \"flexible\" resilience.",
+            "feed_position": 105,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/036a/live/f26ba4f0-fdee-11f0-a8b8-bdd2c5f9bcad.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/036a/live/f26ba4f0-fdee-11f0-a8b8-bdd2c5f9bcad.jpg",
+        "ai_summary": [
+          "Quiet resilience is a new concept",
+          "It involves flexible coping mechanisms",
+          "Helps individuals deal with stress",
+          "Involves building mental strength",
+          "Can be developed through practice"
         ]
       },
       {
         "id": "cluster_2",
         "coverage": 1,
+        "updated_at": "Mon, 02 Feb 2026 07:17:22 GMT",
+        "title": "Street where residents are terrified of flooding could be bulldozed",
+        "neutral_headline": "Flood Prone Street May Be Bulldozed",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/ckgl62rx6l2o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 02 Feb 2026 07:17:22 GMT",
+            "title": "Street where residents are terrified of flooding could be bulldozed",
+            "standfirst": "People on a street at risk of flooding will discover whether their homes are to be demolished.",
+            "content": "People on a street at risk of flooding will discover whether their homes are to be demolished.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/971b/live/a69adc30-fdda-11f0-a440-19d8ed03cea6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/971b/live/a69adc30-fdda-11f0-a440-19d8ed03cea6.jpg",
+        "ai_summary": [
+          "Street at risk of flooding may be demolished",
+          "Residents are concerned about homes",
+          "Decision will be made soon",
+          "Flooding has caused significant damage",
+          "Residents are waiting for outcome"
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
         "updated_at": "Mon, 02 Feb 2026 05:00:48 GMT",
         "title": "Families call for inquiry into residential care charity that ran up £1.6m debt",
-        "neutral_headline": "Charity Faces Inquiry Over Debt",
+        "neutral_headline": "Families Call For Inquiry Into Charity",
         "items": [
           {
             "source": "Guardian Health",
@@ -164,44 +191,44 @@
           }
         ],
         "ai_summary": [
-          "Charity faces inquiry over £1.6m debt and mismanagement",
-          "William Blake House accused of financial mismanagement",
-          "Families call for urgent investigation and action",
-          "Charity's viability and governance are questioned",
-          "Inquiry seeks to address concerns and ensure accountability"
+          "Families demand inquiry into charity",
+          "Charity has debts of 1.6 million pounds",
+          "Paid trustee one million pounds",
+          "Charity is at risk of closure",
+          "Families want answers and action"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 02 Feb 2026 05:00:48 GMT",
-        "title": "Do you like cat photos? Are you constantly distracted? You’re probably actually quite good at focussing: 10 myths about attention",
+        "title": "Do you like cat photos? Are you constantly distracted? You’re probably actually quite good at focusing: 10 myths about attention",
         "neutral_headline": "Myths About Attention And Focus",
         "items": [
           {
             "source": "Guardian Health",
             "url": "https://www.theguardian.com/lifeandstyle/2026/feb/02/do-you-like-cat-photos-are-you-constantly-distracted-youre-probably-actually-quite-good-at-focussing-10-myths-about-attention",
             "published_at": "Mon, 02 Feb 2026 05:00:48 GMT",
-            "title": "Do you like cat photos? Are you constantly distracted? You’re probably actually quite good at focussing: 10 myths about attention",
+            "title": "Do you like cat photos? Are you constantly distracted? You’re probably actually quite good at focusing: 10 myths about attention",
             "standfirst": "Every second, 11m bits of information enter our brains, which then efficiently prioritise them. We need to learn to work with the process, rather than against it It’s believed that we have about 50,000 thoughts a day: big, small, urgent, banal – “Did I leave the oven on?”. And those are just the ones that register. Subconsciously, we’re constantly sifting through a barrage of stimuli: background noise, clutter on our desks, the mere presence of our phones.Every second, 11m bits of information enter our brains. Just 0.0004% is perceived by our conscious minds, showing just how hard our brains are working to parse what’s sufficiently relevant to bring to our attention. Continue reading...",
             "content": "Every second, 11m bits of information enter our brains, which then efficiently prioritise them. We need to learn to work with the process, rather than against it It’s believed that we have about 50,000 thoughts a day: big, small, urgent, banal – “Did I leave the oven on?”. And those are just the ones that register. Subconsciously, we’re constantly sifting through a barrage of stimuli: background noise, clutter on our desks, the mere presence of our phones.Every second, 11m bits of information enter our brains. Just 0.0004% is perceived by our conscious minds, showing just how hard our brains are working to parse what’s sufficiently relevant to bring to our attention. Continue reading...",
             "feed_position": 1
           }
         ],
         "ai_summary": [
-          "Myths about attention and focus are debunked",
-          "Human brains process 11m bits of information per second",
-          "Only 0.0004% of information is perceived consciously",
-          "Brains efficiently prioritize and filter information",
-          "Understanding attention and focus can improve productivity"
+          "Myths about attention are common",
+          "Brain processes 11 million bits info",
+          "Only 0.0004 percent is perceived",
+          "Attention is a complex process",
+          "Understanding it can improve focus"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sun, 01 Feb 2026 18:50:48 GMT",
         "title": "‘Deadly postcode lottery’ restricting new cancer treatments in England, doctors say",
-        "neutral_headline": "England Cancer Patients Denied New Treatments",
+        "neutral_headline": "Cancer Treatment Restricted By Postcode",
         "items": [
           {
             "source": "Guardian Health",
@@ -214,15 +241,15 @@
           }
         ],
         "ai_summary": [
-          "Cancer patients in England lack access to new radiotherapies",
-          "Doctors warn of a deadly postcode lottery in treatment access",
-          "Red tape and funding issues restrict treatment availability",
-          "Patients are missing out on effective treatments used abroad",
-          "Health secretary has been informed of the situation"
+          "Cancer patients denied new treatments",
+          "Postcode lottery restricts access",
+          "Doctors warn about unequal access",
+          "Patients miss out on effective therapies",
+          "Health secretary is urged to act"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sun, 01 Feb 2026 17:42:56 GMT",
         "title": "Hospital disruption continues after fire",
@@ -241,15 +268,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ba0/live/19f8bc80-ff55-11f0-861a-555f9d353c11.png",
         "ai_summary": [
-          "Southampton General Hospital limits A&E admissions",
-          "Operations have been canceled due to the fire",
-          "The hospital is working to resolve the disruption",
-          "Patients are being redirected to other facilities",
-          "The cause of the fire is under investigation"
+          "Hospital limits A&E admissions",
+          "Operations are cancelled due fire",
+          "Disruption is ongoing",
+          "Investigation into fire is underway",
+          "Hospital is working to resume services"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sun, 01 Feb 2026 17:08:27 GMT",
         "title": "Mexico moves to combat pollution following Guardian investigations",
@@ -266,15 +293,15 @@
           }
         ],
         "ai_summary": [
-          "Mexico announces tactics to combat industrial pollution",
-          "Fines of $4.8m will be imposed on a toxic waste plant",
-          "A new air-monitoring system will be rolled out",
-          "The government is responding to contamination revelations",
-          "The measures aim to reduce pollution in the Monterrey area"
+          "Mexico announces pollution crackdown",
+          "Fines and new monitoring system",
+          "Investigations revealed high contamination",
+          "Government takes action to combat",
+          "New measures aim to reduce pollution"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sun, 01 Feb 2026 17:00:32 GMT",
         "title": "NHS patients put at risk by ‘sham investigations’, says ex-CEO of hospital",
@@ -291,36 +318,11 @@
           }
         ],
         "ai_summary": [
-          "NHS bosses launch sham investigations into whistleblowers",
-          "Patients are being put at risk by these investigations",
-          "A former hospital CEO won a £1.4m bullying payout",
+          "Dr Susan Gilby says NHS bosses launch sham investigations",
           "Whistleblower protections must be strengthened",
-          "The NHS is facing criticism over its handling of concerns"
-        ]
-      },
-      {
-        "id": "cluster_8",
-        "coverage": 1,
-        "updated_at": "Sun, 01 Feb 2026 16:00:31 GMT",
-        "title": "‘Adjustments must be made’: how to live well after mid-life",
-        "neutral_headline": "Living Well After Mid Life",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/science/2026/feb/01/adjustments-live-well-after-mid-life-psychotherapist-frank-tallis",
-            "published_at": "Sun, 01 Feb 2026 16:00:31 GMT",
-            "title": "‘Adjustments must be made’: how to live well after mid-life",
-            "standfirst": "We are living longer and longer, but many of us are unprepared for the challenges age brings, says the novelist and psychotherapist Frank TallisWe have never lived so long, so well, nor had more available advice on how to do so: don’t smoke, don’t drink, don’t eat ultraprocessed foods; lift weights, get outside, learn a language. Cosmetics – or surgery – have never been so available, so advanced, nor so widely used; we take for granted medical procedures that previous ages would have considered miracles. And something’s clearly working: average global life expectancy is the highest in recorded history. The fastest growing demographic is now the over-80s.There is much public hand-wringing about the burdens this ageing population will place on health and care systems, and on younger people. But what is far less talked about, argues the clinical psychologist Frank Tallis in his new book, Wise, is how to get older well: not just in physical, but in mental good health. Continue reading...",
-            "content": "We are living longer and longer, but many of us are unprepared for the challenges age brings, says the novelist and psychotherapist Frank TallisWe have never lived so long, so well, nor had more available advice on how to do so: don’t smoke, don’t drink, don’t eat ultraprocessed foods; lift weights, get outside, learn a language. Cosmetics – or surgery – have never been so available, so advanced, nor so widely used; we take for granted medical procedures that previous ages would have considered miracles. And something’s clearly working: average global life expectancy is the highest in recorded history. The fastest growing demographic is now the over-80s.There is much public hand-wringing about the burdens this ageing population will place on health and care systems, and on younger people. But what is far less talked about, argues the clinical psychologist Frank Tallis in his new book, Wise, is how to get older well: not just in physical, but in mental good health. Continue reading...",
-            "feed_position": 5
-          }
-        ],
-        "ai_summary": [
-          "People are living longer and need to prepare for age challenges",
-          "Average global life expectancy is at a record high",
-          "The over-80s are the fastest growing demographic",
-          "Medical procedures have improved significantly",
-          "People need to focus on physical and mental health"
+          "Patients are being put at risk by these investigations",
+          "Dr Gilby won a £1.4m bullying payout",
+          "She was unfairly dismissed after raising concerns"
         ]
       },
       {
@@ -337,23 +339,48 @@
             "title": "Florida Republicans advance bill to weaken vaccine protections for children",
             "standfirst": "But effort fell short of state surgeon general’s promise to end Florida’s immunization mandates altogetherRepublicans advanced a bill in the Florida legislature this week to weaken vaccine protections for children, but it fell well short of state surgeon general Joseph Ladapo’s promise made last year to end immunization mandates.The proposed new law, introduced by Jacksonville state senator Clay Yarborough, and which narrowly passed the chamber’s health policy committee on Monday in a 6-4 vote, seeks only to expand exemptions for parents who do not want their school-age children vaccinated. Continue reading...",
             "content": "But effort fell short of state surgeon general’s promise to end Florida’s immunization mandates altogetherRepublicans advanced a bill in the Florida legislature this week to weaken vaccine protections for children, but it fell well short of state surgeon general Joseph Ladapo’s promise made last year to end immunization mandates.The proposed new law, introduced by Jacksonville state senator Clay Yarborough, and which narrowly passed the chamber’s health policy committee on Monday in a 6-4 vote, seeks only to expand exemptions for parents who do not want their school-age children vaccinated. Continue reading...",
-            "feed_position": 6
+            "feed_position": 5
           }
         ],
         "ai_summary": [
-          "A bill to weaken vaccine protections has been advanced",
+          "Republicans advanced a bill to weaken vaccine protections",
           "The bill expands exemptions for parents",
-          "The state surgeon general promised to end immunization mandates",
+          "State surgeon general promised to end immunization mandates",
           "The bill fell short of the surgeon general's promise",
-          "Vaccine protections for children are being reduced"
+          "The bill seeks to expand exemptions for school-age children"
         ]
       },
       {
         "id": "cluster_10",
         "coverage": 1,
+        "updated_at": "Sun, 01 Feb 2026 16:00:31 GMT",
+        "title": "‘Adjustments must be made’: how to live well after mid-life",
+        "neutral_headline": "Living Well After Mid Life Requires Adjustments",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/science/2026/feb/01/adjustments-live-well-after-mid-life-psychotherapist-frank-tallis",
+            "published_at": "Sun, 01 Feb 2026 16:00:31 GMT",
+            "title": "‘Adjustments must be made’: how to live well after mid-life",
+            "standfirst": "We are living longer and longer, but many of us are unprepared for the challenges age brings, says the novelist and psychotherapist Frank TallisWe have never lived so long, so well, nor had more available advice on how to do so: don’t smoke, don’t drink, don’t eat ultraprocessed foods; lift weights, get outside, learn a language. Cosmetics – or surgery – have never been so available, so advanced, nor so widely used; we take for granted medical procedures that previous ages would have considered miracles. And something’s clearly working: average global life expectancy is the highest in recorded history. The fastest growing demographic is now the over-80s.There is much public hand-wringing about the burdens this ageing population will place on health and care systems, and on younger people. But what is far less talked about, argues the clinical psychologist Frank Tallis in his new book, Wise, is how to get older well: not just in physical, but in mental good health. Continue reading...",
+            "content": "We are living longer and longer, but many of us are unprepared for the challenges age brings, says the novelist and psychotherapist Frank TallisWe have never lived so long, so well, nor had more available advice on how to do so: don’t smoke, don’t drink, don’t eat ultraprocessed foods; lift weights, get outside, learn a language. Cosmetics – or surgery – have never been so available, so advanced, nor so widely used; we take for granted medical procedures that previous ages would have considered miracles. And something’s clearly working: average global life expectancy is the highest in recorded history. The fastest growing demographic is now the over-80s.There is much public hand-wringing about the burdens this ageing population will place on health and care systems, and on younger people. But what is far less talked about, argues the clinical psychologist Frank Tallis in his new book, Wise, is how to get older well: not just in physical, but in mental good health. Continue reading...",
+            "feed_position": 6
+          }
+        ],
+        "ai_summary": [
+          "People are living longer and need to prepare",
+          "Average global life expectancy is the highest",
+          "The fastest growing demographic is the over-80s",
+          "Medical procedures have improved greatly",
+          "People need to focus on mental and physical health"
+        ]
+      },
+      {
+        "id": "cluster_11",
+        "coverage": 1,
         "updated_at": "Sun, 01 Feb 2026 15:06:01 GMT",
         "title": "Deaths of two more patients at Glasgow hospital under investigation",
-        "neutral_headline": "Glasgow Hospital Deaths Under Investigation",
+        "neutral_headline": "Deaths Of Patients At Glasgow Hospital Investigated",
         "items": [
           {
             "source": "Guardian Health",
@@ -366,15 +393,15 @@
           }
         ],
         "ai_summary": [
-          "Seven patient deaths at Glasgow hospital are being investigated",
-          "The deaths are linked to contaminated water and ventilation",
-          "Prosecutors are examining the cases",
-          "The hospital's water supply and ventilation are under scrutiny",
-          "The investigation is ongoing"
+          "Seven patient deaths are being investigated",
+          "The deaths are connected to Queen Elizabeth hospital",
+          "Cancer patients contracted infections from contaminated water",
+          "The hospital's ventilation system is also being examined",
+          "Prosecutors are looking into the deaths"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sun, 01 Feb 2026 13:00:29 GMT",
         "title": "US committee is reconsidering all vaccine recommendations",
@@ -391,15 +418,15 @@
           }
         ],
         "ai_summary": [
-          "The US vaccines committee is reconsidering all recommendations",
-          "The committee chair has criticized vaccination requirements",
-          "The move is a dramatic departure from previous policies",
-          "Vaccines should be taken on a doctor's advice",
-          "The committee is signaling a hostile approach to vaccines"
+          "The US vaccines committee is reconsidering recommendations",
+          "The committee is taking a dramatic departure from previous stance",
+          "The chair says vaccines should be taken on doctor's advice",
+          "The committee is signaling a hostile approach to vaccines",
+          "The move is a departure from established vaccine guidelines"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sun, 01 Feb 2026 13:00:28 GMT",
         "title": "Are protein bars good for you? We asked nutritionists",
@@ -416,19 +443,19 @@
           }
         ],
         "ai_summary": [
-          "Protein bars are a growing market in the US",
+          "Protein bars are a growing market",
           "Americans spent $50bn on protein snacks last year",
-          "Protein bars can be loaded with sugar and additives",
-          "Nutritionists are weighing in on the health benefits",
-          "The quality of protein bars varies widely"
+          "The market is expected to double by 2032",
+          "Protein bars are often loaded with sugar and additives",
+          "Nutritionists question the health benefits of protein bars"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sun, 01 Feb 2026 12:04:24 GMT",
         "title": "Reading was the key to breaking through the fog of my parents' dementia | Jo Glanville",
-        "neutral_headline": "Reading Helps Break Through Dementia Fog",
+        "neutral_headline": "Reading Helps With Dementia Patients",
         "items": [
           {
             "source": "Guardian Health",
@@ -441,19 +468,19 @@
           }
         ],
         "ai_summary": [
-          "Reading can help communicate with dementia patients",
-          "A novelist found reading helped her connect with parents",
-          "Dementia patients can respond to reading and storytelling",
-          "The approach can help caregivers connect with patients",
-          "Reading can be a powerful tool in dementia care"
+          "Reading can help with dementia patients",
+          "The author's mother had vascular dementia",
+          "The author's father had Parkinson's and dementia",
+          "Reading out loud can lead to discoveries",
+          "The experience of caring for dementia patients is challenging"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Sun, 01 Feb 2026 10:00:24 GMT",
         "title": "‘Menopause gold rush’? Boom in hi-tech products as stigma starts to recede",
-        "neutral_headline": "Menopause Gold Rush In Hi Tech Products",
+        "neutral_headline": "Menopause Tech Products On The Rise",
         "items": [
           {
             "source": "Guardian Health",
@@ -466,19 +493,19 @@
           }
         ],
         "ai_summary": [
-          "Wearable tech is being developed for menopausal women",
-          "The market for menopause products is growing",
-          "Stigma around menopause is starting to recede",
-          "Hi-tech products can help women track symptoms",
-          "The industry is responding to a long underserved market"
+          "Menopause tech products are becoming popular",
+          "Wearable tech is being used to aid menopausal women",
+          "The market for menopause products is underserved",
+          "Women are using gadgets to measure bodily functions",
+          "Menopause is a long underserved market"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sun, 01 Feb 2026 07:00:20 GMT",
         "title": "Ex-British army chief calls on ministers to back MDMA-assisted therapy for veterans",
-        "neutral_headline": "Ex British Army Chief Calls For MDMA Therapy",
+        "neutral_headline": "Ex British Army Chief Supports MDMA Therapy",
         "items": [
           {
             "source": "Guardian Health",
@@ -491,15 +518,15 @@
           }
         ],
         "ai_summary": [
-          "A former British army chief is calling for MDMA therapy",
-          "The treatment is for veterans with post-traumatic stress",
-          "Existing regulations make the treatment expensive",
-          "The cost of medical grade MDMA is high",
-          "The former chief is advocating for easier access to the treatment"
+          "Sir Nick Carter supports MDMA-assisted therapy",
+          "The therapy is for veterans with PTSD",
+          "Existing regulations make MDMA expensive",
+          "The cost of trials is being inflated",
+          "Carter wants the government to ease restrictions on MDMA"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Sun, 01 Feb 2026 06:00:20 GMT",
         "title": "‘I’m loving this era I’ve been thrust into’: Denise Welch on depression, daytime TV and her dramatic renaissance",
@@ -516,15 +543,15 @@
           }
         ],
         "ai_summary": [
-          "Denise Welch is speaking out about her depression",
-          "She has found a new sense of purpose and creativity",
-          "Welch is enjoying a dramatic renaissance in her career",
-          "She has been open about her struggles with addiction",
-          "Welch is now sober and focusing on her acting career"
+          "Denise Welch is enjoying a renaissance",
+          "She has been open about her depression",
+          "Welch is now sober and acting again",
+          "She has appeared in several TV shows",
+          "Welch is known for her outspoken opinions"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sun, 01 Feb 2026 06:00:19 GMT",
         "title": "PMDD is ruining my life. What can I do?",
@@ -541,17 +568,17 @@
           }
         ],
         "ai_summary": [
-          "A woman is struggling with premenstrual dysphoric disorder",
-          "She is experiencing debilitating symptoms every month",
-          "The woman is already taking supplements and exercising",
-          "She is seeking help and guidance on managing her symptoms",
-          "The condition is affecting every area of her life"
+          "The writer has premenstrual dysphoric disorder",
+          "PMDD affects every area of their life",
+          "The writer experiences irritability and brain fog",
+          "They are already taking supplements and exercising",
+          "The writer is seeking help for their condition"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-02T08:53:57.813Z",
+    "updated_at": "2026-02-02T11:35:37.673Z",
     "clusters": []
   }
 }
