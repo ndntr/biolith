@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-02-02T11:35:26.489Z",
+    "updated_at": "2026-02-02T23:28:43.050Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-02T11:35:37.673Z",
+    "updated_at": "2026-02-02T23:28:55.572Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/ef5337bf-8d4b-4668-ade2-48b645ad4ca2/Prostate-cancer-treatment-goes-on-PBS.aspx",
         "ai_summary": [
-          "Andriga-10 is now on PBS list",
+          "Andriga-10 is now on PBS",
           "Treatment combines medication and steroid",
-          "Helps aggressive prostate cancer",
-          "Patients can access treatment now",
-          "Medication is effective in trials"
+          "Aggressive prostate cancer is targeted",
+          "New treatment option is available",
+          "Patients may benefit from the listing"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/bc51a448-003e-4ef4-b2a2-54f132d2b74d/GPs-issue-urgent-medical-misinformation-warning.aspx",
         "ai_summary": [
-          "GPs warn about medical misinformation",
-          "Patients believe online mistruths",
-          "Doctors dispel myths in consults",
-          "Social media spreads false info",
-          "GPs urge patients to verify sources"
+          "Doctors warn about medical misinformation",
+          "Patients are misled by online information",
+          "GPs dispel mistruths during consults",
+          "Social media misinformation is a concern",
+          "Medical professionals address the issue"
         ]
       },
       {
@@ -80,24 +80,343 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/e3174d81-0d25-452f-b52c-833acfbf7439/Aspirin-ineffective-in-cutting-cancer-risk-in-older-adults-Study.aspx",
         "ai_summary": [
-          "Aspirin does not cut cancer risk",
-          "Study finds no effect on incidence",
-          "Healthy older adults not helped",
-          "Low-dose aspirin is ineffective",
-          "Researchers recommend alternative"
+          "Monash researchers conducted a study on aspirin",
+          "Low-dose aspirin has no effect on cancer incidence",
+          "Study focused on healthy older adults",
+          "Aspirin is commonly used for cancer prevention",
+          "Researchers found no significant benefits"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-02-02T11:35:36.067Z",
+    "updated_at": "2026-02-02T23:28:44.596Z",
     "clusters": [
+      {
+        "id": "cluster_2",
+        "coverage": 2,
+        "updated_at": "Mon, 02 Feb 2026 18:50:14 GMT",
+        "title": "Resident doctors in England vote to continue industrial action for another six months",
+        "neutral_headline": "Resident Doctors Vote To Continue Industrial Action",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/feb/02/resident-doctors-england-vote-continue-industrial-action",
+            "published_at": "Mon, 02 Feb 2026 18:50:14 GMT",
+            "title": "Resident doctors in England vote to continue industrial action for another six months",
+            "standfirst": "British Medical Association members back further action as union’s chair says ‘a deal is there to be done’Resident doctors in England have voted to strike for another six months in their long-running jobs and pay dispute with the government.Their decision means that, unless an agreement emerges, the campaign of strikes by resident – formerly junior – doctors will enter its fourth year, as the industrial action began in March 2023. Continue reading...",
+            "content": "British Medical Association members back further action as union’s chair says ‘a deal is there to be done’Resident doctors in England have voted to strike for another six months in their long-running jobs and pay dispute with the government.Their decision means that, unless an agreement emerges, the campaign of strikes by resident – formerly junior – doctors will enter its fourth year, as the industrial action began in March 2023. Continue reading...",
+            "feed_position": 2
+          },
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cy9yz3x332lo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 02 Feb 2026 16:20:28 GMT",
+            "title": "Resident doctors vote in favour of more strike action",
+            "standfirst": "Members of the British Medical Association have backed more walkouts in the dispute over pay and jobs in England.",
+            "content": "Members of the British Medical Association have backed more walkouts in the dispute over pay and jobs in England.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8594/live/f4f06a20-0056-11f1-adb4-9762ea1fdd4d.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8594/live/f4f06a20-0056-11f1-adb4-9762ea1fdd4d.jpg",
+        "ai_summary": [
+          "Resident doctors in England voted to strike",
+          "British Medical Association members backed further action",
+          "The strike is due to a jobs and pay dispute",
+          "The campaign of strikes will enter its fourth year",
+          "An agreement has not been reached yet"
+        ]
+      },
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Mon, 02 Feb 2026 22:37:07 GMT",
+        "title": "Florida couple sue fertility clinic after being implanted with wrong embryo",
+        "neutral_headline": "Couple Sues Fertility Clinic Over Wrong Embryo",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2026/feb/02/florida-fertility-clinic-embryo-lawsuit",
+            "published_at": "Mon, 02 Feb 2026 22:37:07 GMT",
+            "title": "Florida couple sue fertility clinic after being implanted with wrong embryo",
+            "standfirst": "Couple say they love their daughter immeasurably but have a moral obligation to try to find child’s biological parentsA couple is suing a Florida fertility clinic after learning that they were implanted with the wrong embryo, and are going public with their attempts to find their child’s biological parents.Tiffany Score and Steven Mills have filed a lawsuit against IVF Life Inc, which operates as the Fertility Center of Orlando, and its lead physician, Dr Milton McNichol. The suit, which was initially filed under pseudonyms to protect their family’s privacy, states that three viable embryos were created with Score’s eggs and Mills’s sperm, and an embryo was successfully implanted in April 2025. Continue reading...",
+            "content": "Couple say they love their daughter immeasurably but have a moral obligation to try to find child’s biological parentsA couple is suing a Florida fertility clinic after learning that they were implanted with the wrong embryo, and are going public with their attempts to find their child’s biological parents.Tiffany Score and Steven Mills have filed a lawsuit against IVF Life Inc, which operates as the Fertility Center of Orlando, and its lead physician, Dr Milton McNichol. The suit, which was initially filed under pseudonyms to protect their family’s privacy, states that three viable embryos were created with Score’s eggs and Mills’s sperm, and an embryo was successfully implanted in April 2025. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "A couple sued a Florida fertility clinic",
+          "They were implanted with the wrong embryo",
+          "The couple wants to find their child's biological parents",
+          "The clinic is operated by IVF Life Inc",
+          "The lawsuit was initially filed under pseudonyms"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Mon, 02 Feb 2026 21:30:01 GMT",
+        "title": "RFK Jr announces $100m in grants to address homelessness and substance use",
+        "neutral_headline": "RFK Jr Announces Grants For Homelessness And Substance Use",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2026/feb/02/rfk-jr-grants-homelessness-substance-abuse",
+            "published_at": "Mon, 02 Feb 2026 21:30:01 GMT",
+            "title": "RFK Jr announces $100m in grants to address homelessness and substance use",
+            "standfirst": "Kennedy’s pilot program to offer funding for long-term recovery after Trump signed order related to addictionRobert F Kennedy Jr announced on Monday $100m in new grants for a pilot program aimed at addressing homelessness and substance use recovery in eight cities, building on an executive order Donald Trump signed last week related to addiction.The funds will be distributed as part of the Safety Through Recovery, Engagement, and Evidence-based Treatment and Supports (Streets) program, which will be managed by the Substance Abuse and Mental Health Services Administration (Samhsa) within the Department of Health and Human Services. Continue reading...",
+            "content": "Kennedy’s pilot program to offer funding for long-term recovery after Trump signed order related to addictionRobert F Kennedy Jr announced on Monday $100m in new grants for a pilot program aimed at addressing homelessness and substance use recovery in eight cities, building on an executive order Donald Trump signed last week related to addiction.The funds will be distributed as part of the Safety Through Recovery, Engagement, and Evidence-based Treatment and Supports (Streets) program, which will be managed by the Substance Abuse and Mental Health Services Administration (Samhsa) within the Department of Health and Human Services. Continue reading...",
+            "feed_position": 1
+          }
+        ],
+        "ai_summary": [
+          "Robert F Kennedy Jr announced $100m in grants",
+          "The grants will address homelessness and substance use",
+          "The program is called Safety Through Recovery",
+          "The funds will be distributed to eight cities",
+          "The program aims to support long-term recovery"
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Mon, 02 Feb 2026 17:54:11 GMT",
+        "title": "Lack of mental health beds contributed to UK teenager’s death, inquest finds",
+        "neutral_headline": "Shortage Of Mental Health Beds Contributed To Teenager's Death",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/feb/02/lack-of-mental-health-beds-ellame-ford-dunn-death-inquest",
+            "published_at": "Mon, 02 Feb 2026 17:54:11 GMT",
+            "title": "Lack of mental health beds contributed to UK teenager’s death, inquest finds",
+            "standfirst": "Poor communication also cited as factor in death of Ellame Ford-Dunn, 16, on Worthing hospital’s groundsA shortage of mental health beds and poor communication between agencies contributed to the death of a teenage girl on hospital grounds, an inquest has found.Ellame Ford-Dunn, 16, who had a history of self-harm, died in March 2022 after absconding from an acute children’s ward where she had been put because of a dearth of appropriate mental health beds. Continue reading...",
+            "content": "Poor communication also cited as factor in death of Ellame Ford-Dunn, 16, on Worthing hospital’s groundsA shortage of mental health beds and poor communication between agencies contributed to the death of a teenage girl on hospital grounds, an inquest has found.Ellame Ford-Dunn, 16, who had a history of self-harm, died in March 2022 after absconding from an acute children’s ward where she had been put because of a dearth of appropriate mental health beds. Continue reading...",
+            "feed_position": 3
+          }
+        ],
+        "ai_summary": [
+          "A shortage of mental health beds contributed to a death",
+          "The death occurred on hospital grounds in the UK",
+          "Poor communication was also a contributing factor",
+          "The teenager had a history of self-harm",
+          "The inquest found the hospital was at fault"
+        ]
+      },
+      {
+        "id": "cluster_4",
+        "coverage": 1,
+        "updated_at": "Mon, 02 Feb 2026 16:26:06 GMT",
+        "title": "Support new mothers with mental ill health | Letter",
+        "neutral_headline": "Support Needed For New Mothers With Mental Ill Health",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/feb/02/support-new-mothers-with-mental-ill-health",
+            "published_at": "Mon, 02 Feb 2026 16:26:06 GMT",
+            "title": "Support new mothers with mental ill health | Letter",
+            "standfirst": "Perinatal mental illness is eminently treatable, and women and their partners should not suffer in silence, says Dr Livia MartucciEvery day, many new mothers continue to suffer in silence, as highlighted in your article (Seven out of 10 UK mothers feel overloaded, research reveals, 28 January). The Royal College of Psychiatrists revealed postnatal depression harmed up to 85,000 new mums in England last year.Maternal suicide is one of the leading causes of death among women between six weeks and a year after birth. Perinatal mental illness accounts for 34% of all deaths in this group during this period. Untreated prenatal and antenatal mental illness also affects unborn infants, potentially putting them at risk of premature birth and low birth weight. Parents may find it difficult to bond with their baby once they are born, which can contribute to attachment issues. Continue reading...",
+            "content": "Perinatal mental illness is eminently treatable, and women and their partners should not suffer in silence, says Dr Livia MartucciEvery day, many new mothers continue to suffer in silence, as highlighted in your article (Seven out of 10 UK mothers feel overloaded, research reveals, 28 January). The Royal College of Psychiatrists revealed postnatal depression harmed up to 85,000 new mums in England last year.Maternal suicide is one of the leading causes of death among women between six weeks and a year after birth. Perinatal mental illness accounts for 34% of all deaths in this group during this period. Untreated prenatal and antenatal mental illness also affects unborn infants, potentially putting them at risk of premature birth and low birth weight. Parents may find it difficult to bond with their baby once they are born, which can contribute to attachment issues. Continue reading...",
+            "feed_position": 4
+          }
+        ],
+        "ai_summary": [
+          "New mothers with mental ill health need support",
+          "Perinatal mental illness is a treatable condition",
+          "Maternal suicide is a leading cause of death",
+          "Untreated mental illness affects unborn infants",
+          "Parents may struggle to bond with their baby"
+        ]
+      },
+      {
+        "id": "cluster_5",
+        "coverage": 1,
+        "updated_at": "Mon, 02 Feb 2026 15:39:01 GMT",
+        "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
+        "neutral_headline": "Nasa Moon Mission To Launch In February",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 02 Feb 2026 15:39:01 GMT",
+            "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
+            "standfirst": "The first crewed Moon mission in 50 years could launch in February, ahead of a future lunar landing.",
+            "content": "The first crewed Moon mission in 50 years could launch in February, ahead of a future lunar landing.",
+            "feed_position": 27,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a00/live/e35f0660-ed44-11f0-8cc8-8329494b82ad.png"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a00/live/e35f0660-ed44-11f0-8cc8-8329494b82ad.png",
+        "ai_summary": [
+          "The Nasa Moon mission will launch in February",
+          "The mission is the first crewed Moon mission in 50 years",
+          "The Artemis II crew will be on board",
+          "The mission is a step towards a future lunar landing",
+          "The launch date is subject to change"
+        ]
+      },
+      {
+        "id": "cluster_6",
+        "coverage": 1,
+        "updated_at": "Mon, 02 Feb 2026 14:44:18 GMT",
+        "title": "Autism and ADHD assessments are a 'postcode lottery'",
+        "neutral_headline": "Autism And ADHD Assessments Are A Postcode Lottery",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/videos/ce8exx5n2kko?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 02 Feb 2026 14:44:18 GMT",
+            "title": "Autism and ADHD assessments are a 'postcode lottery'",
+            "standfirst": "A Scottish Parliament committee is calling for urgent action to improve assessments for autism and ADHD.",
+            "content": "A Scottish Parliament committee is calling for urgent action to improve assessments for autism and ADHD.",
+            "feed_position": 113,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b2/live/9c8b8e40-003e-11f1-a8b8-bdd2c5f9bcad.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b2/live/9c8b8e40-003e-11f1-a8b8-bdd2c5f9bcad.jpg",
+        "ai_summary": [
+          "Autism and ADHD assessments vary by location",
+          "A Scottish Parliament committee is calling for action",
+          "The assessments are a postcode lottery",
+          "The committee wants to improve the assessment process",
+          "Urgent action is needed to address the issue"
+        ]
+      },
+      {
+        "id": "cluster_7",
+        "coverage": 1,
+        "updated_at": "Mon, 02 Feb 2026 14:24:59 GMT",
+        "title": "Street where residents are terrified of flooding to be bulldozed",
+        "neutral_headline": "Flood Prone Street To Be Bulldozed",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/ckgl62rx6l2o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 02 Feb 2026 14:24:59 GMT",
+            "title": "Street where residents are terrified of flooding to be bulldozed",
+            "standfirst": "Homes on a street at severe risk of flooding will be bought by a local council.",
+            "content": "Homes on a street at severe risk of flooding will be bought by a local council.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74c0/live/5cea6920-003c-11f1-a8b8-bdd2c5f9bcad.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74c0/live/5cea6920-003c-11f1-a8b8-bdd2c5f9bcad.jpg",
+        "ai_summary": [
+          "A street at risk of flooding will be bulldozed",
+          "The homes on the street will be bought by the council",
+          "The street is at severe risk of flooding",
+          "The council is taking action to prevent flooding",
+          "The residents will be relocated"
+        ]
+      },
+      {
+        "id": "cluster_8",
+        "coverage": 1,
+        "updated_at": "Mon, 02 Feb 2026 14:00:12 GMT",
+        "title": "Royal Mail-owned courier faces tribunal over drivers’ rights",
+        "neutral_headline": "Royal Mail Owned Courier Faces Tribunal Over Drivers Rights",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/business/2026/feb/02/royal-mail-owned-ecourier-tribunal-drivers-rights",
+            "published_at": "Mon, 02 Feb 2026 14:00:12 GMT",
+            "title": "Royal Mail-owned courier faces tribunal over drivers’ rights",
+            "standfirst": "Dozens of eCourier workers who deliver vital NHS samples claim they are classed wrongly as self-employedDozens of drivers are taking legal action against a Royal Mail-owned courier service, arguing that they are entitled to workers’ rights.The 46 drivers are classified as self-employed by eCourier. They work around the clock making deliveries, including transporting vital blood and tissue samples to and from NHS hospitals. Continue reading...",
+            "content": "Dozens of eCourier workers who deliver vital NHS samples claim they are classed wrongly as self-employedDozens of drivers are taking legal action against a Royal Mail-owned courier service, arguing that they are entitled to workers’ rights.The 46 drivers are classified as self-employed by eCourier. They work around the clock making deliveries, including transporting vital blood and tissue samples to and from NHS hospitals. Continue reading...",
+            "feed_position": 5
+          }
+        ],
+        "ai_summary": [
+          "A Royal Mail owned courier is facing a tribunal",
+          "Dozens of drivers are taking legal action",
+          "The drivers claim they are entitled to workers rights",
+          "They are classified as self-employed by the courier",
+          "The drivers work around the clock making deliveries"
+        ]
+      },
+      {
+        "id": "cluster_9",
+        "coverage": 1,
+        "updated_at": "Mon, 02 Feb 2026 13:00:10 GMT",
+        "title": "These states voted to protect abortion rights. Conservative lawmakers are not standing down",
+        "neutral_headline": "Conservative Lawmakers Not Standing Down On Abortion",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/world/2026/feb/02/abortion-rights-conservative-lawmakers",
+            "published_at": "Mon, 02 Feb 2026 13:00:10 GMT",
+            "title": "These states voted to protect abortion rights. Conservative lawmakers are not standing down",
+            "standfirst": "A trial in Missouri illustrates how hard it is to restore abortion rights, even when voters demand itAfter Missouri residents voted to repeal their state’s near-total abortion ban and enshrine abortion rights into their state constitution, advocates quickly got to work. In a lawsuit filed the day after the 2024 election, abortion providers challenged not only the constitutionality of the state’s ban, but also a slew of other restrictions that, they said, made their jobs so arduous as to be impossible.More than a year later, they are still in court. Continue reading...",
+            "content": "A trial in Missouri illustrates how hard it is to restore abortion rights, even when voters demand itAfter Missouri residents voted to repeal their state’s near-total abortion ban and enshrine abortion rights into their state constitution, advocates quickly got to work. In a lawsuit filed the day after the 2024 election, abortion providers challenged not only the constitutionality of the state’s ban, but also a slew of other restrictions that, they said, made their jobs so arduous as to be impossible.More than a year later, they are still in court. Continue reading...",
+            "feed_position": 6
+          }
+        ],
+        "ai_summary": [
+          "Conservative lawmakers are not standing down on abortion",
+          "A trial in Missouri is challenging abortion restrictions",
+          "The restrictions make it hard for providers to work",
+          "The lawsuit was filed after a state election",
+          "The case is still in court after a year"
+        ]
+      },
+      {
+        "id": "cluster_10",
+        "coverage": 1,
+        "updated_at": "Mon, 02 Feb 2026 12:55:59 GMT",
+        "title": "The 'fantastic' baby bundles not every mum will get",
+        "neutral_headline": "Baby Boxes Delivered To Expectant Families",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cj4lg1xqp0zo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 02 Feb 2026 12:55:59 GMT",
+            "title": "The 'fantastic' baby bundles not every mum will get",
+            "standfirst": "Baby boxes are being delivered to expectant families in some of Wales' most deprived areas.",
+            "content": "Baby boxes are being delivered to expectant families in some of Wales' most deprived areas.",
+            "feed_position": 4,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77b0/live/edbe89b0-0035-11f1-b7e1-afb6d0884c18.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77b0/live/edbe89b0-0035-11f1-b7e1-afb6d0884c18.jpg",
+        "ai_summary": [
+          "Baby boxes are being delivered to expectant families",
+          "The boxes are being delivered in deprived areas",
+          "The boxes contain essential items for newborns",
+          "The program aims to support new families",
+          "The boxes are part of a larger support initiative"
+        ]
+      },
+      {
+        "id": "cluster_11",
+        "coverage": 1,
+        "updated_at": "Mon, 02 Feb 2026 12:00:10 GMT",
+        "title": "Public health crisis unfolding in Minneapolis as residents avoid healthcare",
+        "neutral_headline": "Public Health Crisis Unfolding In Minneapolis",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2026/feb/02/public-health-crisis-minneapolis-ice",
+            "published_at": "Mon, 02 Feb 2026 12:00:10 GMT",
+            "title": "Public health crisis unfolding in Minneapolis as residents avoid healthcare",
+            "standfirst": "Providers are arranging home visits and telehealth as neighbors pick up prescriptions, groceries and diapersA public health crisis is unfolding in Minnesota as people targeted by federal agents are afraid to seek healthcare while some healthcare staff are also fearful for their safety at work.Community organizations and health providers are now arranging home visits, telehealth appointments and other alternate care. Continue reading...",
+            "content": "Providers are arranging home visits and telehealth as neighbors pick up prescriptions, groceries and diapersA public health crisis is unfolding in Minnesota as people targeted by federal agents are afraid to seek healthcare while some healthcare staff are also fearful for their safety at work.Community organizations and health providers are now arranging home visits, telehealth appointments and other alternate care. Continue reading...",
+            "feed_position": 7
+          }
+        ],
+        "ai_summary": [
+          "A public health crisis is unfolding in Minneapolis",
+          "Residents are avoiding healthcare due to fear",
+          "Healthcare providers are arranging home visits",
+          "Telehealth appointments are also being arranged",
+          "The crisis is affecting the community"
+        ]
+      },
+      {
+        "id": "cluster_12",
+        "coverage": 1,
         "updated_at": "Mon, 02 Feb 2026 10:26:52 GMT",
         "title": "Couple to re-start trek around Britain's coastline",
-        "neutral_headline": "Couple Resumes Britain Coastline Trek",
+        "neutral_headline": "Couple To Restart Trek Around Britain's Coastline",
         "items": [
           {
             "source": "BBC Health",
@@ -107,20 +426,20 @@
             "standfirst": "After having to halt their first attempt due to an injury, the couple are ready to set off again.",
             "content": "After having to halt their first attempt due to an injury, the couple are ready to set off again.",
             "feed_position": 104,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/845a/live/bf2329f0-fd27-11f0-890b-55ca0a00c59d.png"
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c45b/live/fcf8f090-002c-11f1-a8b8-bdd2c5f9bcad.png"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/845a/live/bf2329f0-fd27-11f0-890b-55ca0a00c59d.png",
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c45b/live/fcf8f090-002c-11f1-a8b8-bdd2c5f9bcad.png",
         "ai_summary": [
-          "Couple resumes trek around Britain",
-          "Previous attempt was halted due injury",
-          "Couple is now ready to continue",
-          "Trek will cover entire coastline",
-          "Couple is determined to finish"
+          "A couple is restarting their trek around Britain",
+          "The couple had to halt their first attempt due to injury",
+          "They are now ready to set off again",
+          "The trek is around Britain's coastline",
+          "The couple is determined to complete the trek"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 02 Feb 2026 10:10:03 GMT",
         "title": "What does 'quiet resilience' look like?",
@@ -134,51 +453,24 @@
             "standfirst": "Kimberley Wilson talks to psychologist and therapist Dr Sula Windgassen on how to build \"quiet\" or \"flexible\" resilience.",
             "content": "Kimberley Wilson talks to psychologist and therapist Dr Sula Windgassen on how to build \"quiet\" or \"flexible\" resilience.",
             "feed_position": 105,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/036a/live/f26ba4f0-fdee-11f0-a8b8-bdd2c5f9bcad.jpg"
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41cc/live/610cd260-002b-11f1-a8b8-bdd2c5f9bcad.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/036a/live/f26ba4f0-fdee-11f0-a8b8-bdd2c5f9bcad.jpg",
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41cc/live/610cd260-002b-11f1-a8b8-bdd2c5f9bcad.jpg",
         "ai_summary": [
-          "Quiet resilience is a new concept",
-          "It involves flexible coping mechanisms",
-          "Helps individuals deal with stress",
-          "Involves building mental strength",
-          "Can be developed through practice"
+          "Quiet resilience is a type of flexible resilience",
+          "It involves building coping mechanisms",
+          "Psychologist Dr Sula Windgassen is an expert",
+          "Quiet resilience can help with mental health",
+          "It is a valuable tool for everyday life"
         ]
       },
       {
-        "id": "cluster_2",
-        "coverage": 1,
-        "updated_at": "Mon, 02 Feb 2026 07:17:22 GMT",
-        "title": "Street where residents are terrified of flooding could be bulldozed",
-        "neutral_headline": "Flood Prone Street May Be Bulldozed",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/ckgl62rx6l2o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 02 Feb 2026 07:17:22 GMT",
-            "title": "Street where residents are terrified of flooding could be bulldozed",
-            "standfirst": "People on a street at risk of flooding will discover whether their homes are to be demolished.",
-            "content": "People on a street at risk of flooding will discover whether their homes are to be demolished.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/971b/live/a69adc30-fdda-11f0-a440-19d8ed03cea6.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/971b/live/a69adc30-fdda-11f0-a440-19d8ed03cea6.jpg",
-        "ai_summary": [
-          "Street at risk of flooding may be demolished",
-          "Residents are concerned about homes",
-          "Decision will be made soon",
-          "Flooding has caused significant damage",
-          "Residents are waiting for outcome"
-        ]
-      },
-      {
-        "id": "cluster_3",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Mon, 02 Feb 2026 05:00:48 GMT",
         "title": "Families call for inquiry into residential care charity that ran up £1.6m debt",
-        "neutral_headline": "Families Call For Inquiry Into Charity",
+        "neutral_headline": "Charity faces inquiry over debt and mismanagement",
         "items": [
           {
             "source": "Guardian Health",
@@ -187,23 +479,23 @@
             "title": "Families call for inquiry into residential care charity that ran up £1.6m debt",
             "standfirst": "William Blake House in Northants accused of mismanagement after revelation it paid one of its own trustees £1mA group of families have called for an urgent inquiry into a charity caring for their highly vulnerable disabled relatives which is under threat of closure after running up debts of £1.6m in unpaid taxes and paying £1m to one of its own trustees.Earlier this month, a judge gave the charity, William Blake House, just weeks to pay off its debts to HMRC or face a winding up order. The charity’s accounts show auditors have routinely questioned whether it is a viable business. Continue reading...",
             "content": "William Blake House in Northants accused of mismanagement after revelation it paid one of its own trustees £1mA group of families have called for an urgent inquiry into a charity caring for their highly vulnerable disabled relatives which is under threat of closure after running up debts of £1.6m in unpaid taxes and paying £1m to one of its own trustees.Earlier this month, a judge gave the charity, William Blake House, just weeks to pay off its debts to HMRC or face a winding up order. The charity’s accounts show auditors have routinely questioned whether it is a viable business. Continue reading...",
-            "feed_position": 0
+            "feed_position": 8
           }
         ],
         "ai_summary": [
-          "Families demand inquiry into charity",
-          "Charity has debts of 1.6 million pounds",
-          "Paid trustee one million pounds",
-          "Charity is at risk of closure",
-          "Families want answers and action"
+          "William Blake House charity runs up £1.6m debt",
+          "Charity paid one of its own trustees £1m",
+          "Families call for urgent inquiry into charity",
+          "Judge gives charity weeks to pay off debts",
+          "Auditors question charity's viability as business"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 02 Feb 2026 05:00:48 GMT",
         "title": "Do you like cat photos? Are you constantly distracted? You’re probably actually quite good at focusing: 10 myths about attention",
-        "neutral_headline": "Myths About Attention And Focus",
+        "neutral_headline": "Myths about attention and focus debunked",
         "items": [
           {
             "source": "Guardian Health",
@@ -212,23 +504,23 @@
             "title": "Do you like cat photos? Are you constantly distracted? You’re probably actually quite good at focusing: 10 myths about attention",
             "standfirst": "Every second, 11m bits of information enter our brains, which then efficiently prioritise them. We need to learn to work with the process, rather than against it It’s believed that we have about 50,000 thoughts a day: big, small, urgent, banal – “Did I leave the oven on?”. And those are just the ones that register. Subconsciously, we’re constantly sifting through a barrage of stimuli: background noise, clutter on our desks, the mere presence of our phones.Every second, 11m bits of information enter our brains. Just 0.0004% is perceived by our conscious minds, showing just how hard our brains are working to parse what’s sufficiently relevant to bring to our attention. Continue reading...",
             "content": "Every second, 11m bits of information enter our brains, which then efficiently prioritise them. We need to learn to work with the process, rather than against it It’s believed that we have about 50,000 thoughts a day: big, small, urgent, banal – “Did I leave the oven on?”. And those are just the ones that register. Subconsciously, we’re constantly sifting through a barrage of stimuli: background noise, clutter on our desks, the mere presence of our phones.Every second, 11m bits of information enter our brains. Just 0.0004% is perceived by our conscious minds, showing just how hard our brains are working to parse what’s sufficiently relevant to bring to our attention. Continue reading...",
-            "feed_position": 1
+            "feed_position": 9
           }
         ],
         "ai_summary": [
-          "Myths about attention are common",
-          "Brain processes 11 million bits info",
-          "Only 0.0004 percent is perceived",
-          "Attention is a complex process",
-          "Understanding it can improve focus"
+          "Brains process 11m bits of information per second",
+          "Only 0.0004% of information is perceived consciously",
+          "Humans have around 50,000 thoughts per day",
+          "Subconscious mind sifts through background stimuli",
+          "Brain prioritizes information efficiently always"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sun, 01 Feb 2026 18:50:48 GMT",
         "title": "‘Deadly postcode lottery’ restricting new cancer treatments in England, doctors say",
-        "neutral_headline": "Cancer Treatment Restricted By Postcode",
+        "neutral_headline": "Postcode lottery restricts cancer treatments",
         "items": [
           {
             "source": "Guardian Health",
@@ -237,23 +529,23 @@
             "title": "‘Deadly postcode lottery’ restricting new cancer treatments in England, doctors say",
             "standfirst": "Patients missing out on effective new radiotherapies widely used in other countries, health secretary toldCancer patients are being denied access to cutting-edge treatments on the NHS because of a “deadly postcode lottery” in access, doctors have warned.Patients in England are missing out on two innovative forms of radiotherapy that are known to be effective against several forms of the disease and are widely available in other countries, due to “red tape” and lack of funding. Continue reading...",
             "content": "Patients missing out on effective new radiotherapies widely used in other countries, health secretary toldCancer patients are being denied access to cutting-edge treatments on the NHS because of a “deadly postcode lottery” in access, doctors have warned.Patients in England are missing out on two innovative forms of radiotherapy that are known to be effective against several forms of the disease and are widely available in other countries, due to “red tape” and lack of funding. Continue reading...",
-            "feed_position": 2
+            "feed_position": 10
           }
         ],
         "ai_summary": [
-          "Cancer patients denied new treatments",
-          "Postcode lottery restricts access",
-          "Doctors warn about unequal access",
-          "Patients miss out on effective therapies",
-          "Health secretary is urged to act"
+          "Cancer patients denied access to new treatments",
+          "Doctors warn of deadly postcode lottery in England",
+          "Two innovative radiotherapies not available in England",
+          "Red tape and lack of funding restrict treatments",
+          "Patients in other countries have access to treatments"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Sun, 01 Feb 2026 17:42:56 GMT",
         "title": "Hospital disruption continues after fire",
-        "neutral_headline": "Hospital Disruption After Fire",
+        "neutral_headline": "Hospital disruption after fire continues",
         "items": [
           {
             "source": "BBC Health",
@@ -262,25 +554,25 @@
             "title": "Hospital disruption continues after fire",
             "standfirst": "Southampton General Hospital limits A&E admissions and cancels operations following blaze.",
             "content": "Southampton General Hospital limits A&E admissions and cancels operations following blaze.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ba0/live/19f8bc80-ff55-11f0-861a-555f9d353c11.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ba0/live/19f8bc80-ff55-11f0-861a-555f9d353c11.png",
         "ai_summary": [
-          "Hospital limits A&E admissions",
-          "Operations are cancelled due fire",
-          "Disruption is ongoing",
-          "Investigation into fire is underway",
-          "Hospital is working to resume services"
+          "Southampton General Hospital limits A&E admissions",
+          "Hospital cancels operations after fire",
+          "Fire causes disruption to hospital services",
+          "A&E admissions restricted due to fire",
+          "Operations cancelled until further notice"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sun, 01 Feb 2026 17:08:27 GMT",
         "title": "Mexico moves to combat pollution following Guardian investigations",
-        "neutral_headline": "Mexico Combats Pollution After Investigations",
+        "neutral_headline": "Mexico moves to combat pollution following investigations",
         "items": [
           {
             "source": "Guardian Health",
@@ -289,23 +581,23 @@
             "title": "Mexico moves to combat pollution following Guardian investigations",
             "standfirst": "After stories revealed high levels of contamination in neighborhood around factory processing US toxic waste, government announces sweeping array of tacticsThe Mexican government has announced it will pursue a sweeping array of tactics to combat industrial pollution, from $4.8m in fines against a plant processing US hazardous waste to the rollout of a new industrial air-monitoring system, following investigations by the Guardian and Quinto Elemento Lab, a Mexican investigative unit.Those stories revealed high levels of heavy-metal contamination in the neighborhood around the factory, Zinc Nacional, in the Monterrey metropolitan area, and showed the broader extent of industrial pollution in the region, linked to Monterrey’s role in manufacturing and recycling goods for the US market. Continue reading...",
             "content": "After stories revealed high levels of contamination in neighborhood around factory processing US toxic waste, government announces sweeping array of tacticsThe Mexican government has announced it will pursue a sweeping array of tactics to combat industrial pollution, from $4.8m in fines against a plant processing US hazardous waste to the rollout of a new industrial air-monitoring system, following investigations by the Guardian and Quinto Elemento Lab, a Mexican investigative unit.Those stories revealed high levels of heavy-metal contamination in the neighborhood around the factory, Zinc Nacional, in the Monterrey metropolitan area, and showed the broader extent of industrial pollution in the region, linked to Monterrey’s role in manufacturing and recycling goods for the US market. Continue reading...",
-            "feed_position": 3
+            "feed_position": 11
           }
         ],
         "ai_summary": [
-          "Mexico announces pollution crackdown",
-          "Fines and new monitoring system",
-          "Investigations revealed high contamination",
-          "Government takes action to combat",
-          "New measures aim to reduce pollution"
+          "Mexican government announces tactics to combat pollution",
+          "$4.8m in fines against plant processing toxic waste",
+          "New industrial air-monitoring system to be rolled out",
+          "Investigations revealed high levels of contamination",
+          "Government acts after Guardian investigations exposed pollution"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sun, 01 Feb 2026 17:00:32 GMT",
         "title": "NHS patients put at risk by ‘sham investigations’, says ex-CEO of hospital",
-        "neutral_headline": "NHS Patients At Risk From Sham Investigations",
+        "neutral_headline": "NHS patients put at risk by sham investigations",
         "items": [
           {
             "source": "Guardian Health",
@@ -314,271 +606,21 @@
             "title": "NHS patients put at risk by ‘sham investigations’, says ex-CEO of hospital",
             "standfirst": "Exclusive: Dr Susan Gilby, who won £1.4m bullying payout, says whistleblower protections must be strengthenedPatients are being put at risk by NHS bosses launching “sham investigations” into whistleblowers to shut down concerns, a former hospital chief executive who won a £1.4m bullying claim has said.Dr Susan Gilby took over as chief executive at the Countess of Chester hospital in 2018 after it was rocked by the Lucy Letby case. She was awarded the payout – one of the biggest in NHS history – last month after a tribunal ruled she had been unfairly dismissed after raising concerns about alleged bullying and harassment by the chair of the hospital board. Continue reading...",
             "content": "Exclusive: Dr Susan Gilby, who won £1.4m bullying payout, says whistleblower protections must be strengthenedPatients are being put at risk by NHS bosses launching “sham investigations” into whistleblowers to shut down concerns, a former hospital chief executive who won a £1.4m bullying claim has said.Dr Susan Gilby took over as chief executive at the Countess of Chester hospital in 2018 after it was rocked by the Lucy Letby case. She was awarded the payout – one of the biggest in NHS history – last month after a tribunal ruled she had been unfairly dismissed after raising concerns about alleged bullying and harassment by the chair of the hospital board. Continue reading...",
-            "feed_position": 4
-          }
-        ],
-        "ai_summary": [
-          "Dr Susan Gilby says NHS bosses launch sham investigations",
-          "Whistleblower protections must be strengthened",
-          "Patients are being put at risk by these investigations",
-          "Dr Gilby won a £1.4m bullying payout",
-          "She was unfairly dismissed after raising concerns"
-        ]
-      },
-      {
-        "id": "cluster_9",
-        "coverage": 1,
-        "updated_at": "Sun, 01 Feb 2026 16:00:31 GMT",
-        "title": "Florida Republicans advance bill to weaken vaccine protections for children",
-        "neutral_headline": "Florida Republicans Weaken Vaccine Protections",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/us-news/2026/feb/01/florida-bill-advances-weaken-vaccine-protections-children",
-            "published_at": "Sun, 01 Feb 2026 16:00:31 GMT",
-            "title": "Florida Republicans advance bill to weaken vaccine protections for children",
-            "standfirst": "But effort fell short of state surgeon general’s promise to end Florida’s immunization mandates altogetherRepublicans advanced a bill in the Florida legislature this week to weaken vaccine protections for children, but it fell well short of state surgeon general Joseph Ladapo’s promise made last year to end immunization mandates.The proposed new law, introduced by Jacksonville state senator Clay Yarborough, and which narrowly passed the chamber’s health policy committee on Monday in a 6-4 vote, seeks only to expand exemptions for parents who do not want their school-age children vaccinated. Continue reading...",
-            "content": "But effort fell short of state surgeon general’s promise to end Florida’s immunization mandates altogetherRepublicans advanced a bill in the Florida legislature this week to weaken vaccine protections for children, but it fell well short of state surgeon general Joseph Ladapo’s promise made last year to end immunization mandates.The proposed new law, introduced by Jacksonville state senator Clay Yarborough, and which narrowly passed the chamber’s health policy committee on Monday in a 6-4 vote, seeks only to expand exemptions for parents who do not want their school-age children vaccinated. Continue reading...",
-            "feed_position": 5
-          }
-        ],
-        "ai_summary": [
-          "Republicans advanced a bill to weaken vaccine protections",
-          "The bill expands exemptions for parents",
-          "State surgeon general promised to end immunization mandates",
-          "The bill fell short of the surgeon general's promise",
-          "The bill seeks to expand exemptions for school-age children"
-        ]
-      },
-      {
-        "id": "cluster_10",
-        "coverage": 1,
-        "updated_at": "Sun, 01 Feb 2026 16:00:31 GMT",
-        "title": "‘Adjustments must be made’: how to live well after mid-life",
-        "neutral_headline": "Living Well After Mid Life Requires Adjustments",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/science/2026/feb/01/adjustments-live-well-after-mid-life-psychotherapist-frank-tallis",
-            "published_at": "Sun, 01 Feb 2026 16:00:31 GMT",
-            "title": "‘Adjustments must be made’: how to live well after mid-life",
-            "standfirst": "We are living longer and longer, but many of us are unprepared for the challenges age brings, says the novelist and psychotherapist Frank TallisWe have never lived so long, so well, nor had more available advice on how to do so: don’t smoke, don’t drink, don’t eat ultraprocessed foods; lift weights, get outside, learn a language. Cosmetics – or surgery – have never been so available, so advanced, nor so widely used; we take for granted medical procedures that previous ages would have considered miracles. And something’s clearly working: average global life expectancy is the highest in recorded history. The fastest growing demographic is now the over-80s.There is much public hand-wringing about the burdens this ageing population will place on health and care systems, and on younger people. But what is far less talked about, argues the clinical psychologist Frank Tallis in his new book, Wise, is how to get older well: not just in physical, but in mental good health. Continue reading...",
-            "content": "We are living longer and longer, but many of us are unprepared for the challenges age brings, says the novelist and psychotherapist Frank TallisWe have never lived so long, so well, nor had more available advice on how to do so: don’t smoke, don’t drink, don’t eat ultraprocessed foods; lift weights, get outside, learn a language. Cosmetics – or surgery – have never been so available, so advanced, nor so widely used; we take for granted medical procedures that previous ages would have considered miracles. And something’s clearly working: average global life expectancy is the highest in recorded history. The fastest growing demographic is now the over-80s.There is much public hand-wringing about the burdens this ageing population will place on health and care systems, and on younger people. But what is far less talked about, argues the clinical psychologist Frank Tallis in his new book, Wise, is how to get older well: not just in physical, but in mental good health. Continue reading...",
-            "feed_position": 6
-          }
-        ],
-        "ai_summary": [
-          "People are living longer and need to prepare",
-          "Average global life expectancy is the highest",
-          "The fastest growing demographic is the over-80s",
-          "Medical procedures have improved greatly",
-          "People need to focus on mental and physical health"
-        ]
-      },
-      {
-        "id": "cluster_11",
-        "coverage": 1,
-        "updated_at": "Sun, 01 Feb 2026 15:06:01 GMT",
-        "title": "Deaths of two more patients at Glasgow hospital under investigation",
-        "neutral_headline": "Deaths Of Patients At Glasgow Hospital Investigated",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/uk-news/2026/feb/01/death-patients-glasgow-queen-elizabeth-university-hospital-investigated",
-            "published_at": "Sun, 01 Feb 2026 15:06:01 GMT",
-            "title": "Deaths of two more patients at Glasgow hospital under investigation",
-            "standfirst": "Prosecutors say seven deaths now being looked at in connection with Queen Elizabeth university hospitalThe deaths of seven patients at Glasgow’s landmark super-hospital are now being investigated, prosecutors have confirmed.The revelation that another two deaths are being examined after cancer patients, many of them children, contracted infections linked to Queen Elizabeth university hospital’s (QEUH) contaminated water supply and ventilation system, comes after Scottish Labour made public further evidence of political pressure being applied to open the campus in April 2015, just before the general election. Continue reading...",
-            "content": "Prosecutors say seven deaths now being looked at in connection with Queen Elizabeth university hospitalThe deaths of seven patients at Glasgow’s landmark super-hospital are now being investigated, prosecutors have confirmed.The revelation that another two deaths are being examined after cancer patients, many of them children, contracted infections linked to Queen Elizabeth university hospital’s (QEUH) contaminated water supply and ventilation system, comes after Scottish Labour made public further evidence of political pressure being applied to open the campus in April 2015, just before the general election. Continue reading...",
-            "feed_position": 7
-          }
-        ],
-        "ai_summary": [
-          "Seven patient deaths are being investigated",
-          "The deaths are connected to Queen Elizabeth hospital",
-          "Cancer patients contracted infections from contaminated water",
-          "The hospital's ventilation system is also being examined",
-          "Prosecutors are looking into the deaths"
-        ]
-      },
-      {
-        "id": "cluster_12",
-        "coverage": 1,
-        "updated_at": "Sun, 01 Feb 2026 13:00:29 GMT",
-        "title": "US committee is reconsidering all vaccine recommendations",
-        "neutral_headline": "US Committee Reconsiders Vaccine Recommendations",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/us-news/2026/feb/01/vaccine-recommendations-acip",
-            "published_at": "Sun, 01 Feb 2026 13:00:29 GMT",
-            "title": "US committee is reconsidering all vaccine recommendations",
-            "standfirst": "Move is dramatic departure for advisory group under Kirk Milhoan, who says he doesn’t like the term ‘established science’All vaccine recommendations are being reconsidered by the US’s vaccines committee, according to its top adviser, who in recent interviews slammed vaccination requirements for attending school and said vaccines should be taken on the advice of an individual’s doctor.The stance from Kirk Milhoan, chair of the Advisory Committee on Immunization Practices (ACIP), represents a dramatic departure for the group tasked with making US vaccine recommendations for decades, signaling an increasingly hostile approach from the Trump administration to routine vaccines. Continue reading...",
-            "content": "Move is dramatic departure for advisory group under Kirk Milhoan, who says he doesn’t like the term ‘established science’All vaccine recommendations are being reconsidered by the US’s vaccines committee, according to its top adviser, who in recent interviews slammed vaccination requirements for attending school and said vaccines should be taken on the advice of an individual’s doctor.The stance from Kirk Milhoan, chair of the Advisory Committee on Immunization Practices (ACIP), represents a dramatic departure for the group tasked with making US vaccine recommendations for decades, signaling an increasingly hostile approach from the Trump administration to routine vaccines. Continue reading...",
-            "feed_position": 8
-          }
-        ],
-        "ai_summary": [
-          "The US vaccines committee is reconsidering recommendations",
-          "The committee is taking a dramatic departure from previous stance",
-          "The chair says vaccines should be taken on doctor's advice",
-          "The committee is signaling a hostile approach to vaccines",
-          "The move is a departure from established vaccine guidelines"
-        ]
-      },
-      {
-        "id": "cluster_13",
-        "coverage": 1,
-        "updated_at": "Sun, 01 Feb 2026 13:00:28 GMT",
-        "title": "Are protein bars good for you? We asked nutritionists",
-        "neutral_headline": "Are Protein Bars Good For You",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/thefilter-us/2026/feb/01/are-protein-bars-healthy",
-            "published_at": "Sun, 01 Feb 2026 13:00:28 GMT",
-            "title": "Are protein bars good for you? We asked nutritionists",
-            "standfirst": "Is it bad to eat protein bars all the time? How much protein do we actually need? We asked a nutritionist and a sports dietician to weigh in‘Tastes like compacted dust’: the best (and worst) protein bars in the US – taste testedSign up for the Filter US newsletter, your weekly guide to buying fewer, better thingsWe are in a golden age of protein. Last year, Americans spent $50bn on protein snacks, and that figure is expected to double by 2032, according to Fortune Business Insights. Influencers peddle powders, shakes and supplements, urging their followers to consume amounts of protein appropriate for bodybuilders.Recently, the Guardian conducted a taste test of the top 12 protein bar brands in the US. (Only four bars passed our standards for “yes, tasty”.) But we also wanted to know just how healthy protein bars are, especially when many of those bars are loaded with sugar and additives. Should we even be eating them?Made with whole foods: RX Bar Continue reading...",
-            "content": "Is it bad to eat protein bars all the time? How much protein do we actually need? We asked a nutritionist and a sports dietician to weigh in‘Tastes like compacted dust’: the best (and worst) protein bars in the US – taste testedSign up for the Filter US newsletter, your weekly guide to buying fewer, better thingsWe are in a golden age of protein. Last year, Americans spent $50bn on protein snacks, and that figure is expected to double by 2032, according to Fortune Business Insights. Influencers peddle powders, shakes and supplements, urging their followers to consume amounts of protein appropriate for bodybuilders.Recently, the Guardian conducted a taste test of the top 12 protein bar brands in the US. (Only four bars passed our standards for “yes, tasty”.) But we also wanted to know just how healthy protein bars are, especially when many of those bars are loaded with sugar and additives. Should we even be eating them?Made with whole foods: RX Bar Continue reading...",
-            "feed_position": 9
-          }
-        ],
-        "ai_summary": [
-          "Protein bars are a growing market",
-          "Americans spent $50bn on protein snacks last year",
-          "The market is expected to double by 2032",
-          "Protein bars are often loaded with sugar and additives",
-          "Nutritionists question the health benefits of protein bars"
-        ]
-      },
-      {
-        "id": "cluster_14",
-        "coverage": 1,
-        "updated_at": "Sun, 01 Feb 2026 12:04:24 GMT",
-        "title": "Reading was the key to breaking through the fog of my parents' dementia | Jo Glanville",
-        "neutral_headline": "Reading Helps With Dementia Patients",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/commentisfree/2026/feb/01/reading-key-breaking-through-fog-parents-dementia",
-            "published_at": "Sun, 01 Feb 2026 12:04:24 GMT",
-            "title": "Reading was the key to breaking through the fog of my parents' dementia | Jo Glanville",
-            "standfirst": "It was hard to communicate with my mother or father, until reading a book out loud led to a discoveryThe novelist Ian McEwan has advocated for the extension of assisted dying to people with dementia, commenting on the deeply distressing experience of his own mother: “By the time my mother was well advanced and could not recognise anyone, she was dead. She was alive and dead all at once. It was a terrible thing. And the burden on those closest is also part of the radioactive damage of it all.”My mother, Pamela, a journalist, died of vascular dementia 10 years ago. My father, the football journalist and novelist Brian Glanville, died of Parkinson’s last year after living with the illness for five years. He also had a milder form of dementia. “Radioactive damage” is certainly a vivid description of the impact of caring for someone living with a degenerative illness, but the perception that someone in the last stages of dementia may be “dead” feels wrong when I think of my parents. How are you to know what is happening in someone else’s brain? Continue reading...",
-            "content": "It was hard to communicate with my mother or father, until reading a book out loud led to a discoveryThe novelist Ian McEwan has advocated for the extension of assisted dying to people with dementia, commenting on the deeply distressing experience of his own mother: “By the time my mother was well advanced and could not recognise anyone, she was dead. She was alive and dead all at once. It was a terrible thing. And the burden on those closest is also part of the radioactive damage of it all.”My mother, Pamela, a journalist, died of vascular dementia 10 years ago. My father, the football journalist and novelist Brian Glanville, died of Parkinson’s last year after living with the illness for five years. He also had a milder form of dementia. “Radioactive damage” is certainly a vivid description of the impact of caring for someone living with a degenerative illness, but the perception that someone in the last stages of dementia may be “dead” feels wrong when I think of my parents. How are you to know what is happening in someone else’s brain? Continue reading...",
-            "feed_position": 10
-          }
-        ],
-        "ai_summary": [
-          "Reading can help with dementia patients",
-          "The author's mother had vascular dementia",
-          "The author's father had Parkinson's and dementia",
-          "Reading out loud can lead to discoveries",
-          "The experience of caring for dementia patients is challenging"
-        ]
-      },
-      {
-        "id": "cluster_15",
-        "coverage": 1,
-        "updated_at": "Sun, 01 Feb 2026 10:00:24 GMT",
-        "title": "‘Menopause gold rush’? Boom in hi-tech products as stigma starts to recede",
-        "neutral_headline": "Menopause Tech Products On The Rise",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/feb/01/menopause-gold-rush-experts-warn-of-brands-cashing-in-on-womens-symptoms",
-            "published_at": "Sun, 01 Feb 2026 10:00:24 GMT",
-            "title": "‘Menopause gold rush’? Boom in hi-tech products as stigma starts to recede",
-            "standfirst": "The march of wearable tech is coming to the aid of women in what some say is a long underserved marketFor any bodily function you want to measure these days there is a gadget – a wristband for step-counting, a watch to track your heart rate or a ring for measuring sleep.Now the march of wearable tech is coming to the aid of what some say is a long underserved market: menopausal women. Continue reading...",
-            "content": "The march of wearable tech is coming to the aid of women in what some say is a long underserved marketFor any bodily function you want to measure these days there is a gadget – a wristband for step-counting, a watch to track your heart rate or a ring for measuring sleep.Now the march of wearable tech is coming to the aid of what some say is a long underserved market: menopausal women. Continue reading...",
-            "feed_position": 11
-          }
-        ],
-        "ai_summary": [
-          "Menopause tech products are becoming popular",
-          "Wearable tech is being used to aid menopausal women",
-          "The market for menopause products is underserved",
-          "Women are using gadgets to measure bodily functions",
-          "Menopause is a long underserved market"
-        ]
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Sun, 01 Feb 2026 07:00:20 GMT",
-        "title": "Ex-British army chief calls on ministers to back MDMA-assisted therapy for veterans",
-        "neutral_headline": "Ex British Army Chief Supports MDMA Therapy",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/uk-news/2026/feb/01/british-army-chief-government-drugs-mdma-therapy-veterans",
-            "published_at": "Sun, 01 Feb 2026 07:00:20 GMT",
-            "title": "Ex-British army chief calls on ministers to back MDMA-assisted therapy for veterans",
-            "standfirst": "Nick Carter says easing controls on MDMA will allow drug to be used as alternative treatment for those with PTSDA former head of the British military is calling for the government to ease restrictions on the party drug MDMA so that it can be tested more cheaply as a treatment for veterans with post-traumatic stress disorder (PTSD).Sir Nick Carter, who was chief of the defence staff until 2021, said existing regulations meant a single gram of “medical grade” MDMA cost about £10,000 compared with a street price of about £40, inflating the cost of trials. Continue reading...",
-            "content": "Nick Carter says easing controls on MDMA will allow drug to be used as alternative treatment for those with PTSDA former head of the British military is calling for the government to ease restrictions on the party drug MDMA so that it can be tested more cheaply as a treatment for veterans with post-traumatic stress disorder (PTSD).Sir Nick Carter, who was chief of the defence staff until 2021, said existing regulations meant a single gram of “medical grade” MDMA cost about £10,000 compared with a street price of about £40, inflating the cost of trials. Continue reading...",
             "feed_position": 12
           }
         ],
         "ai_summary": [
-          "Sir Nick Carter supports MDMA-assisted therapy",
-          "The therapy is for veterans with PTSD",
-          "Existing regulations make MDMA expensive",
-          "The cost of trials is being inflated",
-          "Carter wants the government to ease restrictions on MDMA"
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Sun, 01 Feb 2026 06:00:20 GMT",
-        "title": "‘I’m loving this era I’ve been thrust into’: Denise Welch on depression, daytime TV and her dramatic renaissance",
-        "neutral_headline": "Denise Welch On Depression And Renaissance",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/feb/01/denise-welch-loose-women-depression-daytime-tv-dramatic-renaissance",
-            "published_at": "Sun, 01 Feb 2026 06:00:20 GMT",
-            "title": "‘I’m loving this era I’ve been thrust into’: Denise Welch on depression, daytime TV and her dramatic renaissance",
-            "standfirst": "She’s gone from ‘queen of the soaps’ to Loose Woman known for her outspoken opinions and rockstar son Matty Healy. Now sober, she is enjoying another reinventionDenise Welch doesn’t seem the kind of woman who would turn up with an entourage. But here she is having her hair primped in a makeshift changing room by two people. One tickling her fringe, the other tweaking her tufts. Blimey, I say, have you got two assistants? She grins. “No. There are three.” And now it turns out she’s got a fourth. I offer to make her a cup of coffee. She warns me she’s fussy. “Three teaspoons of Coffee-Mate, please.”Welch is having a moment. She calls it, with a fabulously camp flourish, her renaissance. The actor and Loose Women regular has hardly been invisible in recent years. But this is on another level. For most of the 2000s, she has been best known for dishing out blithe opinions about anything and everything, and being the mother of the 1975’s frontman, Matty Healy. Now, though, it’s the acting that’s getting the attention. Earlier this month, she returned to the drama series Waterloo Road as the hopeless French teacher Steph Haydock after a 15‑year absence. This time around, she’s a supply teacher and is even more hopeless. Welch has also got parts in the new Russell T Davies drama series Tip Toe, the Josh Pugh sitcom Stepping Up, both on Channel 4, and the adaptation of Graham Norton’s novel Forever Home. Continue reading...",
-            "content": "She’s gone from ‘queen of the soaps’ to Loose Woman known for her outspoken opinions and rockstar son Matty Healy. Now sober, she is enjoying another reinventionDenise Welch doesn’t seem the kind of woman who would turn up with an entourage. But here she is having her hair primped in a makeshift changing room by two people. One tickling her fringe, the other tweaking her tufts. Blimey, I say, have you got two assistants? She grins. “No. There are three.” And now it turns out she’s got a fourth. I offer to make her a cup of coffee. She warns me she’s fussy. “Three teaspoons of Coffee-Mate, please.”Welch is having a moment. She calls it, with a fabulously camp flourish, her renaissance. The actor and Loose Women regular has hardly been invisible in recent years. But this is on another level. For most of the 2000s, she has been best known for dishing out blithe opinions about anything and everything, and being the mother of the 1975’s frontman, Matty Healy. Now, though, it’s the acting that’s getting the attention. Earlier this month, she returned to the drama series Waterloo Road as the hopeless French teacher Steph Haydock after a 15‑year absence. This time around, she’s a supply teacher and is even more hopeless. Welch has also got parts in the new Russell T Davies drama series Tip Toe, the Josh Pugh sitcom Stepping Up, both on Channel 4, and the adaptation of Graham Norton’s novel Forever Home. Continue reading...",
-            "feed_position": 13
-          }
-        ],
-        "ai_summary": [
-          "Denise Welch is enjoying a renaissance",
-          "She has been open about her depression",
-          "Welch is now sober and acting again",
-          "She has appeared in several TV shows",
-          "Welch is known for her outspoken opinions"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Sun, 01 Feb 2026 06:00:19 GMT",
-        "title": "PMDD is ruining my life. What can I do?",
-        "neutral_headline": "PMDD Is Ruining My Life What Can I Do",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/feb/01/pmdd-premenstrual-dysphoric-disorder-symptoms-treatment",
-            "published_at": "Sun, 01 Feb 2026 06:00:19 GMT",
-            "title": "PMDD is ruining my life. What can I do?",
-            "standfirst": "You’re already doing all the right things for your premenstrual dysphoric disorder, but perhaps it’s time to ask others for more helpI’m 32, and was recently diagnosed with premenstrual dysphoric disorder (PMDD), though I suspect I have had it for around five years. It severely affects every area of my life.For 10 days every month I become irritable and impatient, and have debilitating brain fog. At my worst, I am depressed, with uncontrollable crying and suicidal ideation. I go to weekly therapy sessions, take a variety of supplements, and live a healthy lifestyle – exercise, minimal alcohol, eating well, etc, but all these habits become almost impossible during my luteal phase after ovulation and I feel as though I am completely stuck. Continue reading...",
-            "content": "You’re already doing all the right things for your premenstrual dysphoric disorder, but perhaps it’s time to ask others for more helpI’m 32, and was recently diagnosed with premenstrual dysphoric disorder (PMDD), though I suspect I have had it for around five years. It severely affects every area of my life.For 10 days every month I become irritable and impatient, and have debilitating brain fog. At my worst, I am depressed, with uncontrollable crying and suicidal ideation. I go to weekly therapy sessions, take a variety of supplements, and live a healthy lifestyle – exercise, minimal alcohol, eating well, etc, but all these habits become almost impossible during my luteal phase after ovulation and I feel as though I am completely stuck. Continue reading...",
-            "feed_position": 14
-          }
-        ],
-        "ai_summary": [
-          "The writer has premenstrual dysphoric disorder",
-          "PMDD affects every area of their life",
-          "The writer experiences irritability and brain fog",
-          "They are already taking supplements and exercising",
-          "The writer is seeking help for their condition"
+          "Former hospital CEO says sham investigations harm patients",
+          "Dr Susan Gilby won £1.4m bullying payout",
+          "Whistleblower protections must be strengthened",
+          "NHS bosses launch sham investigations into whistleblowers",
+          "Patients put at risk by inadequate investigations always"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-02T11:35:37.673Z",
+    "updated_at": "2026-02-02T23:28:55.572Z",
     "clusters": []
   }
 }
