@@ -1,12 +1,49 @@
 {
-  "updated_at": "2026-02-03T23:28:19.010Z",
+  "updated_at": "2026-02-04T04:28:45.028Z",
   "clusters": [
     {
-      "id": "cluster_5",
+      "id": "cluster_21",
+      "coverage": 2,
+      "updated_at": "Tue, 03 Feb 2026 18:50:02 -0500",
+      "title": "On an earnings call, AMD CEO Lisa Su says Microsoft's next-gen Xbox \"is progressing well to support a launch in 2027\" and will feature an AMD semi-custom SoC (Tom Warren/The Verge)",
+      "neutral_headline": "AMD CEO Discusses Next Gen Xbox",
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/260203/p46#a260203p46",
+          "published_at": "Tue, 03 Feb 2026 18:50:02 -0500",
+          "title": "On an earnings call, AMD CEO Lisa Su says Microsoft's next-gen Xbox \"is progressing well to support a launch in 2027\" and will feature an AMD semi-custom SoC (Tom Warren/The Verge)",
+          "standfirst": "Tom Warren / The Verge: On an earnings call, AMD CEO Lisa Su says Microsoft's next-gen Xbox &ldquo;is progressing well to support a launch in 2027&rdquo; and will feature an AMD semi-custom SoC &mdash; AMD says it's ready to support Microsoft launching its next Xbox as soon as next year.",
+          "content": "Tom Warren / The Verge: On an earnings call, AMD CEO Lisa Su says Microsoft's next-gen Xbox &ldquo;is progressing well to support a launch in 2027&rdquo; and will feature an AMD semi-custom SoC &mdash; AMD says it's ready to support Microsoft launching its next Xbox as soon as next year.",
+          "feed_position": 9,
+          "image_url": "http://www.techmeme.com/260203/i46.jpg"
+        },
+        {
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/873490/microsoft-next-gen-xbox-console-2027-date-amd",
+          "published_at": "2026-02-03T18:22:37-05:00",
+          "title": "AMD hints Microsoft could launch its next-gen Xbox in 2027",
+          "standfirst": "Microsoft confirmed last year that it's working on a next-gen Xbox console in partnership with AMD. Now, AMD is hinting that the next Xbox console, which will use custom AMD chips, could be launching in 2027. \"Development of Microsoft's next-gen Xbox, featuring an AMD semi-custom SoC, is progressing well to support a launch in 2027,\" [&#8230;]",
+          "content": "Microsoft confirmed last year that it's working on a next-gen Xbox console in partnership with AMD. Now, AMD is hinting that the next Xbox console, which will use custom AMD chips, could be launching in 2027. \"Development of Microsoft's next-gen Xbox, featuring an AMD semi-custom SoC, is progressing well to support a launch in 2027,\" said AMD CEO Lisa Su on an earnings call today. The brief comment doesn't confirm Microsoft will launch a new Xbox in 2027, but it does reveal that AMD is ready to support a launch then if Microsoft is also ready. Microsoft entered a \"strategic multi-year partnership\" with AMD last year that includes the pair … Read the full story at The Verge.",
+          "feed_position": 2
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260203/i46.jpg",
+      "popularity_score": 2015.3547144444444,
+      "ai_summary": [
+        "AMD CEO Lisa Su discusses next gen Xbox",
+        "Xbox launch is planned for 2027",
+        "AMD semi custom SoC will be featured",
+        "Development of Xbox is progressing well",
+        "Launch date is subject to change"
+      ]
+    },
+    {
+      "id": "cluster_31",
       "coverage": 2,
       "updated_at": "Tue, 03 Feb 2026 22:47:00 GMT",
       "title": "Qwen3-Coder-Next offers vibe coders a powerful open source, ultra-sparse model with 10x higher throughput for repo tasks",
-      "neutral_headline": "Alibaba Releases Qwen3 Coder Next Model",
+      "neutral_headline": "Qwen3 Coder Next Model Released",
       "items": [
         {
           "source": "VentureBeat",
@@ -23,8 +60,8 @@
           "url": "https://venturebeat.com/technology/apple-integrates-anthropics-claude-and-openais-codex-into-xcode-26-3-in-push",
           "published_at": "Tue, 03 Feb 2026 20:45:00 GMT",
           "title": "Apple integrates Anthropic’s Claude and OpenAI’s Codex into Xcode 26.3 in push for ‘agentic coding’",
-          "standfirst": "Apple on Tuesday announced a major update to its flagship developer tool that gives artificial intelligence agents unprecedented control over the app-building process, a move that signals the iPhone maker&#x27;s aggressive push into an emerging and controversial practice known as \"agentic coding.\"Xcode 26.3, available immediately as a release candidate, integrates Anthropic&#x27;s Claude Agent and OpenAI&#x27;s Codex directly into Apple&#x27;s development environment, allowing the AI systems to autonomously write code, build projects, run tests, and visually verify their own work — all with minimal human oversight.The update is Apple&#x27;s most significant embrace of AI-assisted software development since introducing intelligence features in Xcode 26 last year, and arrives as \"vibe coding\" — the practice of delegating software creation to large language models — has become one of the most debated topics in technology.\"Integrating intelligence into the Xcode developer workflow is powerful, but the model itself still has a somewhat limited aperture,\" Tim Sneath, an Apple executive, said during a press conference Tuesday morning. \"It answers questions based on what the developer provides, but it doesn&#x27;t have access to the full context of the project, and it&#x27;s not able today to take action on its own. And so that changes today.\"How Apple&#x27;s new AI coding features let developers build apps faster than everThe key innovation in Xcode 26.3 is the depth of integration between AI agents and Apple&#x27;s development tools. Unlike previous iterations that offered code suggestions and autocomplete features, the new system grants AI agents access to nearly every aspect of the development process.During a live demonstration, Jerome Bouvard, an Apple engineer, showed how the Claude agent could receive a simple prompt — \"add a new feature to show the weather at a landmark\" — and then independently analyze the project&#x27;s file structure, consult Apple&#x27;s documentation, write the necessary code, build the project, and take screenshots of the running application to verify its work matched the requested design.\"The agent is able to use the tools like build or, you know, grabbing a preview of the screenshots to verify its work, visually analyze the image and confirm that everything has been built accordingly,\" Bouvard explained. \"Before that, when you&#x27;re interacting with a model, the model will provide you an answer and it will just stop there.\"The system creates automatic checkpoints as developers interact with the AI, allowing them to roll back changes if results prove unsatisfactory — a safeguard that acknowledges the unpredictable nature of AI-generated code.Apple worked directly with Anthropic and OpenAI to optimize the experience, Sneath said, with particular attention paid to reducing token usage — the computational units that determine costs when using cloud-based AI models — and improving the efficiency of tool calling.\"Developers can download new agents with a single click, and they update automatically,\" Sneath noted.Why Apple&#x27;s adoption of the Model Context Protocol could reshape the AI development landscapeUnderlying the integration is the Model Context Protocol, or MCP, an open standard that Anthropic developed for connecting AI agents with external tools. Apple&#x27;s adoption of MCP means that any compatible agent — not just Claude or Codex — can now interact with Xcode&#x27;s capabilities.\"This also works for agents that are running outside of Xcode,\" Sneath explained. \"Any agent that is compatible with MCP can now work with Xcode to do all the same things—Project Discovery and change management, building and testing apps, working with previews and code snippets, and accessing the latest documentation.\"The decision to embrace an open protocol, rather than building a proprietary system, represents a notable departure for Apple, which has historically favored closed ecosystems. It also positions Xcode as a potential hub for a growing universe of AI development tools.Xcode&#x27;s troubled history with AI tools — and why Apple says this time is differentThe announcement comes against a backdrop of mixed experiences with AI-assisted coding in Apple&#x27;s tools. During the press conference, one developer described previous attempts to use AI agents with Xcode as \"horrible,\" citing constant crashes and an inability to complete basic tasks.Sneath acknowledged the concerns while arguing that the new integration addresses fundamental limitations of earlier approaches.\"The big shift here is that Claude and Codex have so much more visibility into the breadth of the project,\" he said. \"If they hallucinate and write code that doesn&#x27;t work, they can now build. They can see the compile errors, and they can iterate in real time to fix those issues, and we&#x27;ll do so in this case before you even, you know, presented it as a finished work.\"The power of IDE integration, Sneath argued, extends beyond error correction. Agents can now automatically add entitlements to projects when needed to access protected APIs — a task that would be \"otherwise very difficult to do\" for an AI operating outside the development environment and \"dealing with binary file that it may not have the file format for.\"From Andrej Karpathy&#x27;s tweet to LinkedIn certifications: The unstoppable rise of vibe codingApple&#x27;s announcement arrives at a crucial moment in the evolution of AI-assisted development. The term \"vibe coding,\" coined by AI researcher Andrej Karpathy in early 2025, has transformed from a curiosity into a genuine cultural phenomenon that is reshaping how software gets built.LinkedIn announced last week that it will begin offering official certifications in AI coding skills, drawing on usage data from platforms like Lovable and Replit. Job postings requiring AI proficiency doubled in the past year, according to edX research, with Indeed&#x27;s Hiring Lab reporting that 4.2% of U.S. job listings now mention AI-related keywords.The enthusiasm is driven by genuine productivity gains. Casey Newton, the technology journalist, recently described building a complete personal website using Claude Code in about an hour — a task that previously required expensive Squarespace subscriptions and years of frustrated attempts with various website builders.More dramatically, Jaana Dogan, a principal engineer at Google, posted that she gave Claude Code \"a description of the problem\" and \"it generated what we built last year in an hour.\" Her post, which accumulated more than 8 million views, began with the disclaimer: \"I&#x27;m not joking and this isn&#x27;t funny.\"Security experts warn that AI-generated code could lead to &#x27;catastrophic explosions&#x27;But the rapid adoption of agentic coding has also sparked significant concerns among security researchers and software engineers.David Mytton, founder and CEO of developer security provider Arcjet, warned last month that the proliferation of vibe-coded applications \"into production will lead to catastrophic problems for organizations that don&#x27;t properly review AI-developed software.\"\"In 2026, I expect more and more vibe-coded applications hitting production in a big way,\" Mytton wrote. \"That&#x27;s going to be great for velocity… but you&#x27;ve still got to pay attention. There&#x27;s going to be some big explosions coming!\"Simon Willison, co-creator of the Django web framework, drew an even starker comparison. \"I think we&#x27;re due a Challenger disaster with respect to coding agent security,\" he said, referring to the 1986 space shuttle explosion that killed all seven crew members. \"So many people, myself included, are running these coding agents practically as root. We&#x27;re letting them do all of this stuff.\"A pre-print paper from researchers this week warned that vibe coding could pose existential risks to the open-source software ecosystem. The study found that AI-assisted development pulls user interaction away from community projects, reduces visits to documentation websites and forums, and makes launching new open-source initiatives significantly harder.Stack Overflow usage has plummeted as developers increasingly turn to AI chatbots for answers—a shift that could ultimately starve the very knowledge bases that trained the AI models in the first place.Previous research painted an even more troubling picture: a 2024 report found that vibe coding using tools like GitHub Copilot \"offered no real benefits unless adding 41% more bugs is a measure of success.\"The hidden mental health cost of letting AI write your codeEven enthusiastic adopters have begun acknowledging the darker aspects of AI-assisted development.Peter Steinberger, creator of the viral AI agent originally known as Clawdbot (now OpenClaw), recently revealed that he had to step back from vibe coding after it consumed his life.\"I was out with my friends and instead of joining the conversation in the restaurant, I was just like, vibe coding on my phone,\" Steinberger said in a recent podcast interview. \"I decided, OK, I have to stop this more for my mental health than for anything else.\"Steinberger warned that the constant building of increasingly powerful AI tools creates the \"illusion of making you more productive\" without necessarily advancing real goals. \"If you don&#x27;t have a vision of what you&#x27;re going to build, it&#x27;s still going to be slop,\" he added.Google CEO Sundar Pichai has expressed similar reservations, saying he won&#x27;t vibe code on \"large codebases where you really have to get it right.\"\"The security has to be there,\" Pichai said in a November podcast interview.Boris Cherny, the Anthropic engineer who created Claude Code, acknowledged that vibe coding works best for \"prototypes or throwaway code, not software that sits at the core of a business.\"\"You want maintainable code sometimes. You want to be very thoughtful about every line sometimes,\" Cherny said.Apple is gambling that deep IDE integration can make AI coding safe for productionApple appears to be betting that the benefits of deep IDE integration can mitigate many of these concerns. By giving AI agents access to build systems, test suites, and visual verification tools, the company is essentially arguing that Xcode can serve as a quality control mechanism for AI-generated code.Susan Prescott, Apple&#x27;s vice president of Worldwide Developer Relations, framed the update as part of Apple&#x27;s broader mission.\"At Apple, our goal is to make tools that put industry-leading technologies directly in developers&#x27; hands so they can build the very best apps,\" Prescott said in a statement. \"Agentic coding supercharges productivity and creativity, streamlining the development workflow so developers can focus on innovation.\"But the question remains whether the safeguards will prove sufficient as AI agents grow more autonomous. Asked about debugging capabilities, Bouvard noted that while Xcode has \"a very powerful debugger built in,\" there is \"no direct MCP tool for debugging.\"Developers can run the debugger and manually relay information to the agent, but the AI cannot yet independently investigate runtime issues — a limitation that could prove significant as the complexity of AI-generated code increases.The update also does not currently support running multiple agents simultaneously on the same project, though Sneath noted that developers can open projects in multiple Xcode windows using Git worktrees as a workaround.The future of software development hangs in the balance — and Apple just raised the stakesXcode 26.3 is available immediately as a release candidate for members of the Apple Developer Program, with a general release expected soon on the App Store. The release candidate designation — Apple&#x27;s final beta before production — means developers who download today will automatically receive the finished version when it ships.The integration supports both API keys and direct account credentials from OpenAI and Anthropic, offering developers flexibility in managing their AI subscriptions. But those conveniences belie the magnitude of what Apple is attempting: nothing less than a fundamental reimagining of how software comes into existence.For the world&#x27;s most valuable company, the calculus is straightforward. Apple&#x27;s ability to attract and retain developers has always underpinned its platform dominance. If agentic coding delivers on its promise of radical productivity gains, early and deep integration could cement Apple&#x27;s position for another generation. If it doesn&#x27;t — if the security disasters and \"catastrophic explosions\" that critics predict come to pass — Cupertino could find itself at the epicenter of a very different kind of transformation.The technology industry has spent decades building systems to catch human errors before they reach users. Now it must answer a more unsettling question: What happens when the errors aren&#x27;t human at all?As Sneath conceded during Tuesday&#x27;s press conference, with what may prove to be unintentional understatement: \"Large language models, as agents sometimes do, sometimes hallucinate.\"Millions of lines of code are about to find out how often.",
-          "content": "Apple on Tuesday announced a major update to its flagship developer tool that gives artificial intelligence agents unprecedented control over the app-building process, a move that signals the iPhone maker&#x27;s aggressive push into an emerging and controversial practice known as \"agentic coding.\"Xcode 26.3, available immediately as a release candidate, integrates Anthropic&#x27;s Claude Agent and OpenAI&#x27;s Codex directly into Apple&#x27;s development environment, allowing the AI systems to autonomously write code, build projects, run tests, and visually verify their own work — all with minimal human oversight.The update is Apple&#x27;s most significant embrace of AI-assisted software development since introducing intelligence features in Xcode 26 last year, and arrives as \"vibe coding\" — the practice of delegating software creation to large language models — has become one of the most debated topics in technology.\"Integrating intelligence into the Xcode developer workflow is powerful, but the model itself still has a somewhat limited aperture,\" Tim Sneath, an Apple executive, said during a press conference Tuesday morning. \"It answers questions based on what the developer provides, but it doesn&#x27;t have access to the full context of the project, and it&#x27;s not able today to take action on its own. And so that changes today.\"How Apple&#x27;s new AI coding features let developers build apps faster than everThe key innovation in Xcode 26.3 is the depth of integration between AI agents and Apple&#x27;s development tools. Unlike previous iterations that offered code suggestions and autocomplete features, the new system grants AI agents access to nearly every aspect of the development process.During a live demonstration, Jerome Bouvard, an Apple engineer, showed how the Claude agent could receive a simple prompt — \"add a new feature to show the weather at a landmark\" — and then independently analyze the project&#x27;s file structure, consult Apple&#x27;s documentation, write the necessary code, build the project, and take screenshots of the running application to verify its work matched the requested design.\"The agent is able to use the tools like build or, you know, grabbing a preview of the screenshots to verify its work, visually analyze the image and confirm that everything has been built accordingly,\" Bouvard explained. \"Before that, when you&#x27;re interacting with a model, the model will provide you an answer and it will just stop there.\"The system creates automatic checkpoints as developers interact with the AI, allowing them to roll back changes if results prove unsatisfactory — a safeguard that acknowledges the unpredictable nature of AI-generated code.Apple worked directly with Anthropic and OpenAI to optimize the experience, Sneath said, with particular attention paid to reducing token usage — the computational units that determine costs when using cloud-based AI models — and improving the efficiency of tool calling.\"Developers can download new agents with a single click, and they update automatically,\" Sneath noted.Why Apple&#x27;s adoption of the Model Context Protocol could reshape the AI development landscapeUnderlying the integration is the Model Context Protocol, or MCP, an open standard that Anthropic developed for connecting AI agents with external tools. Apple&#x27;s adoption of MCP means that any compatible agent — not just Claude or Codex — can now interact with Xcode&#x27;s capabilities.\"This also works for agents that are running outside of Xcode,\" Sneath explained. \"Any agent that is compatible with MCP can now work with Xcode to do all the same things—Project Discovery and change management, building and testing apps, working with previews and code snippets, and accessing the latest documentation.\"The decision to embrace an open protocol, rather than building a proprietary system, represents a notable departure for Apple, which has historically favored closed ecosystems. It also positions Xcode as a potential hub for a growing universe of AI development tools.Xcode&#x27;s troubled history with AI tools — and why Apple says this time is differentThe announcement comes against a backdrop of mixed experiences with AI-assisted coding in Apple&#x27;s tools. During the press conference, one developer described previous attempts to use AI agents with Xcode as \"horrible,\" citing constant crashes and an inability to complete basic tasks.Sneath acknowledged the concerns while arguing that the new integration addresses fundamental limitations of earlier approaches.\"The big shift here is that Claude and Codex have so much more visibility into the breadth of the project,\" he said. \"If they hallucinate and write code that doesn&#x27;t work, they can now build. They can see the compile errors, and they can iterate in real time to fix those issues, and we&#x27;ll do so in this case before you even, you know, presented it as a finished work.\"The power of IDE integration, Sneath argued, extends beyond error correction. Agents can now automatically add entitlements to projects when needed to access protected APIs — a task that would be \"otherwise very difficult to do\" for an AI operating outside the development environment and \"dealing with binary file that it may not have the file format for.\"From Andrej Karpathy&#x27;s tweet to LinkedIn certifications: The unstoppable rise of vibe codingApple&#x27;s announcement arrives at a crucial moment in the evolution of AI-assisted development. The term \"vibe coding,\" coined by AI researcher Andrej Karpathy in early 2025, has transformed from a curiosity into a genuine cultural phenomenon that is reshaping how software gets built.LinkedIn announced last week that it will begin offering official certifications in AI coding skills, drawing on usage data from platforms like Lovable and Replit. Job postings requiring AI proficiency doubled in the past year, according to edX research, with Indeed&#x27;s Hiring Lab reporting that 4.2% of U.S. job listings now mention AI-related keywords.The enthusiasm is driven by genuine productivity gains. Casey Newton, the technology journalist, recently described building a complete personal website using Claude Code in about an hour — a task that previously required expensive Squarespace subscriptions and years of frustrated attempts with various website builders.More dramatically, Jaana Dogan, a principal engineer at Google, posted that she gave Claude Code \"a description of the problem\" and \"it generated what we built last year in an hour.\" Her post, which accumulated more than 8 million views, began with the disclaimer: \"I&#x27;m not joking and this isn&#x27;t funny.\"Security experts warn that AI-generated code could lead to &#x27;catastrophic explosions&#x27;But the rapid adoption of agentic coding has also sparked significant concerns among security researchers and software engineers.David Mytton, founder and CEO of developer security provider Arcjet, warned last month that the proliferation of vibe-coded applications \"into production will lead to catastrophic problems for organizations that don&#x27;t properly review AI-developed software.\"\"In 2026, I expect more and more vibe-coded applications hitting production in a big way,\" Mytton wrote. \"That&#x27;s going to be great for velocity… but you&#x27;ve still got to pay attention. There&#x27;s going to be some big explosions coming!\"Simon Willison, co-creator of the Django web framework, drew an even starker comparison. \"I think we&#x27;re due a Challenger disaster with respect to coding agent security,\" he said, referring to the 1986 space shuttle explosion that killed all seven crew members. \"So many people, myself included, are running these coding agents practically as root. We&#x27;re letting them do all of this stuff.\"A pre-print paper from researchers this week warned that vibe coding could pose existential risks to the open-source software ecosystem. The study found that AI-assisted development pulls user interaction away from community projects, reduces visits to documentation websites and forums, and makes launching new open-source initiatives significantly harder.Stack Overflow usage has plummeted as developers increasingly turn to AI chatbots for answers—a shift that could ultimately starve the very knowledge bases that trained the AI models in the first place.Previous research painted an even more troubling picture: a 2024 report found that vibe coding using tools like GitHub Copilot \"offered no real benefits unless adding 41% more bugs is a measure of success.\"The hidden mental health cost of letting AI write your codeEven enthusiastic adopters have begun acknowledging the darker aspects of AI-assisted development.Peter Steinberger, creator of the viral AI agent originally known as Clawdbot (now OpenClaw), recently revealed that he had to step back from vibe coding after it consumed his life.\"I was out with my friends and instead of joining the conversation in the restaurant, I was just like, vibe coding on my phone,\" Steinberger said in a recent podcast interview. \"I decided, OK, I have to stop this more for my mental health than for anything else.\"Steinberger warned that the constant building of increasingly powerful AI tools creates the \"illusion of making you more productive\" without necessarily advancing real goals. \"If you don&#x27;t have a vision of what you&#x27;re going to build, it&#x27;s still going to be slop,\" he added.Google CEO Sundar Pichai has expressed similar reservations, saying he won&#x27;t vibe code on \"large codebases where you really have to get it right.\"\"The security has to be there,\" Pichai said in a November podcast interview.Boris Cherny, the Anthropic engineer who created Claude Code, acknowledged that vibe coding works best for \"prototypes or throwaway code, not software that sits at the core of a business.\"\"You want maintainable code sometimes. You want to be very thoughtful about every line sometimes,\" Cherny said.Apple is gambling that deep IDE integration can make AI coding safe for productionApple appears to be betting that the benefits of deep IDE integration can mitigate many of these concerns. By giving AI agents access to build systems, test suites, and visual verification tools, the company is essentially arguing that Xcode can serve as a quality control mechanism for AI-generated code.Susan Prescott, Apple&#x27;s vice president of Worldwide Developer Relations, framed the update as part of Apple&#x27;s broader mission.\"At Apple, our goal is to make tools that put industry-leading technologies directly in developers&#x27; hands so they can build the very best apps,\" Prescott said in a statement. \"Agentic coding supercharges productivity and creativity, streamlining the development workflow so developers can focus on innovation.\"But the question remains whether the safeguards will prove sufficient as AI agents grow more autonomous. Asked about debugging capabilities, Bouvard noted that while Xcode has \"a very powerful debugger built in,\" there is \"no direct MCP tool for debugging.\"Developers can run the debugger and manually relay information to the agent, but the AI cannot yet independently investigate runtime issues — a limitation that could prove significant as the complexity of AI-generated code increases.The update also does not currently support running multiple agents simultaneously on the same project, though Sneath noted that developers can open projects in multiple Xcode windows using Git worktrees as a workaround.The future of software development hangs in the balance — and Apple just raised the stakesXcode 26.3 is available immediately as a release candidate for members of the Apple Developer Program, with a general release expected soon on the App Store. The release candidate designation — Apple&#x27;s final beta before production — means developers who download today will automatically receive the finished version when it ships.The integration supports both API keys and direct account credentials from OpenAI and Anthropic, offering developers flexibility in managing their AI subscriptions. But those conveniences belie the magnitude of what Apple is attempting: nothing less than a fundamental reimagining of how software comes into existence.For the world&#x27;s most valuable company, the calculus is straightforward. Apple&#x27;s ability to attract and retain developers has always underpinned its platform dominance. If agentic coding delivers on its promise of radical productivity gains, early and deep integration could cement Apple&#x27;s position for another generation. If it doesn&#x27;t — if the security disasters and \"catastrophic explosions\" that critics predict come to pass — Cupertino could find itself at the epicenter of a very different kind of transformation.The technology industry has spent decades building systems to catch human errors before they reach users. Now it must answer a more unsettling question: What happens when the errors aren&#x27;t human at all?As Sneath conceded during Tuesday&#x27;s press conference, with what may prove to be unintentional understatement: \"Large language models, as agents sometimes do, sometimes hallucinate.\"Millions of lines of code are about to find out how often.",
+          "standfirst": "Apple on Tuesday announced a major update to its flagship developer tool that gives artificial intelligence agents unprecedented control over the app-building process, a move that signals the iPhone maker&#x27;s aggressive push into an emerging and controversial practice known as \"agentic coding.\"Xcode 26.3, available immediately as a release candidate, integrates Anthropic&#x27;s Claude Agent and OpenAI&#x27;s Codex directly into Apple&#x27;s development environment, allowing the AI systems to autonomously write code, build projects, run tests, and visually verify their own work — all with minimal human oversight.The update is Apple&#x27;s most significant embrace of AI-assisted software development since introducing intelligence features in Xcode 26 last year, and arrives as \"vibe coding\" — the practice of delegating software creation to large language models — has become one of the most debated topics in technology.Apple says that while integrating intelligence into the Xcode developer workflow is powerful, the model itself still has a somewhat limited aperture. It answers questions based on what the developer provides, but it doesn&#x27;t have access to the full context of the project, and it&#x27;s not able to take action on its own. That changes with this update, the company said during a press conference Tuesday morning.How Apple&#x27;s new AI coding features let developers build apps faster than everThe key innovation in Xcode 26.3 is the depth of integration between AI agents and Apple&#x27;s development tools. Unlike previous iterations that offered code suggestions and autocomplete features, the new system grants AI agents access to nearly every aspect of the development process.During a live demonstration, an Apple engineer showed how the Claude agent could receive a simple prompt — \"add a new feature to show the weather at a landmark\" — and then independently analyze the project&#x27;s file structure, consult Apple&#x27;s documentation, write the necessary code, build the project, and take screenshots of the running application to verify its work matched the requested design.According to Apple, the agent is able to use tools like build and screenshot previews to verify its work, visually analyze the image, and confirm that everything has been built accordingly. Before, when interacting with a model, it would provide an answer and just stop there.The system creates automatic checkpoints as developers interact with the AI, allowing them to roll back changes if results prove unsatisfactory — a safeguard that acknowledges the unpredictable nature of AI-generated code.Apple says it worked directly with Anthropic and OpenAI to optimize the experience with particular attention paid to reducing token usage — the computational units that determine costs when using cloud-based AI models — and improving the efficiency of tool calling.According to the company, developers can download new agents with a single click, and they update automatically.Why Apple&#x27;s adoption of the Model Context Protocol could reshape the AI development landscapeUnderlying the integration is the Model Context Protocol, or MCP, an open standard that Anthropic developed for connecting AI agents with external tools. Apple&#x27;s adoption of MCP means that any compatible agent — not just Claude or Codex — can now interact with Xcode&#x27;s capabilities.Apple says this also works for agents that are running outside of Xcode. Any agent that is compatible with MCP can now work with Xcode to do all the same things — project discovery and change management, building and testing apps, working with previews and code snippets, and accessing the latest documentation.The decision to embrace an open protocol, rather than building a proprietary system, represents a notable departure for Apple, which has historically favored closed ecosystems. It also positions Xcode as a potential hub for a growing universe of AI development tools.Xcode&#x27;s troubled history with AI tools — and why Apple says this time is differentThe announcement comes against a backdrop of mixed experiences with AI-assisted coding in Apple&#x27;s tools. During the press conference, one developer described previous attempts to use AI agents with Xcode as \"horrible,\" citing constant crashes and an inability to complete basic tasks.Apple acknowledged the concerns while arguing that the new integration addresses fundamental limitations of earlier approaches.The company says the big shift is that Claude and Codex have so much more visibility into the breadth of the project. If they hallucinate and write code that doesn&#x27;t work, they can now build, see the compile errors, and iterate in real time to fix those issues — in some cases before presenting it as a finished work.Apple argues that the power of IDE integration extends beyond error correction. Agents can now automatically add entitlements to projects when needed to access protected APIs — a task the company says would be otherwise very difficult for an AI operating outside the development environment dealing with binary files it may not have the format for.From Andrej Karpathy&#x27;s tweet to LinkedIn certifications: The unstoppable rise of vibe codingApple&#x27;s announcement arrives at a crucial moment in the evolution of AI-assisted development. The term \"vibe coding,\" coined by AI researcher Andrej Karpathy in early 2025, has transformed from a curiosity into a genuine cultural phenomenon that is reshaping how software gets built.LinkedIn announced last week that it will begin offering official certifications in AI coding skills, drawing on usage data from platforms like Lovable and Replit. Job postings requiring AI proficiency doubled in the past year, according to edX research, with Indeed&#x27;s Hiring Lab reporting that 4.2% of U.S. job listings now mention AI-related keywords.The enthusiasm is driven by genuine productivity gains. Casey Newton, the technology journalist, recently described building a complete personal website using Claude Code in about an hour — a task that previously required expensive Squarespace subscriptions and years of frustrated attempts with various website builders.More dramatically, Jaana Dogan, a principal engineer at Google, posted that she gave Claude Code \"a description of the problem\" and \"it generated what we built last year in an hour.\" Her post, which accumulated more than 8 million views, began with the disclaimer: \"I&#x27;m not joking and this isn&#x27;t funny.\"Security experts warn that AI-generated code could lead to &#x27;catastrophic explosions&#x27;But the rapid adoption of agentic coding has also sparked significant concerns among security researchers and software engineers.David Mytton, founder and CEO of developer security provider Arcjet, warned last month that the proliferation of vibe-coded applications \"into production will lead to catastrophic problems for organizations that don&#x27;t properly review AI-developed software.\"\"In 2026, I expect more and more vibe-coded applications hitting production in a big way,\" Mytton wrote. \"That&#x27;s going to be great for velocity… but you&#x27;ve still got to pay attention. There&#x27;s going to be some big explosions coming!\"Simon Willison, co-creator of the Django web framework, drew an even starker comparison. \"I think we&#x27;re due a Challenger disaster with respect to coding agent security,\" he said, referring to the 1986 space shuttle explosion that killed all seven crew members. \"So many people, myself included, are running these coding agents practically as root. We&#x27;re letting them do all of this stuff.\"A pre-print paper from researchers this week warned that vibe coding could pose existential risks to the open-source software ecosystem. The study found that AI-assisted development pulls user interaction away from community projects, reduces visits to documentation websites and forums, and makes launching new open-source initiatives significantly harder.Stack Overflow usage has plummeted as developers increasingly turn to AI chatbots for answers—a shift that could ultimately starve the very knowledge bases that trained the AI models in the first place.Previous research painted an even more troubling picture: a 2024 report found that vibe coding using tools like GitHub Copilot \"offered no real benefits unless adding 41% more bugs is a measure of success.\"The hidden mental health cost of letting AI write your codeEven enthusiastic adopters have begun acknowledging the darker aspects of AI-assisted development.Peter Steinberger, creator of the viral AI agent originally known as Clawdbot (now OpenClaw), recently revealed that he had to step back from vibe coding after it consumed his life.\"I was out with my friends and instead of joining the conversation in the restaurant, I was just like, vibe coding on my phone,\" Steinberger said in a recent podcast interview. \"I decided, OK, I have to stop this more for my mental health than for anything else.\"Steinberger warned that the constant building of increasingly powerful AI tools creates the \"illusion of making you more productive\" without necessarily advancing real goals. \"If you don&#x27;t have a vision of what you&#x27;re going to build, it&#x27;s still going to be slop,\" he added.Google CEO Sundar Pichai has expressed similar reservations, saying he won&#x27;t vibe code on \"large codebases where you really have to get it right.\"\"The security has to be there,\" Pichai said in a November podcast interview.Boris Cherny, the Anthropic engineer who created Claude Code, acknowledged that vibe coding works best for \"prototypes or throwaway code, not software that sits at the core of a business.\"\"You want maintainable code sometimes. You want to be very thoughtful about every line sometimes,\" Cherny said.Apple is gambling that deep IDE integration can make AI coding safe for productionApple appears to be betting that the benefits of deep IDE integration can mitigate many of these concerns. By giving AI agents access to build systems, test suites, and visual verification tools, the company is essentially arguing that Xcode can serve as a quality control mechanism for AI-generated code.Susan Prescott, Apple&#x27;s vice president of Worldwide Developer Relations, framed the update as part of Apple&#x27;s broader mission.In a statement, Apple said its goal is to make tools that put industry-leading technologies directly in developers&#x27; hands so they can build the very best apps. The company says agentic coding supercharges productivity and creativity, streamlining the development workflow so developers can focus on innovation.But the question remains whether the safeguards will prove sufficient as AI agents grow more autonomous. Asked about debugging capabilities, Apple noted that while Xcode has a powerful debugger built in, there is no direct MCP tool for debugging.Developers can run the debugger and manually relay information to the agent, but the AI cannot yet independently investigate runtime issues — a limitation that could prove significant as the complexity of AI-generated code increases.The update also does not currently support running multiple agents simultaneously on the same project, though Apple noted that developers can open projects in multiple Xcode windows using Git worktrees as a workaround.The future of software development hangs in the balance — and Apple just raised the stakesXcode 26.3 is available immediately as a release candidate for members of the Apple Developer Program, with a general release expected soon on the App Store. The release candidate designation — Apple&#x27;s final beta before production — means developers who download today will automatically receive the finished version when it ships.The integration supports both API keys and direct account credentials from OpenAI and Anthropic, offering developers flexibility in managing their AI subscriptions. But those conveniences belie the magnitude of what Apple is attempting: nothing less than a fundamental reimagining of how software comes into existence.For the world&#x27;s most valuable company, the calculus is straightforward. Apple&#x27;s ability to attract and retain developers has always underpinned its platform dominance. If agentic coding delivers on its promise of radical productivity gains, early and deep integration could cement Apple&#x27;s position for another generation. If it doesn&#x27;t — if the security disasters and \"catastrophic explosions\" that critics predict come to pass — Cupertino could find itself at the epicenter of a very different kind of transformation.The technology industry has spent decades building systems to catch human errors before they reach users. Now it must answer a more unsettling question: What happens when the errors aren&#x27;t human at all?As Apple conceded during Tuesday&#x27;s press conference, with what may prove to be unintentional understatement: \"Large language models, as agents sometimes do, sometimes hallucinate.\"Millions of lines of code are about to find out how often.",
+          "content": "Apple on Tuesday announced a major update to its flagship developer tool that gives artificial intelligence agents unprecedented control over the app-building process, a move that signals the iPhone maker&#x27;s aggressive push into an emerging and controversial practice known as \"agentic coding.\"Xcode 26.3, available immediately as a release candidate, integrates Anthropic&#x27;s Claude Agent and OpenAI&#x27;s Codex directly into Apple&#x27;s development environment, allowing the AI systems to autonomously write code, build projects, run tests, and visually verify their own work — all with minimal human oversight.The update is Apple&#x27;s most significant embrace of AI-assisted software development since introducing intelligence features in Xcode 26 last year, and arrives as \"vibe coding\" — the practice of delegating software creation to large language models — has become one of the most debated topics in technology.Apple says that while integrating intelligence into the Xcode developer workflow is powerful, the model itself still has a somewhat limited aperture. It answers questions based on what the developer provides, but it doesn&#x27;t have access to the full context of the project, and it&#x27;s not able to take action on its own. That changes with this update, the company said during a press conference Tuesday morning.How Apple&#x27;s new AI coding features let developers build apps faster than everThe key innovation in Xcode 26.3 is the depth of integration between AI agents and Apple&#x27;s development tools. Unlike previous iterations that offered code suggestions and autocomplete features, the new system grants AI agents access to nearly every aspect of the development process.During a live demonstration, an Apple engineer showed how the Claude agent could receive a simple prompt — \"add a new feature to show the weather at a landmark\" — and then independently analyze the project&#x27;s file structure, consult Apple&#x27;s documentation, write the necessary code, build the project, and take screenshots of the running application to verify its work matched the requested design.According to Apple, the agent is able to use tools like build and screenshot previews to verify its work, visually analyze the image, and confirm that everything has been built accordingly. Before, when interacting with a model, it would provide an answer and just stop there.The system creates automatic checkpoints as developers interact with the AI, allowing them to roll back changes if results prove unsatisfactory — a safeguard that acknowledges the unpredictable nature of AI-generated code.Apple says it worked directly with Anthropic and OpenAI to optimize the experience with particular attention paid to reducing token usage — the computational units that determine costs when using cloud-based AI models — and improving the efficiency of tool calling.According to the company, developers can download new agents with a single click, and they update automatically.Why Apple&#x27;s adoption of the Model Context Protocol could reshape the AI development landscapeUnderlying the integration is the Model Context Protocol, or MCP, an open standard that Anthropic developed for connecting AI agents with external tools. Apple&#x27;s adoption of MCP means that any compatible agent — not just Claude or Codex — can now interact with Xcode&#x27;s capabilities.Apple says this also works for agents that are running outside of Xcode. Any agent that is compatible with MCP can now work with Xcode to do all the same things — project discovery and change management, building and testing apps, working with previews and code snippets, and accessing the latest documentation.The decision to embrace an open protocol, rather than building a proprietary system, represents a notable departure for Apple, which has historically favored closed ecosystems. It also positions Xcode as a potential hub for a growing universe of AI development tools.Xcode&#x27;s troubled history with AI tools — and why Apple says this time is differentThe announcement comes against a backdrop of mixed experiences with AI-assisted coding in Apple&#x27;s tools. During the press conference, one developer described previous attempts to use AI agents with Xcode as \"horrible,\" citing constant crashes and an inability to complete basic tasks.Apple acknowledged the concerns while arguing that the new integration addresses fundamental limitations of earlier approaches.The company says the big shift is that Claude and Codex have so much more visibility into the breadth of the project. If they hallucinate and write code that doesn&#x27;t work, they can now build, see the compile errors, and iterate in real time to fix those issues — in some cases before presenting it as a finished work.Apple argues that the power of IDE integration extends beyond error correction. Agents can now automatically add entitlements to projects when needed to access protected APIs — a task the company says would be otherwise very difficult for an AI operating outside the development environment dealing with binary files it may not have the format for.From Andrej Karpathy&#x27;s tweet to LinkedIn certifications: The unstoppable rise of vibe codingApple&#x27;s announcement arrives at a crucial moment in the evolution of AI-assisted development. The term \"vibe coding,\" coined by AI researcher Andrej Karpathy in early 2025, has transformed from a curiosity into a genuine cultural phenomenon that is reshaping how software gets built.LinkedIn announced last week that it will begin offering official certifications in AI coding skills, drawing on usage data from platforms like Lovable and Replit. Job postings requiring AI proficiency doubled in the past year, according to edX research, with Indeed&#x27;s Hiring Lab reporting that 4.2% of U.S. job listings now mention AI-related keywords.The enthusiasm is driven by genuine productivity gains. Casey Newton, the technology journalist, recently described building a complete personal website using Claude Code in about an hour — a task that previously required expensive Squarespace subscriptions and years of frustrated attempts with various website builders.More dramatically, Jaana Dogan, a principal engineer at Google, posted that she gave Claude Code \"a description of the problem\" and \"it generated what we built last year in an hour.\" Her post, which accumulated more than 8 million views, began with the disclaimer: \"I&#x27;m not joking and this isn&#x27;t funny.\"Security experts warn that AI-generated code could lead to &#x27;catastrophic explosions&#x27;But the rapid adoption of agentic coding has also sparked significant concerns among security researchers and software engineers.David Mytton, founder and CEO of developer security provider Arcjet, warned last month that the proliferation of vibe-coded applications \"into production will lead to catastrophic problems for organizations that don&#x27;t properly review AI-developed software.\"\"In 2026, I expect more and more vibe-coded applications hitting production in a big way,\" Mytton wrote. \"That&#x27;s going to be great for velocity… but you&#x27;ve still got to pay attention. There&#x27;s going to be some big explosions coming!\"Simon Willison, co-creator of the Django web framework, drew an even starker comparison. \"I think we&#x27;re due a Challenger disaster with respect to coding agent security,\" he said, referring to the 1986 space shuttle explosion that killed all seven crew members. \"So many people, myself included, are running these coding agents practically as root. We&#x27;re letting them do all of this stuff.\"A pre-print paper from researchers this week warned that vibe coding could pose existential risks to the open-source software ecosystem. The study found that AI-assisted development pulls user interaction away from community projects, reduces visits to documentation websites and forums, and makes launching new open-source initiatives significantly harder.Stack Overflow usage has plummeted as developers increasingly turn to AI chatbots for answers—a shift that could ultimately starve the very knowledge bases that trained the AI models in the first place.Previous research painted an even more troubling picture: a 2024 report found that vibe coding using tools like GitHub Copilot \"offered no real benefits unless adding 41% more bugs is a measure of success.\"The hidden mental health cost of letting AI write your codeEven enthusiastic adopters have begun acknowledging the darker aspects of AI-assisted development.Peter Steinberger, creator of the viral AI agent originally known as Clawdbot (now OpenClaw), recently revealed that he had to step back from vibe coding after it consumed his life.\"I was out with my friends and instead of joining the conversation in the restaurant, I was just like, vibe coding on my phone,\" Steinberger said in a recent podcast interview. \"I decided, OK, I have to stop this more for my mental health than for anything else.\"Steinberger warned that the constant building of increasingly powerful AI tools creates the \"illusion of making you more productive\" without necessarily advancing real goals. \"If you don&#x27;t have a vision of what you&#x27;re going to build, it&#x27;s still going to be slop,\" he added.Google CEO Sundar Pichai has expressed similar reservations, saying he won&#x27;t vibe code on \"large codebases where you really have to get it right.\"\"The security has to be there,\" Pichai said in a November podcast interview.Boris Cherny, the Anthropic engineer who created Claude Code, acknowledged that vibe coding works best for \"prototypes or throwaway code, not software that sits at the core of a business.\"\"You want maintainable code sometimes. You want to be very thoughtful about every line sometimes,\" Cherny said.Apple is gambling that deep IDE integration can make AI coding safe for productionApple appears to be betting that the benefits of deep IDE integration can mitigate many of these concerns. By giving AI agents access to build systems, test suites, and visual verification tools, the company is essentially arguing that Xcode can serve as a quality control mechanism for AI-generated code.Susan Prescott, Apple&#x27;s vice president of Worldwide Developer Relations, framed the update as part of Apple&#x27;s broader mission.In a statement, Apple said its goal is to make tools that put industry-leading technologies directly in developers&#x27; hands so they can build the very best apps. The company says agentic coding supercharges productivity and creativity, streamlining the development workflow so developers can focus on innovation.But the question remains whether the safeguards will prove sufficient as AI agents grow more autonomous. Asked about debugging capabilities, Apple noted that while Xcode has a powerful debugger built in, there is no direct MCP tool for debugging.Developers can run the debugger and manually relay information to the agent, but the AI cannot yet independently investigate runtime issues — a limitation that could prove significant as the complexity of AI-generated code increases.The update also does not currently support running multiple agents simultaneously on the same project, though Apple noted that developers can open projects in multiple Xcode windows using Git worktrees as a workaround.The future of software development hangs in the balance — and Apple just raised the stakesXcode 26.3 is available immediately as a release candidate for members of the Apple Developer Program, with a general release expected soon on the App Store. The release candidate designation — Apple&#x27;s final beta before production — means developers who download today will automatically receive the finished version when it ships.The integration supports both API keys and direct account credentials from OpenAI and Anthropic, offering developers flexibility in managing their AI subscriptions. But those conveniences belie the magnitude of what Apple is attempting: nothing less than a fundamental reimagining of how software comes into existence.For the world&#x27;s most valuable company, the calculus is straightforward. Apple&#x27;s ability to attract and retain developers has always underpinned its platform dominance. If agentic coding delivers on its promise of radical productivity gains, early and deep integration could cement Apple&#x27;s position for another generation. If it doesn&#x27;t — if the security disasters and \"catastrophic explosions\" that critics predict come to pass — Cupertino could find itself at the epicenter of a very different kind of transformation.The technology industry has spent decades building systems to catch human errors before they reach users. Now it must answer a more unsettling question: What happens when the errors aren&#x27;t human at all?As Apple conceded during Tuesday&#x27;s press conference, with what may prove to be unintentional understatement: \"Large language models, as agents sometimes do, sometimes hallucinate.\"Millions of lines of code are about to find out how often.",
           "feed_position": 1,
           "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2Q8OGhbv336AGtWlkPE9wO/51480cf6096208fab81a5f6c184a9a20/nuneybits_Vector_art_of_Apple_logo_inside_code_brackets_63cd7c00-dd68-44a7-b323-831a5a2226c0.webp?w=300&q=30"
         },
@@ -55,7 +92,7 @@
           "title": "The best Bluetooth trackers for 2026",
           "standfirst": "Most people think of AirTags when they picture a Bluetooth tracker. And indeed, Apple’s little white discs were once the only capable option, relying on a vast finding network of nearby iPhones to pinpoint lost tags. But now Google has a finding network of its own, and third party brands like Chipolo, Hyper and Pebblebee have trackers that pair with your choice of Google or Apple’s network. That means you’ve got a lot of options for tagging and tracking your keys, backpacks, luggage and more. We tested the major brands out there to see how well they work, how loud they are and how they look to put together a guide to help you get the most out of your chosen tracker. Here are the best Bluetooth trackers you can buy.Editor's note: Apple just released a new version of its AirTag trackers. We are in the process of testing the new model and will update this guide once we're done. Best Bluetooth trackers for 2026 What to look for in a Bluetooth tracking device Bluetooth trackers are small discs or cards that rely on short-range, low-energy wireless signals to communicate with your smartphone. Attach one of these gadgets your stuff and, if it’s in range, your phone can “ring” the chip so you can find it. These tracking devices offer other features like separation alerts to tell you when you’ve left a tagged item behind, or where a lost item was last detected. Some can even tap into a larger network of smartphones to track down your device when you’re out of range. Depending on what you want the tracker to do, there are a few specs to look for when deciding which to get. Device compatibility Like most things from the folks in Cupertino, AirTags only work with products in the Apple ecosystem. Both Apple and Google have opened up access to the Find My and Find Hub networks to third-party manufacturers, including Chipolo and Pebblebee. Those two companies make device-agnostic models that will work with the larger tracking network from either brand, so iPhone and Android users can buy the same tag. Tile trackers work with either Android or Apple devices, but use Tile’s own Life 360 finding network. Samsung’s latest fob, the Galaxy SmartTag2, only works with Samsung phones and taps into a finding system that relies on other Samsung devices to locate lost tags. Finding network Crowd-sourced finding capabilities are what make headlines, with stories about recovering stolen equipment or tracking lost luggage across the globe. Using anonymous signals that ping other people’s devices, these Bluetooth tracking devices can potentially tell you where a tagged item is, even if your smartphone is out of Bluetooth range. Apple’s Find My network is the largest, with over a billion iPhones and iPads in service all running Apple’s Find My app by default. So unless an iPhone user opts out, their phone silently acts as a location detector for any nearby AirTags. Apple recently increased the AirTag’s finding power by enabling you to share the tracker's location with a third party, party, like an airline. Chipolo fobs that work on Apple’s network have the same ability. Google launched its Find My Device network in 2024 and has since renamed it Find Hub, which, like Apple's fining app, combines devices and people finding in one place. That network is now a close second for the largest in the US Now that Google’s Find Hub network is up and running, it’s a close second for the largest in the US. Like Apple, Android users are automatically part of the network, but can opt-out by selecting the Google services option in their phone’s Settings app and toggling the option in the Find Hub menu. Samsung’s SmartTag 2 and related network also defaults to an opt-in status for finding tags and other devices. Tile offers a large finding grid that includes Tile users, Amazon Sidewalk customers and people running the Life360 network. Life360 acquired Tile in 2021, and, according to the company, the Life360 network has more than 70 million monthly active users. In our tests, AirTags and third-party tags using its network, like the Chipolo Loop and Pop and the Pebblebee Clip 5, were the fastest to track down lost items. They offered nearly real-time location data in moderately to heavily trafficked spots around Albuquerque, including a bar, bookstore and coffee shops in Nob Hill, along with various outdoor hangouts on UNM’s campus. Samsung's SmartTags were able to locate our lost items most of the time, though not with the same precision finding accuracy as AirTags. When we tested Google’s Find Hub (then called Find My Device) network right after launch, it was noticeably slower than Apple’s network when using the community finding feature. Testing it again in mid 2025, the time it took to locate a lost item was considerably improved, taking less than 20 minutes on average for the community to track a fob. In our tests, Tile’s finding network wasn’t able to consistently locate its lost fobs. Amy Skorheim / Engadget Separation alerts A tracker’s day-to-day utility becomes really apparent when it prevents you from losing something in the first place. Separation alerts tell you when you’ve traveled too far from your tagged items. Useful if you want to make sure your laptop bag, jacket or umbrella always comes with you when you leave the house. Apple’s Find My app delivers these notifications, but Google’s Find Hub does not. However, if you have a Chipolo device and allow its companion app to run in the background on your Android phone, left-behind alerts are enabled. Tile trackers require a yearly subscription to enable the alerts (currently $7 to $25 monthly). Both AirTags and Tiles allow you to turn off separation alerts at certain locations, meaning you can set your home as a “safe” place where items can be left behind, but alerts will still trigger elsewhere. In our tests, AirTags and others using the Find My network alerted us between the 600- and 1,400-foot mark. Tiles sent a notification after about an average of 1,500 feet and were more consistent when using an Android phone than an iPhone. Chipolo Pop tags paired with an Android phone and using its own app sent an alert when we got around 450 feet away from our tagged item. Connectivity and volume The feature you may use most often is the key finder function, which makes the tracker ring when you hit a button in the app. With Apple's AirTags, you can say \"Hey Siri, where are my keys?\" and the assistant will ring the tag (assuming it doesn't mistakenly think you're asking for directions to the Floridian archipelago). You can also use the Find Item app in your Apple Watch to ring your fob. Asking smart home/personal assistants like Alexa or the Google Assistant to find your keys will work with Chipolo, Tile and Pebblebee trackers linked to your Android device. If you have your tag but can’t find your phone, some trackers will let you ring them to find your handset. SmartTag2 fobs reliably rang our Galaxy phone when we double-pressed it. Tile trackers have the same feature. Chipolo Pop and Loop trackers can ring your phone, but uses the Chipolo app to do so, which can run concurrently with the Find My or Find Hub connection. AirTags and third-party tags using Google’s network don’t offer this feature. The volume of the Bluetooth tracking device may determine whether you can find an item buried in your couch cushions or in a noisy room. AirTags have a reputation for being on the quiet side, and that aligned with what we saw (measuring roughly 65 decibels). Chipolo’s Pop tags and Tile’s Pro model measure between 83 and 86 decibels on average. Pebblebee’s new Clip 5 was the loudest of any tag we’ve tested, clocking in at 97 ear-splitting decibels. Design and alternative formats Design will determine what you can attach the tracker to. AirTags are small, smooth discs that can’t be secured to anything without accessories, which are numerous, but that is an additional cost to consider. Chipolo, Pebblebee and Tile offer trackers with holes that easily attach to your key ring, and all three companies also offer card-shaped versions designed to fit in your wallet. Pebblebee Clip 5 tags come with a handy carabiner-style key ring. You can even get trackers embedded into useful items like luggage locks. The SmartLock from KeySmart is a TSA-approved luggage lock, but in addition to the three digit code, it’s also a Bluetooth tracker that’s compatible with Apple Find My. It wasn’t quite as loud as other trackers in my tests, and the range wasn’t as long, but it paired easily and worked with Apple’s finding network just like an AirTag. Battery life AirTag, Tile Pro, SmartTag2, HyperShield and Chipolo Pop fobs use replaceable batteries and each should go for at least a year before needing to be swapped. Pebblebee Clip 5 and Chipolo Loop trackers are rechargeable via a standard USB-C port. The Clip 5 has a long battery life claim at 12 months. The Loop should go for six months on a charge. Trackers shaped like credit cards, aka wallet trackers, don't have replaceable batteries, but some, like the Chipolo Card and the Pebblebee Card 5 are USB-C rechargeable. Stalking, theft and data privacy AirTags have gotten a lot of attention and even prompted some lawsuits for Apple due to bad actors planting them on people in order to stalk them. While this fact may not influence your buying decision, any discussion of Bluetooth trackers should note what steps Apple, Google and Tile have taken to address the issue. Last year, all the major players in the Bluetooth tracker business teamed up to combat misuse and standardize how unauthorized tracking detection and alerts work for iOS and Android. Last year, Tile launched a feature called Anti-Theft Mode, which enables you to render one of its trackers undetectable by others. That means if someone steals your tagged item, they won’t be able to use the anti-stalking features to find and disable the tracker. That sort of negates one of the major ways potential stalking victims can stay safe, so Tile hopes ID verification and a $1 million penalty will deter misuse. As a theft deterrent, a Bluetooth tracker may or may not be the best option. Anecdotal stories abound in which people have recovered stolen goods using a tracker — but other tales are more cautionary. Neither Apple nor Google promotes its trackers or finding networks as a way to deal with theft. GPS trackers, on the other hand, are typically marketed for just that purpose. How we tested Bluetooth trackers Before deciding on which trackers to test, we researched the field, looking at user reviews on Amazon, Best Buy and other retailers, along with discussions on sites like Reddit. We also checked out what other publications had to say on the matter before narrowing down our options. Here’s the full list of every tracker we tested: Apple AirTag Chipolo Card Spot Chipolo One Spot Chipolo One Chipolo Card Chipolo Loop Chipolo Pop HyperShield KeySmart SmartLock Motorola Moto Tag Pebblebee Clip 5 Pebblebee Clip Universal Pebblebee Clip Samsung SmartTag 2 Chipolo One Point Pebblebee Clip for Android Tile Pro (2024) Tile Mate (2024) Tile Mate (2022) Tile Pro (2022) Tile Slim (2022) After acquiring the trackers, I tested each one over the course of a few weeks using both an iPhone 11 followed by an iPhone 16 and a Samsung Galaxy S22 then an S23 Ultra. I recreated likely user experiences, such as losing and leaving items behind at home and out in the city. I planted trackers at different spots near downtown Albuquerque, mostly concentrated in and around the University of New Mexico and the surrounding neighborhood of Nob Hill. Later, I conducted tests in the Queen Anne neighborhood of Seattle. Each test was performed multiple times, both while walking and driving and I used the measure distance feature on Google Maps to track footage for alerts. I paid attention to how easy the app was to use, how reliable the phone-to-tracker connection was and any other perks and drawbacks that came up during regular use. As new trackers come to market, or as we learn of worthy models to try, I'll test them and add the results to this guide. Other Bluetooth trackers we tested Motorola Moto Tag The Moto Tag haunts me. At this very moment, my Galaxy phone says the fob is “Near you right now.” But I don’t know where. I tap to play a sound and the Find Hub tries, but ultimately says it can’t. I tap the Find Nearby function that’s supposed to visually guide you to the tag. I parade my phone around the house like a divining rod, take it down into the basement, walk it all over the garage. Nothing. But the Hub app unendingly says the Moto Tag is “Near you right now” and I get flashes of every old-school horror movie where the telephone operator tells the soon-to-be victim that the call is coming from inside the house. It’s partly my fault. I tend to keep good tabs on the gadgets I test for work. But during my most recent move, the tiny green disc didn’t make it into the safety of my review unit cabinet after relocation. Perhaps in retribution for my neglect, the Moto Tag keeps itself just out of reach. Taunting me. I’ll let you know if I ever find it, but in the meantime, it’s clear this finding device doesn’t want to be found. The recommended tags in this guide will serve you better. Tile Pro and Tile Mate (2024) Tile recently came out with a new suite of trackers, replacing the Tile Mate, Tile Pro, Tile Sticker and Tile Slim with updated models. In addition to fun new colors for the Mate and Slim, Tile added an SOS feature that can send a notification to your Life360 Circle when you triple press the button on the tracker. It’s a clever addition that turns your keys into a panic button, something offered by personal safety companies as standalone devices. There are a few caveats: You and the people you want to notify in an emergency will need the Life360 app installed on your phones. If you want your Tile to also trigger a call to emergency services, you’ll need a $15-per-month Life360 subscription (that’s in addition to a Tile membership, which starts at $3/month or $30 annually). And enabling the SOS triple-press disables the ability to ring your phone with the fob. I tested the SOS feature and it did indeed send a text message to my Circle, with the message that I had triggered an SOS and a link to a website that showed my current location. I thought it odd that the link didn’t open the Life360 app (which shows the location of users' phones), but I wasn’t as much concerned with Tile’s personal safety features as I was with the tracking capabilities, which turned out to be less than ideal. For my tests, I planted Tile trackers in a densely populated area of Seattle (about 15,000 people per square mile). After setting the trackers to “lost” in the Tile app, I waited. After four hours, one of the trackers was not discovered by the finding community, so I went and retrieved it. Another fob I planted alerted me that the tracker had been found by the Tile community after three hours — but the location it gave me was off by a third of a mile. I then decided to plant a tracker in the busiest place I could think of — the dried fruit and nuts aisle of a Trader Joes on a Friday evening before a major holiday. It still took over a half an hour before another Tile user anonymously pinged my lost tracker. In my tests with Samsung’s trackers and the fobs on Google’s Find Hub network, it took around ten minutes for them to be discovered. AirTags took half that time and all were tested in a far less populated city. Tile's four hours with no ping and over a half hour before getting a hit in a crowded TJs were pretty long stretches. Tile devices work with both mobile operating systems and its latest models are indeed louder than they were before. But they aren’t as quick to connect and you need to pay for a membership to activate left-behind alerts. And when you do, those notifications don’t kick in as quickly as they do with competing trackers. Bluetooth tracker FAQs Which Bluetooth tracker has the longest range? Both the Tile Pro and the Samsung Galaxy SmartTag2 claim a maximum range of around 400 feet, which is longer than the 300-foot claim for Chipolo’s Pop tags. The Pebblebee Clip 5 claims a 500-foot range, though other trackers with a shorter claimed range often performed better in our tests. Apple doesn’t make range claims for AirTags, but 30 meters (100 feet) seems to be the general consensus for those fobs. Any Bluetooth signal, of course, is dependent on a few factors. Obstacles like walls and people can block the signal, so a clear line of sight is the only way to achieve the maximum range. Other signals, like Wi-Fi, can also interfere with Bluetooth connections. Even high humidity can have an effect and lessen the distance at which your phone will connect to your tracker. Remember, when considering the range of Bluetooth trackers, the size of the “finding network” also comes into play. This is the number of nearby phones that can be used to anonymously ping your tracker when your own phone is out of Bluetooth range. As of now, Apple AirTags have the largest network, followed by Google’s Find Hub, Samsung’s finding community and finally, Tile’s Life360 members. What is the best Bluetooth tracker for a car? Bluetooth trackers are designed to track small, personal items like keys, jackets, backpacks and the like. All trackers have safeguards to prohibit the tag from being used to stalk people, so most will alert someone if a tracker that does not belong to them is detected following them. That means a car thief may get tipped off that there’s a tracker in the car they’re trying to steal. That said, you’ll see plenty of stories about people finding their car thanks to a Bluetooth tracker. Some police departments have even handed out trackers to combat high rates of carjacking. In most instances, the tracker of choice has been AirTags thanks to their wide finding network. If you’re looking for a tracker for your car, you may want to look into GPS trackers, some of which are designed for just that purpose. How accurate are Bluetooth trackers? Accuracy for Bluetooth trackers can be looked at in two ways: Finding items nearby and finding items misplaced outside your home. For nearby items, you’ll most often use the ring function on the device to hunt it down. Apple’s AirTags also use ultra-wideband technology, which creates directional navigation on your phone to get you within a foot of the tracker. Accurately finding lost items outside your home depends on the size of the finding network. Since this relies on the serendipity of a random phone passing within Bluetooth range of your tracker, the more phones on a given network, the better. And since Bluetooth ranges and distance estimates are only precise within about a meter or so, getting pings from more than one phone will help locating items. Here again, it’s worth noting that Apple’s Find My network is the largest, followed by Google, Samsung and Tile (both Chipolo and Pebblebee have fobs that work with the Apple and Google networks). Recent Updates February 2026: Added Pebblebee Clip 5 as the best rechargeable device. Added HyperShield tag as a budget pick. Updated FAQs for accuracy. October 2025: Added Chipolo Loop as a new pick for best rechargeable Bluetooth tracker. Detailed our experience with the Moto Tag and KeySmart SmartLock. Updated details about separation alerts and Ultra Wideband tech. August 2025: Updated the name of Google's finding network to Find Hub, instead of Find My Device. Added details about Pebblebee's new Alert feature. Added a table of contents. This article originally appeared on Engadget at https://www.engadget.com/computing/accessories/best-bluetooth-tracker-140028377.html?src=rss",
           "content": "Most people think of AirTags when they picture a Bluetooth tracker. And indeed, Apple’s little white discs were once the only capable option, relying on a vast finding network of nearby iPhones to pinpoint lost tags. But now Google has a finding network of its own, and third party brands like Chipolo, Hyper and Pebblebee have trackers that pair with your choice of Google or Apple’s network. That means you’ve got a lot of options for tagging and tracking your keys, backpacks, luggage and more. We tested the major brands out there to see how well they work, how loud they are and how they look to put together a guide to help you get the most out of your chosen tracker. Here are the best Bluetooth trackers you can buy.Editor's note: Apple just released a new version of its AirTag trackers. We are in the process of testing the new model and will update this guide once we're done. Best Bluetooth trackers for 2026 What to look for in a Bluetooth tracking device Bluetooth trackers are small discs or cards that rely on short-range, low-energy wireless signals to communicate with your smartphone. Attach one of these gadgets your stuff and, if it’s in range, your phone can “ring” the chip so you can find it. These tracking devices offer other features like separation alerts to tell you when you’ve left a tagged item behind, or where a lost item was last detected. Some can even tap into a larger network of smartphones to track down your device when you’re out of range. Depending on what you want the tracker to do, there are a few specs to look for when deciding which to get. Device compatibility Like most things from the folks in Cupertino, AirTags only work with products in the Apple ecosystem. Both Apple and Google have opened up access to the Find My and Find Hub networks to third-party manufacturers, including Chipolo and Pebblebee. Those two companies make device-agnostic models that will work with the larger tracking network from either brand, so iPhone and Android users can buy the same tag. Tile trackers work with either Android or Apple devices, but use Tile’s own Life 360 finding network. Samsung’s latest fob, the Galaxy SmartTag2, only works with Samsung phones and taps into a finding system that relies on other Samsung devices to locate lost tags. Finding network Crowd-sourced finding capabilities are what make headlines, with stories about recovering stolen equipment or tracking lost luggage across the globe. Using anonymous signals that ping other people’s devices, these Bluetooth tracking devices can potentially tell you where a tagged item is, even if your smartphone is out of Bluetooth range. Apple’s Find My network is the largest, with over a billion iPhones and iPads in service all running Apple’s Find My app by default. So unless an iPhone user opts out, their phone silently acts as a location detector for any nearby AirTags. Apple recently increased the AirTag’s finding power by enabling you to share the tracker's location with a third party, party, like an airline. Chipolo fobs that work on Apple’s network have the same ability. Google launched its Find My Device network in 2024 and has since renamed it Find Hub, which, like Apple's fining app, combines devices and people finding in one place. That network is now a close second for the largest in the US Now that Google’s Find Hub network is up and running, it’s a close second for the largest in the US. Like Apple, Android users are automatically part of the network, but can opt-out by selecting the Google services option in their phone’s Settings app and toggling the option in the Find Hub menu. Samsung’s SmartTag 2 and related network also defaults to an opt-in status for finding tags and other devices. Tile offers a large finding grid that includes Tile users, Amazon Sidewalk customers and people running the Life360 network. Life360 acquired Tile in 2021, and, according to the company, the Life360 network has more than 70 million monthly active users. In our tests, AirTags and third-party tags using its network, like the Chipolo Loop and Pop and the Pebblebee Clip 5, were the fastest to track down lost items. They offered nearly real-time location data in moderately to heavily trafficked spots around Albuquerque, including a bar, bookstore and coffee shops in Nob Hill, along with various outdoor hangouts on UNM’s campus. Samsung's SmartTags were able to locate our lost items most of the time, though not with the same precision finding accuracy as AirTags. When we tested Google’s Find Hub (then called Find My Device) network right after launch, it was noticeably slower than Apple’s network when using the community finding feature. Testing it again in mid 2025, the time it took to locate a lost item was considerably improved, taking less than 20 minutes on average for the community to track a fob. In our tests, Tile’s finding network wasn’t able to consistently locate its lost fobs. Amy Skorheim / Engadget Separation alerts A tracker’s day-to-day utility becomes really apparent when it prevents you from losing something in the first place. Separation alerts tell you when you’ve traveled too far from your tagged items. Useful if you want to make sure your laptop bag, jacket or umbrella always comes with you when you leave the house. Apple’s Find My app delivers these notifications, but Google’s Find Hub does not. However, if you have a Chipolo device and allow its companion app to run in the background on your Android phone, left-behind alerts are enabled. Tile trackers require a yearly subscription to enable the alerts (currently $7 to $25 monthly). Both AirTags and Tiles allow you to turn off separation alerts at certain locations, meaning you can set your home as a “safe” place where items can be left behind, but alerts will still trigger elsewhere. In our tests, AirTags and others using the Find My network alerted us between the 600- and 1,400-foot mark. Tiles sent a notification after about an average of 1,500 feet and were more consistent when using an Android phone than an iPhone. Chipolo Pop tags paired with an Android phone and using its own app sent an alert when we got around 450 feet away from our tagged item. Connectivity and volume The feature you may use most often is the key finder function, which makes the tracker ring when you hit a button in the app. With Apple's AirTags, you can say \"Hey Siri, where are my keys?\" and the assistant will ring the tag (assuming it doesn't mistakenly think you're asking for directions to the Floridian archipelago). You can also use the Find Item app in your Apple Watch to ring your fob. Asking smart home/personal assistants like Alexa or the Google Assistant to find your keys will work with Chipolo, Tile and Pebblebee trackers linked to your Android device. If you have your tag but can’t find your phone, some trackers will let you ring them to find your handset. SmartTag2 fobs reliably rang our Galaxy phone when we double-pressed it. Tile trackers have the same feature. Chipolo Pop and Loop trackers can ring your phone, but uses the Chipolo app to do so, which can run concurrently with the Find My or Find Hub connection. AirTags and third-party tags using Google’s network don’t offer this feature. The volume of the Bluetooth tracking device may determine whether you can find an item buried in your couch cushions or in a noisy room. AirTags have a reputation for being on the quiet side, and that aligned with what we saw (measuring roughly 65 decibels). Chipolo’s Pop tags and Tile’s Pro model measure between 83 and 86 decibels on average. Pebblebee’s new Clip 5 was the loudest of any tag we’ve tested, clocking in at 97 ear-splitting decibels. Design and alternative formats Design will determine what you can attach the tracker to. AirTags are small, smooth discs that can’t be secured to anything without accessories, which are numerous, but that is an additional cost to consider. Chipolo, Pebblebee and Tile offer trackers with holes that easily attach to your key ring, and all three companies also offer card-shaped versions designed to fit in your wallet. Pebblebee Clip 5 tags come with a handy carabiner-style key ring. You can even get trackers embedded into useful items like luggage locks. The SmartLock from KeySmart is a TSA-approved luggage lock, but in addition to the three digit code, it’s also a Bluetooth tracker that’s compatible with Apple Find My. It wasn’t quite as loud as other trackers in my tests, and the range wasn’t as long, but it paired easily and worked with Apple’s finding network just like an AirTag. Battery life AirTag, Tile Pro, SmartTag2, HyperShield and Chipolo Pop fobs use replaceable batteries and each should go for at least a year before needing to be swapped. Pebblebee Clip 5 and Chipolo Loop trackers are rechargeable via a standard USB-C port. The Clip 5 has a long battery life claim at 12 months. The Loop should go for six months on a charge. Trackers shaped like credit cards, aka wallet trackers, don't have replaceable batteries, but some, like the Chipolo Card and the Pebblebee Card 5 are USB-C rechargeable. Stalking, theft and data privacy AirTags have gotten a lot of attention and even prompted some lawsuits for Apple due to bad actors planting them on people in order to stalk them. While this fact may not influence your buying decision, any discussion of Bluetooth trackers should note what steps Apple, Google and Tile have taken to address the issue. Last year, all the major players in the Bluetooth tracker business teamed up to combat misuse and standardize how unauthorized tracking detection and alerts work for iOS and Android. Last year, Tile launched a feature called Anti-Theft Mode, which enables you to render one of its trackers undetectable by others. That means if someone steals your tagged item, they won’t be able to use the anti-stalking features to find and disable the tracker. That sort of negates one of the major ways potential stalking victims can stay safe, so Tile hopes ID verification and a $1 million penalty will deter misuse. As a theft deterrent, a Bluetooth tracker may or may not be the best option. Anecdotal stories abound in which people have recovered stolen goods using a tracker — but other tales are more cautionary. Neither Apple nor Google promotes its trackers or finding networks as a way to deal with theft. GPS trackers, on the other hand, are typically marketed for just that purpose. How we tested Bluetooth trackers Before deciding on which trackers to test, we researched the field, looking at user reviews on Amazon, Best Buy and other retailers, along with discussions on sites like Reddit. We also checked out what other publications had to say on the matter before narrowing down our options. Here’s the full list of every tracker we tested: Apple AirTag Chipolo Card Spot Chipolo One Spot Chipolo One Chipolo Card Chipolo Loop Chipolo Pop HyperShield KeySmart SmartLock Motorola Moto Tag Pebblebee Clip 5 Pebblebee Clip Universal Pebblebee Clip Samsung SmartTag 2 Chipolo One Point Pebblebee Clip for Android Tile Pro (2024) Tile Mate (2024) Tile Mate (2022) Tile Pro (2022) Tile Slim (2022) After acquiring the trackers, I tested each one over the course of a few weeks using both an iPhone 11 followed by an iPhone 16 and a Samsung Galaxy S22 then an S23 Ultra. I recreated likely user experiences, such as losing and leaving items behind at home and out in the city. I planted trackers at different spots near downtown Albuquerque, mostly concentrated in and around the University of New Mexico and the surrounding neighborhood of Nob Hill. Later, I conducted tests in the Queen Anne neighborhood of Seattle. Each test was performed multiple times, both while walking and driving and I used the measure distance feature on Google Maps to track footage for alerts. I paid attention to how easy the app was to use, how reliable the phone-to-tracker connection was and any other perks and drawbacks that came up during regular use. As new trackers come to market, or as we learn of worthy models to try, I'll test them and add the results to this guide. Other Bluetooth trackers we tested Motorola Moto Tag The Moto Tag haunts me. At this very moment, my Galaxy phone says the fob is “Near you right now.” But I don’t know where. I tap to play a sound and the Find Hub tries, but ultimately says it can’t. I tap the Find Nearby function that’s supposed to visually guide you to the tag. I parade my phone around the house like a divining rod, take it down into the basement, walk it all over the garage. Nothing. But the Hub app unendingly says the Moto Tag is “Near you right now” and I get flashes of every old-school horror movie where the telephone operator tells the soon-to-be victim that the call is coming from inside the house. It’s partly my fault. I tend to keep good tabs on the gadgets I test for work. But during my most recent move, the tiny green disc didn’t make it into the safety of my review unit cabinet after relocation. Perhaps in retribution for my neglect, the Moto Tag keeps itself just out of reach. Taunting me. I’ll let you know if I ever find it, but in the meantime, it’s clear this finding device doesn’t want to be found. The recommended tags in this guide will serve you better. Tile Pro and Tile Mate (2024) Tile recently came out with a new suite of trackers, replacing the Tile Mate, Tile Pro, Tile Sticker and Tile Slim with updated models. In addition to fun new colors for the Mate and Slim, Tile added an SOS feature that can send a notification to your Life360 Circle when you triple press the button on the tracker. It’s a clever addition that turns your keys into a panic button, something offered by personal safety companies as standalone devices. There are a few caveats: You and the people you want to notify in an emergency will need the Life360 app installed on your phones. If you want your Tile to also trigger a call to emergency services, you’ll need a $15-per-month Life360 subscription (that’s in addition to a Tile membership, which starts at $3/month or $30 annually). And enabling the SOS triple-press disables the ability to ring your phone with the fob. I tested the SOS feature and it did indeed send a text message to my Circle, with the message that I had triggered an SOS and a link to a website that showed my current location. I thought it odd that the link didn’t open the Life360 app (which shows the location of users' phones), but I wasn’t as much concerned with Tile’s personal safety features as I was with the tracking capabilities, which turned out to be less than ideal. For my tests, I planted Tile trackers in a densely populated area of Seattle (about 15,000 people per square mile). After setting the trackers to “lost” in the Tile app, I waited. After four hours, one of the trackers was not discovered by the finding community, so I went and retrieved it. Another fob I planted alerted me that the tracker had been found by the Tile community after three hours — but the location it gave me was off by a third of a mile. I then decided to plant a tracker in the busiest place I could think of — the dried fruit and nuts aisle of a Trader Joes on a Friday evening before a major holiday. It still took over a half an hour before another Tile user anonymously pinged my lost tracker. In my tests with Samsung’s trackers and the fobs on Google’s Find Hub network, it took around ten minutes for them to be discovered. AirTags took half that time and all were tested in a far less populated city. Tile's four hours with no ping and over a half hour before getting a hit in a crowded TJs were pretty long stretches. Tile devices work with both mobile operating systems and its latest models are indeed louder than they were before. But they aren’t as quick to connect and you need to pay for a membership to activate left-behind alerts. And when you do, those notifications don’t kick in as quickly as they do with competing trackers. Bluetooth tracker FAQs Which Bluetooth tracker has the longest range? Both the Tile Pro and the Samsung Galaxy SmartTag2 claim a maximum range of around 400 feet, which is longer than the 300-foot claim for Chipolo’s Pop tags. The Pebblebee Clip 5 claims a 500-foot range, though other trackers with a shorter claimed range often performed better in our tests. Apple doesn’t make range claims for AirTags, but 30 meters (100 feet) seems to be the general consensus for those fobs. Any Bluetooth signal, of course, is dependent on a few factors. Obstacles like walls and people can block the signal, so a clear line of sight is the only way to achieve the maximum range. Other signals, like Wi-Fi, can also interfere with Bluetooth connections. Even high humidity can have an effect and lessen the distance at which your phone will connect to your tracker. Remember, when considering the range of Bluetooth trackers, the size of the “finding network” also comes into play. This is the number of nearby phones that can be used to anonymously ping your tracker when your own phone is out of Bluetooth range. As of now, Apple AirTags have the largest network, followed by Google’s Find Hub, Samsung’s finding community and finally, Tile’s Life360 members. What is the best Bluetooth tracker for a car? Bluetooth trackers are designed to track small, personal items like keys, jackets, backpacks and the like. All trackers have safeguards to prohibit the tag from being used to stalk people, so most will alert someone if a tracker that does not belong to them is detected following them. That means a car thief may get tipped off that there’s a tracker in the car they’re trying to steal. That said, you’ll see plenty of stories about people finding their car thanks to a Bluetooth tracker. Some police departments have even handed out trackers to combat high rates of carjacking. In most instances, the tracker of choice has been AirTags thanks to their wide finding network. If you’re looking for a tracker for your car, you may want to look into GPS trackers, some of which are designed for just that purpose. How accurate are Bluetooth trackers? Accuracy for Bluetooth trackers can be looked at in two ways: Finding items nearby and finding items misplaced outside your home. For nearby items, you’ll most often use the ring function on the device to hunt it down. Apple’s AirTags also use ultra-wideband technology, which creates directional navigation on your phone to get you within a foot of the tracker. Accurately finding lost items outside your home depends on the size of the finding network. Since this relies on the serendipity of a random phone passing within Bluetooth range of your tracker, the more phones on a given network, the better. And since Bluetooth ranges and distance estimates are only precise within about a meter or so, getting pings from more than one phone will help locating items. Here again, it’s worth noting that Apple’s Find My network is the largest, followed by Google, Samsung and Tile (both Chipolo and Pebblebee have fobs that work with the Apple and Google networks). Recent Updates February 2026: Added Pebblebee Clip 5 as the best rechargeable device. Added HyperShield tag as a budget pick. Updated FAQs for accuracy. October 2025: Added Chipolo Loop as a new pick for best rechargeable Bluetooth tracker. Detailed our experience with the Moto Tag and KeySmart SmartLock. Updated details about separation alerts and Ultra Wideband tech. August 2025: Updated the name of Google's finding network to Find Hub, instead of Find My Device. Added details about Pebblebee's new Alert feature. Added a table of contents. This article originally appeared on Engadget at https://www.engadget.com/computing/accessories/best-bluetooth-tracker-140028377.html?src=rss",
-          "feed_position": 28,
+          "feed_position": 29,
           "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2023-02/94489620-abc7-11ed-b375-842957054bf1"
         },
         {
@@ -70,21 +107,21 @@
         }
       ],
       "featured_image": "https://images.ctfassets.net/jdtwqhzvc2n1/7ErEzHma6LbYLaznwE3rtA/39944c4739dbecaa3f8a336826de352d/sVJFWPtv0RFGdOIc_fKWG_C0uLbr6A__1_.png?w=300&q=30",
-      "popularity_score": 2019.311386111111,
+      "popularity_score": 2014.3041588888889,
       "ai_summary": [
-        "Qwen3 Coder Next is an open source model",
-        "It has 80 billion parameters and ultra sparse architecture",
-        "The model is designed for coding tasks and repo management",
-        "It is released on Apache 2.0 license for commercial use",
-        "Model weights are available on Hugging Face in four variants"
+        "Qwen team releases Qwen3 Coder Next model",
+        "Model is designed for vibe coding tasks",
+        "Qwen3 Coder Next has 80 billion parameters",
+        "Model uses ultra sparse Mixture of Experts",
+        "Model is released on Apache 2.0 license"
       ]
     },
     {
-      "id": "cluster_4",
+      "id": "cluster_30",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 22:55:59 +0000",
       "title": "Godlike Titan threatens humanity in Monarch: Legacy of Monsters S2 trailer",
-      "neutral_headline": "Godlike Titan Threatens Humanity In Monarch",
+      "neutral_headline": "Godlike Titan In Monarch Season 2",
       "items": [
         {
           "source": "Ars Technica",
@@ -93,26 +130,54 @@
           "title": "Godlike Titan threatens humanity in Monarch: Legacy of Monsters S2 trailer",
           "standfirst": "\"This Titan is like a god, and the sea creatures worship it.\"",
           "content": "Last month, Apple TV released a teaser for the second season of Monarch: Legacy of Monsters, part of Legendary Entertainment’s MonsterVerse, which brought Godzilla, King Kong, and various other monsters (kaiju) created by Toho Co., Ltd into a shared narrative. But we only got the most fleeting glimpse of the promised new mythical Titan threatening the human race. The full trailer just dropped and rectifies that: it's a gigantic tentacled undersea being dubbed Titan X—and only Kong and Godzilla can stop it. (Spoilers for Season 1 below.) As previously reported, the first season picked up where 2014’s Godzilla left off, specifically the introduction of Project Monarch, a secret organization established in the 1950s to study Godzilla and other kaiju—after attempts to kill Godzilla with nuclear weapons failed. In the S1 finale, Godzilla fights off an Ion Dragon, tossing it through a rift back to the Hollow Earth, and Lee Shaw (Kurt Russell) seemingly sacrifices himself to save his colleagues. Per the official Season 2 premise:Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 1,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/monarch1-1152x648-1770156538.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/monarch1-1152x648-1770156538.jpg",
-      "popularity_score": 367.46110833333336,
+      "popularity_score": 352.4538811111111,
       "ai_summary": [
-        "Monarch Legacy of Monsters S2 trailer is released",
-        "The trailer features a powerful Titan character",
-        "The Titan is worshipped by sea creatures in the show",
-        "The trailer sets up a conflict between humans and Titans",
-        "The show's second season is highly anticipated by fans"
+        "Monarch Season 2 features Godlike Titan",
+        "Titan is a powerful and worshiped creature",
+        "Season 2 trailer is released",
+        "Titan is a major part of the story",
+        "Season 2 is highly anticipated"
       ]
     },
     {
-      "id": "cluster_6",
+      "id": "cluster_22",
+      "coverage": 1,
+      "updated_at": "Tue, 03 Feb 2026 23:41:39 +0000",
+      "title": "Netflix says users can cancel service if HBO Max merger makes it too expensive",
+      "neutral_headline": "Netflix Comments On HBO Max Merger",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/02/netflix-claims-subscribers-will-get-more-content-for-less-if-it-buys-hbo-max/",
+          "published_at": "Tue, 03 Feb 2026 23:41:39 +0000",
+          "title": "Netflix says users can cancel service if HBO Max merger makes it too expensive",
+          "standfirst": "80 percent of HBO Max subscribers subscribe to Netflix, Sarandos tells Senate.",
+          "content": "There is concern that subscribers might be negatively affected if Netflix acquires Warner Bros. Discovery’s (WBD's) streaming and movie studios businesses. One of the biggest fears is that the merger would lead to higher prices due to Netflix having less competition. During a Senate hearing today, Netflix co-CEO Ted Sarandos suggested that the merger would have an opposite effect. Sarandos was speaking at a hearing held by the US Senate Judiciary Committee’s Subcommittee on Antitrust, Competition Policy, and Consumer Rights, “Examining the Competitive Impact of the Proposed Netflix-Warner Brothers Transaction.” Sarandos aimed to convince the subcommittee that Netflix wouldn’t become a monopoly in streaming or in movie and TV production if regulators allowed its acquisition to close. Netflix is the largest subscription video-on-demand (SVOD) provider by subscribers (301.63 million as of January 2025), and WBD is the third (128 million streaming subscribers, including users of HBO Max and, to a smaller degree, Discovery+).Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2259767834-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2259767834-1024x648.jpg",
+      "popularity_score": 348.21499222222224,
+      "ai_summary": [
+        "Netflix discusses potential HBO Max merger",
+        "Merger could affect subscription prices",
+        "Users can cancel service if prices rise",
+        "HBO Max subscribers also use Netflix",
+        "Merger could have significant impact"
+      ]
+    },
+    {
+      "id": "cluster_32",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 22:44:15 +0000",
       "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
-      "neutral_headline": "Nvidia OpenAI Deal Fails To Materialize",
+      "neutral_headline": "Nvidia OpenAI Deal Falls Through",
       "items": [
         {
           "source": "Ars Technica",
@@ -121,26 +186,26 @@
           "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
           "standfirst": "Two AI giants shake market confidence after investment fails to materialize.",
           "content": "In September 2025, Nvidia and OpenAI announced a letter of intent for Nvidia to invest up to $100 billion in OpenAI's AI infrastructure. At the time, the companies said they expected to finalize details \"in the coming weeks.\" Five months later, no deal has closed, Nvidia's CEO now says the $100 billion figure was \"never a commitment,\" and Reuters reports that OpenAI has been quietly seeking alternatives to Nvidia chips since last year. Reuters also wrote that OpenAI is unsatisfied with the speed of some Nvidia chips for inference tasks, citing eight sources familiar with the matter. Inference is the process by which a trained AI model generates responses to user queries. According to the report, the issue became apparent in OpenAI's Codex, an AI code-generation tool. OpenAI staff reportedly attributed some of Codex's performance limitations to Nvidia's GPU-based hardware. After the Reuters story published and Nvidia's stock price took a dive, Nvidia and OpenAI have tried to smooth things over publicly. OpenAI CEO Sam Altman posted on X: \"We love working with NVIDIA and they make the best AI chips in the world. We hope to be a gigantic customer for a very long time. I don't get where all this insanity is coming from.\"Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 2,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/nvidia-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/nvidia-1152x648.jpg",
-      "popularity_score": 357.26555277777777,
+      "popularity_score": 342.25832555555553,
       "ai_summary": [
-        "Nvidia's $100 billion deal with OpenAI has fallen through",
-        "The deal was expected to be a major investment in AI",
-        "The failure of the deal has shaken market confidence",
-        "Nvidia and OpenAI have not commented on the deal's status",
-        "The deal's failure may impact the future of AI development"
+        "Nvidia and OpenAI deal does not materialize",
+        "Deal was worth 100 billion dollars",
+        "Investment failure affects market confidence",
+        "Nvidia and OpenAI are major AI players",
+        "Deal collapse is a significant development"
       ]
     },
     {
-      "id": "cluster_28",
+      "id": "cluster_48",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 20:13:08 +0000",
       "title": "X office raided in France's Grok probe; Elon Musk summoned for questioning",
-      "neutral_headline": "X Office Raided In France Investigation",
+      "neutral_headline": "X Office Raided In France",
       "items": [
         {
           "source": "Ars Technica",
@@ -149,22 +214,22 @@
           "title": "X office raided in France's Grok probe; Elon Musk summoned for questioning",
           "standfirst": "Paris prosecutor: Illegal content probe includes pornographic images of minors.",
           "content": "French law enforcement authorities today raided X's Paris office and summoned Elon Musk for questioning as part of an investigation into illegal content. The Paris public prosecutor’s office said the yearlong probe was recently expanded because the Grok chatbot was disseminating Holocaust-denial claims and sexually explicit deepfakes. Europol, which is assisting French authorities, said today the \"investigation concerns a range of suspected criminal offenses linked to the functioning and use of the platform, including the dissemination of illegal content and other forms of online criminal activity.\" Europol's cybercrime center provided \"an analyst on the ground in Paris to assist national authorities.\" The French Gendarmerie’s cybercrime unit is also aiding the investigation. French authorities want to question Musk and former X CEO Linda Yaccarino, who quit last year amid a controversy over Grok's praise of Hitler. Prosecutors summoned Musk and Yaccarino for interviews in April 2026, though the interviews are being described as voluntary.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Elon-Musk-X-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Elon-Musk-X-1152x648.jpg",
-      "popularity_score": 334.74694166666666,
+      "popularity_score": 319.7397144444444,
       "ai_summary": [
-        "X office was raided by French authorities in Grok probe",
-        "Elon Musk has been summoned for questioning in the case",
-        "The investigation involves illegal content and pornographic images",
-        "The raid is part of a larger investigation into X's content policies",
-        "The case may have implications for social media regulation"
+        "X office is raided in France",
+        "Raid is part of Grok probe investigation",
+        "Elon Musk is summoned for questioning",
+        "Investigation includes pornographic images",
+        "Raid is a significant legal development"
       ]
     },
     {
-      "id": "cluster_20",
+      "id": "cluster_41",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 21:15:57 +0000",
       "title": "Newborn dies after mother drinks raw milk during pregnancy",
@@ -177,26 +242,26 @@
           "title": "Newborn dies after mother drinks raw milk during pregnancy",
           "standfirst": "Raw milk is promoted by anti-vaccine Health Secretary Kennedy.",
           "content": "A newborn baby has died in New Mexico from a Listeria infection that state health officials say was likely contracted from raw (unpasteurized) milk that the baby's mother drank during pregnancy. In a news release Tuesday, officials warned people not to consume any raw dairy, highlighting that it can be teeming with a variety of pathogens. Those germs are especially dangerous to pregnant women, as well as young children, the elderly, and people with weakened immune systems. \"Raw milk can contain numerous disease-causing germs, including Listeria, which is bacteria that can cause miscarriage, stillbirth, preterm birth, or fatal infection in newborns, even if the mother is only mildly ill,\" the New Mexico Department of Health said in the press release.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2211793949-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2211793949-1152x648.jpg",
-      "popularity_score": 330.79388611111114,
+      "popularity_score": 315.7866588888889,
       "ai_summary": [
-        "A newborn baby has died after mother drank raw milk",
-        "The mother was promoted by anti vaccine Health Secretary Kennedy",
-        "Raw milk can pose health risks to pregnant women and babies",
-        "The incident highlights the dangers of unpasteurized dairy products",
-        "Health officials are warning against the consumption of raw milk"
+        "Newborn dies after mother consumes raw milk",
+        "Raw milk is promoted by Health Secretary",
+        "Raw milk can pose health risks",
+        "Mother's consumption of raw milk is cited",
+        "Health risks associated with raw milk"
       ]
     },
     {
-      "id": "cluster_47",
+      "id": "cluster_64",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 18:56:20 +0000",
       "title": "Nintendo Switch is the second-bestselling game console ever, behind only the PS2",
-      "neutral_headline": "Nintendo Switch Is Second Bestselling Console",
+      "neutral_headline": "Nintendo Switch Sales Figures",
       "items": [
         {
           "source": "Ars Technica",
@@ -205,26 +270,26 @@
           "title": "Nintendo Switch is the second-bestselling game console ever, behind only the PS2",
           "standfirst": "Switch 2 has already beaten the Wii U and is on its way to overtaking GameCube.",
           "content": "Although it was finally replaced last year by the new Switch 2, the orginal switch isn't done just yet. Many recent Switch games (and a handful of major updates, like the one for Animal Crossing) have been released in both Switch and Switch 2 editions, and Nintendo continues to sell all editions of the original console as entry-level systems for those who can't pay $450 for a Switch 2. The 9-year-old Switch's continued availability has helped it clear a milestone, according to the company's third-quarter financial results (PDF). As of December 31, 2025, Nintendo says the Switch \"has reached the highest sales volume of any Nintendo hardware\" with a total of 155.37 million units sold, surpassing the original DS's lifetime total of 154.02 million units. The console has sold 3.25 million units in Nintendo's fiscal 2026 so far, including 1.36 million units over the holidays. Those consoles have sold despite price hikes that Nintendo introduced in August of 2025, citing \"market conditions.\" That makes the Switch the second-bestselling game console of all time, just three years after it became the third-bestselling game console of all time. The only frontier left for the Switch to conquer is Sony's PlayStation 2, which Sony says sold \"over 160 million units\" over its long life. At its current sales rate (Nintendo predicts it will sell roughly 750,000 Switches in the next quarter), it would take the Switch another couple of years to cross that line, but those numbers are likely to taper off as we get deeper into the Switch 2 era.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/NintendoSwitchOLEDmodel_02-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/NintendoSwitchOLEDmodel_02-1152x648.jpg",
-      "popularity_score": 314.4669416666667,
+      "popularity_score": 299.45971444444444,
       "ai_summary": [
-        "Nintendo Switch is the second bestselling game console",
-        "The console has sold more units than the Wii U and GameCube",
-        "The Switch is behind only the PS2 in terms of sales",
-        "The console's success is due to its popular games and portability",
-        "The Switch is expected to continue selling well in the future"
+        "Nintendo Switch is second best selling console",
+        "Switch sales surpass Wii U and GameCube",
+        "PS2 is the best selling console",
+        "Switch sales are a significant achievement",
+        "Nintendo Switch is a popular gaming console"
       ]
     },
     {
-      "id": "cluster_59",
+      "id": "cluster_70",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 18:25:18 +0000",
       "title": "Google court filings suggest ChromeOS has an expiration date",
-      "neutral_headline": "ChromeOS May Have Expiration Date",
+      "neutral_headline": "Google ChromeOS Expiration Date",
       "items": [
         {
           "source": "Ars Technica",
@@ -233,26 +298,26 @@
           "title": "Google court filings suggest ChromeOS has an expiration date",
           "standfirst": "ChromeOS may be canned once the current support guarantee has run its course.",
           "content": "Chromebooks debuted 16 years ago with the limited release of Google's Cr-48, an unassuming compact laptop that was provided free to select users. From there, Chromebooks became one of the most popular budget computing options and a common fixture in schools and businesses. According to some newly uncovered court documents, Google's shift to Android PCs means Chromebooks have an expiration date in 2034. The documents were filed as part of Google's long-running search antitrust case, which began in 2020 and reached a verdict in 2024. While Google is still seeking to have the guilty verdict overturned, it has escaped most of the remedies that government prosecutors requested. According to The Verge, the company's plans for Chromebooks and the upcoming Android-based Aluminium came up in filings from the remedy phase of the trial. As Google moves toward releasing Aluminium, it sought to keep the upcoming machines above the fray and retain the Chrome browser (which it did). In Judge Amit Mehta's final order, devices running ChromeOS or a ChromeOS successor are excluded. To get there, Google had to provide a little more detail on its plans.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/9_Lenovo-Chromebook-Plus-14-copy-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/9_Lenovo-Chromebook-Plus-14-copy-1152x648.jpg",
-      "popularity_score": 309.94971944444444,
+      "popularity_score": 294.9424922222222,
       "ai_summary": [
-        "Google court filings suggest ChromeOS may be discontinued",
-        "The operating system may be canned after support guarantee ends",
-        "ChromeOS is used in Chromebooks and other devices",
-        "The expiration date may impact users who rely on ChromeOS",
-        "Google has not commented on the future of ChromeOS"
+        "ChromeOS may have an expiration date",
+        "Google court filings suggest eventual end",
+        "Current support guarantee has time limit",
+        "ChromeOS is a popular operating system",
+        "Expiration date could affect users"
       ]
     },
     {
-      "id": "cluster_63",
+      "id": "cluster_73",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 18:01:49 +0000",
       "title": "Xcode 26.3 adds support for Claude, Codex, and other agentic tools via MCP",
-      "neutral_headline": "Xcode 26.3 Adds Support For Agentic Tools",
+      "neutral_headline": "Xcode 26.3 Update Adds Support",
       "items": [
         {
           "source": "Ars Technica",
@@ -261,26 +326,26 @@
           "title": "Xcode 26.3 adds support for Claude, Codex, and other agentic tools via MCP",
           "standfirst": "With Model Context Protocol (MCP), this works with more than Codex/Claude, too.",
           "content": "Apple has announced a new version of Xcode, the latest version of its integrated development environment (IDE) for building software for its own platforms, like the iPhone and Mac. The key feature of 26.3 is support for full-fledged agentic coding tools, like OpenAI's Codex or Claude Agent, with a side panel interface for assigning tasks to agents with prompts and tracking their progress and changes. This is achieved via Model Context Protocol (MCP), an open protocol that lets AI agents work with external tools and structured resources. Xcode acts as an MCP endpoint that exposes a bunch of machine-invocable interfaces and gives AI tools like Codex or Claude Agent access to a wide range of IDE primitives like file graph, docs search, project settings, and so on. While AI chat and workflows were supported in Xcode before, this release gives them much deeper access to the features and capabilities of Xcode. This approach is notable because it means that even though OpenAI and Anthropic's model integrations are privileged with a dedicated spot in Xcode's settings, it's possible to connect other tooling that supports MCP, which also allows doing some of this with models running locally.Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Xcode-1152x648.png"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Xcode-1152x648.png",
-      "popularity_score": 287.5583305555556,
+      "popularity_score": 272.55110333333334,
       "ai_summary": [
-        "Xcode 26.3 update adds support for agentic tools",
-        "The update includes support for Claude and Codex",
-        "The tools use Model Context Protocol (MCP) for integration",
-        "The update is available for developers to download and use",
-        "The new features may improve development of AI powered apps"
+        "Xcode 26.3 update is released",
+        "Update adds support for Claude and Codex",
+        "Model Context Protocol is featured",
+        "Update supports agentic tools via MCP",
+        "Xcode 26.3 is a significant update"
       ]
     },
     {
-      "id": "cluster_72",
+      "id": "cluster_79",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 17:29:16 +0000",
       "title": "Wing Commander III: \"Isn't that the guy from Star Wars?\"",
-      "neutral_headline": "Wing Commander III Examined",
+      "neutral_headline": "Wing Commander III Examines Multimedia FMV Future",
       "items": [
         {
           "source": "Ars Technica",
@@ -289,26 +354,26 @@
           "title": "Wing Commander III: \"Isn't that the guy from Star Wars?\"",
           "standfirst": "C:\\ArsGames looks at a vanguard of the multimedia FMV future that never quite came to pass.",
           "content": "It's Christmas of 1994, and I am 16 years old. Sitting on the table in our family room next to a pile of cow-spotted boxes is the most incredible thing in the world: a brand-new Gateway 66MHz Pentium tower, with a 540MB hard disk drive, 8MB of RAM, and, most importantly, a CD-ROM drive. I am agog, practically trembling with barely suppressed joy, my bored Gen-X teenager mask threatening to slip and let actual feelings out. My life was about to change—at least where games were concerned. I'd been working for several months at Babbage's store No. 9, near Baybrook Mall in southeast suburban Houston. Although the Gateway PC's arrival on Christmas morning was utterly unexpected, the choice of what game to buy required no planning at all. I'd already decided a few weeks earlier, when Chris Roberts' latest opus had been drop-shipped to our shelves, just in time for the holiday season. The choice made itself, really. Gimli and Luke, together at last! Credit: Origin Systems / Electronic Arts The moment Babbage's opened its doors on December 26—a day I had off, fortunately—I was there, checkbook in hand. One entire paycheck's worth of capitalism later, I was sprinting out to my creaky 280-Z, sweatily clutching two boxes—one an impulse buy, The Star Trek: The Next Generation Interactive Technical Manual, and the other a game I felt sure would be the best thing I'd ever played or ever would play: Origin's Wing Commander III: The Heart of the Tiger. On the backs of Wing Commander I and Wing Commander II, how could it not be?!Read full article Comments",
-          "feed_position": 7,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/wc3_boxart_sm-1152x648-1770132197.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/wc3_boxart_sm-1152x648-1770132197.jpg",
-      "popularity_score": 277.01583055555557,
+      "popularity_score": 262.0086033333333,
       "ai_summary": [
-        "Wing Commander III is a classic game with FMV content",
-        "The game was a vanguard of the multimedia future",
-        "The game's story and characters are still remembered today",
-        "The game's gameplay and graphics were innovative for its time",
-        "The game is still played and enjoyed by retro gaming fans"
+        "Wing Commander III is a vanguard of multimedia FMV",
+        "The game features full motion video technology",
+        "It was released in the early days of CD-ROM",
+        "The game's story is heavily focused on video cutscenes",
+        "It has become a classic of the genre"
       ]
     },
     {
-      "id": "cluster_77",
+      "id": "cluster_82",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 17:08:34 +0000",
       "title": "Upset at reports that he'd given up, Trump now wants $1B from Harvard",
-      "neutral_headline": "Trump Seeks $1B From Harvard",
+      "neutral_headline": "Trump Seeks 1 Billion Dollars From Harvard",
       "items": [
         {
           "source": "Ars Technica",
@@ -317,50 +382,22 @@
           "title": "Upset at reports that he'd given up, Trump now wants $1B from Harvard",
           "standfirst": "Hefty \"fine\" comes in wake of NY Times reporting of money-free settlement.",
           "content": "Amid the Trump administration's attack on universities, Harvard has emerged as a particular target. Early on, the administration put $2.2 billion in research money on hold and shortly thereafter blocked all future funding while demanding intrusive control over Harvard's hiring and admissions. Unlike many of its peer institutions, Harvard fought back, filing and ultimately winning a lawsuit that restored the cut funds. Despite Harvard's victory, the Trump administration continued to push for some sort of formal agreement that would settle the administration's accusations that Harvard created an environment that allowed antisemitism to flourish. In fact, it had become a running joke among some journalists that The New York Times had devoted a monthly column to reporting that a settlement between the two parties was near. Given the government's loss of leverage, it was no surprise that the latest installment of said column included the detail that the latest negotiations had dropped demands that Harvard pay any money as part of a final agreement. The Trump administration had extracted hundreds of millions of dollars from some other universities and had demanded over a billion dollars from UCLA, so this appeared to be a major concession to Harvard.Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-578751544-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-578751544-1152x648.jpg",
-      "popularity_score": 266.67083055555554,
+      "popularity_score": 251.66360333333333,
       "ai_summary": [
-        "Trump is seeking $1B from Harvard University",
-        "The demand comes after reports of a money free settlement",
-        "Trump is claiming that Harvard owes him the money",
-        "The case is ongoing and has not been resolved yet",
-        "The outcome may have implications for Trump's finances"
+        "Trump wants 1 billion dollars from Harvard",
+        "The request comes after a New York Times report",
+        "The report stated Trump had given up on the issue",
+        "Trump is seeking the money as a fine",
+        "The issue is related to a previous settlement"
       ]
     },
     {
-      "id": "cluster_93",
-      "coverage": 1,
-      "updated_at": "Tue, 03 Feb 2026 15:33:06 +0000",
-      "title": "China bans all retractable car door handles, starting next year",
-      "neutral_headline": "China Bans Retractable Car Door Handles",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/02/china-bans-all-retractable-car-door-handles-starting-next-year/",
-          "published_at": "Tue, 03 Feb 2026 15:33:06 +0000",
-          "title": "China bans all retractable car door handles, starting next year",
-          "standfirst": "The pop-out door handle ban starts in 2027 for new cars, 2029 for existing models.",
-          "content": "Flush door handles have been quite the automotive design trend of late. Stylists like them because they don't add visual noise to the side of a car. And aerodynamicists like them because they make a vehicle more slippery through the air. When Tesla designed its Model S, it needed a car that was both desirable and as efficient as possible, so flush door handles were a no-brainer. Since then, as electric vehicles have proliferated, so too have flush door handles. But as of next year, China says no. Just like pop-up headlights, despite the aesthetic and aerodynamic advantages, there are safety downsides. Tesla's handles are an extreme example: In the event of a crash and a loss of 12 V power, there is no way for first responders to open the door from the outside, which has resulted in at least 15 deaths. Those deaths prompted the National Highway Traffic Safety Administration to open an investigation last year, but China is being a little more proactive. It has been looking at whether retractable car door handles are safe since mid-2024, according to Bloomberg, and has concluded that no, they are not.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1277594023-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1277594023-1152x648.jpg",
-      "popularity_score": 255.07971944444444,
-      "ai_summary": [
-        "China has banned retractable car door handles",
-        "The ban starts in 2027 for new cars and 2029 for existing models",
-        "The ban is due to safety concerns and regulations",
-        "The ban may impact car manufacturers and owners",
-        "The ban is part of China's efforts to improve road safety"
-      ]
-    },
-    {
-      "id": "cluster_116",
+      "id": "cluster_121",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 12:00:01 +0000",
       "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
@@ -373,26 +410,26 @@
           "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
           "standfirst": "We don't need self-replicating AI models to have problems, just self-replicating prompts.",
           "content": "On November 2, 1988, graduate student Robert Morris released a self-replicating program into the early Internet. Within 24 hours, the Morris worm had infected roughly 10 percent of all connected computers, crashing systems at Harvard, Stanford, NASA, and Lawrence Livermore National Laboratory. The worm exploited security flaws in Unix systems that administrators knew existed but had not bothered to patch. Morris did not intend to cause damage. He wanted to measure the size of the Internet. But a coding error caused the worm to replicate far faster than expected, and by the time he tried to send instructions for removing it, the network was too clogged to deliver the message. History may soon repeat itself with a novel new platform: networks of AI agents carrying out instructions from prompts and sharing them with other AI agents, which could spread the instructions further.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 12,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/moltbook-chest-burster-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/moltbook-chest-burster-1152x648.jpg",
-      "popularity_score": 166.52833055555556,
+      "popularity_score": 161.52110333333334,
       "ai_summary": [
-        "Moltbook is a viral AI prompt that may be a security threat",
-        "The prompt can be used to create malicious content",
-        "The threat is not from self replicating AI models",
-        "The threat is from self replicating prompts and content",
-        "The issue highlights the need for AI security measures"
+        "Moltbook is a potential security threat",
+        "The threat comes from viral AI prompts",
+        "These prompts can be self-replicating",
+        "They do not require self-replicating AI models",
+        "The threat is a growing concern for experts"
       ]
     },
     {
-      "id": "cluster_101",
+      "id": "cluster_106",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 14:02:57 +0000",
       "title": "Senior staff departing OpenAI as firm prioritizes ChatGPT development",
-      "neutral_headline": "Senior Staff Leave OpenAI",
+      "neutral_headline": "OpenAI Senior Staff Depart Amid ChatGPT Focus",
       "items": [
         {
           "source": "Ars Technica",
@@ -401,26 +438,26 @@
           "title": "Senior staff departing OpenAI as firm prioritizes ChatGPT development",
           "standfirst": "Resources are redirected from long-term research toward improving the flagship chatbot.",
           "content": "OpenAI is prioritizing the advancement of ChatGPT over more long-term research, prompting the departure of senior staff as the $500 billion company adapts to stiff competition from rivals such as Google and Anthropic. The San Francisco-based start-up has reallocated resources for experimental work in favor of advances to the large language models that power its flagship chatbot, according to 10 current and former employees. Among those to leave OpenAI in recent months over the strategic shift are vice-president of research Jerry Tworek, model policy researcher Andrea Vallone, and economist Tom Cunningham.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 11,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/openai-logo-1152x648-1741196873.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/openai-logo-1152x648-1741196873.jpg",
-      "popularity_score": 164.57721944444444,
+      "popularity_score": 159.56999222222223,
       "ai_summary": [
-        "Senior staff are leaving OpenAI due to prioritization of ChatGPT",
-        "Resources are being redirected from research to ChatGPT development",
-        "The move may impact OpenAI's long term research goals",
-        "The company is focusing on improving its flagship chatbot",
-        "The changes may have implications for OpenAI's future"
+        "Senior staff are leaving OpenAI",
+        "The company is prioritizing ChatGPT development",
+        "Resources are being redirected to ChatGPT",
+        "The focus is on improving the chatbot",
+        "Long-term research is being deprioritized"
       ]
     },
     {
-      "id": "cluster_138",
+      "id": "cluster_141",
       "coverage": 1,
       "updated_at": "Mon, 02 Feb 2026 21:55:44 +0000",
       "title": "SpaceX acquires xAI, plans to launch a massive satellite constellation to power it",
-      "neutral_headline": "SpaceX Acquires XAI",
+      "neutral_headline": "SpaceX Acquires XAI For Satellite Constellation",
       "items": [
         {
           "source": "Ars Technica",
@@ -429,26 +466,26 @@
           "title": "SpaceX acquires xAI, plans to launch a massive satellite constellation to power it",
           "standfirst": "\"This marks not just the next chapter, but the next book in SpaceX and xAI's mission.\"",
           "content": "SpaceX has formally acquired another one of Elon Musk's companies, xAi, the space company announced on Monday afternoon. \"SpaceX has acquired xAI to form the most ambitious, vertically-integrated innovation engine on (and off) Earth, with AI, rockets, space-based internet, direct-to-mobile device communications and the world’s foremost real-time information and free speech platform,\" the company said. \"This marks not just the next chapter, but the next book in SpaceX and xAI's mission: scaling to make a sentient sun to understand the Universe and extend the light of consciousness to the stars!\" The merging of what is arguably Musk's most successful company, SpaceX, with the more speculative xAI venture is a risk. Founded in 2023, xAI's main products are the generative AI chatbot Grok and the social media site X, formerly known as Twitter. The company aims to compete with OpenAI and other artificial intelligence firms. However, Grok has been controversial, including the sexualization of women and children through AI-generated images, as has Musk's management of Twitter.Read full article Comments",
-          "feed_position": 15,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/starship_march2025-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/starship_march2025-1152x648.jpg",
       "popularity_score": 156,
       "ai_summary": [
-        "SpaceX has acquired xAI in a major deal",
-        "The acquisition is part of SpaceX's mission to launch satellites",
-        "The company plans to launch a massive satellite constellation",
-        "The deal marks a new chapter in SpaceX and xAI's mission",
-        "The acquisition may have implications for the future of AI and space"
+        "SpaceX has acquired xAI",
+        "The company plans to launch a satellite constellation",
+        "The constellation will power xAI technology",
+        "The move marks a new chapter for SpaceX",
+        "The goal is to expand SpaceX and xAI's mission"
       ]
     },
     {
-      "id": "cluster_136",
+      "id": "cluster_139",
       "coverage": 1,
       "updated_at": "Mon, 02 Feb 2026 22:31:46 +0000",
       "title": "Streaming service Crunchyroll raises prices weeks after killing its free tier",
-      "neutral_headline": "Crunchyroll Raises Prices",
+      "neutral_headline": "Crunchyroll Raises Prices After Free Tier Removal",
       "items": [
         {
           "source": "Ars Technica",
@@ -457,26 +494,26 @@
           "title": "Streaming service Crunchyroll raises prices weeks after killing its free tier",
           "standfirst": "Sony has made streaming anime pricier since buying Crunchyroll.",
           "content": "Crunchyroll is one of the most popular streaming platforms for anime viewers. Over the past six years, the service has raised prices for fans, and today, it announced that it's increasing monthly subscription prices by up to 25 percent. Sony bought Crunchyroll from AT&T in 2020. At the time, Crunchyroll had 3 million paid subscribers and an additional 197 million users with free accounts, which let people watch a limited number of titles with commercials. At the time, Crunchyroll monthly subscription tiers cost $8, $10, or $15. After its acquisition by Sony, like many large technology companies that buy a smaller, beloved product, the company made controversial changes. The Tokyo-based company folded rival Funimation into Crunchyroll; Sony shut down Funimation, which it bought in 2017, in April 2024.Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2258531948-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2258531948-1024x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "Crunchyroll has raised its prices for streaming services",
-        "The price increase comes after the free tier was killed",
-        "Sony has made streaming anime more expensive since buying Crunchyroll",
-        "The price increase may impact users who rely on the service",
-        "The change may have implications for the future of streaming services"
+        "Crunchyroll has raised its prices",
+        "The price increase comes after the free tier was removed",
+        "Sony made the decision after buying Crunchyroll",
+        "The price change affects streaming anime",
+        "The new prices are now in effect"
       ]
     },
     {
-      "id": "cluster_139",
+      "id": "cluster_142",
       "coverage": 1,
       "updated_at": "Mon, 02 Feb 2026 21:32:18 +0000",
       "title": "Russian drones use Starlink, but Ukraine has plan to block their Internet access",
-      "neutral_headline": "Russian drones use Starlink Internet access",
+      "neutral_headline": "Ukraine Plans To Block Russian Drones Internet Access",
       "items": [
         {
           "source": "Ars Technica",
@@ -485,54 +522,26 @@
           "title": "Russian drones use Starlink, but Ukraine has plan to block their Internet access",
           "standfirst": "Defense chief: \"No Ukrainians have been killed by Russian drones using Starlink.\"",
           "content": "Ukraine and SpaceX say they recently collaborated to stop strikes by Russian drones using Starlink and will soon block all unregistered use of Starlink terminals in an attempt to stop Russia's military from using the satellite broadband network over Ukraine territory. Ukrainians will soon be required to register their Starlink terminals to get on a whitelist. After that, \"only verified and registered terminals will be allowed to operate in the country. All others will be disconnected,\" the Ukraine Ministry of Defense said in a press release today. Ukraine Minister of Defense Mykhailo Fedorov \"emphasized that the only technical solution to counter this threat is to introduce a 'whitelist' and authorize all terminals,\" according to the ministry. \"This is a necessary step by the Government to save Ukrainian lives and protect critical energy infrastructure,\" Fedorov said.Read full article Comments",
-          "feed_position": 16,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/getty-ukraine-starlink-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/getty-ukraine-starlink-1152x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "Russian drones use Starlink for Internet access",
-        "Ukraine plans to block their Internet access",
-        "No Ukrainians killed by Russian drones using Starlink",
-        "Defense chief comments on the situation",
-        "Ukraine works to counter Russian drone technology"
+        "Ukraine plans to block Russian drones' internet",
+        "The drones are using Starlink for internet access",
+        "Ukraine has a plan to counter the drones",
+        "No Ukrainians have been killed by the drones",
+        "The plan is to prevent future attacks"
       ]
     },
     {
-      "id": "cluster_147",
-      "coverage": 1,
-      "updated_at": "Mon, 02 Feb 2026 20:00:35 +0000",
-      "title": "A century of hair samples proves leaded gas ban worked",
-      "neutral_headline": "Leaded gas ban proven effective",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/",
-          "published_at": "Mon, 02 Feb 2026 20:00:35 +0000",
-          "title": "A century of hair samples proves leaded gas ban worked",
-          "standfirst": "“We should not forget the lessons of history. And the lesson is those regulations have been very important.”",
-          "content": "The Environmental Protection Agency (EPA) cracked down on lead-based products—including lead paint and leaded gasoline—in the 1970s because of its toxic effects on human health. Scientists at the University of Utah have analyzed human hair samples spanning nearly 100 years and found a 100-fold decrease in lead concentrations, concluding that this regulatory action was highly effective in achieving its stated objectives. They described their findings in a new paper published in the Proceedings of the National Academy of Sciences. We've known about the dangers of lead exposure for a very long time—arguably since the second century BCE—so why conduct this research now? Per the authors, it's because there are growing concerns over the Trump administration's move last year to deregulate many key elements of the EPA's mission. Lead specifically has not yet been deregulated, but there are hints that there could be a loosening of enforcement of the 2024 Lead and Cooper rule requiring water systems to replace old lead pipes. “We should not forget the lessons of history. And the lesson is those regulations have been very important,” said co-author Thure Cerling. “Sometimes they seem onerous and mean that industry can't do exactly what they'd like to do when they want to do it or as quickly as they want to do it. But it's had really, really positive effects.”Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/lead2-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/lead2-1152x648.jpg",
-      "popularity_score": 148,
-      "ai_summary": [
-        "Hair samples show leaded gas ban worked",
-        "Regulations played a crucial role in success",
-        "Historical lessons from the ban are important",
-        "Data proves the effectiveness of the ban",
-        "Experts comment on the significance of the findings"
-      ]
-    },
-    {
-      "id": "cluster_145",
+      "id": "cluster_148",
       "coverage": 1,
       "updated_at": "Mon, 02 Feb 2026 20:30:56 +0000",
       "title": "Notepad++ users take note: It's time to check if you're hacked",
-      "neutral_headline": "Notepad++ users at risk of hacking",
+      "neutral_headline": "Notepad++ Users At Risk Of Hacking",
       "items": [
         {
           "source": "Ars Technica",
@@ -541,26 +550,54 @@
           "title": "Notepad++ users take note: It's time to check if you're hacked",
           "standfirst": "Suspected China-state hackers used update infrastructure to deliver backdoored version.",
           "content": "Infrastructure delivering updates for Notepad++—a widely used text editor for Windows—was compromised for six months by suspected China-state hackers who used their control to deliver backdoored versions of the app to select targets, developers said Monday. “I deeply apologize to all users affected by this hijacking,” the author of a post published to the official notepad-plus-plus.org site wrote Monday. The post said that the attack began last June with an “infrastructure-level compromise that allowed malicious actors to intercept and redirect update traffic destined for notepad-plus-plus.org.” The attackers, whom multiple investigators tied to the Chinese government, then selectively redirected certain targeted users to malicious update servers where they received backdoored updates. Notepad++ didn’t regain control of its infrastructure until December. The attackers used their access to install a never-before-seen payload that has been dubbed Chrysalis. Security firm Rapid 7 descrbed it as a \"custom, feature-rich backdoor.\"Read full article Comments",
-          "feed_position": 18,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
       "popularity_score": 143,
       "ai_summary": [
-        "Notepad++ users may be hacked through updates",
-        "Suspected China-state hackers deliver backdoored version",
-        "Users advised to check for hacking",
-        "Hackers used update infrastructure for attack",
-        "Notepad++ users warned to take action"
+        "Notepad++ users are at risk of hacking",
+        "The risk comes from a suspected China-state hack",
+        "The hackers used update infrastructure for the attack",
+        "A backdoored version of Notepad++ was delivered",
+        "Users are advised to check their software"
       ]
     },
     {
-      "id": "cluster_126",
+      "id": "cluster_98",
+      "coverage": 1,
+      "updated_at": "Tue, 03 Feb 2026 15:33:06 +0000",
+      "title": "China bans all retractable car door handles, starting next year",
+      "neutral_headline": "China Bans Retractable Car Door Handles",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/02/china-bans-all-retractable-car-door-handles-starting-next-year/",
+          "published_at": "Tue, 03 Feb 2026 15:33:06 +0000",
+          "title": "China bans all retractable car door handles, starting next year",
+          "standfirst": "The pop-out door handle ban starts in 2027 for new cars, 2029 for existing models.",
+          "content": "Flush door handles have been quite the automotive design trend of late. Stylists like them because they don't add visual noise to the side of a car. And aerodynamicists like them because they make a vehicle more slippery through the air. When Tesla designed its Model S, it needed a car that was both desirable and as efficient as possible, so flush door handles were a no-brainer. Since then, as electric vehicles have proliferated, so too have flush door handles. But as of next year, China says no. Just like pop-up headlights, despite the aesthetic and aerodynamic advantages, there are safety downsides. Tesla's handles are an extreme example: In the event of a crash and a loss of 12 V power, there is no way for first responders to open the door from the outside, which has resulted in at least 15 deaths. Those deaths prompted the National Highway Traffic Safety Administration to open an investigation last year, but China is being a little more proactive. It has been looking at whether retractable car door handles are safe since mid-2024, according to Bloomberg, and has concluded that no, they are not.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1277594023-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1277594023-1152x648.jpg",
+      "popularity_score": 140.07249222222222,
+      "ai_summary": [
+        "China has banned retractable car door handles",
+        "The ban starts in 2027 for new cars",
+        "Existing models have until 2029 to comply",
+        "The ban is for safety reasons",
+        "The new rule applies to all car manufacturers"
+      ]
+    },
+    {
+      "id": "cluster_130",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 08:06:50 +0000",
       "title": "Unable to tame hydrogen leaks, NASA delays launch of Artemis II until March",
-      "neutral_headline": "NASA delays Artemis II launch",
+      "neutral_headline": "NASA Delays Artemis II Launch Due To Hydrogen Leaks",
       "items": [
         {
           "source": "Ars Technica",
@@ -569,26 +606,26 @@
           "title": "Unable to tame hydrogen leaks, NASA delays launch of Artemis II until March",
           "standfirst": "NASA spent most of Monday trying to overcome hydrogen leaks on the Artemis II rocket.",
           "content": "The launch of NASA's Artemis II mission, the first flight of astronauts to the Moon in more than 53 years, will have to wait another month after a fueling test Monday uncovered hydrogen leaks in the connection between the rocket and its launch platform at Kennedy Space Center in Florida. \"Engineers pushed through several challenges during the two-day test and met many of the planned objectives,\" NASA said in a statement following the conclusion of the mock countdown, or wet dress rehearsal (WDR), early Tuesday morning. \"To allow teams to review data and conduct a second Wet Dress Rehearsal, NASA now will target March as the earliest possible launch opportunity for the flight test.\" The practice countdown was designed to identify problems and provide NASA an opportunity to fix them before launch. Most importantly, the test revealed NASA still has not fully resolved recurring hydrogen leaks that delayed the launch of the unpiloted Artemis I test flight by several months in 2022. Artemis I finally launched successfully after engineers revised their hydrogen loading procedures to overcome the leak.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/AFRC2026-0017-15orig-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/AFRC2026-0017-15orig-1152x648.jpg",
-      "popularity_score": 137.64194166666667,
+      "popularity_score": 133,
       "ai_summary": [
-        "NASA delays Artemis II launch due to leaks",
-        "Hydrogen leaks cause the delay",
-        "Launch delayed until March",
-        "NASA spent time trying to overcome leaks",
-        "Artemis II launch postponed for technical reasons"
+        "NASA has delayed the Artemis II launch",
+        "The delay is due to hydrogen leaks",
+        "NASA spent Monday trying to fix the issue",
+        "The launch is now scheduled for March",
+        "The delay is a setback for the mission"
       ]
     },
     {
-      "id": "cluster_135",
+      "id": "cluster_138",
       "coverage": 1,
       "updated_at": "Mon, 02 Feb 2026 22:57:56 +0000",
       "title": "Looking back at Catacomb 3D, the game that led to Wolfenstein 3D",
-      "neutral_headline": "Catacomb 3D game history",
+      "neutral_headline": "Catacomb 3D Led To Wolfenstein 3D Development",
       "items": [
         {
           "source": "Ars Technica",
@@ -597,26 +634,26 @@
           "title": "Looking back at Catacomb 3D, the game that led to Wolfenstein 3D",
           "standfirst": "Romero, Carmack, and colleagues discuss an oft-forgotten piece of PC gaming history.",
           "content": "If you know anything about the history of id Software, you know how 1992's Wolfenstein 3D helped establish the company's leadership in the burgeoning first-person shooter genre, leading directly to subsequent hits like Doom and Quake. But only the serious id Software nerds remember Catacomb 3D, id's first-person adventure game that directly preceded and inspired work on Wolfenstein 3D. Now, nearly 35 years after Catacomb 3D's initial release, id co-founder John Romero brought the company's founding members together for an informative retrospective video on the creation of the oft-forgotten game. But the pioneering game—which included mouse support, color-coded keys, and shooting walls to find secrets—almost ended up being a gimmicky dead end for the company. id Software's founders look back at an oft-forgotten piece of gaming history. Texture maps and \"undo\" animation Catacomb 3D was a follow-up to id's earlier Catacomb, which was a simplified clone of the popular arcade hit Gauntlet. As such, the 3D game still has some of that \"quarter eater\" mentality that was not very fashionable in PC gaming at the time, as John Carmack remembered.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/c3d-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/c3d-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Catacomb 3D led to Wolfenstein 3D development",
-        "Game developers discuss PC gaming history",
-        "Romero and Carmack comment on the game",
-        "Catacomb 3D is an oft-forgotten game",
-        "Game played a role in PC gaming evolution"
+        "Catacomb 3D was a precursor to Wolfenstein 3D",
+        "The game was developed by Romero and Carmack",
+        "Catacomb 3D was an important part of PC gaming history",
+        "The game's development led to Wolfenstein 3D",
+        "The game is still remembered today"
       ]
     },
     {
-      "id": "cluster_142",
+      "id": "cluster_145",
       "coverage": 1,
       "updated_at": "Mon, 02 Feb 2026 20:43:31 +0000",
       "title": "Court orders restart of all US offshore wind construction",
-      "neutral_headline": "US offshore wind construction restarts",
+      "neutral_headline": "Court Orders Restart Of US Offshore Wind Construction",
       "items": [
         {
           "source": "Ars Technica",
@@ -625,18 +662,18 @@
           "title": "Court orders restart of all US offshore wind construction",
           "standfirst": "Trump admin's \"it's classified\" ploy put on hold in five different cases.",
           "content": "The Trump administration is no fan of renewable energy, but it reserves special ire for wind power. Trump himself has repeatedly made false statements about the cost of wind power, its use around the world, and its environmental impacts. That animosity was paired with an executive order that blocked all permitting for offshore wind and some land-based projects, an order that has since been thrown out by a court that ruled it arbitrary and capricious. Not content to block all future developments, the administration has also gone after the five offshore wind projects currently under construction. After temporarily blocking two of them for reasons that were never fully elaborated, the Department of the Interior settled on a single justification for blocking turbine installation: a classified national security risk. The response to that late-December announcement has been uniform: The companies building each of the projects sued the administration. As of Monday, every single one of them has achieved the same result: a temporary injunction that allows them to continue construction. This, despite the fact that the suits were filed in three different courts and heard by four different judges.Read full article Comments",
-          "feed_position": 17,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1623091024.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1623091024.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Court orders restart of US offshore wind construction",
-        "Trump admin's classified ploy put on hold",
-        "Five different cases affected by the decision",
-        "Construction to resume after court order",
-        "Offshore wind projects to move forward"
+        "A court has ordered the restart of offshore wind construction",
+        "The construction was halted by the Trump administration",
+        "The administration had cited classified information",
+        "The court has put the administration's ploy on hold",
+        "The construction can now resume"
       ]
     }
   ]
