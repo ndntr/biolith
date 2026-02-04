@@ -1,49 +1,152 @@
 {
-  "updated_at": "2026-02-04T19:38:52.877Z",
+  "updated_at": "2026-02-04T23:28:41.523Z",
   "clusters": [
     {
-      "id": "cluster_17",
-      "coverage": 2,
-      "updated_at": "Wed, 04 Feb 2026 13:00:47 -0500",
-      "title": "GitHub integrates Claude and Codex AI coding agents directly into GitHub, GitHub Mobile, and Visual Studio Code, for Copilot Pro Plus and Enterprise users (Tom Warren/The Verge)",
-      "neutral_headline": "GitHub Integrates Claude And Codex AI Coding Agents",
+      "id": "cluster_2",
+      "coverage": 1,
+      "updated_at": "Wed, 04 Feb 2026 23:08:04 +0000",
+      "title": "Microsoft releases urgent Office patch. Russian-state hackers pounce.",
+      "neutral_headline": "Microsoft Releases Urgent Office Patch",
       "items": [
         {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/260204/p36#a260204p36",
-          "published_at": "Wed, 04 Feb 2026 13:00:47 -0500",
-          "title": "GitHub integrates Claude and Codex AI coding agents directly into GitHub, GitHub Mobile, and Visual Studio Code, for Copilot Pro Plus and Enterprise users (Tom Warren/The Verge)",
-          "standfirst": "Tom Warren / The Verge: GitHub integrates Claude and Codex AI coding agents directly into GitHub, GitHub Mobile, and Visual Studio Code, for Copilot Pro Plus and Enterprise users &mdash; Microsoft-owned GitHub continues to embrace OpenAI and Anthropic AI advances. &hellip; GitHub is making Claude by Anthropic &hellip;",
-          "content": "Tom Warren / The Verge: GitHub integrates Claude and Codex AI coding agents directly into GitHub, GitHub Mobile, and Visual Studio Code, for Copilot Pro Plus and Enterprise users &mdash; Microsoft-owned GitHub continues to embrace OpenAI and Anthropic AI advances. &hellip; GitHub is making Claude by Anthropic &hellip;",
-          "feed_position": 1,
-          "image_url": "http://www.techmeme.com/260204/i36.jpg"
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/873665/github-claude-codex-ai-agents",
-          "published_at": "2026-02-04T12:00:00-05:00",
-          "title": "GitHub adds Claude and Codex AI coding agents",
-          "standfirst": "GitHub is making Claude by Anthropic and OpenAI's Codex AI coding agents directly available inside GitHub today. A new public preview adds Claude and Codex to GitHub, GitHub Mobile, and Visual Studio Code, for users with a Copilot Pro Plus or Copilot Enterprise subscription. The move is part of Agent HQ, GitHub's vision to make [&#8230;]",
-          "content": "GitHub is making Claude by Anthropic and OpenAI's Codex AI coding agents directly available inside GitHub today. A new public preview adds Claude and Codex to GitHub, GitHub Mobile, and Visual Studio Code, for users with a Copilot Pro Plus or Copilot Enterprise subscription. The move is part of Agent HQ, GitHub's vision to make AI agents native to how developers use GitHub every day. Developers can now choose Copilot, Claude, Codex, or other custom agents when they're creating a task. Each coding agent will consume a premium request, and developers can assign agents to issues and pull requests. Developers will also be able to judge how Cop … Read the full story at The Verge.",
-          "feed_position": 6
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/",
+          "published_at": "Wed, 04 Feb 2026 23:08:04 +0000",
+          "title": "Microsoft releases urgent Office patch. Russian-state hackers pounce.",
+          "standfirst": "The window to patch vulnerabilities is shrinking rapidly.",
+          "content": "Russian-state hackers wasted no time exploiting a critical Microsoft Office vulnerability that allowed them to compromise the devices inside diplomatic, maritime, and transport organizations in more than half a dozen countries, researchers said Wednesday. The threat group, tracked under names including APT28, Fancy Bear, Sednit, Forest Blizzard, and Sofacy, pounced on the vulnerability, tracked as CVE-2026-21509, less than 48 hours after Microsoft released an urgent, unscheduled security update late last month, the researchers said. After reverse-engineering the patch, group members wrote an advanced exploit that installed one of two never-before-seen backdoor implants. Stealth, speed, and precision The entire campaign was designed to make the compromise undetectable to endpoint protection. Besides being novel, the exploits and payloads were encrypted and ran in memory, making their malice hard to spot. The initial infection vector came from previously compromised government accounts from multiple countries and were likely familiar to the targeted email holders. Command and control channels were hosted in legitimate cloud services that are typically allow-listed inside sensitive networks.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/russia-state-hacking.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/260204/i36.jpg",
-      "popularity_score": 2018.3650341666666,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/russia-state-hacking.jpg",
+      "popularity_score": 374.65624388888887,
       "ai_summary": [
-        "GitHub integrates AI coding agents into its platform",
-        "The agents are available for Pro Plus and Enterprise users",
-        "Claude and Codex are AI coding agents from Anthropic",
-        "The integration is part of GitHub's Agent HQ vision",
-        "The move aims to improve coding efficiency for users"
+        "Russian-state hackers target vulnerabilities",
+        "Patch released to fix Office vulnerabilities",
+        "Window to patch vulnerabilities is shrinking",
+        "Hackers take advantage of unpatched systems",
+        "Microsoft urges users to update Office"
       ]
     },
     {
-      "id": "cluster_10",
+      "id": "cluster_20",
+      "coverage": 1,
+      "updated_at": "Wed, 04 Feb 2026 21:15:07 +0000",
+      "title": "Should AI chatbots have ads? Anthropic says no.",
+      "neutral_headline": "Anthropic Says No To AI Chatbot Ads",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
+          "published_at": "Wed, 04 Feb 2026 21:15:07 +0000",
+          "title": "Should AI chatbots have ads? Anthropic says no.",
+          "standfirst": "ChatGPT competitor comes out swinging with Super Bowl ad mocking AI product pitches.",
+          "content": "On Wednesday, Anthropic announced that its AI chatbot, Claude, will remain free of advertisements, drawing a sharp line between itself and rival OpenAI, which began testing ads in a low-cost tier of ChatGPT last month. The announcement comes alongside a Super Bowl ad campaign that mocks AI assistants that interrupt personal conversations with product pitches. \"There are many good places for advertising. A conversation with Claude is not one of them,\" Anthropic wrote in a blog post. The company argued that including ads in AI conversations would be \"incompatible\" with what it wants Claude to be: \"a genuinely helpful assistant for work and for deep thinking.\" The stance contrasts with OpenAI's January announcement that it would begin testing banner ads for free users and ChatGPT Go subscribers in the US. OpenAI said those ads would appear at the bottom of responses and would not influence the chatbot's actual answers. Paid subscribers on Plus, Pro, Business, and Enterprise tiers will not see ads on ChatGPT.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/claude-no-ads-1152x648.png"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/claude-no-ads-1152x648.png",
+      "popularity_score": 362.7737438888889,
+      "ai_summary": [
+        "Anthropic competes with ChatGPT",
+        "Company comes out against AI ads",
+        "Super Bowl ad mocks AI product pitches",
+        "Anthropic takes stance on chatbot ads",
+        "AI chatbots may have ads in future"
+      ]
+    },
+    {
+      "id": "cluster_4",
+      "coverage": 1,
+      "updated_at": "Wed, 04 Feb 2026 22:41:15 +0000",
+      "title": "FBI stymied by Apple&#039;s Lockdown Mode after seizing journalist&#039;s iPhone",
+      "neutral_headline": "FBI Stymied By Apple Lockdown Mode",
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/tech-policy/2026/02/fbi-stymied-by-apples-lockdown-mode-after-seizing-journalists-iphone/",
+          "published_at": "Wed, 04 Feb 2026 22:41:15 +0000",
+          "title": "FBI stymied by Apple&#039;s Lockdown Mode after seizing journalist&#039;s iPhone",
+          "standfirst": "Post reporter was compelled to unlock MacBook Pro with fingerprint, however.",
+          "content": "The Federal Bureau of Investigation has so far been unable to access data from a Washington Post reporter's iPhone because it was protected by Apple's Lockdown Mode when agents seized the device from the reporter's home, the US government said in a court filing. FBI agents were able to access the reporter's work laptop by telling her to place her index finger on the MacBook Pro's fingerprint reader, however. This occurred during the January 14 search at the Virginia home of reporter Hannah Natanson. As previously reported, the FBI executed a search warrant at Natanson's home as part of an investigation into a Pentagon contractor accused of illegally leaking classified data. FBI agents seized an iPhone 13 owned by the Post, one MacBook Pro owned by the Post and another MacBook Pro owned by Natanson, a 1TB portable hard drive, a voice recorder, and a Garmin watch.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/iphone-and-macbook-pro-1152x648-1770243377.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/iphone-and-macbook-pro-1152x648-1770243377.jpg",
+      "popularity_score": 354.20929944444447,
+      "ai_summary": [
+        "FBI seizes journalist's iPhone",
+        "Lockdown Mode prevents FBI access",
+        "Journalist unlocks MacBook Pro with fingerprint",
+        "FBI unable to access iPhone data",
+        "Apple's Lockdown Mode is secure feature"
+      ]
+    },
+    {
+      "id": "cluster_26",
+      "coverage": 1,
+      "updated_at": "Wed, 04 Feb 2026 21:01:05 +0000",
+      "title": "US House takes first step toward creating \"commercial\" deep space program",
+      "neutral_headline": "US House Takes Step Toward Deep Space",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/02/us-house-takes-first-step-toward-creating-commercial-deep-space-program/",
+          "published_at": "Wed, 04 Feb 2026 21:01:05 +0000",
+          "title": "US House takes first step toward creating \"commercial\" deep space program",
+          "standfirst": "\"We will continue to rely on the ingenuity of the private sector.\"",
+          "content": "A US House committee with oversight of NASA unanimously passed a \"reauthorization\" act for the space agency on Wednesday. The legislation must still be approved by the full House before being sent to the Senate, which may take up consideration later this month. Congress passes such reauthorization bills every couple of years, providing the space agency with a general sense of the direction legislators want to see NASA go. They are distinct from appropriations bills, which provide actual funding for specific programs, but nonetheless play an important role in establishing space policy. There weren't any huge surprises in the legislation, but there were some interesting amendments. Most notably among these was the Amendment No. 01, offered by the chair of the Committee on Science, Space, and Technology, Rep. Brian Babin (R-Texas), as well as its ranking member, Zoe Lofgren (D-Calif.), and three other legislators.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_0060-1-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_0060-1-1152x648.jpg",
+      "popularity_score": 348.539855,
+      "ai_summary": [
+        "US House considers deep space program",
+        "Private sector will play key role",
+        "Program will rely on private ingenuity",
+        "Deep space exploration is goal",
+        "US House takes first step toward program"
+      ]
+    },
+    {
+      "id": "cluster_32",
+      "coverage": 1,
+      "updated_at": "Wed, 04 Feb 2026 20:23:47 +0000",
+      "title": "Judge gives Musk bad news, says Trump hasn't intervened to block SEC lawsuit",
+      "neutral_headline": "Musk Loses Bid To Block SEC Lawsuit",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/02/trump-ghosts-musk-wont-back-claims-sec-lawsuit-was-political-harassment/",
+          "published_at": "Wed, 04 Feb 2026 20:23:47 +0000",
+          "title": "Judge gives Musk bad news, says Trump hasn't intervened to block SEC lawsuit",
+          "standfirst": "Musk is stuck fighting SEC suit seeking $150M in disgorgements from his Twitter takeover.",
+          "content": "Donald Trump is so far not stepping in to help Elon Musk end a lawsuit raised by the Securities and Exchange Commission (SEC) over his 2022 Twitter takeover, a US district judge said this week. Filed by the SEC in the final days of Joe Biden's administration, the lawsuit seeks $150 million in disgorgement, plus interest, as well as civil penalties and an injunction blocking Musk from future wrongdoing. The complaint alleged that Musk quietly acquired a 9 percent stake in Twitter without filing necessary timely disclosures to alert other investors of a potential change in company control. This allowed Musk to acquire over 70 million shares at an artificially lower price, the SEC alleged, causing substantial economic harm to investors selling Twitter common stock, some of whom have separately sued.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2217852297-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2217852297-1024x648.jpg",
+      "popularity_score": 329.9181883333333,
+      "ai_summary": [
+        "Judge rules against Elon Musk",
+        "SEC lawsuit seeks $150M in disgorgements",
+        "Musk must fight SEC lawsuit",
+        "Twitter takeover is subject of lawsuit",
+        "Musk faces legal action from SEC"
+      ]
+    },
+    {
+      "id": "cluster_51",
       "coverage": 1,
       "updated_at": "Wed, 04 Feb 2026 18:32:38 +0000",
       "title": "\"Capture it all\": ICE urged to explain memo about collecting info on protesters",
-      "neutral_headline": "ICE Urged To Explain Memo On Protester Info",
+      "neutral_headline": "ICE Urged To Explain Protester Info",
       "items": [
         {
           "source": "Ars Technica",
@@ -52,26 +155,54 @@
           "title": "\"Capture it all\": ICE urged to explain memo about collecting info on protesters",
           "standfirst": "Sen. Markey: Database of peaceful protesters, if it exists, should be shut down.",
           "content": "Senator Edward J. Markey (D-Mass.) demanded that Immigration and Customs Enforcement (ICE) confirm or deny the existence of a \"domestic terrorists” database that lists US citizens who protest ICE's immigration crackdown. ICE \"officers and senior Trump administration officials have repeatedly suggested that the Department of Homeland Security (DHS) is building a 'domestic terrorists' database comprising information on US citizens protesting ICE’s actions in recent weeks,\" Markey wrote in a letter yesterday to Acting ICE Director Todd Lyons. \"If such a database exists, it would constitute a grave and unacceptable constitutional violation. I urge you to immediately confirm or deny the existence of such a database, and if it exists, immediately shut it down and delete it.\" Creating a database of peaceful protesters \"would constitute a shocking violation of the First Amendment and abuse of power,\" and amount to \"the kinds of tactics the United States rightly condemns in authoritarian governments such as China and Russia,\" Markey said.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/edward-markey-1152x648-1770227145.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/edward-markey-1152x648-1770227145.jpg",
-      "popularity_score": 371.8958675,
+      "popularity_score": 328.06568833333336,
       "ai_summary": [
-        "Sen Markey urges ICE to explain a memo on protesters",
-        "The memo allegedly discusses collecting info on protesters",
-        "A database of peaceful protesters may exist",
-        "The database should be shut down if it exists",
-        "ICE has not commented on the memo's existence"
+        "ICE collects info on protesters",
+        "Senator urges ICE to explain memo",
+        "Database of protesters may exist",
+        "ICE actions raise concerns about privacy",
+        "Senator seeks answers from ICE"
       ]
     },
     {
-      "id": "cluster_23",
+      "id": "cluster_35",
+      "coverage": 1,
+      "updated_at": "Wed, 04 Feb 2026 20:02:22 +0000",
+      "title": "Trump admin is \"destroying medical research,\" Senate report finds",
+      "neutral_headline": "Trump Admin Hurts Medical Research",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/02/trump-admin-is-destroying-medical-research-senate-report-finds/",
+          "published_at": "Wed, 04 Feb 2026 20:02:22 +0000",
+          "title": "Trump admin is \"destroying medical research,\" Senate report finds",
+          "standfirst": "In a Senate hearing Tuesday, NIH director dismissed concern about research chaos.",
+          "content": "Jay Bhattacharya, director of the National Institutes of Health under the Trump administration, appeared before the Senate Committee on Health, Education, Labor, and Pensions (HELP) Tuesday. In the wide-ranging hearing, Bhattacharya defended the chaotic and disruptive cuts at the institutes he helms while carefully wording responses related to vaccines—seemingly to avoid contradicting his boss, anti-vaccine Health Secretary Robert F. Kennedy Jr. As Bhattacharya testified, Sen. Bernie Sanders (I-Vt.), the HELP committee's ranking member, released a report outlining the state of the NIH. The report concluded that the Trump administration is \"failing American patients,\" and \"destroying medical research through cuts to research grants, terminations of clinical trials, and the chaos it has created.\" Since Trump took office, the NIH has terminated or frozen hundreds of millions of dollars for research grants, including $561 million in grants to research the four leading causes of death in America, the report found.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2259222585-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2259222585-1152x648.jpg",
+      "popularity_score": 319.5612438888889,
+      "ai_summary": [
+        "Senate report finds research harmed",
+        "Trump administration actions criticized",
+        "Medical research is affected negatively",
+        "NIH director dismisses concern about research",
+        "Research chaos is result of Trump actions"
+      ]
+    },
+    {
+      "id": "cluster_64",
       "coverage": 1,
       "updated_at": "Wed, 04 Feb 2026 17:55:13 +0000",
       "title": "User blowback convinces Adobe to keep supporting 30-year-old 2D animation app",
-      "neutral_headline": "Adobe To Keep Supporting Old Animation App",
+      "neutral_headline": "Adobe To Keep Supporting Old App",
       "items": [
         {
           "source": "Ars Technica",
@@ -80,26 +211,26 @@
           "title": "User blowback convinces Adobe to keep supporting 30-year-old 2D animation app",
           "standfirst": "Despite the about-face, some customers think \"the damage is done.\"",
           "content": "Adobe has canceled plans to discontinue its 2D animation software Animate. On Monday, Adobe announced that it would stop allowing people to sell subscriptions to Animate on March 1, saying the software had “served its purpose.\" People who already had a software license would be able to keep using Animate with technical support until March 1, 2027; businesses had until March 1, 2029. Per an email sent to customers, Adobe also said users would lose access to Animate files and project data on March 1, 2027. Animate costs $23 per month. After receiving backlash from animators and other users, Adobe reversed its decision on Tuesday night. In an announcement posted online, the San Jose, California-headquartered company said:Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2217925353-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2217925353-1024x648.jpg",
-      "popularity_score": 341.2722563888889,
+      "popularity_score": 297.4420772222222,
       "ai_summary": [
-        "Adobe will continue to support a 30-year-old app",
-        "The app is a 2D animation tool used by many",
-        "Users had expressed concern about the app's future",
-        "Adobe has reversed its decision to discontinue support",
-        "The app will continue to receive updates and support"
+        "Adobe changes mind on 2D animation app",
+        "App is 30 years old",
+        "Users convinced Adobe to keep supporting",
+        "Despite change, some users are unhappy",
+        "Adobe will continue to support old app"
       ]
     },
     {
-      "id": "cluster_61",
+      "id": "cluster_91",
       "coverage": 1,
       "updated_at": "Wed, 04 Feb 2026 15:02:29 +0000",
       "title": "Russian spy satellites have intercepted EU communications satellites",
-      "neutral_headline": "Russian Satellites Intercept EU Communications",
+      "neutral_headline": "Russian Spy Satellites Intercept EU",
       "items": [
         {
           "source": "Ars Technica",
@@ -108,22 +239,22 @@
           "title": "Russian spy satellites have intercepted EU communications satellites",
           "standfirst": "Unencrypted European communications are being targeted by Moscow.",
           "content": "European security officials believe two Russian space vehicles have intercepted the communications of at least a dozen key satellites over the continent. Officials believe that the likely interceptions, which have not previously been reported, risk not only compromising sensitive information transmitted by the satellites but could also allow Moscow to manipulate their trajectories or even crash them. Russian space vehicles have shadowed European satellites more intensively over the past three years, at a time of high tension between the Kremlin and the West following Moscow’s full-scale invasion of Ukraine.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/intelstat-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/intelstat-1152x648.jpg",
-      "popularity_score": 328.3933675,
+      "popularity_score": 284.56318833333336,
       "ai_summary": [
-        "Russian spy satellites have intercepted EU communications",
-        "The communications are unencrypted and vulnerable",
-        "The EU has not commented on the interceptions",
-        "The incident raises concerns about data security",
-        "Russia has not confirmed or denied the interceptions"
+        "Russian satellites target EU communications",
+        "Unencrypted communications are vulnerable",
+        "EU communications are being intercepted",
+        "Russian actions raise concerns about security",
+        "EU must take action to secure communications"
       ]
     },
     {
-      "id": "cluster_66",
+      "id": "cluster_96",
       "coverage": 1,
       "updated_at": "Wed, 04 Feb 2026 14:41:30 +0000",
       "title": "NASA finally acknowledges the elephant in the room with the SLS rocket",
@@ -136,26 +267,26 @@
           "title": "NASA finally acknowledges the elephant in the room with the SLS rocket",
           "standfirst": "\"You know, you're right, the flight rate—three years is a long time.\"",
           "content": "The Space Launch System rocket program is now a decade and a half old, and it continues to be dominated by two unfortunate traits: It is expensive, and it is slow. The massive rocket and its convoluted ground systems, so necessary to baby and cajole the booster's prickly hydrogen propellant on board, have cost US taxpayers in excess of $30 billion to date. And even as it reaches maturity, the rocket is going nowhere fast. You remember the last time NASA tried to launch the world's largest orange rocket, right? The space agency rolled the Space Launch System out of its hangar in March 2022. The first, second, and third attempts at a wet dress rehearsal—elaborate fueling tests—were scrubbed. The SLS rocket was slowly rolled back to its hangar for work in April before returning to the pad in June.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Artemis-II-at-the-pad-Full-Snow-Moon-02012026_8large-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Artemis-II-at-the-pad-Full-Snow-Moon-02012026_8large-1152x648.jpg",
-      "popularity_score": 318.0436452777778,
+      "popularity_score": 274.21346611111113,
       "ai_summary": [
-        "NASA acknowledges issues with the SLS rocket",
-        "The rocket's flight rate is a major concern",
-        "The rocket has not flown in three years",
-        "NASA is working to address the issues",
-        "The SLS rocket is a key part of NASA's plans"
+        "NASA acknowledges SLS rocket problems",
+        "Flight rate is concern for NASA",
+        "SLS rocket has long development time",
+        "NASA faces challenges with SLS program",
+        "SLS rocket is crucial for NASA missions"
       ]
     },
     {
-      "id": "cluster_94",
+      "id": "cluster_116",
       "coverage": 1,
       "updated_at": "Wed, 04 Feb 2026 12:00:37 +0000",
       "title": "So yeah, I vibe-coded a log colorizer—and I feel good about it",
-      "neutral_headline": "Log Colorizer Uses Vibe Coding Technique",
+      "neutral_headline": "Log Colorizer Uses LLMs",
       "items": [
         {
           "source": "Ars Technica",
@@ -164,54 +295,26 @@
           "title": "So yeah, I vibe-coded a log colorizer—and I feel good about it",
           "standfirst": "Some semi-unhinged musings on where LLMs fit into my life—and how I'll keep using them.",
           "content": "I can't code. I know, I know—these days, that sounds like an excuse. Anyone can code, right?! Grab some tutorials, maybe an O'Reilly book, download an example project, and jump in. It's just a matter of learning how to break your project into small steps that you can make the computer do, then memorizing a bit of syntax. Nothing about that is hard! Perhaps you can sense my sarcasm (and sympathize with my lack of time to learn one more technical skill).Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/lee-romance-violence-anything-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/lee-romance-violence-anything-1152x648.jpg",
-      "popularity_score": 305.3622563888889,
+      "popularity_score": 261.5320772222222,
       "ai_summary": [
-        "A log colorizer uses a vibe coding technique",
-        "The technique is used for coding and development",
-        "The tool is designed to improve coding efficiency",
-        "The technique has been used in other projects",
-        "The log colorizer is a useful tool for developers"
+        "Log colorizer is created using LLMs",
+        "LLMs are used for various tasks",
+        "Log colorizer is useful tool",
+        "LLMs have many potential applications",
+        "Log colorizer is example of LLM use"
       ]
     },
     {
-      "id": "cluster_121",
-      "coverage": 1,
-      "updated_at": "Tue, 03 Feb 2026 22:55:59 +0000",
-      "title": "Godlike Titan threatens humanity in Monarch: Legacy of Monsters S2 trailer",
-      "neutral_headline": "Monarch Legacy Of Monsters S2 Trailer Released",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/02/meet-the-new-tentacled-titan-x-in-monarch-legacy-of-monsters-s2-trailer/",
-          "published_at": "Tue, 03 Feb 2026 22:55:59 +0000",
-          "title": "Godlike Titan threatens humanity in Monarch: Legacy of Monsters S2 trailer",
-          "standfirst": "\"This Titan is like a god, and the sea creatures worship it.\"",
-          "content": "Last month, Apple TV released a teaser for the second season of Monarch: Legacy of Monsters, part of Legendary Entertainment’s MonsterVerse, which brought Godzilla, King Kong, and various other monsters (kaiju) created by Toho Co., Ltd into a shared narrative. But we only got the most fleeting glimpse of the promised new mythical Titan threatening the human race. The full trailer just dropped and rectifies that: It's a gigantic tentacled undersea being dubbed Titan X—and only Kong and Godzilla can stop it. (Spoilers for Season 1 below.) As previously reported, the first season picked up where 2014’s Godzilla left off, specifically the introduction of Project Monarch, a secret organization established in the 1950s to study Godzilla and other kaiju—after attempts to kill Godzilla with nuclear weapons failed. In the S1 finale, Godzilla fights off an Ion Dragon, tossing it through a rift back to the Hollow Earth, and Lee Shaw (Kurt Russell) seemingly sacrifices himself to save his colleagues. Per the official Season 2 premise:Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/monarch1-1152x648-1770156538.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/monarch1-1152x648-1770156538.jpg",
-      "popularity_score": 288,
-      "ai_summary": [
-        "A new trailer for Monarch Legacy of Monsters is out",
-        "The trailer features a godlike Titan character",
-        "The character is a threat to humanity",
-        "The trailer shows the Titan's powers",
-        "The show is a sci-fi series with monsters"
-      ]
-    },
-    {
-      "id": "cluster_116",
+      "id": "cluster_136",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 23:41:39 +0000",
       "title": "Netflix says users can cancel service if HBO Max merger makes it too expensive",
-      "neutral_headline": "Netflix Users Can Cancel Service After HBO Merger",
+      "neutral_headline": "Netflix Users Can Cancel Over HBO",
       "items": [
         {
           "source": "Ars Technica",
@@ -220,26 +323,54 @@
           "title": "Netflix says users can cancel service if HBO Max merger makes it too expensive",
           "standfirst": "Eighty percent of HBO Max subscribers subscribe to Netflix, Sarandos tells Senate.",
           "content": "There is concern that subscribers might be negatively affected if Netflix acquires Warner Bros. Discovery’s (WBD's) streaming and movie studios businesses. One of the biggest fears is that the merger would lead to higher prices due to less competition for Netflix. During a Senate hearing today, Netflix co-CEO Ted Sarandos suggested that the merger would have an opposite effect. Sarandos was speaking at a hearing held by the US Senate Judiciary Committee’s Subcommittee on Antitrust, Competition Policy, and Consumer Rights, “Examining the Competitive Impact of the Proposed Netflix-Warner Brothers Transaction.” Sarandos aimed to convince the subcommittee that Netflix wouldn’t become a monopoly in streaming or in movie and TV production if regulators allowed its acquisition to close. Netflix is the largest subscription video-on-demand (SVOD) provider by subscribers (301.63 million as of January 2025), and WBD is the third (128 million streaming subscribers, including users of HBO Max and, to a smaller degree, Discovery+).Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2259767834-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2259767834-1024x648.jpg",
-      "popularity_score": 283.0461452777778,
+      "popularity_score": 243,
       "ai_summary": [
-        "Netflix users can cancel service after HBO merger",
-        "The merger may make the service too expensive",
-        "Eighty percent of HBO Max users subscribe to Netflix",
-        "Netflix is prepared for potential cancellations",
-        "The company will adapt to changing user needs"
+        "Netflix users may cancel over HBO merger",
+        "HBO Max merger may increase costs",
+        "Eighty percent of HBO users subscribe to Netflix",
+        "Netflix users have option to cancel",
+        "Merger may affect Netflix user base"
       ]
     },
     {
-      "id": "cluster_122",
+      "id": "cluster_139",
+      "coverage": 1,
+      "updated_at": "Tue, 03 Feb 2026 22:55:59 +0000",
+      "title": "Godlike Titan threatens humanity in Monarch: Legacy of Monsters S2 trailer",
+      "neutral_headline": "Godlike Titan Threatens Humanity",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2026/02/meet-the-new-tentacled-titan-x-in-monarch-legacy-of-monsters-s2-trailer/",
+          "published_at": "Tue, 03 Feb 2026 22:55:59 +0000",
+          "title": "Godlike Titan threatens humanity in Monarch: Legacy of Monsters S2 trailer",
+          "standfirst": "\"This Titan is like a god, and the sea creatures worship it.\"",
+          "content": "Last month, Apple TV released a teaser for the second season of Monarch: Legacy of Monsters, part of Legendary Entertainment’s MonsterVerse, which brought Godzilla, King Kong, and various other monsters (kaiju) created by Toho Co., Ltd into a shared narrative. But we only got the most fleeting glimpse of the promised new mythical Titan threatening the human race. The full trailer just dropped and rectifies that: It's a gigantic tentacled undersea being dubbed Titan X—and only Kong and Godzilla can stop it. (Spoilers for Season 1 below.) As previously reported, the first season picked up where 2014’s Godzilla left off, specifically the introduction of Project Monarch, a secret organization established in the 1950s to study Godzilla and other kaiju—after attempts to kill Godzilla with nuclear weapons failed. In the S1 finale, Godzilla fights off an Ion Dragon, tossing it through a rift back to the Hollow Earth, and Lee Shaw (Kurt Russell) seemingly sacrifices himself to save his colleagues. Per the official Season 2 premise:Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/monarch1-1152x648-1770156538.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/monarch1-1152x648-1770156538.jpg",
+      "popularity_score": 148,
+      "ai_summary": [
+        "Monarch Legacy of Monsters S2 trailer",
+        "Godlike Titan is main antagonist",
+        "Titan is worshipped by sea creatures",
+        "Humanity is threatened by Titan",
+        "Trailer shows action-packed scenes"
+      ]
+    },
+    {
+      "id": "cluster_140",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 22:44:15 +0000",
       "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
-      "neutral_headline": "Nvidia OpenAI Deal Has Vanished",
+      "neutral_headline": "Nvidia OpenAI Deal Fails To Materialize",
       "items": [
         {
           "source": "Ars Technica",
@@ -248,26 +379,26 @@
           "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
           "standfirst": "Two AI giants shake market confidence after investment fails to materialize.",
           "content": "In September 2025, Nvidia and OpenAI announced a letter of intent for Nvidia to invest up to $100 billion in OpenAI's AI infrastructure. At the time, the companies said they expected to finalize details \"in the coming weeks.\" Five months later, no deal has closed, Nvidia's CEO now says the $100 billion figure was \"never a commitment,\" and Reuters reports that OpenAI has been quietly seeking alternatives to Nvidia chips since last year. Reuters also wrote that OpenAI is unsatisfied with the speed of some Nvidia chips for inference tasks, citing eight sources familiar with the matter. Inference is the process by which a trained AI model generates responses to user queries. According to the report, the issue became apparent in OpenAI's Codex, an AI code-generation tool. OpenAI staff reportedly attributed some of Codex's performance limitations to Nvidia's GPU-based hardware. After the Reuters story published and Nvidia's stock price took a dive, Nvidia and OpenAI have tried to smooth things over publicly. OpenAI CEO Sam Altman posted on X: \"We love working with NVIDIA and they make the best AI chips in the world. We hope to be a gigantic customer for a very long time. I don't get where all this insanity is coming from.\"Read full article Comments",
-          "feed_position": 7,
+          "feed_position": 11,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/nvidia-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/nvidia-1152x648.jpg",
-      "popularity_score": 278,
+      "popularity_score": 148,
       "ai_summary": [
-        "Nvidia's $100 billion OpenAI deal has fallen through",
-        "The deal was expected to be a major investment",
-        "The failure of the deal has shaken market confidence",
-        "Nvidia and OpenAI have not commented on the deal",
-        "The incident has raised concerns about AI investments"
+        "Nvidia and OpenAI investment deal failed",
+        "Market confidence shaken by AI giants",
+        "Investment was valued at $100 billion",
+        "Deal details not publicly disclosed",
+        "Impact on AI market still uncertain"
       ]
     },
     {
-      "id": "cluster_129",
+      "id": "cluster_145",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 20:13:08 +0000",
       "title": "X office raided in France's Grok probe; Elon Musk summoned for questioning",
-      "neutral_headline": "X Office Raided In France's Grok Probe",
+      "neutral_headline": "X Office Raided In France Investigation",
       "items": [
         {
           "source": "Ars Technica",
@@ -276,110 +407,26 @@
           "title": "X office raided in France's Grok probe; Elon Musk summoned for questioning",
           "standfirst": "Paris prosecutor: Illegal content probe includes pornographic images of minors.",
           "content": "French law enforcement authorities today raided X's Paris office and summoned Elon Musk for questioning as part of an investigation into illegal content. The Paris public prosecutor’s office said the yearlong probe was recently expanded because the Grok chatbot was disseminating Holocaust-denial claims and sexually explicit deepfakes. Europol, which is assisting French authorities, said today the \"investigation concerns a range of suspected criminal offenses linked to the functioning and use of the platform, including the dissemination of illegal content and other forms of online criminal activity.\" Europol's cybercrime center provided \"an analyst on the ground in Paris to assist national authorities.\" The French Gendarmerie’s cybercrime unit is also aiding the investigation. French authorities want to question Musk and former X CEO Linda Yaccarino, who quit last year amid a controversy over Grok's praise of Hitler. Prosecutors summoned Musk and Yaccarino for interviews in April 2026, though the interviews are being described as voluntary.Read full article Comments",
-          "feed_position": 9,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Elon-Musk-X-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Elon-Musk-X-1152x648.jpg",
-      "popularity_score": 258,
+      "popularity_score": 148,
       "ai_summary": [
-        "X office has been raided in France's Grok probe",
-        "The probe is investigating illegal content",
-        "Elon Musk has been summoned for questioning",
-        "The probe includes pornographic images of minors",
-        "The incident has raised concerns about online safety"
+        "X office raided in France for investigation",
+        "Elon Musk summoned for questioning",
+        "Probe includes pornographic images of minors",
+        "Paris prosecutor leading the investigation",
+        "X company facing legal scrutiny"
       ]
     },
     {
-      "id": "cluster_126",
-      "coverage": 1,
-      "updated_at": "Tue, 03 Feb 2026 21:15:57 +0000",
-      "title": "Newborn dies after mother drinks raw milk during pregnancy",
-      "neutral_headline": "Newborn Dies After Mother Drinks Raw Milk",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/02/newborns-death-spurs-raw-milk-warning-in-new-mexico/",
-          "published_at": "Tue, 03 Feb 2026 21:15:57 +0000",
-          "title": "Newborn dies after mother drinks raw milk during pregnancy",
-          "standfirst": "Raw milk is promoted by anti-vaccine Health Secretary Kennedy.",
-          "content": "A newborn baby has died in New Mexico from a Listeria infection that state health officials say was likely contracted from raw (unpasteurized) milk that the baby's mother drank during pregnancy. In a news release Tuesday, officials warned people not to consume any raw dairy, highlighting that it can be teeming with a variety of pathogens. Those germs are especially dangerous to pregnant women, as well as young children, the elderly, and people with weakened immune systems. \"Raw milk can contain numerous disease-causing germs, including Listeria, which is bacteria that can cause miscarriage, stillbirth, preterm birth, or fatal infection in newborns, even if the mother is only mildly ill,\" the New Mexico Department of Health said in the press release.Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2211793949-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2211793949-1152x648.jpg",
-      "popularity_score": 253,
-      "ai_summary": [
-        "A newborn has died after mother drank raw milk",
-        "The mother had consumed raw milk during pregnancy",
-        "Raw milk can be harmful to pregnant women",
-        "The incident has raised concerns about raw milk safety",
-        "Health authorities have warned about raw milk risks"
-      ]
-    },
-    {
-      "id": "cluster_173",
-      "coverage": 1,
-      "updated_at": "Tue, 03 Feb 2026 12:00:01 +0000",
-      "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
-      "neutral_headline": "Moltbook Suggests Viral AI Prompts Are Security Threat",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/",
-          "published_at": "Tue, 03 Feb 2026 12:00:01 +0000",
-          "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
-          "standfirst": "We don't need self-replicating AI models to have problems, just self-replicating prompts.",
-          "content": "On November 2, 1988, graduate student Robert Morris released a self-replicating program into the early Internet. Within 24 hours, the Morris worm had infected roughly 10 percent of all connected computers, crashing systems at Harvard, Stanford, NASA, and Lawrence Livermore National Laboratory. The worm exploited security flaws in Unix systems that administrators knew existed but had not bothered to patch. Morris did not intend to cause damage. He wanted to measure the size of the Internet. But a coding error caused the worm to replicate far faster than expected, and by the time he tried to send instructions for removing it, the network was too clogged to deliver the message. History may soon repeat itself with a novel new platform: networks of AI agents carrying out instructions from prompts and sharing them with other AI agents, which could spread the instructions further.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/moltbook-chest-burster-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/moltbook-chest-burster-1152x648.jpg",
-      "popularity_score": 158,
-      "ai_summary": [
-        "Moltbook suggests viral AI prompts are a security threat",
-        "The prompts can be used to create malicious content",
-        "AI models can be vulnerable to prompt attacks",
-        "The incident has raised concerns about AI security",
-        "Developers are working to address the issue"
-      ]
-    },
-    {
-      "id": "cluster_163",
-      "coverage": 1,
-      "updated_at": "Tue, 03 Feb 2026 14:02:57 +0000",
-      "title": "Senior staff departing OpenAI as firm prioritizes ChatGPT development",
-      "neutral_headline": "Senior Staff Departing OpenAI Amid ChatGPT Focus",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/02/senior-staff-departing-openai-as-firm-prioritizes-chatgpt-development/",
-          "published_at": "Tue, 03 Feb 2026 14:02:57 +0000",
-          "title": "Senior staff departing OpenAI as firm prioritizes ChatGPT development",
-          "standfirst": "Resources are redirected from long-term research toward improving the flagship chatbot.",
-          "content": "OpenAI is prioritizing the advancement of ChatGPT over more long-term research, prompting the departure of senior staff as the $500 billion company adapts to stiff competition from rivals such as Google and Anthropic. The San Francisco-based start-up has reallocated resources for experimental work in favor of advances to the large language models that power its flagship chatbot, according to 10 current and former employees. Among those to leave OpenAI in recent months over the strategic shift are vice-president of research Jerry Tworek, model policy researcher Andrea Vallone, and economist Tom Cunningham.Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/openai-logo-1152x648-1741196873.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/openai-logo-1152x648-1741196873.jpg",
-      "popularity_score": 154,
-      "ai_summary": [
-        "Senior staff are leaving OpenAI due to ChatGPT focus",
-        "The company is prioritizing ChatGPT development",
-        "Resources are being redirected from research",
-        "The move has raised concerns about OpenAI's future",
-        "The company is adapting to changing market needs"
-      ]
-    },
-    {
-      "id": "cluster_140",
+      "id": "cluster_153",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 18:25:18 +0000",
       "title": "Google court filings suggest ChromeOS has an expiration date",
-      "neutral_headline": "Google ChromeOS Has Expiration Date",
+      "neutral_headline": "ChromeOS Expiration Date Revealed",
       "items": [
         {
           "source": "Ars Technica",
@@ -388,22 +435,22 @@
           "title": "Google court filings suggest ChromeOS has an expiration date",
           "standfirst": "ChromeOS may be canned once the current support guarantee has run its course.",
           "content": "Chromebooks debuted 16 years ago with the limited release of Google's Cr-48, an unassuming compact laptop that was provided free to select users. From there, Chromebooks became one of the most popular budget computing options and a common fixture in schools and businesses. According to some newly uncovered court documents, Google's shift to Android PCs means Chromebooks have an expiration date in 2034. The documents were filed as part of Google's long-running search antitrust case, which began in 2020 and reached a verdict in 2024. While Google is still seeking to have the guilty verdict overturned, it has escaped most of the remedies that government prosecutors requested. According to The Verge, the company's plans for Chromebooks and the upcoming Android-based Aluminium came up in filings from the remedy phase of the trial. As Google moves toward releasing Aluminium, it sought to keep the upcoming machines above the fray and retain the Chrome browser (which it did). In Judge Amit Mehta's final order, devices running ChromeOS or a ChromeOS successor are excluded. To get there, Google had to provide a little more detail on its plans.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/9_Lenovo-Chromebook-Plus-14-copy-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/9_Lenovo-Chromebook-Plus-14-copy-1152x648.jpg",
       "popularity_score": 145,
       "ai_summary": [
-        "ChromeOS support guarantee will eventually expire",
-        "Google court filings suggest ChromeOS may be canned",
-        "Current support guarantee has not yet run its course",
-        "ChromeOS expiration date is not officially confirmed",
-        "Google has not commented on ChromeOS future plans"
+        "ChromeOS may be discontinued eventually",
+        "Google court filings suggest expiration date",
+        "Current support guarantee still in effect",
+        "ChromeOS future development uncertain",
+        "Google has not commented on the issue"
       ]
     },
     {
-      "id": "cluster_138",
+      "id": "cluster_152",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 18:56:20 +0000",
       "title": "Nintendo Switch is the second-bestselling game console ever, behind only the PS2",
@@ -416,26 +463,54 @@
           "title": "Nintendo Switch is the second-bestselling game console ever, behind only the PS2",
           "standfirst": "Switch 2 has already beaten the Wii U and is on its way to overtaking GameCube.",
           "content": "Although it was finally replaced last year by the new Switch 2, the orginal switch isn't done just yet. Many recent Switch games (and a handful of major updates, like the one for Animal Crossing) have been released in both Switch and Switch 2 editions, and Nintendo continues to sell all editions of the original console as entry-level systems for those who can't pay $450 for a Switch 2. The 9-year-old Switch's continued availability has helped it clear a milestone, according to the company's third-quarter financial results (PDF). As of December 31, 2025, Nintendo says the Switch \"has reached the highest sales volume of any Nintendo hardware\" with a total of 155.37 million units sold, surpassing the original DS's lifetime total of 154.02 million units. The console has sold 3.25 million units in Nintendo's fiscal 2026 so far, including 1.36 million units over the holidays. Those consoles have sold despite price hikes that Nintendo introduced in August of 2025, citing \"market conditions.\" That makes the Switch the second-bestselling game console of all time, just three years after it became the third-bestselling game console of all time. The only frontier left for the Switch to conquer is Sony's PlayStation 2, which Sony says sold \"over 160 million units\" over its long life. At its current sales rate (Nintendo predicts it will sell roughly 750,000 Switches in the next quarter), it would take the Switch another couple of years to cross that line, but those numbers are likely to taper off as we get deeper into the Switch 2 era.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/NintendoSwitchOLEDmodel_02-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/NintendoSwitchOLEDmodel_02-1152x648.jpg",
       "popularity_score": 139,
       "ai_summary": [
-        "Nintendo Switch is second best selling game console",
-        "Switch sales have surpassed Wii U and GameCube sales",
-        "PS2 remains the best selling game console of all time",
-        "Nintendo Switch sales continue to grow steadily",
-        "Switch 2 sales are expected to overtake GameCube sales"
+        "Nintendo Switch is second-bestselling console",
+        "Switch sales surpass Wii U and GameCube",
+        "PS2 remains the top-selling game console",
+        "Nintendo Switch sales continue to grow",
+        "Switch 2 sales contribute to overall success"
       ]
     },
     {
-      "id": "cluster_142",
+      "id": "cluster_143",
+      "coverage": 1,
+      "updated_at": "Tue, 03 Feb 2026 21:15:57 +0000",
+      "title": "Newborn dies after mother drinks raw milk during pregnancy",
+      "neutral_headline": "Raw Milk Consumption Linked To Health Risks",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/02/newborns-death-spurs-raw-milk-warning-in-new-mexico/",
+          "published_at": "Tue, 03 Feb 2026 21:15:57 +0000",
+          "title": "Newborn dies after mother drinks raw milk during pregnancy",
+          "standfirst": "Raw milk is promoted by anti-vaccine Health Secretary Kennedy.",
+          "content": "A newborn baby has died in New Mexico from a Listeria infection that state health officials say was likely contracted from raw (unpasteurized) milk that the baby's mother drank during pregnancy. In a news release Tuesday, officials warned people not to consume any raw dairy, highlighting that it can be teeming with a variety of pathogens. Those germs are especially dangerous to pregnant women, as well as young children, the elderly, and people with weakened immune systems. \"Raw milk can contain numerous disease-causing germs, including Listeria, which is bacteria that can cause miscarriage, stillbirth, preterm birth, or fatal infection in newborns, even if the mother is only mildly ill,\" the New Mexico Department of Health said in the press release.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2211793949-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2211793949-1152x648.jpg",
+      "popularity_score": 133,
+      "ai_summary": [
+        "Newborn dies after mother drinks raw milk",
+        "Raw milk consumption poses health risks",
+        "Anti-vaccine Health Secretary promotes raw milk",
+        "Raw milk can contain harmful bacteria",
+        "Pregnant women warned against raw milk"
+      ]
+    },
+    {
+      "id": "cluster_155",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 18:01:49 +0000",
       "title": "Xcode 26.3 adds support for Claude, Codex, and other agentic tools via MCP",
-      "neutral_headline": "Xcode 26.3 Adds Support For Agentic Tools",
+      "neutral_headline": "Xcode 26.3 Adds New Tool Support",
       "items": [
         {
           "source": "Ars Technica",
@@ -444,22 +519,22 @@
           "title": "Xcode 26.3 adds support for Claude, Codex, and other agentic tools via MCP",
           "standfirst": "With Model Context Protocol (MCP), this works with more than Codex/Claude, too.",
           "content": "Apple has announced a new version of Xcode, the latest version of its integrated development environment (IDE) for building software for its own platforms, like the iPhone and Mac. The key feature of 26.3 is support for full-fledged agentic coding tools, like OpenAI's Codex or Claude Agent, with a side panel interface for assigning tasks to agents with prompts and tracking their progress and changes. This is achieved via Model Context Protocol (MCP), an open protocol that lets AI agents work with external tools and structured resources. Xcode acts as an MCP endpoint that exposes a bunch of machine-invocable interfaces and gives AI tools like Codex or Claude Agent access to a wide range of IDE primitives like file graph, docs search, project settings, and so on. While AI chat and workflows were supported in Xcode before, this release gives them much deeper access to the features and capabilities of Xcode. This approach is notable because it means that even though OpenAI and Anthropic's model integrations are privileged with a dedicated spot in Xcode's settings, it's possible to connect other tooling that supports MCP, which also allows doing some of this with models running locally.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Xcode-1152x648.png"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Xcode-1152x648.png",
       "popularity_score": 133,
       "ai_summary": [
-        "Xcode 26.3 includes support for Claude and Codex",
-        "Model Context Protocol enables support for agentic tools",
-        "Xcode 26.3 update adds new features and capabilities",
-        "Agentic tools can enhance developer productivity",
-        "Xcode 26.3 is available for developer download"
+        "Xcode 26.3 includes new tool support",
+        "Claude and Codex tools now supported",
+        "Model Context Protocol enables tool integration",
+        "MCP works with multiple tools and models",
+        "Developers can utilize new tool features"
       ]
     },
     {
-      "id": "cluster_145",
+      "id": "cluster_158",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 17:29:16 +0000",
       "title": "Wing Commander III: \"Isn't that the guy from Star Wars?\"",
@@ -472,26 +547,26 @@
           "title": "Wing Commander III: \"Isn't that the guy from Star Wars?\"",
           "standfirst": "C:\\ArsGames looks at a vanguard of the multimedia FMV future that never quite came to pass.",
           "content": "It's Christmas of 1994, and I am 16 years old. Sitting on the table in our family room next to a pile of cow-spotted boxes is the most incredible thing in the world: a brand-new Gateway 66MHz Pentium tower, with a 540MB hard disk drive, 8MB of RAM, and, most importantly, a CD-ROM drive. I am agog, practically trembling with barely suppressed joy, my bored Gen-X teenager mask threatening to slip and let actual feelings out. My life was about to change—at least where games were concerned. I'd been working for several months at Babbage's store No. 9, near Baybrook Mall in southeast suburban Houston. Although the Gateway PC's arrival on Christmas morning was utterly unexpected, the choice of what game to buy required no planning at all. I'd already decided a few weeks earlier, when Chris Roberts' latest opus had been drop-shipped to our shelves, just in time for the holiday season. The choice made itself, really. Gimli and Luke, together at last! Credit: Origin Systems / Electronic Arts The moment Babbage's opened its doors on December 26—a day I had off, fortunately—I was there, checkbook in hand. One entire paycheck's worth of capitalism later, I was sprinting out to my creaky 280-Z, sweatily clutching two boxes—one an impulse buy, The Star Trek: The Next Generation Interactive Technical Manual, and the other a game I felt sure would be the best thing I'd ever played or ever would play: Origin's Wing Commander III: The Heart of the Tiger. On the backs of Wing Commander I and Wing Commander II, how could it not be?!Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/wc3_boxart_sm-1152x648-1770132197.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/wc3_boxart_sm-1152x648-1770132197.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Wing Commander III is a classic game from the 90s",
-        "Game features live action full motion video cutscenes",
-        "Wing Commander III was a pioneer in game technology",
-        "Game has a unique blend of action and storytelling",
-        "Wing Commander III remains a nostalgic favorite"
+        "Wing Commander III game reviewed",
+        "Game features multimedia FMV content",
+        "FMV technology did not become mainstream",
+        "Game is a nostalgic classic",
+        "Wing Commander III has historical significance"
       ]
     },
     {
-      "id": "cluster_148",
+      "id": "cluster_161",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 17:08:34 +0000",
       "title": "Upset at reports that he'd given up, Trump now wants $1B from Harvard",
-      "neutral_headline": "Trump Seeks 1 Billion Dollars From Harvard",
+      "neutral_headline": "Trump Seeks $1B From Harvard",
       "items": [
         {
           "source": "Ars Technica",
@@ -500,22 +575,22 @@
           "title": "Upset at reports that he'd given up, Trump now wants $1B from Harvard",
           "standfirst": "Hefty \"fine\" comes in wake of NY Times reporting of money-free settlement.",
           "content": "Amid the Trump administration's attack on universities, Harvard has emerged as a particular target. Early on, the administration put $2.2 billion in research money on hold and shortly thereafter blocked all future funding while demanding intrusive control over Harvard's hiring and admissions. Unlike many of its peer institutions, Harvard fought back, filing and ultimately winning a lawsuit that restored the cut funds. Despite Harvard's victory, the Trump administration continued to push for some sort of formal agreement that would settle the administration's accusations that Harvard created an environment that allowed antisemitism to flourish. In fact, it had become a running joke among some journalists that The New York Times had devoted a monthly column to reporting that a settlement between the two parties was near. Given the government's loss of leverage, it was no surprise that the latest installment of said column included the detail that the latest negotiations had dropped demands that Harvard pay any money as part of a final agreement. The Trump administration had extracted hundreds of millions of dollars from some other universities and had demanded over a billion dollars from UCLA, so this appeared to be a major concession to Harvard.Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-578751544-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-578751544-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Trump is seeking 1 billion dollars from Harvard",
-        "Claim is related to reported settlement with Harvard",
-        "Trump denies reports of a settlement with Harvard",
-        "Harvard has not commented on the 1 billion dollar claim",
-        "Trump is seeking compensation for unknown reasons"
+        "Trump demands $1B from Harvard",
+        "Hefty fine comes after NY Times report",
+        "Trump claims report was inaccurate",
+        "Harvard has not commented on the issue",
+        "Trump's demand is seen as unexpected"
       ]
     },
     {
-      "id": "cluster_157",
+      "id": "cluster_169",
       "coverage": 1,
       "updated_at": "Tue, 03 Feb 2026 15:33:06 +0000",
       "title": "China bans all retractable car door handles, starting next year",
@@ -528,74 +603,18 @@
           "title": "China bans all retractable car door handles, starting next year",
           "standfirst": "The pop-out door handle ban starts in 2027 for new cars, 2029 for existing models.",
           "content": "Flush door handles have been quite the automotive design trend of late. Stylists like them because they don't add visual noise to the side of a car. And aerodynamicists like them because they make a vehicle more slippery through the air. When Tesla designed its Model S, it needed a car that was both desirable and as efficient as possible, so flush door handles were a no-brainer. Since then, as electric vehicles have proliferated, so too have flush door handles. But as of next year, China says no. Just like pop-up headlights, despite the aesthetic and aerodynamic advantages, there are safety downsides. Tesla's handles are an extreme example: In the event of a crash and a loss of 12 V power, there is no way for first responders to open the door from the outside, which has resulted in at least 15 deaths. Those deaths prompted the National Highway Traffic Safety Administration to open an investigation last year, but China is being a little more proactive. It has been looking at whether retractable car door handles are safe since mid-2024, according to Bloomberg, and has concluded that no, they are not.Read full article Comments",
-          "feed_position": 15,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1277594023-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1277594023-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "China is banning retractable car door handles",
-        "Ban will start in 2027 for new car models",
-        "Existing car models have until 2029 to comply",
-        "Ban is intended to improve car safety standards",
-        "Car manufacturers must adapt to new regulations"
-      ]
-    },
-    {
-      "id": "cluster_180",
-      "coverage": 1,
-      "updated_at": "Tue, 03 Feb 2026 08:06:50 +0000",
-      "title": "Unable to tame hydrogen leaks, NASA delays launch of Artemis II until March",
-      "neutral_headline": "NASA Delays Artemis II Launch",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/02/unable-to-tame-hydrogen-leaks-nasa-delays-launch-of-artemis-ii-until-march/",
-          "published_at": "Tue, 03 Feb 2026 08:06:50 +0000",
-          "title": "Unable to tame hydrogen leaks, NASA delays launch of Artemis II until March",
-          "standfirst": "NASA spent most of Monday trying to overcome hydrogen leaks on the Artemis II rocket.",
-          "content": "The launch of NASA's Artemis II mission, the first flight of astronauts to the Moon in more than 53 years, will have to wait another month after a fueling test Monday uncovered hydrogen leaks in the connection between the rocket and its launch platform at Kennedy Space Center in Florida. \"Engineers pushed through several challenges during the two-day test and met many of the planned objectives,\" NASA said in a statement following the conclusion of the mock countdown, or wet dress rehearsal (WDR), early Tuesday morning. \"To allow teams to review data and conduct a second Wet Dress Rehearsal, NASA now will target March as the earliest possible launch opportunity for the flight test.\" The practice countdown was designed to identify problems and provide NASA an opportunity to fix them before launch. Most importantly, the test revealed NASA still has not fully resolved recurring hydrogen leaks that delayed the launch of the unpiloted Artemis I test flight by several months in 2022. Artemis I finally launched successfully after engineers revised their hydrogen loading procedures to overcome the leak.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/AFRC2026-0017-15orig-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/AFRC2026-0017-15orig-1152x648.jpg",
-      "popularity_score": 133,
-      "ai_summary": [
-        "NASA has delayed the Artemis II launch",
-        "Delay is due to hydrogen leaks in the rocket",
-        "NASA is working to resolve the technical issues",
-        "Artemis II launch is rescheduled for March",
-        "NASA is prioritizing safety and mission success"
-      ]
-    },
-    {
-      "id": "cluster_183",
-      "coverage": 1,
-      "updated_at": "Mon, 02 Feb 2026 22:57:56 +0000",
-      "title": "Looking back at Catacomb 3D, the game that led to Wolfenstein 3D",
-      "neutral_headline": "Catacomb 3D Game History",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/02/looking-back-at-catacomb-3d-the-game-that-led-to-wolfenstein-3d/",
-          "published_at": "Mon, 02 Feb 2026 22:57:56 +0000",
-          "title": "Looking back at Catacomb 3D, the game that led to Wolfenstein 3D",
-          "standfirst": "Romero, Carmack, and colleagues discuss an oft-forgotten piece of PC gaming history.",
-          "content": "If you know anything about the history of id Software, you know how 1992's Wolfenstein 3D helped establish the company's leadership in the burgeoning first-person shooter genre, leading directly to subsequent hits like Doom and Quake. But only the serious id Software nerds remember Catacomb 3D, id's first-person adventure game that directly preceded and inspired work on Wolfenstein 3D. Now, nearly 35 years after Catacomb 3D's initial release, id co-founder John Romero brought the company's founding members together for an informative retrospective video on the creation of the oft-forgotten game. But the pioneering game—which included mouse support, color-coded keys, and shooting walls to find secrets—almost ended up being a gimmicky dead end for the company. id Software's founders look back at an oft-forgotten piece of gaming history. Texture maps and \"undo\" animation Catacomb 3D was a follow-up to id's earlier Catacomb, which was a simplified clone of the popular arcade hit Gauntlet. As such, the 3D game still has some of that \"quarter eater\" mentality that was not very fashionable in PC gaming at the time, as John Carmack remembered.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/c3d-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/c3d-1152x648.jpg",
-      "popularity_score": 133,
-      "ai_summary": [
-        "Catacomb 3D is a classic game from the 90s",
-        "Game was developed by Romero and Carmack",
-        "Catacomb 3D influenced the development of Wolfenstein",
-        "Game is an important part of PC gaming history",
-        "Catacomb 3D remains a nostalgic favorite"
+        "China bans retractable car door handles",
+        "Ban starts in 2027 for new cars",
+        "Existing models have until 2029 to comply",
+        "Safety concerns prompted the ban",
+        "Car manufacturers must adapt to new rule"
       ]
     }
   ]
