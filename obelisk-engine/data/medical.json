@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-02-05T19:37:22.434Z",
+    "updated_at": "2026-02-05T23:23:32.558Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-05T19:37:39.134Z",
+    "updated_at": "2026-02-05T23:23:51.594Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,10 +26,10 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/b7fee4a3-aff3-4ca5-8898-7af841af58fc/Private-health-insurers-demand-action-on-non-GP-specialist-fees.aspx",
         "ai_summary": [
-          "Insurers demand action on non-GP specialist fees",
-          "Rising costs are a major concern for the industry",
-          "Referral tools could help GPs show patients fees",
-          "Local specialists and typical fees would be included",
+          "Insurers call for referral tools to show patients local specialists",
+          "Rising costs are a concern for the health insurance industry",
+          "GPs need help navigating specialist fees",
+          "Patients deserve transparency in healthcare costs",
           "Industry seeks solutions to reduce costs"
         ]
       },
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/b0b09482-de9c-488b-afb4-6cff13a91e44/In-Practice-DVA-releases-new-quick-guide-for-GPs.aspx",
         "ai_summary": [
-          "DVA releases new quick guide for GPs",
-          "Guide helps GPs navigate item numbers for veterans",
-          "Aboriginal and Torres Strait Islander veterans benefit",
-          "GPs can access new resources and information",
-          "Guide aims to improve healthcare for veterans"
+          "DVA releases guide for GPs on item numbers for veterans",
+          "Guide helps GPs navigate services for Aboriginal veterans",
+          "Quick guide provides essential information for GPs",
+          "GPs can better serve Aboriginal and Torres Strait Islander veterans",
+          "Guide promotes culturally sensitive healthcare"
         ]
       },
       {
@@ -80,11 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/75e37ec9-8d8b-4f3d-a6a4-71ca7637d8a3/Well-overdue-General-practice-funding-increases-to-new-level.aspx",
         "ai_summary": [
-          "General practice funding increases to new level",
-          "Funding boost is well overdue according to reports",
-          "Number of GPs is increasing but still below previous",
-          "Levels per head of population are a concern",
-          "Report highlights need for continued funding support"
+          "Funding for general practice has increased",
+          "Number of GPs is rising but still below previous levels",
+          "Report shows positive trends in general practice funding",
+          "GPs per head of population are still below target",
+          "Funding increase supports general practice growth"
         ]
       },
       {
@@ -107,11 +107,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/315acd45-f2e5-4a32-9f14-5b0cbf0af568/AI-supported-breast-screening-improves-cancer-detection-rate.aspx",
         "ai_summary": [
-          "AI-supported breast screening improves detection",
-          "Cancer detection rate increases with AI support",
-          "Mammograms are more effective with AI technology",
-          "Early detection is crucial for breast cancer treatment",
-          "Caution is necessary when using AI in screening"
+          "AI improves early detection of breast cancers",
+          "Mammograms with AI detect cancers more accurately",
+          "AI-supported screening reduces false negatives",
+          "Researchers warn of cautious implementation needed",
+          "AI improves breast cancer detection rates"
         ]
       },
       {
@@ -134,24 +134,76 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/a286de34-a5ad-42f0-9a56-aa87906527d3/Responding-to-reproductive-coercion-in-general-practice.aspx",
         "ai_summary": [
+          "Studies examine reproductive coercion in general practice",
+          "Research aims to inform clinical guidelines for GPs",
+          "GPs need training on reproductive coercion",
           "Reproductive coercion is a form of intimate violence",
-          "Studies aim to create clinical guidelines for GPs",
-          "General practice can play a key role in response",
-          "Guidelines would help GPs identify and support victims",
-          "Research is necessary to address this issue"
+          "GPs play a crucial role in supporting affected patients"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-02-05T19:37:23.907Z",
+    "updated_at": "2026-02-05T23:23:44.717Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Thu, 05 Feb 2026 21:00:00 GMT",
+        "title": "BBC Inside Science",
+        "neutral_headline": "New research on forever chemicals in environment",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/sounds/play/w3ct8txy?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 05 Feb 2026 21:00:00 GMT",
+            "title": "BBC Inside Science",
+            "standfirst": "New research on how forever chemicals get into our environment.",
+            "content": "New research on how forever chemicals get into our environment.",
+            "feed_position": 59,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
+        "ai_summary": [
+          "Forever chemicals pose environmental concerns",
+          "Research investigates sources of forever chemicals",
+          "Study examines impact on human health and environment",
+          "Scientists seek solutions to reduce forever chemicals",
+          "Environment suffers from forever chemical pollution"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Thu, 05 Feb 2026 20:15:46 GMT",
+        "title": "Five high-protein snacks that are good for vegetarians, according to a dietician",
+        "neutral_headline": "High protein snacks for vegetarians",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/jan/30/high-protein-snacks-that-arent-bars-or-jerky",
+            "published_at": "Thu, 05 Feb 2026 20:15:46 GMT",
+            "title": "Five high-protein snacks that are good for vegetarians, according to a dietician",
+            "standfirst": "We asked a dietician for tips on hitting protein goals when you have a plant-based diet or are sick of protein barsThis piece was originally published in the Filter US newsletter on buying fewer, better things. Sign up here to get early access to itEach week we cut through the noise to bring you smart, practical recommendations on how to live better – from what is worth buying to the tools, habits and ideas that actually last.Not a day goes by that I don’t eat a protein bar.Go Macro Bar Continue reading...",
+            "content": "We asked a dietician for tips on hitting protein goals when you have a plant-based diet or are sick of protein barsThis piece was originally published in the Filter US newsletter on buying fewer, better things. Sign up here to get early access to itEach week we cut through the noise to bring you smart, practical recommendations on how to live better – from what is worth buying to the tools, habits and ideas that actually last.Not a day goes by that I don’t eat a protein bar.Go Macro Bar Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "Vegetarians need high protein snack options",
+          "Dietician recommends plant-based protein sources",
+          "Protein bars are not the only option for vegetarians",
+          "Nuts and seeds provide high protein content",
+          "Vegetarians can meet protein needs with varied diet"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 17:41:53 GMT",
         "title": "We need new drugs for mental ill-health | Letter",
-        "neutral_headline": "Government must prioritize mental health research",
+        "neutral_headline": "Government must prioritise mental health research",
         "items": [
           {
             "source": "Guardian Health",
@@ -164,15 +216,15 @@
           }
         ],
         "ai_summary": [
-          "Mental health research needs more funding",
-          "New drugs are necessary for mental ill health",
-          "Current interventions are 60 years old",
-          "Ministers must heed the call for new research",
-          "Thousands of people could benefit from new treatments"
+          "Mental health research needs government funding",
+          "New drugs for mental illness are urgently needed",
+          "Current treatments are outdated and ineffective",
+          "Research can lead to innovative therapies",
+          "Government support is crucial for mental health progress"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 17:00:42 GMT",
         "title": "‘People are turning themselves into lab rats’: the injectable peptides craze sweeping the US",
@@ -189,42 +241,15 @@
           }
         ],
         "ai_summary": [
-          "Injectable peptides are not FDA regulated",
-          "Substances pose serious risks to users",
+          "Injectable peptides are unregulated and risky",
+          "Experts warn of serious health consequences",
+          "Peptides are touted as cure-all but lack evidence",
           "Biohackers and health optimizers use peptides",
-          "Experts warn of dangers and lack of regulation",
-          "Risks include unknown long term effects"
+          "FDA regulation is necessary for peptide safety"
         ]
       },
       {
-        "id": "cluster_2",
-        "coverage": 1,
-        "updated_at": "Thu, 05 Feb 2026 17:00:00 GMT",
-        "title": "BBC Inside Science",
-        "neutral_headline": "New research on forever chemicals released",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/sounds/play/w3ct8txy?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 05 Feb 2026 17:00:00 GMT",
-            "title": "BBC Inside Science",
-            "standfirst": "New research on how forever chemicals get into our environment.",
-            "content": "New research on how forever chemicals get into our environment.",
-            "feed_position": 59,
-            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
-        "ai_summary": [
-          "Forever chemicals are a growing concern",
-          "New research explores environmental impact",
-          "Chemicals can have lasting effects on health",
-          "Study aims to understand how chemicals spread",
-          "Findings could inform new regulations"
-        ]
-      },
-      {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 16:00:40 GMT",
         "title": "Unlicensed weight-loss drugs marketed on social media as ‘prizes’",
@@ -242,14 +267,14 @@
         ],
         "ai_summary": [
           "Unlicensed weight loss drugs are marketed online",
-          "Social media platforms host giveaway competitions",
-          "Drugs are extremely dangerous and unregulated",
-          "Promoters use hidden markets to sell substances",
-          "Competitions are used to lure in new customers"
+          "Social media giveaways promote dangerous medicines",
+          "Retatrutide and other drugs pose serious risks",
+          "Hidden market promoters target vulnerable individuals",
+          "Regulatory action is needed to stop online sales"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 14:39:00 GMT",
         "title": "Alton Towers to remove disability pass for people with ADHD and anxiety",
@@ -268,15 +293,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dfa/live/69109ae0-0293-11f1-a1c4-c94a3ddf1d51.jpg",
         "ai_summary": [
-          "Alton Towers removes disability pass for ADHD",
-          "Pass was intended for people with disabilities",
-          "Increasing demand led to removal of pass",
-          "Operator Merlin Entertainments made the decision",
-          "Pass was no longer working as intended"
+          "Alton Towers removes disability pass for ADHD patients",
+          "Operator cites increasing demand as reason",
+          "Pass was intended to support disabled visitors",
+          "Decision affects people with ADHD and anxiety",
+          "Alternative support systems are needed"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 14:23:22 GMT",
         "title": "Health warning over Cape Verde travel after stomach bug deaths",
@@ -295,19 +320,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48fe/live/e4b43760-0293-11f1-b7e1-afb6d0884c18.jpg",
         "ai_summary": [
-          "Health warning issued for Cape Verde travel",
-          "Four Britons died from stomach bug infections",
-          "Gut infections are a risk for travelers",
-          "Warning advises caution when traveling",
-          "Infections can be severe and even fatal"
+          "Cape Verde travel poses health risks to tourists",
+          "Stomach bug deaths have occurred in recent years",
+          "Four Britons have died from gut infections",
+          "Health warning advises caution for travelers",
+          "Precautions can reduce risk of illness"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 13:22:13 GMT",
         "title": "What are critical minerals and why do countries need them?",
-        "neutral_headline": "Countries need critical minerals for production",
+        "neutral_headline": "Countries need critical minerals for vital products",
         "items": [
           {
             "source": "BBC Science",
@@ -322,19 +347,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7847/live/a4b8c650-f7a6-11f0-9dfa-8ff76e953b19.jpg",
         "ai_summary": [
-          "Critical minerals are necessary for production",
-          "Countries are racing to secure mineral supplies",
-          "Rare earths are essential for vital products",
-          "Minerals are used in various industries",
-          "Securing supplies is a major challenge"
+          "Critical minerals are essential for technology production",
+          "Countries compete to secure mineral supplies",
+          "Rare earths are crucial for various industries",
+          "Mineral scarcity poses economic and environmental risks",
+          "Sustainable sourcing is necessary for mineral production"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 12:00:58 GMT",
         "title": "UK's £8bn research fund faces 'hard decisions' as it pauses new grants",
-        "neutral_headline": "UK research fund faces hard decisions on grants",
+        "neutral_headline": "UK research fund faces financial constraints",
         "items": [
           {
             "source": "BBC Science",
@@ -349,19 +374,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1823/live/7566ee40-0282-11f1-853d-351197b9900b.jpg",
         "ai_summary": [
-          "UK research fund faces hard decisions on grants",
-          "Fund has been told to focus on fewer projects",
-          "Government has instructed fund to prioritize",
-          "New grants have been paused due to funding",
-          "Fund must make difficult decisions on projects"
+          "UK research fund has limited budget for new grants",
+          "Government instructs fund to focus on key areas",
+          "Research fund must make difficult funding decisions",
+          "Prioritization of projects is necessary",
+          "Funding constraints affect research and innovation"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 11:10:29 GMT",
         "title": "Townsville hospital investigates after South Australian anti-abortion activist posts image of aborted foetus",
-        "neutral_headline": "Townsville hospital investigates privacy breach",
+        "neutral_headline": "Townsville hospital investigates alleged privacy breach",
         "items": [
           {
             "source": "Guardian Health",
@@ -374,19 +399,19 @@
           }
         ],
         "ai_summary": [
-          "Townsville hospital investigates alleged breach",
-          "Anti-abortion activist posted sensitive image",
-          "Image was allegedly taken inside hospital",
-          "Hospital is investigating the incident",
-          "Activist claims image was sent by whistleblower"
+          "Townsville hospital investigates privacy breach claim",
+          "Anti-abortion activist posts sensitive abortion content",
+          "Image was allegedly taken in hospital's grieving room",
+          "Hospital launches investigation into breach",
+          "Privacy and security measures are being reviewed"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 11:01:35 GMT",
         "title": "36 UK infants ill after drinking contaminated baby formula",
-        "neutral_headline": "UK infants ill from contaminated baby formula",
+        "neutral_headline": "UK Infants Ill From Contaminated Baby Formula",
         "items": [
           {
             "source": "BBC Health",
@@ -401,19 +426,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c87b/live/836c8c60-027e-11f1-853d-351197b9900b.jpg",
         "ai_summary": [
-          "Contaminated baby formula made infants ill",
-          "Batches were recalled due to toxin contamination",
-          "Nestle and Danone products were affected",
-          "Toxin can cause serious health problems",
-          "Recall was issued to protect public health"
+          "36 UK infants fell ill after drinking contaminated formula",
+          "Contaminated batches were made by Nestle and Danone",
+          "Toxin was found in the contaminated baby formula",
+          "Recall was issued for affected batches",
+          "Investigation into contamination is ongoing"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 09:13:20 GMT",
         "title": "Fumes, rats and maggots: peer urges Environment Agency to clear illegal dump in Wigan",
-        "neutral_headline": "Environment Agency Urged To Clear Illegal Waste Dump",
+        "neutral_headline": "Fumes rats and maggots peer urges Environment Agency to clear illegal dump in Wigan",
         "items": [
           {
             "source": "Guardian Health",
@@ -426,15 +451,15 @@
           }
         ],
         "ai_summary": [
-          "25,000 tonnes of waste pose environmental hazard",
-          "Dump located near primary school in Wigan",
-          "Environment Agency refuses to clean up site",
-          "Chair of Lords environment committee challenges decision",
-          "Similar waste dump in Oxfordshire was cleared"
+          "25,000 tonnes of waste dumped near a primary school",
+          "Environment Agency refused to clear the illegal dump",
+          "Shas Sheehan challenged the agency's refusal",
+          "Dump poses a grave environmental hazard",
+          "Agency spent millions clearing similar dump in Oxfordshire"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 08:28:58 GMT",
         "title": "Dad starts wargaming club for men's mental health",
@@ -454,14 +479,14 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3e7/live/b0fc6480-01e7-11f1-9972-d3f265c101c6.jpg",
         "ai_summary": [
           "Joe founded Dad's War Room for men's mental health",
-          "Club uses tabletop gaming for support",
-          "Men struggle with mental health issues",
-          "Gaming provides social outlet and stress relief",
-          "Club aims to reduce mental health stigma"
+          "Club uses tabletop gaming to support mental health",
+          "Men struggle with mental health issues in silence",
+          "Club aims to provide a supportive community",
+          "Tabletop gaming helps men open up about feelings"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 06:24:25 GMT",
         "title": "'Our daughter's cancer symptoms were dismissed because she was a child'",
@@ -480,19 +505,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56f1/live/a8521310-0201-11f1-b311-a93d45a0b96f.jpg",
         "ai_summary": [
-          "Isla Sneddon died at 17 after cancer diagnosis",
-          "Family says symptoms were dismissed due to age",
-          "Cancer diagnosis came six months before death",
-          "Family seeks awareness for childhood cancer",
-          "Medical professionals urged to listen to parents"
+          "Isla Sneddon died aged 17 from cancer",
+          "Family claims symptoms were dismissed due to age",
+          "Isla was diagnosed with cancer six months before death",
+          "Family wants to raise awareness about cancer in children",
+          "Doctors should take children's symptoms seriously"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 06:00:22 GMT",
         "title": "Does getting cold increase your chances of catching flu?",
-        "neutral_headline": "Cold Weather And Flu Risk Explored",
+        "neutral_headline": "Getting Cold Does Not Directly Increase Flu Risk",
         "items": [
           {
             "source": "Guardian Health",
@@ -507,17 +532,17 @@
         "ai_summary": [
           "Cold weather does not directly cause flu",
           "Viruses spread through respiratory droplets",
-          "Cold weather increases indoor virus transmission",
-          "Reduced sunlight lowers Vitamin D production",
-          "Weakened immune system increases flu risk"
+          "Cold weather increases virus survival rate",
+          "Poor ventilation helps viruses spread",
+          "Vitamin D production decreases in winter"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 05:00:21 GMT",
         "title": "‘I wondered if I would be a coward or not’: five Ukrainian men on how war has changed them",
-        "neutral_headline": "I Wondered If I Would Be A Coward Or Not",
+        "neutral_headline": "Ukrainian Men Share How War Changed Them",
         "items": [
           {
             "source": "Guardian Health",
@@ -530,19 +555,19 @@
           }
         ],
         "ai_summary": [
-          "Ukrainian men share war experiences",
-          "Men forced to frontline with no combat experience",
-          "War changes relationships and personalities",
-          "Soldiers struggle with mental health issues",
-          "Men find courage and strength in adversity"
+          "Five Ukrainian men shared their war experiences",
+          "Men were forced to fight with no combat experience",
+          "War changed their relationships and lives",
+          "Men struggled with adjusting to army life",
+          "War had a profound impact on their mental health"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 05:00:20 GMT",
         "title": "‘The children are not safe here’: the Nigerian couple fighting infanticide",
-        "neutral_headline": "The Children Are Not Safe Here",
+        "neutral_headline": "Nigerian Couple Fights Infanticide",
         "items": [
           {
             "source": "Guardian Health",
@@ -555,19 +580,19 @@
           }
         ],
         "ai_summary": [
-          "Nigerian couple fights infanticide practices",
-          "Babies believed to be bad omens in some communities",
-          "Couple runs home for babies at risk",
-          "Families sometimes want babies back",
-          "Couple seeks to change traditional practices"
+          "Olusola and Chinwe Stevens run a home for at-risk babies",
+          "Babies are believed to be bad omens in some communities",
+          "Couple saves babies from being killed or abandoned",
+          "Families sometimes want the babies back",
+          "Couple provides a safe haven for the babies"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 04:57:54 GMT",
         "title": "New York City and Illinois join WHO network after Trump pulls US out of global health body",
-        "neutral_headline": "New York City And Illinois Join WHO Network",
+        "neutral_headline": "New York City and Illinois Join WHO Network",
         "items": [
           {
             "source": "Guardian Health",
@@ -580,19 +605,19 @@
           }
         ],
         "ai_summary": [
-          "Illinois and New York City join GOARN",
-          "Participation aims to monitor disease outbreaks",
-          "States act after US withdrawal from WHO",
-          "Global cooperation essential for health security",
-          "Network shares resources and expertise"
+          "Illinois and New York City joined WHO's GOARN",
+          "Decision follows US withdrawal from WHO",
+          "Governor JB Pritzker pledged to prioritize science",
+          "Participation aims to improve global disease response",
+          "Move is seen as a commitment to global health"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 00:48:42 GMT",
         "title": "Period blood test could offer less invasive alternative to cervical screening",
-        "neutral_headline": "Period Blood Test Could Offer Alternative Screening",
+        "neutral_headline": "Period Blood Test Could Replace Cervical Screening",
         "items": [
           {
             "source": "BBC Health",
@@ -607,15 +632,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eda/live/9b0a16a0-0268-11f1-9972-d3f265c101c6.jpg",
         "ai_summary": [
-          "Blood test detects cervical cancer signs",
-          "Test offers less invasive alternative to screening",
-          "Researchers develop convenient testing method",
-          "Women may access test more easily",
-          "Early detection prevents disease occurrence"
+          "Researchers developed a period blood test",
+          "Test could offer a less invasive alternative",
+          "Cervical screening can be inconvenient for women",
+          "New test could increase screening participation",
+          "Test aims to detect cervical cancer early"
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Wed, 04 Feb 2026 23:30:14 GMT",
         "title": "Autistic girls much less likely to be diagnosed, study says",
@@ -632,42 +657,17 @@
           }
         ],
         "ai_summary": [
-          "Autistic girls underdiagnosed in childhood",
+          "Autistic girls are less likely to be diagnosed",
+          "Boys are up to four times more likely to be diagnosed",
           "Diagnosis rates equalize by age 20",
-          "Research challenges gender discrepancy assumptions",
-          "Females may be just as likely to be autistic",
-          "Diagnosis rates vary between males and females"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Wed, 04 Feb 2026 21:00:11 GMT",
-        "title": "Mediterranean diet can reduce risk of stroke by up to 25%, long-term study suggests",
-        "neutral_headline": "Mediterranean Diet Reduces Stroke Risk",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/feb/04/mediterranean-diet-reduce-risk-of-stroke-study",
-            "published_at": "Wed, 04 Feb 2026 21:00:11 GMT",
-            "title": "Mediterranean diet can reduce risk of stroke by up to 25%, long-term study suggests",
-            "standfirst": "Two-decade study indicates a diet rich in foods such as olive oil, nuts and vegetables can cut risk of every type of strokeA Mediterranean diet can reduce the risk of every type of stroke, in some cases by as much as 25%, a large study conducted over two decades suggests.A diet rich in olive oil, nuts, seafood, whole grains and vegetables has previously been linked to a number of health benefits. However, until now there has been limited evidence of how it might affect the risk of all forms of stroke. Continue reading...",
-            "content": "Two-decade study indicates a diet rich in foods such as olive oil, nuts and vegetables can cut risk of every type of strokeA Mediterranean diet can reduce the risk of every type of stroke, in some cases by as much as 25%, a large study conducted over two decades suggests.A diet rich in olive oil, nuts, seafood, whole grains and vegetables has previously been linked to a number of health benefits. However, until now there has been limited evidence of how it might affect the risk of all forms of stroke. Continue reading...",
-            "feed_position": 0
-          }
-        ],
-        "ai_summary": [
-          "Mediterranean diet cuts stroke risk by 25%",
-          "Diet rich in olive oil and vegetables",
-          "Long-term study confirms health benefits",
-          "Diet reduces risk of every type of stroke",
-          "Healthy eating habits promote overall well-being"
+          "Research challenges assumptions of gender discrepancy",
+          "Girls may be just as likely to be autistic as boys"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-05T19:37:39.134Z",
+    "updated_at": "2026-02-05T23:23:51.594Z",
     "clusters": []
   }
 }
