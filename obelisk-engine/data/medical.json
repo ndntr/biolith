@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-02-07T07:31:46.127Z",
+    "updated_at": "2026-02-07T11:21:59.412Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-07T07:32:03.442Z",
+    "updated_at": "2026-02-07T11:22:16.971Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/04fc3089-dd7d-4b63-8743-d8a375be155d/Why-early-cognitive-decline-belongs-in-general-practice.aspx",
         "ai_summary": [
-          "GPs can embed cognitive assessment",
-          "Memory concerns are challenging to manage",
-          "Experts discuss cognitive decline",
-          "General practice is key to early detection",
-          "GPs play a crucial role in patient care"
+          "GPs manage memory concerns and cognitive decline",
+          "Cognitive assessment is embedded in practice",
+          "Experts discuss ways to manage decline",
+          "General practice is ideal for assessment",
+          "Early intervention is crucial for patients"
         ]
       },
       {
@@ -53,24 +53,103 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/4487ca63-8a6f-4154-8e84-8e91774cc526/GPs-urged-to-prescribe-melatonin-with-caution-in-kids.aspx",
         "ai_summary": [
-          "Melatonin use is on the rise globally",
-          "Evidence for long-term use is lacking",
-          "GPs must prescribe with caution",
-          "Research highlights potential risks",
-          "Melatonin use in kids requires careful consideration"
+          "Melatonin use in children is rising globally",
+          "Long term effects of melatonin are not well understood",
+          "New research highlights need for caution",
+          "Doctors must carefully consider melatonin prescriptions",
+          "More studies are needed on melatonin's effects"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-02-07T07:31:58.293Z",
+    "updated_at": "2026-02-07T11:22:11.448Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Sat, 07 Feb 2026 09:41:07 GMT",
+        "title": "Europe feels the impact of weeks of wet weather and freezing cold",
+        "neutral_headline": "Europe Experiences Wet Weather And Freezing Cold",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/weather/articles/cwy8450qkwwo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 07 Feb 2026 09:41:07 GMT",
+            "title": "Europe feels the impact of weeks of wet weather and freezing cold",
+            "standfirst": "A blocked weather pattern has been bringing persistent heavy rain to the Iberian Peninsula. As Darren Bett explains, that's not the only type of extreme weather affecting Europe at the moment.",
+            "content": "A blocked weather pattern has been bringing persistent heavy rain to the Iberian Peninsula. As Darren Bett explains, that's not the only type of extreme weather affecting Europe at the moment.",
+            "feed_position": 42,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a24/live/501c54d0-035a-11f1-8e00-3751f0197d0e.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a24/live/501c54d0-035a-11f1-8e00-3751f0197d0e.jpg",
+        "ai_summary": [
+          "Heavy rain affects the Iberian Peninsula",
+          "Europe faces various types of extreme weather",
+          "Weather patterns are causing disruptions",
+          "Freezing cold temperatures are expected",
+          "Weather conditions are impacting daily life"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Sat, 07 Feb 2026 09:00:57 GMT",
+        "title": "NHS doctor struck off over botched circumcision still performing operation",
+        "neutral_headline": "NHS Doctor Struck Off Over Botched Circumcision",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/feb/07/nhs-doctor-zuber-bux-struck-off-botched-circumcision-still-performing-operation",
+            "published_at": "Sat, 07 Feb 2026 09:00:57 GMT",
+            "title": "NHS doctor struck off over botched circumcision still performing operation",
+            "standfirst": "‘Catastrophic failure of safeguarding’ highlighted by fact Zuber Bux’s lay practice is legal, campaigners sayA doctor who was struck off over a “reckless” circumcision that risked killing a toddler is still performing the procedure as a layperson, the Guardian can reveal.Campaigners say Zuber Bux’s private circumcision business highlights a “catastrophic failure of safeguarding”, as alarm grows about the absence of regulation of the procedure. Continue reading...",
+            "content": "‘Catastrophic failure of safeguarding’ highlighted by fact Zuber Bux’s lay practice is legal, campaigners sayA doctor who was struck off over a “reckless” circumcision that risked killing a toddler is still performing the procedure as a layperson, the Guardian can reveal.Campaigners say Zuber Bux’s private circumcision business highlights a “catastrophic failure of safeguarding”, as alarm grows about the absence of regulation of the procedure. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "Doctor Zuber Bux was struck off for reckless procedure",
+          "Bux is still performing circumcisions as a layperson",
+          "Campaigners highlight lack of regulation",
+          "Safeguarding failures are a major concern",
+          "Doctor's actions put patients at risk"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Sat, 07 Feb 2026 07:43:28 GMT",
+        "title": "I was full of shame after being sacked for having endometriosis",
+        "neutral_headline": "Woman Wins Employment Appeal Over Endometriosis",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cy9y9lrwxqgo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 07 Feb 2026 07:43:28 GMT",
+            "title": "I was full of shame after being sacked for having endometriosis",
+            "standfirst": "Sanju Pal wins an employment appeal tribunal that could affect how employers can treat staff with endometriosis.",
+            "content": "Sanju Pal wins an employment appeal tribunal that could affect how employers can treat staff with endometriosis.",
+            "feed_position": 100,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f99/live/ad37a950-0371-11f1-b2b0-9334652d5b50.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f99/live/ad37a950-0371-11f1-b2b0-9334652d5b50.jpg",
+        "ai_summary": [
+          "Sanju Pal won an employment appeal tribunal",
+          "Tribunal ruling may affect employers' treatment",
+          "Endometriosis can impact work performance",
+          "Employers must accommodate staff with conditions",
+          "Ruling sets precedent for similar cases"
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
         "updated_at": "Sat, 07 Feb 2026 01:45:43 GMT",
         "title": "One person dead from Nipah virus in Bangladesh, WHO says",
-        "neutral_headline": "Nipah Virus Case Reported in Bangladesh",
+        "neutral_headline": "Nipah Virus Case Reported In Bangladesh",
         "items": [
           {
             "source": "Guardian Health",
@@ -79,23 +158,23 @@
             "title": "One person dead from Nipah virus in Bangladesh, WHO says",
             "standfirst": "The case in Bangladesh, where Nipah cases are reported almost every year, follows two Nipah virus cases identified in neighbouring IndiaThe World Health Organization said on Friday that a woman had died in northern Bangladesh in January after contracting the deadly Nipah virus infection.The case in Bangladesh, where Nipah cases are reported almost every year, follows two Nipah virus cases identified in neighbouring India, which has already prompted stepped-up airport screenings across Asia. Continue reading...",
             "content": "The case in Bangladesh, where Nipah cases are reported almost every year, follows two Nipah virus cases identified in neighbouring IndiaThe World Health Organization said on Friday that a woman had died in northern Bangladesh in January after contracting the deadly Nipah virus infection.The case in Bangladesh, where Nipah cases are reported almost every year, follows two Nipah virus cases identified in neighbouring India, which has already prompted stepped-up airport screenings across Asia. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ],
         "ai_summary": [
-          "One person dead from Nipah virus",
-          "Case reported in northern Bangladesh",
-          "Nipah virus is a deadly infection",
-          "WHO monitors the situation closely",
-          "Airport screenings are being stepped up"
+          "One person died from Nipah virus in Bangladesh",
+          "Nipah cases are reported almost every year",
+          "Neighbouring India has also reported cases",
+          "Airport screenings have been stepped up",
+          "WHO is monitoring the situation closely"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Fri, 06 Feb 2026 18:05:55 GMT",
         "title": "People with dementia are still people, with joys and interests of their own | Letters",
-        "neutral_headline": "People with Dementia Have Joys and Interests",
+        "neutral_headline": "People With Dementia Have Joys And Interests",
         "items": [
           {
             "source": "Guardian Health",
@@ -104,23 +183,23 @@
             "title": "People with dementia are still people, with joys and interests of their own | Letters",
             "standfirst": "Readers respond to an article by Jo Glanville about reading to her parents with dementia, and offer their own insights about supporting loved ones with the diseaseWell said, Jo Glanville (Reading was the key to breaking through the fog of my parents’ dementia, 1 February). Our mother lived with vascular dementia for many years, but she wasn’t “dead” or “as good as dead”. Far too many people believe this, even people whose loved ones have had dementia, and it’s a dangerous belief that undermines the rights of people who are already extremely vulnerable.Mum was alive and herself right to the end, even when she had become bedbound and crippled, even when somebody who could once have chatted for England barely spoke any more. But in those last few years, when she could no longer read for herself, Dad or I (or my brothers when they visited) read to her every day, and even when she didn’t say much, I could tell by the expression on her face whether she was enjoying it or not. Continue reading...",
             "content": "Readers respond to an article by Jo Glanville about reading to her parents with dementia, and offer their own insights about supporting loved ones with the diseaseWell said, Jo Glanville (Reading was the key to breaking through the fog of my parents’ dementia, 1 February). Our mother lived with vascular dementia for many years, but she wasn’t “dead” or “as good as dead”. Far too many people believe this, even people whose loved ones have had dementia, and it’s a dangerous belief that undermines the rights of people who are already extremely vulnerable.Mum was alive and herself right to the end, even when she had become bedbound and crippled, even when somebody who could once have chatted for England barely spoke any more. But in those last few years, when she could no longer read for herself, Dad or I (or my brothers when they visited) read to her every day, and even when she didn’t say much, I could tell by the expression on her face whether she was enjoying it or not. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ],
         "ai_summary": [
-          "Readers respond to dementia article",
-          "Supporting loved ones is crucial",
-          "People with dementia have rights",
-          "Reading can help break through dementia",
-          "Individualized care is essential"
+          "Readers respond to article about dementia care",
+          "People with dementia are not defined by condition",
+          "They have joys and interests like anyone else",
+          "Reading can be beneficial for dementia patients",
+          "Support from loved ones is crucial"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Fri, 06 Feb 2026 17:58:38 GMT",
         "title": "NHS hiring bans in cancer units shortsighted and dangerous, doctors warn",
-        "neutral_headline": "NHS Hiring Bans in Cancer Units Criticized",
+        "neutral_headline": "NHS Hiring Bans In Cancer Units Criticized",
         "items": [
           {
             "source": "Guardian Health",
@@ -129,23 +208,23 @@
             "title": "NHS hiring bans in cancer units shortsighted and dangerous, doctors warn",
             "standfirst": "Exclusive: RCR says recruitment freezes in treatment centres doubled in 2025 and could undermine government’s care plansHospitals have banned units that diagnose and treat cancer from hiring doctors as part of an NHS cost-cutting drive, despite the growing demand for care.Exactly half of the UK’s 60 specialist cancer treatment centres had a freeze on recruiting clinical oncologists imposed on them during 2025, more than double the 13 (23%) seen the year before. Continue reading...",
             "content": "Exclusive: RCR says recruitment freezes in treatment centres doubled in 2025 and could undermine government’s care plansHospitals have banned units that diagnose and treat cancer from hiring doctors as part of an NHS cost-cutting drive, despite the growing demand for care.Exactly half of the UK’s 60 specialist cancer treatment centres had a freeze on recruiting clinical oncologists imposed on them during 2025, more than double the 13 (23%) seen the year before. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "Recruitment freezes affect cancer units",
-          "Doctors warn of potential harm",
-          "NHS cost-cutting drive is under scrutiny",
-          "Cancer treatment centers are impacted",
-          "Hiring bans may undermine care plans"
+          "Recruitment freezes affect cancer treatment centres",
+          "Doctors warn of impact on patient care",
+          "Government's care plans may be undermined",
+          "Hospitals are facing staffing shortages",
+          "Hiring bans may worsen healthcare crisis"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Fri, 06 Feb 2026 17:04:27 GMT",
         "title": "Intrusive thoughts? John has a room for that",
-        "neutral_headline": "Managing Intrusive Thoughts",
+        "neutral_headline": "Managing Intrusive Thoughts And Emotions",
         "items": [
           {
             "source": "BBC Health",
@@ -160,46 +239,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f0/live/6cc39950-02aa-11f1-9972-d3f265c101c6.jpg",
         "ai_summary": [
-          "John shares his experience with thoughts",
-          "Mind's \"resentment room\" is discussed",
-          "Intrusive thoughts can be challenging",
-          "Managing thoughts requires strategies",
-          "Open discussion helps raise awareness"
+          "John shares his experience with intrusive thoughts",
+          "He uses a mental \"resentment room\" to cope",
+          "Talking about emotions can be helpful",
+          "Mental health support is essential",
+          "Sharing experiences can raise awareness"
         ]
       },
       {
-        "id": "cluster_4",
-        "coverage": 1,
-        "updated_at": "Fri, 06 Feb 2026 16:03:59 GMT",
-        "title": "Europe feels the impact of weeks of wet weather and freezing cold",
-        "neutral_headline": "Europe Experiences Extreme Weather",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/weather/articles/cwy8450qkwwo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 06 Feb 2026 16:03:59 GMT",
-            "title": "Europe feels the impact of weeks of wet weather and freezing cold",
-            "standfirst": "A blocked weather pattern has been bringing persistent heavy rain to the Iberian Peninsula. As Darren Bett explains, that's not the only type of extreme weather affecting Europe at the moment.",
-            "content": "A blocked weather pattern has been bringing persistent heavy rain to the Iberian Peninsula. As Darren Bett explains, that's not the only type of extreme weather affecting Europe at the moment.",
-            "feed_position": 42,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a24/live/501c54d0-035a-11f1-8e00-3751f0197d0e.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a24/live/501c54d0-035a-11f1-8e00-3751f0197d0e.jpg",
-        "ai_summary": [
-          "Wet weather and cold temperatures persist",
-          "Iberian Peninsula is heavily affected",
-          "Europe experiences extreme weather",
-          "Weather pattern is blocked",
-          "Heavy rain and cold temperatures continue"
-        ]
-      },
-      {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 06 Feb 2026 15:28:46 GMT",
         "title": "Court upholds return of surgeon who harassed staff",
-        "neutral_headline": "Court Upholds Surgeon's Return",
+        "neutral_headline": "Court Upholds Return Of Surgeon Who Harassed Staff",
         "items": [
           {
             "source": "BBC Health",
@@ -214,19 +266,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb28/live/6b7ef8e0-882b-11f0-8a6e-8f547baeeb61.jpg",
         "ai_summary": [
-          "Surgeon was previously suspended",
-          "James Gilbert was based in Oxford",
-          "Court ruling allows his return",
-          "Surgeon was accused of harassment",
-          "Return to work is being monitored"
+          "James Gilbert was suspended for harassment",
+          "Court ruling allows him to return to work",
+          "Staff had raised concerns about his behaviour",
+          "Hospital must ensure patient and staff safety",
+          "Ruling may have implications for workplace conduct"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 06 Feb 2026 14:23:22 GMT",
         "title": "More baby formula products recalled over toxin fears",
-        "neutral_headline": "Baby Formula Products Recalled",
+        "neutral_headline": "Baby Formula Products Recalled Over Toxin Fears",
         "items": [
           {
             "source": "BBC Health",
@@ -241,19 +293,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c09/live/e7858c80-0367-11f1-9972-d3f265c101c6.jpg",
         "ai_summary": [
-          "Danone recalls Aptamil and Cow&Gate",
-          "Toxin fears prompt recall",
-          "15 batches of formula are affected",
-          "Cereulide toxin may be present",
-          "Parents are advised to check products"
+          "Danone recalls Aptamil and Cow&Gate products",
+          "Toxin called cereulide may be present",
+          "Recall affects 15 batches of formula",
+          "Parents are advised to check batch numbers",
+          "Company apologizes for inconvenience"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 06 Feb 2026 13:32:50 GMT",
         "title": "Menstrual blood test could offer alternative to cervical screening for cancer",
-        "neutral_headline": "Menstrual Blood Test for Cervical Cancer",
+        "neutral_headline": "Menstrual Blood Test For Cervical Cancer",
         "items": [
           {
             "source": "Guardian Health",
@@ -262,23 +314,23 @@
             "title": "Menstrual blood test could offer alternative to cervical screening for cancer",
             "standfirst": "Researchers say blood sample strip, which can be used at home, can pick up virus that causes cervical cancerA pioneering test of period blood for signs of cervical cancer could be a convenient, non-invasive and accurate way of screening for the disease, researchers have said.A regular sanitary pad topped with a blood sample strip can pick up human papillomavirus (HPV), which causes most cases of cervical cancer, and could be used by women at home, the results of a study indicate. Continue reading...",
             "content": "Researchers say blood sample strip, which can be used at home, can pick up virus that causes cervical cancerA pioneering test of period blood for signs of cervical cancer could be a convenient, non-invasive and accurate way of screening for the disease, researchers have said.A regular sanitary pad topped with a blood sample strip can pick up human papillomavirus (HPV), which causes most cases of cervical cancer, and could be used by women at home, the results of a study indicate. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ],
         "ai_summary": [
-          "Blood test offers alternative screening",
-          "Test can detect HPV virus",
-          "Sanitary pad with blood sample strip",
-          "Home testing is a convenient option",
-          "Researchers say test is accurate"
+          "New test uses blood sample strip on sanitary pad",
+          "Test can detect human papillomavirus",
+          "HPV causes most cases of cervical cancer",
+          "Test may be convenient and non-invasive",
+          "Further research is needed to confirm effectiveness"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 06 Feb 2026 12:11:54 GMT",
         "title": "Newly revealed emails undermine RFK Jr testimony about 2019 Samoa trip ahead of measles outbreak",
-        "neutral_headline": "Emails Undermine RFK Jr Testimony",
+        "neutral_headline": "Emails Contradict RFK Jr Testimony On Samoa Trip",
         "items": [
           {
             "source": "Guardian Health",
@@ -287,23 +339,23 @@
             "title": "Newly revealed emails undermine RFK Jr testimony about 2019 Samoa trip ahead of measles outbreak",
             "standfirst": "Kennedy later said the purpose of his trip had nothing to do with vaccines. US embassy and UN staff at the time said otherwise, emails showOver two days of questioning during his Senate confirmation hearings last year, Robert F Kennedy Jr repeated the same answer.He said the closely scrutinized trip he took to Samoa in 2019, which came ahead of a devastating measles outbreak, had “nothing to do with vaccines”. Continue reading...",
             "content": "Kennedy later said the purpose of his trip had nothing to do with vaccines. US embassy and UN staff at the time said otherwise, emails showOver two days of questioning during his Senate confirmation hearings last year, Robert F Kennedy Jr repeated the same answer.He said the closely scrutinized trip he took to Samoa in 2019, which came ahead of a devastating measles outbreak, had “nothing to do with vaccines”. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ],
         "ai_summary": [
-          "Emails contradict Robert F Kennedy Jr",
-          "Trip to Samoa was scrutinized",
-          "Purpose of trip was questioned",
-          "US embassy and UN staff commented",
-          "Testimony is under scrutiny"
+          "Robert F Kennedy Jr testified about 2019 trip",
+          "Emails show purpose of trip was related to vaccines",
+          "Kennedy had denied vaccine connection",
+          "Emails undermine his testimony",
+          "Controversy surrounds Kennedy's statements"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 06 Feb 2026 10:56:16 GMT",
         "title": "Olive oil and bone broth: Do viral gut health foods actually work?",
-        "neutral_headline": "Viral Gut Health Foods Examined",
+        "neutral_headline": "Viral Gut Health Foods May Not Work",
         "items": [
           {
             "source": "BBC Health",
@@ -318,19 +370,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5a2/live/be92da20-02b4-11f1-9972-d3f265c101c6.jpg",
         "ai_summary": [
-          "Olive oil and bone broth are trending",
-          "Foods contain a \"small seed of truth\"",
-          "Products are often oversold",
-          "Gut health benefits are debated",
-          "Scientific evidence is limited"
+          "Trending foods contain some truth but are oversold",
+          "Olive oil and bone broth have some benefits",
+          "Many products are marketed as miracle cures",
+          "Scientific evidence is often lacking",
+          "Consumers should be cautious of exaggerated claims"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 06 Feb 2026 10:00:04 GMT",
         "title": "A snakebite death is the latest high-profile tragedy in Nigeria: they all connect to map a system in collapse | Cheta Nwanze",
-        "neutral_headline": "Nigeria Health System Faces Collapse",
+        "neutral_headline": "Nigeria Faces Healthcare System Collapse",
         "items": [
           {
             "source": "Guardian Health",
@@ -339,19 +391,19 @@
             "title": "A snakebite death is the latest high-profile tragedy in Nigeria: they all connect to map a system in collapse | Cheta Nwanze",
             "standfirst": "Anthony Joshua and Chimamanda Ngozi Adichie went through terrible experiences; now a young singer has died. The events are all linkedThe death from a snakebite of singer Ifunanya Nwangene in an Abuja hospital last Saturday, allegedly after a frantic and failed search for antivenom, sent a familiar shudder through Nigeria. It was a profoundly personal tragedy, yet it felt grimly systemic. Within days, it became part of a devastating triad of events framing a national crisis. A few weeks before, the country had grappled with the death of novelist Chimamanda Ngozi Adichie’s young son in a premium private hospital in Lagos, amid allegations of negligence. Just before that, there were the images of boxer Anthony Joshua, after a serious car crash near Lagos, being helped by bystanders with no ambulance or emergency service in sight.A cobra in an upmarket apartment, a fatal error in a high-end facility, a wrecked car on the roadside. These seem like disconnected misfortunes: in truth, they are interconnected. They represent a diagnostic map of a health system in collapse, a system where survival is determined by a lethal lottery of geography, wealth, and sheer chance. Continue reading...",
             "content": "Anthony Joshua and Chimamanda Ngozi Adichie went through terrible experiences; now a young singer has died. The events are all linkedThe death from a snakebite of singer Ifunanya Nwangene in an Abuja hospital last Saturday, allegedly after a frantic and failed search for antivenom, sent a familiar shudder through Nigeria. It was a profoundly personal tragedy, yet it felt grimly systemic. Within days, it became part of a devastating triad of events framing a national crisis. A few weeks before, the country had grappled with the death of novelist Chimamanda Ngozi Adichie’s young son in a premium private hospital in Lagos, amid allegations of negligence. Just before that, there were the images of boxer Anthony Joshua, after a serious car crash near Lagos, being helped by bystanders with no ambulance or emergency service in sight.A cobra in an upmarket apartment, a fatal error in a high-end facility, a wrecked car on the roadside. These seem like disconnected misfortunes: in truth, they are interconnected. They represent a diagnostic map of a health system in collapse, a system where survival is determined by a lethal lottery of geography, wealth, and sheer chance. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "Singer Ifunanya Nwangene dies from snakebite",
-          "Antivenom search fails at Abuja hospital",
-          "Chimamanda Ngozi Adichie’s son dies in Lagos hospital",
-          "Anthony Joshua involved in car crash near Lagos",
-          "Health system failures linked to geography and wealth"
+          "Recent tragedies highlight systemic issues",
+          "Singer Ifunanya Nwangene died from snakebite",
+          "Events are connected to healthcare failures",
+          "Systemic problems affect many aspects of life",
+          "Nigeria's healthcare system is in crisis"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 06 Feb 2026 06:00:03 GMT",
         "title": "Almost a quarter of soup on sale in UK supermarkets has too much salt, study finds",
@@ -364,23 +416,23 @@
             "title": "Almost a quarter of soup on sale in UK supermarkets has too much salt, study finds",
             "standfirst": "Analysis of nearly 500 tinned and chilled products finds 23% exceed government’s voluntary salt targetNearly a quarter of all soup bought in supermarkets contains too much salt, with one brand containing more salt than two McDonald’s cheeseburgers, according to research.Soup has long had a reputation for being a healthy choice for lunch. The analysis of nearly 500 varieties of tinned and chilled soups sold in supermarkets found that 23% contained too much salt. Continue reading...",
             "content": "Analysis of nearly 500 tinned and chilled products finds 23% exceed government’s voluntary salt targetNearly a quarter of all soup bought in supermarkets contains too much salt, with one brand containing more salt than two McDonald’s cheeseburgers, according to research.Soup has long had a reputation for being a healthy choice for lunch. The analysis of nearly 500 varieties of tinned and chilled soups sold in supermarkets found that 23% contained too much salt. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ],
         "ai_summary": [
-          "23% of soups exceed government salt targets",
-          "Analysis of nearly 500 tinned and chilled products",
+          "Nearly a quarter of soups have too much salt",
+          "Analysis of 500 products reveals high salt content",
           "One brand contains more salt than two cheeseburgers",
-          "Soup brands fail to meet voluntary salt standards",
-          "High salt content poses health risks to consumers"
+          "Excessive salt consumption is a health concern",
+          "Manufacturers must reduce salt levels in products"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 06 Feb 2026 06:00:02 GMT",
         "title": "Wood burners may treble children’s exposure to pollution in homes, study finds",
-        "neutral_headline": "Wood Burners Increase Pollution Exposure",
+        "neutral_headline": "Wood burners increase childrens pollution exposure",
         "items": [
           {
             "source": "Guardian Health",
@@ -389,23 +441,23 @@
             "title": "Wood burners may treble children’s exposure to pollution in homes, study finds",
             "standfirst": "Research in Wales found that home, not outdoor travel, was largest contributor to children’s daily exposureChildren living in homes with wood burners could be exposed to over three times more pollution than those in non-wood-burning homes. The results come from a study that looked at air pollution experienced by primary schoolchildren in Wales.Fifty-three children from two primary schools in Anglesey (Ynys Môn) were given backpacks equipped with air pollution sensors. They took the packs home and carried them during their journeys to and from school. Continue reading...",
             "content": "Research in Wales found that home, not outdoor travel, was largest contributor to children’s daily exposureChildren living in homes with wood burners could be exposed to over three times more pollution than those in non-wood-burning homes. The results come from a study that looked at air pollution experienced by primary schoolchildren in Wales.Fifty-three children from two primary schools in Anglesey (Ynys Môn) were given backpacks equipped with air pollution sensors. They took the packs home and carried them during their journeys to and from school. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ],
         "ai_summary": [
-          "Wood burners treble children’s pollution exposure",
-          "Study finds home pollution exceeds outdoor exposure",
-          "53 children in Wales participate in air pollution study",
-          "Wood burners contribute to poor indoor air quality",
-          "Children’s health at risk from wood burner pollution"
+          "Childrens exposure to pollution increases with wood burners",
+          "Wood burners contribute to indoor air pollution",
+          "Study finds home is largest pollution contributor",
+          "Fifty-three children participated in the study",
+          "Air pollution sensors were used to track exposure"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 06 Feb 2026 05:57:50 GMT",
         "title": "Dad who nearly lost tongue to cancer urges men's virus awareness",
-        "neutral_headline": "Dad Who Nearly Lost Tongue To Cancer Urges Men's Virus Awareness",
+        "neutral_headline": "Dad who nearly lost tongue to cancer urges mens virus awareness",
         "items": [
           {
             "source": "BBC Health",
@@ -420,19 +472,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/037b/live/31ec42c0-0320-11f1-a5e8-13246b55aea1.jpg",
         "ai_summary": [
-          "Father-of-two nearly loses tongue to cancer",
           "Human papillomavirus causes tongue tumour",
-          "Men urged to be aware of virus risks",
-          "Cancer treatment saves father’s life",
-          "Importance of virus awareness highlighted"
+          "Father-of-two shares his cancer experience",
+          "Virus awareness is important for men",
+          "HPV can cause cancer in men",
+          "Early awareness can help prevent cancer"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 06 Feb 2026 00:42:34 GMT",
         "title": "Increase school funding to meet need for special education, MPs urge",
-        "neutral_headline": "Increase School Funding To Meet Need For Special Education",
+        "neutral_headline": "Increase school funding for special education",
         "items": [
           {
             "source": "BBC Health",
@@ -447,19 +499,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7de4/live/5d580060-fdbd-11f0-9fd1-b16cd887f03f.jpg",
         "ai_summary": [
-          "MPs urge government to increase school funding",
-          "Funding needed to meet special education needs",
-          "Cross-party group calls for funding reform",
-          "Schools struggle to support special education",
-          "Government considers SEND reforms"
+          "MPs urge government to increase funding",
+          "Funding should align with special education needs",
+          "Cross-party group supports funding increase",
+          "SEND reforms are being considered",
+          "Funding increase can improve special education"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Fri, 06 Feb 2026 00:08:43 GMT",
         "title": "Statin pills much safer than advertised, major review finds",
-        "neutral_headline": "Statin Pills Much Safer Than Advertised",
+        "neutral_headline": "Statin pills are safer than advertised",
         "items": [
           {
             "source": "BBC Health",
@@ -474,19 +526,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/517e/live/cfa0b060-02ca-11f1-b5e2-dd58fc65f0f6.jpg",
         "ai_summary": [
-          "Major review finds statins are safer than thought",
-          "Trials involve over 120,000 people",
-          "Statins compared to dummy drug or placebo",
+          "Major review finds statins are safer",
+          "Trials involved over 120000 people",
+          "Statins compared to dummy drug",
           "Results published in The Lancet journal",
-          "Statin safety reassessed by researchers"
+          "Review finds statins have few side effects"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 23:30:50 GMT",
         "title": "Most statin side-effects not caused by the drugs, study finds",
-        "neutral_headline": "Most Statin Side-Effects Not Caused By The Drugs",
+        "neutral_headline": "Most statin side-effects not caused by the drugs, study finds",
         "items": [
           {
             "source": "Guardian Health",
@@ -495,23 +547,23 @@
             "title": "Most statin side-effects not caused by the drugs, study finds",
             "standfirst": "While labels list dozens of possible risks only four are supported by evidence, say researchers Almost all side-effects listed for statins are not caused by the drugs, according to the world’s most comprehensive review of evidence.Other than the well-known risks around muscle pain and diabetes, only four of 66 other statin side-effects listed on labels – liver test changes, minor liver abnormalities, urine changes and tissue swelling – are supported by evidence. And the risks are very small, according to the systematic review and meta-analysis published in the Lancet. Continue reading...",
             "content": "While labels list dozens of possible risks only four are supported by evidence, say researchers Almost all side-effects listed for statins are not caused by the drugs, according to the world’s most comprehensive review of evidence.Other than the well-known risks around muscle pain and diabetes, only four of 66 other statin side-effects listed on labels – liver test changes, minor liver abnormalities, urine changes and tissue swelling – are supported by evidence. And the risks are very small, according to the systematic review and meta-analysis published in the Lancet. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ],
         "ai_summary": [
-          "Study finds most statin side-effects not caused by drugs",
-          "Only four side-effects supported by evidence",
-          "Labels list dozens of possible risks",
-          "Researchers review evidence on statin side-effects",
-          "Statin risks found to be very small"
+          "Only four side effects are supported by evidence",
+          "Muscle pain and diabetes are known risks",
+          "Liver test changes are a possible risk",
+          "Tissue swelling is a minor side effect",
+          "Statin side effects are very small"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Thu, 05 Feb 2026 21:00:00 GMT",
         "title": "BBC Inside Science",
-        "neutral_headline": "New Research On Forever Chemicals",
+        "neutral_headline": "New research on forever chemicals",
         "items": [
           {
             "source": "BBC Science",
@@ -526,67 +578,17 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
         "ai_summary": [
-          "BBC Inside Science covers forever chemicals",
-          "Research on how chemicals enter environment",
-          "Study findings on forever chemicals published",
-          "Importance of understanding chemical risks",
-          "Environmental impact of forever chemicals"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Thu, 05 Feb 2026 20:15:46 GMT",
-        "title": "Five high-protein snacks that are good for vegetarians, according to a dietician",
-        "neutral_headline": "Five High-Protein Snacks For Vegetarians",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/jan/30/high-protein-snacks-that-arent-bars-or-jerky",
-            "published_at": "Thu, 05 Feb 2026 20:15:46 GMT",
-            "title": "Five high-protein snacks that are good for vegetarians, according to a dietician",
-            "standfirst": "We asked a dietician for tips on hitting protein goals when you have a plant-based diet or are sick of protein barsThis piece was originally published in the Filter US newsletter on buying fewer, better things. Sign up here to get early access to itEach week we cut through the noise to bring you smart, practical recommendations on how to live better – from what is worth buying to the tools, habits and ideas that actually last.Not a day goes by that I don’t eat a protein bar. I keep my desk stocked with Aloha or GoMacro bars, and never leave the house without popping one in my purse. There’s no denying a bar’s convenience, but when we held an in-office taste test to find the best-tasting ones on the market, our testers had strong feelings about many of their “chalky” textures and “bitter” aftertastes.GoMacro Bar Continue reading...",
-            "content": "We asked a dietician for tips on hitting protein goals when you have a plant-based diet or are sick of protein barsThis piece was originally published in the Filter US newsletter on buying fewer, better things. Sign up here to get early access to itEach week we cut through the noise to bring you smart, practical recommendations on how to live better – from what is worth buying to the tools, habits and ideas that actually last.Not a day goes by that I don’t eat a protein bar. I keep my desk stocked with Aloha or GoMacro bars, and never leave the house without popping one in my purse. There’s no denying a bar’s convenience, but when we held an in-office taste test to find the best-tasting ones on the market, our testers had strong feelings about many of their “chalky” textures and “bitter” aftertastes.GoMacro Bar Continue reading...",
-            "feed_position": 9
-          }
-        ],
-        "ai_summary": [
-          "Dietician recommends high-protein snacks",
-          "Vegetarian options for protein intake",
-          "Five snacks listed for plant-based diets",
-          "Protein bars not the only option for vegetarians",
-          "Healthy snack alternatives for vegetarians"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 05 Feb 2026 17:41:53 GMT",
-        "title": "We need new drugs for mental ill-health | Letter",
-        "neutral_headline": "We Need New Drugs For Mental Ill-Health",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/feb/05/we-need-new-drugs-for-mental-ill-health",
-            "published_at": "Thu, 05 Feb 2026 17:41:53 GMT",
-            "title": "We need new drugs for mental ill-health | Letter",
-            "standfirst": "The government must prioritise research into new drugs, rather than relying on interventions first made available 60 years ago, writes Marjorie Wallace of SaneIt is not only veterans and emergency workers living with post-traumatic stress disorder who could benefit if ministers heed the call from Sir Nick Carter (Ex-British army chief calls on ministers to back MDMA-assisted therapy for veterans, 1 February). Thousands of people who have major mental illness, and those dealing with bereavement and trauma, could be helped too.The shocking lack of progress in developing transformative psychiatric medicines, and a dearth of innovation has left clinicians with few weapons in their armoury to relieve mental pain. Families and people scarred by long-term distress tell us they are desperate for new treatments and therapies. Continue reading...",
-            "content": "The government must prioritise research into new drugs, rather than relying on interventions first made available 60 years ago, writes Marjorie Wallace of SaneIt is not only veterans and emergency workers living with post-traumatic stress disorder who could benefit if ministers heed the call from Sir Nick Carter (Ex-British army chief calls on ministers to back MDMA-assisted therapy for veterans, 1 February). Thousands of people who have major mental illness, and those dealing with bereavement and trauma, could be helped too.The shocking lack of progress in developing transformative psychiatric medicines, and a dearth of innovation has left clinicians with few weapons in their armoury to relieve mental pain. Families and people scarred by long-term distress tell us they are desperate for new treatments and therapies. Continue reading...",
-            "feed_position": 10
-          }
-        ],
-        "ai_summary": [
-          "Letter calls for new mental health drugs",
-          "Government urged to prioritise research",
-          "Current treatments outdated and ineffective",
-          "New drugs needed for mental illness treatment",
-          "Research investment crucial for mental health progress"
+          "Forever chemicals affect the environment",
+          "Research studies their impact",
+          "BBC Inside Science covers the topic",
+          "New findings on forever chemicals",
+          "Environmental research is ongoing"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-07T07:32:03.442Z",
+    "updated_at": "2026-02-07T11:22:16.972Z",
     "clusters": []
   }
 }
