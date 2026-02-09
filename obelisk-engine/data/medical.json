@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-02-09T20:01:15.564Z",
+    "updated_at": "2026-02-09T23:36:45.862Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-09T20:01:28.934Z",
+    "updated_at": "2026-02-09T23:36:58.128Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/f2318c2a-5aba-4a16-88f2-9a379c4da3f8/Historic-high-approval-ratings-for-RACGP-training.aspx",
         "ai_summary": [
-          "RACGP training receives high approval ratings",
+          "RACGP training has high approval ratings",
           "Satisfaction rates hit 97% for clinical training",
-          "Registrars express high overall approval rates",
-          "Training program deemed successful",
-          "RACGP responds to positive feedback"
+          "Registrars show high overall approval rates",
+          "Approval rates are significantly higher",
+          "Training is well-received by registrars"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/0010ba05-2c24-441a-bfdc-c9892e901932/A-growing-future-for-general-practice-in-WA.aspx",
         "ai_summary": [
-          "Record number of registrars start training in WA",
-          "Access to GPs to improve across Western Australia",
-          "General practice to benefit from new registrars",
-          "Training program to support growing demand",
-          "Positive outlook for general practice in WA"
+          "General practice in WA is growing",
+          "Record 251 registrars start training",
+          "Access to GPs will improve in WA",
+          "Registrars will benefit from the training",
+          "Growth is positive for the region"
         ]
       },
       {
@@ -80,20 +80,45 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/3334e887-4dc7-446d-ab24-79dcd6179a74/Most-listed-statin-side-effects-not-backed-by-evidence-Study.aspx",
         "ai_summary": [
-          "Study finds statin side effects not evidence-based",
-          "Researchers call for review of labels",
-          "Patients to be better informed about side effects",
-          "Study highlights need for accurate information",
-          "Medical community responds to findings"
+          "Statin side effects are not evidence-based",
+          "Researchers analyze adverse effects",
+          "Study prompts review of labels",
+          "Patients need informed decisions",
+          "Review is necessary for patient safety"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-02-09T20:01:17.493Z",
+    "updated_at": "2026-02-09T23:36:48.181Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Mon, 09 Feb 2026 23:30:04 GMT",
+        "title": "People with obesity 70% more likely to be hospitalised by or die from infection, study finds",
+        "neutral_headline": "People with obesity at higher risk of infection",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/feb/09/people-with-obesity-more-likely-to-be-hospitalised-by-or-die-from-infection-study",
+            "published_at": "Mon, 09 Feb 2026 23:30:04 GMT",
+            "title": "People with obesity 70% more likely to be hospitalised by or die from infection, study finds",
+            "standfirst": "Being unhealthy weight raises risk of severe illness or death from most infectious diseases significantly, researchers findPeople living with obesity are 70% more likely to be hospitalised by or die from an infection, with one in 10 infection-related deaths globally linked to the condition, research suggests.Being an unhealthy weight significantly increases the risk of severe illness and death from most infectious diseases, including flu, pneumonia, gastroenteritis, urinary tract infections and Covid-19, according to a study of more than 500,000 people. Continue reading...",
+            "content": "Being unhealthy weight raises risk of severe illness or death from most infectious diseases significantly, researchers findPeople living with obesity are 70% more likely to be hospitalised by or die from an infection, with one in 10 infection-related deaths globally linked to the condition, research suggests.Being an unhealthy weight significantly increases the risk of severe illness and death from most infectious diseases, including flu, pneumonia, gastroenteritis, urinary tract infections and Covid-19, according to a study of more than 500,000 people. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "Obesity increases risk of hospitalization",
+          "Infection risk is 70% higher",
+          "Unhealthy weight raises severe illness risk",
+          "Study analyzes over 500,000 people",
+          "Findings are significant for public health"
+        ]
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Mon, 09 Feb 2026 17:23:36 GMT",
         "title": "RFK Jr misled Senate during confirmation, Congress members and Hawaii governor say",
@@ -106,23 +131,23 @@
             "title": "RFK Jr misled Senate during confirmation, Congress members and Hawaii governor say",
             "standfirst": "Newly revealed emails undermine Kennedy’s testimony about 2019 Samoa trip ahead of deadly measles outbreakThree members of Congress say the US health secretary, Robert F Kennedy Jr, lied during his Senate confirmation hearings in response to newly revealed emails that undermine his testimony that a trip he took to Samoa ahead of a deadly measles outbreak had “nothing to do with vaccines”.The governor of Hawaii, a medical doctor who responded to the crisis, also spoke out – saying that the disclosure of the emails by the Guardian and the Associated Press show Kennedy misled the Senate and that he should step down. Continue reading...",
             "content": "Newly revealed emails undermine Kennedy’s testimony about 2019 Samoa trip ahead of deadly measles outbreakThree members of Congress say the US health secretary, Robert F Kennedy Jr, lied during his Senate confirmation hearings in response to newly revealed emails that undermine his testimony that a trip he took to Samoa ahead of a deadly measles outbreak had “nothing to do with vaccines”.The governor of Hawaii, a medical doctor who responded to the crisis, also spoke out – saying that the disclosure of the emails by the Guardian and the Associated Press show Kennedy misled the Senate and that he should step down. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ],
         "ai_summary": [
-          "RFK Jr accused of misleading Senate",
-          "Emails undermine his testimony about Samoa trip",
+          "RFK Jr lied during Senate confirmation",
+          "Emails undermine his testimony",
           "Congress members and governor speak out",
-          "Calls for RFK Jr to step down as health secretary",
-          "Controversy surrounds RFK Jr's confirmation"
+          "Disclosure shows Kennedy misled Senate",
+          "Testimony is called into question"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Mon, 09 Feb 2026 16:00:20 GMT",
         "title": "A couple of teas or coffees a day could lower risk of dementia, scientists say",
-        "neutral_headline": "Caffeine intake lowers dementia risk",
+        "neutral_headline": "Daily caffeine intake may lower dementia risk",
         "items": [
           {
             "source": "Guardian Health",
@@ -131,23 +156,23 @@
             "title": "A couple of teas or coffees a day could lower risk of dementia, scientists say",
             "standfirst": "Findings suggest smaller cognitive decline, but US study cannot prove daily caffeine hit is good for the brainPeople who have a couple of teas or coffees a day have a lower risk of dementia and marginally better cognitive performance than those who avoid the drinks, researchers say.Health records for more than 130,000 people showed that over 40 years, those who routinely drank two to three cups of caffeinated coffee or one to two cups of caffeinated tea daily had a 15-20% lower risk of dementia than those who went without. Continue reading...",
             "content": "Findings suggest smaller cognitive decline, but US study cannot prove daily caffeine hit is good for the brainPeople who have a couple of teas or coffees a day have a lower risk of dementia and marginally better cognitive performance than those who avoid the drinks, researchers say.Health records for more than 130,000 people showed that over 40 years, those who routinely drank two to three cups of caffeinated coffee or one to two cups of caffeinated tea daily had a 15-20% lower risk of dementia than those who went without. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ],
         "ai_summary": [
-          "Drinking two to three cups of coffee daily reduces dementia risk",
-          "Caffeine intake also improves cognitive performance",
-          "Health records of 130000 people show 15-20 percent lower dementia risk",
-          "Study spanned over 40 years",
-          "Researchers found significant cognitive decline reduction"
+          "Caffeine intake reduces dementia risk",
+          "Two to three cups of coffee are beneficial",
+          "One to two cups of tea are also beneficial",
+          "Study analyzes health records of 130,000 people",
+          "Findings suggest smaller cognitive decline"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Mon, 09 Feb 2026 15:07:39 GMT",
         "title": "Almost 70% of NHS areas in England offer only one cycle of IVF, data shows",
-        "neutral_headline": "NHS areas offer limited IVF cycles",
+        "neutral_headline": "NHS Areas In England Offer Limited IVF Cycles",
         "items": [
           {
             "source": "Guardian Health",
@@ -156,23 +181,23 @@
             "title": "Almost 70% of NHS areas in England offer only one cycle of IVF, data shows",
             "standfirst": "Charity says situation breaks Nice guidelines and is having devastating impact on couples struggling with infertility Millions of women in England are able to access only one round of IVF on the NHS because of health authority cutbacks and in contravention of official policy, research from a fertility charity has shown.Nearly 70% of local areas fund just one cycle for women under 40 who have been unable to conceive for two years, rather than the three full cycles they should be offered in line with official guidance, according to data collected by the Progress Educational Trust (PET). Continue reading...",
             "content": "Charity says situation breaks Nice guidelines and is having devastating impact on couples struggling with infertility Millions of women in England are able to access only one round of IVF on the NHS because of health authority cutbacks and in contravention of official policy, research from a fertility charity has shown.Nearly 70% of local areas fund just one cycle for women under 40 who have been unable to conceive for two years, rather than the three full cycles they should be offered in line with official guidance, according to data collected by the Progress Educational Trust (PET). Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "Nearly 70 percent of NHS areas fund only one IVF cycle",
-          "Official guidelines recommend three full IVF cycles",
-          "Charity reports significant impact on couples struggling with infertility",
-          "Data collected from local NHS areas in England",
-          "Fertility charity criticizes limited IVF funding"
+          "70 percent of NHS areas fund only one IVF cycle",
+          "Charity says situation breaks Nice guidelines",
+          "Millions of women affected by limited IVF access",
+          "Health authority cutbacks cause limited funding",
+          "Fertility charity research shows devastating impact"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 09 Feb 2026 13:00:55 GMT",
         "title": "Businesses face extinction unless they protect nature, major report warns",
-        "neutral_headline": "Businesses must protect nature to survive",
+        "neutral_headline": "Businesses Must Protect Nature To Survive",
         "items": [
           {
             "source": "BBC Science",
@@ -187,19 +212,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd8/live/f7180f30-05b3-11f1-9972-d3f265c101c6.jpg",
         "ai_summary": [
-          "Experts warn businesses of extinction without nature protection",
-          "Companies must restore natural systems to stay operational",
-          "Report highlights urgent need for environmental action",
-          "Businesses face significant risks without nature conservation",
-          "Experts call for immediate action to protect ecosystems"
+          "Experts warn businesses of extinction risk",
+          "Companies must restore natural systems",
+          "Urgent action required to protect environment",
+          "Businesses rely on natural systems to operate",
+          "Environmental damage threatens business survival"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Mon, 09 Feb 2026 12:00:00 GMT",
         "title": "US chemical giant to stop producing herbicide called ‘toxic cocktail’ by critics",
-        "neutral_headline": "US chemical giant stops producing toxic herbicide",
+        "neutral_headline": "US Chemical Giant Stops Producing Toxic Herbicide",
         "items": [
           {
             "source": "Guardian Health",
@@ -208,23 +233,23 @@
             "title": "US chemical giant to stop producing herbicide called ‘toxic cocktail’ by critics",
             "standfirst": "Corteva will discontinue a mixture of Agent Orange and glyphosate, but another of its herbicides will still use Vietnam war-era defoliantThe chemical giant Corteva will stop producing Enlist Duo, a herbicide considered to be among the most dangerous still used in the US by environmentalists because it contains a mix of Agent Orange and glyphosate, which have both been linked to cancer and widespread ecological damage.The US military deployed Agent Orange, a chemical weapon, to destroy vegetation during the Vietnam war, causing serious health problems among soldiers and Vietnamese residents.This article was amended on 9 February 2026 to add comment from a Corteva spokesperson. Continue reading...",
             "content": "Corteva will discontinue a mixture of Agent Orange and glyphosate, but another of its herbicides will still use Vietnam war-era defoliantThe chemical giant Corteva will stop producing Enlist Duo, a herbicide considered to be among the most dangerous still used in the US by environmentalists because it contains a mix of Agent Orange and glyphosate, which have both been linked to cancer and widespread ecological damage.The US military deployed Agent Orange, a chemical weapon, to destroy vegetation during the Vietnam war, causing serious health problems among soldiers and Vietnamese residents.This article was amended on 9 February 2026 to add comment from a Corteva spokesperson. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ],
         "ai_summary": [
           "Corteva discontinues Enlist Duo herbicide production",
-          "Herbicide contained mix of Agent Orange and glyphosate",
-          "Environmentalists link herbicide to cancer and ecological damage",
-          "US military used Agent Orange during Vietnam war",
-          "Corteva spokesperson comments on herbicide discontinuation"
+          "Herbicide contains Agent Orange and glyphosate",
+          "Environmentalists link herbicide to cancer and damage",
+          "Chemical giant stops production due to concerns",
+          "Another herbicide still uses Vietnam war-era defoliant"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Mon, 09 Feb 2026 06:21:27 GMT",
         "title": "Why are fewer people donating their organs?",
-        "neutral_headline": "Organ donation rates decline",
+        "neutral_headline": "Organ Donation Rates Are Declining",
         "items": [
           {
             "source": "BBC Health",
@@ -239,19 +264,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7798/live/d672c020-05b5-11f1-8336-6d2201ebafb2.png",
         "ai_summary": [
-          "Number of people waiting for organs reaches record high",
-          "Loved ones increasingly block organ donations",
-          "Donation rates decline despite growing need",
-          "Experts express concern over declining donation rates",
-          "Organ donation shortage affects thousands of patients"
+          "Record high number of people waiting for organs",
+          "Loved ones increasingly block donations",
+          "Organ donation rates are decreasing",
+          "Transplant waiting lists are growing",
+          "Donation rates are critical to saving lives"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 09 Feb 2026 06:21:01 GMT",
         "title": "'Weight-loss jab helped me find my cancer'",
-        "neutral_headline": "Weight loss leads to cancer discovery",
+        "neutral_headline": "Weight Loss Leads To Cancer Discovery",
         "items": [
           {
             "source": "BBC Health",
@@ -267,18 +292,18 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9df/live/b5aaecd0-02b5-11f1-83b0-21555a6f44a1.png",
         "ai_summary": [
           "Woman discovers breast cancer after weight loss",
-          "Weight loss jab helps woman find cancerous lump",
-          "Rebecca Combellack shares her cancer discovery story",
-          "Cancer diagnosis highlights importance of self-examination",
-          "Weight loss can lead to unexpected health discoveries"
+          "Weight loss jab helped woman find cancer",
+          "Cancer diagnosis unexpected after weight loss",
+          "Woman shares story to raise cancer awareness",
+          "Early detection crucial for successful treatment"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 23:52:07 GMT",
         "title": "‘Take the vaccine, please,’ Dr Oz urges amid rising measles cases in US",
-        "neutral_headline": "Take the vaccine please",
+        "neutral_headline": "Take The Vaccine Please",
         "items": [
           {
             "source": "Guardian Health",
@@ -287,23 +312,23 @@
             "title": "‘Take the vaccine, please,’ Dr Oz urges amid rising measles cases in US",
             "standfirst": "Health official’s endorsement comes as South Carolina faces hundreds of cases and US risks losing elimination statusA senior US public health official called on Americans to get vaccinated against measles as outbreaks continue in multiple states and concerns grow that the country could lose its measles elimination designation. Dr Mehmet Oz, a cardiothoracic surgeon, spoke in support on Sunday of the measles vaccine.“Take the vaccine, please,” said Oz, the administrator of the Centers for Medicare & Medicaid Services. “We have a solution for our problem. Continue reading...",
             "content": "Health official’s endorsement comes as South Carolina faces hundreds of cases and US risks losing elimination statusA senior US public health official called on Americans to get vaccinated against measles as outbreaks continue in multiple states and concerns grow that the country could lose its measles elimination designation. Dr Mehmet Oz, a cardiothoracic surgeon, spoke in support on Sunday of the measles vaccine.“Take the vaccine, please,” said Oz, the administrator of the Centers for Medicare & Medicaid Services. “We have a solution for our problem. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ],
         "ai_summary": [
-          "Dr Oz urges Americans to get vaccinated against measles",
-          "Measles outbreaks continue in multiple US states",
-          "US risks losing measles elimination designation",
-          "Vaccination is crucial for public health",
-          "Dr Oz supports measles vaccine as effective solution"
+          "Dr Oz urges Americans to get vaccinated",
+          "Measles outbreaks continue in multiple states",
+          "US risks losing measles elimination status",
+          "Vaccination is crucial to preventing outbreaks",
+          "Public health officials promote vaccine importance"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 16:56:52 GMT",
         "title": "When ‘low contact’ doesn’t mean healing – but coercion | Letters",
-        "neutral_headline": "Low contact relationships raise concerns",
+        "neutral_headline": "Low Contact Relationships On The Rise",
         "items": [
           {
             "source": "Guardian Health",
@@ -312,23 +337,23 @@
             "title": "When ‘low contact’ doesn’t mean healing – but coercion | Letters",
             "standfirst": "Readers respond to an article about how people are opting for minimal contact with their parents and other relativesI was really saddened to read Emily Retter’s article about how many people are now opting for “low contact” relationships with family members (The rise of ‘low contact’ family relationships: ‘I said, Mum, I need to take some space’, 5 February). I fully understand and absolutely support that people sometimes need to step away from unsafe or abusive family situations and feel huge empathy for anyone who has had to make that choice. But the piece felt one‑sided, and it missed something important about what is happening right now: a social‑media‑fuelled individualism that can have serious unintended consequences.What concerned me most was the lack of acknowledgment of how this trend overlaps with the rise in coercive control. One of the first warning signs of an abusive partner is encouraging someone to isolate from family and friends. How confusing must it be for people to see that behaviour supported in online messaging. Isolation is a major red flag for domestic abuse, and we should be helping young people to recognise that. Continue reading...",
             "content": "Readers respond to an article about how people are opting for minimal contact with their parents and other relativesI was really saddened to read Emily Retter’s article about how many people are now opting for “low contact” relationships with family members (The rise of ‘low contact’ family relationships: ‘I said, Mum, I need to take some space’, 5 February). I fully understand and absolutely support that people sometimes need to step away from unsafe or abusive family situations and feel huge empathy for anyone who has had to make that choice. But the piece felt one‑sided, and it missed something important about what is happening right now: a social‑media‑fuelled individualism that can have serious unintended consequences.What concerned me most was the lack of acknowledgment of how this trend overlaps with the rise in coercive control. One of the first warning signs of an abusive partner is encouraging someone to isolate from family and friends. How confusing must it be for people to see that behaviour supported in online messaging. Isolation is a major red flag for domestic abuse, and we should be helping young people to recognise that. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "Readers respond to article on low contact family relationships",
-          "Concerns raised about social media fueled individualism",
-          "Coercive control warning signs often overlooked",
-          "Isolation can be a red flag for domestic abuse",
-          "Experts emphasize importance of recognizing warning signs"
+          "People opt for minimal contact with family members",
+          "Low contact relationships can be beneficial",
+          "Social media fuels individualism and isolation",
+          "Coercive control warning signs include isolation",
+          "Experts warn of unintended consequences"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 15:00:33 GMT",
         "title": "Social media companies are being sued for harming their users’ mental health – but are the platforms addictive?",
-        "neutral_headline": "Social media addiction trials begin",
+        "neutral_headline": "Social Media Companies Face Lawsuits",
         "items": [
           {
             "source": "Guardian Health",
@@ -337,23 +362,23 @@
             "title": "Social media companies are being sued for harming their users’ mental health – but are the platforms addictive?",
             "standfirst": "Experts say the term ‘addiction’ is be overused and, for social media use, could be difficult to proveForthcoming legal proceedings against Meta and YouTube are frequently referred to as the “social media addiction trials”, but whether these platforms are truly addictive is still the subject of scientific debate.The lawsuits were brought against Meta, YouTube (Google), Snap Inc and TikTok by plaintiffs alleging these platforms severely damaged their mental health when they were children. Snap and TikTok settled the first case to go to trial, brought by a woman known as KGM, now about 20. The remaining defendants, Meta and YouTube, were set to go to court this week, but the trial was delayed because Meta’s senior attorney became ill. Continue reading...",
             "content": "Experts say the term ‘addiction’ is be overused and, for social media use, could be difficult to proveForthcoming legal proceedings against Meta and YouTube are frequently referred to as the “social media addiction trials”, but whether these platforms are truly addictive is still the subject of scientific debate.The lawsuits were brought against Meta, YouTube (Google), Snap Inc and TikTok by plaintiffs alleging these platforms severely damaged their mental health when they were children. Snap and TikTok settled the first case to go to trial, brought by a woman known as KGM, now about 20. The remaining defendants, Meta and YouTube, were set to go to court this week, but the trial was delayed because Meta’s senior attorney became ill. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ],
         "ai_summary": [
-          "Lawsuits allege social media platforms harm mental health",
-          "Experts debate whether social media is truly addictive",
-          "Plaintiffs claim severe damage to mental health",
-          "Social media companies face legal proceedings",
-          "Addiction term may be overused in social media context"
+          "Lawsuits allege social media harms mental health",
+          "Experts debate social media addiction",
+          "Plaintiffs claim platforms damaged their health",
+          "Social media companies face legal action",
+          "Mental health concerns spark lawsuits"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 14:00:34 GMT",
         "title": "The troubling rise of longevity fixation syndrome: ‘I was crushed by the pressure I put on myself’",
-        "neutral_headline": "Longevity fixation syndrome on the rise",
+        "neutral_headline": "Longevity Fixation Syndrome On The Rise",
         "items": [
           {
             "source": "Guardian Health",
@@ -362,23 +387,23 @@
             "title": "The troubling rise of longevity fixation syndrome: ‘I was crushed by the pressure I put on myself’",
             "standfirst": "This unofficial diagnosis describes the anxiety-driven, compulsive obsession with living as long as possible. While it might seem healthy to monitor your diet, exercise and biomarkers, it can come at a huge emotional costIt was a pitta bread that finally broke Jason Wood. It arrived with hummus instead of the vegetable crudites he had preordered in a restaurant that he had painstakingly researched, as he always did, weeks before he and his husband visited. “In that moment, I just snapped,” he recalls. “I hit rock bottom, I got angry … I started crying, I started shaking. I just felt like I couldn’t do it any more, like I had been crushed by all this pressure I put on myself.”Today, Wood, 40, speaks calmly. Neat and groomed, he seems orderly by nature. But at that time, his attempts to control every aspect of his life had spiralled. He painstakingly monitored what he ate (sometimes only organic, sometimes raw or unprocessed; calories painstakingly counted), his exercise regime (twice a day, seven days a week), and tracked every bodily function from his heart rate to his blood pressure, body fat and sleep “schedule”. He even monitored his glucose levels repeatedly throughout the day. “I was living by those numbers,” he says. Continue reading...",
             "content": "This unofficial diagnosis describes the anxiety-driven, compulsive obsession with living as long as possible. While it might seem healthy to monitor your diet, exercise and biomarkers, it can come at a huge emotional costIt was a pitta bread that finally broke Jason Wood. It arrived with hummus instead of the vegetable crudites he had preordered in a restaurant that he had painstakingly researched, as he always did, weeks before he and his husband visited. “In that moment, I just snapped,” he recalls. “I hit rock bottom, I got angry … I started crying, I started shaking. I just felt like I couldn’t do it any more, like I had been crushed by all this pressure I put on myself.”Today, Wood, 40, speaks calmly. Neat and groomed, he seems orderly by nature. But at that time, his attempts to control every aspect of his life had spiralled. He painstakingly monitored what he ate (sometimes only organic, sometimes raw or unprocessed; calories painstakingly counted), his exercise regime (twice a day, seven days a week), and tracked every bodily function from his heart rate to his blood pressure, body fat and sleep “schedule”. He even monitored his glucose levels repeatedly throughout the day. “I was living by those numbers,” he says. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ],
         "ai_summary": [
-          "Unofficial diagnosis describes anxiety driven obsession",
-          "Individuals obsess over living as long as possible",
-          "Compulsive behavior can have huge emotional cost",
-          "Experts warn of negative effects on mental health",
-          "Longevity fixation can lead to unhealthy habits"
+          "Anxiety-driven obsession with living longer",
+          "Compulsive behavior can have emotional costs",
+          "People monitor diet and exercise excessively",
+          "Longevity fixation can lead to burnout",
+          "Experts warn of unhealthy obsession with longevity"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 14:00:33 GMT",
         "title": "Is there a doctor on board? The midair emergency call medical professionals dread",
-        "neutral_headline": "Midair medical emergencies challenge doctors",
+        "neutral_headline": "Medical Emergencies On Flights",
         "items": [
           {
             "source": "Guardian Health",
@@ -387,23 +412,23 @@
             "title": "Is there a doctor on board? The midair emergency call medical professionals dread",
             "standfirst": "Doctors must assess the risk they can accept by treating someone 10,000 metres in the air and with a captive audienceBritish Airways flight 032, bound for London, was still on the tarmac in Hong Kong when Prof Angus Wallace heard the passenger announcement dreaded by many medics: “If there is a doctor on board, would they please make themselves known to cabin staff.”Wallace, then the head of orthopaedic surgery at Queen’s Medical Centre in Nottingham, answered the call, as did Dr Tom Wong, a medical resident at the time. Continue reading...",
             "content": "Doctors must assess the risk they can accept by treating someone 10,000 metres in the air and with a captive audienceBritish Airways flight 032, bound for London, was still on the tarmac in Hong Kong when Prof Angus Wallace heard the passenger announcement dreaded by many medics: “If there is a doctor on board, would they please make themselves known to cabin staff.”Wallace, then the head of orthopaedic surgery at Queen’s Medical Centre in Nottingham, answered the call, as did Dr Tom Wong, a medical resident at the time. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ],
         "ai_summary": [
           "Doctors must assess risks in midair emergencies",
-          "Medical professionals face unique challenges on flights",
-          "Treating patients at 10000 meters is difficult",
-          "Captive audience adds pressure on doctors",
-          "Medical emergencies on flights require quick thinking"
+          "Medical professionals dread in-flight calls",
+          "Treating patients on planes is challenging",
+          "Doctors must make quick decisions in emergencies",
+          "In-flight medical emergencies require expertise"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 12:34:33 GMT",
         "title": "Office buzz: UK employers turn to beehives to boost workplace wellbeing",
-        "neutral_headline": "Office beehives boost workplace wellbeing",
+        "neutral_headline": "Beehives Boost Workplace Wellbeing",
         "items": [
           {
             "source": "Guardian Health",
@@ -412,23 +437,23 @@
             "title": "Office buzz: UK employers turn to beehives to boost workplace wellbeing",
             "standfirst": "Providers report rise in demand as companies seek mental health benefits and increased sense of communityIn a growing number of workplaces, the soundtrack of the lunch break is no longer the rustle of sandwiches at a desk, but the quiet hum of bees – housed just outside the office window.Employers from Manchester to Milton Keynes are working with professional beekeepers to install hives on rooftops, in courtyards and car parks – positioning beekeeping not as a novelty but as a way to ease stress, build community and reconnect workers with nature in an era of hybrid work and burnout. Continue reading...",
             "content": "Providers report rise in demand as companies seek mental health benefits and increased sense of communityIn a growing number of workplaces, the soundtrack of the lunch break is no longer the rustle of sandwiches at a desk, but the quiet hum of bees – housed just outside the office window.Employers from Manchester to Milton Keynes are working with professional beekeepers to install hives on rooftops, in courtyards and car parks – positioning beekeeping not as a novelty but as a way to ease stress, build community and reconnect workers with nature in an era of hybrid work and burnout. Continue reading...",
-            "feed_position": 9
+            "feed_position": 10
           }
         ],
         "ai_summary": [
-          "UK employers install beehives to improve mental health",
-          "Beekeeping promotes sense of community and calm",
-          "Companies seek natural stress relief methods",
-          "Beehives become popular office wellness feature",
-          "Employers report positive effects on employee wellbeing"
+          "Employers install beehives for mental health benefits",
+          "Beekeeping promotes sense of community",
+          "Companies seek stress-reducing activities",
+          "Beehives become popular workplace wellness feature",
+          "Nature-based activities improve employee wellbeing"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 12:00:30 GMT",
         "title": "I spent years meeting strangers for masochistic hook-ups. Was I a sex addict?",
-        "neutral_headline": "Recovering from sex addiction",
+        "neutral_headline": "Sex Addiction And Extreme Encounters",
         "items": [
           {
             "source": "Guardian Health",
@@ -437,23 +462,23 @@
             "title": "I spent years meeting strangers for masochistic hook-ups. Was I a sex addict?",
             "standfirst": "After a sexually frustrating marriage led to divorce, I chased increasingly extreme BDSM encounters. But I never felt truly satisfied. Had I been looking for the wrong thing all along?To everyone else, it probably looked like a regular summer’s evening. Couples and families enjoying the beer garden, people playing cricket on the green – and I was being handcuffed in the passenger seat of a 4x4 by a man I barely knew.My name is Leesa, and I’m a recovered sex addict. Continue reading...",
             "content": "After a sexually frustrating marriage led to divorce, I chased increasingly extreme BDSM encounters. But I never felt truly satisfied. Had I been looking for the wrong thing all along?To everyone else, it probably looked like a regular summer’s evening. Couples and families enjoying the beer garden, people playing cricket on the green – and I was being handcuffed in the passenger seat of a 4x4 by a man I barely knew.My name is Leesa, and I’m a recovered sex addict. Continue reading...",
-            "feed_position": 10
+            "feed_position": 11
           }
         ],
         "ai_summary": [
-          "Individual shares story of struggling with sex addiction",
-          "Extreme BDSM encounters failed to satisfy",
-          "Sex addiction can have devastating effects",
+          "Woman shares story of sex addiction and recovery",
+          "Extreme BDSM encounters did not bring satisfaction",
+          "Sex addiction can have devastating consequences",
           "Recovery from sex addiction is possible",
-          "Experts emphasize importance of seeking help"
+          "Experts warn of risks associated with sex addiction"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 10:00:27 GMT",
         "title": "The sneeze secret: how much should you worry about this explosive reflex?",
-        "neutral_headline": "The sneeze secret revealed",
+        "neutral_headline": "The Science Behind Sneezing",
         "items": [
           {
             "source": "Guardian Health",
@@ -462,23 +487,23 @@
             "title": "The sneeze secret: how much should you worry about this explosive reflex?",
             "standfirst": "It is one of the most powerful involuntary actions the human body can perform. But is a big sneeze a sign of illness, pollution or something else entirely?How worried should we be about a sneeze? It depends who you ask. In the Odyssey, Telemachus sneezes after Penelope’s prayer that her husband will soon be home to sort out her house-sitting suitors – which she sees as a good omen for team Odysseus, and very bad news for the suitors. In the Anabasis, Xenophon takes a sneeze from a soldier as godly confirmation that his army can fight their way back to their own territory – great news for them – while St Augustine notes, somewhat disapprovingly, that people of his era tend to go back to bed if they sneeze while putting on their slippers. But is a sneeze an omen of anything apart from pathogens, pollen or – possibly – air pollution?“It’s a physical response to get rid of something that’s irritating your body,” says Sheena Cruickshank, an immunologist and professor at the University of Manchester. “Alongside the obvious nasal hairs that a few people choose to trim, all of us have cilia, or microscopic hairs in our noses that can move and sense things of their own accord. And so if anything gets trapped by the cilia, that triggers a reaction to your nerve endings that says: ‘Right, let’s get rid of this.’ And that triggers a sneeze.” Continue reading...",
             "content": "It is one of the most powerful involuntary actions the human body can perform. But is a big sneeze a sign of illness, pollution or something else entirely?How worried should we be about a sneeze? It depends who you ask. In the Odyssey, Telemachus sneezes after Penelope’s prayer that her husband will soon be home to sort out her house-sitting suitors – which she sees as a good omen for team Odysseus, and very bad news for the suitors. In the Anabasis, Xenophon takes a sneeze from a soldier as godly confirmation that his army can fight their way back to their own territory – great news for them – while St Augustine notes, somewhat disapprovingly, that people of his era tend to go back to bed if they sneeze while putting on their slippers. But is a sneeze an omen of anything apart from pathogens, pollen or – possibly – air pollution?“It’s a physical response to get rid of something that’s irritating your body,” says Sheena Cruickshank, an immunologist and professor at the University of Manchester. “Alongside the obvious nasal hairs that a few people choose to trim, all of us have cilia, or microscopic hairs in our noses that can move and sense things of their own accord. And so if anything gets trapped by the cilia, that triggers a reaction to your nerve endings that says: ‘Right, let’s get rid of this.’ And that triggers a sneeze.” Continue reading...",
-            "feed_position": 11
+            "feed_position": 12
           }
         ],
         "ai_summary": [
           "Sneezing is a powerful involuntary action",
-          "Sneezes can be caused by illness or pollution",
+          "Sneezing can be triggered by various factors",
           "Experts explain the science behind sneezing",
-          "Sneezing is a natural response to irritation",
-          "Immunologist explains the role of cilia in sneezing"
+          "Sneezing can be a sign of illness or pollution",
+          "Researchers study the causes and effects of sneezing"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 09:04:47 GMT",
         "title": "'Rare moss species are fighting climate change'",
-        "neutral_headline": "Rare moss species fight climate change",
+        "neutral_headline": "Rare Moss Species Fight Climate Change",
         "items": [
           {
             "source": "BBC Science",
@@ -493,36 +518,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79d2/live/f18ff0e0-0352-11f1-8dce-5f79cab4f7bf.jpg",
         "ai_summary": [
-          "Extinct moss species reintroduced in Yorkshire moors",
+          "Extinct moss species is reintroduced in Yorkshire",
           "Moss helps to combat climate change",
-          "Reintroduction efforts aim to restore ecosystems",
-          "Rare moss species plays crucial role in environment",
-          "Conservation efforts focus on preserving natural habitats"
-        ]
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Sun, 08 Feb 2026 06:00:23 GMT",
-        "title": "Failure to compensate pelvic mesh implant victims ‘morally unacceptable’, say campaigners",
-        "neutral_headline": "Government Fails To Compensate Pelvic Mesh Implant Victims",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/feb/08/failure-to-compensate-pelvic-mesh-implant-victims-morally-unacceptable-say-campaigners",
-            "published_at": "Sun, 08 Feb 2026 06:00:23 GMT",
-            "title": "Failure to compensate pelvic mesh implant victims ‘morally unacceptable’, say campaigners",
-            "standfirst": "Thousands of women with life-changing complications still in limbo two years after call for financial redressThe government’s failure to respond to calls for a compensation scheme for women harmed by pelvic mesh has been described as “morally unacceptable” by campaigners.Thousands of women were left with life-changing complications after receiving transvaginal mesh implants, with some unable to walk or work again. Continue reading...",
-            "content": "Thousands of women with life-changing complications still in limbo two years after call for financial redressThe government’s failure to respond to calls for a compensation scheme for women harmed by pelvic mesh has been described as “morally unacceptable” by campaigners.Thousands of women were left with life-changing complications after receiving transvaginal mesh implants, with some unable to walk or work again. Continue reading...",
-            "feed_position": 12
-          }
-        ],
-        "ai_summary": [
-          "Thousands of women have life-changing complications from mesh implants",
-          "Women are unable to walk or work due to implant complications",
-          "Campaigners describe lack of compensation as morally unacceptable",
-          "Government has not responded to calls for a compensation scheme",
-          "Women are still in limbo two years after call for financial redress"
+          "Rare species is reintroduced to moors",
+          "Conservation efforts focus on moss species",
+          "Reintroduction aims to mitigate climate change"
         ]
       },
       {
@@ -530,7 +530,7 @@
         "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 06:00:23 GMT",
         "title": "‘I don’t have to create his legacy, I just have to protect it’: Chadwick Boseman’s widow Simone on grieving a global star – and guarding his secrets",
-        "neutral_headline": "I don’t have to create his legacy, I just have to protect it",
+        "neutral_headline": "I Don’t Have To Create His Legacy I Just Have To Protect It",
         "items": [
           {
             "source": "Guardian Health",
@@ -543,19 +543,44 @@
           }
         ],
         "ai_summary": [
-          "Chadwick Boseman’s widow Simone reflects on his death",
-          "Boseman died of terminal cancer at age 43",
-          "His play Deep Azure is premiering in London",
-          "Simone is figuring out how to talk about her husband publicly",
-          "The UK premiere of Deep Azure is currently in previews"
+          "Chadwick Boseman's widow shares story of grief",
+          "Simone Ledward Boseman talks about husband's legacy",
+          "Widow reflects on five years since husband's death",
+          "Play revival helps widow heal and find closure",
+          "Simone Ledward Boseman guards husband's secrets"
         ]
       },
       {
         "id": "cluster_18",
         "coverage": 1,
+        "updated_at": "Sun, 08 Feb 2026 06:00:23 GMT",
+        "title": "Failure to compensate pelvic mesh implant victims ‘morally unacceptable’, say campaigners",
+        "neutral_headline": "Government Fails To Compensate Pelvic Mesh Implant Victims",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/feb/08/failure-to-compensate-pelvic-mesh-implant-victims-morally-unacceptable-say-campaigners",
+            "published_at": "Sun, 08 Feb 2026 06:00:23 GMT",
+            "title": "Failure to compensate pelvic mesh implant victims ‘morally unacceptable’, say campaigners",
+            "standfirst": "Thousands of women with life-changing complications still in limbo two years after call for financial redressThe government’s failure to respond to calls for a compensation scheme for women harmed by pelvic mesh has been described as “morally unacceptable” by campaigners.Thousands of women were left with life-changing complications after receiving transvaginal mesh implants, with some unable to walk or work again. Continue reading...",
+            "content": "Thousands of women with life-changing complications still in limbo two years after call for financial redressThe government’s failure to respond to calls for a compensation scheme for women harmed by pelvic mesh has been described as “morally unacceptable” by campaigners.Thousands of women were left with life-changing complications after receiving transvaginal mesh implants, with some unable to walk or work again. Continue reading...",
+            "feed_position": 14
+          }
+        ],
+        "ai_summary": [
+          "Thousands of women have life-changing complications from mesh implants",
+          "Women unable to walk or work due to implant complications",
+          "Campaigners call for financial redress for affected women",
+          "Government has not responded to calls for compensation scheme",
+          "Women still in limbo two years after call for financial redress"
+        ]
+      },
+      {
+        "id": "cluster_19",
+        "coverage": 1,
         "updated_at": "Sun, 08 Feb 2026 02:00:18 GMT",
         "title": "Why has food become another joyless way to self-optimise? | Emma Beddington",
-        "neutral_headline": "Why Has Food Become Another Joyless Way To Self Optimise",
+        "neutral_headline": "Why has food become another joyless way to self-optimise",
         "items": [
           {
             "source": "Guardian Health",
@@ -564,21 +589,21 @@
             "title": "Why has food become another joyless way to self-optimise? | Emma Beddington",
             "standfirst": "The age of ‘liquid salad’, fibremaxxing and recolonising your microbiome is here – but our meals should be about pleasure, tooThe crisis point came with the sea moss. Or perhaps the hemp protein powder? Certainly, when I started adding goose-poo-coloured dust to my breakfast, the unease I have been feeling around food culture deepened. Turning an already drab meal (plain vegan yoghurt, enough seeds to kill a gerbil) into what looked, and tasted, like mud felt more like self-harm than self-care. But, no, what pushed me over the edge was the tiny £2 Marks & Spencer sea moss shot. Sorry, not just sea moss: “High-quality red algae sea moss … high in iodine, vitamins C, B1, B6 and B12.” It was blue and tasted awful, with hints of bubble bath. Of course it did – I’m not a limpet; I’m not supposed to consume sea moss!When did food become medicine? There’s all the pseudoscientific supplementary stuff, but even normal food has started to feel functional, mere units of nutrition. A tally runs in my head of things I “need” to eat: am I getting enough oats, beans, leafy greens? What about nuts? I cut back on crisps to cram more nuts in and chuck tofu into everything, because neglecting protein is the worst crime a middle-aged woman can commit. I’m not sure I remember what I actually enjoy eating any more. I’m certain no one on earth enjoys eating flaxseeds – they have all the personality of polystyrene packaging chips – but I choke them down daily, for my cholesterol and gut health. Continue reading...",
             "content": "The age of ‘liquid salad’, fibremaxxing and recolonising your microbiome is here – but our meals should be about pleasure, tooThe crisis point came with the sea moss. Or perhaps the hemp protein powder? Certainly, when I started adding goose-poo-coloured dust to my breakfast, the unease I have been feeling around food culture deepened. Turning an already drab meal (plain vegan yoghurt, enough seeds to kill a gerbil) into what looked, and tasted, like mud felt more like self-harm than self-care. But, no, what pushed me over the edge was the tiny £2 Marks & Spencer sea moss shot. Sorry, not just sea moss: “High-quality red algae sea moss … high in iodine, vitamins C, B1, B6 and B12.” It was blue and tasted awful, with hints of bubble bath. Of course it did – I’m not a limpet; I’m not supposed to consume sea moss!When did food become medicine? There’s all the pseudoscientific supplementary stuff, but even normal food has started to feel functional, mere units of nutrition. A tally runs in my head of things I “need” to eat: am I getting enough oats, beans, leafy greens? What about nuts? I cut back on crisps to cram more nuts in and chuck tofu into everything, because neglecting protein is the worst crime a middle-aged woman can commit. I’m not sure I remember what I actually enjoy eating any more. I’m certain no one on earth enjoys eating flaxseeds – they have all the personality of polystyrene packaging chips – but I choke them down daily, for my cholesterol and gut health. Continue reading...",
-            "feed_position": 14
+            "feed_position": 15
           }
         ],
         "ai_summary": [
-          "Food culture has become focused on self optimization",
-          "People are using food as a form of medicine",
-          "Meals are becoming functional rather than enjoyable",
-          "Supplements like sea moss are being added to food",
-          "People are prioritizing nutrition over taste and pleasure"
+          "Food culture emphasizes nutrition over pleasure",
+          "People consume foods for health benefits not taste",
+          "Supplements and special foods are becoming more common",
+          "Normal food is starting to feel functional and not enjoyable",
+          "People are prioritizing nutrition over personal food preferences"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-09T20:01:28.934Z",
+    "updated_at": "2026-02-09T23:36:58.128Z",
     "clusters": []
   }
 }
