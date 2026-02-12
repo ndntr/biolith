@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-02-12T07:51:51.609Z",
+    "updated_at": "2026-02-12T11:39:21.610Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-12T07:52:08.077Z",
+    "updated_at": "2026-02-12T11:39:38.321Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/834cf07a-52d6-495d-a849-7839877cb2f6/DVA-makes-substantial-increase-to-GP-payment-for-claims-work.aspx",
         "ai_summary": [
-          "DVA increases GP payment for claims",
-          "GPs to be better remunerated",
-          "Closer monitoring of GPs to occur",
-          "Reforms aim to improve compensation",
-          "GPs welcome increased payment"
+          "GPs to receive increased payment for claims",
+          "Payment increase for veterans compensation",
+          "GPs to face closer monitoring",
+          "Reforms aim to improve GP remuneration",
+          "Changes affect GPs and veterans claims"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/0a8dcb1e-5a38-4062-bebd-73c5253eadb3/A-way-to-give-back-to-general-practice.aspx",
         "ai_summary": [
-          "Mentoring supports GP community",
-          "GPs give back to profession",
-          "Fellow Fellows help each other",
-          "Mentoring benefits GP development",
-          "Community of GPs strengthened"
+          "Mentoring supports general practice community",
+          "GPs give back to their profession",
+          "Fellow GPs support each other",
+          "Mentoring helps GPs develop skills",
+          "Community of GPs benefits from support"
         ]
       },
       {
@@ -80,11 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/51ad3481-5049-41c2-b357-b8428fc62007/Clinical-guide-for-MDMA-PTSD-treatment-released.aspx",
         "ai_summary": [
-          "Guide for MDMA PTSD treatment released",
-          "GPs and health professionals targeted",
-          "Guide aims to support treatment",
-          "MDMA treatment shows promise",
-          "GPs welcome new guide"
+          "Clinical guide released for MDMA treatment",
+          "Guide aimed at GPs and health professionals",
+          "MDMA treatment for PTSD patients",
+          "Guide provides sensible and thorough advice",
+          "GPs and professionals use new guide"
         ]
       },
       {
@@ -107,11 +107,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/b3502d0b-6359-43b0-9882-47452cf8fcf7/In-Practice-International-Women-s-Day-event.aspx",
         "ai_summary": [
-          "RACGP celebrates women in practice",
+          "RACGP hosts International Women's Day event",
+          "Event celebrates women in general practice",
+          "Members invited to attend and engage",
           "Event promotes gender equality",
-          "Members invited to participate",
-          "Women in general practice supported",
-          "Equality in medicine promoted"
+          "Women in general practice recognized"
         ]
       },
       {
@@ -134,24 +134,105 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/27f63379-bf83-4d09-b777-2e9c722f6939/Groundbreaking-Date-set-for-ADHD-diagnosis-training-in-NSW.aspx",
         "ai_summary": [
-          "ADHD diagnosis training to start",
-          "GPs to undertake diagnoses",
-          "Training to begin in March",
-          "Significant reforms to occur",
-          "GPs to initiate prescribing"
+          "ADHD diagnosis training set for NSW",
+          "Training allows GPs to diagnose and prescribe",
+          "GPs to undertake diagnoses and treatment",
+          "Training begins in March",
+          "NSW GPs to receive groundbreaking training"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-02-12T07:52:02.501Z",
+    "updated_at": "2026-02-12T11:39:22.916Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Thu, 12 Feb 2026 11:20:09 GMT",
+        "title": "NHS tracker - are hospital waiting times improving near you?",
+        "neutral_headline": "NHS Hospital Waiting Times Improving",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cq53qx2vg6jo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 12 Feb 2026 11:20:09 GMT",
+            "title": "NHS tracker - are hospital waiting times improving near you?",
+            "standfirst": "Use our interactive tracker to see if treatment waits are getting better at your local hospital.",
+            "content": "Use our interactive tracker to see if treatment waits are getting better at your local hospital.",
+            "feed_position": 64,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e64/live/1cccf440-5013-11f0-8c47-237c2e4015f5.png"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e64/live/1cccf440-5013-11f0-8c47-237c2e4015f5.png",
+        "ai_summary": [
+          "NHS tracker monitors hospital waiting times",
+          "Interactive tracker shows local improvements",
+          "Waiting times compared at local hospitals",
+          "Tracker helps users find treatment waits",
+          "NHS waiting times data made available"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Thu, 12 Feb 2026 08:08:22 GMT",
+        "title": "How do cold weather health alerts work?",
+        "neutral_headline": "Cold weather health alerts warning system",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cd97dkx9g38o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 12 Feb 2026 08:08:22 GMT",
+            "title": "How do cold weather health alerts work?",
+            "standfirst": "The weather alert service warns the public when high or low temperatures could damage their health.",
+            "content": "The weather alert service warns the public when high or low temperatures could damage their health.",
+            "feed_position": 63,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdcf/live/43e68de0-c456-11f0-8669-5560f5c90fbe.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdcf/live/43e68de0-c456-11f0-8669-5560f5c90fbe.jpg",
+        "ai_summary": [
+          "Weather alert service warns of high temperatures",
+          "Low temperatures can damage public health",
+          "Alerts issued to protect vulnerable individuals",
+          "Health risks associated with extreme weather",
+          "Public warned to take precautions during alerts"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Thu, 12 Feb 2026 07:13:00 GMT",
+        "title": "Supersized dump fire risk report kept from public",
+        "neutral_headline": "Supersized dump fire risk report hidden",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c78x966g75xo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 12 Feb 2026 07:13:00 GMT",
+            "title": "Supersized dump fire risk report kept from public",
+            "standfirst": "Oxfordshire fire and rescue service says releasing its waste site report could put safety at risk.",
+            "content": "Oxfordshire fire and rescue service says releasing its waste site report could put safety at risk.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba2/live/9083ceb0-0763-11f1-9972-d3f265c101c6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba2/live/9083ceb0-0763-11f1-9972-d3f265c101c6.jpg",
+        "ai_summary": [
+          "Oxfordshire fire and rescue service withholds report",
+          "Releasing report could put safety at risk",
+          "Waste site report details fire hazards",
+          "Public not informed of potential fire risks",
+          "Safety concerns prompt report withholding"
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
         "updated_at": "Thu, 12 Feb 2026 06:28:58 GMT",
         "title": "Medical neglect contributed to mother's death, inquest finds",
-        "neutral_headline": "Medical neglect contributed to mother's death",
+        "neutral_headline": "Medical neglect contributed to death",
         "items": [
           {
             "source": "BBC Health",
@@ -166,19 +247,46 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8122/live/1160b320-0789-11f1-b2b9-0593a020cf50.jpg",
         "ai_summary": [
-          "Medical neglect linked to death",
-          "Doctor failed to see test results",
-          "Blood clot not detected",
-          "Inquest hears of medical failure",
-          "Neglect contributed to tragic outcome"
+          "Inquest finds medical neglect in mother's death",
+          "Doctor failed to see critical test results",
+          "Test results showed blood clot risk",
+          "Medical error led to preventable death",
+          "Inquest highlights need for improved care"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_4",
+        "coverage": 1,
+        "updated_at": "Thu, 12 Feb 2026 06:15:40 GMT",
+        "title": "'I racked up £145k of debt' - Pharmacists struggling to stay afloat as costs soar",
+        "neutral_headline": "Pharmacists struggle with rising costs",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c3wzvd5l36yo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 12 Feb 2026 06:15:40 GMT",
+            "title": "'I racked up £145k of debt' - Pharmacists struggling to stay afloat as costs soar",
+            "standfirst": "With costs escalating, pharmacies are making a loss on essential items such as aspirin.",
+            "content": "With costs escalating, pharmacies are making a loss on essential items such as aspirin.",
+            "feed_position": 3,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8660/live/c2e52630-07f7-11f1-9972-d3f265c101c6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8660/live/c2e52630-07f7-11f1-9972-d3f265c101c6.jpg",
+        "ai_summary": [
+          "Pharmacies making loss on essential items",
+          "Costs escalating for pharmacies",
+          "Pharmacists struggling to stay afloat",
+          "Essential items no longer profitable",
+          "Rising costs affect pharmacy operations"
+        ]
+      },
+      {
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Thu, 12 Feb 2026 06:03:07 GMT",
         "title": "'His loss is massive': Inquests show spread of deadly synthetic drugs",
-        "neutral_headline": "Synthetic drugs cause massive loss",
+        "neutral_headline": "Synthetic drug deaths on the rise",
         "items": [
           {
             "source": "BBC Health",
@@ -193,19 +301,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e6f/live/774b8330-f15f-11f0-8c02-e5e7c184d682.jpg",
         "ai_summary": [
-          "Nitazene deaths on the rise",
-          "Deadly synthetic drugs spread",
-          "Inquests show growing concern",
+          "Nitazene deaths increasing rapidly",
           "Illegal drug market changing",
-          "Loss of life devastating"
+          "Synthetic drugs pose significant risk",
+          "Drug-related deaths affect communities",
+          "Law enforcement struggles to combat issue"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Thu, 12 Feb 2026 06:00:41 GMT",
         "title": "‘At 2am, it feels like someone’s there’: why Nigerians are choosing chatbots to give them advice and therapy",
-        "neutral_headline": "Nigerians choose chatbots for therapy",
+        "neutral_headline": "‘At 2am, it feels like someone’s there’: why Nigerians are choosing chatbots to give them advice and therapy",
         "items": [
           {
             "source": "Guardian Health",
@@ -218,19 +326,19 @@
           }
         ],
         "ai_summary": [
+          "Nigerians use chatbots for mental health",
           "Chatbots fill mental healthcare gap",
-          "Nigerians use AI for advice",
-          "Qualified therapists scarce",
-          "Regulation of AI needed",
-          "Mental health support sought"
+          "Many cannot access qualified therapists",
+          "AI provides alternative therapy option",
+          "Regulation of chatbots is necessary"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Thu, 12 Feb 2026 00:01:33 GMT",
         "title": "One in 14 children who die in England have closely related parents, study finds",
-        "neutral_headline": "One in 14 child deaths linked to consanguinity",
+        "neutral_headline": "Child mortality linked to consanguineous parents",
         "items": [
           {
             "source": "Guardian Health",
@@ -243,19 +351,19 @@
           }
         ],
         "ai_summary": [
-          "Consanguinity linked to child deaths",
-          "One in 14 children affected",
-          "Ethnic and socio-economic disparities",
-          "Study reveals stark figures",
-          "Urgent action called for"
+          "Study finds link between child mortality and consanguineous parents",
+          "One in 14 child deaths related to consanguineous parents",
+          "Ethnic and socio-economic disparities found",
+          "Child mortality rates vary by demographic",
+          "Consanguineous parents face higher risks"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Wed, 11 Feb 2026 21:00:28 GMT",
         "title": "Reading and writing can lower dementia risk by almost 40%, study finds",
-        "neutral_headline": "Reading and writing can lower dementia risk",
+        "neutral_headline": "Reading and writing lower dementia risk",
         "items": [
           {
             "source": "Guardian Health",
@@ -268,19 +376,19 @@
           }
         ],
         "ai_summary": [
-          "Dementia risk lowered by 40% through reading and writing",
-          "Cognitive health influenced by lifelong intellectual stimulation",
-          "Dementia affects over 150 million people globally by 2050",
-          "Experts warn of growing threat to health and social care",
-          "Intellectual activities may prevent or delay dementia"
+          "Study finds reading and writing reduce dementia risk",
+          "Lifelong exposure to intellectually stimulating environments helps",
+          "Learning new languages also beneficial",
+          "Dementia risk reduced by almost 40%",
+          "Cognitive health influenced by lifelong activities"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Wed, 11 Feb 2026 20:45:44 GMT",
         "title": "UK law firms consider action on behalf of women who developed brain tumours after using contraceptive",
-        "neutral_headline": "UK law firms consider action over Depo-Provera",
+        "neutral_headline": "UK law firms consider action over brain tumours",
         "items": [
           {
             "source": "Guardian Health",
@@ -293,15 +401,15 @@
           }
         ],
         "ai_summary": [
-          "Depo-Provera users have higher risk of developing meningiomas",
-          "UK law firms consider legal action for affected women",
-          "74 million women worldwide use injectable contraception",
-          "Depo-Provera is a high-dose synthetic progesterone",
-          "Overall risk of brain tumours remains low"
+          "Law firms consider action for Depo-Provera users",
+          "Depo-Provera linked to higher brain tumour risk",
+          "Studies show increased relative risk",
+          "Overall risk remains low",
+          "Law firms explore legal options for affected women"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Wed, 11 Feb 2026 18:57:43 GMT",
         "title": "'Families have lost trust over maternity inquiry'",
@@ -314,25 +422,25 @@
             "title": "'Families have lost trust over maternity inquiry'",
             "standfirst": "MPs are calling on the prime minister to intervene over the probe into Leeds maternity services.",
             "content": "MPs are calling on the prime minister to intervene over the probe into Leeds maternity services.",
-            "feed_position": 4,
+            "feed_position": 5,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b843/live/9bd350c0-069f-11f1-8d5d-7d6caf00f484.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b843/live/9bd350c0-069f-11f1-8d5d-7d6caf00f484.jpg",
         "ai_summary": [
-          "MPs call for prime minister to intervene in maternity probe",
-          "Families lose trust in Leeds maternity services inquiry",
-          "Probe into Leeds maternity services ongoing",
-          "MPs demand action to restore trust",
-          "Inquiry aims to improve maternity services"
+          "MPs call for prime minister to intervene",
+          "Maternity services inquiry loses public trust",
+          "Families affected by maternity services",
+          "Inquiry aims to address concerns",
+          "Public trust in inquiry is essential"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Wed, 11 Feb 2026 18:27:49 GMT",
         "title": "Top US medical body to review vaccine effectiveness as government ‘abdicates’ responsibility",
-        "neutral_headline": "US medical body reviews vaccine effectiveness",
+        "neutral_headline": "Top US medical body to review vaccine effectiveness",
         "items": [
           {
             "source": "Guardian Health",
@@ -345,19 +453,19 @@
           }
         ],
         "ai_summary": [
-          "AMA to review safety and effectiveness of respiratory vaccines",
-          "Federal health agencies end vaccine recommendations",
-          "Review aims to fill void left by government",
-          "Respiratory vaccines under scrutiny",
-          "US medical organization takes lead on review"
+          "AMA to review respiratory vaccine safety",
+          "Government ends vaccine recommendations",
+          "Review aims to assess vaccine effectiveness",
+          "Vaccine safety and effectiveness under review",
+          "Medical organization takes on review role"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Wed, 11 Feb 2026 16:50:13 GMT",
         "title": "Doctor who sold stolen PPE on eBay is struck off register",
-        "neutral_headline": "Doctor struck off register for selling PPE",
+        "neutral_headline": "Doctor struck off for selling stolen PPE",
         "items": [
           {
             "source": "BBC Health",
@@ -366,25 +474,25 @@
             "title": "Doctor who sold stolen PPE on eBay is struck off register",
             "standfirst": "Dr Attiya Sheikh and her husband Omer Sheikh made almost £8,000 from selling personal protective equipment during the covid pandemic.",
             "content": "Dr Attiya Sheikh and her husband Omer Sheikh made almost £8,000 from selling personal protective equipment during the covid pandemic.",
-            "feed_position": 3,
+            "feed_position": 4,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee10/live/16ee2ed0-63c9-11f0-89ea-4d6f9851f623.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee10/live/16ee2ed0-63c9-11f0-89ea-4d6f9851f623.jpg",
         "ai_summary": [
-          "Doctor and husband made £8,000 selling PPE on eBay",
-          "Doctor struck off register during covid pandemic",
-          "Personal protective equipment sold online",
-          "Doctor and husband face consequences",
-          "Sale of PPE during pandemic deemed unethical"
+          "Doctor sold stolen PPE on eBay",
+          "Doctor and husband made almost £8,000",
+          "PPE sold during covid pandemic",
+          "Doctor struck off medical register",
+          "Incident highlights need for accountability"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Wed, 11 Feb 2026 16:48:19 GMT",
         "title": "Psychiatric drugs aren’t always the answer | Letter",
-        "neutral_headline": "Psychiatric drugs are not always the answer",
+        "neutral_headline": "Psychiatric drugs not always the answer",
         "items": [
           {
             "source": "Guardian Health",
@@ -397,15 +505,15 @@
           }
         ],
         "ai_summary": [
-          "Talking therapies effective for mental health treatment",
-          "Progress made in developing talking therapies",
-          "Psychiatric drugs not always necessary",
-          "Alternative treatments available",
-          "Mental health treatment options expanding"
+          "Talking therapies offer alternative treatment",
+          "Psychiatric drugs not always effective",
+          "Progress made in talking therapies",
+          "More access to talking therapies needed",
+          "Alternative treatments should be considered"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Wed, 11 Feb 2026 12:28:32 GMT",
         "title": "Lake District village struggles to find GP – despite ad ​pledging ‘we’ll never run out of beer’",
@@ -424,44 +532,17 @@
         "ai_summary": [
           "Coniston village faces losing health practice",
           "Campaign to attract GP fails",
-          "Village has seven pubs but no doctor",
+          "Village highlights rural charm",
           "GP shortage affects rural areas",
-          "Coniston village charm not enough to attract doctor"
+          "Village seeks solution to GP shortage"
         ]
       },
       {
-        "id": "cluster_11",
-        "coverage": 1,
-        "updated_at": "Wed, 11 Feb 2026 11:37:54 GMT",
-        "title": "UK first as cutting-edge therapy used for 'debilitating' heart condition",
-        "neutral_headline": "Cutting edge therapy for heart condition",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c9wnky140dko?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 11 Feb 2026 11:37:54 GMT",
-            "title": "UK first as cutting-edge therapy used for 'debilitating' heart condition",
-            "standfirst": "A new treatment being trialled at Belfast’s Royal Victoria Hospital allows more patients to be treated and quicker recovery.",
-            "content": "A new treatment being trialled at Belfast’s Royal Victoria Hospital allows more patients to be treated and quicker recovery.",
-            "feed_position": 6,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e300/live/fbb33020-073d-11f1-b5e2-dd58fc65f0f6.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e300/live/fbb33020-073d-11f1-b5e2-dd58fc65f0f6.jpg",
-        "ai_summary": [
-          "New treatment trialled at Royal Victoria Hospital",
-          "Therapy aims to treat debilitating heart condition",
-          "Treatment allows for quicker recovery",
-          "More patients can be treated with new therapy",
-          "Belfast hospital leads the way in new treatment"
-        ]
-      },
-      {
-        "id": "cluster_12",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Wed, 11 Feb 2026 08:53:04 GMT",
         "title": "What are 'forever chemicals' and are they bad for us?",
-        "neutral_headline": "What are forever chemicals",
+        "neutral_headline": "What are forever chemicals and their risks",
         "items": [
           {
             "source": "BBC Health",
@@ -476,19 +557,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1231/live/efbf1310-0724-11f1-b7e1-afb6d0884c18.jpg",
         "ai_summary": [
-          "PFAS substances found in food and products",
-          "Forever chemicals harmful to human health",
-          "Substances accumulate in the body",
-          "PFAS found in everyday products",
-          "Health risks associated with forever chemicals"
+          "PFAS found in food and products",
+          "PFAS also found in human bodies",
+          "Forever chemicals pose health risks",
+          "Exposure to PFAS is widespread",
+          "More research needed on PFAS effects"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Wed, 11 Feb 2026 06:24:06 GMT",
         "title": "Teen had to tell deaf mum her dad might die",
-        "neutral_headline": "Teen tells deaf mum about dad's condition",
+        "neutral_headline": "NHS Staff Used Grandchildren To Inform Deaf Mother",
         "items": [
           {
             "source": "BBC Health",
@@ -497,25 +578,25 @@
             "title": "Teen had to tell deaf mum her dad might die",
             "standfirst": "NHS staff in Birmingham used Alan Graham's grandchildren to pass on information, an ombudsman finds.",
             "content": "NHS staff in Birmingham used Alan Graham's grandchildren to pass on information, an ombudsman finds.",
-            "feed_position": 5,
+            "feed_position": 6,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/141d/live/f58c3760-0719-11f1-9aef-bbc0cf892767.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/141d/live/f58c3760-0719-11f1-9aef-bbc0cf892767.png",
         "ai_summary": [
-          "NHS staff use grandchildren to communicate",
-          "Deaf mother not properly informed",
-          "Ombudsman finds NHS staff at fault",
-          "Communication breakdown affects family",
-          "NHS apologizes for mistake"
+          "NHS staff in Birmingham used grandchildren to communicate",
+          "Deaf mother was informed about father's health condition",
+          "An ombudsman investigated the incident and made findings",
+          "Incident occurred due to lack of proper communication",
+          "Ombudsman report highlights need for improvement"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Wed, 11 Feb 2026 06:05:19 GMT",
         "title": "Sunbed ads spreading harmful misinformation to young people",
-        "neutral_headline": "Sunbed ads spread harmful misinformation",
+        "neutral_headline": "Sunbed Ads Spread Misinformation To Young People",
         "items": [
           {
             "source": "BBC Health",
@@ -530,19 +611,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a838/live/7c0b4310-0735-11f1-b7e1-afb6d0884c18.jpg",
         "ai_summary": [
-          "Ads make misleading claims about health benefits",
-          "TikTok, Instagram, and Facebook ads under scrutiny",
-          "Sunbed use linked to health risks",
-          "Ads target young people",
-          "Misinformation spreads quickly online"
+          "Hundreds of ads on TikTok and Instagram were misleading",
+          "Ads claimed sunbeds have health benefits for young people",
+          "BBC investigation found false claims in sunbed ads",
+          "Ads targeted young people on social media platforms",
+          "Misleading ads posed health risks to young people"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Wed, 11 Feb 2026 02:59:08 GMT",
         "title": "Are wetter winters and frequent flooding here to stay?",
-        "neutral_headline": "Wetter winters and frequent flooding",
+        "neutral_headline": "UK Experiences Wetter Winters And Flooding",
         "items": [
           {
             "source": "BBC Science",
@@ -551,25 +632,25 @@
             "title": "Are wetter winters and frequent flooding here to stay?",
             "standfirst": "Many places across the UK have experienced their wettest January in more than 100 years.",
             "content": "Many places across the UK have experienced their wettest January in more than 100 years.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68fa/live/cceab760-0718-11f1-9972-d3f265c101c6.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68fa/live/cceab760-0718-11f1-9972-d3f265c101c6.jpg",
         "ai_summary": [
-          "UK experiences wettest January in 100 years",
-          "Flooding affects many places across the UK",
-          "Wetter winters become more frequent",
-          "Climate change contributes to flooding",
-          "UK weather patterns changing"
+          "Many UK places had wettest January in over 100 years",
+          "Frequent flooding occurred across the United Kingdom",
+          "Weather patterns caused wetter winters in the region",
+          "Heavy rainfall led to flooding in many areas",
+          "Climate change may be contributing to wetter winters"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Tue, 10 Feb 2026 23:52:41 GMT",
         "title": "FDA declines to review Moderna application for new flu vaccine",
-        "neutral_headline": "FDA declines to review Moderna application",
+        "neutral_headline": "FDA declines to review Moderna application for new flu vaccine",
         "items": [
           {
             "source": "Guardian Health",
@@ -582,94 +663,17 @@
           }
         ],
         "ai_summary": [
-          "FDA refuses to review new flu vaccine application",
-          "Moderna requests meeting to discuss refusal",
-          "Decision affects all new and updated vaccines",
-          "Implications for vaccine development",
-          "FDA decision sparks concern"
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Tue, 10 Feb 2026 23:30:00 GMT",
-        "title": "Exercise can be ‘frontline treatment’ for mild depression, researchers say",
-        "neutral_headline": "Exercise as frontline treatment for depression",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/feb/10/aerobic-exercise-frontline-treatment-mild-depression-study",
-            "published_at": "Tue, 10 Feb 2026 23:30:00 GMT",
-            "title": "Exercise can be ‘frontline treatment’ for mild depression, researchers say",
-            "standfirst": "Biggest improvements seen in young adults and new mothers, with group activities of most benefitAerobic exercise such as running, swimming or dancing can be considered a frontline treatment for mild depression and anxiety, according to research that suggests working out with others brings the most benefits.Scientists analysed published reviews on exercise and mental health and found that some of the greatest improvements were observed in young adults and new mothers – groups that are considered particularly vulnerable to mental health problems. Continue reading...",
-            "content": "Biggest improvements seen in young adults and new mothers, with group activities of most benefitAerobic exercise such as running, swimming or dancing can be considered a frontline treatment for mild depression and anxiety, according to research that suggests working out with others brings the most benefits.Scientists analysed published reviews on exercise and mental health and found that some of the greatest improvements were observed in young adults and new mothers – groups that are considered particularly vulnerable to mental health problems. Continue reading...",
-            "feed_position": 8
-          }
-        ],
-        "ai_summary": [
-          "Aerobic exercise effective for mild depression",
-          "Group activities bring most benefits",
-          "Young adults and new mothers benefit most",
-          "Exercise considered frontline treatment",
-          "Mental health improved through physical activity"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Tue, 10 Feb 2026 18:23:37 GMT",
-        "title": "Health warning over Cape Verde travel after stomach bug deaths",
-        "neutral_headline": "Health warning over Cape Verde travel",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/cwy18l59yxxo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 10 Feb 2026 18:23:37 GMT",
-            "title": "Health warning over Cape Verde travel after stomach bug deaths",
-            "standfirst": "Four Britons have died after contracting gut infections on the archapeligo since last year.",
-            "content": "Four Britons have died after contracting gut infections on the archapeligo since last year.",
-            "feed_position": 12,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48fe/live/e4b43760-0293-11f1-b7e1-afb6d0884c18.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48fe/live/e4b43760-0293-11f1-b7e1-afb6d0884c18.jpg",
-        "ai_summary": [
-          "Four Britons die from stomach bug in Cape Verde",
-          "Health warning issued for travellers",
-          "Gut infections pose risk to tourists",
-          "Cape Verde travel advice updated",
-          "Stomach bug outbreaks reported in the area"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Tue, 10 Feb 2026 16:51:48 GMT",
-        "title": "Student loan move could cost Labour dear | Letter",
-        "neutral_headline": "Student loan move could cost Labour dear",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/money/2026/feb/10/student-loan-move-could-cost-labour-dear",
-            "published_at": "Tue, 10 Feb 2026 16:51:48 GMT",
-            "title": "Student loan move could cost Labour dear | Letter",
-            "standfirst": "Dr Michael Symonds and Gavin Greenwood respond to an editorial on graduate loansYour editorial (8 February) is correct to highlight that a graduate levy by stealth is no way to fund the NHS and its potential consequences. This will include resident doctors, whose dissatisfaction with their pay and working conditions will be amplified by the chancellor’s statement that they now need to help pay for their own salaries.The anger that recent graduates feel will also be felt by their parents, many of whom benefited from free higher education and see as unfair the repayment/tax changes being imposed. The government should bear in mind the electoral near wipeout experienced by the Liberal Democrats in 2015, having enabled the Tory-led coalition to triple the cost of student fees, despite the manifesto pledge to remove it.Dr Michael SymondsEmeritus professor, University of Nottingham medical school Continue reading...",
-            "content": "Dr Michael Symonds and Gavin Greenwood respond to an editorial on graduate loansYour editorial (8 February) is correct to highlight that a graduate levy by stealth is no way to fund the NHS and its potential consequences. This will include resident doctors, whose dissatisfaction with their pay and working conditions will be amplified by the chancellor’s statement that they now need to help pay for their own salaries.The anger that recent graduates feel will also be felt by their parents, many of whom benefited from free higher education and see as unfair the repayment/tax changes being imposed. The government should bear in mind the electoral near wipeout experienced by the Liberal Democrats in 2015, having enabled the Tory-led coalition to triple the cost of student fees, despite the manifesto pledge to remove it.Dr Michael SymondsEmeritus professor, University of Nottingham medical school Continue reading...",
-            "feed_position": 9
-          }
-        ],
-        "ai_summary": [
-          "Graduate levy may fund NHS",
-          "Resident doctors face pay changes",
-          "Parents of graduates feel unfair",
-          "Electoral consequences are possible",
-          "Liberal Democrats experienced wipeout"
+          "FDA refused to review Moderna's new flu vaccine application",
+          "Decision may have implications for new and updated vaccines",
+          "Moderna requested a meeting to discuss the refusal",
+          "FDA previously approved the project for development",
+          "Decision could impact vaccine development in the US"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-12T07:52:08.077Z",
+    "updated_at": "2026-02-12T11:39:38.321Z",
     "clusters": []
   }
 }
