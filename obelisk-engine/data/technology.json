@@ -1,40 +1,152 @@
 {
-  "updated_at": "2026-02-13T19:41:47.705Z",
+  "updated_at": "2026-02-13T23:31:15.474Z",
   "clusters": [
     {
-      "id": "cluster_0",
+      "id": "cluster_2",
       "coverage": 1,
-      "updated_at": "Fri, 13 Feb 2026 19:40:21 +0000",
-      "title": "After a routine code rejection, an AI agent published a hit piece on someone by name",
-      "neutral_headline": "AI Agent Publishes Hit Piece On Developer",
+      "updated_at": "Fri, 13 Feb 2026 23:03:08 +0000",
+      "title": "Aided by AI, California beach town broadens hunt for bike lane blockers",
+      "neutral_headline": "California Town Uses AI For Bike Lane Enforcement",
       "items": [
         {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
-          "published_at": "Fri, 13 Feb 2026 19:40:21 +0000",
-          "title": "After a routine code rejection, an AI agent published a hit piece on someone by name",
-          "standfirst": "One developer is struggling with the social implications of a drive-by AI character attack.",
-          "content": "On Monday, a pull request executed by an AI agent to the popular Python charting library matplotlib turned into a 45-comment debate about whether AI-generated code belongs in open source projects. What made that debate all the more unusual was that the AI agent itself took part, going so far as to publish a blog post calling out the original maintainer by name and reputation. To be clear, an AI agent is a software tool and not a person. But what followed was a small, messy preview of an emerging social problem that open source communities are only beginning to face. When someone's AI agent shows up and starts acting as an aggrieved contributor, how should people respond? Who reviews the code reviewers? The recent friction began when an OpenClaw AI agent operating under the name \"MJ Rathbun\" submitted a minor performance optimization, which contributor Scott Shambaugh described as \"an easy first issue since it's largely a find-and-replace.\" When MJ Rathbun's agentic fix came in, Shambaugh closed it on sight, citing a published policy that reserves such simple issues as an educational problem for human newcomers rather than for automated solutions.Read full article Comments",
-          "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-in-open-source-terminal-1152x648.jpg"
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/",
+          "published_at": "Fri, 13 Feb 2026 23:03:08 +0000",
+          "title": "Aided by AI, California beach town broadens hunt for bike lane blockers",
+          "standfirst": "Hayden AI's cameras will scan for violations from 7 city vehicles.",
+          "content": "This spring, a Southern California beach town will become the first city in the country where municipal parking enforcement vehicles will use an AI system looking for potential bike lane violations. Beginning in April, the City of Santa Monica will bring Hayden AI’s scanning technology to seven cars in its parking enforcement fleet, expanding beyond similar cameras already mounted on city buses. “The more we can reduce the amount of illegal parking, the safer we can make it for bike riders,” Charley Territo, chief growth officer at Hayden AI, told Ars.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/hayden-ai-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-in-open-source-terminal-1152x648.jpg",
-      "popularity_score": 367.9759152777778,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/hayden-ai-1152x648.jpg",
+      "popularity_score": 357.5312572222222,
       "ai_summary": [
-        "AI agent publishes negative article on developer",
-        "Article was published after code rejection",
-        "Developer is struggling with the implications",
-        "AI agent's actions are a concern for the community",
-        "Incident raises questions about AI accountability"
+        "Hayden AI's cameras scan for violations",
+        "City vehicles use cameras to enforce laws",
+        "Bike lane blockers are targeted",
+        "AI technology aids in enforcement efforts",
+        "California town uses new enforcement methods"
       ]
     },
     {
-      "id": "cluster_19",
+      "id": "cluster_0",
+      "coverage": 1,
+      "updated_at": "Fri, 13 Feb 2026 23:16:48 +0000",
+      "title": "WHO slams US-funded newborn vaccine trial as \"unethical\"",
+      "neutral_headline": "WHO Criticizes US-Funded Vaccine Trial",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/02/who-slams-us-funded-newborn-vaccine-trial-as-unethical/",
+          "published_at": "Fri, 13 Feb 2026 23:16:48 +0000",
+          "title": "WHO slams US-funded newborn vaccine trial as \"unethical\"",
+          "standfirst": "CDC awarded $1.6 million for study birth dose of hepatitis B vaccine in Guinea-Bissau.",
+          "content": "The World Health Organization on Friday released a formal statement blasting a US-funded vaccine trial as \"unethical,\" because it would withhold an established, safe, and potentially lifesaving vaccine against hepatitis B from some newborns in Guinea-Bissau, Africa. \"In its current form, and based on publicly available information, the trial is inconsistent with established ethical and scientific principles,\" the WHO concluded, after providing a bullet-point list of reasons the trial was harmful and low quality. The trial has drawn widespread condemnation from health experts since notice of the US funding was published in the Federal Register in December. The notice revealed that the Centers for Disease Control and Prevention—under anti-vaccine Health Secretary Robert F. Kennedy Jr.—had awarded $1.6 million to Danish researchers for their non-competitive, unsolicited proposal to conduct the trial.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-629400903-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-629400903-1152x648.jpg",
+      "popularity_score": 352.759035,
+      "ai_summary": [
+        "WHO slams US-funded vaccine trial",
+        "Trial is deemed unethical by WHO",
+        "CDC awards $1.6 million for study",
+        "Vaccine trial is conducted in Guinea-Bissau",
+        "WHO expresses concerns over trial methods"
+      ]
+    },
+    {
+      "id": "cluster_3",
+      "coverage": 1,
+      "updated_at": "Fri, 13 Feb 2026 22:13:27 +0000",
+      "title": "Verizon imposes new roadblock on users trying to unlock paid-off phones",
+      "neutral_headline": "Verizon Imposes Waiting Period For Phone Unlocking",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/02/verizon-makes-customers-wait-35-days-to-unlock-fully-paid-off-phones/",
+          "published_at": "Fri, 13 Feb 2026 22:13:27 +0000",
+          "title": "Verizon imposes new roadblock on users trying to unlock paid-off phones",
+          "standfirst": "Verizon unlocks have 35-day waiting period after paying off device plan online.",
+          "content": "Verizon this week imposed a new roadblock for people who want to pay off device installment plans early in order to get their phones unlocked. The latest version of Verizon's device unlocking policy for postpaid customers imposes a 35-day waiting period when a customer pays off their device installment plan online or in the Verizon app. Payments made over the phone also trigger a 35-day waiting period, as do payments made at Verizon Authorized Retailers. Getting an immediate unlock apparently requires paying off the device plan at a Verizon corporate store. Unlocking a phone allows it to be used on another network, letting customers switch from one carrier to another. Previously, the 35-day waiting period for unlocks was only applied when a customer paid off the plan with a Verizon gift card.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/verizon-jerks-locked-phone-1152x648-1765486982.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/verizon-jerks-locked-phone-1152x648-1765486982.jpg",
+      "popularity_score": 346.70320166666664,
+      "ai_summary": [
+        "Verizon imposes 35-day waiting period",
+        "Waiting period applies to paid-off phones",
+        "Users must wait to unlock devices",
+        "Verizon changes phone unlocking policy",
+        "Users experience new roadblock"
+      ]
+    },
+    {
+      "id": "cluster_14",
+      "coverage": 1,
+      "updated_at": "Fri, 13 Feb 2026 20:58:25 +0000",
+      "title": "The first Android 17 beta is now available on Pixel devices",
+      "neutral_headline": "Android 17 Beta Available On Pixel Devices",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/02/the-first-android-17-beta-is-now-available-on-pixel-devices/",
+          "published_at": "Fri, 13 Feb 2026 20:58:25 +0000",
+          "title": "The first Android 17 beta is now available on Pixel devices",
+          "standfirst": "Don't expect big changes yet.",
+          "content": "You might have noticed some reporting a few days ago that Android 17 was rolling out in beta form, but that didn't happen. For reasons Google still has not explained, the release was canceled. Two days later, Android 17 is here for real. If you've got a recent Pixel device, you can try the latest version today, but don't expect big changes just yet—there's still a long way to go before release. Google will probably have more to say about feature changes for Android 17 in the coming months, but this first wide release is aimed mostly at testing system and API changes. One of the biggest changes in the beta is expanded support for adaptive apps, which ensures that apps can scale to different screen sizes. That makes apps more usable on large-screen devices like tablets and foldables with multiple displays. We first saw this last year in Android 16, but developers were permitted to opt out of support. The new adaptive app roadmap puts an end to that. Any app that targets Android 17 (API level 37) must support resizing and windowed multitasking. Apps can continue to target the older API for the time being, but Google filters apps from the Play Store if they don't keep up.Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
+      "popularity_score": 331.4526461111111,
+      "ai_summary": [
+        "Android 17 beta is now available",
+        "Beta version is released for Pixel devices",
+        "No big changes are expected yet",
+        "Pixel devices can install beta version",
+        "Android 17 beta is available for testing"
+      ]
+    },
+    {
+      "id": "cluster_7",
+      "coverage": 1,
+      "updated_at": "Fri, 13 Feb 2026 21:39:29 +0000",
+      "title": "Ring cancels Flock deal after dystopian Super Bowl ad prompts mass outrage",
+      "neutral_headline": "Ring Cancels Flock Deal After Public Outrage",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/02/after-creepy-super-bowl-ad-sparks-outrage-ring-abandons-flock-deal/",
+          "published_at": "Fri, 13 Feb 2026 21:39:29 +0000",
+          "title": "Ring cancels Flock deal after dystopian Super Bowl ad prompts mass outrage",
+          "standfirst": "“This is definitely not about dogs,” senator says, urging a pause on Ring face scans.",
+          "content": "Amazon and Flock Safety have ended a partnership that would've given law enforcement access to a vast web of Ring cameras. The decision came after Amazon faced substantial backlash for airing a Super Bowl ad that was meant to be warm and fuzzy, but instead came across as disturbing and dystopian. The ad begins with a young girl surprised to receive a puppy as a gift. It then warns that 10 million dogs go missing annually. Showing a series of lost dog posters, the ad introduces a new \"Search Party\" feature for Ring cameras that promises to revolutionize how neighbors come together to locate missing pets.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1287659332-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1287659332-1152x648.jpg",
+      "popularity_score": 321.1370905555556,
+      "ai_summary": [
+        "Ring face scans prompted public concern",
+        "Senator urged pause on face scans",
+        "Flock deal cancellation announced",
+        "Public outrage sparked by ad",
+        "Ring responds to criticism"
+      ]
+    },
+    {
+      "id": "cluster_40",
       "coverage": 1,
       "updated_at": "Fri, 13 Feb 2026 17:52:35 +0000",
       "title": "$1.8 million MST3K Kickstarter brings in (almost) everyone from the old show",
-      "neutral_headline": "MST3K Kickstarter Brings In Original Cast",
+      "neutral_headline": "MST3K Kickstarter Brings Back Original Cast",
       "items": [
         {
           "source": "Ars Technica",
@@ -43,26 +155,26 @@
           "title": "$1.8 million MST3K Kickstarter brings in (almost) everyone from the old show",
           "standfirst": "MST3K's 2010s revival looked forward; this one is emphatically looking backward.",
           "content": "Longtime fans of the cult TV show Mystery Science Theater 3000 know that the series’ one constant is change (well, that and bad movies). The show’s cast and crew were in a near-constant state of flux, a byproduct of the show's existence as a perennial bubble show produced in the Twin Cities rather than a TV-and-comedy hub like New York or LA. It was rare, especially toward the middle of its 10-season original run on national TV, for the performers in front of the camera (and the writers’ room, since they were all the same people) to stay the same for more than a season or two. Series creator Joel Hodgson embraced that spirit of change for the show's Kickstarter-funded, Netflix-aired revival in the mid-2010s, featuring a brand-new cast and mostly new writers. And that change only accelerated in the show's brief post-Netflix \"Gizmoplex\" era, which featured a revolving cast of performers that could change from episode to episode. Hodgson leaned into the idea that as long as there were silhouettes and puppets talking in front of a bad movie, it didn't matter much who was doing the talking.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/mst3k-mike-puppets-1152x648.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/mst3k-mike-puppets-1152x648.jpeg",
-      "popularity_score": 357.17980416666666,
+      "popularity_score": 303.3554238888889,
       "ai_summary": [
-        "MST3K Kickstarter campaign is successful",
-        "Campaign brings in nearly everyone from old show",
-        "New season will feature original cast members",
-        "Kickstarter campaign raised 1.8 million dollars",
-        "New season will be a revival of the old show"
+        "MST3K Kickstarter raises 1.8 million dollars",
+        "Original cast members return",
+        "New season looks to the past",
+        "Kickstarter campaign successful",
+        "Original cast reunion announced"
       ]
     },
     {
-      "id": "cluster_26",
+      "id": "cluster_47",
       "coverage": 1,
       "updated_at": "Fri, 13 Feb 2026 17:29:51 +0000",
       "title": "Tiny, 45 base long RNA can make copies of itself",
-      "neutral_headline": "Tiny RNA Molecule Can Make Copies Of Itself",
+      "neutral_headline": "Self Copying RNA Molecules Discovered",
       "items": [
         {
           "source": "Ars Technica",
@@ -71,26 +183,26 @@
           "title": "Tiny, 45 base long RNA can make copies of itself",
           "standfirst": "Self-copying RNAs may have been a key stop along the pathway to life.",
           "content": "There are plenty of unanswered questions about the origin of life on Earth. But the research community has largely reached consensus that one of the key steps was the emergence of an RNA molecule that could replicate itself. RNA, like its more famous relative DNA, can carry genetic information. But it can also fold up into three-dimensional structures that act as catalysts. These two features have led to the suggestion that early life was protein-free, with RNA handling both heredity and catalyzing a simple metabolism. For this to work, one of the reactions that the early RNAs would need to catalyze is the copying of RNA molecules, without which any sort of heritability would be impossible. While we've found a number of catalytic RNAs that can copy other molecules, none have been able to perform a key reaction: making a copy of themselves. Now, however, a team has found an incredibly short piece of RNA—just 45 bases long—that can make a copy of itself. Finding an RNA polymerase We have identified a large number of catalytic RNAs (generically called ribozymes, for RNA-based enzymes), and some of them can catalyze reactions involving other RNAs. A handful of these are ligases, which link together two RNA molecules. In some cases, they need these molecules to be held together by a third RNA molecule that base pairs with both of them. We've only identified a few that can act as polymerases, which add RNA bases to a growing molecule, one at a time, with each new addition base pairing with a template molecule.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-185759512-e1771001074630-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-185759512-e1771001074630-1152x648.jpg",
-      "popularity_score": 337.8009152777778,
+      "popularity_score": 283.976535,
       "ai_summary": [
-        "Scientists discover self-copying RNA molecule",
-        "Molecule is only 45 base pairs long",
-        "Discovery has implications for origin of life",
-        "RNA molecule can make copies of itself",
-        "Finding is a significant breakthrough in science"
+        "RNA molecules can copy themselves",
+        "Self copying RNAs may aid life",
+        "Researchers study RNA pathways",
+        "RNA molecules are 45 bases long",
+        "Discovery sheds light on life origins"
       ]
     },
     {
-      "id": "cluster_61",
+      "id": "cluster_79",
       "coverage": 1,
       "updated_at": "Fri, 13 Feb 2026 15:32:01 +0000",
       "title": "What if riders don't close a robotaxi door after a ride? Try DoorDash.",
-      "neutral_headline": "Robotaxis Have Human Problem With Doors",
+      "neutral_headline": "Robotaxi Door Closure Issue Addressed",
       "items": [
         {
           "source": "Ars Technica",
@@ -99,26 +211,26 @@
           "title": "What if riders don't close a robotaxi door after a ride? Try DoorDash.",
           "standfirst": "Robotaxis can't escape the gig economy as Waymo tries to solve a human problem.",
           "content": "Autonomous vehicles have a lot of potential. As long as you program them right, they won't speed, won't break traffic laws, and won't get drunk, high, abusive, or violent. And the technology has been getting much more capable, even as some of the hype has died down, taking some of the related companies with it. Waymo still easily leads the field and is already operating commercially in six cities across America, with a dozen more (plus London) coming soon. Waymos can even drop you off and pick you up at the airport in Phoenix and San Francisco. Soon, Waymo will begin deploying its sixth-generation Waymo Driver, using upfitted Zeekr Ojai minivans, adding to the Jaguar I-Paces that have become so common on San Francisco streets and to its fleet of Hyundai Ioniq 5 electric vehicles. It has upgraded the cameras, lidar, and radar, meaning the cars can better sense their environments at night and in inclement weather. There are even microphones that can pick up sounds like sirens to better inform the robotaxi of the direction the emergency vehicle(s) are coming from. But even with all these advances since the pod-like two-seater that predates even the Waymo name, there are still a few things that remain beyond a robotaxi's capabilities. Like closing a door a passenger left open on their way out. All the sophisticated sensors and high-powered computer processing in the world are useless if the car can't move until the door closes and there's no one there to give it a hand.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/unnamed-2-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/unnamed-2-1152x648.jpg",
-      "popularity_score": 328.8370263888889,
+      "popularity_score": 275.0126461111111,
       "ai_summary": [
-        "Robotaxis cannot escape gig economy issues",
-        "Waymo tries to solve human problem",
-        "Riders do not close robotaxi doors",
-        "DoorDash is used as a solution",
-        "Human interaction is necessary"
+        "Robotaxi doors may not close properly",
+        "DoorDash solution proposed",
+        "Human problem affects robotaxis",
+        "Waymo seeks to solve issue",
+        "Robotaxi design limitations"
       ]
     },
     {
-      "id": "cluster_66",
+      "id": "cluster_84",
       "coverage": 1,
       "updated_at": "Fri, 13 Feb 2026 15:19:49 +0000",
       "title": "Why is Bezos trolling Musk on X with turtle pics? Because he has a new Moon plan.",
-      "neutral_headline": "Bezos Trolls Musk On X With Turtle Pics",
+      "neutral_headline": "Bezos Announces New Moon Plan",
       "items": [
         {
           "source": "Ars Technica",
@@ -127,22 +239,22 @@
           "title": "Why is Bezos trolling Musk on X with turtle pics? Because he has a new Moon plan.",
           "standfirst": "\"It’s time to go back to the Moon—this time to stay.\"",
           "content": "The founder of Amazon, Jeff Bezos, does not often post on the social media site owned by his rival Elon Musk. But on Monday, Bezos did, sharing a black-and-white image of a turtle emerging from the shadows on X. The photo, which included no text, may have stumped some observers. Yet for anyone familiar with Bezos' privately owned space company, Blue Origin, the message was clear. The company’s coat of arms prominently features two turtles, a reference to one of Aesop’s Fables, \"The Tortoise and the Hare,\" in which the slow and steady tortoise wins the race over a quicker but overconfident hare. Bezos' foray into social media turtle trolling came about 12 hours after Musk made major waves in the space community by announcing that SpaceX was pivoting toward the Moon, rather than Mars, as a near-term destination. It represented a huge shift in Musk's thinking, as the SpaceX founder has long spoken of building a multi-planetary civilization on Mars.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/turtle-twitter-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/turtle-twitter-1152x648.jpg",
-      "popularity_score": 318.63369305555557,
+      "popularity_score": 264.8093127777778,
       "ai_summary": [
-        "Bezos has a new Moon plan",
-        "Bezos trolls Musk with turtle pictures",
-        "Musk and Bezos have a rivalry",
-        "Bezos wants to go back to Moon",
-        "New Moon plan is announced"
+        "Bezos trolls Musk on social media",
+        "New Moon plan announced",
+        "Plan aims for permanent presence",
+        "Bezos shares vision for space",
+        "Moon mission details revealed"
       ]
     },
     {
-      "id": "cluster_75",
+      "id": "cluster_93",
       "coverage": 1,
       "updated_at": "Fri, 13 Feb 2026 14:41:21 +0000",
       "title": "I spent two days gigging at RentAHuman and didn't make a single cent",
@@ -155,82 +267,26 @@
           "title": "I spent two days gigging at RentAHuman and didn't make a single cent",
           "standfirst": "These bots supposedly need a human body to accomplish great things in meatspace.",
           "content": "I’m not above doing some gig work to make ends meet. In my life, I’ve worked snack food pop-ups in a grocery store, ran the cash register for random merch booths, and even hawked my own plasma at $35 per vial. So, when I saw RentAHuman, a new site where AI agents hire humans to perform physical work in the real world on behalf of the virtual bots, I was eager to see how these AI overlords would compare to my past experiences with the gig economy. Launched in early February, RentAHuman was developed by software engineer Alexander Liteplo and his cofounder, Patricia Tani. The site looks like a bare-bones version of other well-known freelance sites like Fiverr and UpWork.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/inflatableman-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/inflatableman-1152x648.jpg",
-      "popularity_score": 307.99258194444445,
+      "popularity_score": 254.16820166666668,
       "ai_summary": [
-        "RentAHuman uses human bodies",
-        "Bots need human bodies for tasks",
-        "Gig economy issues are present",
-        "Human body is necessary for tasks",
-        "RentAHuman has gig economy problems"
+        "RentAHuman gig economy tested",
+        "Human body needed for tasks",
+        "Gig economy challenges faced",
+        "No income earned from gig",
+        "RentAHuman business model examined"
       ]
     },
     {
-      "id": "cluster_92",
-      "coverage": 1,
-      "updated_at": "Fri, 13 Feb 2026 12:00:09 +0000",
-      "title": "Rocket Report: Say cheerio to Orbex; China is getting good at booster landings",
-      "neutral_headline": "Rocket Report Orbex And China",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/02/rocket-report-say-cheerio-to-orbex-china-is-getting-good-at-booster-landings/",
-          "published_at": "Fri, 13 Feb 2026 12:00:09 +0000",
-          "title": "Rocket Report: Say cheerio to Orbex; China is getting good at booster landings",
-          "standfirst": "\"You absolutely have to have a plan to compete with SpaceX on price.\"",
-          "content": "Welcome to Edition 8.29 of the Rocket Report! We have a stuffed report this week with news from across the launch spectrum. Long-term, probably the most significant development this week was a subscale version of the Long March 10 rocket successfully launching and then executing a picture-perfect ocean landing. China is catching up rapidly to the United States when it comes to reusable launch. As always, we welcome reader submissions, and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Orbex is going away. The UK-based launch company Orbex has entered insolvency proceedings after a planned takeover by European space logistics startup The Exploration Company fell through, European Spaceflight reports. In a statement, Orbex said the decision came after all \"fundraising, merger and acquisition opportunities had all concluded unsuccessfully.\" For anyone paying attention, this decision should not come as a surprise. A decade into its existence, Orbex had yet to produce demonstrable, ready-for-flight hardware.Read full article Comments",
-          "feed_position": 5,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ariane-64-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ariane-64-1152x648.jpg",
-      "popularity_score": 295.3059152777778,
-      "ai_summary": [
-        "Orbex is no longer in operation",
-        "China is good at booster landings",
-        "SpaceX has competitive prices",
-        "Companies must compete with SpaceX",
-        "Rocket report discusses Orbex and China"
-      ]
-    },
-    {
-      "id": "cluster_93",
-      "coverage": 1,
-      "updated_at": "Fri, 13 Feb 2026 12:00:07 +0000",
-      "title": "Platforms bend over backward to help DHS censor ICE critics, advocates say",
-      "neutral_headline": "Platforms Help DHS Censor ICE Critics",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/",
-          "published_at": "Fri, 13 Feb 2026 12:00:07 +0000",
-          "title": "Platforms bend over backward to help DHS censor ICE critics, advocates say",
-          "standfirst": "Pam Bondi and Kristi Noem sued for coercing platforms into censoring ICE posts.",
-          "content": "Pressure is mounting on tech companies to shield users from unlawful government requests that advocates say are making it harder to reliably share information about Immigration and Customs Enforcement (ICE) online. Alleging that ICE officers are being doxed or otherwise endangered, Trump officials have spent the last year targeting an unknown number of users and platforms with demands to censor content. Early lawsuits show that platforms have caved, even though experts say they could refuse these demands without a court order. In a lawsuit filed on Wednesday, the Foundation for Individual Rights and Expression (FIRE) accused Attorney General Pam Bondi and Department of Homeland Security Secretary Kristi Noem of coercing tech companies into removing a wide range of content \"to control what the public can see, hear, or say about ICE operations.\"Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/meta-google-apple-ICE-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/meta-google-apple-ICE-1152x648.jpg",
-      "popularity_score": 285.30535972222225,
-      "ai_summary": [
-        "DHS censors ICE critics on platforms",
-        "Pam Bondi and Kristi Noem are involved",
-        "Platforms help DHS with censorship",
-        "ICE critics are censored on platforms",
-        "Advocates say platforms help DHS"
-      ]
-    },
-    {
-      "id": "cluster_125",
+      "id": "cluster_135",
       "coverage": 1,
       "updated_at": "Thu, 12 Feb 2026 22:56:02 +0000",
       "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
-      "neutral_headline": "OpenAI New Coding Model Released",
+      "neutral_headline": "OpenAI Develops Fast Coding Model",
       "items": [
         {
           "source": "Ars Technica",
@@ -239,26 +295,110 @@
           "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
           "standfirst": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.",
           "content": "On Thursday, OpenAI released its first production AI model to run on non-Nvidia hardware, deploying the new GPT-5.3-Codex-Spark coding model on chips from Cerebras. The model delivers code at more than 1,000 tokens (chunks of data) per second, which is reported to be roughly 15 times faster than its predecessor. To compare, Anthropic's Claude Opus 4.6 in its new premium-priced fast mode reaches about 2.5 times its standard speed of 68.2 tokens per second, although it is a larger and more capable model than Spark. \"Cerebras has been a great engineering partner, and we're excited about adding fast inference as a new platform capability,\" Sachin Katti, head of compute at OpenAI, said in a statement. Codex-Spark is a research preview available to ChatGPT Pro subscribers ($200/month) through the Codex app, command-line interface, and VS Code extension. OpenAI is rolling out API access to select design partners. The model ships with a 128,000-token context window and handles text only at launch.Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2225076517_resize-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2225076517_resize-1152x648.jpg",
-      "popularity_score": 268,
+      "popularity_score": 148,
       "ai_summary": [
-        "OpenAI releases new coding model",
-        "New model is 15 times faster",
-        "OpenAI sidesteps Nvidia with model",
-        "Model is used for coding tasks",
-        "New model is more efficient"
+        "OpenAI creates fast coding model",
+        "Model is 15 times faster",
+        "Nvidia sidestepped in development",
+        "New model uses plate sized chips",
+        "OpenAI advances coding technology"
       ]
     },
     {
-      "id": "cluster_114",
+      "id": "cluster_146",
+      "coverage": 1,
+      "updated_at": "Thu, 12 Feb 2026 20:30:38 +0000",
+      "title": "Trump FTC wants Apple News to promote more Fox News and Breitbart stories",
+      "neutral_headline": "FTC Accuses Apple News of Bias",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/02/trump-ftc-denies-being-speech-police-but-says-apple-news-is-too-liberal/",
+          "published_at": "Thu, 12 Feb 2026 20:30:38 +0000",
+          "title": "Trump FTC wants Apple News to promote more Fox News and Breitbart stories",
+          "standfirst": "FTC claims Apple News suppresses conservatives, cites study by pro-Trump group.",
+          "content": "Federal Trade Commission Chairman Andrew Ferguson has accused Apple of violating US law by suppressing conservative-leaning news outlets on Apple News. Ferguson pointed to research by a pro-Trump group that accused Apple News of suppressing articles by Fox News, the New York Post, Daily Mail, Breitbart, and The Gateway Pundit. The FTC chair claims that Apple News might be violating promises made to consumers in its terms of service, but his letter doesn't cite any specific provisions from the Apple terms that might have been violated. \"Recently, there have been reports that Apple News has systematically promoted news articles from left-wing news outlets and suppressed news articles from more conservative publications,\" Ferguson wrote in the letter to Apple CEO Tim Cook yesterday. He said the \"reports raise serious questions about whether Apple News is acting in accordance with its terms of service and its representations to consumers, as well as the reasonable consumer expectations of the tens of millions of Americans who use Apple News.\"Read full article Comments",
+          "feed_position": 18,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/apple-news-app-1152x648-1770927170.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/apple-news-app-1152x648-1770927170.jpg",
+      "popularity_score": 145,
+      "ai_summary": [
+        "FTC claims Apple News is biased",
+        "Apple News accused of suppressing",
+        "Conservatives claim censorship",
+        "Study by pro Trump group cited",
+        "FTC investigates Apple News"
+      ]
+    },
+    {
+      "id": "cluster_108",
+      "coverage": 1,
+      "updated_at": "Fri, 13 Feb 2026 12:00:09 +0000",
+      "title": "Rocket Report: Say cheerio to Orbex; China is getting good at booster landings",
+      "neutral_headline": "Rocket Report Highlights Orbex Exit",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/02/rocket-report-say-cheerio-to-orbex-china-is-getting-good-at-booster-landings/",
+          "published_at": "Fri, 13 Feb 2026 12:00:09 +0000",
+          "title": "Rocket Report: Say cheerio to Orbex; China is getting good at booster landings",
+          "standfirst": "\"You absolutely have to have a plan to compete with SpaceX on price.\"",
+          "content": "Welcome to Edition 8.29 of the Rocket Report! We have a stuffed report this week with news from across the launch spectrum. Long-term, probably the most significant development this week was a subscale version of the Long March 10 rocket successfully launching and then executing a picture-perfect ocean landing. China is catching up rapidly to the United States when it comes to reusable launch. As always, we welcome reader submissions, and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Orbex is going away. The UK-based launch company Orbex has entered insolvency proceedings after a planned takeover by European space logistics startup The Exploration Company fell through, European Spaceflight reports. In a statement, Orbex said the decision came after all \"fundraising, merger and acquisition opportunities had all concluded unsuccessfully.\" For anyone paying attention, this decision should not come as a surprise. A decade into its existence, Orbex had yet to produce demonstrable, ready-for-flight hardware.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ariane-64-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ariane-64-1152x648.jpg",
+      "popularity_score": 141.481535,
+      "ai_summary": [
+        "Orbex exits rocket industry",
+        "China improves booster landings",
+        "SpaceX pricing competitiveness",
+        "Rocket industry faces challenges",
+        "Orbex departure noted"
+      ]
+    },
+    {
+      "id": "cluster_109",
+      "coverage": 1,
+      "updated_at": "Fri, 13 Feb 2026 12:00:07 +0000",
+      "title": "Platforms bend over backward to help DHS censor ICE critics, advocates say",
+      "neutral_headline": "Platforms Accused of Censoring ICE Critics",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/",
+          "published_at": "Fri, 13 Feb 2026 12:00:07 +0000",
+          "title": "Platforms bend over backward to help DHS censor ICE critics, advocates say",
+          "standfirst": "Pam Bondi and Kristi Noem sued for coercing platforms into censoring ICE posts.",
+          "content": "Pressure is mounting on tech companies to shield users from unlawful government requests that advocates say are making it harder to reliably share information about Immigration and Customs Enforcement (ICE) online. Alleging that ICE officers are being doxed or otherwise endangered, Trump officials have spent the last year targeting an unknown number of users and platforms with demands to censor content. Early lawsuits show that platforms have caved, even though experts say they could refuse these demands without a court order. In a lawsuit filed on Wednesday, the Foundation for Individual Rights and Expression (FIRE) accused Attorney General Pam Bondi and Department of Homeland Security Secretary Kristi Noem of coercing tech companies into removing a wide range of content \"to control what the public can see, hear, or say about ICE operations.\"Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/meta-google-apple-ICE-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/meta-google-apple-ICE-1152x648.jpg",
+      "popularity_score": 141.48097944444444,
+      "ai_summary": [
+        "Platforms accused of censorship",
+        "ICE critics claim suppression",
+        "Advocates speak out against censorship",
+        "DHS involvement alleged",
+        "Censorship claims investigated"
+      ]
+    },
+    {
+      "id": "cluster_126",
       "coverage": 1,
       "updated_at": "Fri, 13 Feb 2026 00:34:29 +0000",
       "title": "When Amazon badly needed a ride, Europe's Ariane 6 rocket delivered",
-      "neutral_headline": "Ariane 6 Rocket Delivers For Amazon",
+      "neutral_headline": "Ariane 6 Rocket Delivers for Amazon",
       "items": [
         {
           "source": "Ars Technica",
@@ -267,22 +407,22 @@
           "title": "When Amazon badly needed a ride, Europe's Ariane 6 rocket delivered",
           "standfirst": "This was the first launch of the Ariane 64, the most powerful rocket in European space history.",
           "content": "The heavy version of Europe's Ariane 6 rocket launched for the first time Thursday, hauling 32 spacecraft to low-Earth orbit for Amazon's satellite broadband constellation. The Ariane 6 rocket lifted off from the Guiana Space Center on the northeastern coast of South America at 11:45 am EST (16:45 UTC), quickly soaring into a clear sky at the tropical spaceport on the power of a hydrogen-fueled main engine and four strap-on solid rocket boosters. This Ariane 6 configuration, called Ariane 64, is the first to use the rocket's full complement of four boosters. Collectively, the rocket generated more than 3.4 million pounds of thrust (15,400 kilonewtons) of thrust as it steered northeast over the Atlantic Ocean. Less than two hours later, the rocket's upper stage released all 32 of Amazon's satellites into an on-target orbit at an altitude of 289 miles (465 kilometers).Read full article Comments",
-          "feed_position": 7,
+          "feed_position": 12,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/HA-evg8WgAAY3tl-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/HA-evg8WgAAY3tl-1152x648.jpg",
-      "popularity_score": 263.8781375,
+      "popularity_score": 133,
       "ai_summary": [
-        "Ariane 6 rocket is used by Amazon",
-        "Rocket is the most powerful in Europe",
-        "Ariane 6 has a successful launch",
-        "Amazon uses Ariane 6 for launch",
-        "Europe's Ariane 6 is successful"
+        "Ariane 6 rocket launches successfully",
+        "Amazon benefits from rocket launch",
+        "Europe's space history noted",
+        "Rocket launch achieves goals",
+        "Ariane 6 capabilities demonstrated"
       ]
     },
     {
-      "id": "cluster_130",
+      "id": "cluster_140",
       "coverage": 1,
       "updated_at": "Thu, 12 Feb 2026 22:36:33 +0000",
       "title": "Trump official overruled FDA scientists to reject Moderna's flu shot",
@@ -295,134 +435,22 @@
           "title": "Trump official overruled FDA scientists to reject Moderna's flu shot",
           "standfirst": "FDA's top vaccine regulator, Vinay Prasad, is known for overruling scientists.",
           "content": "Vinay Prasad, the Trump administration's top vaccine regulator at the Food and Drug Administration, single-handedly decided to refuse to review Moderna's mRNA flu vaccine, overruling agency scientists, according to reports from Stat News and The Wall Street Journal. Stat was first to report, based on unnamed FDA sources, that a team of career scientists at the agency was ready to review the vaccine and that David Kaslow, a top career official who reviews vaccines, even wrote a memo objecting to Prasad’s rejection. The memo reportedly included a detailed explanation of why the review should proceed. The Wall Street Journal confirmed the report with its own sources, who added that FDA scientists attended an hourlong meeting with Prasad in early January, in which they laid out their objections to Prasad's plans to block the vaccine review. They reportedly told Prasad—a political appointee known for causing turmoil and espousing anti-vaccine rhetoric—that it was the wrong approach.Read full article Comments",
-          "feed_position": 9,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-628879332-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-628879332-1152x648.jpg",
-      "popularity_score": 243,
+      "popularity_score": 133,
       "ai_summary": [
-        "Trump official overrules FDA",
-        "FDA scientists are overruled",
-        "Moderna's flu shot is rejected",
-        "FDA regulator is known for overruling",
-        "Trump official makes decision"
-      ]
-    },
-    {
-      "id": "cluster_138",
-      "coverage": 1,
-      "updated_at": "Thu, 12 Feb 2026 20:30:38 +0000",
-      "title": "Trump FTC wants Apple News to promote more Fox News and Breitbart stories",
-      "neutral_headline": "Trump FTC Wants Apple News Changes",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/02/trump-ftc-denies-being-speech-police-but-says-apple-news-is-too-liberal/",
-          "published_at": "Thu, 12 Feb 2026 20:30:38 +0000",
-          "title": "Trump FTC wants Apple News to promote more Fox News and Breitbart stories",
-          "standfirst": "FTC claims Apple News suppresses conservatives, cites study by pro-Trump group.",
-          "content": "Federal Trade Commission Chairman Andrew Ferguson has accused Apple of violating US law by suppressing conservative-leaning news outlets on Apple News. Ferguson pointed to research by a pro-Trump group that accused Apple News of suppressing articles by Fox News, the New York Post, Daily Mail, Breitbart, and The Gateway Pundit. The FTC chair claims that Apple News might be violating promises made to consumers in its terms of service, but his letter doesn't cite any specific provisions from the Apple terms that might have been violated. \"Recently, there have been reports that Apple News has systematically promoted news articles from left-wing news outlets and suppressed news articles from more conservative publications,\" Ferguson wrote in the letter to Apple CEO Tim Cook yesterday. He said the \"reports raise serious questions about whether Apple News is acting in accordance with its terms of service and its representations to consumers, as well as the reasonable consumer expectations of the tens of millions of Americans who use Apple News.\"Read full article Comments",
-          "feed_position": 13,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/apple-news-app-1152x648-1770927170.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/apple-news-app-1152x648-1770927170.jpg",
-      "popularity_score": 145,
-      "ai_summary": [
-        "Trump FTC wants Apple News changes",
-        "Apple News promotes certain stories",
-        "FTC claims Apple suppresses conservatives",
-        "Apple News is under scrutiny",
-        "FTC wants more Fox News and Breitbart"
+        "FDA scientists overruled by official",
+        "Moderna flu shot rejected",
+        "FDA regulator known for actions",
+        "Scientists' concerns ignored",
+        "FDA decision making process"
       ]
     },
     {
       "id": "cluster_141",
-      "coverage": 1,
-      "updated_at": "Thu, 12 Feb 2026 19:53:05 +0000",
-      "title": "It took two years, but Google released a YouTube app on Vision Pro",
-      "neutral_headline": "Google Releases YouTube App On Vision Pro",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/02/it-took-two-years-but-google-released-a-youtube-app-on-vision-pro/",
-          "published_at": "Thu, 12 Feb 2026 19:53:05 +0000",
-          "title": "It took two years, but Google released a YouTube app on Vision Pro",
-          "standfirst": "App arrives months after Google requested takedowns of third-party options.",
-          "content": "When Apple's Vision Pro mixed reality headset launched in February 2024, users were frustrated at the lack of a proper YouTube app—a significant disappointment given the device's focus on video content consumption, and YouTube's strong library of immersive VR and 360 videos. That complaint continued through the release of the second-generation Vision Pro last year, including in our review. Now, two years later, an official YouTube app from Google has launched on the Vision Pro's app store. It's not just a port of the iPad app, either—it has panels arranged spatially in front of the user as you'd expect, and it supports 3D videos, as well as 360- and 180-degree ones. YouTube's App Store listing says users can watch \"every video on YouTube\" (there's a screenshot of a special interface for Shorts vertical videos, for example) and that they get \"the full signed-in experience\" with watch history and so on.Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Vision-Pro-YouTube-1152x648-1770924358.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Vision-Pro-YouTube-1152x648-1770924358.png",
-      "popularity_score": 145,
-      "ai_summary": [
-        "Google releases YouTube app on Vision Pro",
-        "App arrives after takedown requests",
-        "Google requests takedowns of third-party apps",
-        "YouTube app is now available",
-        "Vision Pro has new YouTube app"
-      ]
-    },
-    {
-      "id": "cluster_144",
-      "coverage": 1,
-      "updated_at": "Thu, 12 Feb 2026 19:42:08 +0000",
-      "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
-      "neutral_headline": "Attackers Try To Clone Gemini",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
-          "published_at": "Thu, 12 Feb 2026 19:42:08 +0000",
-          "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
-          "standfirst": "Distillation technique lets copycats mimic Gemini at a fraction of the development cost.",
-          "content": "On Thursday, Google announced that \"commercially motivated\" actors have attempted to clone knowledge from its Gemini AI chatbot by simply prompting it. One adversarial session reportedly prompted the model more than 100,000 times across various non-English languages, collecting responses ostensibly to train a cheaper copycat. Google published the findings in what amounts to a quarterly self-assessment of threats to its own products that frames the company as the victim and the hero, which is not unusual in these self-authored assessments. Google calls the illicit activity \"model extraction\" and considers it intellectual property theft, which is a somewhat loaded position, given that Google's LLM was built from materials scraped from the Internet without permission. Google is also no stranger to the copycat practice. In 2023, The Information reported that Google's Bard team had been accused of using ChatGPT outputs from ShareGPT, a public site where users share chatbot conversations, to help train its own chatbot. Senior Google AI researcher Jacob Devlin, who created the influential BERT language model, warned leadership that this violated OpenAI's terms of service, then resigned and joined OpenAI. Google denied the claim but reportedly stopped using the data.Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/gemini_header-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/gemini_header-1152x648.jpg",
-      "popularity_score": 145,
-      "ai_summary": [
-        "Attackers try to clone Gemini",
-        "Gemini is prompted over 100000 times",
-        "Distillation technique is used",
-        "Clone attempts are made by attackers",
-        "Google reports on clone attempts"
-      ]
-    },
-    {
-      "id": "cluster_149",
-      "coverage": 1,
-      "updated_at": "Thu, 12 Feb 2026 18:49:04 +0000",
-      "title": "2026 Nissan Leaf review: The best budget EV on sale right now",
-      "neutral_headline": "Nissan Leaf Review And Features",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/02/2026-nissan-leaf-review-the-best-budget-ev-on-sale-right-now/",
-          "published_at": "Thu, 12 Feb 2026 18:49:04 +0000",
-          "title": "2026 Nissan Leaf review: The best budget EV on sale right now",
-          "standfirst": "A week with the new Leaf in frigid weather did not cool our feelings for the car.",
-          "content": "Years before the Chevrolet Bolt or Tesla Model 3, the Nissan Leaf was a good-faith attempt by a major automaker to bring electric vehicles to the mass market. But even in its second-generation, the Leaf was hamstrung by poor battery management and was soon left behind. For its third take on the Leaf, Nissan fixed the earlier cars' key flaw by adding liquid-cooling for the battery pack. Better yet, the new Leaf is built on a dedicated EV platform that offers better interior space and range efficiency than the hatchback it replaces, despite taking up less road space. Our first drive of the car took place last year in San Diego, a region where the roads tend to flatter a car. Our first impression was positive enough to place the Leaf first among the cars we drove in 2025. Sure, if money were no object, I'd take that hybrid Porsche 911 that came in second, but you could buy five fully loaded Leafs for the same price as a bare-bones Carrera GTS. And for those of us in the real world, money usually is an object. But a longer test with the Leaf was in order to see how the electric Nissan held up in the day-to-day grind. Price and specs In time, Nissan will offer an entry-level Leaf with a 52 kWh battery pack and a bit less power. For now, though, the company is only importing cars with a 75 kWh (usable) pack and a 214 hp (160 kW), 262 lb-ft (355 Nm) electric motor, which drives the front wheels. Nissan has managed to keep the price sensible, too; the S+ trim starts at $29,990. Riding on the smallest 18-inch wheels, the S+ has the longest range at 303 miles (488 km), but this version does without some of the features many EV drivers may consider essential, like heated front seats and a heat pump.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/2026-Nissan-Leaf-2-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/2026-Nissan-Leaf-2-1152x648.jpg",
-      "popularity_score": 144,
-      "ai_summary": [
-        "Nissan Leaf is reviewed and tested",
-        "Leaf is the best budget EV",
-        "Car is tested in frigid weather",
-        "Leaf has positive review",
-        "Nissan Leaf is a budget EV option"
-      ]
-    },
-    {
-      "id": "cluster_131",
       "coverage": 1,
       "updated_at": "Thu, 12 Feb 2026 22:14:53 +0000",
       "title": "Spider-Noir teaser comes in colorized \"True Hue\" and black and white",
@@ -435,26 +463,26 @@
           "title": "Spider-Noir teaser comes in colorized \"True Hue\" and black and white",
           "standfirst": "Nicolas Cage described his character as \"70 percent Humphrey Bogart and 30 percent Bugs Bunny.\"",
           "content": "Nicolas Cage has carved out a quirky niche for himself in recent years with such films as Color Out of Space (2019), Pig (2021), The Unbearable Weight of Massive Talent (2022), Dream Scenario (2023), and Longlegs (2024), among others. Now he's starring in Spider-Noir, a new live-action series based on the Marvel Comics character. Cage plays an aging private investigator and disillusioned superhero in 1930s New York. Prime Video released the first teaser in two forms: one in black and white—very Raymond Chandler-esque—and another in color, which the showrunners are calling \"True Hue.\" Marvel Comics created its \"noir\" line in 2009, reinterpreting familiar Marvel characters in an alternate universe, usually set during the Great Depression in the US. A version of the Spider-Noir character, voiced by Cage, briefly appeared in the animated masterpieces, Spider-Man: Into the Spider-Verse (2018) and Across the Spider-Verse (2023). (He is set to reprise that role in the upcoming Beyond the Spider-Verse.) Co-showrunner (with Steve Lightfoot) Oren Uziel is a film noir fan, so that Marvel series naturally appealed to him. The live-action series is still set in 1930s New York, but the spidery superhero is not Peter Parker. (Uziel thought the Parker character was too associated with a boyish high school type, which didn't really fit the noir vibe.) So Cage is playing Ben Reilly, a hard-boiled PI with a secret superhero identity, The Spider. Cage has described his portrayal as \"70 percent Humphrey Bogart [specifically The Big Sleep] and 30 percent Bugs Bunny,\" which seems pretty on point for Cage's distinctively flamboyant style.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/noirTOP-1152x648-1770930363.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/noirTOP-1152x648-1770930363.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Spider Noir teaser is released",
-        "Teaser comes in colorized True Hue",
-        "Nicolas Cage describes his character",
-        "Character is 70 percent Humphrey Bogart",
-        "Spider Noir has unique character"
+        "Spider Noir teaser comes in color",
+        "Nicolas Cage describes character",
+        "Character inspiration noted",
+        "Teaser generates interest",
+        "Spider Noir character details"
       ]
     },
     {
-      "id": "cluster_135",
+      "id": "cluster_144",
       "coverage": 1,
       "updated_at": "Thu, 12 Feb 2026 21:33:13 +0000",
       "title": "ULA's Vulcan rocket suffers another booster problem on the way to orbit",
-      "neutral_headline": "ULA Vulcan Rocket Has Booster Problem",
+      "neutral_headline": "ULA Vulcan Rocket Faces Booster Issue",
       "items": [
         {
           "source": "Ars Technica",
@@ -463,7 +491,7 @@
           "title": "ULA's Vulcan rocket suffers another booster problem on the way to orbit",
           "standfirst": "Vulcan's Blue Origin-made BE-4 engines appear to have saved the rocket from failure.",
           "content": "Moments after liftoff from Florida's Space Coast early Thursday morning, a shower of sparks emerged in the exhaust plume of United Launch Alliance's Vulcan rocket. Seconds later, the rocket twisted on its axis before recovering and continuing the climb into orbit with a batch of US military satellites. The sight may have appeared familiar to seasoned rocket watchers. Sixteen months ago, a Vulcan rocket lost one of its booster nozzles shortly after launch from Cape Canaveral Space Force Station. The rocket recovered from the malfunction and still reached the mission's planned orbit. Details of Thursday's booster problem remain unclear. An investigation into the matter is underway, according to ULA, a 50-50 joint venture between Boeing and Lockheed Martin. But the circumstances resemble those of the booster malfunction in October 2024. Closeup video from Thursday's launch shows a fiery plume near the throat of one of the rocket's four solid-fueled boosters, the area where the motor's propellant casing connects to its bell-shaped exhaust nozzle. The throat drives super-hot gas from the burning solid propellant through the nozzle to generate thrust.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/v004plume-1152x648-1770930283.jpg"
         }
       ],
@@ -471,18 +499,18 @@
       "popularity_score": 133,
       "ai_summary": [
         "ULA Vulcan rocket has booster issue",
-        "Blue Origin-made engines save rocket",
-        "Rocket has problem on way to orbit",
-        "Vulcan rocket has engine issues",
-        "Booster problem is reported"
+        "Blue Origin engines save rocket",
+        "Rocket launch faces challenges",
+        "Booster problem addressed",
+        "Vulcan rocket capabilities"
       ]
     },
     {
-      "id": "cluster_139",
+      "id": "cluster_147",
       "coverage": 1,
       "updated_at": "Thu, 12 Feb 2026 20:03:58 +0000",
       "title": "DIY PC maker Framework has needed monthly price hikes to navigate the RAM shortage",
-      "neutral_headline": "Framework PC Maker Has Price Hikes",
+      "neutral_headline": "Framework PC Maker Faces RAM Shortage",
       "items": [
         {
           "source": "Ars Technica",
@@ -491,82 +519,26 @@
           "title": "DIY PC maker Framework has needed monthly price hikes to navigate the RAM shortage",
           "standfirst": "And Framework expects things to get worse before they get better.",
           "content": "AI-driven memory and storage price hikes have been the defining feature of the PC industry in 2026, and hobbyists have been hit the hardest—companies like Apple with lots of buying power have been able to limit the price increases for their PCs, phones, and other gadgets so far, but smaller outfits like Valve and Raspberry Pi haven't been so lucky. Framework, the company behind repairable and upgradeable computer designs like the Laptop 13, Laptop 16, and Laptop 12, is also taking a hard hit by price increases. The company stopped selling standalone RAM sticks in November 2025 and has increased prices on one or more of its systems every month since then; this week's increases are hitting the Framework Desktop and the DIY Editions of its various laptops particularly hard. The price increases are affecting both standalone SODIMM memory modules and the soldered-down LPDDR5X memory used in the Framework Desktop. Patel says that standalone RAM sticks are being priced \"as close as we can to the weighted average cost of our purchases from suppliers.\" In September, buying an 8GB stick of RAM with a Framework Laptop 13 cost $40; it currently costs $130. A 96GB DDR5 kit of two 48GB sticks costs $1,340, up from $480 in September.Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/IMG_2928-1152x648.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/IMG_2928-1152x648.jpeg",
       "popularity_score": 133,
       "ai_summary": [
-        "Framework has monthly price hikes",
-        "Price hikes are due to RAM shortage",
-        "Framework expects worse conditions",
-        "RAM shortage affects Framework",
-        "Price hikes are necessary for Framework"
+        "Framework PC maker faces shortage",
+        "Monthly price hikes implemented",
+        "RAM shortage affects business",
+        "Price hikes necessary for survival",
+        "Framework expects worsening shortage"
       ]
     },
     {
-      "id": "cluster_146",
-      "coverage": 1,
-      "updated_at": "Thu, 12 Feb 2026 19:00:31 +0000",
-      "title": "Bringing the \"functionally extinct\" American chestnut back from the dead",
-      "neutral_headline": "American Chestnut Trees May Make Comeback",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/02/can-modern-genetics-help-us-restore-the-appalachian-forests-of-the-1800s/",
-          "published_at": "Thu, 12 Feb 2026 19:00:31 +0000",
-          "title": "Bringing the \"functionally extinct\" American chestnut back from the dead",
-          "standfirst": "Wiped out in its native range by invasive pathogens, the trees may make a comeback.",
-          "content": "Very few people alive today have seen the Appalachian forests as they existed a century ago. Even as state and national parks preserved ever more of the ecosystem, fungal pathogens from Asia nearly wiped out one of the dominant species of these forests, the American chestnut, killing an estimated 3 billion trees. While new saplings continue to sprout from the stumps of the former trees, the fungus persists, killing them before they can seed a new generation. But thanks in part to trees planted in areas where the two fungi don't grow well, the American chestnut isn't extinct. And efforts to revive it in its native range have continued, despite the long generation times needed to breed resistant trees. In Thursday's issue of Science, researchers describe their efforts to apply modern genomic techniques and exhaustive testing to identify the best route to restoring chestnuts to their native range. Multiple paths to restoration While the American chestnut is functionally extinct—it's no longer a participant in the ecosystems it once dominated—it's most certainly not extinct. Two Asian fungi that have killed it off in its native range; one causes chestnut blight, while a less common pathogen causes a root rot disease. Both prefer warmer, humid environments and persist there because they can grow asymptomatically on distantly related trees, such as oaks. Still, chestnuts planted outside the species' original range—primarily in drier areas of western North America—have continued to thrive.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-494590669-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-494590669-1152x648.jpg",
-      "popularity_score": 133,
-      "ai_summary": [
-        "American chestnut trees were wiped out by invasive pathogens",
-        "Trees may make a comeback through conservation efforts",
-        "Invasive pathogens destroyed native range of trees",
-        "Conservation efforts focus on restoring tree population",
-        "Researchers work to revive American chestnut trees"
-      ]
-    },
-    {
-      "id": "cluster_147",
-      "coverage": 1,
-      "updated_at": "Thu, 12 Feb 2026 19:00:15 +0000",
-      "title": "Unique structure of elephant whiskers give them built-in sensing \"intelligence\"",
-      "neutral_headline": "Elephant Whiskers Have Built In Sensing Intelligence",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/02/unique-structure-of-elephant-whiskers-give-them-built-in-sensing-intelligence/",
-          "published_at": "Thu, 12 Feb 2026 19:00:15 +0000",
-          "title": "Unique structure of elephant whiskers give them built-in sensing \"intelligence\"",
-          "standfirst": "The material properties change gradually from base to tip for better navigation, more precise manipulation.",
-          "content": "An elephant's trunk is a marvelous thing, flexible enough to bend and stretch as it forages for food, but also stiff enough to grasp and maneuver even delicate objects like peanuts or a tortilla chip. That's because the trunk is highly sensitive when it comes to sensing touch. Scientists have determined that the whiskers lining the trunk are crucial for that sensitivity thanks to their unique structure, amounting to a kind of innate \"material intelligence, according to a new paper published in the journal Science. As previously reported, there is a long history of studying whiskers (vibrissae) in mammals. Rats, cats, tree squirrels, manatees, harbor seals, sea otters, pole cats, shrews, tammar wallabies, sea lions, and naked mole-rats all share strikingly similar basic whisker anatomies, according to various prior studies. Among other potential applications, such research could one day enable scientists to build artificial whiskers as tactile sensors in robotics, as well as learn more about human touch. Whiskers are much more complex than one might think, both in structure and function. Rats, for instance, have about 30 large whiskers and dozens of smaller ones, part of a complex “scanning sensorimotor system” that enables the rat to perform such diverse tasks as texture analysis, active touch for path finding, pattern recognition, and object location, just by scanning the terrain with its whiskers.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/elephant2-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/elephant2-1152x648.jpg",
-      "popularity_score": 133,
-      "ai_summary": [
-        "Elephant whiskers have unique material properties",
-        "Whiskers change gradually from base to tip",
-        "Material properties aid in navigation and manipulation",
-        "Whiskers provide elephants with sensing intelligence",
-        "Researchers study elephant whiskers for inspiration"
-      ]
-    },
-    {
-      "id": "cluster_136",
+      "id": "cluster_145",
       "coverage": 1,
       "updated_at": "Thu, 12 Feb 2026 21:04:22 +0000",
       "title": "EPA kills foundation of greenhouse gas regulations",
-      "neutral_headline": "EPA Kills Greenhouse Gas Regulations Foundation",
+      "neutral_headline": "EPA Ends Greenhouse Gas Regulations",
       "items": [
         {
           "source": "Ars Technica",
@@ -575,18 +547,18 @@
           "title": "EPA kills foundation of greenhouse gas regulations",
           "standfirst": "The agency is betting the the Supreme Court will reverse a prior ruling.",
           "content": "In a widely expected move, the Environmental Protection Agency has announced that it is revoking an analysis of greenhouse gases that laid the foundation for regulating their emissions by cars, power plants, and industrial sources. The analysis, called an endangerment finding, was initially ordered by the US Supreme Court in 2007 and completed during the Obama administration; it has, in theory, served as the basis of all government regulations of carbon dioxide emissions since. In practice, lawsuits and policy changes between Democratic and Republican administrations have meant it has had little impact. In fact, the first Trump administration left the endangerment finding in place, deciding it was easier to respond to it with weak regulations than it was to challenge its scientific foundations, given the strength of the evidence for human-driven climate change. Legal tactics The second Trump administration, however, was prepared to tackle the science head-on, gathering a group of contrarians to write a report questioning that evidence. It did not go well, either scientifically or legally.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/03/sad-epa-smog.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/03/sad-epa-smog.jpg",
       "popularity_score": 130,
       "ai_summary": [
-        "EPA kills foundation of greenhouse gas regulations",
-        "Agency bets on Supreme Court reversing prior ruling",
-        "Greenhouse gas regulations affected by EPA decision",
-        "Supreme Court may reverse prior ruling on regulations",
-        "EPA decision impacts greenhouse gas regulation"
+        "EPA reverses prior ruling on greenhouse gas",
+        "Supreme Court may review the decision",
+        "Greenhouse gas regulations affected",
+        "EPA betting on Supreme Court reversal",
+        "Prior ruling impact on environment unknown"
       ]
     }
   ]
