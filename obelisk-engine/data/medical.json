@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-02-16T19:31:50.901Z",
+    "updated_at": "2026-02-16T23:29:32.623Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-16T19:31:59.694Z",
+    "updated_at": "2026-02-16T23:29:37.019Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/02e860c7-f817-4502-ac45-d3fb56dcaf8e/GPs-included-in-proposed-new-medical-fee-laws.aspx",
         "ai_summary": [
-          "New legislation includes general practice fees",
-          "The laws aim to ensure fee transparency",
-          "Medical Costs Finder will share the fees",
-          "GPs are key to the new legislation",
-          "The laws will affect the medical industry"
+          "New legislation includes general practice in fee laws",
+          "The laws aim to ensure fees are shared on Medical Costs Finder",
+          "General practice is specifically referenced in the laws",
+          "The legislation has implications for general practitioners",
+          "The laws aim to increase transparency in medical fees"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/3c8fb2d1-fe60-4551-ad6e-d726e290b777/The-AI-era-and-why-trusted-medicines-information-is-critical.aspx",
         "ai_summary": [
-          "AI is changing the way we access information",
-          "Trusted medicines information is critical",
-          "Patients and digital agents generate answers",
-          "AMH is an authoritative source for GPs",
-          "Accurate information is essential for healthcare"
+          "Trusted medicines information is critical in the AI era",
+          "Patients and digital agents generate answers and questions",
+          "Authoritative sources like AMH are essential for GPs",
+          "The need for trusted information is highlighted by AI",
+          "GPs rely on trusted sources for accurate information"
         ]
       },
       {
@@ -81,23 +81,100 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/c16f42f9-d1fe-4cc7-bb6f-362b734d7b4d/Pertussis-case-surge-a-very-big-concern.aspx",
         "ai_summary": [
           "Pertussis cases have reached a 35-year high",
-          "GPs are key to helping patients understand",
-          "The surge is a major public health concern",
-          "Patients need to be informed about the disease",
-          "GPs play a crucial role in public health"
+          "GPs are key to helping patients understand the disease",
+          "Patients need to know what is relevant and real",
+          "Pertussis is a highly contagious respiratory illness",
+          "Vaccination is crucial to prevent the disease"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-02-16T19:31:59.775Z",
+    "updated_at": "2026-02-16T23:29:34.952Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Mon, 16 Feb 2026 21:00:00 GMT",
+        "title": "BBC Inside Science",
+        "neutral_headline": "Building a city on the moon is a complex task",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/sounds/play/w3ct8txz?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 16 Feb 2026 21:00:00 GMT",
+            "title": "BBC Inside Science",
+            "standfirst": "What would it really take to build a city on the moon?",
+            "content": "What would it really take to build a city on the moon?",
+            "feed_position": 49,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
+        "ai_summary": [
+          "Building a city on the moon requires significant resources",
+          "The city would need a reliable source of energy",
+          "A moon city would require advanced life support systems",
+          "Radiation protection is a major concern",
+          "Establishing a human settlement on the moon is a long-term goal"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Mon, 16 Feb 2026 19:54:38 GMT",
+        "title": "NHS ’clearly failing’ to ensure children get measles vaccine, experts warn",
+        "neutral_headline": "NHS failing to ensure children get measles vaccine",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/science/2026/feb/16/nhs-children-mmr-vaccine-measles-vaccination-reform-pharmacies",
+            "published_at": "Mon, 16 Feb 2026 19:54:38 GMT",
+            "title": "NHS ’clearly failing’ to ensure children get measles vaccine, experts warn",
+            "standfirst": "Calls grow for reform of England’s vaccination system including delivery of jabs in pharmacies as take-up fallsChildren are at risk of measles because the NHS is “clearly failing” to ensure they get the MMR vaccine and its system needs an urgent overhaul, MPs and health experts have warned.Calls are growing for major reform of how MMR jabs are delivered as it emerged that vaccination rates in some parts of England are now on a par with those in Afghanistan and Malawi. Continue reading...",
+            "content": "Calls grow for reform of England’s vaccination system including delivery of jabs in pharmacies as take-up fallsChildren are at risk of measles because the NHS is “clearly failing” to ensure they get the MMR vaccine and its system needs an urgent overhaul, MPs and health experts have warned.Calls are growing for major reform of how MMR jabs are delivered as it emerged that vaccination rates in some parts of England are now on a par with those in Afghanistan and Malawi. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "Measles vaccination rates are low in some parts of England",
+          "The NHS is failing to ensure children get the MMR vaccine",
+          "Vaccination rates are comparable to those in Afghanistan",
+          "Experts are calling for reform of the vaccination system",
+          "Children are at risk of measles due to low vaccination rates"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Mon, 16 Feb 2026 19:54:12 GMT",
+        "title": "Fertility patients win high court battle to save embryos after consent error",
+        "neutral_headline": "Fertility patients win high court battle to save embryos",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/feb/16/fertility-patients-high-court-embryos-consent-error",
+            "published_at": "Mon, 16 Feb 2026 19:54:12 GMT",
+            "title": "Fertility patients win high court battle to save embryos after consent error",
+            "standfirst": "Judge says people should not lose chance of parenthood ‘by the ticking of a clock’ after 10-year deadline missedMore than a dozen fertility patients have won a high court battle to save their embryos, eggs and sperm from destruction after errors meant they did not renew consent to store them within the 10-year window required by law.Ruling that the material could be kept, the judge said they should not “have the possibility of parenthood … removed by the ticking of a clock”. Continue reading...",
+            "content": "Judge says people should not lose chance of parenthood ‘by the ticking of a clock’ after 10-year deadline missedMore than a dozen fertility patients have won a high court battle to save their embryos, eggs and sperm from destruction after errors meant they did not renew consent to store them within the 10-year window required by law.Ruling that the material could be kept, the judge said they should not “have the possibility of parenthood … removed by the ticking of a clock”. Continue reading...",
+            "feed_position": 1
+          }
+        ],
+        "ai_summary": [
+          "Fertility patients have won a high court battle",
+          "The court ruled that embryos could be saved",
+          "Errors led to patients not renewing consent",
+          "The judge ruled in favor of the fertility patients",
+          "The embryos can now be kept for future use"
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 18:13:40 GMT",
         "title": "‘A lot of vaccine hesitancy’: how north London council is responding to measles outbreak",
-        "neutral_headline": "‘A lot of vaccine hesitancy’: how north London council is responding to measles outbreak",
+        "neutral_headline": "North London council responds to measles outbreak",
         "items": [
           {
             "source": "Guardian Health",
@@ -106,23 +183,23 @@
             "title": "‘A lot of vaccine hesitancy’: how north London council is responding to measles outbreak",
             "standfirst": "Health professionals are having to find innovative ways to reach parents whose children have not had the MMR jabMore than 60 children infected in north London measles outbreakFor people living and working in Enfield, the current measles outbreak is a shock – but not a surprise. The borough has struggled with low vaccine uptake for years, fighting against vaccine hesitancy, online misinformation and health inequalities.Working closely with communities to persuade them to come forward for vaccinations is an “ongoing public health challenge”, which Enfield – like many boroughs – is grappling with, said Enfield council’s director of public health, Dudu Sher-Arami. Continue reading...",
             "content": "Health professionals are having to find innovative ways to reach parents whose children have not had the MMR jabMore than 60 children infected in north London measles outbreakFor people living and working in Enfield, the current measles outbreak is a shock – but not a surprise. The borough has struggled with low vaccine uptake for years, fighting against vaccine hesitancy, online misinformation and health inequalities.Working closely with communities to persuade them to come forward for vaccinations is an “ongoing public health challenge”, which Enfield – like many boroughs – is grappling with, said Enfield council’s director of public health, Dudu Sher-Arami. Continue reading...",
-            "feed_position": 0
+            "feed_position": 2
           }
         ],
         "ai_summary": [
-          "North London is experiencing a measles outbreak",
+          "A measles outbreak is occurring in north London",
+          "The council is responding to the outbreak",
+          "Health professionals are working to reach unvaccinated children",
           "Vaccine hesitancy is a major concern",
-          "Health professionals are working to reach parents",
-          "The outbreak is a public health challenge",
-          "Innovative ways are being used to promote vaccination"
+          "The council is working to increase vaccination rates"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 17:26:49 GMT",
         "title": "Ancient bone may prove legendary war elephant crossing of Alps",
-        "neutral_headline": "Ancient Bone May Prove War Elephant Crossing",
+        "neutral_headline": "Ancient bone may prove war elephant crossing of Alps",
         "items": [
           {
             "source": "BBC Science",
@@ -137,19 +214,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e64c/live/1cbfed40-0b52-11f1-b472-df9c1c12cffb.jpg",
         "ai_summary": [
-          "Ancient bone may be evidence of war elephants",
-          "The bone could prove a legendary crossing",
-          "General Hannibal may have used war elephants",
-          "The discovery is a significant archaeological find",
-          "The bone may be the first hard evidence"
+          "An ancient bone may be evidence of war elephants",
+          "The bone could prove that elephants crossed the Alps",
+          "The discovery is significant for historical research",
+          "The bone is being studied for further analysis",
+          "The finding could shed new light on ancient history"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 16:00:29 GMT",
         "title": "Single dose of potent psychedelic drug could help treat depression, trial shows",
-        "neutral_headline": "Single Dose Of Psychedelic Drug Helps Treat Depression",
+        "neutral_headline": "Psychedelic drug may help treat depression",
         "items": [
           {
             "source": "Guardian Health",
@@ -158,23 +235,23 @@
             "title": "Single dose of potent psychedelic drug could help treat depression, trial shows",
             "standfirst": "Researchers find DMT – used in shamanic rituals – in tandem with psychotherapy has significant effect People with major depressive disorder can see a rapid and lasting improvement after a single dose of the psychedelic drug dimethyltryptamine (DMT) when it is combined with psychotherapy, doctors have said.A small clinical trial involving 34 people found that psychedelic-assisted therapy prompted a swift reduction in depressive symptoms that endured long after the drug had worn off, with some still feeling the benefits six months later. Continue reading...",
             "content": "Researchers find DMT – used in shamanic rituals – in tandem with psychotherapy has significant effect People with major depressive disorder can see a rapid and lasting improvement after a single dose of the psychedelic drug dimethyltryptamine (DMT) when it is combined with psychotherapy, doctors have said.A small clinical trial involving 34 people found that psychedelic-assisted therapy prompted a swift reduction in depressive symptoms that endured long after the drug had worn off, with some still feeling the benefits six months later. Continue reading...",
-            "feed_position": 1
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "A single dose of DMT can treat depression",
-          "The drug is used in tandem with psychotherapy",
-          "The treatment has a significant and lasting effect",
-          "Researchers found a swift reduction in symptoms",
-          "The treatment can help people with major depression"
+          "A psychedelic drug is being studied for depression",
+          "The drug is being used in combination with therapy",
+          "The treatment has shown promising results",
+          "Patients have seen a reduction in depressive symptoms",
+          "The treatment could be a new option for depression"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 14:24:53 GMT",
         "title": "Measles: how does it spread and how can I protect my child?",
-        "neutral_headline": "Measles Outbreak Affects Unvaccinated Children",
+        "neutral_headline": "Measles outbreak highlights need for vaccination",
         "items": [
           {
             "source": "Guardian Health",
@@ -183,48 +260,48 @@
             "title": "Measles: how does it spread and how can I protect my child?",
             "standfirst": "A measles outbreak among unvaccinated children in London comes amid a global increase in infectionsA measles outbreak in London is affecting unvaccinated children under the age of 10, and comes amid an increase in infections globally.The UK was among six countries to lose the measles-free status granted by the World Health Organization (WHO) last month. Experts are calling on governments to urgently boost vaccination rates to stop measles infecting more children. Continue reading...",
             "content": "A measles outbreak among unvaccinated children in London comes amid a global increase in infectionsA measles outbreak in London is affecting unvaccinated children under the age of 10, and comes amid an increase in infections globally.The UK was among six countries to lose the measles-free status granted by the World Health Organization (WHO) last month. Experts are calling on governments to urgently boost vaccination rates to stop measles infecting more children. Continue reading...",
-            "feed_position": 2
+            "feed_position": 4
           }
         ],
         "ai_summary": [
-          "A measles outbreak is affecting unvaccinated children",
-          "The outbreak is part of a global increase",
-          "Experts call for urgent vaccination boosts",
-          "The UK lost its measles-free status",
-          "Vaccination rates need to be increased to stop the outbreak"
+          "A measles outbreak is occurring in London",
+          "The outbreak is affecting unvaccinated children",
+          "Vaccination is crucial to prevent the disease",
+          "The UK has lost its measles-free status",
+          "Experts are calling for increased vaccination rates"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 14:00:29 GMT",
-        "title": "I was told my inability to conceive a second child was a ‘mystery’. In fact I was simply ignored",
-        "neutral_headline": "Women's pain is routinely minimized in fertility medicine",
+        "title": "I was told my inability to conceive a second child was a ‘mystery’. In fact, I was simply ignored",
+        "neutral_headline": "Women's pain is often minimized in fertility medicine",
         "items": [
           {
             "source": "Guardian Health",
             "url": "https://www.theguardian.com/commentisfree/2026/feb/17/unexplained-infertility-endometriosis-womens-pain",
             "published_at": "Mon, 16 Feb 2026 14:00:29 GMT",
-            "title": "I was told my inability to conceive a second child was a ‘mystery’. In fact I was simply ignored",
-            "standfirst": "Women’s pain is routinely minimised, normalised, or psychologised. In fertility medicine, this dismissal is compounded by an industry structured around efficiency rather than care“The female body is such a mystery.”The fertility specialist said it lightly, almost kindly, from behind his desk. I was there because my partner and I had been trying for a second child without success. At the time, our son was two. We had conceived him naturally and relatively quickly, so after months of negative pregnancy tests, I knew that something was off. Continue reading...",
-            "content": "Women’s pain is routinely minimised, normalised, or psychologised. In fertility medicine, this dismissal is compounded by an industry structured around efficiency rather than care“The female body is such a mystery.”The fertility specialist said it lightly, almost kindly, from behind his desk. I was there because my partner and I had been trying for a second child without success. At the time, our son was two. We had conceived him naturally and relatively quickly, so after months of negative pregnancy tests, I knew that something was off. Continue reading...",
-            "feed_position": 3
+            "title": "I was told my inability to conceive a second child was a ‘mystery’. In fact, I was simply ignored",
+            "standfirst": "Women’s pain is routinely minimised, normalised, or psychologised. In fertility medicine, this dismissal is compounded by an industry structured around efficiency rather than care“The female body is such a mystery.”The fertility specialist said it lightly, almost kindly, from behind his desk. I was there because my partner and I had been trying for a second child without success. At the time, our son was two. We had conceived him naturally and relatively quickly, so after months of negative pregnancy tests I knew that something was off. Continue reading...",
+            "content": "Women’s pain is routinely minimised, normalised, or psychologised. In fertility medicine, this dismissal is compounded by an industry structured around efficiency rather than care“The female body is such a mystery.”The fertility specialist said it lightly, almost kindly, from behind his desk. I was there because my partner and I had been trying for a second child without success. At the time, our son was two. We had conceived him naturally and relatively quickly, so after months of negative pregnancy tests I knew that something was off. Continue reading...",
+            "feed_position": 5
           }
         ],
         "ai_summary": [
-          "Women's pain is often minimized in fertility medicine",
-          "Fertility specialists may dismiss women's concerns",
-          "Women's bodies are often viewed as a mystery",
-          "Fertility treatment is structured around efficiency",
-          "Women's care is not prioritized in fertility medicine"
+          "Women's pain is often dismissed in fertility medicine",
+          "The fertility industry prioritizes efficiency over care",
+          "Women's experiences are not being taken seriously",
+          "The industry needs to change its approach",
+          "Women deserve better care and attention"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 13:38:50 GMT",
         "title": "Intermittent fasting may make little difference to weight loss, review finds",
-        "neutral_headline": "Intermittent fasting has little effect on weight loss",
+        "neutral_headline": "Intermittent fasting may not aid weight loss",
         "items": [
           {
             "source": "BBC Health",
@@ -239,46 +316,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d3d/live/9a7b75a0-0b44-11f1-9972-d3f265c101c6.jpg",
         "ai_summary": [
-          "Intermittent fasting may not aid in weight loss",
-          "Researchers found limited benefits to fasting",
-          "Fasting may improve overall health slightly",
-          "Weight loss results are similar to traditional diets",
-          "Fasting is not a miracle solution for weight loss"
+          "Intermittent fasting may not be effective for weight loss",
+          "The diet may have other health benefits",
+          "Research has found mixed results",
+          "Intermittent fasting can improve some body functions",
+          "The diet may not be suitable for everyone"
         ]
       },
       {
-        "id": "cluster_6",
-        "coverage": 1,
-        "updated_at": "Mon, 16 Feb 2026 12:14:44 GMT",
-        "title": "BBC Inside Science",
-        "neutral_headline": "Building a city on the moon is a complex task",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/sounds/play/w3ct8txz?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 16 Feb 2026 12:14:44 GMT",
-            "title": "BBC Inside Science",
-            "standfirst": "What would it really take to build a city on the moon?",
-            "content": "What would it really take to build a city on the moon?",
-            "feed_position": 49,
-            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
-        "ai_summary": [
-          "Building a city on the moon is a challenging project",
-          "Scientists are exploring the possibility of lunar cities",
-          "Establishing a human settlement on the moon is difficult",
-          "The moon's environment is harsh and unforgiving",
-          "Technological advancements are needed for lunar cities"
-        ]
-      },
-      {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 12:00:25 GMT",
         "title": "Fertility treatment given special emphasis as Trump Rx site goes live",
-        "neutral_headline": "Fertility treatment given special emphasis as Trump Rx site goes live",
+        "neutral_headline": "Trump Rx site offers discounts on fertility treatments",
         "items": [
           {
             "source": "Guardian Health",
@@ -287,19 +337,19 @@
             "title": "Fertility treatment given special emphasis as Trump Rx site goes live",
             "standfirst": "Experts say discounts on IVF procedures an attempt to fulfil campaign promise but savings only a fraction of total cost TrumpRx, the US president’s much-anticipated drug discount program, went live earlier this month with coupons available for just 43 medications, including four required for in vitro fertilization (IVF) procedures, and experts say this is probably a half-measure to fulfill Trump’s 2024 campaign promise to make IVF treatment universally accessible.“We’ve been hearing about TrumpRx for a long time,” said Dr Richard Paulson, a professor of reproductive medicine at the University of Southern California. “TrumpRx was supposed to fix all of the problems in terms of prescription drug costs and so on, and it has not done that. The only two classes of drugs that are actually cheaper on Trump RX are the GLP-1 agonists – those are the obesity medications – and fertility drugs.” Continue reading...",
             "content": "Experts say discounts on IVF procedures an attempt to fulfil campaign promise but savings only a fraction of total cost TrumpRx, the US president’s much-anticipated drug discount program, went live earlier this month with coupons available for just 43 medications, including four required for in vitro fertilization (IVF) procedures, and experts say this is probably a half-measure to fulfill Trump’s 2024 campaign promise to make IVF treatment universally accessible.“We’ve been hearing about TrumpRx for a long time,” said Dr Richard Paulson, a professor of reproductive medicine at the University of Southern California. “TrumpRx was supposed to fix all of the problems in terms of prescription drug costs and so on, and it has not done that. The only two classes of drugs that are actually cheaper on Trump RX are the GLP-1 agonists – those are the obesity medications – and fertility drugs.” Continue reading...",
-            "feed_position": 4
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "TrumpRx offers discounts on IVF procedures",
-          "Experts say the discounts are a partial fulfillment of a campaign promise",
-          "The discounts may not significantly reduce the cost of IVF",
-          "TrumpRx is a drug discount program launched by the US president",
-          "The program aims to make fertility treatment more accessible"
+          "The Trump Rx site is offering discounts on fertility treatments",
+          "The discounts are an attempt to fulfill a campaign promise",
+          "The savings are only a fraction of the total cost",
+          "Experts are skeptical of the program's effectiveness",
+          "The program may not make a significant impact"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 11:55:48 GMT",
         "title": "Measles outbreak could see unvaccinated pupils excluded from schools in north London",
@@ -319,18 +369,18 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd95/live/62d51520-0b35-11f1-b7e1-afb6d0884c18.jpg",
         "ai_summary": [
           "A measles outbreak is occurring in north London",
-          "Unvaccinated pupils may be excluded from schools",
-          "The exclusion period could last for three weeks",
-          "The outbreak is a concern for public health officials",
-          "Vaccination is the best way to prevent measles"
+          "Unvaccinated pupils may be excluded from school",
+          "The exclusion is a measure to prevent further spread",
+          "Children who are close contacts may be excluded",
+          "The exclusion could last for up to three weeks"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 09:50:58 GMT",
         "title": "Trump eyes Venezuela visit – but obstacles to his oil plan remain",
-        "neutral_headline": "Trump eyes Venezuela visit but faces obstacles",
+        "neutral_headline": "Trump plans to visit Venezuela to discuss oil",
         "items": [
           {
             "source": "BBC Science",
@@ -345,15 +395,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d6/live/398af810-065d-11f1-ad0b-39fef3bf1fc8.jpg",
         "ai_summary": [
-          "The US president wants to visit Venezuela",
-          "American energy firms are hesitant to extract oil",
-          "Obstacles to the plan remain in place",
-          "The visit is part of a larger energy strategy",
-          "Venezuela's oil reserves are a key factor"
+          "Trump is planning to visit Venezuela",
+          "The visit is to discuss oil extraction",
+          "American energy firms are hesitant to get involved",
+          "There are obstacles to the oil plan",
+          "The visit may not lead to a successful outcome"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 08:05:27 GMT",
         "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
@@ -372,19 +422,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc2/live/a4c47040-0a98-11f1-9640-7f85e4d0c189.jpg",
         "ai_summary": [
-          "The toxin epibatidine is found in dart frogs",
-          "It can be manufactured in a lab or found in the wild",
-          "The toxin is highly potent and deadly",
-          "It was allegedly used to kill Alexei Navalny",
-          "The incident is under investigation"
+          "A dart frog toxin is allegedly linked to a killing",
+          "The toxin is called epibatidine",
+          "It can be found in frogs or manufactured in a lab",
+          "The toxin is highly potent and dangerous",
+          "It is being investigated in connection with a crime"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 07:30:13 GMT",
         "title": "Google puts users at risk by downplaying health disclaimers under AI Overviews",
-        "neutral_headline": "Google downplays health disclaimers in AI Overviews",
+        "neutral_headline": "Google downplays health disclaimers under AI Overviews",
         "items": [
           {
             "source": "Guardian Health",
@@ -393,23 +443,23 @@
             "title": "Google puts users at risk by downplaying health disclaimers under AI Overviews",
             "standfirst": "Exclusive: Google fails to include safety warnings when users are first presented with AI-generated medical adviceGoogle is putting people at risk of harm by downplaying safety warnings that its AI-generated medical advice may be wrong.When answering queries about sensitive topics such as health, the company says its AI Overviews, which appear above search results, prompt users to seek professional help, rather than relying solely on its summaries. “AI Overviews will inform people when it’s important to seek out expert advice or to verify the information presented,” Google has said. Continue reading...",
             "content": "Exclusive: Google fails to include safety warnings when users are first presented with AI-generated medical adviceGoogle is putting people at risk of harm by downplaying safety warnings that its AI-generated medical advice may be wrong.When answering queries about sensitive topics such as health, the company says its AI Overviews, which appear above search results, prompt users to seek professional help, rather than relying solely on its summaries. “AI Overviews will inform people when it’s important to seek out expert advice or to verify the information presented,” Google has said. Continue reading...",
-            "feed_position": 5
+            "feed_position": 7
           }
         ],
         "ai_summary": [
-          "Google's AI Overviews lack safety warnings",
-          "The company fails to include disclaimers",
-          "Users may rely solely on AI-generated advice",
-          "The lack of warnings puts users at risk",
-          "Google should prioritize user safety"
+          "Google is downplaying health disclaimers",
+          "The disclaimers are important for user safety",
+          "Google's AI Overviews may provide incorrect information",
+          "Users are not being properly warned",
+          "The lack of disclaimers puts users at risk of harm"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 06:04:05 GMT",
         "title": "Women calling for greater support with menopause",
-        "neutral_headline": "Women call for greater support during menopause",
+        "neutral_headline": "Women Support Menopause Challenges",
         "items": [
           {
             "source": "BBC Health",
@@ -424,19 +474,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/add0/live/d99b7df0-0853-11f1-ba49-bb79b430dd38.jpg",
         "ai_summary": [
-          "Women are seeking more support during menopause",
-          "Businesses are emerging to help women cope",
-          "Menopause can be a challenging time",
-          "Women need access to resources and advice",
-          "Support systems are essential for women's health"
+          "Women face menopause challenges",
+          "Women start businesses to help others",
+          "Menopause affects women's health",
+          "Businesses provide menopause support",
+          "Women help each other with menopause"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 05:57:00 GMT",
         "title": "Married couple share same cancer diagnosis",
-        "neutral_headline": "Married couple share same cancer diagnosis",
+        "neutral_headline": "Couple Shares Cancer Diagnosis",
         "items": [
           {
             "source": "BBC Health",
@@ -451,19 +501,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2872/live/5408b8e0-08fa-11f1-8b6c-9b488ac81030.jpg",
         "ai_summary": [
-          "A married couple were diagnosed with cancer",
-          "The case is rare and unusual",
-          "The couple's story is an extraordinary coincidence",
-          "The diagnosis was a surprise to their doctor",
-          "The couple's experience is a unique one"
+          "Married couple share cancer diagnosis",
+          "East Kent Hospital surgeon comments",
+          "Couple's cancer diagnosis is rare",
+          "Surgeon says it is a unique case",
+          "Couple's health is a concern"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 05:00:41 GMT",
         "title": "‘It’s the most urgent public health issue’: Dr Rangan Chatterjee on screen time, mental health – and banning social media until 18",
-        "neutral_headline": "Dr Rangan Chatterjee on screen time and mental health",
+        "neutral_headline": "‘It’s the most urgent public health issue’: Dr Rangan Chatterjee on screen time, mental health – and banning social media until 18",
         "items": [
           {
             "source": "Guardian Health",
@@ -472,23 +522,23 @@
             "title": "‘It’s the most urgent public health issue’: Dr Rangan Chatterjee on screen time, mental health – and banning social media until 18",
             "standfirst": "The hit podcaster, author and former GP says a failure to regulate big tech is ‘failing a generation of children’. He explains why he quit the NHS and why he wants a ban on screen-based homeworkA 16-year-old boy and his mum went to see their GP, Dr Rangan Chatterjee, on a busy Monday afternoon. That weekend, the boy had been at A&E after an attempt at self-harm, and in his notes the hospital doctor had recommended the teenager be prescribed antidepressants. “I thought: ‘Wait a minute, I can’t just start a 16-year-old on antidepressants,’” says Chatterjee. He wanted to understand what was going on in the boy’s life.They talked for a while, and Chatterjee asked him about his screen use, which turned out to be high. “I said: ‘I think your screen use, particularly in the evenings, might be impacting your mental wellbeing.’” Chatterjee helped the boy and his mother set up a routine where digital devices and social media went off an hour before bed, gradually extending the screen-free period over six weeks. After two months, he says the boy stopped needing to see him. A few months after that, his mother wrote Chatterjee a note to say her son had been transformed – he was engaging with his friends and trying new activities. He was, she said, like a different boy from the one who had ended up in hospital. Continue reading...",
             "content": "The hit podcaster, author and former GP says a failure to regulate big tech is ‘failing a generation of children’. He explains why he quit the NHS and why he wants a ban on screen-based homeworkA 16-year-old boy and his mum went to see their GP, Dr Rangan Chatterjee, on a busy Monday afternoon. That weekend, the boy had been at A&E after an attempt at self-harm, and in his notes the hospital doctor had recommended the teenager be prescribed antidepressants. “I thought: ‘Wait a minute, I can’t just start a 16-year-old on antidepressants,’” says Chatterjee. He wanted to understand what was going on in the boy’s life.They talked for a while, and Chatterjee asked him about his screen use, which turned out to be high. “I said: ‘I think your screen use, particularly in the evenings, might be impacting your mental wellbeing.’” Chatterjee helped the boy and his mother set up a routine where digital devices and social media went off an hour before bed, gradually extending the screen-free period over six weeks. After two months, he says the boy stopped needing to see him. A few months after that, his mother wrote Chatterjee a note to say her son had been transformed – he was engaging with his friends and trying new activities. He was, she said, like a different boy from the one who had ended up in hospital. Continue reading...",
-            "feed_position": 6
+            "feed_position": 8
           }
         ],
         "ai_summary": [
-          "Dr Chatterjee discusses screen time and mental health",
-          "He advocates for banning social media until 18",
-          "Screen time can negatively impact mental wellbeing",
-          "Dr Chatterjee has seen the effects in his patients",
-          "He recommends reducing screen time for better health"
+          "Dr Rangan Chatterjee discusses screen time",
+          "Screen time affects mental health",
+          "Dr Chatterjee recommends screen limits",
+          "Screen-free routine helps teenager",
+          "Dr Chatterjee wants social media ban"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 01:00:36 GMT",
         "title": "Intermittent fasting no better than typical weight loss diets, study finds",
-        "neutral_headline": "Intermittent fasting is not a miracle weight loss solution",
+        "neutral_headline": "Intermittent Fasting Not Better Than Diets",
         "items": [
           {
             "source": "Guardian Health",
@@ -497,23 +547,23 @@
             "title": "Intermittent fasting no better than typical weight loss diets, study finds",
             "standfirst": "Researchers say limited eating approaches such as 5:2 diet not a ‘miracle solution’ amid surge in their popularityIntermittent fasting is no better for shedding the pounds than conventional diets and is barely more effective than doing nothing, according to a major review of the scientific evidence.Researchers analysed data from 22 global studies and found people who are overweight or living with obesity lost as much weight by following traditional dietary advice as when they tried fasting regimes such as the 5:2 diet popularised by the late Michael Mosley. Continue reading...",
             "content": "Researchers say limited eating approaches such as 5:2 diet not a ‘miracle solution’ amid surge in their popularityIntermittent fasting is no better for shedding the pounds than conventional diets and is barely more effective than doing nothing, according to a major review of the scientific evidence.Researchers analysed data from 22 global studies and found people who are overweight or living with obesity lost as much weight by following traditional dietary advice as when they tried fasting regimes such as the 5:2 diet popularised by the late Michael Mosley. Continue reading...",
-            "feed_position": 7
+            "feed_position": 9
           }
         ],
         "ai_summary": [
-          "Intermittent fasting is not more effective than traditional diets",
-          "Researchers analyzed data from 22 global studies",
-          "The results show limited benefits to fasting",
-          "Weight loss results are similar to other diets",
-          "Fasting is not a quick fix for weight loss"
+          "Intermittent fasting studied for weight loss",
+          "Researchers analyze 22 global studies",
+          "Intermittent fasting is not a miracle",
+          "Traditional diets are just as effective",
+          "Fasting regimes have limited benefits"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sun, 15 Feb 2026 21:00:33 GMT",
         "title": "Katie’s story: her abusive ex-partner said ‘kill yourself’. When she did, police dropped domestic violence inquiry",
-        "neutral_headline": "Katie's story: her abusive ex-partner said kill yourself",
+        "neutral_headline": "Katie’s story: her abusive ex-partner said ‘kill yourself’",
         "items": [
           {
             "source": "Guardian Health",
@@ -522,23 +572,23 @@
             "title": "Katie’s story: her abusive ex-partner said ‘kill yourself’. When she did, police dropped domestic violence inquiry",
             "standfirst": "After her death, police dropped a case examining Katie Madden’s former partner, despite evidence he had repeatedly told her to kill herselfRevealed: The true toll of female suicides in UK with domestic abuse at their coreHours before Katie Madden took her own life, she had a tense phone call with her former partner Jonathon Russell. Russell was on bail after allegedly assaulting Madden – he was banned from contacting her – but the conversation took place nevertheless.There was a witness to the call who gave evidence to the inquest into Madden’s death. Mason Jones, a friend of Madden’s, said Russell was “vile” and “abusive”. Although Jones said he could not remember the exact words Russell used, he said: “I recall Jon saying at least once that he was in control of the town and would end her life if she didn’t do it herself.” Continue reading...",
             "content": "After her death, police dropped a case examining Katie Madden’s former partner, despite evidence he had repeatedly told her to kill herselfRevealed: The true toll of female suicides in UK with domestic abuse at their coreHours before Katie Madden took her own life, she had a tense phone call with her former partner Jonathon Russell. Russell was on bail after allegedly assaulting Madden – he was banned from contacting her – but the conversation took place nevertheless.There was a witness to the call who gave evidence to the inquest into Madden’s death. Mason Jones, a friend of Madden’s, said Russell was “vile” and “abusive”. Although Jones said he could not remember the exact words Russell used, he said: “I recall Jon saying at least once that he was in control of the town and would end her life if she didn’t do it herself.” Continue reading...",
-            "feed_position": 8
+            "feed_position": 10
           }
         ],
         "ai_summary": [
-          "Katie Madden took her own life after abuse",
-          "Her ex-partner had told her to kill herself",
-          "The police dropped the domestic violence inquiry",
-          "The case highlights the need for better support",
-          "Domestic abuse can have devastating consequences"
+          "Katie Madden's death is investigated",
+          "Abusive ex-partner is examined",
+          "Domestic violence case is dropped",
+          "Evidence shows repeated abuse",
+          "Police actions are questioned"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sun, 15 Feb 2026 19:37:58 GMT",
         "title": "Fast-spreading measles outbreak takes hold among under-10s in north London",
-        "neutral_headline": "Fast-spreading measles outbreak in north London",
+        "neutral_headline": "Measles Outbreak Affects Under 10s",
         "items": [
           {
             "source": "Guardian Health",
@@ -547,80 +597,21 @@
             "title": "Fast-spreading measles outbreak takes hold among under-10s in north London",
             "standfirst": "UK Health Security Agency urges parents in Enfield to get their children vaccinated as Easter holiday travels approach‘We almost lost you in the night’ - the life-threatening rise of measlesA big measles outbreak in north-east London is affecting unvaccinated children under the age of 10, the UK Health Security Agency (UKHSA) has confirmed.UKHSA previously reported 34 laboratory-confirmed measles cases among children who attend schools and nurseries in Enfield from 1 January to 9 February, with some requiring hospital treatment. Continue reading...",
             "content": "UK Health Security Agency urges parents in Enfield to get their children vaccinated as Easter holiday travels approach‘We almost lost you in the night’ - the life-threatening rise of measlesA big measles outbreak in north-east London is affecting unvaccinated children under the age of 10, the UK Health Security Agency (UKHSA) has confirmed.UKHSA previously reported 34 laboratory-confirmed measles cases among children who attend schools and nurseries in Enfield from 1 January to 9 February, with some requiring hospital treatment. Continue reading...",
-            "feed_position": 9
-          },
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/feb/14/more-than-60-children-infected-in-north-london-measles-outbreak",
-            "published_at": "Sat, 14 Feb 2026 22:33:12 GMT",
-            "title": "More than 60 children infected in north London measles outbreak",
-            "standfirst": "Cases reported in seven schools and a nursery in Enfield amid concern over low levels of MMR vaccination in capitalMore than 60 children have been infected by a measles outbreak in north London, it has been reported.Seven schools and a nursery in Enfield reported the cases, with some children treated in hospital, according to the Sunday Times. Continue reading...",
-            "content": "Cases reported in seven schools and a nursery in Enfield amid concern over low levels of MMR vaccination in capitalMore than 60 children have been infected by a measles outbreak in north London, it has been reported.Seven schools and a nursery in Enfield reported the cases, with some children treated in hospital, according to the Sunday Times. Continue reading...",
-            "feed_position": 18
-          }
-        ],
-        "ai_summary": [
-          "A measles outbreak is occurring in north London",
-          "The outbreak is affecting unvaccinated children",
-          "The UK Health Security Agency is urging vaccination",
-          "The outbreak is a concern for public health officials",
-          "Vaccination is the best way to prevent measles"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Sun, 15 Feb 2026 17:27:09 GMT",
-        "title": "Sir Nick White obituary",
-        "neutral_headline": "Sir Nick White obituary: Distinguished clinician and scientist",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/world/2026/feb/15/sir-nick-white-obituary",
-            "published_at": "Sun, 15 Feb 2026 17:27:09 GMT",
-            "title": "Sir Nick White obituary",
-            "standfirst": "Distinguished clinician and scientist who was a leading figure in the treatment of malaria worldwideThe idea that a traditional Chinese herbal treatment could be the answer to drug-resistant malaria was tough to swallow for many policymakers in global health. With a combination of dogged persistence, commitment to communities in affected countries and impeccable research design, Nick White changed their minds.He led a campaign to make antimalarial drug combinations containing artemisinin, extracted in China from a common plant, the globally recommended treatment for the most common form of malaria. Millions of lives have been saved as a result. Continue reading...",
-            "content": "Distinguished clinician and scientist who was a leading figure in the treatment of malaria worldwideThe idea that a traditional Chinese herbal treatment could be the answer to drug-resistant malaria was tough to swallow for many policymakers in global health. With a combination of dogged persistence, commitment to communities in affected countries and impeccable research design, Nick White changed their minds.He led a campaign to make antimalarial drug combinations containing artemisinin, extracted in China from a common plant, the globally recommended treatment for the most common form of malaria. Millions of lives have been saved as a result. Continue reading...",
-            "feed_position": 10
-          }
-        ],
-        "ai_summary": [
-          "Sir Nick White was a leading figure in malaria treatment",
-          "He campaigned for antimalarial drug combinations",
-          "His work saved millions of lives worldwide",
-          "He was a distinguished clinician and scientist",
-          "His legacy continues to impact global health"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Sun, 15 Feb 2026 16:41:45 GMT",
-        "title": "Premier League is committed to the care and support of young players | Letter",
-        "neutral_headline": "Premier League Supports Young Football Players",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/football/2026/feb/15/premier-league-is-committed-to-the-care-and-support-of-young-players",
-            "published_at": "Sun, 15 Feb 2026 16:41:45 GMT",
-            "title": "Premier League is committed to the care and support of young players | Letter",
-            "standfirst": "Neil Saunders of the Premier League responds to a letter about ongoing help for academy footballers who have been released from their contractsThe Premier League introduced the elite player performance plan (EPPP) in 2012 to modernise and professionalise youth development in English football. Since then, the education, care and support provided to young players, both within academies and beyond, has evolved significantly (Letters, 7 January).The Premier League, clubs and selected partners work collaboratively to support players from under-nine level through to the first team, with a strong focus on mental health and wellbeing. Continue reading...",
-            "content": "Neil Saunders of the Premier League responds to a letter about ongoing help for academy footballers who have been released from their contractsThe Premier League introduced the elite player performance plan (EPPP) in 2012 to modernise and professionalise youth development in English football. Since then, the education, care and support provided to young players, both within academies and beyond, has evolved significantly (Letters, 7 January).The Premier League, clubs and selected partners work collaboratively to support players from under-nine level through to the first team, with a strong focus on mental health and wellbeing. Continue reading...",
             "feed_position": 11
           }
         ],
         "ai_summary": [
-          "Premier League introduced Elite Player Performance Plan in 2012",
-          "Plan modernises and professionalises youth development in English football",
-          "Education and support provided to young players has evolved",
-          "Collaborative effort between Premier League and clubs to support players",
-          "Focus on mental health and wellbeing for young footballers"
+          "Measles outbreak in north London",
+          "Unvaccinated children are affected",
+          "UK Health Security Agency responds",
+          "Parents are urged to vaccinate children",
+          "Measles cases require hospital treatment"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-16T19:31:59.775Z",
+    "updated_at": "2026-02-16T23:29:37.020Z",
     "clusters": []
   }
 }
