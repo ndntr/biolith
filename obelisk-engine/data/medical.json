@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-02-16T07:54:37.727Z",
+    "updated_at": "2026-02-16T11:40:23.334Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-16T07:54:47.346Z",
+    "updated_at": "2026-02-16T11:40:32.067Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/02e860c7-f817-4502-ac45-d3fb56dcaf8e/GPs-included-in-proposed-new-medical-fee-laws.aspx",
         "ai_summary": [
-          "New legislation includes general practice fees",
-          "Medical Costs Finder will share fees by default",
-          "Laws aim to ensure transparency in medical fees",
-          "GPs will be affected by new legislation",
-          "Fees will be shared to promote accountability"
+          "New legislation includes general practice references",
+          "The laws aim to ensure fee sharing",
+          "Medical Costs Finder will be used by default",
+          "GPs are key to the new legislation",
+          "The laws will impact the medical industry"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/3c8fb2d1-fe60-4551-ad6e-d726e290b777/The-AI-era-and-why-trusted-medicines-information-is-critical.aspx",
         "ai_summary": [
-          "AI era requires trusted medicines information",
           "Patients and digital agents generate answers",
-          "Authoritative sources like AMH are necessary",
-          "GPs need reliable information for patient care",
-          "Trusted information is critical in AI era healthcare"
+          "Trusted medicines information is essential",
+          "AMH is an authoritative source for GPs",
+          "The AI era highlights the need for accuracy",
+          "GPs rely on trusted information for patient care"
         ]
       },
       {
@@ -81,23 +81,77 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/c16f42f9-d1fe-4cc7-bb6f-362b734d7b4d/Pertussis-case-surge-a-very-big-concern.aspx",
         "ai_summary": [
           "Pertussis cases have reached a 35-year high",
-          "GPs play a key role in helping patients understand the issue",
+          "GPs are key to helping patients understand",
+          "The surge is a major public health concern",
           "Patients need to know what is relevant and real",
-          "GPs provide crucial support and guidance",
-          "Public awareness is essential to combat the surge"
+          "GPs play a crucial role in addressing the surge"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-02-16T07:54:40.522Z",
+    "updated_at": "2026-02-16T11:40:30.476Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Mon, 16 Feb 2026 09:50:58 GMT",
+        "title": "Trump eyes Venezuela visit – but obstacles to his oil plan remain",
+        "neutral_headline": "Trump Eyes Venezuela Visit And Oil Plan",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c4gjx1j1nkjo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 16 Feb 2026 09:50:58 GMT",
+            "title": "Trump eyes Venezuela visit – but obstacles to his oil plan remain",
+            "standfirst": "The US president wants American energy firms to start extracting the crude but they are reluctant.",
+            "content": "The US president wants American energy firms to start extracting the crude but they are reluctant.",
+            "feed_position": 32,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d6/live/398af810-065d-11f1-ad0b-39fef3bf1fc8.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d6/live/398af810-065d-11f1-ad0b-39fef3bf1fc8.jpg",
+        "ai_summary": [
+          "Trump wants American energy firms to extract oil",
+          "Obstacles to the plan remain",
+          "The US president is pushing for oil extraction",
+          "American energy firms are reluctant",
+          "The plan faces significant challenges"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Mon, 16 Feb 2026 08:05:27 GMT",
+        "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
+        "neutral_headline": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cm289we7jzdo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 16 Feb 2026 08:05:27 GMT",
+            "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
+            "standfirst": "The toxin, epibatidine, can be found in frogs in the wild in South America or manufactured in a lab.",
+            "content": "The toxin, epibatidine, can be found in frogs in the wild in South America or manufactured in a lab.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc2/live/a4c47040-0a98-11f1-9640-7f85e4d0c189.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc2/live/a4c47040-0a98-11f1-9640-7f85e4d0c189.jpg",
+        "ai_summary": [
+          "The toxin is epibatidine",
+          "It can be found in frogs in South America",
+          "The toxin can also be manufactured in a lab",
+          "Epibatidine is a highly toxic substance",
+          "The toxin has been linked to the alleged killing"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 07:30:13 GMT",
         "title": "Google puts users at risk by downplaying health disclaimers under AI Overviews",
-        "neutral_headline": "Google downplays health disclaimers under AI Overviews",
+        "neutral_headline": "Google Fails To Include Safety Warnings",
         "items": [
           {
             "source": "Guardian Health",
@@ -110,19 +164,19 @@
           }
         ],
         "ai_summary": [
-          "Google fails to include safety warnings for AI-generated medical advice",
-          "AI Overviews appear above search results without disclaimers",
-          "Users are prompted to seek professional help but may not",
-          "Google's approach puts users at risk of harm",
-          "The company's actions have raised concerns among experts"
+          "Google puts users at risk with AI-generated medical advice",
+          "AI Overviews lack safety warnings for users",
+          "Company says it informs people to seek expert advice",
+          "Google downplays health disclaimers under AI Overviews",
+          "Users may rely solely on AI-generated medical advice"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 06:04:05 GMT",
         "title": "Women calling for greater support with menopause",
-        "neutral_headline": "Women seek greater menopause support",
+        "neutral_headline": "Women Seek Support For Menopause",
         "items": [
           {
             "source": "BBC Health",
@@ -137,19 +191,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/add0/live/d99b7df0-0853-11f1-ba49-bb79b430dd38.jpg",
         "ai_summary": [
-          "Women are calling for more support during menopause",
-          "Some women have set up businesses to help others",
-          "Menopause can be a challenging time for women",
-          "Support and resources are essential for women's health",
-          "Raising awareness can help improve support systems"
+          "Women experience challenges during menopause",
+          "Some women start businesses to help others with menopause",
+          "Menopause affects women's health and wellbeing",
+          "Support for menopause is limited in some areas",
+          "Women call for greater support during menopause"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 05:00:41 GMT",
         "title": "‘It’s the most urgent public health issue’: Dr Rangan Chatterjee on screen time, mental health – and banning social media until 18",
-        "neutral_headline": "Dr Rangan Chatterjee discusses screen time and mental health",
+        "neutral_headline": "Dr Rangan Chatterjee On Screen Time",
         "items": [
           {
             "source": "Guardian Health",
@@ -162,19 +216,19 @@
           }
         ],
         "ai_summary": [
-          "Dr Rangan Chatterjee links screen time to mental health issues",
-          "He wants to ban social media for children under 18",
-          "Screen time can impact mental wellbeing in children",
-          "Dr Chatterjee has seen positive results from reducing screen time",
-          "He believes in a holistic approach to mental health"
+          "Dr Rangan Chatterjee discusses screen time and mental health",
+          "He says screen time affects children's mental wellbeing",
+          "Chatterjee wants a ban on screen-based homework",
+          "He helped a boy reduce screen time and improve mental health",
+          "Chatterjee says big tech fails to regulate screen time"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 01:00:36 GMT",
         "title": "Intermittent fasting no better than typical weight loss diets, study finds",
-        "neutral_headline": "Intermittent fasting is no better than typical diets",
+        "neutral_headline": "Intermittent Fasting Not Effective",
         "items": [
           {
             "source": "Guardian Health",
@@ -187,19 +241,19 @@
           }
         ],
         "ai_summary": [
-          "Intermittent fasting is not a miracle solution for weight loss",
+          "Intermittent fasting is not better for weight loss",
           "Researchers analyzed data from 22 global studies",
-          "Traditional diets are just as effective as intermittent fasting",
-          "The approach to weight loss should be personalized",
-          "More research is needed to understand the effects of fasting"
+          "Traditional diets are as effective as intermittent fasting",
+          "Intermittent fasting is not a miracle solution for weight loss",
+          "Study finds limited benefits of intermittent fasting"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sun, 15 Feb 2026 21:00:33 GMT",
         "title": "Katie’s story: her abusive ex-partner said ‘kill yourself’. When she did, police dropped domestic violence inquiry",
-        "neutral_headline": "Police drop domestic violence inquiry after victim's death",
+        "neutral_headline": "Katie's Story Exposes Domestic Abuse",
         "items": [
           {
             "source": "Guardian Health",
@@ -212,19 +266,19 @@
           }
         ],
         "ai_summary": [
-          "Katie Madden's death led to a dropped domestic violence case",
-          "Her former partner had allegedly told her to kill herself",
-          "The case highlights the need for better support systems",
-          "Domestic abuse can have severe consequences",
-          "The police's actions have raised concerns among advocates"
+          "Katie Madden's death is linked to domestic abuse",
+          "Her ex-partner told her to kill herself",
+          "Police dropped the domestic violence inquiry after her death",
+          "Domestic abuse is a significant factor in female suicides",
+          "Katie's story highlights the need for better support"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sun, 15 Feb 2026 19:37:58 GMT",
         "title": "Fast-spreading measles outbreak takes hold among under-10s in north London",
-        "neutral_headline": "Measles outbreak affects under 10s in north London",
+        "neutral_headline": "Measles Outbreak In North London",
         "items": [
           {
             "source": "Guardian Health",
@@ -246,44 +300,44 @@
           }
         ],
         "ai_summary": [
-          "A measles outbreak is spreading among children in Enfield",
-          "Over 60 children have been infected with the disease",
-          "The UK Health Security Agency urges parents to vaccinate",
-          "Low MMR vaccination rates contribute to the outbreak",
-          "The disease can have serious complications if left untreated"
+          "Measles outbreak affects unvaccinated children in London",
+          "Over 60 children are infected with measles in Enfield",
+          "UK Health Security Agency urges parents to vaccinate children",
+          "Measles can cause blindness and hearing loss",
+          "Outbreak highlights the importance of vaccination"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sun, 15 Feb 2026 17:27:09 GMT",
         "title": "Sir Nick White obituary",
-        "neutral_headline": "Sir Nick White led global malaria treatment efforts",
+        "neutral_headline": "Sir Nick White Obituary",
         "items": [
           {
             "source": "Guardian Health",
             "url": "https://www.theguardian.com/world/2026/feb/15/sir-nick-white-obituary",
             "published_at": "Sun, 15 Feb 2026 17:27:09 GMT",
             "title": "Sir Nick White obituary",
-            "standfirst": "Distinguished clinician and scientist who was a leading figure in the treatment of malaria worlwideThe idea that a traditional Chinese herbal treatment could be the answer to drug-resistant malaria was tough to swallow for many policymakers in global health. With a combination of dogged persistence, commitment to communities in affected countries and impeccable research design, Nick White changed their minds.He led a campaign to make antimalarial drug combinations containing artemisinin, extracted in China from a common plant, the globally recommended treatment for the most common form of malaria. Millions of lives have been saved as a result. Continue reading...",
-            "content": "Distinguished clinician and scientist who was a leading figure in the treatment of malaria worlwideThe idea that a traditional Chinese herbal treatment could be the answer to drug-resistant malaria was tough to swallow for many policymakers in global health. With a combination of dogged persistence, commitment to communities in affected countries and impeccable research design, Nick White changed their minds.He led a campaign to make antimalarial drug combinations containing artemisinin, extracted in China from a common plant, the globally recommended treatment for the most common form of malaria. Millions of lives have been saved as a result. Continue reading...",
+            "standfirst": "Distinguished clinician and scientist who was a leading figure in the treatment of malaria worldwideThe idea that a traditional Chinese herbal treatment could be the answer to drug-resistant malaria was tough to swallow for many policymakers in global health. With a combination of dogged persistence, commitment to communities in affected countries and impeccable research design, Nick White changed their minds.He led a campaign to make antimalarial drug combinations containing artemisinin, extracted in China from a common plant, the globally recommended treatment for the most common form of malaria. Millions of lives have been saved as a result. Continue reading...",
+            "content": "Distinguished clinician and scientist who was a leading figure in the treatment of malaria worldwideThe idea that a traditional Chinese herbal treatment could be the answer to drug-resistant malaria was tough to swallow for many policymakers in global health. With a combination of dogged persistence, commitment to communities in affected countries and impeccable research design, Nick White changed their minds.He led a campaign to make antimalarial drug combinations containing artemisinin, extracted in China from a common plant, the globally recommended treatment for the most common form of malaria. Millions of lives have been saved as a result. Continue reading...",
             "feed_position": 6
           }
         ],
         "ai_summary": [
           "Sir Nick White was a leading figure in malaria treatment",
           "He campaigned for antimalarial drug combinations",
-          "His work saved millions of lives worldwide",
-          "Sir Nick White's research and dedication were instrumental",
-          "His legacy continues to inspire global health efforts"
+          "White's work saved millions of lives worldwide",
+          "He was a distinguished clinician and scientist",
+          "White's legacy continues to impact global health"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sun, 15 Feb 2026 16:41:45 GMT",
         "title": "Premier League is committed to the care and support of young players | Letter",
-        "neutral_headline": "Premier League supports young footballers' wellbeing",
+        "neutral_headline": "Premier League Supports Young Players",
         "items": [
           {
             "source": "Guardian Health",
@@ -296,19 +350,19 @@
           }
         ],
         "ai_summary": [
-          "The Premier League prioritizes young players' mental health",
-          "The organization provides care and support to academy players",
-          "The focus is on education and wellbeing beyond football",
-          "Partners work together to support players' development",
-          "The Premier League's approach aims to promote holistic growth"
+          "Premier League introduces elite player performance plan",
+          "The plan provides education and support for young players",
+          "Focus is on mental health and wellbeing of players",
+          "Premier League works with partners to support players",
+          "The plan aims to professionalize youth development in football"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sun, 15 Feb 2026 16:41:17 GMT",
         "title": "Challenges of being a GP in remote areas | Letter",
-        "neutral_headline": "Rural GP practices face recruitment challenges",
+        "neutral_headline": "Challenges Of Being A Rural GP",
         "items": [
           {
             "source": "Guardian Health",
@@ -321,19 +375,46 @@
           }
         ],
         "ai_summary": [
-          "Rural areas struggle to recruit and retain GPs",
-          "The challenge affects the quality of healthcare services",
-          "Structural pressures contribute to the issue",
-          "One in four rural doctors report negative impacts on wellbeing",
-          "Solutions are needed to address the recruitment crisis"
+          "Rural practices struggle to recruit GPs",
+          "Coniston village in Lake District faces GP shortage",
+          "Rural areas have limited access to healthcare services",
+          "GPs in rural areas face structural pressures and burnout",
+          "Recruitment and retention of GPs are significant challenges"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
+        "coverage": 1,
+        "updated_at": "Sun, 15 Feb 2026 15:32:11 GMT",
+        "title": "'Fast-spreading' measles outbreak hits several schools in London",
+        "neutral_headline": "Measles Outbreak Hits London Schools",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cev7edxxzm7o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 15 Feb 2026 15:32:11 GMT",
+            "title": "'Fast-spreading' measles outbreak hits several schools in London",
+            "standfirst": "A number of children have been hospitalised as officials urge families to check they are up to date with their vaccines.",
+            "content": "A number of children have been hospitalised as officials urge families to check they are up to date with their vaccines.",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9864/live/b008a410-0a4a-11f1-aeec-d316ccfb6391.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9864/live/b008a410-0a4a-11f1-aeec-d316ccfb6391.jpg",
+        "ai_summary": [
+          "Measles outbreak affects several schools in London",
+          "Children are hospitalized due to measles infection",
+          "Officials urge families to check vaccination status",
+          "Measles is a highly infectious disease",
+          "Vaccination is crucial to prevent measles outbreak"
+        ]
+      },
+      {
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sun, 15 Feb 2026 14:00:25 GMT",
         "title": "‘We almost lost you in the night’ - the life-threatening rise of measles in the UK",
-        "neutral_headline": "Measles cases soar in the UK due to low vaccination",
+        "neutral_headline": "Measles Cases Soar In The UK",
         "items": [
           {
             "source": "Guardian Health",
@@ -346,19 +427,19 @@
           }
         ],
         "ai_summary": [
-          "Measles cases are rising in the UK due to low vaccination rates",
-          "The disease can cause blindness, hearing loss, and death",
-          "Unvaccinated children are at high risk of infection",
-          "Public awareness campaigns aim to promote vaccination",
-          "The UK Health Security Agency urges parents to vaccinate"
+          "Measles cases are rising in the UK",
+          "The disease can cause blindness and hearing loss",
+          "Measles is a life-threatening condition",
+          "Vaccination is essential to prevent measles",
+          "UK Health Security Agency urges parents to vaccinate children"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sun, 15 Feb 2026 12:51:15 GMT",
         "title": "Social media misleads young on gender transitioning, says UK review leader",
-        "neutral_headline": "Social media misleads young people on gender transitioning",
+        "neutral_headline": "Social Media Misleads On Gender Transitioning",
         "items": [
           {
             "source": "Guardian Health",
@@ -371,19 +452,19 @@
           }
         ],
         "ai_summary": [
-          "Social media portrays unrealistic expectations of transitioning",
-          "Young people may be misinformed about the process",
-          "Experts warn of the potential harm of unrealistic images",
-          "Transitioning can involve intensive medical treatments",
-          "Support and accurate information are essential for young people"
+          "Social media portrays unrealistic images of transitioning",
+          "Young people are misinformed about gender transitioning",
+          "Hilary Cass warns of unrealistic expectations on social media",
+          "Transitioning involves intensive medical treatments",
+          "Social media can have a negative impact on mental health"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sun, 15 Feb 2026 12:00:23 GMT",
         "title": "I thought my powerlifter father was the strongest man in the world. But a secret steroid addiction took him – and us – to the brink",
-        "neutral_headline": "Secret steroid addiction affects families and individuals",
+        "neutral_headline": "Father's Secret Steroid Addiction",
         "items": [
           {
             "source": "Guardian Health",
@@ -396,19 +477,19 @@
           }
         ],
         "ai_summary": [
-          "Secret steroid addiction can have devastating consequences",
-          "The issue affects not only individuals but also their families",
-          "Addiction can be hidden behind a mask of strength",
-          "The physical and emotional toll can be severe",
-          "Support and awareness are crucial for prevention and recovery"
+          "A powerlifter father struggles with secret steroid addiction",
+          "Addiction takes a toll on family and relationships",
+          "Steroid addiction is a hidden and stigmatized issue",
+          "Family members are affected by the addiction",
+          "Seeking help is crucial to overcome addiction"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Sun, 15 Feb 2026 06:00:14 GMT",
         "title": "Facing meltdown? Over 75% of people suffer from burnout - here’s what you need to know",
-        "neutral_headline": "Burnout affects over 75 percent of people",
+        "neutral_headline": "Burnout Affects Over 75 Percent",
         "items": [
           {
             "source": "Guardian Health",
@@ -421,19 +502,19 @@
           }
         ],
         "ai_summary": [
-          "Burnout is a common phenomenon affecting many people",
-          "The condition is often misunderstood and stigmatized",
-          "Chronic job stressors contribute to burnout",
-          "Experts separate facts from myths about burnout",
-          "Recognizing the signs and seeking help is essential for recovery"
+          "Burnout affects most people at some point",
+          "Burnout is a response to chronic job stressors",
+          "Fatigue and apathy are symptoms of burnout",
+          "Burnout is not a sign of weakness",
+          "Experts bust myths and misconceptions about burnout"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sun, 15 Feb 2026 05:00:12 GMT",
         "title": "‘You think: Do I really need anyone?’ – the hidden burden of being a hyper-independent person",
-        "neutral_headline": "Hyper independence can be a sign of intimacy fears",
+        "neutral_headline": "The Hidden Burden Of Hyper Independence",
         "items": [
           {
             "source": "Guardian Health",
@@ -446,19 +527,46 @@
           }
         ],
         "ai_summary": [
-          "Hyper independence can be a sign of underlying issues",
-          "Fear of intimacy may lead individuals to self-reliance",
-          "Asking for help can be challenging but necessary",
-          "Therapists help individuals recognize the need for support",
-          "Building relationships and seeking help can promote growth and healing"
+          "Hyper-independence can be a sign of fear of intimacy",
+          "Self-reliance can lead to stress and burnout",
+          "Asking for help is essential for mental health",
+          "Hyper-independent people may struggle with relationships",
+          "Recognizing the need for help is crucial for wellbeing"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_17",
+        "coverage": 1,
+        "updated_at": "Sun, 15 Feb 2026 00:02:42 GMT",
+        "title": "Death of the sex drive - and the great debate over whether testosterone can help get it back",
+        "neutral_headline": "Testosterone And Libido Improvement Debated",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/ckg8r28d3lgo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 15 Feb 2026 00:02:42 GMT",
+            "title": "Death of the sex drive - and the great debate over whether testosterone can help get it back",
+            "standfirst": "Can boosting testosterone improve libido, or is much of the attention solely hype, profit, and placebo?",
+            "content": "Can boosting testosterone improve libido, or is much of the attention solely hype, profit, and placebo?",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d15d/live/8f1fd1b0-073e-11f1-9972-d3f265c101c6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d15d/live/8f1fd1b0-073e-11f1-9972-d3f265c101c6.jpg",
+        "ai_summary": [
+          "Testosterone levels affect libido in humans",
+          "Boosting testosterone may improve sex drive",
+          "Placebo effect influences testosterone treatment",
+          "Testosterone therapy has potential risks",
+          "More research is needed on testosterone"
+        ]
+      },
+      {
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sat, 14 Feb 2026 15:00:57 GMT",
         "title": "What is colorectal cancer and is it preventable?",
-        "neutral_headline": "Colorectal Cancer Cases Rising Among Younger People",
+        "neutral_headline": "What is colorectal cancer and is it preventable",
         "items": [
           {
             "source": "Guardian Health",
@@ -472,14 +580,14 @@
         ],
         "ai_summary": [
           "Colorectal cancer is the third most common cancer",
-          "It is the second leading cause of cancer deaths",
-          "Rates are declining overall in some areas",
+          "Actor James Van Der Beek died from colorectal cancer",
           "Cases among younger people are increasing",
-          "Actor James Van Der Beek died at 48"
+          "Colorectal cancer is the second leading cause death",
+          "World Health Organization tracks cancer rates"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sat, 14 Feb 2026 15:00:56 GMT",
         "title": "‘Nothing says love like chemicals’: Valentine’s roses often covered in pesticides, testing finds",
@@ -496,17 +604,17 @@
           }
         ],
         "ai_summary": [
-          "Roses have high pesticide residues",
-          "Bouquets imported to Europe are contaminated",
-          "Neurological and reproductive toxins are found",
-          "Chemicals banned in EU and UK are used",
-          "Laboratory testing was done in Netherlands"
+          "Roses imported to Europe are contaminated",
+          "Pesticides on roses pose health risks",
+          "Laboratory testing found high toxin levels",
+          "Environmental campaigners warn against roses",
+          "EU and UK ban some chemicals found"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-16T07:54:47.346Z",
+    "updated_at": "2026-02-16T11:40:32.067Z",
     "clusters": []
   }
 }
