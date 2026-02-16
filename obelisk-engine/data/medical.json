@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-02-16T11:40:23.334Z",
+    "updated_at": "2026-02-16T19:31:50.901Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-16T11:40:32.067Z",
+    "updated_at": "2026-02-16T19:31:59.694Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/02e860c7-f817-4502-ac45-d3fb56dcaf8e/GPs-included-in-proposed-new-medical-fee-laws.aspx",
         "ai_summary": [
-          "New legislation includes general practice references",
-          "The laws aim to ensure fee sharing",
-          "Medical Costs Finder will be used by default",
+          "New legislation includes general practice fees",
+          "The laws aim to ensure fee transparency",
+          "Medical Costs Finder will share the fees",
           "GPs are key to the new legislation",
-          "The laws will impact the medical industry"
+          "The laws will affect the medical industry"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/3c8fb2d1-fe60-4551-ad6e-d726e290b777/The-AI-era-and-why-trusted-medicines-information-is-critical.aspx",
         "ai_summary": [
+          "AI is changing the way we access information",
+          "Trusted medicines information is critical",
           "Patients and digital agents generate answers",
-          "Trusted medicines information is essential",
           "AMH is an authoritative source for GPs",
-          "The AI era highlights the need for accuracy",
-          "GPs rely on trusted information for patient care"
+          "Accurate information is essential for healthcare"
         ]
       },
       {
@@ -83,21 +83,254 @@
           "Pertussis cases have reached a 35-year high",
           "GPs are key to helping patients understand",
           "The surge is a major public health concern",
-          "Patients need to know what is relevant and real",
-          "GPs play a crucial role in addressing the surge"
+          "Patients need to be informed about the disease",
+          "GPs play a crucial role in public health"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-02-16T11:40:30.476Z",
+    "updated_at": "2026-02-16T19:31:59.775Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Mon, 16 Feb 2026 18:13:40 GMT",
+        "title": "‘A lot of vaccine hesitancy’: how north London council is responding to measles outbreak",
+        "neutral_headline": "‘A lot of vaccine hesitancy’: how north London council is responding to measles outbreak",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/feb/16/a-lot-of-vaccine-hesitancy-how-north-london-council-is-responding-to-measles-outbreak",
+            "published_at": "Mon, 16 Feb 2026 18:13:40 GMT",
+            "title": "‘A lot of vaccine hesitancy’: how north London council is responding to measles outbreak",
+            "standfirst": "Health professionals are having to find innovative ways to reach parents whose children have not had the MMR jabMore than 60 children infected in north London measles outbreakFor people living and working in Enfield, the current measles outbreak is a shock – but not a surprise. The borough has struggled with low vaccine uptake for years, fighting against vaccine hesitancy, online misinformation and health inequalities.Working closely with communities to persuade them to come forward for vaccinations is an “ongoing public health challenge”, which Enfield – like many boroughs – is grappling with, said Enfield council’s director of public health, Dudu Sher-Arami. Continue reading...",
+            "content": "Health professionals are having to find innovative ways to reach parents whose children have not had the MMR jabMore than 60 children infected in north London measles outbreakFor people living and working in Enfield, the current measles outbreak is a shock – but not a surprise. The borough has struggled with low vaccine uptake for years, fighting against vaccine hesitancy, online misinformation and health inequalities.Working closely with communities to persuade them to come forward for vaccinations is an “ongoing public health challenge”, which Enfield – like many boroughs – is grappling with, said Enfield council’s director of public health, Dudu Sher-Arami. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "North London is experiencing a measles outbreak",
+          "Vaccine hesitancy is a major concern",
+          "Health professionals are working to reach parents",
+          "The outbreak is a public health challenge",
+          "Innovative ways are being used to promote vaccination"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Mon, 16 Feb 2026 17:26:49 GMT",
+        "title": "Ancient bone may prove legendary war elephant crossing of Alps",
+        "neutral_headline": "Ancient Bone May Prove War Elephant Crossing",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cdr2xl1e41eo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 16 Feb 2026 17:26:49 GMT",
+            "title": "Ancient bone may prove legendary war elephant crossing of Alps",
+            "standfirst": "It would be the first hard evidence that elephants were used in battle by General Hannibal.",
+            "content": "It would be the first hard evidence that elephants were used in battle by General Hannibal.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e64c/live/1cbfed40-0b52-11f1-b472-df9c1c12cffb.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e64c/live/1cbfed40-0b52-11f1-b472-df9c1c12cffb.jpg",
+        "ai_summary": [
+          "Ancient bone may be evidence of war elephants",
+          "The bone could prove a legendary crossing",
+          "General Hannibal may have used war elephants",
+          "The discovery is a significant archaeological find",
+          "The bone may be the first hard evidence"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Mon, 16 Feb 2026 16:00:29 GMT",
+        "title": "Single dose of potent psychedelic drug could help treat depression, trial shows",
+        "neutral_headline": "Single Dose Of Psychedelic Drug Helps Treat Depression",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/science/2026/feb/16/psychedelic-drug-dmt-treat-depression-trial-shows",
+            "published_at": "Mon, 16 Feb 2026 16:00:29 GMT",
+            "title": "Single dose of potent psychedelic drug could help treat depression, trial shows",
+            "standfirst": "Researchers find DMT – used in shamanic rituals – in tandem with psychotherapy has significant effect People with major depressive disorder can see a rapid and lasting improvement after a single dose of the psychedelic drug dimethyltryptamine (DMT) when it is combined with psychotherapy, doctors have said.A small clinical trial involving 34 people found that psychedelic-assisted therapy prompted a swift reduction in depressive symptoms that endured long after the drug had worn off, with some still feeling the benefits six months later. Continue reading...",
+            "content": "Researchers find DMT – used in shamanic rituals – in tandem with psychotherapy has significant effect People with major depressive disorder can see a rapid and lasting improvement after a single dose of the psychedelic drug dimethyltryptamine (DMT) when it is combined with psychotherapy, doctors have said.A small clinical trial involving 34 people found that psychedelic-assisted therapy prompted a swift reduction in depressive symptoms that endured long after the drug had worn off, with some still feeling the benefits six months later. Continue reading...",
+            "feed_position": 1
+          }
+        ],
+        "ai_summary": [
+          "A single dose of DMT can treat depression",
+          "The drug is used in tandem with psychotherapy",
+          "The treatment has a significant and lasting effect",
+          "Researchers found a swift reduction in symptoms",
+          "The treatment can help people with major depression"
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Mon, 16 Feb 2026 14:24:53 GMT",
+        "title": "Measles: how does it spread and how can I protect my child?",
+        "neutral_headline": "Measles Outbreak Affects Unvaccinated Children",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/science/2026/feb/16/measles-how-does-it-spread-protect-my-child-outbreak-infections-london",
+            "published_at": "Mon, 16 Feb 2026 14:24:53 GMT",
+            "title": "Measles: how does it spread and how can I protect my child?",
+            "standfirst": "A measles outbreak among unvaccinated children in London comes amid a global increase in infectionsA measles outbreak in London is affecting unvaccinated children under the age of 10, and comes amid an increase in infections globally.The UK was among six countries to lose the measles-free status granted by the World Health Organization (WHO) last month. Experts are calling on governments to urgently boost vaccination rates to stop measles infecting more children. Continue reading...",
+            "content": "A measles outbreak among unvaccinated children in London comes amid a global increase in infectionsA measles outbreak in London is affecting unvaccinated children under the age of 10, and comes amid an increase in infections globally.The UK was among six countries to lose the measles-free status granted by the World Health Organization (WHO) last month. Experts are calling on governments to urgently boost vaccination rates to stop measles infecting more children. Continue reading...",
+            "feed_position": 2
+          }
+        ],
+        "ai_summary": [
+          "A measles outbreak is affecting unvaccinated children",
+          "The outbreak is part of a global increase",
+          "Experts call for urgent vaccination boosts",
+          "The UK lost its measles-free status",
+          "Vaccination rates need to be increased to stop the outbreak"
+        ]
+      },
+      {
+        "id": "cluster_4",
+        "coverage": 1,
+        "updated_at": "Mon, 16 Feb 2026 14:00:29 GMT",
+        "title": "I was told my inability to conceive a second child was a ‘mystery’. In fact I was simply ignored",
+        "neutral_headline": "Women's pain is routinely minimized in fertility medicine",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/commentisfree/2026/feb/17/unexplained-infertility-endometriosis-womens-pain",
+            "published_at": "Mon, 16 Feb 2026 14:00:29 GMT",
+            "title": "I was told my inability to conceive a second child was a ‘mystery’. In fact I was simply ignored",
+            "standfirst": "Women’s pain is routinely minimised, normalised, or psychologised. In fertility medicine, this dismissal is compounded by an industry structured around efficiency rather than care“The female body is such a mystery.”The fertility specialist said it lightly, almost kindly, from behind his desk. I was there because my partner and I had been trying for a second child without success. At the time, our son was two. We had conceived him naturally and relatively quickly, so after months of negative pregnancy tests, I knew that something was off. Continue reading...",
+            "content": "Women’s pain is routinely minimised, normalised, or psychologised. In fertility medicine, this dismissal is compounded by an industry structured around efficiency rather than care“The female body is such a mystery.”The fertility specialist said it lightly, almost kindly, from behind his desk. I was there because my partner and I had been trying for a second child without success. At the time, our son was two. We had conceived him naturally and relatively quickly, so after months of negative pregnancy tests, I knew that something was off. Continue reading...",
+            "feed_position": 3
+          }
+        ],
+        "ai_summary": [
+          "Women's pain is often minimized in fertility medicine",
+          "Fertility specialists may dismiss women's concerns",
+          "Women's bodies are often viewed as a mystery",
+          "Fertility treatment is structured around efficiency",
+          "Women's care is not prioritized in fertility medicine"
+        ]
+      },
+      {
+        "id": "cluster_5",
+        "coverage": 1,
+        "updated_at": "Mon, 16 Feb 2026 13:38:50 GMT",
+        "title": "Intermittent fasting may make little difference to weight loss, review finds",
+        "neutral_headline": "Intermittent fasting has little effect on weight loss",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c4ge7n3pq62o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 16 Feb 2026 13:38:50 GMT",
+            "title": "Intermittent fasting may make little difference to weight loss, review finds",
+            "standfirst": "But researchers say it could still improve someone's overall health through helpful changes to some body functions.",
+            "content": "But researchers say it could still improve someone's overall health through helpful changes to some body functions.",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d3d/live/9a7b75a0-0b44-11f1-9972-d3f265c101c6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d3d/live/9a7b75a0-0b44-11f1-9972-d3f265c101c6.jpg",
+        "ai_summary": [
+          "Intermittent fasting may not aid in weight loss",
+          "Researchers found limited benefits to fasting",
+          "Fasting may improve overall health slightly",
+          "Weight loss results are similar to traditional diets",
+          "Fasting is not a miracle solution for weight loss"
+        ]
+      },
+      {
+        "id": "cluster_6",
+        "coverage": 1,
+        "updated_at": "Mon, 16 Feb 2026 12:14:44 GMT",
+        "title": "BBC Inside Science",
+        "neutral_headline": "Building a city on the moon is a complex task",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/sounds/play/w3ct8txz?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 16 Feb 2026 12:14:44 GMT",
+            "title": "BBC Inside Science",
+            "standfirst": "What would it really take to build a city on the moon?",
+            "content": "What would it really take to build a city on the moon?",
+            "feed_position": 49,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
+        "ai_summary": [
+          "Building a city on the moon is a challenging project",
+          "Scientists are exploring the possibility of lunar cities",
+          "Establishing a human settlement on the moon is difficult",
+          "The moon's environment is harsh and unforgiving",
+          "Technological advancements are needed for lunar cities"
+        ]
+      },
+      {
+        "id": "cluster_7",
+        "coverage": 1,
+        "updated_at": "Mon, 16 Feb 2026 12:00:25 GMT",
+        "title": "Fertility treatment given special emphasis as Trump Rx site goes live",
+        "neutral_headline": "Fertility treatment given special emphasis as Trump Rx site goes live",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2026/feb/16/trump-rx-fertility-ivf",
+            "published_at": "Mon, 16 Feb 2026 12:00:25 GMT",
+            "title": "Fertility treatment given special emphasis as Trump Rx site goes live",
+            "standfirst": "Experts say discounts on IVF procedures an attempt to fulfil campaign promise but savings only a fraction of total cost TrumpRx, the US president’s much-anticipated drug discount program, went live earlier this month with coupons available for just 43 medications, including four required for in vitro fertilization (IVF) procedures, and experts say this is probably a half-measure to fulfill Trump’s 2024 campaign promise to make IVF treatment universally accessible.“We’ve been hearing about TrumpRx for a long time,” said Dr Richard Paulson, a professor of reproductive medicine at the University of Southern California. “TrumpRx was supposed to fix all of the problems in terms of prescription drug costs and so on, and it has not done that. The only two classes of drugs that are actually cheaper on Trump RX are the GLP-1 agonists – those are the obesity medications – and fertility drugs.” Continue reading...",
+            "content": "Experts say discounts on IVF procedures an attempt to fulfil campaign promise but savings only a fraction of total cost TrumpRx, the US president’s much-anticipated drug discount program, went live earlier this month with coupons available for just 43 medications, including four required for in vitro fertilization (IVF) procedures, and experts say this is probably a half-measure to fulfill Trump’s 2024 campaign promise to make IVF treatment universally accessible.“We’ve been hearing about TrumpRx for a long time,” said Dr Richard Paulson, a professor of reproductive medicine at the University of Southern California. “TrumpRx was supposed to fix all of the problems in terms of prescription drug costs and so on, and it has not done that. The only two classes of drugs that are actually cheaper on Trump RX are the GLP-1 agonists – those are the obesity medications – and fertility drugs.” Continue reading...",
+            "feed_position": 4
+          }
+        ],
+        "ai_summary": [
+          "TrumpRx offers discounts on IVF procedures",
+          "Experts say the discounts are a partial fulfillment of a campaign promise",
+          "The discounts may not significantly reduce the cost of IVF",
+          "TrumpRx is a drug discount program launched by the US president",
+          "The program aims to make fertility treatment more accessible"
+        ]
+      },
+      {
+        "id": "cluster_8",
+        "coverage": 1,
+        "updated_at": "Mon, 16 Feb 2026 11:55:48 GMT",
+        "title": "Measles outbreak could see unvaccinated pupils excluded from schools in north London",
+        "neutral_headline": "Measles outbreak may lead to school exclusions",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c99jyexve1jo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 16 Feb 2026 11:55:48 GMT",
+            "title": "Measles outbreak could see unvaccinated pupils excluded from schools in north London",
+            "standfirst": "Children identified as close contacts of people with the disease could be excluded for three weeks",
+            "content": "Children identified as close contacts of people with the disease could be excluded for three weeks",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd95/live/62d51520-0b35-11f1-b7e1-afb6d0884c18.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd95/live/62d51520-0b35-11f1-b7e1-afb6d0884c18.jpg",
+        "ai_summary": [
+          "A measles outbreak is occurring in north London",
+          "Unvaccinated pupils may be excluded from schools",
+          "The exclusion period could last for three weeks",
+          "The outbreak is a concern for public health officials",
+          "Vaccination is the best way to prevent measles"
+        ]
+      },
+      {
+        "id": "cluster_9",
+        "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 09:50:58 GMT",
         "title": "Trump eyes Venezuela visit – but obstacles to his oil plan remain",
-        "neutral_headline": "Trump Eyes Venezuela Visit And Oil Plan",
+        "neutral_headline": "Trump eyes Venezuela visit but faces obstacles",
         "items": [
           {
             "source": "BBC Science",
@@ -112,19 +345,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d6/live/398af810-065d-11f1-ad0b-39fef3bf1fc8.jpg",
         "ai_summary": [
-          "Trump wants American energy firms to extract oil",
-          "Obstacles to the plan remain",
-          "The US president is pushing for oil extraction",
-          "American energy firms are reluctant",
-          "The plan faces significant challenges"
+          "The US president wants to visit Venezuela",
+          "American energy firms are hesitant to extract oil",
+          "Obstacles to the plan remain in place",
+          "The visit is part of a larger energy strategy",
+          "Venezuela's oil reserves are a key factor"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 08:05:27 GMT",
         "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
-        "neutral_headline": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
+        "neutral_headline": "Dart frog toxin allegedly used to kill Alexei Navalny",
         "items": [
           {
             "source": "BBC Science",
@@ -133,25 +366,25 @@
             "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
             "standfirst": "The toxin, epibatidine, can be found in frogs in the wild in South America or manufactured in a lab.",
             "content": "The toxin, epibatidine, can be found in frogs in the wild in South America or manufactured in a lab.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc2/live/a4c47040-0a98-11f1-9640-7f85e4d0c189.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc2/live/a4c47040-0a98-11f1-9640-7f85e4d0c189.jpg",
         "ai_summary": [
-          "The toxin is epibatidine",
-          "It can be found in frogs in South America",
-          "The toxin can also be manufactured in a lab",
-          "Epibatidine is a highly toxic substance",
-          "The toxin has been linked to the alleged killing"
+          "The toxin epibatidine is found in dart frogs",
+          "It can be manufactured in a lab or found in the wild",
+          "The toxin is highly potent and deadly",
+          "It was allegedly used to kill Alexei Navalny",
+          "The incident is under investigation"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 07:30:13 GMT",
         "title": "Google puts users at risk by downplaying health disclaimers under AI Overviews",
-        "neutral_headline": "Google Fails To Include Safety Warnings",
+        "neutral_headline": "Google downplays health disclaimers in AI Overviews",
         "items": [
           {
             "source": "Guardian Health",
@@ -160,23 +393,23 @@
             "title": "Google puts users at risk by downplaying health disclaimers under AI Overviews",
             "standfirst": "Exclusive: Google fails to include safety warnings when users are first presented with AI-generated medical adviceGoogle is putting people at risk of harm by downplaying safety warnings that its AI-generated medical advice may be wrong.When answering queries about sensitive topics such as health, the company says its AI Overviews, which appear above search results, prompt users to seek professional help, rather than relying solely on its summaries. “AI Overviews will inform people when it’s important to seek out expert advice or to verify the information presented,” Google has said. Continue reading...",
             "content": "Exclusive: Google fails to include safety warnings when users are first presented with AI-generated medical adviceGoogle is putting people at risk of harm by downplaying safety warnings that its AI-generated medical advice may be wrong.When answering queries about sensitive topics such as health, the company says its AI Overviews, which appear above search results, prompt users to seek professional help, rather than relying solely on its summaries. “AI Overviews will inform people when it’s important to seek out expert advice or to verify the information presented,” Google has said. Continue reading...",
-            "feed_position": 1
+            "feed_position": 5
           }
         ],
         "ai_summary": [
-          "Google puts users at risk with AI-generated medical advice",
-          "AI Overviews lack safety warnings for users",
-          "Company says it informs people to seek expert advice",
-          "Google downplays health disclaimers under AI Overviews",
-          "Users may rely solely on AI-generated medical advice"
+          "Google's AI Overviews lack safety warnings",
+          "The company fails to include disclaimers",
+          "Users may rely solely on AI-generated advice",
+          "The lack of warnings puts users at risk",
+          "Google should prioritize user safety"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 06:04:05 GMT",
         "title": "Women calling for greater support with menopause",
-        "neutral_headline": "Women Seek Support For Menopause",
+        "neutral_headline": "Women call for greater support during menopause",
         "items": [
           {
             "source": "BBC Health",
@@ -191,19 +424,46 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/add0/live/d99b7df0-0853-11f1-ba49-bb79b430dd38.jpg",
         "ai_summary": [
-          "Women experience challenges during menopause",
-          "Some women start businesses to help others with menopause",
-          "Menopause affects women's health and wellbeing",
-          "Support for menopause is limited in some areas",
-          "Women call for greater support during menopause"
+          "Women are seeking more support during menopause",
+          "Businesses are emerging to help women cope",
+          "Menopause can be a challenging time",
+          "Women need access to resources and advice",
+          "Support systems are essential for women's health"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_13",
+        "coverage": 1,
+        "updated_at": "Mon, 16 Feb 2026 05:57:00 GMT",
+        "title": "Married couple share same cancer diagnosis",
+        "neutral_headline": "Married couple share same cancer diagnosis",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cvg198pe5w0o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 16 Feb 2026 05:57:00 GMT",
+            "title": "Married couple share same cancer diagnosis",
+            "standfirst": "An East Kent Hospital surgeon says it was the \"first time\" he had encountered such a case.",
+            "content": "An East Kent Hospital surgeon says it was the \"first time\" he had encountered such a case.",
+            "feed_position": 3,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2872/live/5408b8e0-08fa-11f1-8b6c-9b488ac81030.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2872/live/5408b8e0-08fa-11f1-8b6c-9b488ac81030.jpg",
+        "ai_summary": [
+          "A married couple were diagnosed with cancer",
+          "The case is rare and unusual",
+          "The couple's story is an extraordinary coincidence",
+          "The diagnosis was a surprise to their doctor",
+          "The couple's experience is a unique one"
+        ]
+      },
+      {
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 05:00:41 GMT",
         "title": "‘It’s the most urgent public health issue’: Dr Rangan Chatterjee on screen time, mental health – and banning social media until 18",
-        "neutral_headline": "Dr Rangan Chatterjee On Screen Time",
+        "neutral_headline": "Dr Rangan Chatterjee on screen time and mental health",
         "items": [
           {
             "source": "Guardian Health",
@@ -212,23 +472,23 @@
             "title": "‘It’s the most urgent public health issue’: Dr Rangan Chatterjee on screen time, mental health – and banning social media until 18",
             "standfirst": "The hit podcaster, author and former GP says a failure to regulate big tech is ‘failing a generation of children’. He explains why he quit the NHS and why he wants a ban on screen-based homeworkA 16-year-old boy and his mum went to see their GP, Dr Rangan Chatterjee, on a busy Monday afternoon. That weekend, the boy had been at A&E after an attempt at self-harm, and in his notes the hospital doctor had recommended the teenager be prescribed antidepressants. “I thought: ‘Wait a minute, I can’t just start a 16-year-old on antidepressants,’” says Chatterjee. He wanted to understand what was going on in the boy’s life.They talked for a while, and Chatterjee asked him about his screen use, which turned out to be high. “I said: ‘I think your screen use, particularly in the evenings, might be impacting your mental wellbeing.’” Chatterjee helped the boy and his mother set up a routine where digital devices and social media went off an hour before bed, gradually extending the screen-free period over six weeks. After two months, he says the boy stopped needing to see him. A few months after that, his mother wrote Chatterjee a note to say her son had been transformed – he was engaging with his friends and trying new activities. He was, she said, like a different boy from the one who had ended up in hospital. Continue reading...",
             "content": "The hit podcaster, author and former GP says a failure to regulate big tech is ‘failing a generation of children’. He explains why he quit the NHS and why he wants a ban on screen-based homeworkA 16-year-old boy and his mum went to see their GP, Dr Rangan Chatterjee, on a busy Monday afternoon. That weekend, the boy had been at A&E after an attempt at self-harm, and in his notes the hospital doctor had recommended the teenager be prescribed antidepressants. “I thought: ‘Wait a minute, I can’t just start a 16-year-old on antidepressants,’” says Chatterjee. He wanted to understand what was going on in the boy’s life.They talked for a while, and Chatterjee asked him about his screen use, which turned out to be high. “I said: ‘I think your screen use, particularly in the evenings, might be impacting your mental wellbeing.’” Chatterjee helped the boy and his mother set up a routine where digital devices and social media went off an hour before bed, gradually extending the screen-free period over six weeks. After two months, he says the boy stopped needing to see him. A few months after that, his mother wrote Chatterjee a note to say her son had been transformed – he was engaging with his friends and trying new activities. He was, she said, like a different boy from the one who had ended up in hospital. Continue reading...",
-            "feed_position": 2
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "Dr Rangan Chatterjee discusses screen time and mental health",
-          "He says screen time affects children's mental wellbeing",
-          "Chatterjee wants a ban on screen-based homework",
-          "He helped a boy reduce screen time and improve mental health",
-          "Chatterjee says big tech fails to regulate screen time"
+          "Dr Chatterjee discusses screen time and mental health",
+          "He advocates for banning social media until 18",
+          "Screen time can negatively impact mental wellbeing",
+          "Dr Chatterjee has seen the effects in his patients",
+          "He recommends reducing screen time for better health"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 01:00:36 GMT",
         "title": "Intermittent fasting no better than typical weight loss diets, study finds",
-        "neutral_headline": "Intermittent Fasting Not Effective",
+        "neutral_headline": "Intermittent fasting is not a miracle weight loss solution",
         "items": [
           {
             "source": "Guardian Health",
@@ -237,23 +497,23 @@
             "title": "Intermittent fasting no better than typical weight loss diets, study finds",
             "standfirst": "Researchers say limited eating approaches such as 5:2 diet not a ‘miracle solution’ amid surge in their popularityIntermittent fasting is no better for shedding the pounds than conventional diets and is barely more effective than doing nothing, according to a major review of the scientific evidence.Researchers analysed data from 22 global studies and found people who are overweight or living with obesity lost as much weight by following traditional dietary advice as when they tried fasting regimes such as the 5:2 diet popularised by the late Michael Mosley. Continue reading...",
             "content": "Researchers say limited eating approaches such as 5:2 diet not a ‘miracle solution’ amid surge in their popularityIntermittent fasting is no better for shedding the pounds than conventional diets and is barely more effective than doing nothing, according to a major review of the scientific evidence.Researchers analysed data from 22 global studies and found people who are overweight or living with obesity lost as much weight by following traditional dietary advice as when they tried fasting regimes such as the 5:2 diet popularised by the late Michael Mosley. Continue reading...",
-            "feed_position": 3
+            "feed_position": 7
           }
         ],
         "ai_summary": [
-          "Intermittent fasting is not better for weight loss",
+          "Intermittent fasting is not more effective than traditional diets",
           "Researchers analyzed data from 22 global studies",
-          "Traditional diets are as effective as intermittent fasting",
-          "Intermittent fasting is not a miracle solution for weight loss",
-          "Study finds limited benefits of intermittent fasting"
+          "The results show limited benefits to fasting",
+          "Weight loss results are similar to other diets",
+          "Fasting is not a quick fix for weight loss"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sun, 15 Feb 2026 21:00:33 GMT",
         "title": "Katie’s story: her abusive ex-partner said ‘kill yourself’. When she did, police dropped domestic violence inquiry",
-        "neutral_headline": "Katie's Story Exposes Domestic Abuse",
+        "neutral_headline": "Katie's story: her abusive ex-partner said kill yourself",
         "items": [
           {
             "source": "Guardian Health",
@@ -262,23 +522,23 @@
             "title": "Katie’s story: her abusive ex-partner said ‘kill yourself’. When she did, police dropped domestic violence inquiry",
             "standfirst": "After her death, police dropped a case examining Katie Madden’s former partner, despite evidence he had repeatedly told her to kill herselfRevealed: The true toll of female suicides in UK with domestic abuse at their coreHours before Katie Madden took her own life, she had a tense phone call with her former partner Jonathon Russell. Russell was on bail after allegedly assaulting Madden – he was banned from contacting her – but the conversation took place nevertheless.There was a witness to the call who gave evidence to the inquest into Madden’s death. Mason Jones, a friend of Madden’s, said Russell was “vile” and “abusive”. Although Jones said he could not remember the exact words Russell used, he said: “I recall Jon saying at least once that he was in control of the town and would end her life if she didn’t do it herself.” Continue reading...",
             "content": "After her death, police dropped a case examining Katie Madden’s former partner, despite evidence he had repeatedly told her to kill herselfRevealed: The true toll of female suicides in UK with domestic abuse at their coreHours before Katie Madden took her own life, she had a tense phone call with her former partner Jonathon Russell. Russell was on bail after allegedly assaulting Madden – he was banned from contacting her – but the conversation took place nevertheless.There was a witness to the call who gave evidence to the inquest into Madden’s death. Mason Jones, a friend of Madden’s, said Russell was “vile” and “abusive”. Although Jones said he could not remember the exact words Russell used, he said: “I recall Jon saying at least once that he was in control of the town and would end her life if she didn’t do it herself.” Continue reading...",
-            "feed_position": 4
+            "feed_position": 8
           }
         ],
         "ai_summary": [
-          "Katie Madden's death is linked to domestic abuse",
-          "Her ex-partner told her to kill herself",
-          "Police dropped the domestic violence inquiry after her death",
-          "Domestic abuse is a significant factor in female suicides",
-          "Katie's story highlights the need for better support"
+          "Katie Madden took her own life after abuse",
+          "Her ex-partner had told her to kill herself",
+          "The police dropped the domestic violence inquiry",
+          "The case highlights the need for better support",
+          "Domestic abuse can have devastating consequences"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Sun, 15 Feb 2026 19:37:58 GMT",
         "title": "Fast-spreading measles outbreak takes hold among under-10s in north London",
-        "neutral_headline": "Measles Outbreak In North London",
+        "neutral_headline": "Fast-spreading measles outbreak in north London",
         "items": [
           {
             "source": "Guardian Health",
@@ -287,7 +547,7 @@
             "title": "Fast-spreading measles outbreak takes hold among under-10s in north London",
             "standfirst": "UK Health Security Agency urges parents in Enfield to get their children vaccinated as Easter holiday travels approach‘We almost lost you in the night’ - the life-threatening rise of measlesA big measles outbreak in north-east London is affecting unvaccinated children under the age of 10, the UK Health Security Agency (UKHSA) has confirmed.UKHSA previously reported 34 laboratory-confirmed measles cases among children who attend schools and nurseries in Enfield from 1 January to 9 February, with some requiring hospital treatment. Continue reading...",
             "content": "UK Health Security Agency urges parents in Enfield to get their children vaccinated as Easter holiday travels approach‘We almost lost you in the night’ - the life-threatening rise of measlesA big measles outbreak in north-east London is affecting unvaccinated children under the age of 10, the UK Health Security Agency (UKHSA) has confirmed.UKHSA previously reported 34 laboratory-confirmed measles cases among children who attend schools and nurseries in Enfield from 1 January to 9 February, with some requiring hospital treatment. Continue reading...",
-            "feed_position": 5
+            "feed_position": 9
           },
           {
             "source": "Guardian Health",
@@ -296,23 +556,23 @@
             "title": "More than 60 children infected in north London measles outbreak",
             "standfirst": "Cases reported in seven schools and a nursery in Enfield amid concern over low levels of MMR vaccination in capitalMore than 60 children have been infected by a measles outbreak in north London, it has been reported.Seven schools and a nursery in Enfield reported the cases, with some children treated in hospital, according to the Sunday Times. Continue reading...",
             "content": "Cases reported in seven schools and a nursery in Enfield amid concern over low levels of MMR vaccination in capitalMore than 60 children have been infected by a measles outbreak in north London, it has been reported.Seven schools and a nursery in Enfield reported the cases, with some children treated in hospital, according to the Sunday Times. Continue reading...",
-            "feed_position": 13
+            "feed_position": 18
           }
         ],
         "ai_summary": [
-          "Measles outbreak affects unvaccinated children in London",
-          "Over 60 children are infected with measles in Enfield",
-          "UK Health Security Agency urges parents to vaccinate children",
-          "Measles can cause blindness and hearing loss",
-          "Outbreak highlights the importance of vaccination"
+          "A measles outbreak is occurring in north London",
+          "The outbreak is affecting unvaccinated children",
+          "The UK Health Security Agency is urging vaccination",
+          "The outbreak is a concern for public health officials",
+          "Vaccination is the best way to prevent measles"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sun, 15 Feb 2026 17:27:09 GMT",
         "title": "Sir Nick White obituary",
-        "neutral_headline": "Sir Nick White Obituary",
+        "neutral_headline": "Sir Nick White obituary: Distinguished clinician and scientist",
         "items": [
           {
             "source": "Guardian Health",
@@ -321,23 +581,23 @@
             "title": "Sir Nick White obituary",
             "standfirst": "Distinguished clinician and scientist who was a leading figure in the treatment of malaria worldwideThe idea that a traditional Chinese herbal treatment could be the answer to drug-resistant malaria was tough to swallow for many policymakers in global health. With a combination of dogged persistence, commitment to communities in affected countries and impeccable research design, Nick White changed their minds.He led a campaign to make antimalarial drug combinations containing artemisinin, extracted in China from a common plant, the globally recommended treatment for the most common form of malaria. Millions of lives have been saved as a result. Continue reading...",
             "content": "Distinguished clinician and scientist who was a leading figure in the treatment of malaria worldwideThe idea that a traditional Chinese herbal treatment could be the answer to drug-resistant malaria was tough to swallow for many policymakers in global health. With a combination of dogged persistence, commitment to communities in affected countries and impeccable research design, Nick White changed their minds.He led a campaign to make antimalarial drug combinations containing artemisinin, extracted in China from a common plant, the globally recommended treatment for the most common form of malaria. Millions of lives have been saved as a result. Continue reading...",
-            "feed_position": 6
+            "feed_position": 10
           }
         ],
         "ai_summary": [
           "Sir Nick White was a leading figure in malaria treatment",
           "He campaigned for antimalarial drug combinations",
-          "White's work saved millions of lives worldwide",
+          "His work saved millions of lives worldwide",
           "He was a distinguished clinician and scientist",
-          "White's legacy continues to impact global health"
+          "His legacy continues to impact global health"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sun, 15 Feb 2026 16:41:45 GMT",
         "title": "Premier League is committed to the care and support of young players | Letter",
-        "neutral_headline": "Premier League Supports Young Players",
+        "neutral_headline": "Premier League Supports Young Football Players",
         "items": [
           {
             "source": "Guardian Health",
@@ -346,275 +606,21 @@
             "title": "Premier League is committed to the care and support of young players | Letter",
             "standfirst": "Neil Saunders of the Premier League responds to a letter about ongoing help for academy footballers who have been released from their contractsThe Premier League introduced the elite player performance plan (EPPP) in 2012 to modernise and professionalise youth development in English football. Since then, the education, care and support provided to young players, both within academies and beyond, has evolved significantly (Letters, 7 January).The Premier League, clubs and selected partners work collaboratively to support players from under-nine level through to the first team, with a strong focus on mental health and wellbeing. Continue reading...",
             "content": "Neil Saunders of the Premier League responds to a letter about ongoing help for academy footballers who have been released from their contractsThe Premier League introduced the elite player performance plan (EPPP) in 2012 to modernise and professionalise youth development in English football. Since then, the education, care and support provided to young players, both within academies and beyond, has evolved significantly (Letters, 7 January).The Premier League, clubs and selected partners work collaboratively to support players from under-nine level through to the first team, with a strong focus on mental health and wellbeing. Continue reading...",
-            "feed_position": 7
-          }
-        ],
-        "ai_summary": [
-          "Premier League introduces elite player performance plan",
-          "The plan provides education and support for young players",
-          "Focus is on mental health and wellbeing of players",
-          "Premier League works with partners to support players",
-          "The plan aims to professionalize youth development in football"
-        ]
-      },
-      {
-        "id": "cluster_10",
-        "coverage": 1,
-        "updated_at": "Sun, 15 Feb 2026 16:41:17 GMT",
-        "title": "Challenges of being a GP in remote areas | Letter",
-        "neutral_headline": "Challenges Of Being A Rural GP",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/feb/15/challenges-of-being-a-gp-in-remote-areas",
-            "published_at": "Sun, 15 Feb 2026 16:41:17 GMT",
-            "title": "Challenges of being a GP in remote areas | Letter",
-            "standfirst": "It’s not surprising that rural practices such as Coniston in the Lake District find it hard to recruit GPs, writes Dr John HoldenRegarding your report (Lake District village struggles to find GP – despite ad pledging ‘we’ll never run out of beer’, 11 February), Coniston’s situation is not a question of marketing flair but of structural pressure in rural general practice.Findings from a recent survey of our member doctors working in rural and remote areas underline the scale of the challenge. One in four doctors told us that working in a single-handed practice has negatively affected their wellbeing or contributed to burnout. Continue reading...",
-            "content": "It’s not surprising that rural practices such as Coniston in the Lake District find it hard to recruit GPs, writes Dr John HoldenRegarding your report (Lake District village struggles to find GP – despite ad pledging ‘we’ll never run out of beer’, 11 February), Coniston’s situation is not a question of marketing flair but of structural pressure in rural general practice.Findings from a recent survey of our member doctors working in rural and remote areas underline the scale of the challenge. One in four doctors told us that working in a single-handed practice has negatively affected their wellbeing or contributed to burnout. Continue reading...",
-            "feed_position": 8
-          }
-        ],
-        "ai_summary": [
-          "Rural practices struggle to recruit GPs",
-          "Coniston village in Lake District faces GP shortage",
-          "Rural areas have limited access to healthcare services",
-          "GPs in rural areas face structural pressures and burnout",
-          "Recruitment and retention of GPs are significant challenges"
-        ]
-      },
-      {
-        "id": "cluster_11",
-        "coverage": 1,
-        "updated_at": "Sun, 15 Feb 2026 15:32:11 GMT",
-        "title": "'Fast-spreading' measles outbreak hits several schools in London",
-        "neutral_headline": "Measles Outbreak Hits London Schools",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/cev7edxxzm7o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 15 Feb 2026 15:32:11 GMT",
-            "title": "'Fast-spreading' measles outbreak hits several schools in London",
-            "standfirst": "A number of children have been hospitalised as officials urge families to check they are up to date with their vaccines.",
-            "content": "A number of children have been hospitalised as officials urge families to check they are up to date with their vaccines.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9864/live/b008a410-0a4a-11f1-aeec-d316ccfb6391.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9864/live/b008a410-0a4a-11f1-aeec-d316ccfb6391.jpg",
-        "ai_summary": [
-          "Measles outbreak affects several schools in London",
-          "Children are hospitalized due to measles infection",
-          "Officials urge families to check vaccination status",
-          "Measles is a highly infectious disease",
-          "Vaccination is crucial to prevent measles outbreak"
-        ]
-      },
-      {
-        "id": "cluster_12",
-        "coverage": 1,
-        "updated_at": "Sun, 15 Feb 2026 14:00:25 GMT",
-        "title": "‘We almost lost you in the night’ - the life-threatening rise of measles in the UK",
-        "neutral_headline": "Measles Cases Soar In The UK",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/feb/15/life-threatening-rise-of-measles-in-the-uk",
-            "published_at": "Sun, 15 Feb 2026 14:00:25 GMT",
-            "title": "‘We almost lost you in the night’ - the life-threatening rise of measles in the UK",
-            "standfirst": "It is one of the most infectious diseases around, and can cause blindness and hearing loss – and can also be fatal. Why are cases now soaring and what can be done about it?Saijal Ladd’s week in hospital remains a blur. The very worst days still feel like a fog, punctuated by two nightmarish memories. First, attempting to speak to a consultant to discuss if she should be rushed to ICU, but being unable to form words through her breathlessness. And later, a family member’s exhausted face mouthing: “We almost lost you in the night.”The 53-year-old had called an ambulance when what she had assumed was flu became so severe she could barely walk, and she experienced diarrhoea and violent vomiting. It wasn’t flu. In fact, Ladd had caught measles. Continue reading...",
-            "content": "It is one of the most infectious diseases around, and can cause blindness and hearing loss – and can also be fatal. Why are cases now soaring and what can be done about it?Saijal Ladd’s week in hospital remains a blur. The very worst days still feel like a fog, punctuated by two nightmarish memories. First, attempting to speak to a consultant to discuss if she should be rushed to ICU, but being unable to form words through her breathlessness. And later, a family member’s exhausted face mouthing: “We almost lost you in the night.”The 53-year-old had called an ambulance when what she had assumed was flu became so severe she could barely walk, and she experienced diarrhoea and violent vomiting. It wasn’t flu. In fact, Ladd had caught measles. Continue reading...",
-            "feed_position": 0
-          }
-        ],
-        "ai_summary": [
-          "Measles cases are rising in the UK",
-          "The disease can cause blindness and hearing loss",
-          "Measles is a life-threatening condition",
-          "Vaccination is essential to prevent measles",
-          "UK Health Security Agency urges parents to vaccinate children"
-        ]
-      },
-      {
-        "id": "cluster_13",
-        "coverage": 1,
-        "updated_at": "Sun, 15 Feb 2026 12:51:15 GMT",
-        "title": "Social media misleads young on gender transitioning, says UK review leader",
-        "neutral_headline": "Social Media Misleads On Gender Transitioning",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/feb/15/social-media-misleading-young-people-gender-transitioning-hilary-cass",
-            "published_at": "Sun, 15 Feb 2026 12:51:15 GMT",
-            "title": "Social media misleads young on gender transitioning, says UK review leader",
-            "standfirst": "Hilary Cass, who led youth gender identity services review, warns of ‘unrealistic images and expectations’The expert who led the review into youth gender identity services has said young people are being misinformed by “unrealistic” portrayals of transitioning on social media.Hilary Cass, the British paediatrician whose review of NHS gender care led to a significant shift including a ban on puberty blockers, warned of “unrealistic images and expectations on social media” when it came to “what transition would really mean and how hard it would be”, including “quite intensive medical treatments” and “sometimes quite brutal surgeries”. Continue reading...",
-            "content": "Hilary Cass, who led youth gender identity services review, warns of ‘unrealistic images and expectations’The expert who led the review into youth gender identity services has said young people are being misinformed by “unrealistic” portrayals of transitioning on social media.Hilary Cass, the British paediatrician whose review of NHS gender care led to a significant shift including a ban on puberty blockers, warned of “unrealistic images and expectations on social media” when it came to “what transition would really mean and how hard it would be”, including “quite intensive medical treatments” and “sometimes quite brutal surgeries”. Continue reading...",
-            "feed_position": 9
-          }
-        ],
-        "ai_summary": [
-          "Social media portrays unrealistic images of transitioning",
-          "Young people are misinformed about gender transitioning",
-          "Hilary Cass warns of unrealistic expectations on social media",
-          "Transitioning involves intensive medical treatments",
-          "Social media can have a negative impact on mental health"
-        ]
-      },
-      {
-        "id": "cluster_14",
-        "coverage": 1,
-        "updated_at": "Sun, 15 Feb 2026 12:00:23 GMT",
-        "title": "I thought my powerlifter father was the strongest man in the world. But a secret steroid addiction took him – and us – to the brink",
-        "neutral_headline": "Father's Secret Steroid Addiction",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/feb/15/powerlifter-father-strongest-man-world-secret-steroid-addiction",
-            "published_at": "Sun, 15 Feb 2026 12:00:23 GMT",
-            "title": "I thought my powerlifter father was the strongest man in the world. But a secret steroid addiction took him – and us – to the brink",
-            "standfirst": "He didn’t look like a stereotypical ‘drug addict’, but when he fled to South Africa with all our savings it was obvious that is what he had becomeWhen I tell people that a drug addiction nearly killed my dad, I know what most of them are thinking. Heroin. Crack. Maybe meth or ket. Those substances that steal your soul and slowly wreak havoc on your body. They’re imagining Trainspotting; too-skinny frames and protruding hip bones, the physical effects of addiction that are impossible to miss.But that isn’t how it played out in my family. Continue reading...",
-            "content": "He didn’t look like a stereotypical ‘drug addict’, but when he fled to South Africa with all our savings it was obvious that is what he had becomeWhen I tell people that a drug addiction nearly killed my dad, I know what most of them are thinking. Heroin. Crack. Maybe meth or ket. Those substances that steal your soul and slowly wreak havoc on your body. They’re imagining Trainspotting; too-skinny frames and protruding hip bones, the physical effects of addiction that are impossible to miss.But that isn’t how it played out in my family. Continue reading...",
-            "feed_position": 10
-          }
-        ],
-        "ai_summary": [
-          "A powerlifter father struggles with secret steroid addiction",
-          "Addiction takes a toll on family and relationships",
-          "Steroid addiction is a hidden and stigmatized issue",
-          "Family members are affected by the addiction",
-          "Seeking help is crucial to overcome addiction"
-        ]
-      },
-      {
-        "id": "cluster_15",
-        "coverage": 1,
-        "updated_at": "Sun, 15 Feb 2026 06:00:14 GMT",
-        "title": "Facing meltdown? Over 75% of people suffer from burnout - here’s what you need to know",
-        "neutral_headline": "Burnout Affects Over 75 Percent",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/feb/15/75-of-people-suffer-from-burnout-what-you-need-to-know",
-            "published_at": "Sun, 15 Feb 2026 06:00:14 GMT",
-            "title": "Facing meltdown? Over 75% of people suffer from burnout - here’s what you need to know",
-            "standfirst": "Does it only affect weak people? Is work always the cause? Burnout myths, busted by the expertsOnce, after surviving yet another round of redundancies in a former job, I did something very odd. I turned off the lights in my room and lay face-down on the bed, unable to move. Rather than feeling relief at having escaped the axe, I was exhausted and numb. I’m not the only one. Fatigue, apathy and hopelessness are all textbook signs of burnout, a bleak phenomenon that has come to define many of our working lives. In 2025, a report from Moodle found that 66% of US workers had experienced some kind of burnout, while a Mental Health UK survey found that one in three adults came under high levels of pressure or stress in the previous year. Despite the prevalence of burnout, plenty of misconceptions around it persist. “Everybody thinks it’s some sort of disease or medical condition,” says Christina Maslach, the psychology professor who was the first to study the syndrome in the 1970s. “But it’s actually a response to chronic job stressors – a stress response.” Here we separate the facts from the myths. Continue reading...",
-            "content": "Does it only affect weak people? Is work always the cause? Burnout myths, busted by the expertsOnce, after surviving yet another round of redundancies in a former job, I did something very odd. I turned off the lights in my room and lay face-down on the bed, unable to move. Rather than feeling relief at having escaped the axe, I was exhausted and numb. I’m not the only one. Fatigue, apathy and hopelessness are all textbook signs of burnout, a bleak phenomenon that has come to define many of our working lives. In 2025, a report from Moodle found that 66% of US workers had experienced some kind of burnout, while a Mental Health UK survey found that one in three adults came under high levels of pressure or stress in the previous year. Despite the prevalence of burnout, plenty of misconceptions around it persist. “Everybody thinks it’s some sort of disease or medical condition,” says Christina Maslach, the psychology professor who was the first to study the syndrome in the 1970s. “But it’s actually a response to chronic job stressors – a stress response.” Here we separate the facts from the myths. Continue reading...",
             "feed_position": 11
           }
         ],
         "ai_summary": [
-          "Burnout affects most people at some point",
-          "Burnout is a response to chronic job stressors",
-          "Fatigue and apathy are symptoms of burnout",
-          "Burnout is not a sign of weakness",
-          "Experts bust myths and misconceptions about burnout"
-        ]
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Sun, 15 Feb 2026 05:00:12 GMT",
-        "title": "‘You think: Do I really need anyone?’ – the hidden burden of being a hyper-independent person",
-        "neutral_headline": "The Hidden Burden Of Hyper Independence",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/feb/15/hyper-independence-self-reliance-relationships",
-            "published_at": "Sun, 15 Feb 2026 05:00:12 GMT",
-            "title": "‘You think: Do I really need anyone?’ – the hidden burden of being a hyper-independent person",
-            "standfirst": "Self-reliance is often encouraged over asking others for help in the modern world. But doing everything yourself can be a sign that you are scared of intimacyWhen a relative was seriously ill and in intensive care for more than a month, Cianne Jones stepped in. “I took it upon myself to be that person in the hospital every single day – chasing doctors, taking notes, making sure I understood why they were doing things.” It was so stressful, she says, that at one point her hair started falling out, but she ploughed on.It was Jones’s therapist who gently questioned whether she was going to ask for help. Jones laughs. “The hair falling out didn’t suggest to me that I needed help, it was somebody else looking in and saying that.” She has a large, close family who would have helped immediately – and did, once Jones asked – it’s just that it didn’t occur to her to ask. “I had taken that role on: ‘I’m just going to get everything done.’ I just took off, and that was it.” Continue reading...",
-            "content": "Self-reliance is often encouraged over asking others for help in the modern world. But doing everything yourself can be a sign that you are scared of intimacyWhen a relative was seriously ill and in intensive care for more than a month, Cianne Jones stepped in. “I took it upon myself to be that person in the hospital every single day – chasing doctors, taking notes, making sure I understood why they were doing things.” It was so stressful, she says, that at one point her hair started falling out, but she ploughed on.It was Jones’s therapist who gently questioned whether she was going to ask for help. Jones laughs. “The hair falling out didn’t suggest to me that I needed help, it was somebody else looking in and saying that.” She has a large, close family who would have helped immediately – and did, once Jones asked – it’s just that it didn’t occur to her to ask. “I had taken that role on: ‘I’m just going to get everything done.’ I just took off, and that was it.” Continue reading...",
-            "feed_position": 12
-          }
-        ],
-        "ai_summary": [
-          "Hyper-independence can be a sign of fear of intimacy",
-          "Self-reliance can lead to stress and burnout",
-          "Asking for help is essential for mental health",
-          "Hyper-independent people may struggle with relationships",
-          "Recognizing the need for help is crucial for wellbeing"
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Sun, 15 Feb 2026 00:02:42 GMT",
-        "title": "Death of the sex drive - and the great debate over whether testosterone can help get it back",
-        "neutral_headline": "Testosterone And Libido Improvement Debated",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/ckg8r28d3lgo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 15 Feb 2026 00:02:42 GMT",
-            "title": "Death of the sex drive - and the great debate over whether testosterone can help get it back",
-            "standfirst": "Can boosting testosterone improve libido, or is much of the attention solely hype, profit, and placebo?",
-            "content": "Can boosting testosterone improve libido, or is much of the attention solely hype, profit, and placebo?",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d15d/live/8f1fd1b0-073e-11f1-9972-d3f265c101c6.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d15d/live/8f1fd1b0-073e-11f1-9972-d3f265c101c6.jpg",
-        "ai_summary": [
-          "Testosterone levels affect libido in humans",
-          "Boosting testosterone may improve sex drive",
-          "Placebo effect influences testosterone treatment",
-          "Testosterone therapy has potential risks",
-          "More research is needed on testosterone"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Sat, 14 Feb 2026 15:00:57 GMT",
-        "title": "What is colorectal cancer and is it preventable?",
-        "neutral_headline": "What is colorectal cancer and is it preventable",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/wellness/2026/feb/14/what-is-colorectal-cancer-and-is-it-preventable",
-            "published_at": "Sat, 14 Feb 2026 15:00:57 GMT",
-            "title": "What is colorectal cancer and is it preventable?",
-            "standfirst": "Cases among younger people are rising – such as with actor James Van Der Beek, who died on 11 February at age 48Actor James Van Der Beek died on 11 February, aged 48; he had been diagnosed in 2023 with colorectal cancer.According to the World Health Organization, colorectal cancer is the third most common cancer and the second leading cause of cancer-related deaths worldwide. While rates are declining overall, cases among younger people are rising. Continue reading...",
-            "content": "Cases among younger people are rising – such as with actor James Van Der Beek, who died on 11 February at age 48Actor James Van Der Beek died on 11 February, aged 48; he had been diagnosed in 2023 with colorectal cancer.According to the World Health Organization, colorectal cancer is the third most common cancer and the second leading cause of cancer-related deaths worldwide. While rates are declining overall, cases among younger people are rising. Continue reading...",
-            "feed_position": 14
-          }
-        ],
-        "ai_summary": [
-          "Colorectal cancer is the third most common cancer",
-          "Actor James Van Der Beek died from colorectal cancer",
-          "Cases among younger people are increasing",
-          "Colorectal cancer is the second leading cause death",
-          "World Health Organization tracks cancer rates"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Sat, 14 Feb 2026 15:00:56 GMT",
-        "title": "‘Nothing says love like chemicals’: Valentine’s roses often covered in pesticides, testing finds",
-        "neutral_headline": "Nothing says love like chemicals",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/feb/14/valentines-day-flowers-roses-pesticides-testing",
-            "published_at": "Sat, 14 Feb 2026 15:00:56 GMT",
-            "title": "‘Nothing says love like chemicals’: Valentine’s roses often covered in pesticides, testing finds",
-            "standfirst": "Bouquets imported to Europe found to be heavily contaminated, often with chemicals banned in EU and UKStay away from roses this Valentine’s Day, environmental campaigners have warned after testing revealed them to be heavily contaminated with pesticides.Laboratory testing on bouquets in the Netherlands, Europe’s flower import hub, found roses had the highest residues of neurological and reproductive toxins compared with other flowers. Continue reading...",
-            "content": "Bouquets imported to Europe found to be heavily contaminated, often with chemicals banned in EU and UKStay away from roses this Valentine’s Day, environmental campaigners have warned after testing revealed them to be heavily contaminated with pesticides.Laboratory testing on bouquets in the Netherlands, Europe’s flower import hub, found roses had the highest residues of neurological and reproductive toxins compared with other flowers. Continue reading...",
-            "feed_position": 15
-          }
-        ],
-        "ai_summary": [
-          "Roses imported to Europe are contaminated",
-          "Pesticides on roses pose health risks",
-          "Laboratory testing found high toxin levels",
-          "Environmental campaigners warn against roses",
-          "EU and UK ban some chemicals found"
+          "Premier League introduced Elite Player Performance Plan in 2012",
+          "Plan modernises and professionalises youth development in English football",
+          "Education and support provided to young players has evolved",
+          "Collaborative effort between Premier League and clubs to support players",
+          "Focus on mental health and wellbeing for young footballers"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-16T11:40:32.067Z",
+    "updated_at": "2026-02-16T19:31:59.775Z",
     "clusters": []
   }
 }
