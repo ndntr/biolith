@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-02-17T07:50:42.429Z",
+    "updated_at": "2026-02-17T11:39:19.551Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-17T07:50:52.522Z",
+    "updated_at": "2026-02-17T11:39:28.744Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/a9999e73-0324-44e7-91d6-a8d8e16b2a4d/SA-parties-differ-on-pharmacy-prescribing.aspx",
         "ai_summary": [
-          "SA opposition disagrees with State Labor on pharmacy prescribing",
-          "State Labor backs pharmacy's expanded scope of practice",
-          "The opposition is not on the same page as State Labor",
-          "Pharmacy prescribing is a contentious issue in SA",
-          "The parties have different views on the matter"
+          "SA opposition disagrees with State Labor",
+          "Pharmacy prescribing is a contentious issue",
+          "State Labor backs expanded scope of practice",
+          "Opposition has different views on pharmacy",
+          "Pharmacy prescribing is a debated topic"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/9d01b962-8c1c-47b2-85b5-daff9d34ebd7/TGA-warning-after-sildenafil-found-in-collagen-supplement.aspx",
         "ai_summary": [
-          "The TGA found sildenafil in a collagen supplement",
-          "Sildenafil is used to treat erectile dysfunction",
-          "The medication was not declared on the product label",
-          "The TGA issued a warning about the supplement",
-          "The supplement was tested in a laboratory"
+          "Sildenafil was found in a supplement",
+          "The supplement is used for collagen",
+          "TGA issued a warning about the product",
+          "Sildenafil is used for erectile dysfunction",
+          "The supplement contains undeclared medication"
         ]
       },
       {
@@ -80,11 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/7cd3121a-21c5-4d84-8d1f-27933ce31cc0/Critical-antimicrobial-resistances-up-by-25.aspx",
         "ai_summary": [
-          "Antimicrobial resistances have increased by 25%",
-          "The CDC report highlights the need for improved prescribing practices",
-          "Public awareness of antimicrobial resistance is necessary",
-          "The increase in resistance is a significant concern",
-          "The CDC report provides data on antimicrobial resistance"
+          "Antimicrobial resistances have increased",
+          "The increase is by 25 percent",
+          "CDC report highlights the need for action",
+          "Improved prescribing practices are needed",
+          "Public awareness of the issue is crucial"
         ]
       },
       {
@@ -107,11 +107,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/02e860c7-f817-4502-ac45-d3fb56dcaf8e/GPs-included-in-proposed-new-medical-fee-laws.aspx",
         "ai_summary": [
-          "New legislation includes general practice in medical fee laws",
-          "The laws aim to ensure fees are shared on Medical Costs Finder",
-          "GPs are specifically referenced in the proposed laws",
-          "The laws are designed to improve transparency in medical fees",
-          "The proposed laws include several references to general practice"
+          "New legislation includes general practice",
+          "Medical Costs Finder will share fees",
+          "GPs are included in the proposed laws",
+          "Legislation aims to ensure fee transparency",
+          "Medical fees will be shared by default"
         ]
       },
       {
@@ -134,24 +134,132 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/3c8fb2d1-fe60-4551-ad6e-d726e290b777/The-AI-era-and-why-trusted-medicines-information-is-critical.aspx",
         "ai_summary": [
-          "The AI era requires trusted medicines information",
-          "Patients and digital agents generate answers online",
-          "Trusted information is necessary for accurate answers",
-          "The need for trusted information is critical in the AI era",
-          "AMH is an authoritative source for GPs"
+          "AI is generating answers for patients",
+          "Trusted medicines information is necessary",
+          "AMH is an authoritative source for GPs",
+          "Patients need reliable information",
+          "Digital agents are providing answers"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-02-17T07:50:52.191Z",
+    "updated_at": "2026-02-17T11:39:26.217Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Tue, 17 Feb 2026 11:32:08 GMT",
+        "title": "Boy first in UK to have pioneering leg-lengthening surgery",
+        "neutral_headline": "Boy Has Pioneering Leg Lengthening Surgery",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cgqg92ll8vqo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 17 Feb 2026 11:32:08 GMT",
+            "title": "Boy first in UK to have pioneering leg-lengthening surgery",
+            "standfirst": "Alfie Phillips, 9, had the pioneering treatment at Liverpool's Alder Hey Children's Hospital.",
+            "content": "Alfie Phillips, 9, had the pioneering treatment at Liverpool's Alder Hey Children's Hospital.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58b6/live/bdcaf3c0-0b5b-11f1-b472-df9c1c12cffb.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58b6/live/bdcaf3c0-0b5b-11f1-b472-df9c1c12cffb.jpg",
+        "ai_summary": [
+          "Alfie Phillips had the surgery",
+          "The surgery was at Alder Hey Hospital",
+          "Alfie is 9 years old",
+          "The surgery is a pioneering treatment",
+          "The treatment aims to lengthen legs"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Tue, 17 Feb 2026 11:16:24 GMT",
+        "title": "'The kindness of people got me to the finish line'",
+        "neutral_headline": "Farmer Walks To Raise Mental Health Awareness",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/videos/c5yv9pvypwlo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 17 Feb 2026 11:16:24 GMT",
+            "title": "'The kindness of people got me to the finish line'",
+            "standfirst": "Farmer Sam Stables walks from Herefordshire to London to raise awareness of mental health.",
+            "content": "Farmer Sam Stables walks from Herefordshire to London to raise awareness of mental health.",
+            "feed_position": 112,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0296/live/ab169f90-0bec-11f1-b7e1-afb6d0884c18.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0296/live/ab169f90-0bec-11f1-b7e1-afb6d0884c18.jpg",
+        "ai_summary": [
+          "Sam Stables walked from Herefordshire",
+          "The walk was to raise awareness",
+          "Sam walked to London",
+          "The walk was for mental health awareness",
+          "Sam is a farmer"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Tue, 17 Feb 2026 10:00:00 GMT",
+        "title": "Inside Health",
+        "neutral_headline": "Exploring Side Effects Of Weight Loss Drugs",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/sounds/play/m002rdq6?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 17 Feb 2026 10:00:00 GMT",
+            "title": "Inside Health",
+            "standfirst": "James Gallagher is joined by a panel to explore the side effects of weight loss drugs.",
+            "content": "James Gallagher is joined by a panel to explore the side effects of weight loss drugs.",
+            "feed_position": 108,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg",
+        "ai_summary": [
+          "James Gallagher hosted a panel",
+          "The panel discussed weight loss drugs",
+          "Side effects were explored",
+          "The discussion was on Inside Health",
+          "Weight loss drugs have side effects"
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Tue, 17 Feb 2026 05:28:41 GMT",
+        "title": "What have families told the Lampard Inquiry into mental health deaths?",
+        "neutral_headline": "Families Share Stories At Lampard Inquiry",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c39w1gm0g3eo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 17 Feb 2026 05:28:41 GMT",
+            "title": "What have families told the Lampard Inquiry into mental health deaths?",
+            "standfirst": "The latest stage of the public inquiry into 2,000 deaths in Essex hears more from bereaved families.",
+            "content": "The latest stage of the public inquiry into 2,000 deaths in Essex hears more from bereaved families.",
+            "feed_position": 3,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c7/live/aa50ff80-0b45-11f1-9972-d3f265c101c6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c7/live/aa50ff80-0b45-11f1-9972-d3f265c101c6.jpg",
+        "ai_summary": [
+          "The inquiry is into mental health deaths",
+          "Families shared their stories",
+          "The inquiry is a public one",
+          "The stories were about mental health",
+          "The inquiry is ongoing"
+        ]
+      },
+      {
+        "id": "cluster_4",
+        "coverage": 1,
         "updated_at": "Tue, 17 Feb 2026 05:00:47 GMT",
         "title": "Should we really all be taking magnesium supplements? – podcast",
-        "neutral_headline": "Magnesium Supplements Health Benefits Examined",
+        "neutral_headline": "Magnesium Supplements Health Effects Examined",
         "items": [
           {
             "source": "Guardian Health",
@@ -164,19 +272,46 @@
           }
         ],
         "ai_summary": [
-          "Magnesium supplements have various claimed health benefits",
-          "Testimonials about magnesium supplements are abundant online",
-          "The science behind magnesium supplements is examined",
-          "Magnesium is essential for the human body",
-          "The best approach to getting enough magnesium is discussed"
+          "Magnesium supplements have testimonials",
+          "The claims are about health effects",
+          "The science behind the claims",
+          "Magnesium is essential for the body",
+          "The best approach to getting magnesium"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_5",
+        "coverage": 1,
+        "updated_at": "Tue, 17 Feb 2026 01:59:27 GMT",
+        "title": "Can you really depuff your face? The truth about three common treatments",
+        "neutral_headline": "Face Depuffing Treatments Examined",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/ce8wd6pzl72o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 17 Feb 2026 01:59:27 GMT",
+            "title": "Can you really depuff your face? The truth about three common treatments",
+            "standfirst": "We look at three viral hacks to unpick fact from fiction - the effects are often at best, temporary, say experts.",
+            "content": "We look at three viral hacks to unpick fact from fiction - the effects are often at best, temporary, say experts.",
+            "feed_position": 5,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edb0/live/dbbae6b0-07ff-11f1-8981-b35bbe94674f.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edb0/live/dbbae6b0-07ff-11f1-8981-b35bbe94674f.jpg",
+        "ai_summary": [
+          "Three common treatments were examined",
+          "The treatments are viral hacks",
+          "Experts say the effects are temporary",
+          "The treatments aim to depuff the face",
+          "The effects are often not permanent"
+        ]
+      },
+      {
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Tue, 17 Feb 2026 01:43:37 GMT",
         "title": "Bailiffs used to pursue NHS staff over pay errors",
-        "neutral_headline": "NHS Staff Pursued Over Pay Errors",
+        "neutral_headline": "Bailiffs Pursue NHS Staff Over Pay Errors",
         "items": [
           {
             "source": "BBC Health",
@@ -185,25 +320,25 @@
             "title": "Bailiffs used to pursue NHS staff over pay errors",
             "standfirst": "Thousands of NHS workers were pursued by debt collectors after salary overpayments, the BBC finds.",
             "content": "Thousands of NHS workers were pursued by debt collectors after salary overpayments, the BBC finds.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/f5e78f30-0a79-11f1-b5e2-dd58fc65f0f6.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/f5e78f30-0a79-11f1-b5e2-dd58fc65f0f6.jpg",
         "ai_summary": [
-          "NHS staff were pursued by debt collectors over pay errors",
-          "Thousands of NHS workers were affected by salary overpayments",
-          "The BBC found that debt collectors were used to pursue staff",
-          "The NHS staff were pursued for money they did not owe",
-          "The use of debt collectors is a concerning issue"
+          "NHS staff were pursued by debt collectors",
+          "The pursuit was over salary overpayments",
+          "Thousands of staff were affected",
+          "The issue was due to pay errors",
+          "The NHS is taking action to resolve"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 21:00:00 GMT",
         "title": "BBC Inside Science",
-        "neutral_headline": "Building A City On The Moon",
+        "neutral_headline": "Scientists Explore Building City On Moon",
         "items": [
           {
             "source": "BBC Science",
@@ -218,19 +353,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
         "ai_summary": [
-          "Building a city on the moon is a complex task",
-          "The BBC explores what it would take to build a lunar city",
-          "The challenges of building on the moon are significant",
-          "The moon's environment is harsh and unforgiving",
-          "The idea of a lunar city is an intriguing concept"
+          "Moon city would require significant resources",
+          "Scientists discuss feasibility of lunar construction",
+          "Building materials would need to be transported",
+          "Life support systems would be essential",
+          "Radiation protection would be necessary"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 19:54:38 GMT",
         "title": "NHS ’clearly failing’ to ensure children get measles vaccine, experts warn",
-        "neutral_headline": "NHS Failing To Ensure Children Get Measles Vaccine",
+        "neutral_headline": "NHS clearly failing to ensure children get measles vaccine experts warn",
         "items": [
           {
             "source": "Guardian Health",
@@ -243,19 +378,19 @@
           }
         ],
         "ai_summary": [
-          "The NHS is failing to ensure children get the MMR vaccine",
-          "Vaccination rates in some areas are low",
-          "Experts warn that the NHS system needs an overhaul",
-          "Children are at risk of measles due to low vaccination rates",
-          "The NHS is struggling to deliver vaccines effectively"
+          "Measles vaccination rates are falling in England",
+          "Experts call for reform of vaccination system",
+          "Children are at risk of measles due to low uptake",
+          "Vaccination rates compared to Afghanistan and Malawi",
+          "MPs and health experts warn of urgent overhaul"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 19:54:12 GMT",
         "title": "Fertility patients win high court battle to save embryos after consent error",
-        "neutral_headline": "Fertility Patients Win High Court Battle",
+        "neutral_headline": "Fertility patients win high court battle to save embryos",
         "items": [
           {
             "source": "Guardian Health",
@@ -268,19 +403,19 @@
           }
         ],
         "ai_summary": [
-          "Fertility patients won a high court battle to save embryos",
-          "The patients did not renew consent to store embryos in time",
-          "The judge ruled that the embryos could be kept",
-          "The patients should not lose chance of parenthood due to time",
-          "The court battle was a significant victory for the patients"
+          "Fertility patients won a high court battle",
+          "Embryos and eggs were saved from destruction",
+          "Errors led to missed 10-year deadline",
+          "Judge ruled in favor of the patients",
+          "Embryos can now be kept for future use"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 18:13:40 GMT",
         "title": "‘A lot of vaccine hesitancy’: how north London council is responding to measles outbreak",
-        "neutral_headline": "North London Council Responds To Measles Outbreak",
+        "neutral_headline": "North London council responds to measles outbreak",
         "items": [
           {
             "source": "Guardian Health",
@@ -293,19 +428,19 @@
           }
         ],
         "ai_summary": [
-          "A measles outbreak is occurring in north London",
-          "The council is responding to the outbreak",
-          "Health professionals are working to reach unvaccinated children",
-          "The outbreak is a significant concern for the community",
-          "The council is taking steps to address vaccine hesitancy"
+          "Measles outbreak affects over 60 children",
+          "Low vaccine uptake is a major concern",
+          "Health professionals work with communities",
+          "Innovative ways to reach parents are used",
+          "Vaccine hesitancy is a significant challenge"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 17:26:49 GMT",
         "title": "Ancient bone may prove legendary war elephant crossing of Alps",
-        "neutral_headline": "Ancient Bone May Prove War Elephant Crossing",
+        "neutral_headline": "Ancient bone may prove war elephant crossing of Alps",
         "items": [
           {
             "source": "BBC Science",
@@ -320,19 +455,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e64c/live/1cbfed40-0b52-11f1-b472-df9c1c12cffb.jpg",
         "ai_summary": [
-          "An ancient bone may prove that war elephants crossed the Alps",
-          "The bone could be evidence of General Hannibal's war tactics",
-          "The discovery is a significant find for historians",
-          "The bone is believed to be from an elephant",
-          "The find could prove a legendary historical event"
+          "Ancient bone could be from war elephant",
+          "Elephant may have been used by General Hannibal",
+          "Bone could be first hard evidence of elephant use",
+          "Discovery could shed light on historical event",
+          "Archaeologists study the ancient bone"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 16:00:29 GMT",
         "title": "Single dose of potent psychedelic drug could help treat depression, trial shows",
-        "neutral_headline": "Psychedelic Drug Shows Promise For Depression",
+        "neutral_headline": "Single dose of psychedelic drug could help treat depression",
         "items": [
           {
             "source": "Guardian Health",
@@ -345,19 +480,19 @@
           }
         ],
         "ai_summary": [
-          "A psychedelic drug shows promise for treating depression",
-          "The drug is used in tandem with psychotherapy",
-          "The treatment has a significant effect on depressive symptoms",
-          "The drug is called dimethyltryptamine",
-          "The treatment has a lasting impact on patients"
+          "Psychedelic drug DMT shows promise in trial",
+          "DMT combined with therapy has significant effect",
+          "Depressive symptoms reduced in patients",
+          "Benefits of treatment last for several months",
+          "Researchers study the effects of DMT"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 14:24:53 GMT",
         "title": "Measles: how does it spread and how can I protect my child?",
-        "neutral_headline": "Measles Outbreak Highlights Need For Vaccination",
+        "neutral_headline": "Measles outbreak spreads among unvaccinated children",
         "items": [
           {
             "source": "Guardian Health",
@@ -370,44 +505,44 @@
           }
         ],
         "ai_summary": [
-          "A measles outbreak is occurring in London",
-          "The outbreak highlights the need for vaccination",
-          "Unvaccinated children are at risk of measles",
-          "The UK has lost its measles-free status",
-          "Experts are calling for urgent action to boost vaccination rates"
+          "Measles outbreak affects unvaccinated children",
+          "Infections are increasing globally",
+          "UK lost measles-free status last month",
+          "Experts call for urgent vaccination boost",
+          "Governments must act to stop measles spread"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 14:00:29 GMT",
-        "title": "I was told my inability to conceive a second child was a ‘mystery’. In fact, I was simply ignored",
-        "neutral_headline": "Women's Pain Often Minimized In Fertility Medicine",
+        "title": "I was told my inability to conceive a second child was a ‘mystery’. In fact, I was simply ignored | Katie Found",
+        "neutral_headline": "Women's pain is routinely minimized in fertility medicine",
         "items": [
           {
             "source": "Guardian Health",
             "url": "https://www.theguardian.com/commentisfree/2026/feb/17/unexplained-infertility-endometriosis-womens-pain",
             "published_at": "Mon, 16 Feb 2026 14:00:29 GMT",
-            "title": "I was told my inability to conceive a second child was a ‘mystery’. In fact, I was simply ignored",
+            "title": "I was told my inability to conceive a second child was a ‘mystery’. In fact, I was simply ignored | Katie Found",
             "standfirst": "Women’s pain is routinely minimised, normalised, or psychologised. In fertility medicine, this dismissal is compounded by an industry structured around efficiency rather than care“The female body is such a mystery.”The fertility specialist said it lightly, almost kindly, from behind his desk. I was there because my partner and I had been trying for a second child without success. At the time, our son was two. We had conceived him naturally and relatively quickly, so after months of negative pregnancy tests I knew that something was off. Continue reading...",
             "content": "Women’s pain is routinely minimised, normalised, or psychologised. In fertility medicine, this dismissal is compounded by an industry structured around efficiency rather than care“The female body is such a mystery.”The fertility specialist said it lightly, almost kindly, from behind his desk. I was there because my partner and I had been trying for a second child without success. At the time, our son was two. We had conceived him naturally and relatively quickly, so after months of negative pregnancy tests I knew that something was off. Continue reading...",
             "feed_position": 6
           }
         ],
         "ai_summary": [
-          "Women's pain is routinely minimized in fertility medicine",
-          "Fertility specialist told patient her body was a mystery",
-          "Patient experienced difficulty conceiving a second child",
-          "Industry structured around efficiency rather than care",
-          "Dismissal of women's pain is a common issue"
+          "Women's pain is often dismissed in fertility medicine",
+          "Fertility issues can be complex and varied",
+          "Women's experiences are not always taken seriously",
+          "Fertility treatment can be structured around efficiency",
+          "Women's care and support are essential"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 13:38:50 GMT",
         "title": "Intermittent fasting may make little difference to weight loss, review finds",
-        "neutral_headline": "Intermittent Fasting Has Little Impact On Weight Loss",
+        "neutral_headline": "Intermittent fasting may have little impact on weight loss",
         "items": [
           {
             "source": "BBC Health",
@@ -416,25 +551,25 @@
             "title": "Intermittent fasting may make little difference to weight loss, review finds",
             "standfirst": "But researchers say it could still improve someone's overall health through helpful changes to some body functions.",
             "content": "But researchers say it could still improve someone's overall health through helpful changes to some body functions.",
-            "feed_position": 2,
+            "feed_position": 4,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d3d/live/9a7b75a0-0b44-11f1-9972-d3f265c101c6.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d3d/live/9a7b75a0-0b44-11f1-9972-d3f265c101c6.jpg",
         "ai_summary": [
-          "Intermittent fasting may not aid in weight loss",
-          "Review finds limited difference in weight loss results",
-          "Researchers say it could improve overall health",
-          "Changes to body functions may be beneficial",
-          "Weight loss results are similar to traditional diets"
+          "Intermittent fasting may not aid weight loss",
+          "Fasting could improve overall health",
+          "Body functions may be positively affected",
+          "Researchers study the effects of fasting",
+          "Weight loss results are not significant"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 12:00:25 GMT",
         "title": "Fertility treatment given special emphasis as Trump Rx site goes live",
-        "neutral_headline": "Fertility Treatment Given Special Emphasis As Trump Rx Site Goes Live",
+        "neutral_headline": "Fertility treatment given special emphasis as Trump Rx site goes live",
         "items": [
           {
             "source": "Guardian Health",
@@ -447,19 +582,19 @@
           }
         ],
         "ai_summary": [
-          "TrumpRx offers discounts on IVF procedures",
+          "TrumpRx offers discounts on fertility treatments",
+          "IVF procedures are included in the program",
           "Experts say savings are a fraction of total cost",
-          "Program aims to fulfill campaign promise",
-          "IVF treatment is a key focus of the program",
-          "Discounts available for limited medications"
+          "TrumpRx aims to fulfill campaign promise",
+          "Fertility treatment accessibility is a concern"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 11:55:48 GMT",
         "title": "Measles outbreak could see unvaccinated pupils excluded from schools in north London",
-        "neutral_headline": "Measles Outbreak May Lead To School Exclusions",
+        "neutral_headline": "Measles outbreak could lead to school exclusions",
         "items": [
           {
             "source": "BBC Health",
@@ -468,25 +603,25 @@
             "title": "Measles outbreak could see unvaccinated pupils excluded from schools in north London",
             "standfirst": "Children identified as close contacts of people with the disease could be excluded for three weeks",
             "content": "Children identified as close contacts of people with the disease could be excluded for three weeks",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd95/live/62d51520-0b35-11f1-b7e1-afb6d0884c18.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd95/live/62d51520-0b35-11f1-b7e1-afb6d0884c18.jpg",
         "ai_summary": [
-          "Measles outbreak could lead to school exclusions",
-          "Unvaccinated pupils may be excluded for three weeks",
-          "Children identified as close contacts at risk",
-          "Exclusion period aimed at preventing spread",
-          "Vaccination is key to preventing measles"
+          "Unvaccinated pupils may be excluded from school",
+          "Measles outbreak is a significant concern",
+          "Children may be excluded for three weeks",
+          "Schools take measures to prevent measles spread",
+          "Vaccination is essential for disease prevention"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 09:50:58 GMT",
         "title": "Trump eyes Venezuela visit – but obstacles to his oil plan remain",
-        "neutral_headline": "Trump Eyes Venezuela Visit For Oil Extraction",
+        "neutral_headline": "Trump eyes Venezuela visit but obstacles remain",
         "items": [
           {
             "source": "BBC Science",
@@ -501,19 +636,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d6/live/398af810-065d-11f1-ad0b-39fef3bf1fc8.jpg",
         "ai_summary": [
-          "Trump plans to visit Venezuela for oil extraction",
-          "American energy firms are reluctant to participate",
-          "Obstacles to oil plan remain a challenge",
-          "Venezuela has significant oil reserves",
-          "Extraction plans are still in development"
+          "Trump considers visiting Venezuela",
+          "Oil extraction plans face significant obstacles",
+          "American energy firms are reluctant to invest",
+          "Venezuela's oil reserves are a major draw",
+          "Trump's plans may not come to fruition"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 08:05:27 GMT",
         "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
-        "neutral_headline": "Dart Frog Toxin Allegedly Used To Kill Alexei Navalny",
+        "neutral_headline": "What is the dart frog toxin allegedly used to kill Alexei Navalny",
         "items": [
           {
             "source": "BBC Science",
@@ -528,146 +663,17 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc2/live/a4c47040-0a98-11f1-9640-7f85e4d0c189.jpg",
         "ai_summary": [
-          "Epibatidine toxin found in dart frogs or manufactured",
-          "Toxin can be deadly in small quantities",
-          "Alleged use in Alexei Navalny's death",
-          "Toxin is highly potent and rare",
-          "Investigation into Navalny's death ongoing"
-        ]
-      },
-      {
-        "id": "cluster_15",
-        "coverage": 1,
-        "updated_at": "Mon, 16 Feb 2026 07:30:13 GMT",
-        "title": "Google puts users at risk by downplaying health disclaimers under AI Overviews",
-        "neutral_headline": "Google Fails To Include Safety Warnings For AI Medical Advice",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/technology/2026/feb/16/google-puts-users-at-risk-downplaying-disclaimers-ai-overviews",
-            "published_at": "Mon, 16 Feb 2026 07:30:13 GMT",
-            "title": "Google puts users at risk by downplaying health disclaimers under AI Overviews",
-            "standfirst": "Exclusive: Google fails to include safety warnings when users are first presented with AI-generated medical adviceGoogle is putting people at risk of harm by downplaying safety warnings that its AI-generated medical advice may be wrong.When answering queries about sensitive topics such as health, the company says its AI Overviews, which appear above search results, prompt users to seek professional help, rather than relying solely on its summaries. “AI Overviews will inform people when it’s important to seek out expert advice or to verify the information presented,” Google has said. Continue reading...",
-            "content": "Exclusive: Google fails to include safety warnings when users are first presented with AI-generated medical adviceGoogle is putting people at risk of harm by downplaying safety warnings that its AI-generated medical advice may be wrong.When answering queries about sensitive topics such as health, the company says its AI Overviews, which appear above search results, prompt users to seek professional help, rather than relying solely on its summaries. “AI Overviews will inform people when it’s important to seek out expert advice or to verify the information presented,” Google has said. Continue reading...",
-            "feed_position": 8
-          }
-        ],
-        "ai_summary": [
-          "Google downplays safety warnings for AI advice",
-          "AI Overviews lack clear disclaimers",
-          "Users may rely solely on AI summaries",
-          "Google says AI Overviews prompt users to seek help",
-          "Safety warnings are essential for user protection"
-        ]
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Mon, 16 Feb 2026 06:04:05 GMT",
-        "title": "Women calling for greater support with menopause",
-        "neutral_headline": "Women Call For Greater Support During Menopause",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/cz0gmz34gjjo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 16 Feb 2026 06:04:05 GMT",
-            "title": "Women calling for greater support with menopause",
-            "standfirst": "Women who experienced challenges during the menopause set up businesses to help others.",
-            "content": "Women who experienced challenges during the menopause set up businesses to help others.",
-            "feed_position": 99,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/add0/live/d99b7df0-0853-11f1-ba49-bb79b430dd38.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/add0/live/d99b7df0-0853-11f1-ba49-bb79b430dd38.jpg",
-        "ai_summary": [
-          "Women experience challenges during menopause",
-          "Support and resources are often lacking",
-          "Women start businesses to help others",
-          "Menopause can have significant health impacts",
-          "Greater support and awareness are needed"
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Mon, 16 Feb 2026 05:57:00 GMT",
-        "title": "Married couple share same cancer diagnosis",
-        "neutral_headline": "Married Couple Share Same Cancer Diagnosis",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/cvg198pe5w0o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 16 Feb 2026 05:57:00 GMT",
-            "title": "Married couple share same cancer diagnosis",
-            "standfirst": "An East Kent Hospital surgeon says it was the \"first time\" he had encountered such a case.",
-            "content": "An East Kent Hospital surgeon says it was the \"first time\" he had encountered such a case.",
-            "feed_position": 4,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2872/live/5408b8e0-08fa-11f1-8b6c-9b488ac81030.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2872/live/5408b8e0-08fa-11f1-8b6c-9b488ac81030.jpg",
-        "ai_summary": [
-          "Married couple receive same cancer diagnosis",
-          "Rare occurrence reported by East Kent Hospital",
-          "Surgeon says it is a first-time encounter",
-          "Couple's diagnosis is a unique case",
-          "Cancer treatment and support are crucial"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Mon, 16 Feb 2026 05:00:41 GMT",
-        "title": "‘It’s the most urgent public health issue’: Dr Rangan Chatterjee on screen time, mental health – and banning social media until 18",
-        "neutral_headline": "Dr Rangan Chatterjee On Screen Time And Mental Health",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/feb/16/dr-rangan-chatterjee-interview-screen-time-mental-health-banning-social-media-18-podcaster",
-            "published_at": "Mon, 16 Feb 2026 05:00:41 GMT",
-            "title": "‘It’s the most urgent public health issue’: Dr Rangan Chatterjee on screen time, mental health – and banning social media until 18",
-            "standfirst": "The hit podcaster, author and former GP says a failure to regulate big tech is ‘failing a generation of children’. He explains why he quit the NHS and why he wants a ban on screen-based homeworkA 16-year-old boy and his mum went to see their GP, Dr Rangan Chatterjee, on a busy Monday afternoon. That weekend, the boy had been at A&E after an attempt at self-harm, and in his notes the hospital doctor had recommended the teenager be prescribed antidepressants. “I thought: ‘Wait a minute, I can’t just start a 16-year-old on antidepressants,’” says Chatterjee. He wanted to understand what was going on in the boy’s life.They talked for a while, and Chatterjee asked him about his screen use, which turned out to be high. “I said: ‘I think your screen use, particularly in the evenings, might be impacting your mental wellbeing.’” Chatterjee helped the boy and his mother set up a routine where digital devices and social media went off an hour before bed, gradually extending the screen-free period over six weeks. After two months, he says the boy stopped needing to see him. A few months after that, his mother wrote Chatterjee a note to say her son had been transformed – he was engaging with his friends and trying new activities. He was, she said, like a different boy from the one who had ended up in hospital. Continue reading...",
-            "content": "The hit podcaster, author and former GP says a failure to regulate big tech is ‘failing a generation of children’. He explains why he quit the NHS and why he wants a ban on screen-based homeworkA 16-year-old boy and his mum went to see their GP, Dr Rangan Chatterjee, on a busy Monday afternoon. That weekend, the boy had been at A&E after an attempt at self-harm, and in his notes the hospital doctor had recommended the teenager be prescribed antidepressants. “I thought: ‘Wait a minute, I can’t just start a 16-year-old on antidepressants,’” says Chatterjee. He wanted to understand what was going on in the boy’s life.They talked for a while, and Chatterjee asked him about his screen use, which turned out to be high. “I said: ‘I think your screen use, particularly in the evenings, might be impacting your mental wellbeing.’” Chatterjee helped the boy and his mother set up a routine where digital devices and social media went off an hour before bed, gradually extending the screen-free period over six weeks. After two months, he says the boy stopped needing to see him. A few months after that, his mother wrote Chatterjee a note to say her son had been transformed – he was engaging with his friends and trying new activities. He was, she said, like a different boy from the one who had ended up in hospital. Continue reading...",
-            "feed_position": 9
-          }
-        ],
-        "ai_summary": [
-          "Dr Rangan Chatterjee discusses screen time and mental health",
-          "Excessive screen use can harm mental wellbeing",
-          "Chatterjee recommends screen-free periods",
-          "Screen time can impact children's mental health",
-          "Regulation of big tech is necessary for protection"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Mon, 16 Feb 2026 01:00:36 GMT",
-        "title": "Intermittent fasting no better than typical weight loss diets, study finds",
-        "neutral_headline": "Intermittent Fasting No Better Than Typical Diets",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/science/2026/feb/16/intermittent-fasting-no-better-than-typical-weight-loss-diet-study-finds",
-            "published_at": "Mon, 16 Feb 2026 01:00:36 GMT",
-            "title": "Intermittent fasting no better than typical weight loss diets, study finds",
-            "standfirst": "Researchers say limited eating approaches such as 5:2 diet not a ‘miracle solution’ amid surge in their popularityIntermittent fasting is no better for shedding the pounds than conventional diets and is barely more effective than doing nothing, according to a major review of the scientific evidence.Researchers analysed data from 22 global studies and found people who are overweight or living with obesity lost as much weight by following traditional dietary advice as when they tried fasting regimes such as the 5:2 diet popularised by the late Michael Mosley. Continue reading...",
-            "content": "Researchers say limited eating approaches such as 5:2 diet not a ‘miracle solution’ amid surge in their popularityIntermittent fasting is no better for shedding the pounds than conventional diets and is barely more effective than doing nothing, according to a major review of the scientific evidence.Researchers analysed data from 22 global studies and found people who are overweight or living with obesity lost as much weight by following traditional dietary advice as when they tried fasting regimes such as the 5:2 diet popularised by the late Michael Mosley. Continue reading...",
-            "feed_position": 10
-          }
-        ],
-        "ai_summary": [
-          "Intermittent fasting is not a miracle solution",
-          "Study finds limited weight loss benefits",
-          "Traditional diets are equally effective",
-          "Researchers analyzed data from 22 global studies",
-          "Intermittent fasting is not more effective than doing nothing"
+          "Dart frog toxin is a powerful substance",
+          "Epibatidine can be found in wild frogs",
+          "Toxin can also be manufactured in a lab",
+          "Alexei Navalny was allegedly poisoned with toxin",
+          "Investigation into the poisoning is ongoing"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-17T07:50:52.522Z",
+    "updated_at": "2026-02-17T11:39:28.744Z",
     "clusters": []
   }
 }
