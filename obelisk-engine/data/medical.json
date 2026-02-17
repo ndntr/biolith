@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-02-16T23:29:32.623Z",
+    "updated_at": "2026-02-17T04:51:56.960Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-16T23:29:37.019Z",
+    "updated_at": "2026-02-17T04:52:05.272Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -27,10 +27,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/02e860c7-f817-4502-ac45-d3fb56dcaf8e/GPs-included-in-proposed-new-medical-fee-laws.aspx",
         "ai_summary": [
           "New legislation includes general practice in fee laws",
-          "The laws aim to ensure fees are shared on Medical Costs Finder",
-          "General practice is specifically referenced in the laws",
-          "The legislation has implications for general practitioners",
-          "The laws aim to increase transparency in medical fees"
+          "The laws aim to ensure fee transparency",
+          "GPs are affected by the proposed legislation",
+          "The laws will impact the way fees are shared",
+          "The legislation is designed to increase transparency"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/3c8fb2d1-fe60-4551-ad6e-d726e290b777/The-AI-era-and-why-trusted-medicines-information-is-critical.aspx",
         "ai_summary": [
-          "Trusted medicines information is critical in the AI era",
-          "Patients and digital agents generate answers and questions",
-          "Authoritative sources like AMH are essential for GPs",
-          "The need for trusted information is highlighted by AI",
-          "GPs rely on trusted sources for accurate information"
+          "Trusted medicines information is crucial in the AI era",
+          "Patients and digital agents are generating answers",
+          "The need for authoritative sources is increasing",
+          "AMH is an important source for GPs",
+          "Accurate information is essential for patient care"
         ]
       },
       {
@@ -81,23 +81,50 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/c16f42f9-d1fe-4cc7-bb6f-362b734d7b4d/Pertussis-case-surge-a-very-big-concern.aspx",
         "ai_summary": [
           "Pertussis cases have reached a 35-year high",
-          "GPs are key to helping patients understand the disease",
-          "Patients need to know what is relevant and real",
-          "Pertussis is a highly contagious respiratory illness",
-          "Vaccination is crucial to prevent the disease"
+          "GPs are key to helping patients understand the issue",
+          "The surge is a major concern for public health",
+          "GPs are on the front line of addressing the issue",
+          "Patients need accurate information about pertussis"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-02-16T23:29:34.952Z",
+    "updated_at": "2026-02-17T04:52:03.479Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Tue, 17 Feb 2026 01:43:37 GMT",
+        "title": "Bailiffs used to pursue NHS staff over pay errors",
+        "neutral_headline": "NHS Staff Pursued Over Pay Errors",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cvg59579q16o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 17 Feb 2026 01:43:37 GMT",
+            "title": "Bailiffs used to pursue NHS staff over pay errors",
+            "standfirst": "Thousands of NHS workers were pursued by debt collectors after salary overpayments, the BBC finds.",
+            "content": "Thousands of NHS workers were pursued by debt collectors after salary overpayments, the BBC finds.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/f5e78f30-0a79-11f1-b5e2-dd58fc65f0f6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/f5e78f30-0a79-11f1-b5e2-dd58fc65f0f6.jpg",
+        "ai_summary": [
+          "Thousands of NHS workers pursued by debt collectors",
+          "Salary overpayments led to debt collection actions",
+          "NHS staff affected by pay errors face financial hardship",
+          "Debt collectors used to recover overpaid wages",
+          "NHS pay error issue sparks concern over staff welfare"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 21:00:00 GMT",
         "title": "BBC Inside Science",
-        "neutral_headline": "Building a city on the moon is a complex task",
+        "neutral_headline": "Building City On The Moon",
         "items": [
           {
             "source": "BBC Science",
@@ -112,19 +139,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
         "ai_summary": [
-          "Building a city on the moon requires significant resources",
-          "The city would need a reliable source of energy",
-          "A moon city would require advanced life support systems",
-          "Radiation protection is a major concern",
-          "Establishing a human settlement on the moon is a long-term goal"
+          "BBC Inside Science explores moon city concept",
+          "Experts discuss challenges of building on the moon",
+          "Moon city would require significant resources",
+          "Scientists consider lunar habitat feasibility",
+          "Moon city idea sparks interest in space exploration"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 19:54:38 GMT",
         "title": "NHS ’clearly failing’ to ensure children get measles vaccine, experts warn",
-        "neutral_headline": "NHS failing to ensure children get measles vaccine",
+        "neutral_headline": "NHS Failing To Ensure Measles Vaccination",
         "items": [
           {
             "source": "Guardian Health",
@@ -137,19 +164,19 @@
           }
         ],
         "ai_summary": [
-          "Measles vaccination rates are low in some parts of England",
-          "The NHS is failing to ensure children get the MMR vaccine",
-          "Vaccination rates are comparable to those in Afghanistan",
-          "Experts are calling for reform of the vaccination system",
-          "Children are at risk of measles due to low vaccination rates"
+          "NHS criticized for low measles vaccination rates",
+          "Experts warn of measles outbreak risks",
+          "Vaccination rates in England compared to Afghanistan",
+          "Measles vaccine delivery system needs reform",
+          "NHS urged to improve vaccination rates"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 19:54:12 GMT",
         "title": "Fertility patients win high court battle to save embryos after consent error",
-        "neutral_headline": "Fertility patients win high court battle to save embryos",
+        "neutral_headline": "Fertility Patients Win Embryo Storage Case",
         "items": [
           {
             "source": "Guardian Health",
@@ -162,19 +189,19 @@
           }
         ],
         "ai_summary": [
-          "Fertility patients have won a high court battle",
-          "The court ruled that embryos could be saved",
-          "Errors led to patients not renewing consent",
-          "The judge ruled in favor of the fertility patients",
-          "The embryos can now be kept for future use"
+          "Fertility patients win high court battle",
+          "Embryos and eggs can be stored beyond 10 years",
+          "Judge rules against destruction of embryos",
+          "Fertility patients relieved by court decision",
+          "Embryo storage rules may be revised"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 18:13:40 GMT",
         "title": "‘A lot of vaccine hesitancy’: how north London council is responding to measles outbreak",
-        "neutral_headline": "North London council responds to measles outbreak",
+        "neutral_headline": "North London Measles Outbreak Response",
         "items": [
           {
             "source": "Guardian Health",
@@ -187,19 +214,19 @@
           }
         ],
         "ai_summary": [
-          "A measles outbreak is occurring in north London",
-          "The council is responding to the outbreak",
-          "Health professionals are working to reach unvaccinated children",
-          "Vaccine hesitancy is a major concern",
-          "The council is working to increase vaccination rates"
+          "North London council responds to measles outbreak",
+          "Health professionals reach out to unvaccinated parents",
+          "Measles outbreak affects over 60 children",
+          "Vaccine hesitancy and misinformation cited",
+          "Council works to improve vaccination rates"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 17:26:49 GMT",
         "title": "Ancient bone may prove legendary war elephant crossing of Alps",
-        "neutral_headline": "Ancient bone may prove war elephant crossing of Alps",
+        "neutral_headline": "Ancient Bone May Prove War Elephant Use",
         "items": [
           {
             "source": "BBC Science",
@@ -214,19 +241,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e64c/live/1cbfed40-0b52-11f1-b472-df9c1c12cffb.jpg",
         "ai_summary": [
-          "An ancient bone may be evidence of war elephants",
-          "The bone could prove that elephants crossed the Alps",
-          "The discovery is significant for historical research",
-          "The bone is being studied for further analysis",
-          "The finding could shed new light on ancient history"
+          "Ancient bone discovery may confirm war elephant use",
+          "General Hannibal's war tactics under scrutiny",
+          "Elephant remains found in Alps region",
+          "Historians excited by potential discovery",
+          "Ancient bone may rewrite history books"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 16:00:29 GMT",
         "title": "Single dose of potent psychedelic drug could help treat depression, trial shows",
-        "neutral_headline": "Psychedelic drug may help treat depression",
+        "neutral_headline": "Psychedelic Drug Shows Promise For Depression",
         "items": [
           {
             "source": "Guardian Health",
@@ -239,19 +266,19 @@
           }
         ],
         "ai_summary": [
-          "A psychedelic drug is being studied for depression",
-          "The drug is being used in combination with therapy",
-          "The treatment has shown promising results",
-          "Patients have seen a reduction in depressive symptoms",
-          "The treatment could be a new option for depression"
+          "DMT drug shows rapid and lasting effects",
+          "Psychedelic-assisted therapy used in trial",
+          "Depressive symptoms reduced in patients",
+          "Researchers optimistic about treatment potential",
+          "Further studies needed to confirm results"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 14:24:53 GMT",
         "title": "Measles: how does it spread and how can I protect my child?",
-        "neutral_headline": "Measles outbreak highlights need for vaccination",
+        "neutral_headline": "Measles Outbreak Sparks Vaccination Concerns",
         "items": [
           {
             "source": "Guardian Health",
@@ -264,19 +291,19 @@
           }
         ],
         "ai_summary": [
-          "A measles outbreak is occurring in London",
-          "The outbreak is affecting unvaccinated children",
-          "Vaccination is crucial to prevent the disease",
-          "The UK has lost its measles-free status",
-          "Experts are calling for increased vaccination rates"
+          "Measles outbreak affects unvaccinated children",
+          "Global increase in measles infections reported",
+          "Vaccination rates need to be improved",
+          "Experts call for urgent action",
+          "Measles-free status lost in several countries"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 14:00:29 GMT",
         "title": "I was told my inability to conceive a second child was a ‘mystery’. In fact, I was simply ignored",
-        "neutral_headline": "Women's pain is often minimized in fertility medicine",
+        "neutral_headline": "Women's Fertility Issues Often Dismissed",
         "items": [
           {
             "source": "Guardian Health",
@@ -289,19 +316,19 @@
           }
         ],
         "ai_summary": [
-          "Women's pain is often dismissed in fertility medicine",
-          "The fertility industry prioritizes efficiency over care",
-          "Women's experiences are not being taken seriously",
-          "The industry needs to change its approach",
-          "Women deserve better care and attention"
+          "Women's fertility concerns often minimized",
+          "Fertility medicine criticized for lack of care",
+          "Women's pain and symptoms dismissed",
+          "Fertility treatment needs to be more patient-centered",
+          "Women's health issues require more attention"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 13:38:50 GMT",
         "title": "Intermittent fasting may make little difference to weight loss, review finds",
-        "neutral_headline": "Intermittent fasting may not aid weight loss",
+        "neutral_headline": "Intermittent Fasting May Not Aid Weight Loss",
         "items": [
           {
             "source": "BBC Health",
@@ -310,25 +337,25 @@
             "title": "Intermittent fasting may make little difference to weight loss, review finds",
             "standfirst": "But researchers say it could still improve someone's overall health through helpful changes to some body functions.",
             "content": "But researchers say it could still improve someone's overall health through helpful changes to some body functions.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d3d/live/9a7b75a0-0b44-11f1-9972-d3f265c101c6.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d3d/live/9a7b75a0-0b44-11f1-9972-d3f265c101c6.jpg",
         "ai_summary": [
-          "Intermittent fasting may not be effective for weight loss",
-          "The diet may have other health benefits",
-          "Research has found mixed results",
-          "Intermittent fasting can improve some body functions",
-          "The diet may not be suitable for everyone"
+          "Intermittent fasting may not lead to weight loss",
+          "Review finds limited benefits for weight loss",
+          "Intermittent fasting may improve overall health",
+          "Researchers suggest alternative weight loss methods",
+          "Intermittent fasting effects on health studied"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 12:00:25 GMT",
         "title": "Fertility treatment given special emphasis as Trump Rx site goes live",
-        "neutral_headline": "Trump Rx site offers discounts on fertility treatments",
+        "neutral_headline": "Trump Rx Site Offers Fertility Treatment Discounts",
         "items": [
           {
             "source": "Guardian Health",
@@ -341,19 +368,19 @@
           }
         ],
         "ai_summary": [
-          "The Trump Rx site is offering discounts on fertility treatments",
-          "The discounts are an attempt to fulfill a campaign promise",
-          "The savings are only a fraction of the total cost",
-          "Experts are skeptical of the program's effectiveness",
-          "The program may not make a significant impact"
+          "Trump Rx site offers discounts on IVF procedures",
+          "Fertility treatment costs still high",
+          "Experts skeptical about Trump Rx benefits",
+          "IVF discounts may not be enough",
+          "Fertility treatment accessibility remains limited"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 11:55:48 GMT",
         "title": "Measles outbreak could see unvaccinated pupils excluded from schools in north London",
-        "neutral_headline": "Measles outbreak may lead to school exclusions",
+        "neutral_headline": "Measles Outbreak May Lead To School Exclusions",
         "items": [
           {
             "source": "BBC Health",
@@ -362,25 +389,25 @@
             "title": "Measles outbreak could see unvaccinated pupils excluded from schools in north London",
             "standfirst": "Children identified as close contacts of people with the disease could be excluded for three weeks",
             "content": "Children identified as close contacts of people with the disease could be excluded for three weeks",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd95/live/62d51520-0b35-11f1-b7e1-afb6d0884c18.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd95/live/62d51520-0b35-11f1-b7e1-afb6d0884c18.jpg",
         "ai_summary": [
-          "A measles outbreak is occurring in north London",
           "Unvaccinated pupils may be excluded from school",
-          "The exclusion is a measure to prevent further spread",
-          "Children who are close contacts may be excluded",
-          "The exclusion could last for up to three weeks"
+          "Measles outbreak sparks concern in north London",
+          "Schools may take measures to prevent spread",
+          "Exclusion period may last up to three weeks",
+          "Vaccination rates need to be improved"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 09:50:58 GMT",
         "title": "Trump eyes Venezuela visit – but obstacles to his oil plan remain",
-        "neutral_headline": "Trump plans to visit Venezuela to discuss oil",
+        "neutral_headline": "Trump Eyes Venezuela Visit For Oil Plan",
         "items": [
           {
             "source": "BBC Science",
@@ -395,19 +422,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d6/live/398af810-065d-11f1-ad0b-39fef3bf1fc8.jpg",
         "ai_summary": [
-          "Trump is planning to visit Venezuela",
-          "The visit is to discuss oil extraction",
-          "American energy firms are hesitant to get involved",
-          "There are obstacles to the oil plan",
-          "The visit may not lead to a successful outcome"
+          "Trump considers visit to Venezuela for oil plan",
+          "American energy firms hesitant to invest",
+          "Obstacles to oil plan remain",
+          "Venezuela's oil reserves attractive to US",
+          "Trump's oil plan faces significant challenges"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 08:05:27 GMT",
         "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
-        "neutral_headline": "Dart frog toxin allegedly used to kill Alexei Navalny",
+        "neutral_headline": "Dart Frog Toxin Allegedly Used To Kill Navalny",
         "items": [
           {
             "source": "BBC Science",
@@ -422,19 +449,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc2/live/a4c47040-0a98-11f1-9640-7f85e4d0c189.jpg",
         "ai_summary": [
-          "A dart frog toxin is allegedly linked to a killing",
-          "The toxin is called epibatidine",
-          "It can be found in frogs or manufactured in a lab",
-          "The toxin is highly potent and dangerous",
-          "It is being investigated in connection with a crime"
+          "Epibatidine toxin found in dart frogs",
+          "Toxin can be manufactured in a lab",
+          "Alleged use in Navalny's poisoning",
+          "Toxin's effects can be severe",
+          "Investigation into Navalny's poisoning ongoing"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 07:30:13 GMT",
         "title": "Google puts users at risk by downplaying health disclaimers under AI Overviews",
-        "neutral_headline": "Google downplays health disclaimers under AI Overviews",
+        "neutral_headline": "Google Puts Users At Risk By Downplaying Health Disclaimers Under AI Overviews",
         "items": [
           {
             "source": "Guardian Health",
@@ -447,19 +474,19 @@
           }
         ],
         "ai_summary": [
-          "Google is downplaying health disclaimers",
-          "The disclaimers are important for user safety",
-          "Google's AI Overviews may provide incorrect information",
-          "Users are not being properly warned",
-          "The lack of disclaimers puts users at risk of harm"
+          "Google AI Overviews lack safety warnings",
+          "Users may rely on inaccurate medical advice",
+          "Google fails to include disclaimers",
+          "AI-generated advice may be misleading",
+          "Google's AI Overviews pose risk to users' health"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 06:04:05 GMT",
         "title": "Women calling for greater support with menopause",
-        "neutral_headline": "Women Support Menopause Challenges",
+        "neutral_headline": "Women Seek Support For Menopause Challenges",
         "items": [
           {
             "source": "BBC Health",
@@ -474,19 +501,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/add0/live/d99b7df0-0853-11f1-ba49-bb79b430dd38.jpg",
         "ai_summary": [
-          "Women face menopause challenges",
-          "Women start businesses to help others",
-          "Menopause affects women's health",
-          "Businesses provide menopause support",
-          "Women help each other with menopause"
+          "Women face challenges during menopause",
+          "Some women start businesses to help others",
+          "Menopause affects women's daily lives",
+          "Support groups are being formed",
+          "Women share their experiences publicly"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 05:57:00 GMT",
         "title": "Married couple share same cancer diagnosis",
-        "neutral_headline": "Couple Shares Cancer Diagnosis",
+        "neutral_headline": "Married Couple Diagnosed With Same Cancer",
         "items": [
           {
             "source": "BBC Health",
@@ -495,21 +522,21 @@
             "title": "Married couple share same cancer diagnosis",
             "standfirst": "An East Kent Hospital surgeon says it was the \"first time\" he had encountered such a case.",
             "content": "An East Kent Hospital surgeon says it was the \"first time\" he had encountered such a case.",
-            "feed_position": 3,
+            "feed_position": 4,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2872/live/5408b8e0-08fa-11f1-8b6c-9b488ac81030.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2872/live/5408b8e0-08fa-11f1-8b6c-9b488ac81030.jpg",
         "ai_summary": [
-          "Married couple share cancer diagnosis",
-          "East Kent Hospital surgeon comments",
+          "Married couple share same cancer diagnosis",
+          "East Kent Hospital surgeon comments on case",
           "Couple's cancer diagnosis is rare",
-          "Surgeon says it is a unique case",
-          "Couple's health is a concern"
+          "Surgeon has no prior experience with similar case",
+          "Hospital is investigating the diagnosis"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 05:00:41 GMT",
         "title": "‘It’s the most urgent public health issue’: Dr Rangan Chatterjee on screen time, mental health – and banning social media until 18",
@@ -526,19 +553,19 @@
           }
         ],
         "ai_summary": [
-          "Dr Rangan Chatterjee discusses screen time",
-          "Screen time affects mental health",
-          "Dr Chatterjee recommends screen limits",
-          "Screen-free routine helps teenager",
-          "Dr Chatterjee wants social media ban"
+          "Dr Rangan Chatterjee discusses screen time impact",
+          "Mental health is a major public health issue",
+          "Screen time affects children's mental wellbeing",
+          "Dr Chatterjee recommends screen-free periods",
+          "Regulating big tech is necessary for children"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Mon, 16 Feb 2026 01:00:36 GMT",
         "title": "Intermittent fasting no better than typical weight loss diets, study finds",
-        "neutral_headline": "Intermittent Fasting Not Better Than Diets",
+        "neutral_headline": "Intermittent Fasting Not Better Than Typical Diets",
         "items": [
           {
             "source": "Guardian Health",
@@ -551,19 +578,19 @@
           }
         ],
         "ai_summary": [
-          "Intermittent fasting studied for weight loss",
-          "Researchers analyze 22 global studies",
-          "Intermittent fasting is not a miracle",
-          "Traditional diets are just as effective",
-          "Fasting regimes have limited benefits"
+          "Intermittent fasting is not a miracle solution",
+          "Researchers analyze data from 22 global studies",
+          "Limited eating approaches have limited benefits",
+          "Traditional diets are as effective as fasting",
+          "Study finds no significant weight loss difference"
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sun, 15 Feb 2026 21:00:33 GMT",
         "title": "Katie’s story: her abusive ex-partner said ‘kill yourself’. When she did, police dropped domestic violence inquiry",
-        "neutral_headline": "Katie’s story: her abusive ex-partner said ‘kill yourself’",
+        "neutral_headline": "Katie’s story: her abusive ex-partner said ‘kill yourself’. When she did, police dropped domestic violence inquiry",
         "items": [
           {
             "source": "Guardian Health",
@@ -576,42 +603,17 @@
           }
         ],
         "ai_summary": [
-          "Katie Madden's death is investigated",
-          "Abusive ex-partner is examined",
-          "Domestic violence case is dropped",
-          "Evidence shows repeated abuse",
-          "Police actions are questioned"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Sun, 15 Feb 2026 19:37:58 GMT",
-        "title": "Fast-spreading measles outbreak takes hold among under-10s in north London",
-        "neutral_headline": "Measles Outbreak Affects Under 10s",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/feb/15/measles-outbreak-under-10s-north-london",
-            "published_at": "Sun, 15 Feb 2026 19:37:58 GMT",
-            "title": "Fast-spreading measles outbreak takes hold among under-10s in north London",
-            "standfirst": "UK Health Security Agency urges parents in Enfield to get their children vaccinated as Easter holiday travels approach‘We almost lost you in the night’ - the life-threatening rise of measlesA big measles outbreak in north-east London is affecting unvaccinated children under the age of 10, the UK Health Security Agency (UKHSA) has confirmed.UKHSA previously reported 34 laboratory-confirmed measles cases among children who attend schools and nurseries in Enfield from 1 January to 9 February, with some requiring hospital treatment. Continue reading...",
-            "content": "UK Health Security Agency urges parents in Enfield to get their children vaccinated as Easter holiday travels approach‘We almost lost you in the night’ - the life-threatening rise of measlesA big measles outbreak in north-east London is affecting unvaccinated children under the age of 10, the UK Health Security Agency (UKHSA) has confirmed.UKHSA previously reported 34 laboratory-confirmed measles cases among children who attend schools and nurseries in Enfield from 1 January to 9 February, with some requiring hospital treatment. Continue reading...",
-            "feed_position": 11
-          }
-        ],
-        "ai_summary": [
-          "Measles outbreak in north London",
-          "Unvaccinated children are affected",
-          "UK Health Security Agency responds",
-          "Parents are urged to vaccinate children",
-          "Measles cases require hospital treatment"
+          "Katie Madden's death is linked to domestic abuse",
+          "Her ex-partner allegedly told her to kill herself",
+          "Police dropped the domestic violence inquiry",
+          "Evidence shows ex-partner's history of abuse",
+          "Katie's story reveals the toll of female suicides"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-16T23:29:37.020Z",
+    "updated_at": "2026-02-17T04:52:05.272Z",
     "clusters": []
   }
 }
