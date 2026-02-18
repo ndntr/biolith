@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-02-18T19:48:54.857Z",
+    "updated_at": "2026-02-18T23:30:32.978Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-18T19:49:02.358Z",
+    "updated_at": "2026-02-18T23:30:47.230Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/93eb442d-2e82-4823-a6d1-e6a8ca175ffa/Supportive-empathetic-conversations-key-to-easing-vaccine-hesitancy.aspx",
         "ai_summary": [
-          "Conversations can help ease vaccine hesitancy",
-          "Experts outline strategies for GPs to rebuild trust",
-          "Confidence in kids vaccinations is declining",
-          "GPs can play a key role in rebuilding trust",
-          "Conversations are key to addressing concerns"
+          "Conversations can ease vaccine hesitancy",
+          "Experts outline strategies for GPs",
+          "Confidence in kids vaccinations declines",
+          "GPs should rebuild trust with parents",
+          "Strategies focus on supportive conversations"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/f75b470c-e8ee-4860-b4f5-19ffc496e351/RACGP-clarifies-registrar-placement-priorities-amid-speculation.aspx",
         "ai_summary": [
-          "RACGP clarifies registrar placement priorities",
-          "Registrars are placed according to community need",
-          "Registrar choice and training environment matter",
-          "RACGP is working to address speculation",
-          "Placement priorities are based on several factors"
+          "RACGP clarifies registrar placement",
+          "Priorities include community need",
+          "Registrar choice and environment matter",
+          "College confirms placement process",
+          "Speculation addressed by RACGP"
         ]
       },
       {
@@ -80,11 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/046d9afa-afd2-4e01-861b-831d038e047e/Abdominal-wall-radiology-A-surgeon-s-perspective-for-primary-care.aspx",
         "ai_summary": [
-          "Collaboration is key to preventing operations",
-          "Radiology and surgery can work together",
-          "GPs can benefit from surgeon's perspective",
-          "Abdominal wall radiology is important topic",
-          "Primary care can learn from surgeon's experience"
+          "Collaboration between GPs and surgeons",
+          "Radiology and surgery work together",
+          "Unnecessary operations can be prevented",
+          "Costs can be reduced",
+          "Thoughtful collaboration is essential"
         ]
       },
       {
@@ -107,11 +107,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/41531589-739c-4a59-8f8c-1bf2ae8f6c8f/New-psoriasis-treatment-added-to-PBS.aspx",
         "ai_summary": [
-          "New psoriasis treatment is added to PBS",
-          "Wynzora is used for chronic stable plaque type",
-          "Treatment is expected to benefit 141,000 patients",
-          "PBS listing is a significant development",
-          "Patients will have access to new treatment"
+          "Wynzora added to Pharmaceutical Benefits Scheme",
+          "Treatment for chronic stable plaque-type psoriasis",
+          "Change benefits 141,000 patients",
+          "New treatment option available",
+          "Patients can access Wynzora through PBS"
         ]
       },
       {
@@ -134,24 +134,76 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/a9999e73-0324-44e7-91d6-a8d8e16b2a4d/SA-parties-differ-on-pharmacy-prescribing.aspx",
         "ai_summary": [
-          "SA parties have different views on pharmacy",
-          "Opposition is not on the same page as Labor",
-          "Pharmacy prescribing is a point of contention",
-          "Parties are disagreeing on scope of practice",
-          "Pharmacy prescribing is a contentious issue"
+          "SA opposition disagrees with Labor on pharmacy prescribing",
+          "State Labor backs expanded scope of practice for pharmacies",
+          "Pharmacy groups support the expansion of their services",
+          "Opposition raises concerns about patient safety and care",
+          "SA government to review pharmacy prescribing laws"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-02-18T19:49:02.202Z",
+    "updated_at": "2026-02-18T23:30:35.992Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Wed, 18 Feb 2026 20:25:37 GMT",
+        "title": "NHS joint ops disrupted amid bone cement supply problems",
+        "neutral_headline": "NHS Joint Operations Disrupted By Bone Cement Supply",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cy8gexml5xro?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 18 Feb 2026 20:25:37 GMT",
+            "title": "NHS joint ops disrupted amid bone cement supply problems",
+            "standfirst": "Around 1,000 operations a week rely on the product as patients are warned delays are inevitable.",
+            "content": "Around 1,000 operations a week rely on the product as patients are warned delays are inevitable.",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4dd/live/832a0c40-0cde-11f1-9aaa-bdef89911abe.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4dd/live/832a0c40-0cde-11f1-9aaa-bdef89911abe.jpg",
+        "ai_summary": [
+          "NHS joint operations disrupted due to bone cement shortage",
+          "Around 1000 operations a week rely on the product",
+          "Patients warned of inevitable delays and cancellations",
+          "NHS working to resolve the supply issue quickly",
+          "Alternative solutions being explored for urgent cases"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Wed, 18 Feb 2026 20:14:40 GMT",
+        "title": "NHS to spend more to settle lawsuits over negligence during childbirth after court ruling",
+        "neutral_headline": "NHS To Spend More On Negligence Lawsuits",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/feb/18/nhs-spend-more-settle-lawsuits-negligence-childbirth-supreme-court",
+            "published_at": "Wed, 18 Feb 2026 20:14:40 GMT",
+            "title": "NHS to spend more to settle lawsuits over negligence during childbirth after court ruling",
+            "standfirst": "Supreme court rules children in England who suffer serious injuries at birth can claim for future lost earningsThe NHS will have to spend more money settling lawsuits involving negligence during childbirth after a supreme court ruling that lawyers said puts right a “historic injustice”.The court ruled on Wednesday that children in England who suffer catastrophic injuries while they are being born can claim damages for future earnings they would otherwise have had. Continue reading...",
+            "content": "Supreme court rules children in England who suffer serious injuries at birth can claim for future lost earningsThe NHS will have to spend more money settling lawsuits involving negligence during childbirth after a supreme court ruling that lawyers said puts right a “historic injustice”.The court ruled on Wednesday that children in England who suffer catastrophic injuries while they are being born can claim damages for future earnings they would otherwise have had. Continue reading...",
+            "feed_position": 1
+          }
+        ],
+        "ai_summary": [
+          "NHS to spend more on settling negligence lawsuits",
+          "Supreme court ruling allows children to claim lost earnings",
+          "Lawyers say ruling puts right a historic injustice",
+          "NHS to review and update its negligence claim policies",
+          "Patients and families to receive more compensation"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 17:45:57 GMT",
         "title": "NHS hip and knee operations threatened by bone cement supply shortage",
-        "neutral_headline": "NHS Hip And Knee Operations Threatened By Bone Cement Shortage",
+        "neutral_headline": "NHS Hip And Knee Operations Threatened",
         "items": [
           {
             "source": "Guardian Health",
@@ -164,19 +216,19 @@
           }
         ],
         "ai_summary": [
-          "NHS faces bone cement supply shortage",
-          "Hip and knee operations may be delayed",
-          "Hospitals prioritize trauma and urgent care",
-          "Global supply issue affects main provider",
-          "Campaigners call it a crushing blow"
+          "NHS hip and knee operations threatened by bone cement shortage",
+          "Global supply issue affects NHS main provider",
+          "Hospitals ordered to prioritize trauma and urgent care",
+          "Patients waiting for surgeries face delays and cancellations",
+          "NHS working to find alternative solutions"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 17:37:34 GMT",
         "title": "Children injured by NHS can claim damages for lifetime lost earnings, court rules",
-        "neutral_headline": "Children injured by NHS can claim damages for lifetime lost earnings, court rules",
+        "neutral_headline": "Children Injured By NHS Can Claim Damages",
         "items": [
           {
             "source": "BBC Health",
@@ -191,19 +243,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a81c/live/55dd64a0-0ce6-11f1-b5e2-dd58fc65f0f6.jpg",
         "ai_summary": [
-          "Supreme Court rules on NHS damages claims",
-          "Children can claim for lifetime lost earnings",
-          "Case involves a child with brain injury",
-          "NHS may face significant cost implications",
-          "Decision has major implications for claims"
+          "Children injured by NHS can claim damages for lost earnings",
+          "Supreme court ruling has significant cost implications",
+          "NHS to review and update its compensation policies",
+          "Patients and families to receive more support",
+          "Ruling applies to children who sustained injuries at birth"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 17:27:10 GMT",
         "title": "Environmental groups sue Trump’s EPA over repeal of landmark climate finding",
-        "neutral_headline": "Environmental Groups Sue Trumps EPA Over Climate Finding",
+        "neutral_headline": "Environmental Groups Sue Trumps EPA",
         "items": [
           {
             "source": "Guardian Health",
@@ -212,23 +264,23 @@
             "title": "Environmental groups sue Trump’s EPA over repeal of landmark climate finding",
             "standfirst": "Lawsuit from health and environmental justice groups challenges the EPA’s rollback of the ‘endangerment finding’More than a dozen health and environmental justice non-profits have sued the Environmental Protection Agency (EPA) over its revocation of the legal determination that underpins US federal climate regulations.Filed in Washington DC circuit court, the lawsuit challenges the EPA’s rollback of the “endangerment finding”, which states that the buildup of heat-trapping pollution in the atmosphere endangers public health and welfare and has allowed the EPA to limit those emissions from vehicles, power plants and other industrial sources since 2009. The rollback was widely seen as a major setback to US efforts to combat the climate crisis. Continue reading...",
             "content": "Lawsuit from health and environmental justice groups challenges the EPA’s rollback of the ‘endangerment finding’More than a dozen health and environmental justice non-profits have sued the Environmental Protection Agency (EPA) over its revocation of the legal determination that underpins US federal climate regulations.Filed in Washington DC circuit court, the lawsuit challenges the EPA’s rollback of the “endangerment finding”, which states that the buildup of heat-trapping pollution in the atmosphere endangers public health and welfare and has allowed the EPA to limit those emissions from vehicles, power plants and other industrial sources since 2009. The rollback was widely seen as a major setback to US efforts to combat the climate crisis. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ],
         "ai_summary": [
-          "Environmental groups sue EPA over climate",
-          "Lawsuit challenges endangerment finding rollback",
-          "EPA rollback affects federal climate regulations",
-          "Health and environmental groups file lawsuit",
-          "Case filed in Washington DC circuit court"
+          "Environmental groups sue Trump's EPA over climate finding",
+          "Lawsuit challenges EPA's rollback of endangerment finding",
+          "Health and environmental justice groups file lawsuit",
+          "EPA's decision seen as setback to US climate efforts",
+          "Lawsuit aims to reinstate climate regulations"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 17:00:53 GMT",
         "title": "Ketamine addiction making teenagers wet the bed, says UK’s first specialist clinic",
-        "neutral_headline": "Ketamine Addiction Causes Teenagers Bladder Problems",
+        "neutral_headline": "Ketamine Addiction Affects Teenagers",
         "items": [
           {
             "source": "Guardian Health",
@@ -237,50 +289,23 @@
             "title": "Ketamine addiction making teenagers wet the bed, says UK’s first specialist clinic",
             "standfirst": "Medics in Liverpool say intervention is needed to save children from ‘a miserable life’ of bladder problemsChildren are using incontinence pads and urinating in buckets next to their bed at night due to bladder problems caused by ketamine addiction, according to the first specialist NHS clinic dealing with the issue.Medics at Alder Hey children’s hospital in Liverpool have opened the first ketamine clinic for young people in the UK in response to a surge in urology problems linked to addiction of the drug. Continue reading...",
             "content": "Medics in Liverpool say intervention is needed to save children from ‘a miserable life’ of bladder problemsChildren are using incontinence pads and urinating in buckets next to their bed at night due to bladder problems caused by ketamine addiction, according to the first specialist NHS clinic dealing with the issue.Medics at Alder Hey children’s hospital in Liverpool have opened the first ketamine clinic for young people in the UK in response to a surge in urology problems linked to addiction of the drug. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "Ketamine addiction leads to bladder issues",
-          "Teenagers experience incontinence problems",
-          "NHS clinic opened to address the issue",
-          "Medics warn of miserable life for addicts",
-          "Clinic provides specialist help for young people"
+          "Ketamine addiction causes bladder problems in teenagers",
+          "UK's first specialist clinic opens to treat young people",
+          "Medics report surge in urology problems linked to addiction",
+          "Clinic provides support and treatment for affected teenagers",
+          "Intervention needed to save children from miserable life"
         ]
       },
       {
-        "id": "cluster_4",
-        "coverage": 1,
-        "updated_at": "Wed, 18 Feb 2026 15:43:45 GMT",
-        "title": "NHS joint ops disrupted amid bone cement supply problems",
-        "neutral_headline": "NHS Joint Ops Disrupted Amid Bone Cement Supply Problems",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/cy8gexml5xro?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 18 Feb 2026 15:43:45 GMT",
-            "title": "NHS joint ops disrupted amid bone cement supply problems",
-            "standfirst": "Around 1,000 operations a week rely on the product as patients are warned delays are inevitable.",
-            "content": "Around 1,000 operations a week rely on the product as patients are warned delays are inevitable.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4dd/live/832a0c40-0cde-11f1-9aaa-bdef89911abe.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4dd/live/832a0c40-0cde-11f1-9aaa-bdef89911abe.jpg",
-        "ai_summary": [
-          "Bone cement supply issues disrupt NHS ops",
-          "Around 1000 operations rely on the product",
-          "Patients warned of inevitable delays",
-          "Hospitals prioritize urgent care cases",
-          "Supply problems cause significant disruptions"
-        ]
-      },
-      {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 15:29:34 GMT",
         "title": "Queen at Sea review – crushingly sad dementia drama offers a startling portrait of intimacy",
-        "neutral_headline": "Queen At Sea Review Crushingly Sad Dementia Drama",
+        "neutral_headline": "Queen At Sea Review",
         "items": [
           {
             "source": "Guardian Health",
@@ -289,23 +314,23 @@
             "title": "Queen at Sea review – crushingly sad dementia drama offers a startling portrait of intimacy",
             "standfirst": "Driven by fine performances from Tom Courtenay and Anna Calder-Marshall, Lance Hammer’s comeback is unbearable in its tragic candour and essential in its moral questioning This inexpressibly painful and sad story – featuring angry, complex, brilliant late-career performances from Tom Courtenay and Anna Calder-Marshall – is about dementia, the endgame of care and the decisions that need to be made when the spouse-carer is as vulnerable as the patient (and whose right it is to take those decisions). It is about the nature of intimacy between the two; and about the moment this becomes a problem for the grownup children with a conflicting sense of their own responsibilities.Queen at Sea is directed by indie US film-maker Lance Hammer, absent since his 2008 Sundance winner, Ballast. This is an almighty comeback, a lacerating movie bearing comparison with Michael Haneke’s Amour or Gaspar Noé’s Vortex. It concludes with a heartbreakingly ironic and enigmatic final sequence refusing the traditional final cadence; a diptych of love, contrasting the pleasures and expectations of intimacy across the generations. Continue reading...",
             "content": "Driven by fine performances from Tom Courtenay and Anna Calder-Marshall, Lance Hammer’s comeback is unbearable in its tragic candour and essential in its moral questioning This inexpressibly painful and sad story – featuring angry, complex, brilliant late-career performances from Tom Courtenay and Anna Calder-Marshall – is about dementia, the endgame of care and the decisions that need to be made when the spouse-carer is as vulnerable as the patient (and whose right it is to take those decisions). It is about the nature of intimacy between the two; and about the moment this becomes a problem for the grownup children with a conflicting sense of their own responsibilities.Queen at Sea is directed by indie US film-maker Lance Hammer, absent since his 2008 Sundance winner, Ballast. This is an almighty comeback, a lacerating movie bearing comparison with Michael Haneke’s Amour or Gaspar Noé’s Vortex. It concludes with a heartbreakingly ironic and enigmatic final sequence refusing the traditional final cadence; a diptych of love, contrasting the pleasures and expectations of intimacy across the generations. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ],
         "ai_summary": [
-          "Film review of Queen At Sea drama",
-          "Movie portrays dementia and intimacy",
-          "Director Lance Hammer makes a comeback",
-          "Film features fine performances from cast",
-          "Story explores complex care and decisions"
+          "Queen At Sea is a drama about dementia and intimacy",
+          "Film features performances from Tom Courtenay and Anna Calder-Marshall",
+          "Story explores nature of intimacy between spouses",
+          "Movie raises questions about responsibilities and care",
+          "Film is a lacerating portrayal of love and loss"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 14:54:24 GMT",
         "title": "Plaid promises Welsh communities share of renewable energy profits",
-        "neutral_headline": "Plaid Promises Welsh Communities Share Of Renewable Energy Profits",
+        "neutral_headline": "Plaid Promises Renewable Energy Profits",
         "items": [
           {
             "source": "BBC Science",
@@ -320,19 +345,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce7/live/520c1060-0c2d-11f1-a62a-a37536f5ddff.jpg",
         "ai_summary": [
-          "Plaid Cymru promises community energy shares",
-          "Renewable energy projects to give back",
-          "Local communities to receive up to 25 percent",
-          "Plan aims to support Welsh communities",
-          "Renewable energy to benefit local areas"
+          "Plaid Cymru promises Welsh communities share of renewable energy profits",
+          "Renewable energy projects to hand over stakes to local communities",
+          "Communities to receive up to 25 percent of project profits",
+          "Plan aims to support local economies and communities",
+          "Renewable energy projects to benefit Welsh communities"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 12:29:02 GMT",
         "title": "Suicide rates for UK men are a ‘national catastrophe’, says Prince William",
-        "neutral_headline": "Suicide Rates For UK Men Are A National Catastrophe",
+        "neutral_headline": "Suicide Rates Are National Catastrophe",
         "items": [
           {
             "source": "Guardian Health",
@@ -341,19 +366,19 @@
             "title": "Suicide rates for UK men are a ‘national catastrophe’, says Prince William",
             "standfirst": "William tells radio panel that talking about emotions and mental health should become ‘second nature to us all’ Prince William has called the prevalence of male suicide in the UK a “national catastrophe” in a radio appearance in which he opened up about his approaches to dealing with difficult emotions.William told a special episode of Radio 1’s Life Hacks that “we need more male role models” to talk about their mental health publicly, to help other men do the same and make open discussions “second nature to us all”. Continue reading...",
             "content": "William tells radio panel that talking about emotions and mental health should become ‘second nature to us all’ Prince William has called the prevalence of male suicide in the UK a “national catastrophe” in a radio appearance in which he opened up about his approaches to dealing with difficult emotions.William told a special episode of Radio 1’s Life Hacks that “we need more male role models” to talk about their mental health publicly, to help other men do the same and make open discussions “second nature to us all”. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ],
         "ai_summary": [
-          "Prince William calls male suicide a catastrophe",
-          "Men's mental health needs more discussion",
-          "Prince William speaks about emotional health",
-          "Male role models urged to talk openly",
-          "Mental health discussions should be normal"
+          "Prince William calls UK male suicide rates a national catastrophe",
+          "William speaks about importance of discussing mental health",
+          "Male role models needed to talk about mental health publicly",
+          "Open discussions can help other men talk about emotions",
+          "Mental health support and services to be improved"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 12:00:31 GMT",
         "title": "Long Covid is still here. I know – my life came to a stop because of it",
@@ -366,23 +391,23 @@
             "title": "Long Covid is still here. I know – my life came to a stop because of it",
             "standfirst": "With more than 200 possible symptoms, long Covid isn’t easy to treat and diagnose. Rolled-back federal funding has led longhaulers to ask: is this all in my head?I am 30ft below the surface of the Blue Grotto, a crystalline diving hole in central Florida. Between the water’s embrace and the restriction of my wetsuit, my blood pressure finally stabilizes. The long, deep breaths I pull from my respirator keep my heart rate nice and low.I feel lighter than I have since April 2022, when I first contracted long Covid. I feel childlike at the fact that I can do this at all – get scuba certified – when on land I’m often confined to a wheelchair or a walker. Continue reading...",
             "content": "With more than 200 possible symptoms, long Covid isn’t easy to treat and diagnose. Rolled-back federal funding has led longhaulers to ask: is this all in my head?I am 30ft below the surface of the Blue Grotto, a crystalline diving hole in central Florida. Between the water’s embrace and the restriction of my wetsuit, my blood pressure finally stabilizes. The long, deep breaths I pull from my respirator keep my heart rate nice and low.I feel lighter than I have since April 2022, when I first contracted long Covid. I feel childlike at the fact that I can do this at all – get scuba certified – when on land I’m often confined to a wheelchair or a walker. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "Long Covid affects people's daily lives",
-          "Over 200 possible symptoms exist",
-          "Diagnosis and treatment are challenging",
-          "Federal funding for long Covid has been rolled back",
-          "Patients struggle with ongoing health issues"
+          "Long Covid still affects many people and is hard to treat",
+          "Over 200 possible symptoms make diagnosis and treatment difficult",
+          "Rolled-back federal funding affects long Covid support",
+          "Patients and families face challenges in getting help",
+          "Long Covid awareness and support are needed"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 11:21:21 GMT",
         "title": "Woman's leg amputated after botched knee op",
-        "neutral_headline": "Woman's Leg Amputated After Botched Knee Operation",
+        "neutral_headline": "Womans Leg Amputated After Botched Knee Op",
         "items": [
           {
             "source": "BBC Health",
@@ -397,19 +422,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9da7/live/49e2c3b0-0c24-11f1-b639-2bb91f8e49a9.jpg",
         "ai_summary": [
-          "Woman's leg amputated due to surgical error",
-          "Drill slipped during knee operation",
-          "Patient victim of life-changing error",
-          "Incident highlights need for surgical care",
-          "Investigation into the incident is needed"
+          "Woman's leg amputated after botched knee operation",
+          "Patient victim of life-changing error during surgery",
+          "Drill slipped during operation causing severe injury",
+          "Hospital and medical staff to review and investigate incident",
+          "Patient to receive support and compensation"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 08:00:03 GMT",
         "title": "Campaign urges NHS to improve diagnosis of potentially life-threatening childbirth condition",
-        "neutral_headline": "Campaign Urges NHS To Improve Childbirth Condition Diagnosis",
+        "neutral_headline": "Campaign Urges NHS To Improve Childbirth Diagnosis",
         "items": [
           {
             "source": "Guardian Health",
@@ -418,23 +443,23 @@
             "title": "Campaign urges NHS to improve diagnosis of potentially life-threatening childbirth condition",
             "standfirst": "Exclusive: Five hospitals failed to spot Amisha Adhia had placenta accreta before one obstetrician intervenedAfter five hospitals failed to spot that she had a rare but potentially fatal complication of childbirth, Amisha Adhia is to launch a campaign urging the NHS to do more to diagnose the condition and save lives.Pregnant women are at much greater risk of developing placenta accreta spectrum if they have already given birth by caesarean section or had IVF treatment. Continue reading...",
             "content": "Exclusive: Five hospitals failed to spot Amisha Adhia had placenta accreta before one obstetrician intervenedAfter five hospitals failed to spot that she had a rare but potentially fatal complication of childbirth, Amisha Adhia is to launch a campaign urging the NHS to do more to diagnose the condition and save lives.Pregnant women are at much greater risk of developing placenta accreta spectrum if they have already given birth by caesarean section or had IVF treatment. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ],
         "ai_summary": [
-          "Campaign aims to improve NHS diagnosis",
-          "Placenta accreta spectrum condition is rare",
-          "Five hospitals failed to diagnose the condition",
-          "Campaigner Amisha Adhia shares her story",
-          "NHS needs to improve diagnosis and care"
+          "Campaign urges NHS to improve diagnosis of childbirth condition",
+          "Placenta accreta spectrum is a potentially life-threatening condition",
+          "Five hospitals failed to spot condition in pregnant woman",
+          "NHS to review and improve diagnosis and treatment protocols",
+          "Campaign aims to save lives and improve patient care"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 07:00:02 GMT",
         "title": "Hazardous substances found in all headphones tested by ToxFREE project",
-        "neutral_headline": "Hazardous Substances Found In All Headphones Tested",
+        "neutral_headline": "Hazardous Substances Found In Headphones",
         "items": [
           {
             "source": "Guardian Health",
@@ -443,19 +468,19 @@
             "title": "Hazardous substances found in all headphones tested by ToxFREE project",
             "standfirst": "Substances include chemicals that can cause cancer, neurodevelopmental problems and the feminisation of malesYou wear them at work, you wear them at play, you wear them to relax. You may even get sweaty in them at the gym.But an investigation into headphones has found every single pair tested contained substances hazardous to human health, including chemicals that can cause cancer, neurodevelopmental problems and the feminisation of males. Continue reading...",
             "content": "Substances include chemicals that can cause cancer, neurodevelopmental problems and the feminisation of malesYou wear them at work, you wear them at play, you wear them to relax. You may even get sweaty in them at the gym.But an investigation into headphones has found every single pair tested contained substances hazardous to human health, including chemicals that can cause cancer, neurodevelopmental problems and the feminisation of males. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ],
         "ai_summary": [
-          "Headphones contain hazardous substances",
-          "Chemicals can cause cancer and health issues",
-          "ToxFREE project tests headphones for safety",
-          "All tested headphones contained harmful substances",
-          "Consumers need to be aware of headphone safety"
+          "Hazardous substances found in all headphones tested",
+          "Substances include chemicals that can cause cancer and problems",
+          "Headphones contain toxic materials and chemicals",
+          "Investigation raises concerns about consumer safety and health",
+          "Manufacturers to review and improve headphone safety"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 06:24:33 GMT",
         "title": "'It's overwhelming': Plastic from 1960s Canada washes up on Orkney beach",
@@ -474,19 +499,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9587/live/a667a200-0be2-11f1-8d90-772c0d7aea09.jpg",
         "ai_summary": [
-          "Plastic waste from 1960s Canada found",
-          "Litter picker reports increase in plastic waste",
-          "Orkney beach affected by plastic pollution",
-          "Plastic waste is a significant environmental issue",
-          "Beach cleanup efforts are necessary"
+          "Plastic from 1960s Canada washes up on Orkney beach",
+          "Litter picker reports huge increase in plastic waste",
+          "Plastic pollution is a major environmental concern",
+          "Beach cleanup efforts and awareness campaigns are needed",
+          "Plastic waste affects marine life and the environment"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 06:24:29 GMT",
         "title": "Scotland's supplies of prescription co-codamol limited until June",
-        "neutral_headline": "Scotland's Prescription Co Codamol Supplies Limited",
+        "neutral_headline": "Scotland limits prescription co-codamol supplies until June",
         "items": [
           {
             "source": "BBC Health",
@@ -501,19 +526,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8ed/live/e7315810-0c25-11f1-b639-2bb91f8e49a9.jpg",
         "ai_summary": [
-          "Scotland's co-codamol supplies are limited",
-          "Health boards advise reducing tablet intake",
-          "Prescription co-codamol supply issues exist",
-          "Patients may need to reduce their medication",
-          "Supply limitations will last until June"
+          "Scotland faces co-codamol supply shortage",
+          "Health boards advise reducing tablet use",
+          "Shortage expected to last until June",
+          "Some users must reduce tablets weekly",
+          "Alternative pain relief options sought"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 05:55:44 GMT",
         "title": "Firm assessing Covid vaccine harm replaced after costs spiral to £48m",
-        "neutral_headline": "Firm Assessing Covid Vaccine Harm Replaced After Costs Spiral To £48m",
+        "neutral_headline": "Covid vaccine harm assessment firm replaced",
         "items": [
           {
             "source": "BBC Health",
@@ -530,17 +555,17 @@
         "ai_summary": [
           "Firm assessing Covid vaccine harm replaced",
           "Costs spiraled to £48 million",
-          "Original estimate was significantly lower",
-          "New firm will take over the assessment work",
-          "Vaccine harm assessment is an ongoing process"
+          "Original estimate was £6 million",
+          "New firm to take over assessment work",
+          "Eight times the original estimated cost"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 02:03:55 GMT",
         "title": "Stop dithering on Brazilian butt lift crackdown, say MPs",
-        "neutral_headline": "MPs Call For Tighter Restrictions On Cosmetic Procedures",
+        "neutral_headline": "MPs call for crackdown on cosmetic procedures",
         "items": [
           {
             "source": "BBC Health",
@@ -556,18 +581,18 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12b6/live/8984f2e0-0c29-11f1-a62a-a37536f5ddff.png",
         "ai_summary": [
           "MPs warn of high-risk cosmetic procedures",
-          "Brazilian butt lift crackdown is needed",
-          "Tighter restrictions are required immediately",
-          "High-risk procedures pose health risks",
-          "MPs committee warns of urgent action"
+          "Brazilian butt lift crackdown needed",
+          "Tighter restrictions required immediately",
+          "MPs committee warns of health risks",
+          "Immediate action on cosmetic procedures"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 00:01:53 GMT",
         "title": "UK shoppers warned over spread of harmful and illegal skin lightening kits",
-        "neutral_headline": "UK Shoppers Warned Over Harmful Skin Lightening Kits",
+        "neutral_headline": "UK warns of harmful skin lightening kits",
         "items": [
           {
             "source": "Guardian Health",
@@ -576,23 +601,23 @@
             "title": "UK shoppers warned over spread of harmful and illegal skin lightening kits",
             "standfirst": "Many products contain substances banned because of serious and sometimes irreversible health risks, says CTSIIllegal skin lightening products are being sold in an increasingly wide range of UK outlets, including butchers, specialist food shops and small grocery stores, trading standards officers have warned.The Chartered Trading Standards Institute (CTSI) is warning that many of the products contain substances that are banned because of the serious risks they pose to health, including skin damage, infections and pregnancy complications. Continue reading...",
             "content": "Many products contain substances banned because of serious and sometimes irreversible health risks, says CTSIIllegal skin lightening products are being sold in an increasingly wide range of UK outlets, including butchers, specialist food shops and small grocery stores, trading standards officers have warned.The Chartered Trading Standards Institute (CTSI) is warning that many of the products contain substances that are banned because of the serious risks they pose to health, including skin damage, infections and pregnancy complications. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ],
         "ai_summary": [
-          "Illegal skin lightening kits are being sold",
+          "Illegal skin lightening kits sold widely",
           "Products contain banned substances",
-          "Serious health risks are associated",
-          "Skin damage and infections are possible",
-          "Trading standards officers have warned"
+          "Serious health risks associated",
+          "Skin damage and infections possible",
+          "Trading standards officers issue warning"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 00:01:53 GMT",
         "title": "Brazilian butt lifts should be banned in UK amid ‘wild west’ industry, MPs say",
-        "neutral_headline": "Brazilian Butt Lifts Should Be Banned In UK",
+        "neutral_headline": "Brazilian butt lifts should be banned in UK",
         "items": [
           {
             "source": "Guardian Health",
@@ -601,23 +626,23 @@
             "title": "Brazilian butt lifts should be banned in UK amid ‘wild west’ industry, MPs say",
             "standfirst": "Lack of regulation leading to procedures being carried out in sheds, hotel rooms and public toilets, committee findsBrazilian butt lifts should be banned in the UK, MPs have said, as a report found a lack of regulation had led to a “wild west” of cosmetic procedures being carried out in garden sheds, hotel rooms and public toilets.The women and equalities committee (WEC) said high risk procedures such as non-surgical buttock augmentation should be outlawed immediately, and a licensing system for lower risk treatments was urgently needed. People with no training can carry out potentially harmful procedures, putting the public at risk, the group of MPs added. Continue reading...",
             "content": "Lack of regulation leading to procedures being carried out in sheds, hotel rooms and public toilets, committee findsBrazilian butt lifts should be banned in the UK, MPs have said, as a report found a lack of regulation had led to a “wild west” of cosmetic procedures being carried out in garden sheds, hotel rooms and public toilets.The women and equalities committee (WEC) said high risk procedures such as non-surgical buttock augmentation should be outlawed immediately, and a licensing system for lower risk treatments was urgently needed. People with no training can carry out potentially harmful procedures, putting the public at risk, the group of MPs added. Continue reading...",
-            "feed_position": 9
+            "feed_position": 10
           }
         ],
         "ai_summary": [
-          "MPs say Brazilian butt lifts should be banned",
-          "Lack of regulation leads to unsafe procedures",
-          "Procedures are carried out in unlicensed areas",
-          "High-risk procedures pose serious health risks",
-          "Licensing system for treatments is needed"
+          "MPs call for ban on Brazilian butt lifts",
+          "Lack of regulation in cosmetic industry",
+          "Procedures carried out in unlicensed areas",
+          "Public at risk from untrained practitioners",
+          "Urgent need for licensing system"
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 00:00:38 GMT",
         "title": "Illegal skin lightening cream being sold in UK butchers, watchdog warns",
-        "neutral_headline": "Illegal Skin Lightening Cream Being Sold In UK",
+        "neutral_headline": "Illegal skin lightening cream being sold in UK butchers, watchdog warns",
         "items": [
           {
             "source": "BBC Health",
@@ -632,42 +657,17 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cff/live/5dfc1c50-0c26-11f1-b639-2bb91f8e49a9.jpg",
         "ai_summary": [
-          "Illegal skin lightening products are being sold",
-          "Products are available in various outlets",
-          "Skin bleaching products pose health risks",
-          "Trading body has warned of illegal sales",
-          "Public is at risk due to unregulated sales"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Tue, 17 Feb 2026 17:39:19 GMT",
-        "title": "Health support needed to tackle joblessness | Letter",
-        "neutral_headline": "Health Support Needed To Tackle Joblessness",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/feb/17/health-support-needed-to-tackle-joblessness",
-            "published_at": "Tue, 17 Feb 2026 17:39:19 GMT",
-            "title": "Health support needed to tackle joblessness | Letter",
-            "standfirst": "Health-centred approaches that help individuals stay in or return to work are needed, says Nick PahlThe alarming rise in economic inactivity highlighted in your report (UK sleepwalking into joblessness epidemic, Tesco boss warns, 10 February) underlines a public health issue as much as an economic one. It is increasingly clear that millions of working-age people are drifting out of the labour market not through choice but because of long-term health problems and inadequate support systems around them.Tackling worklessness requires proactive, health-centred approaches that help individuals stay in or return to work. We also know that time out of work is corrosive. Good-quality work improves physical and mental wellbeing, providing income, social connection and purpose, and protects against social exclusion. Continue reading...",
-            "content": "Health-centred approaches that help individuals stay in or return to work are needed, says Nick PahlThe alarming rise in economic inactivity highlighted in your report (UK sleepwalking into joblessness epidemic, Tesco boss warns, 10 February) underlines a public health issue as much as an economic one. It is increasingly clear that millions of working-age people are drifting out of the labour market not through choice but because of long-term health problems and inadequate support systems around them.Tackling worklessness requires proactive, health-centred approaches that help individuals stay in or return to work. We also know that time out of work is corrosive. Good-quality work improves physical and mental wellbeing, providing income, social connection and purpose, and protects against social exclusion. Continue reading...",
-            "feed_position": 10
-          }
-        ],
-        "ai_summary": [
-          "Economic inactivity is a public health issue",
-          "Long-term health problems cause joblessness",
-          "Health-centred approaches are required",
-          "Good-quality work improves wellbeing",
-          "Social exclusion can result from joblessness"
+          "Illegal skin lightening products sold",
+          "Products contain banned substances",
+          "Sold in butchers and small shops",
+          "Serious health risks associated",
+          "Watchdog warns of widespread sales"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-18T19:49:02.358Z",
+    "updated_at": "2026-02-18T23:30:47.230Z",
     "clusters": []
   }
 }
