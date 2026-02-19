@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-02-19T11:38:14.648Z",
+    "updated_at": "2026-02-19T19:38:28.706Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-19T11:38:28.555Z",
+    "updated_at": "2026-02-19T19:38:41.160Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/25bc587a-88da-4355-9fba-297727cca38f/Unseen-non-patient-facing-work-significant-and-unrecognised.aspx",
         "ai_summary": [
-          "Non patient facing work is significant",
-          "Work is unrecognised and unfunded",
-          "Patient facing care takes 56 percent",
-          "GPs have a lot of unseen work",
-          "System values time spent with patients"
+          "Non-patient-facing work is significant and unseen",
+          "Patient-facing care accounts for 56% of time",
+          "Work outside of patient care is unfunded",
+          "The system values time spent with patients",
+          "GPs spend significant time on non-patient work"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/58babc22-6d3a-4afe-9883-7eaedc5ff480/Study-finds-MHT-not-linked-to-increased-risk-of-death.aspx",
         "ai_summary": [
-          "900,000 women tracked for 14 years",
+          "Study finds MHT not linked to increased death risk",
+          "The study tracked 900,000 women for 14 years",
           "Experts urge nuance when interpreting results",
           "Key factors were not considered in the study",
-          "MHT risks and benefits are still being researched",
-          "More studies are needed to confirm findings"
+          "The study results are promising but limited"
         ]
       },
       {
@@ -80,11 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/d605b51a-3190-4380-9818-ea0d9b045914/Police-open-to-change-on-controversial-health-checks.aspx",
         "ai_summary": [
-          "RACGP raised concerns about GP role in assessments",
-          "Talks are ongoing about police health checks",
-          "Victoria Police recruits undergo health assessments",
-          "GPs play a crucial role in assessing recruits",
-          "Changes to health checks may be implemented"
+          "Police are open to change on health checks",
+          "The RACGP raised concerns about GP assessments",
+          "Talks are ongoing about the issue",
+          "GPs are involved in assessments of police recruits",
+          "The role of GPs in assessments is being reevaluated"
         ]
       },
       {
@@ -107,10 +107,10 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/c031bd93-649b-49e0-8ddf-379f4e68c544/In-Practice-Get-involved-in-GP-led-research.aspx",
         "ai_summary": [
-          "RACGP reminds members to visit research noticeboard",
-          "GPs can submit research and support projects",
-          "GP led research is crucial for healthcare improvement",
-          "Research noticeboard is available for members",
+          "The RACGP reminds members to get involved",
+          "GP-led research is available for participation",
+          "Members can submit research and support projects",
+          "The GP Research Noticeboard is available online",
           "GPs can contribute to ongoing research projects"
         ]
       },
@@ -134,24 +134,178 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/93eb442d-2e82-4823-a6d1-e6a8ca175ffa/Supportive-empathetic-conversations-key-to-easing-vaccine-hesitancy.aspx",
         "ai_summary": [
-          "Confidence in kids vaccinations is declining",
           "Experts outline strategies for GPs to rebuild trust",
-          "Supportive conversations can ease vaccine hesitancy",
-          "GPs play a crucial role in addressing concerns",
-          "Rebuilding trust is essential for vaccination rates"
+          "Confidence in kids vaccinations declines",
+          "Concerned parents need empathetic conversations",
+          "GPs play crucial role in addressing vaccine hesitancy",
+          "Trust building is essential for vaccine confidence"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-02-19T11:38:17.306Z",
+    "updated_at": "2026-02-19T19:38:41.230Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Thu, 19 Feb 2026 17:00:00 GMT",
+        "title": "BBC Inside Science",
+        "neutral_headline": "Science of barbecue recorded at festival",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/sounds/play/m002s6by?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 19 Feb 2026 17:00:00 GMT",
+            "title": "BBC Inside Science",
+            "standfirst": "The science of barbecue recorded at Abergavenny Food Festival 2025.",
+            "content": "The science of barbecue recorded at Abergavenny Food Festival 2025.",
+            "feed_position": 45,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
+        "ai_summary": [
+          "BBC Inside Science records barbecue science",
+          "Abergavenny Food Festival hosts the event",
+          "Experts discuss barbecue techniques and science",
+          "Food festival features various science topics",
+          "Barbecue science is a unique topic of discussion"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Thu, 19 Feb 2026 16:29:10 GMT",
+        "title": "Martyn Webster obituary",
+        "neutral_headline": "Martyn Webster influential in microsurgery development",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/feb/19/martyn-webster-obituary",
+            "published_at": "Thu, 19 Feb 2026 16:29:10 GMT",
+            "title": "Martyn Webster obituary",
+            "standfirst": "My twin brother, Martyn Webster, who has died aged 86, was influential in the development of microsurgery both in the UK and internationally.In 1971 he joined the Canniesburn regional plastic surgery unit at Glasgow Royal Infirmary, one of the UK’s most respected centres for reconstructive surgery, with an international reputation as a centre of excellence, and in 1976 he became a consultant and senior lecturer there. His clinical experience covered a wide range of reconstructive procedures, especially microsurgery, head and neck surgery, hand surgery and breast reconstruction. Continue reading...",
+            "content": "My twin brother, Martyn Webster, who has died aged 86, was influential in the development of microsurgery both in the UK and internationally.In 1971 he joined the Canniesburn regional plastic surgery unit at Glasgow Royal Infirmary, one of the UK’s most respected centres for reconstructive surgery, with an international reputation as a centre of excellence, and in 1976 he became a consultant and senior lecturer there. His clinical experience covered a wide range of reconstructive procedures, especially microsurgery, head and neck surgery, hand surgery and breast reconstruction. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "Martyn Webster dies aged 86",
+          "Webster was a pioneer in microsurgery",
+          "He worked at Glasgow Royal Infirmary",
+          "Webster was a consultant and senior lecturer",
+          "His work had international reputation"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Thu, 19 Feb 2026 16:14:43 GMT",
+        "title": "Wastewater testing reveals high levels of cocaine in Nantucket, Massachusetts",
+        "neutral_headline": "Wastewater testing reveals high cocaine levels",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2026/feb/19/cocaine-nantucket-massachusetts-wastewater",
+            "published_at": "Thu, 19 Feb 2026 16:14:43 GMT",
+            "title": "Wastewater testing reveals high levels of cocaine in Nantucket, Massachusetts",
+            "standfirst": "Up to three times national average of metabolite produced by human use of drug was found in town’s wastewaterTests on wastewater in an upscale Massachusetts ocean resort town have revealed unexpectedly high levels of cocaine – up to three times the national average.Officials in the town of Nantucket on the eponymous island off Cape Cod began testing its wastewater last summer “to monitor high-risk substances and opioids in the community”. Continue reading...",
+            "content": "Up to three times national average of metabolite produced by human use of drug was found in town’s wastewaterTests on wastewater in an upscale Massachusetts ocean resort town have revealed unexpectedly high levels of cocaine – up to three times the national average.Officials in the town of Nantucket on the eponymous island off Cape Cod began testing its wastewater last summer “to monitor high-risk substances and opioids in the community”. Continue reading...",
+            "feed_position": 1
+          }
+        ],
+        "ai_summary": [
+          "Nantucket wastewater tests show high cocaine",
+          "Levels are up to three times national average",
+          "Tests monitor high risk substances and opioids",
+          "Wastewater testing is a new monitoring method",
+          "Cocaine levels are a concern for the community"
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Thu, 19 Feb 2026 16:01:18 GMT",
+        "title": "Aidan Chidarikire obituary",
+        "neutral_headline": "Aidan Chidarikire led pharmacy services in Zimbabwe",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/world/2026/feb/19/aidan-chidarikire-obituary",
+            "published_at": "Thu, 19 Feb 2026 16:01:18 GMT",
+            "title": "Aidan Chidarikire obituary",
+            "standfirst": "My husband, Aidan Chidarikire, who has died aged 92, was appointed director of pharmacy services in Zimbabwe’s Ministry of Health in the early 1980s, serving at a crucial time in the development of a healthcare system fit for the newly independent nation.Under the previous white minority regime, health services had been heavily skewed towards the white population and cities, and against the rural areas where the vast majority of the population lived. The twin pillars of the new strategy, in which Aidan played a leading role, were the establishment of an essential drugs list to meet the health needs of the majority of the population, and country-wide, grassroots-led training workshops, to ensure key medicines were for the first time well managed and accessible. Continue reading...",
+            "content": "My husband, Aidan Chidarikire, who has died aged 92, was appointed director of pharmacy services in Zimbabwe’s Ministry of Health in the early 1980s, serving at a crucial time in the development of a healthcare system fit for the newly independent nation.Under the previous white minority regime, health services had been heavily skewed towards the white population and cities, and against the rural areas where the vast majority of the population lived. The twin pillars of the new strategy, in which Aidan played a leading role, were the establishment of an essential drugs list to meet the health needs of the majority of the population, and country-wide, grassroots-led training workshops, to ensure key medicines were for the first time well managed and accessible. Continue reading...",
+            "feed_position": 2
+          }
+        ],
+        "ai_summary": [
+          "Aidan Chidarikire dies aged 92",
+          "Chidarikire was director of pharmacy services",
+          "He worked in Zimbabwe's Ministry of Health",
+          "Chidarikire established essential drugs list",
+          "He improved healthcare in rural areas"
+        ]
+      },
+      {
+        "id": "cluster_4",
+        "coverage": 1,
+        "updated_at": "Thu, 19 Feb 2026 16:00:42 GMT",
+        "title": "SpaceX rocket fireball linked to plume of polluting lithium",
+        "neutral_headline": "SpaceX rocket fireball linked to polluting lithium",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cpd8z4eqlxno?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 19 Feb 2026 16:00:42 GMT",
+            "title": "SpaceX rocket fireball linked to plume of polluting lithium",
+            "standfirst": "A SpaceX Falcon 9 crashed to Earth last year. Now scientists have measured the pollution it caused.",
+            "content": "A SpaceX Falcon 9 crashed to Earth last year. Now scientists have measured the pollution it caused.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62bf/live/05ce5b10-0d84-11f1-a355-f9c151a9e8be.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62bf/live/05ce5b10-0d84-11f1-a355-f9c151a9e8be.jpg",
+        "ai_summary": [
+          "SpaceX Falcon 9 crashed to Earth",
+          "Scientists measure pollution from the crash",
+          "Lithium plume is a concern for environment",
+          "Rocket crash has significant environmental impact",
+          "Pollution from space debris is a growing issue"
+        ]
+      },
+      {
+        "id": "cluster_5",
+        "coverage": 1,
+        "updated_at": "Thu, 19 Feb 2026 14:00:13 GMT",
+        "title": "Experts warn NIH director now leading CDC will push ‘RFK Jr’s agenda’",
+        "neutral_headline": "Experts warn NIH director will push RFK Jr agenda",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2026/feb/19/jay-bhattacharya-cdc-acting-director",
+            "published_at": "Thu, 19 Feb 2026 14:00:13 GMT",
+            "title": "Experts warn NIH director now leading CDC will push ‘RFK Jr’s agenda’",
+            "standfirst": "RFK Jr ally Jay Bhattacharya was named acting director of the CDC and will be fourth leader in a year to head agencyJay Bhattacharya, the director of the National Institutes of Health (NIH), was named the acting director of the US Centers for Disease Control and Prevention (CDC) on Wednesday, making him the fourth leader in a year at the embattled agency in an unprecedented move that further consolidates power among a small group of men at the helm of US health agencies.He’s been an ineffectual health leader whose attention will be further fractured, and as a close ally to Robert F Kennedy Jr, secretary of the US Department of Health and Human Services (HHS) and a longtime vaccine critic. Bhattacharya may sign off on further changes to the vaccine schedule, observers said. Continue reading...",
+            "content": "RFK Jr ally Jay Bhattacharya was named acting director of the CDC and will be fourth leader in a year to head agencyJay Bhattacharya, the director of the National Institutes of Health (NIH), was named the acting director of the US Centers for Disease Control and Prevention (CDC) on Wednesday, making him the fourth leader in a year at the embattled agency in an unprecedented move that further consolidates power among a small group of men at the helm of US health agencies.He’s been an ineffectual health leader whose attention will be further fractured, and as a close ally to Robert F Kennedy Jr, secretary of the US Department of Health and Human Services (HHS) and a longtime vaccine critic. Bhattacharya may sign off on further changes to the vaccine schedule, observers said. Continue reading...",
+            "feed_position": 3
+          }
+        ],
+        "ai_summary": [
+          "Jay Bhattacharya is new CDC director",
+          "Bhattacharya is ally of Robert F Kennedy Jr",
+          "Experts warn of changes to vaccine schedule",
+          "Bhattacharya's appointment is controversial",
+          "Vaccine critics are concerned about his role"
+        ]
+      },
+      {
+        "id": "cluster_6",
+        "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 10:00:05 GMT",
         "title": "‘They pushed so many lies about recycling’: the fight to stop big oil pumping billions more into plastics",
-        "neutral_headline": "They pushed so many lies about recycling",
+        "neutral_headline": "Big oil invests in plastic production",
         "items": [
           {
             "source": "Guardian Health",
@@ -160,19 +314,19 @@
             "title": "‘They pushed so many lies about recycling’: the fight to stop big oil pumping billions more into plastics",
             "standfirst": "Plastic production has doubled over the last 20 years – and will likely double again. For author Beth Gardiner, metal water bottles and canvas tote bags are not the solution. So what is?Like many of us who are mindful of our plastic consumption, Beth Gardiner would take her own bags to the supermarket and be annoyed whenever she forgot to do so. Out without her refillable bottle, she would avoid buying bottled water. “Here I am, in my own little life, worrying about that and trying to use less plastic,” she says. Then she read an article in this newspaper, just over eight years ago, and discovered that fossil fuel companies had ploughed more than $180bn (£130bn) into plastic plants in the US since 2010. “It was a kick in the teeth,” says Gardiner. “You’re telling me that while I am beating myself up because I forgot to bring my water bottle, all these huge oil companies are pouring billions …” She looks appalled. “It was just such a shock.”Two months before that piece was published, a photograph of a seahorse clinging to a plastic cotton bud had gone viral; two years before that England followed Wales, Scotland and Northern Ireland and introduced a charge for carrier bags. “I was one of so many people who were trying to use less plastic – and it just felt like such a moment of revelation: these companies are, on the contrary, increasing production and wanting to push [plastic use] up and up.” Then, says Gardiner, as she started researching her book Plastic Inc: Big Oil, Big Money and the Plan to Trash our Future, “it only becomes more shocking.” Continue reading...",
             "content": "Plastic production has doubled over the last 20 years – and will likely double again. For author Beth Gardiner, metal water bottles and canvas tote bags are not the solution. So what is?Like many of us who are mindful of our plastic consumption, Beth Gardiner would take her own bags to the supermarket and be annoyed whenever she forgot to do so. Out without her refillable bottle, she would avoid buying bottled water. “Here I am, in my own little life, worrying about that and trying to use less plastic,” she says. Then she read an article in this newspaper, just over eight years ago, and discovered that fossil fuel companies had ploughed more than $180bn (£130bn) into plastic plants in the US since 2010. “It was a kick in the teeth,” says Gardiner. “You’re telling me that while I am beating myself up because I forgot to bring my water bottle, all these huge oil companies are pouring billions …” She looks appalled. “It was just such a shock.”Two months before that piece was published, a photograph of a seahorse clinging to a plastic cotton bud had gone viral; two years before that England followed Wales, Scotland and Northern Ireland and introduced a charge for carrier bags. “I was one of so many people who were trying to use less plastic – and it just felt like such a moment of revelation: these companies are, on the contrary, increasing production and wanting to push [plastic use] up and up.” Then, says Gardiner, as she started researching her book Plastic Inc: Big Oil, Big Money and the Plan to Trash our Future, “it only becomes more shocking.” Continue reading...",
-            "feed_position": 1
+            "feed_position": 4
           }
         ],
         "ai_summary": [
           "Plastic production has doubled in 20 years",
-          "Fossil fuel companies invest in plastic plants",
-          "Individual actions may not be enough to reduce plastic",
-          "Oil companies pour billions into plastic production",
-          "Plastic use is a major environmental concern"
+          "Big oil companies invest in plastic plants",
+          "Fossil fuel companies drive plastic production",
+          "Plastic use is a major environmental concern",
+          "Reducing plastic consumption is a challenge"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 09:20:22 GMT",
         "title": "BBC plans David Attenborough celebration for 100th birthday",
@@ -185,21 +339,21 @@
             "title": "BBC plans David Attenborough celebration for 100th birthday",
             "standfirst": "The corporation will look back on the veteran wildlife broadcaster's career for his birthday in May.",
             "content": "The corporation will look back on the veteran wildlife broadcaster's career for his birthday in May.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d31/live/8ae65d80-0d6f-11f1-b7e1-afb6d0884c18.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d31/live/8ae65d80-0d6f-11f1-b7e1-afb6d0884c18.jpg",
         "ai_summary": [
           "David Attenborough turns 100 in May",
-          "BBC will look back on his career",
+          "BBC plans celebration of his career",
           "Attenborough is a veteran wildlife broadcaster",
-          "Celebration will honor his contributions",
-          "BBC will air special programs for his birthday"
+          "His career spans many decades and topics",
+          "BBC will look back on his notable work"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 05:07:07 GMT",
         "title": "'Smiling' fossil discovered on Holy Island",
@@ -212,25 +366,25 @@
             "title": "'Smiling' fossil discovered on Holy Island",
             "standfirst": "The unusual looking fossil is estimated to be a few hundred million years old dating to the Carboniferous period.",
             "content": "The unusual looking fossil is estimated to be a few hundred million years old dating to the Carboniferous period.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a407/live/c9db3000-0500-11f1-95ed-5b98410ce4f4.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a407/live/c9db3000-0500-11f1-95ed-5b98410ce4f4.jpg",
         "ai_summary": [
-          "Fossil is estimated to be hundreds of millions old",
+          "Fossil is estimated to be hundreds million years old",
           "Fossil dates back to the Carboniferous period",
-          "Discovery was made on Holy Island",
-          "Fossil has a unique smiling appearance",
-          "Scientists are studying the fossil for more insights"
+          "The fossil has a unique smiling appearance",
+          "Holy Island is a significant fossil discovery site",
+          "Fossil discovery sheds light on ancient life"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 05:00:56 GMT",
         "title": "Beef and lamb get 580 times more in EU subsidies than legumes, study finds",
-        "neutral_headline": "Beef and lamb get more EU subsidies than legumes",
+        "neutral_headline": "EU subsidies favor beef and lamb over legumes",
         "items": [
           {
             "source": "Guardian Health",
@@ -239,23 +393,23 @@
             "title": "Beef and lamb get 580 times more in EU subsidies than legumes, study finds",
             "standfirst": "Report says common agricultural policy provides ‘unfair’ levels of support to unhealthy, meat-heavy dietsBeef and lamb receive 580 times more in EU subsidies than legumes, a report has found, despite scientists urging people to get more of their protein from less harmful sources.Analysis by the charity Foodrise found the EU’s common agricultural policy (CAP) provides “unfair” levels of support to meat-heavy diets that doctors consider unhealthy and climate scientists consider environmentally destructive. Continue reading...",
             "content": "Report says common agricultural policy provides ‘unfair’ levels of support to unhealthy, meat-heavy dietsBeef and lamb receive 580 times more in EU subsidies than legumes, a report has found, despite scientists urging people to get more of their protein from less harmful sources.Analysis by the charity Foodrise found the EU’s common agricultural policy (CAP) provides “unfair” levels of support to meat-heavy diets that doctors consider unhealthy and climate scientists consider environmentally destructive. Continue reading...",
-            "feed_position": 2
+            "feed_position": 5
           }
         ],
         "ai_summary": [
-          "EU subsidies favor meat heavy diets",
-          "Legumes receive less support than beef and lamb",
-          "Scientists recommend more plant based diets",
+          "EU subsidies favor meat over legumes",
+          "Beef and lamb get more subsidies than legumes",
+          "Legumes are a more environmentally friendly option",
           "EU common agricultural policy is under scrutiny",
-          "Subsidies may be contributing to unhealthy diets"
+          "Subsidies impact food production and environment"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 05:00:55 GMT",
         "title": "Psychedelics for depression, dart frog poison and why do we have chins? – podcast",
-        "neutral_headline": "Psychedelics for depression and frog poison",
+        "neutral_headline": "Psychedelics for depression and dart frog poison",
         "items": [
           {
             "source": "Guardian Health",
@@ -264,23 +418,23 @@
             "title": "Psychedelics for depression, dart frog poison and why do we have chins? – podcast",
             "standfirst": "Madeleine Finlay sits down with science editor Ian Sample and science correspondent Nicola Davis to discuss three eye-catching stories, including the impact of a powerful psychedelic on depression, answers on the death of Russian opposition leader Alexei Navalny, and an explanation to the mystery of why humans have chinsSingle dose of potent psychedelic drug could help treat depression, trial showsWas Navalny poisoning by frog toxin meant to send a message? Continue reading...",
             "content": "Madeleine Finlay sits down with science editor Ian Sample and science correspondent Nicola Davis to discuss three eye-catching stories, including the impact of a powerful psychedelic on depression, answers on the death of Russian opposition leader Alexei Navalny, and an explanation to the mystery of why humans have chinsSingle dose of potent psychedelic drug could help treat depression, trial showsWas Navalny poisoning by frog toxin meant to send a message? Continue reading...",
-            "feed_position": 3
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "Psychedelic drug may help treat depression",
-          "Frog poison is being researched for its properties",
-          "Scientists discuss eye catching stories",
-          "Psychedelics may have therapeutic benefits",
-          "Research is ongoing into psychedelic treatments"
+          "Psychedelics show promise in treating depression",
+          "Dart frog poison is a unique topic of study",
+          "Scientists discuss various health topics",
+          "Psychedelics and frog poison are researched",
+          "Depression treatment options are being explored"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 04:40:06 GMT",
         "title": "The ‘guinea pigs’ who had face transplant surgery – podcast",
-        "neutral_headline": "The guinea pigs who had face transplant surgery",
+        "neutral_headline": "Face transplant patients share their experiences",
         "items": [
           {
             "source": "Guardian Health",
@@ -289,23 +443,23 @@
             "title": "The ‘guinea pigs’ who had face transplant surgery – podcast",
             "standfirst": "Face transplant patient Robert Chelsea and writer Fay Bound Alberti talk through the promise – and darker side – of this pioneering surgeryIn 2019, Robert Chelsea made medical history, becoming the first black patient to ever have a full face transplant.He had previously suffered from a devastating car crash, leaving his face severely burnt. Once, he recalls to Annie Kelly, a little boy on the street shouted that he ‘looked like a zombie’. Continue reading...",
             "content": "Face transplant patient Robert Chelsea and writer Fay Bound Alberti talk through the promise – and darker side – of this pioneering surgeryIn 2019, Robert Chelsea made medical history, becoming the first black patient to ever have a full face transplant.He had previously suffered from a devastating car crash, leaving his face severely burnt. Once, he recalls to Annie Kelly, a little boy on the street shouted that he ‘looked like a zombie’. Continue reading...",
-            "feed_position": 4
+            "feed_position": 7
           }
         ],
         "ai_summary": [
+          "Face transplant patients talk about their journeys",
           "Robert Chelsea had a full face transplant",
-          "Face transplant surgery is a pioneering procedure",
-          "Patients undergo significant risks and challenges",
-          "Surgery can greatly improve quality of life",
-          "Researchers are studying the benefits and risks"
+          "Face transplant surgery is a complex procedure",
+          "Patients share their experiences and challenges",
+          "Face transplant surgery has a significant impact"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 20:25:37 GMT",
         "title": "NHS joint ops disrupted amid bone cement supply problems",
-        "neutral_headline": "NHS joint ops disrupted amid bone cement supply",
+        "neutral_headline": "NHS joint ops disrupted due to bone cement",
         "items": [
           {
             "source": "BBC Health",
@@ -320,19 +474,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4dd/live/832a0c40-0cde-11f1-9aaa-bdef89911abe.jpg",
         "ai_summary": [
-          "Bone cement supply problems affect NHS operations",
-          "Around 1000 operations rely on the product weekly",
+          "Bone cement supply problems affect NHS ops",
+          "Around 1000 operations rely on the product",
           "Patients are warned of inevitable delays",
           "NHS is working to resolve the supply issue",
-          "Delays may impact patient recovery times"
+          "Bone cement is a critical component for surgery"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 20:14:40 GMT",
         "title": "NHS to spend more to settle lawsuits over negligence during childbirth after court ruling",
-        "neutral_headline": "NHS to spend more to settle lawsuits over negligence",
+        "neutral_headline": "NHS to spend more on lawsuits over childbirth",
         "items": [
           {
             "source": "Guardian Health",
@@ -341,23 +495,23 @@
             "title": "NHS to spend more to settle lawsuits over negligence during childbirth after court ruling",
             "standfirst": "Supreme court rules children in England who suffer serious injuries at birth can claim for future lost earningsThe NHS will have to spend more money settling lawsuits involving negligence during childbirth after a supreme court ruling that lawyers said puts right a “historic injustice”.The court ruled on Wednesday that children in England who suffer catastrophic injuries while they are being born can claim damages for future earnings they would otherwise have had. Continue reading...",
             "content": "Supreme court rules children in England who suffer serious injuries at birth can claim for future lost earningsThe NHS will have to spend more money settling lawsuits involving negligence during childbirth after a supreme court ruling that lawyers said puts right a “historic injustice”.The court ruled on Wednesday that children in England who suffer catastrophic injuries while they are being born can claim damages for future earnings they would otherwise have had. Continue reading...",
-            "feed_position": 5
+            "feed_position": 8
           }
         ],
         "ai_summary": [
-          "Supreme court rules on negligence during childbirth",
+          "Supreme court rules on childbirth negligence cases",
           "Children can claim for future lost earnings",
-          "NHS will spend more on lawsuit settlements",
-          "Ruling puts right a historic injustice",
-          "Lawyers say the ruling is a significant change"
+          "NHS will spend more on settling lawsuits",
+          "Court ruling has significant implications for NHS",
+          "Childbirth negligence cases are a major concern"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 17:45:57 GMT",
         "title": "NHS hip and knee operations threatened by bone cement supply shortage",
-        "neutral_headline": "NHS hip and knee operations threatened by shortage",
+        "neutral_headline": "NHS hip and knee operations threatened by bone cement shortage",
         "items": [
           {
             "source": "Guardian Health",
@@ -366,23 +520,23 @@
             "title": "NHS hip and knee operations threatened by bone cement supply shortage",
             "standfirst": "Campaigners say the news is a ‘crushing blow’ to patients waiting for surgeriesA shortage in medical cement could lead to delays in a number of patients getting hip and knee replacements and other planned surgeries, experts have said.There is a global supply issue from the NHS’s main provider of bone cement. As a result, hospitals have been ordered to ensure supplies are directed to trauma and urgent care. Continue reading...",
             "content": "Campaigners say the news is a ‘crushing blow’ to patients waiting for surgeriesA shortage in medical cement could lead to delays in a number of patients getting hip and knee replacements and other planned surgeries, experts have said.There is a global supply issue from the NHS’s main provider of bone cement. As a result, hospitals have been ordered to ensure supplies are directed to trauma and urgent care. Continue reading...",
-            "feed_position": 0
+            "feed_position": 9
           }
         ],
         "ai_summary": [
-          "Bone cement shortage affects NHS operations",
-          "Hip and knee replacements may be delayed",
-          "Global supply issue impacts NHS services",
-          "Hospitals are prioritizing urgent care",
-          "Patients may face longer waiting times"
+          "Global supply issue affects NHS main provider of bone cement",
+          "Hospitals ordered to direct supplies to trauma and urgent care",
+          "Shortage may lead to delays in planned surgeries",
+          "Hip and knee replacements affected by supply issue",
+          "Campaigners say news is a crushing blow to patients"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 17:37:34 GMT",
         "title": "Children injured by NHS can claim damages for lifetime lost earnings, court rules",
-        "neutral_headline": "Children injured by NHS can claim damages",
+        "neutral_headline": "Children injured by NHS can claim damages for lifetime lost earnings court rules",
         "items": [
           {
             "source": "BBC Health",
@@ -397,19 +551,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a81c/live/55dd64a0-0ce6-11f1-b5e2-dd58fc65f0f6.jpg",
         "ai_summary": [
-          "Supreme court rules on lifetime lost earnings",
-          "Children can claim damages for injuries",
-          "NHS may face significant cost implications",
-          "Ruling is a major change for NHS liability",
-          "Lawyers say the ruling is a significant victory"
+          "Supreme Court rules on case of child with brain injury at birth",
+          "Decision has significant cost implications for the NHS",
+          "Children can claim damages for lifetime lost earnings",
+          "Ruling applies to cases of NHS negligence",
+          "Court decision sets new precedent for NHS claims"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 17:27:10 GMT",
         "title": "Environmental groups sue Trump’s EPA over repeal of landmark climate finding",
-        "neutral_headline": "Environmental groups sue Trumps EPA over climate",
+        "neutral_headline": "Environmental groups sue Trumps EPA over climate finding repeal",
         "items": [
           {
             "source": "Guardian Health",
@@ -418,23 +572,23 @@
             "title": "Environmental groups sue Trump’s EPA over repeal of landmark climate finding",
             "standfirst": "Lawsuit from health and environmental justice groups challenges the EPA’s rollback of the ‘endangerment finding’More than a dozen health and environmental justice non-profits have sued the Environmental Protection Agency (EPA) over its revocation of the legal determination that underpins US federal climate regulations.Filed in Washington DC circuit court, the lawsuit challenges the EPA’s rollback of the “endangerment finding”, which states that the buildup of heat-trapping pollution in the atmosphere endangers public health and welfare and has allowed the EPA to limit those emissions from vehicles, power plants and other industrial sources since 2009. The rollback was widely seen as a major setback to US efforts to combat the climate crisis. Continue reading...",
             "content": "Lawsuit from health and environmental justice groups challenges the EPA’s rollback of the ‘endangerment finding’More than a dozen health and environmental justice non-profits have sued the Environmental Protection Agency (EPA) over its revocation of the legal determination that underpins US federal climate regulations.Filed in Washington DC circuit court, the lawsuit challenges the EPA’s rollback of the “endangerment finding”, which states that the buildup of heat-trapping pollution in the atmosphere endangers public health and welfare and has allowed the EPA to limit those emissions from vehicles, power plants and other industrial sources since 2009. The rollback was widely seen as a major setback to US efforts to combat the climate crisis. Continue reading...",
-            "feed_position": 6
+            "feed_position": 10
           }
         ],
         "ai_summary": [
-          "Lawsuit challenges EPA rollback of climate finding",
-          "EPA repealed the endangerment finding",
-          "Health and environmental groups filed the lawsuit",
-          "Rollback has significant implications for climate",
-          "Lawsuit aims to reinstate the climate finding"
+          "Lawsuit challenges EPAs rollback of endangerment finding",
+          "Health and environmental groups file lawsuit in DC court",
+          "EPA rollback allows increased emissions from vehicles",
+          "Endangerment finding underpins US federal climate regulations",
+          "Lawsuit seeks to reinstate original climate finding"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 17:00:53 GMT",
         "title": "Ketamine addiction making teenagers wet the bed, says UK’s first specialist clinic",
-        "neutral_headline": "Ketamine Addiction Causes Bladder Problems",
+        "neutral_headline": "Ketamine addiction causes teenagers to experience bladder problems",
         "items": [
           {
             "source": "Guardian Health",
@@ -443,23 +597,23 @@
             "title": "Ketamine addiction making teenagers wet the bed, says UK’s first specialist clinic",
             "standfirst": "Medics in Liverpool say intervention is needed to save children from ‘a miserable life’ of bladder problemsChildren are using incontinence pads and urinating in buckets next to their bed at night due to bladder problems caused by ketamine addiction, according to the first specialist NHS clinic dealing with the issue.Medics at Alder Hey children’s hospital in Liverpool have opened the first ketamine clinic for young people in the UK in response to a surge in urology problems linked to addiction of the drug. Continue reading...",
             "content": "Medics in Liverpool say intervention is needed to save children from ‘a miserable life’ of bladder problemsChildren are using incontinence pads and urinating in buckets next to their bed at night due to bladder problems caused by ketamine addiction, according to the first specialist NHS clinic dealing with the issue.Medics at Alder Hey children’s hospital in Liverpool have opened the first ketamine clinic for young people in the UK in response to a surge in urology problems linked to addiction of the drug. Continue reading...",
-            "feed_position": 7
+            "feed_position": 11
           }
         ],
         "ai_summary": [
-          "Ketamine addiction leads to bladder problems in teenagers",
-          "Teenagers use incontinence pads due to ketamine addiction",
-          "Medics open specialist clinic for ketamine addiction",
-          "Clinic aims to save children from bladder problems",
-          "Intervention is needed to address ketamine addiction"
+          "UKs first specialist clinic treats ketamine addiction in teenagers",
+          "Medics report surge in urology problems linked to addiction",
+          "Children use incontinence pads due to bladder issues",
+          "Ketamine addiction leads to miserable life of bladder problems",
+          "Clinic offers intervention to save children from addiction"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 15:29:34 GMT",
         "title": "Queen at Sea review – crushingly sad dementia drama offers a startling portrait of intimacy",
-        "neutral_headline": "Queen at Sea review – crushingly sad dementia drama offers a startling portrait of intimacy",
+        "neutral_headline": "Queen at Sea review – crushingly sad dementia drama offers startling portrait of intimacy",
         "items": [
           {
             "source": "Guardian Health",
@@ -468,23 +622,23 @@
             "title": "Queen at Sea review – crushingly sad dementia drama offers a startling portrait of intimacy",
             "standfirst": "Driven by fine performances from Tom Courtenay and Anna Calder-Marshall, Lance Hammer’s comeback is unbearable in its tragic candour and essential in its moral questioning This inexpressibly painful and sad story – featuring angry, complex, brilliant late-career performances from Tom Courtenay and Anna Calder-Marshall – is about dementia, the endgame of care and the decisions that need to be made when the spouse-carer is as vulnerable as the patient (and whose right it is to take those decisions). It is about the nature of intimacy between the two; and about the moment this becomes a problem for the grownup children with a conflicting sense of their own responsibilities.Queen at Sea is directed by indie US film-maker Lance Hammer, absent since his 2008 Sundance winner, Ballast. This is an almighty comeback, a lacerating movie bearing comparison with Michael Haneke’s Amour or Gaspar Noé’s Vortex. It concludes with a heartbreakingly ironic and enigmatic final sequence refusing the traditional final cadence; a diptych of love, contrasting the pleasures and expectations of intimacy across the generations. Continue reading...",
             "content": "Driven by fine performances from Tom Courtenay and Anna Calder-Marshall, Lance Hammer’s comeback is unbearable in its tragic candour and essential in its moral questioning This inexpressibly painful and sad story – featuring angry, complex, brilliant late-career performances from Tom Courtenay and Anna Calder-Marshall – is about dementia, the endgame of care and the decisions that need to be made when the spouse-carer is as vulnerable as the patient (and whose right it is to take those decisions). It is about the nature of intimacy between the two; and about the moment this becomes a problem for the grownup children with a conflicting sense of their own responsibilities.Queen at Sea is directed by indie US film-maker Lance Hammer, absent since his 2008 Sundance winner, Ballast. This is an almighty comeback, a lacerating movie bearing comparison with Michael Haneke’s Amour or Gaspar Noé’s Vortex. It concludes with a heartbreakingly ironic and enigmatic final sequence refusing the traditional final cadence; a diptych of love, contrasting the pleasures and expectations of intimacy across the generations. Continue reading...",
-            "feed_position": 8
+            "feed_position": 12
           }
         ],
         "ai_summary": [
-          "Queen at Sea is a drama about dementia and intimacy",
           "Film features performances from Tom Courtenay and Anna Calder-Marshall",
-          "Director Lance Hammer makes a comeback with the film",
-          "Movie explores the nature of intimacy and care",
-          "Film concludes with a heartbreakingly ironic final sequence"
+          "Movie directed by Lance Hammer is a comeback after 14 years",
+          "Story is about dementia and the endgame of care",
+          "Film explores nature of intimacy between spouses",
+          "Movie concludes with heartbreakingly ironic final sequence"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Wed, 18 Feb 2026 14:54:24 GMT",
         "title": "Plaid promises Welsh communities share of renewable energy profits",
-        "neutral_headline": "Plaid Promises Community Share of Renewable Energy",
+        "neutral_headline": "Plaid promises Welsh communities share of renewable energy profits",
         "items": [
           {
             "source": "BBC Science",
@@ -493,177 +647,23 @@
             "title": "Plaid promises Welsh communities share of renewable energy profits",
             "standfirst": "Plaid Cymru says renewable energy projects would have to hand over stakes of up to 25% to local communities.",
             "content": "Plaid Cymru says renewable energy projects would have to hand over stakes of up to 25% to local communities.",
-            "feed_position": 29,
+            "feed_position": 30,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce7/live/520c1060-0c2d-11f1-a62a-a37536f5ddff.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce7/live/520c1060-0c2d-11f1-a62a-a37536f5ddff.jpg",
         "ai_summary": [
-          "Plaid Cymru promises community share of renewable energy",
-          "Renewable energy projects must hand over up to 25% stakes",
-          "Local communities to benefit from renewable energy profits",
-          "Plaid Cymru aims to support Welsh communities",
-          "Renewable energy projects to have community involvement"
-        ]
-      },
-      {
-        "id": "cluster_14",
-        "coverage": 1,
-        "updated_at": "Wed, 18 Feb 2026 12:29:02 GMT",
-        "title": "Suicide rates for UK men are a ‘national catastrophe’, says Prince William",
-        "neutral_headline": "Prince William Calls Male Suicide Rates National Catastrophe",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/uk-news/2026/feb/18/suicide-rates-for-uk-men-are-a-national-catastrophe-says-prince-william",
-            "published_at": "Wed, 18 Feb 2026 12:29:02 GMT",
-            "title": "Suicide rates for UK men are a ‘national catastrophe’, says Prince William",
-            "standfirst": "William tells radio panel that talking about emotions and mental health should become ‘second nature to us all’ Prince William has called the prevalence of male suicide in the UK a “national catastrophe” in a radio appearance in which he opened up about his approaches to dealing with difficult emotions.William told a special episode of Radio 1’s Life Hacks that “we need more male role models” to talk about their mental health publicly, to help other men do the same and make open discussions “second nature to us all”. Continue reading...",
-            "content": "William tells radio panel that talking about emotions and mental health should become ‘second nature to us all’ Prince William has called the prevalence of male suicide in the UK a “national catastrophe” in a radio appearance in which he opened up about his approaches to dealing with difficult emotions.William told a special episode of Radio 1’s Life Hacks that “we need more male role models” to talk about their mental health publicly, to help other men do the same and make open discussions “second nature to us all”. Continue reading...",
-            "feed_position": 9
-          }
-        ],
-        "ai_summary": [
-          "Prince William discusses male suicide rates on radio",
-          "Male suicide rates are a national catastrophe in the UK",
-          "Prince William calls for more male role models",
-          "Men should talk openly about mental health",
-          "Open discussions can help prevent male suicide"
-        ]
-      },
-      {
-        "id": "cluster_15",
-        "coverage": 1,
-        "updated_at": "Wed, 18 Feb 2026 12:00:31 GMT",
-        "title": "Long Covid is still here. I know – my life came to a stop because of it",
-        "neutral_headline": "Long Covid Still Affects Many People",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/feb/18/long-covid-symptoms-treatment",
-            "published_at": "Wed, 18 Feb 2026 12:00:31 GMT",
-            "title": "Long Covid is still here. I know – my life came to a stop because of it",
-            "standfirst": "With more than 200 possible symptoms, long Covid isn’t easy to treat and diagnose. Rolled-back federal funding has led longhaulers to ask: is this all in my head?I am 30ft below the surface of the Blue Grotto, a crystalline diving hole in central Florida. Between the water’s embrace and the restriction of my wetsuit, my blood pressure finally stabilizes. The long, deep breaths I pull from my respirator keep my heart rate nice and low.I feel lighter than I have since April 2022, when I first contracted long Covid. I feel childlike at the fact that I can do this at all – get scuba certified – when on land I’m often confined to a wheelchair or a walker. Continue reading...",
-            "content": "With more than 200 possible symptoms, long Covid isn’t easy to treat and diagnose. Rolled-back federal funding has led longhaulers to ask: is this all in my head?I am 30ft below the surface of the Blue Grotto, a crystalline diving hole in central Florida. Between the water’s embrace and the restriction of my wetsuit, my blood pressure finally stabilizes. The long, deep breaths I pull from my respirator keep my heart rate nice and low.I feel lighter than I have since April 2022, when I first contracted long Covid. I feel childlike at the fact that I can do this at all – get scuba certified – when on land I’m often confined to a wheelchair or a walker. Continue reading...",
-            "feed_position": 10
-          }
-        ],
-        "ai_summary": [
-          "Long Covid has many possible symptoms",
-          "Long Covid is difficult to treat and diagnose",
-          "Federal funding for long Covid has been rolled back",
-          "Long Covid patients face challenges in daily life",
-          "Patients struggle to access proper care and treatment"
-        ]
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Wed, 18 Feb 2026 11:21:21 GMT",
-        "title": "Woman's leg amputated after botched knee op",
-        "neutral_headline": "Woman's Leg Amputated After Botched Surgery",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/cx28g8y4jqzo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 18 Feb 2026 11:21:21 GMT",
-            "title": "Woman's leg amputated after botched knee op",
-            "standfirst": "The patient was the victim of a \"life-changing error\" when a drill slipped during surgery.",
-            "content": "The patient was the victim of a \"life-changing error\" when a drill slipped during surgery.",
-            "feed_position": 5,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9da7/live/49e2c3b0-0c24-11f1-b639-2bb91f8e49a9.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9da7/live/49e2c3b0-0c24-11f1-b639-2bb91f8e49a9.jpg",
-        "ai_summary": [
-          "Woman undergoes knee operation with complications",
-          "Drill slips during surgery causing life-changing error",
-          "Patient suffers serious injury due to medical mistake",
-          "Hospital investigates the cause of the error",
-          "Patient faces long recovery after amputation"
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Wed, 18 Feb 2026 08:00:03 GMT",
-        "title": "Campaign urges NHS to improve diagnosis of potentially life-threatening childbirth condition",
-        "neutral_headline": "Campaign Urges NHS to Improve Childbirth Diagnosis",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/feb/18/campaign-nhs-diagnosis-childbirth-condition-placenta-accreta",
-            "published_at": "Wed, 18 Feb 2026 08:00:03 GMT",
-            "title": "Campaign urges NHS to improve diagnosis of potentially life-threatening childbirth condition",
-            "standfirst": "Exclusive: Five hospitals failed to spot Amisha Adhia had placenta accreta before one obstetrician intervenedAfter five hospitals failed to spot that she had a rare but potentially fatal complication of childbirth, Amisha Adhia is to launch a campaign urging the NHS to do more to diagnose the condition and save lives.Pregnant women are at much greater risk of developing placenta accreta spectrum if they have already given birth by caesarean section or had IVF treatment. Continue reading...",
-            "content": "Exclusive: Five hospitals failed to spot Amisha Adhia had placenta accreta before one obstetrician intervenedAfter five hospitals failed to spot that she had a rare but potentially fatal complication of childbirth, Amisha Adhia is to launch a campaign urging the NHS to do more to diagnose the condition and save lives.Pregnant women are at much greater risk of developing placenta accreta spectrum if they have already given birth by caesarean section or had IVF treatment. Continue reading...",
-            "feed_position": 11
-          }
-        ],
-        "ai_summary": [
-          "Campaign aims to improve diagnosis of placenta accreta",
-          "Five hospitals failed to diagnose Amisha Adhia's condition",
-          "Pregnant women at risk of developing placenta accreta",
-          "Caesarean section and IVF increase risk of condition",
-          "NHS must improve diagnosis to save lives"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Wed, 18 Feb 2026 07:00:02 GMT",
-        "title": "Hazardous substances found in all headphones tested by ToxFREE project",
-        "neutral_headline": "Headphones Contain Hazardous Substances",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/technology/2026/feb/18/hazardous-substances-headphones",
-            "published_at": "Wed, 18 Feb 2026 07:00:02 GMT",
-            "title": "Hazardous substances found in all headphones tested by ToxFREE project",
-            "standfirst": "Substances include chemicals that can cause cancer, neurodevelopmental problems and the feminisation of malesYou wear them at work, you wear them at play, you wear them to relax. You may even get sweaty in them at the gym.But an investigation into headphones has found every single pair tested contained substances hazardous to human health, including chemicals that can cause cancer, neurodevelopmental problems and the feminisation of males. Continue reading...",
-            "content": "Substances include chemicals that can cause cancer, neurodevelopmental problems and the feminisation of malesYou wear them at work, you wear them at play, you wear them to relax. You may even get sweaty in them at the gym.But an investigation into headphones has found every single pair tested contained substances hazardous to human health, including chemicals that can cause cancer, neurodevelopmental problems and the feminisation of males. Continue reading...",
-            "feed_position": 12
-          }
-        ],
-        "ai_summary": [
-          "Headphones contain substances hazardous to health",
-          "Chemicals in headphones can cause cancer and problems",
-          "Investigation finds hazardous substances in all headphones",
-          "Substances can cause neurodevelopmental issues",
-          "Headphones pose health risks to users"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Wed, 18 Feb 2026 06:24:29 GMT",
-        "title": "Scotland's supplies of prescription co-codamol limited until June",
-        "neutral_headline": "Scotland's Co-Codamol Supplies Limited Until June",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/ce8nvnlmlnmo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 18 Feb 2026 06:24:29 GMT",
-            "title": "Scotland's supplies of prescription co-codamol limited until June",
-            "standfirst": "Some health boards have told people using the painkiller to begin reducing their tablets by one a week.",
-            "content": "Some health boards have told people using the painkiller to begin reducing their tablets by one a week.",
-            "feed_position": 6,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8ed/live/e7315810-0c25-11f1-b639-2bb91f8e49a9.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8ed/live/e7315810-0c25-11f1-b639-2bb91f8e49a9.jpg",
-        "ai_summary": [
-          "Scotland faces limited co-codamol supplies until June",
-          "Health boards advise reducing co-codamol tablets",
-          "Patients must reduce co-codamol intake gradually",
-          "Co-codamol shortage affects pain management",
-          "Alternative painkillers may be prescribed instead"
+          "Plaid Cymru proposes renewable energy projects share profits",
+          "Local communities to receive up to 25 percent of profits",
+          "Renewable energy projects to benefit Welsh communities",
+          "Proposal aims to support local communities financially",
+          "Plaid Cymru says communities should benefit from energy projects"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-19T11:38:28.555Z",
+    "updated_at": "2026-02-19T19:38:41.230Z",
     "clusters": []
   }
 }
