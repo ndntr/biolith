@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-02-20T07:48:47.144Z",
+    "updated_at": "2026-02-20T11:32:17.871Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-20T07:48:55.730Z",
+    "updated_at": "2026-02-20T11:32:31.266Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/441818a5-e9c0-4022-9842-d7753ea2fba1/Putting-the-pub-in-public-health.aspx",
         "ai_summary": [
-          "Victorian GP creates Pub Clinics for men's health",
-          "Pub Clinics earn top honour for innovative approach",
-          "Men's health issues addressed in unique setting",
-          "GP's novel idea proves successful in community",
-          "Pub Clinics provide accessible health services"
+          "Victorian GP receives top honour for Pub Clinics",
+          "Pub Clinics prove lifesaver for local community",
+          "Novel idea gets men interested in health",
+          "GP's approach earns recognition and award",
+          "Community benefits from innovative health initiative"
         ]
       },
       {
@@ -54,10 +54,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/48557e30-57fd-4df7-8cd4-84ca83fb6570/Free-RSV-vaccines-for-WA-aged-care-residents.aspx",
         "ai_summary": [
           "WA aged care residents to receive free RSV vaccines",
-          "15,000 people expected to receive subsidised vaccines",
+          "Estimated 15,000 people to get subsidised Arexvy vaccine",
           "RACGP advocates for vaccine reform",
-          "Arexvy vaccine to be provided to aged care residents",
-          "Vaccine aims to protect against RSV infections"
+          "Vaccine to protect against respiratory illness",
+          "Aged care residents to benefit from subsidised vaccine"
         ]
       },
       {
@@ -81,10 +81,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/fdd71d0a-594e-4a68-9ced-e68c41a1635f/RACGP-backs-Justice-Reform-Initiative.aspx",
         "ai_summary": [
           "RACGP supports Justice Reform Initiative",
-          "College joins broad spectrum of reform supporters",
-          "Justice system reform aims to address key issues",
-          "RACGP advocates for justice system change",
-          "Reform initiative seeks to improve justice outcomes"
+          "Initiative aims to reform justice system",
+          "College joins broad spectrum of supporter organisations",
+          "Reform to address systemic issues",
+          "RACGP commitment to social justice"
         ]
       },
       {
@@ -107,10 +107,10 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/25bc587a-88da-4355-9fba-297727cca38f/Unseen-non-patient-facing-work-significant-and-unrecognised.aspx",
         "ai_summary": [
-          "Non-patient-facing work significant in GP daily tasks",
-          "56% of GP time spent on patient-facing care",
-          "Unfunded work outside patient care remains unseen",
-          "Study reveals gaps in current funding system",
+          "Non-patient-facing work accounts for 44% of GP's day",
+          "Patient-facing care accounts for 56% of GP's time",
+          "Unfunded work remains unrecognised in current system",
+          "Study reveals significant workload of GPs",
           "GPs perform various tasks beyond patient care"
         ]
       },
@@ -135,23 +135,50 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/58babc22-6d3a-4afe-9883-7eaedc5ff480/Study-finds-MHT-not-linked-to-increased-risk-of-death.aspx",
         "ai_summary": [
           "Study tracks 900,000 women for 14 years",
-          "MHT not linked to increased risk of death",
-          "Experts urge caution when interpreting results",
-          "Key factors not considered in study findings",
-          "Study provides insight into women's health outcomes"
+          "No link found between MHT and increased death risk",
+          "Experts urge nuance in interpreting results",
+          "Study considers various health factors",
+          "MHT use and health outcomes examined"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-02-20T07:48:48.788Z",
+    "updated_at": "2026-02-20T11:32:26.321Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Fri, 20 Feb 2026 06:10:56 GMT",
+        "title": "Sepsis warning after woman's quadruple amputation",
+        "neutral_headline": "Sepsis warning after woman's quadruple amputation",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/clyv8py21rgo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 20 Feb 2026 06:10:56 GMT",
+            "title": "Sepsis warning after woman's quadruple amputation",
+            "standfirst": "Manjit Sangha, from Penn, near Wolverhampton, says her life drastically change in one weekend.",
+            "content": "Manjit Sangha, from Penn, near Wolverhampton, says her life drastically change in one weekend.",
+            "feed_position": 2,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d9/live/7a6e3f80-0dc5-11f1-9bd3-4fa07d1f121c.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d9/live/7a6e3f80-0dc5-11f1-9bd3-4fa07d1f121c.jpg",
+        "ai_summary": [
+          "Woman undergoes quadruple amputation due to sepsis",
+          "Sepsis warning issued after severe case",
+          "Woman's life changes drastically in one weekend",
+          "Sepsis can lead to severe health complications",
+          "Prompt medical attention is crucial for sepsis"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
         "updated_at": "Fri, 20 Feb 2026 06:00:26 GMT",
         "title": "‘Very dangerous’: a Mind mental health expert on Google’s AI Overviews",
-        "neutral_headline": "Google AI Overviews Provide Harmful Mental Health Advice",
+        "neutral_headline": "Mind launches inquiry into AI and mental health",
         "items": [
           {
             "source": "Guardian Health",
@@ -173,19 +200,46 @@
           }
         ],
         "ai_summary": [
-          "Google AI Overviews give harmful mental health advice",
-          "Mind mental health expert criticizes AI-generated content",
-          "AI summaries pose risks to people's mental health",
-          "Investigation exposes inaccuracies in AI Overviews",
-          "Mind launches inquiry into AI and mental health"
+          "Mind launches inquiry into AI and mental health",
+          "Google's AI Overviews give harmful mental health advice",
+          "Inquiry to examine risks and safeguards",
+          "AI-generated summaries pose risks to users",
+          "Mind to investigate AI's impact on mental health"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Fri, 20 Feb 2026 01:44:48 GMT",
+        "title": "Nasa boss says Boeing Starliner failure one of worst in its history",
+        "neutral_headline": "Nasa boss says Boeing Starliner failure one of worst",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cm2x3nlxg9jo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 20 Feb 2026 01:44:48 GMT",
+            "title": "Nasa boss says Boeing Starliner failure one of worst in its history",
+            "standfirst": "The agency released a critical report that puts the Starliner incident at same mistake level assigned to the fatal Columbia and Challenger shuttle disasters.",
+            "content": "The agency released a critical report that puts the Starliner incident at same mistake level assigned to the fatal Columbia and Challenger shuttle disasters.",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6072/live/29349e70-0dfc-11f1-9840-89181305bedf.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6072/live/29349e70-0dfc-11f1-9840-89181305bedf.jpg",
+        "ai_summary": [
+          "Nasa boss criticises Boeing Starliner failure",
+          "Failure compared to fatal Columbia and Challenger",
+          "Critical report released on Starliner incident",
+          "Incident highlights significant safety concerns",
+          "Nasa and Boeing to address safety issues"
+        ]
+      },
+      {
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Fri, 20 Feb 2026 01:04:25 GMT",
         "title": "Cats may hold clues for human cancer treatment",
-        "neutral_headline": "Cats May Hold Clues For Human Cancer Treatment",
+        "neutral_headline": "Cats may hold clues for human cancer treatment",
         "items": [
           {
             "source": "BBC Health",
@@ -200,46 +254,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a973/live/864eb9e0-0da4-11f1-917e-133342cfe2a1.jpg",
         "ai_summary": [
-          "Cats may hold clues for human cancer treatment",
-          "Household cats could help understand cancer types",
-          "Breast cancer research may benefit from cat studies",
-          "Cats provide unique insights into cancer biology",
-          "Feline research could lead to new treatments"
+          "Cats may hold clues for human cancer research",
+          "Household cats could help understand cancer",
+          "Cats may provide insights into breast cancer",
+          "Cancer treatment research to benefit from cats",
+          "Feline biology may inform human cancer treatment"
         ]
       },
       {
-        "id": "cluster_2",
-        "coverage": 1,
-        "updated_at": "Fri, 20 Feb 2026 00:23:10 GMT",
-        "title": "Lion DNA helps convict poachers for first time",
-        "neutral_headline": "Lion DNA Helps Convict Poachers For First Time",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c4grxvdyy00o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 20 Feb 2026 00:23:10 GMT",
-            "title": "Lion DNA helps convict poachers for first time",
-            "standfirst": "Investigators reveal how they were able to identify a missing animal using a database of lions in Zimbabwe.",
-            "content": "Investigators reveal how they were able to identify a missing animal using a database of lions in Zimbabwe.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3fa/live/8ffa8f30-0bfd-11f1-b726-1d6e709ef554.gif"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3fa/live/8ffa8f30-0bfd-11f1-b726-1d6e709ef554.gif",
-        "ai_summary": [
-          "Lion DNA used to convict poachers",
-          "Investigators use lion database to identify missing animal",
-          "DNA evidence helps solve poaching cases",
-          "Lion conservation efforts aided by DNA technology",
-          "Poachers convicted using innovative DNA approach"
-        ]
-      },
-      {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 22:58:13 GMT",
         "title": "Deer culling to be made easier to protect trees and crops",
-        "neutral_headline": "Deer Culling To Be Made Easier To Protect Trees And Crops",
+        "neutral_headline": "Deer culling to be made easier to protect trees",
         "items": [
           {
             "source": "BBC Science",
@@ -256,17 +283,17 @@
         "ai_summary": [
           "Government unveils 10-year deer management plan",
           "Deer culling to be made easier to protect trees",
-          "Culling aims to protect crops and forestry",
-          "Plan identifies priority culling areas",
-          "Deer management plan seeks to balance ecosystems"
+          "Plan aims to protect trees and crops from deer",
+          "Priority culling areas to be identified",
+          "Deer population management to balance ecosystem"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 22:30:35 GMT",
         "title": "Single vaccine could protect against all coughs, colds and flus, researchers say",
-        "neutral_headline": "Single Vaccine Could Protect Against All Coughs Colds And Flus",
+        "neutral_headline": "Single vaccine could protect against coughs colds flus",
         "items": [
           {
             "source": "BBC Health",
@@ -276,24 +303,24 @@
             "standfirst": "A Stanford University team have tested their nasal spray vaccine in animals but still need to do human clinical trials.",
             "content": "A Stanford University team have tested their nasal spray vaccine in animals but still need to do human clinical trials.",
             "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93b9/live/4a4f60e0-0dd4-11f1-9972-d3f265c101c6.jpg"
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8700/live/6c2b5460-0e44-11f1-b7e1-afb6d0884c18.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93b9/live/4a4f60e0-0dd4-11f1-9972-d3f265c101c6.jpg",
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8700/live/6c2b5460-0e44-11f1-b7e1-afb6d0884c18.jpg",
         "ai_summary": [
-          "Researchers develop single vaccine for coughs colds flus",
-          "Nasal spray vaccine tested in animals",
-          "Vaccine aims to provide broad protection",
-          "Human clinical trials still needed",
-          "Vaccine could revolutionize respiratory health"
+          "Researchers develop nasal spray vaccine",
+          "Vaccine could protect against coughs colds flus",
+          "Vaccine tested in animals with positive results",
+          "Human clinical trials to be conducted next",
+          "Vaccine aims to provide broad protection"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 21:57:01 GMT",
         "title": "More than 90 deaths this season: Are we seeing more avalanches?",
-        "neutral_headline": "Avalanches Put In Spotlight After Recent Deadly Incidents",
+        "neutral_headline": "More than 90 deaths this season from avalanches",
         "items": [
           {
             "source": "BBC Science",
@@ -308,19 +335,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ae/live/ca83d880-0dc6-11f1-b7e1-afb6d0884c18.jpg",
         "ai_summary": [
-          "Recent avalanches put spotlight on safety measures",
-          "Deadly incidents occur in California and Europe",
-          "Avalanches pose significant risks to outdoor enthusiasts",
-          "Safety protocols and awareness are crucial",
-          "Incidents highlight need for avalanche education"
+          "Avalanches cause over 90 deaths this season",
+          "Recent incidents in California and Europe reported",
+          "Avalanches put in spotlight due to fatalities",
+          "Safety measures and awareness to be promoted",
+          "Understanding avalanches to prevent accidents"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 21:00:00 GMT",
         "title": "BBC Inside Science",
-        "neutral_headline": "Future Civilisations Remembering Past Achievements",
+        "neutral_headline": "BBC Inside Science remembers future civilisations",
         "items": [
           {
             "source": "BBC Science",
@@ -335,19 +362,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
         "ai_summary": [
-          "Future civilisations may struggle to remember past",
-          "Methods for preserving knowledge are explored",
-          "Civilisations face challenges in preserving history",
-          "Preservation of knowledge is crucial for progress",
-          "Innovative methods needed for remembering past"
+          "BBC Inside Science discusses future civilisations",
+          "Topic of remembering past civilisations explored",
+          "Future civilisations to learn from past mistakes",
+          "Importance of preserving historical knowledge",
+          "Remembering past to inform future decisions"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 20:57:42 GMT",
         "title": "CDC vaccine panel meeting postponed amid RFK Jr bid to reshape policy",
-        "neutral_headline": "CDC Vaccine Panel Meeting Postponed Amid RFK Jr Bid",
+        "neutral_headline": "CDC vaccine panel meeting postponed amid RFK Jr bid",
         "items": [
           {
             "source": "Guardian Health",
@@ -360,19 +387,19 @@
           }
         ],
         "ai_summary": [
-          "CDC vaccine panel meeting postponed",
-          "RFK Jr challenges committee's legitimacy",
-          "US pediatricians question vaccine policy",
-          "Meeting postponement sparks controversy",
-          "Vaccine policy reform efforts are underway"
+          "CDC vaccine advisory panel meeting postponed",
+          "Postponement due to legal challenges and RFK Jr bid",
+          "ACIP meeting originally set for February",
+          "US pediatricians challenge committee's legitimacy",
+          "Vaccine policy and guidance to be reevaluated"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 17:00:00 GMT",
         "title": "BBC Inside Science",
-        "neutral_headline": "The Science Of Barbecue Explored At Abergavenny Food Festival",
+        "neutral_headline": "The science of barbecue at Abergavenny Food Festival",
         "items": [
           {
             "source": "BBC Science",
@@ -387,15 +414,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
         "ai_summary": [
-          "Science of barbecue explored at food festival",
-          "Abergavenny Food Festival hosts barbecue event",
-          "Experts discuss chemistry of barbecue cooking",
-          "Barbecue techniques and safety are examined",
-          "Festival celebrates science and food combination"
+          "BBC Inside Science records science of barbecue",
+          "Abergavenny Food Festival hosts science discussion",
+          "Barbecue science to be explored and explained",
+          "Festival attendees to learn about food science",
+          "Science behind cooking to be revealed"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 16:29:10 GMT",
         "title": "Martyn Webster obituary",
@@ -413,14 +440,14 @@
         ],
         "ai_summary": [
           "Martyn Webster died aged 86",
-          "He joined Canniesburn regional plastic surgery unit in 1971",
-          "Webster became a consultant and senior lecturer in 1976",
-          "His clinical experience covered microsurgery and reconstructive procedures",
-          "He was influential in the development of microsurgery in the UK"
+          "Joined Canniesburn regional plastic surgery unit in 1971",
+          "Became consultant and senior lecturer in 1976",
+          "Expert in microsurgery and reconstructive procedures",
+          "Worked at Glasgow Royal Infirmary"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 16:14:43 GMT",
         "title": "Wastewater testing reveals high levels of cocaine in Nantucket, Massachusetts",
@@ -437,15 +464,15 @@
           }
         ],
         "ai_summary": [
-          "Wastewater testing in Nantucket revealed high cocaine levels",
-          "Levels were up to three times the national average",
-          "Testing began last summer to monitor high-risk substances",
-          "Officials are concerned about the high levels of cocaine",
-          "The testing is part of a larger effort to monitor substance use"
+          "Nantucket wastewater tests show high cocaine levels",
+          "Levels up to three times the national average found",
+          "Testing began last summer to monitor substances",
+          "Officials concerned about high-risk substances",
+          "Wastewater testing used to monitor community health"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 16:01:18 GMT",
         "title": "Aidan Chidarikire obituary",
@@ -463,14 +490,14 @@
         ],
         "ai_summary": [
           "Aidan Chidarikire died aged 92",
-          "He was director of pharmacy services in Zimbabwe's Ministry",
-          "Chidarikire helped develop a healthcare system for Zimbabwe",
-          "He established an essential drugs list for the country",
-          "His work improved access to key medicines in rural areas"
+          "Served as director of pharmacy services in Zimbabwe",
+          "Played key role in developing healthcare system",
+          "Established essential drugs list for majority population",
+          "Led country-wide training workshops for medicine management"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 16:00:42 GMT",
         "title": "SpaceX rocket fireball linked to plume of polluting lithium",
@@ -489,15 +516,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62bf/live/05ce5b10-0d84-11f1-a355-f9c151a9e8be.jpg",
         "ai_summary": [
-          "A SpaceX Falcon 9 crashed to Earth last year",
-          "Scientists measured the pollution caused by the crash",
-          "The pollution was linked to a plume of lithium",
-          "The crash had a significant environmental impact",
-          "The study highlights the need for sustainable space exploration"
+          "SpaceX Falcon 9 crashed to Earth last year",
+          "Scientists measured pollution caused by crash",
+          "Pollution linked to plume of polluting lithium",
+          "Crash had environmental impact",
+          "Scientists studied effects of rocket crash"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 14:00:13 GMT",
         "title": "Experts warn NIH director now leading CDC will push ‘RFK Jr’s agenda’",
@@ -514,19 +541,19 @@
           }
         ],
         "ai_summary": [
-          "Jay Bhattacharya was named acting director of the CDC",
-          "He is a close ally of Robert F Kennedy Jr",
-          "Bhattacharya may sign off on changes to the vaccine schedule",
-          "His appointment has raised concerns among health experts",
-          "The move consolidates power among a small group of men"
+          "Jay Bhattacharya named acting director of CDC",
+          "Bhattacharya is ally of Robert F Kennedy Jr",
+          "Concerns about vaccine schedule changes",
+          "Bhattacharya may sign off on further changes",
+          "Fourth leader in a year to head CDC"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 10:00:05 GMT",
         "title": "‘They pushed so many lies about recycling’: the fight to stop big oil pumping billions more into plastics",
-        "neutral_headline": "Big oil companies invest in plastic production",
+        "neutral_headline": "Fight to stop big oil pumping billions into plastics",
         "items": [
           {
             "source": "Guardian Health",
@@ -539,15 +566,15 @@
           }
         ],
         "ai_summary": [
-          "Plastic production has doubled over the last 20 years",
-          "Fossil fuel companies have invested billions in plastic plants",
-          "The investment is expected to increase plastic production",
-          "The growth of plastic production has severe environmental impacts",
-          "Reducing plastic use requires a multi-faceted approach"
+          "Plastic production has doubled in 20 years",
+          "Big oil companies invest in plastic plants",
+          "Author Beth Gardiner researches plastic production",
+          "Fossil fuel companies increase plastic production",
+          "Individuals try to reduce plastic use"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 09:20:22 GMT",
         "title": "BBC plans David Attenborough celebration for 100th birthday",
@@ -566,15 +593,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d31/live/8ae65d80-0d6f-11f1-b7e1-afb6d0884c18.jpg",
         "ai_summary": [
-          "The BBC will celebrate David Attenborough's 100th birthday",
-          "The celebration will look back on his career",
-          "Attenborough is a veteran wildlife broadcaster",
-          "The celebration will highlight his contributions to science",
-          "The event will be a major tribute to his work"
+          "David Attenborough turns 100 in May",
+          "BBC plans celebration of his career",
+          "Attenborough is veteran wildlife broadcaster",
+          "Celebration to look back on his career",
+          "BBC honors Attenborough's contributions"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 05:07:07 GMT",
         "title": "'Smiling' fossil discovered on Holy Island",
@@ -593,19 +620,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a407/live/c9db3000-0500-11f1-95ed-5b98410ce4f4.jpg",
         "ai_summary": [
-          "A fossil with a smiling appearance was discovered",
-          "The fossil is estimated to be a few hundred million years old",
-          "It dates back to the Carboniferous period",
-          "The discovery is a significant find for paleontologists",
-          "The fossil provides insights into ancient life forms"
+          "Fossil discovered on Holy Island",
+          "Fossil estimated to be hundreds of millions old",
+          "Fossil dates back to Carboniferous period",
+          "Fossil has unusual smiling appearance",
+          "Discovery made on Holy Island"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 05:00:56 GMT",
         "title": "Beef and lamb get 580 times more in EU subsidies than legumes, study finds",
-        "neutral_headline": "EU subsidies favor beef and lamb over legumes",
+        "neutral_headline": "Beef and lamb get more EU subsidies than legumes",
         "items": [
           {
             "source": "Guardian Health",
@@ -618,15 +645,15 @@
           }
         ],
         "ai_summary": [
-          "EU subsidies favor beef and lamb over legumes",
-          "Legumes receive significantly less funding",
-          "The subsidies support unhealthy and environmentally harmful diets",
-          "The EU's common agricultural policy needs reform",
-          "A more balanced approach to subsidies is necessary"
+          "EU subsidies favor meat-heavy diets",
+          "Beef and lamb receive more subsidies than legumes",
+          "Legumes considered healthier and sustainable",
+          "EU common agricultural policy provides subsidies",
+          "Subsidies considered unfair to healthy diets"
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Thu, 19 Feb 2026 05:00:55 GMT",
         "title": "Psychedelics for depression, dart frog poison and why do we have chins? – podcast",
@@ -643,42 +670,17 @@
           }
         ],
         "ai_summary": [
-          "A psychedelic drug shows promise in treating depression",
-          "The drug has been tested in clinical trials",
-          "Dart frog poison has been linked to a high-profile death",
-          "The poison is a powerful and potentially deadly substance",
-          "Research into psychedelics and poison is ongoing"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 19 Feb 2026 04:40:06 GMT",
-        "title": "The ‘guinea pigs’ who had face transplant surgery – podcast",
-        "neutral_headline": "The ‘guinea pigs’ who had face transplant surgery",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/audio/2026/feb/19/the-guinea-pigs-who-had-face-transplant-surgery-podcast",
-            "published_at": "Thu, 19 Feb 2026 04:40:06 GMT",
-            "title": "The ‘guinea pigs’ who had face transplant surgery – podcast",
-            "standfirst": "Face transplant patient Robert Chelsea and writer Fay Bound Alberti talk through the promise – and darker side – of this pioneering surgeryIn 2019, Robert Chelsea made medical history, becoming the first black patient to ever have a full face transplant.He had previously suffered from a devastating car crash, leaving his face severely burnt. Once, he recalls to Annie Kelly, a little boy on the street shouted that he ‘looked like a zombie’. Continue reading...",
-            "content": "Face transplant patient Robert Chelsea and writer Fay Bound Alberti talk through the promise – and darker side – of this pioneering surgeryIn 2019, Robert Chelsea made medical history, becoming the first black patient to ever have a full face transplant.He had previously suffered from a devastating car crash, leaving his face severely burnt. Once, he recalls to Annie Kelly, a little boy on the street shouted that he ‘looked like a zombie’. Continue reading...",
-            "feed_position": 10
-          }
-        ],
-        "ai_summary": [
-          "Robert Chelsea underwent a full face transplant",
-          "He was the first black patient to receive the surgery",
-          "The surgery was a pioneering medical procedure",
-          "Chelsea's story highlights the promise and risks of transplants",
-          "The surgery has improved his quality of life significantly"
+          "Psychedelics may help treat depression",
+          "Dart frog poison used in Russian opposition leader death",
+          "Science editor discusses eye-catching stories",
+          "Podcast covers various science topics",
+          "Discussions on human chins and depression treatment"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-20T07:48:55.730Z",
+    "updated_at": "2026-02-20T11:32:31.266Z",
     "clusters": []
   }
 }
