@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-02-23T07:54:43.302Z",
+    "updated_at": "2026-02-23T11:39:41.985Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-02-23T07:54:51.966Z",
+    "updated_at": "2026-02-23T11:39:51.865Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -27,10 +27,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/e3898e7a-0ea8-4cc8-b18d-5a9bbecc4e9f/Set-rebates-based-on-evidence-not-politics-RACGP.aspx",
         "ai_summary": [
           "RACGP calls for independent pricing body",
-          "Protects GPs and patients from politics",
-          "Ensures evidence-based healthcare decisions",
-          "Supports general practitioners",
-          "Promotes fair healthcare pricing"
+          "Protect GPs and patients from political interference",
+          "Ensure healthcare is evidence-based",
+          "Prevent political decisions harming patients",
+          "Promote transparency in healthcare pricing"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/c1539d54-bace-4a4b-8bb1-bda5c3697b0c/Record-breaking-growth-in-future-GP-numbers.aspx",
         "ai_summary": [
-          "Future GP numbers increase significantly",
-          "Growth seen in various regions",
-          "Queensland has 359 future GPs",
+          "Future GP numbers increase across regions",
+          "Northern Territory has 31 future GPs",
           "Tasmania has 56 future GPs",
-          "Northern Territory has 31 future GPs"
+          "Queensland has 359 future GPs",
+          "Next generation of GPs begins training"
         ]
       },
       {
@@ -80,24 +80,157 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/eda48669-6776-4a80-b6ff-2fc03a8a0aa9/DVA-brings-in-dosage-cap-for-medicinal-cannabis.aspx",
         "ai_summary": [
-          "DVA imposes medicinal cannabis dosage cap",
-          "Limits THC products due to harm evidence",
+          "DVA introduces limits on THC products",
           "Prescribers need specialist registration",
-          "Affects patients using medicinal cannabis",
-          "Ensures safe cannabis prescription"
+          "Evidence of harm leads to new regulations",
+          "New rules aim to protect patients",
+          "Medicinal cannabis use is closely monitored"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-02-23T07:54:50.876Z",
+    "updated_at": "2026-02-23T11:39:50.672Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Mon, 23 Feb 2026 10:00:37 GMT",
+        "title": "Influencers, misinformation and aid cuts: the fight to halt polio in Malawi",
+        "neutral_headline": "Malawi Launches Polio Vaccination Drive",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/global-development/2026/feb/23/influencers-misinformation-and-aid-cuts-the-fight-to-halt-polio-in-malawi",
+            "published_at": "Mon, 23 Feb 2026 10:00:37 GMT",
+            "title": "Influencers, misinformation and aid cuts: the fight to halt polio in Malawi",
+            "standfirst": "A huge vaccination drive has been launched after the country’s first outbreak in years of the paralysing disease. But the battle to wipe out the virus is struggling elsewhere, so how can it be eradicated?As a seven-year-old boy is treated for polio at a hospital in Malawi, the country has launched a major vaccination campaign to stem an outbreak of the disease.The effort in Malawi, one of the world’s poorest countries and badly hit by the aid cuts, has seen an astonishing 1.3 million children already vaccinated against the disease in just four days after emergency supplies were airlifted in by the World Health Organization (WHO) just over a week ago. Continue reading...",
+            "content": "A huge vaccination drive has been launched after the country’s first outbreak in years of the paralysing disease. But the battle to wipe out the virus is struggling elsewhere, so how can it be eradicated?As a seven-year-old boy is treated for polio at a hospital in Malawi, the country has launched a major vaccination campaign to stem an outbreak of the disease.The effort in Malawi, one of the world’s poorest countries and badly hit by the aid cuts, has seen an astonishing 1.3 million children already vaccinated against the disease in just four days after emergency supplies were airlifted in by the World Health Organization (WHO) just over a week ago. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "Malawi launches major vaccination campaign",
+          "1.3 million children vaccinated in four days",
+          "WHO provides emergency vaccine supplies",
+          "Aid cuts affect Malawi's healthcare system",
+          "Vaccination drive aims to stem polio outbreak"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Mon, 23 Feb 2026 06:05:37 GMT",
+        "title": "Woman's regret over botched Brazilian butt lift",
+        "neutral_headline": "Woman Regrets Botched Brazilian Butt Lift",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cx2j6102xp3o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 23 Feb 2026 06:05:37 GMT",
+            "title": "Woman's regret over botched Brazilian butt lift",
+            "standfirst": "Josephina Finch says the surgery left her with a \"gaping wound\".",
+            "content": "Josephina Finch says the surgery left her with a \"gaping wound\".",
+            "feed_position": 3,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70e8/live/395ce760-101a-11f1-9b57-6d6f22fc2adf.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70e8/live/395ce760-101a-11f1-9b57-6d6f22fc2adf.jpg",
+        "ai_summary": [
+          "Woman undergoes Brazilian butt lift surgery",
+          "Surgery leaves her with a gaping wound",
+          "Patient expresses regret over procedure",
+          "Complications arise from cosmetic surgery",
+          "Importance of proper medical care emphasized"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Mon, 23 Feb 2026 05:44:45 GMT",
+        "title": "Streeting says he takes Leeds maternity care inquiry concerns 'extremely seriously'",
+        "neutral_headline": "Health Secretary Addresses Maternity Care Concerns",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cvgj9yznzg7o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 23 Feb 2026 05:44:45 GMT",
+            "title": "Streeting says he takes Leeds maternity care inquiry concerns 'extremely seriously'",
+            "standfirst": "The health secretary will meet bereaved families on Monday, as delay into maternity care probe drags on.",
+            "content": "The health secretary will meet bereaved families on Monday, as delay into maternity care probe drags on.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d1c/live/11a47f80-1074-11f1-b048-c9424b2cf5fd.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d1c/live/11a47f80-1074-11f1-b048-c9424b2cf5fd.jpg",
+        "ai_summary": [
+          "Health secretary meets bereaved families",
+          "Maternity care inquiry is delayed",
+          "Concerns over maternity care are raised",
+          "Health secretary takes concerns seriously",
+          "Investigation into maternity care continues"
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Mon, 23 Feb 2026 00:05:01 GMT",
+        "title": "'I thought I was going to die' - Woman calls for tighter weight-loss jabs checks",
+        "neutral_headline": "Woman Calls For Stricter Weight Loss Jab Checks",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cy9gd52r4gro?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 23 Feb 2026 00:05:01 GMT",
+            "title": "'I thought I was going to die' - Woman calls for tighter weight-loss jabs checks",
+            "standfirst": "Emma Dyer says she collapsed on her bathroom floor and began vomiting blood after buying jabs online.",
+            "content": "Emma Dyer says she collapsed on her bathroom floor and began vomiting blood after buying jabs online.",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f5/live/a8c2a920-0ccb-11f1-8561-df3cc28357d5.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f5/live/a8c2a920-0ccb-11f1-8561-df3cc28357d5.jpg",
+        "ai_summary": [
+          "Woman buys weight loss jabs online",
+          "She experiences severe side effects",
+          "Calls for stricter regulations on jabs",
+          "Importance of medical supervision emphasized",
+          "Risks of unregulated weight loss treatments"
+        ]
+      },
+      {
+        "id": "cluster_4",
+        "coverage": 1,
+        "updated_at": "Mon, 23 Feb 2026 00:01:56 GMT",
+        "title": "Are you cut out for living and working in Antarctica?",
+        "neutral_headline": "Jobs Available In Antarctica",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cn0e30d9wj9o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 23 Feb 2026 00:01:56 GMT",
+            "title": "Are you cut out for living and working in Antarctica?",
+            "standfirst": "Jobs are available on the icy continent for chefs, plumbers, carpenters and even hairdressers.",
+            "content": "Jobs are available on the icy continent for chefs, plumbers, carpenters and even hairdressers.",
+            "feed_position": 29,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de18/live/84ceec30-0808-11f1-b56b-bf8bb0174edb.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de18/live/84ceec30-0808-11f1-b56b-bf8bb0174edb.jpg",
+        "ai_summary": [
+          "Jobs available on the icy continent",
+          "Chefs and plumbers are in demand",
+          "Carpentry and hairdressing skills needed",
+          "Unique work opportunities in Antarctica",
+          "Living and working conditions are challenging"
+        ]
+      },
+      {
+        "id": "cluster_5",
+        "coverage": 1,
         "updated_at": "Sun, 22 Feb 2026 17:55:07 GMT",
         "title": "Falling measles vaccination rates can have terrifying consequences for families | Letter",
-        "neutral_headline": "Measles Vaccination Rates Decline",
+        "neutral_headline": "Falling Measles Vaccination Rates Have Consequences",
         "items": [
           {
             "source": "Guardian Health",
@@ -106,23 +239,23 @@
             "title": "Falling measles vaccination rates can have terrifying consequences for families | Letter",
             "standfirst": "Karen Ford’s granddaughter became seriously ill, highlighting just how important it is for communities to have herd immunityYour report on the response to the measles outbreak in north London highlights the profound consequences of falling immunisation uptake (‘A lot of vaccine hesitancy’: how north London council is responding to measles outbreak, 16 February). Behind the statistics are real and frightening experiences for families like ours.My granddaughter, not yet eligible for the vaccine, was admitted to hospital in late November with respiratory syncytial virus and bronchiolitis. Shortly after being discharged, she developed pneumonia, later followed by a rash: measles. She became seriously ill and needed urgent readmission. Sitting for hours holding her small body, unsure how the illness would progress, is something our family will never forget. She was so weak she could barely cry. Continue reading...",
             "content": "Karen Ford’s granddaughter became seriously ill, highlighting just how important it is for communities to have herd immunityYour report on the response to the measles outbreak in north London highlights the profound consequences of falling immunisation uptake (‘A lot of vaccine hesitancy’: how north London council is responding to measles outbreak, 16 February). Behind the statistics are real and frightening experiences for families like ours.My granddaughter, not yet eligible for the vaccine, was admitted to hospital in late November with respiratory syncytial virus and bronchiolitis. Shortly after being discharged, she developed pneumonia, later followed by a rash: measles. She became seriously ill and needed urgent readmission. Sitting for hours holding her small body, unsure how the illness would progress, is something our family will never forget. She was so weak she could barely cry. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ],
         "ai_summary": [
-          "Measles vaccination rates fall",
-          "Low immunization rates threaten communities",
-          "Herd immunity is crucial",
-          "Vaccine hesitancy contributes to decline",
-          "Measles outbreaks have severe consequences"
+          "Measles vaccination rates are falling",
+          "Importance of herd immunity emphasized",
+          "Family shares personal experience with measles",
+          "Vaccination is crucial for public health",
+          "Consequences of low vaccination rates are severe"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sun, 22 Feb 2026 16:00:41 GMT",
         "title": "My fortnight in a posture corrector: can this simple device help reduce back pain?",
-        "neutral_headline": "Posture Corrector Devices Gain Popularity",
+        "neutral_headline": "Posture Corrector Device Tested",
         "items": [
           {
             "source": "Guardian Health",
@@ -131,23 +264,23 @@
             "title": "My fortnight in a posture corrector: can this simple device help reduce back pain?",
             "standfirst": "These harnesses are increasingly popular, but experts are divided on how useful they are. I decided to give one a tryWhen I sat at my desk this morning, I couldn’t slouch over the keyboard like I usually do. As much as I tried to hunch over, my back was held straight, shoulders pulled back. My trick? I was wearing a corset-like device with straps over my shoulders that forced me into an upright position.Posture correctors claim to provide instant improvement in posture and relieve the back, shoulder and chest pain often associated with poor posture, if worn long term. The one I have on, Vicorrect (£29.99), is one of many on the market – Lidl’s budget posture trainer (£7.99) is now sold out; Taylor Swift has been spotted wearing a sports-bra version by Forme (£140). Continue reading...",
             "content": "These harnesses are increasingly popular, but experts are divided on how useful they are. I decided to give one a tryWhen I sat at my desk this morning, I couldn’t slouch over the keyboard like I usually do. As much as I tried to hunch over, my back was held straight, shoulders pulled back. My trick? I was wearing a corset-like device with straps over my shoulders that forced me into an upright position.Posture correctors claim to provide instant improvement in posture and relieve the back, shoulder and chest pain often associated with poor posture, if worn long term. The one I have on, Vicorrect (£29.99), is one of many on the market – Lidl’s budget posture trainer (£7.99) is now sold out; Taylor Swift has been spotted wearing a sports-bra version by Forme (£140). Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ],
         "ai_summary": [
-          "Posture correctors claim to improve posture",
-          "Devices relieve back and shoulder pain",
-          "Experts debate their effectiveness",
-          "Various products available on market",
-          "Users report mixed results"
+          "Posture corrector device is tested",
+          "Device claims to improve posture",
+          "Expert opinions on device are divided",
+          "Importance of proper posture emphasized",
+          "Device's effectiveness is being evaluated"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sun, 22 Feb 2026 14:00:40 GMT",
         "title": "My daughter turns 18 today. I’m giving her the gift of shared caring responsibilities with her brothers | Ranjana Srivastava",
-        "neutral_headline": "Shared Caring Responsibilities Benefit Families",
+        "neutral_headline": "Doctor Discusses Caring Responsibilities",
         "items": [
           {
             "source": "Guardian Health",
@@ -156,23 +289,23 @@
             "title": "My daughter turns 18 today. I’m giving her the gift of shared caring responsibilities with her brothers | Ranjana Srivastava",
             "standfirst": "As a doctor, I have a front-row seat to the physical, emotional and financial impact on women who find themselves in the role of primary carer‘Why do you always grip the dashboard like that when I am driving?’It’s the bleary-eyed 5am run to rowing practice and I have just relented to the eager “can I drive?” When your teenager takes a reluctant “I guess” as full-throated approval, you still want to show grace. Especially when there are many more mandated hours of supervision en route to a probationary licence. Continue reading...",
             "content": "As a doctor, I have a front-row seat to the physical, emotional and financial impact on women who find themselves in the role of primary carer‘Why do you always grip the dashboard like that when I am driving?’It’s the bleary-eyed 5am run to rowing practice and I have just relented to the eager “can I drive?” When your teenager takes a reluctant “I guess” as full-throated approval, you still want to show grace. Especially when there are many more mandated hours of supervision en route to a probationary licence. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "Shared caring responsibilities help women",
-          "Reduces physical and emotional burden",
-          "Promotes equal family responsibilities",
-          "Benefits women in caregiving roles",
-          "Encourages male family members to participate"
+          "Doctor shares thoughts on caring responsibilities",
+          "Importance of shared caring responsibilities",
+          "Women often bear primary caring responsibilities",
+          "Doctor reflects on her own experiences",
+          "Need for greater support for carers emphasized"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sun, 22 Feb 2026 13:00:38 GMT",
         "title": "‘We want to rebuild trust’: fired CDC workers form group to combat Trump’s war on science",
-        "neutral_headline": "Former CDC Workers Form Public Health Coalition",
+        "neutral_headline": "Fired CDC Workers Form New Group",
         "items": [
           {
             "source": "Guardian Health",
@@ -181,23 +314,23 @@
             "title": "‘We want to rebuild trust’: fired CDC workers form group to combat Trump’s war on science",
             "standfirst": "Former employees stepped up to create the National Public Health Coalition to advocate for public health after Trump’s cuts to the agencyAbby Tighe thought she had landed her forever job. She joined the Centers for Disease Control and Prevention (CDC) in December 2023, managing a national youth substance abuse prevention program. The project focused on rural communities, and Tighe, whose family is from Appalachia, was proud to be using her public health training to support often-overlooked parts of the country. “The CDC was different than anywhere else I’ve worked,” says Tighe. “People didn’t care about their own ambitions as much as they cared about the larger mission. It was always my dream to work there.”That dream ended a year ago, when Tighe received a form email on 14 February letting her know the Trump administration was firing her. Classified as a probationary worker, she was one of the first to lose her job in what quickly became a dramatic downsizing of the CDC workforce. To date, the current administration has either fired or is in the process of firing more than 4,000 CDC employees – a third of the agency. Continue reading...",
             "content": "Former employees stepped up to create the National Public Health Coalition to advocate for public health after Trump’s cuts to the agencyAbby Tighe thought she had landed her forever job. She joined the Centers for Disease Control and Prevention (CDC) in December 2023, managing a national youth substance abuse prevention program. The project focused on rural communities, and Tighe, whose family is from Appalachia, was proud to be using her public health training to support often-overlooked parts of the country. “The CDC was different than anywhere else I’ve worked,” says Tighe. “People didn’t care about their own ambitions as much as they cared about the larger mission. It was always my dream to work there.”That dream ended a year ago, when Tighe received a form email on 14 February letting her know the Trump administration was firing her. Classified as a probationary worker, she was one of the first to lose her job in what quickly became a dramatic downsizing of the CDC workforce. To date, the current administration has either fired or is in the process of firing more than 4,000 CDC employees – a third of the agency. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ],
         "ai_summary": [
-          "Former CDC workers create coalition",
-          "Advocates for public health interests",
-          "Responds to Trump administration cuts",
-          "Supports rural community health programs",
-          "Seeks to rebuild public trust"
+          "Former CDC workers form new group",
+          "Group aims to combat Trump's war on science",
+          "CDC workers were fired due to budget cuts",
+          "New group advocates for public health",
+          "Importance of scientific research emphasized"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sun, 22 Feb 2026 12:00:39 GMT",
         "title": "Are we really overdiagnosing mental illness?",
-        "neutral_headline": "Mental Illness Diagnosis Rates Increase",
+        "neutral_headline": "Overdiagnosis Of Mental Illness Debated",
         "items": [
           {
             "source": "Guardian Health",
@@ -206,23 +339,23 @@
             "title": "Are we really overdiagnosing mental illness?",
             "standfirst": "It’s tempting to dismiss the proliferation of labels as a fad, but there’s more to this phenomenon than a simple culture-war reading allowsMy psychological research rarely makes good comedy material, but in a standup show in London recently, those two worlds collided. One of the jokes was about how everyone is getting diagnosed with ADHD these days – about the social media videos that encourage viewers to identify common human experiences, like daydreaming or talking a lot, as evidence of the condition. The audience laughed because everyone got it – they’ve all witnessed how common it seems to have become in the last few years. When something becomes this prevalent in society, and this mystifying, it’s no surprise it ends up as a punchline.Part of my work as an academic involves trying to solve the puzzle of why so many more people, especially young people, are reporting symptoms of mental illness compared to even five or 10 years ago. (ADHD is a form of neurodivergence, rather than a mental illness, but both have seen an increase, so they are related questions.) Whenever I talk about this – to colleagues, school staff, parents – it doesn’t take long until someone brings up that judgment-laden, hot-button word: overdiagnosis. Continue reading...",
             "content": "It’s tempting to dismiss the proliferation of labels as a fad, but there’s more to this phenomenon than a simple culture-war reading allowsMy psychological research rarely makes good comedy material, but in a standup show in London recently, those two worlds collided. One of the jokes was about how everyone is getting diagnosed with ADHD these days – about the social media videos that encourage viewers to identify common human experiences, like daydreaming or talking a lot, as evidence of the condition. The audience laughed because everyone got it – they’ve all witnessed how common it seems to have become in the last few years. When something becomes this prevalent in society, and this mystifying, it’s no surprise it ends up as a punchline.Part of my work as an academic involves trying to solve the puzzle of why so many more people, especially young people, are reporting symptoms of mental illness compared to even five or 10 years ago. (ADHD is a form of neurodivergence, rather than a mental illness, but both have seen an increase, so they are related questions.) Whenever I talk about this – to colleagues, school staff, parents – it doesn’t take long until someone brings up that judgment-laden, hot-button word: overdiagnosis. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ],
         "ai_summary": [
-          "Mental illness diagnosis rates rise",
-          "Researchers investigate possible causes",
-          "Overdiagnosis concerns are debated",
-          "Young people report more symptoms",
-          "Experts seek to understand phenomenon"
+          "Debate over overdiagnosis of mental illness",
+          "Increase in reported mental health symptoms",
+          "Researchers try to understand the phenomenon",
+          "Importance of accurate diagnosis emphasized",
+          "Stigma surrounding mental illness is discussed"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sun, 22 Feb 2026 12:00:38 GMT",
         "title": "‘She would pop up in my sexual fantasies’: what happens when you fancy your therapist?",
-        "neutral_headline": "Patients Develop Crushes on Therapists",
+        "neutral_headline": "Patients Develop Crush On Therapists",
         "items": [
           {
             "source": "Guardian Health",
@@ -231,23 +364,23 @@
             "title": "‘She would pop up in my sexual fantasies’: what happens when you fancy your therapist?",
             "standfirst": "They’re often compassionate good listeners who focus on their clients’ needs – so is it any wonder many patients find themselves with a crush? A writer, who is in exactly this position, talks to people on both sides of the couchI was half-watching the latest series of the Netflix romcom Nobody Wants This when suddenly things got interesting. Spoiler alert: it had just been revealed that one of the characters (Morgan) was in a relationship with her newly ex-therapist (Dr Andy). While some of the characters freaked out, declaring the relationship very concerning, I felt a frisson of excitement. Because I, too, have harboured the desire to date my therapist.As it turns out, this fantasy is neither unusual nor unexpected. “Psychoanalysis almost insists on transference,” explains psychotherapist Charlotte Fox Weber, using the term coined by Sigmund Freud, the founding father of psychoanalysis, in his 1895 work Studies on Hysteria. The basic premise is that the patient projects old feelings, attitudes, desires or fantasies on to their therapist. This can manifest in numerous ways – often at the same time – covering the whole gamut of emotions and relationships, from love to hate, maternal to erotic, and everything in between. Continue reading...",
             "content": "They’re often compassionate good listeners who focus on their clients’ needs – so is it any wonder many patients find themselves with a crush? A writer, who is in exactly this position, talks to people on both sides of the couchI was half-watching the latest series of the Netflix romcom Nobody Wants This when suddenly things got interesting. Spoiler alert: it had just been revealed that one of the characters (Morgan) was in a relationship with her newly ex-therapist (Dr Andy). While some of the characters freaked out, declaring the relationship very concerning, I felt a frisson of excitement. Because I, too, have harboured the desire to date my therapist.As it turns out, this fantasy is neither unusual nor unexpected. “Psychoanalysis almost insists on transference,” explains psychotherapist Charlotte Fox Weber, using the term coined by Sigmund Freud, the founding father of psychoanalysis, in his 1895 work Studies on Hysteria. The basic premise is that the patient projects old feelings, attitudes, desires or fantasies on to their therapist. This can manifest in numerous ways – often at the same time – covering the whole gamut of emotions and relationships, from love to hate, maternal to erotic, and everything in between. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ],
         "ai_summary": [
           "Patients may develop feelings for therapists",
           "Transference is a common phenomenon",
           "Therapists must maintain professional boundaries",
-          "Patients experience various emotions",
-          "Therapists must navigate complex relationships"
+          "Importance of therapist-patient relationship",
+          "Patients' feelings can be complex and varied"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sat, 21 Feb 2026 21:05:18 GMT",
         "title": "Nasa astronauts' moon mission delayed due to rocket issue",
-        "neutral_headline": "Nasa Moon Mission Delayed Due Rocket Issue",
+        "neutral_headline": "Nasa Moon Mission Delayed",
         "items": [
           {
             "source": "BBC Science",
@@ -262,19 +395,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39f8/live/6cc0a920-0f4d-11f1-9a2a-8fa7cf422a25.jpg",
         "ai_summary": [
-          "Nasa moon mission delayed",
+          "Nasa moon mission is delayed",
           "Rocket issue causes postponement",
-          "Mission aims to reach far side moon",
-          "Technical problems must be resolved",
-          "New launch date will be announced"
+          "Mission aims to explore far side of moon",
+          "Technical issues must be resolved",
+          "Importance of space exploration emphasized"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sat, 21 Feb 2026 18:32:37 GMT",
         "title": "Giant tortoises return to Galápagos island after nearly 200 years",
-        "neutral_headline": "Giant Tortoises Return to Galapagos Island",
+        "neutral_headline": "Giant tortoises return to Galápagos island",
         "items": [
           {
             "source": "BBC Science",
@@ -289,19 +422,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e25/live/02517320-0f62-11f1-9120-a910fc22c6ac.jpg",
         "ai_summary": [
-          "Giant tortoises reintroduced to island",
-          "Species was driven to extinction",
-          "158 juvenile tortoises released",
-          "Conservation efforts aim to restore population",
-          "Tortoises play crucial role in ecosystem"
+          "Giant tortoises driven to extinction by sailors",
+          "158 juvenile tortoises reintroduced to island",
+          "Native species absent for nearly 200 years",
+          "Reintroduction aims to restore ecosystem balance",
+          "Tortoises reintroduced to their natural habitat"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sat, 21 Feb 2026 17:59:56 GMT",
         "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
-        "neutral_headline": "Nasa Artemis II Moon Mission Launch",
+        "neutral_headline": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
         "items": [
           {
             "source": "BBC Science",
@@ -316,17 +449,17 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a00/live/e35f0660-ed44-11f0-8cc8-8329494b82ad.png",
         "ai_summary": [
-          "Artemis II mission to launch soon",
-          "First crewed moon mission in 50 years",
-          "Mission will test new technologies",
-          "Prepares for future lunar landing",
-          "Crew members will conduct spacewalks"
+          "Nasa Moon mission launch scheduled for February",
+          "Artemis II crew announced for mission",
+          "First crewed Moon mission in 50 years",
+          "Mission precedes planned lunar landing",
+          "Crew training underway for space mission"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-02-23T07:54:51.966Z",
+    "updated_at": "2026-02-23T11:39:51.865Z",
     "clusters": []
   }
 }
