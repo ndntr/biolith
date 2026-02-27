@@ -1,12 +1,50 @@
 {
-  "updated_at": "2026-02-27T04:45:29.508Z",
+  "updated_at": "2026-02-27T07:47:37.188Z",
   "clusters": [
     {
-      "id": "cluster_31",
+      "id": "cluster_0",
+      "coverage": 2,
+      "updated_at": "Fri, 27 Feb 2026 02:25:01 -0500",
+      "title": "Security researchers detail AirSnitch, a series of attacks that bypass Wi-Fi client isolation, enabling machine-in-the-middle attacks in modern Wi-Fi networks (Dan Goodin/Ars Technica)",
+      "neutral_headline": "AirSnitch attacks bypass Wi-Fi encryption",
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/260227/p4#a260227p4",
+          "published_at": "Fri, 27 Feb 2026 02:25:01 -0500",
+          "title": "Security researchers detail AirSnitch, a series of attacks that bypass Wi-Fi client isolation, enabling machine-in-the-middle attacks in modern Wi-Fi networks (Dan Goodin/Ars Technica)",
+          "standfirst": "Dan Goodin / Ars Technica: Security researchers detail AirSnitch, a series of attacks that bypass Wi-Fi client isolation, enabling machine-in-the-middle attacks in modern Wi-Fi networks &mdash; That guest network you set up for your neighbors may not be as secure as you think. &mdash; It's hard to overstate the role that Wi-Fi plays in virtually every facet of life.",
+          "content": "Dan Goodin / Ars Technica: Security researchers detail AirSnitch, a series of attacks that bypass Wi-Fi client isolation, enabling machine-in-the-middle attacks in modern Wi-Fi networks &mdash; That guest network you set up for your neighbors may not be as secure as you think. &mdash; It's hard to overstate the role that Wi-Fi plays in virtually every facet of life.",
+          "feed_position": 0,
+          "image_url": "http://www.techmeme.com/260227/i4.jpg"
+        },
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+          "published_at": "Thu, 26 Feb 2026 15:45:18 +0000",
+          "title": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",
+          "standfirst": "That guest network you set up for your neighbors may not be as secure as you think.",
+          "content": "It’s hard to overstate the role that Wi-Fi plays in virtually every facet of life. The organization that shepherds the wireless protocol says that more than 48 billion Wi-Fi-enabled devices have shipped since it debuted in the late 1990s. One estimate pegs the number of individual users at 6 billion, roughly 70 percent of the world’s population. Despite the dependence and the immeasurable amount of sensitive data flowing through Wi-Fi transmissions, the history of the protocol has been littered with security landmines stemming both from the inherited confidentiality weaknesses of its networking predecessor, Ethernet (it was once possible for anyone on a network to read and modify the traffic sent to anyone else), and the ability for anyone nearby to receive the radio signals Wi-Fi relies on. Ghost in the machine In the early days, public Wi-Fi networks often resembled the Wild West, where ARP spoofing attacks that allowed renegade users to read other users' traffic were common. The solution was to build cryptographic protections that prevented nearby parties—whether an authorized user on the network or someone near the AP (access point)—from reading or tampering with the traffic of any other user.Read full article Comments",
+          "feed_position": 6,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/wi-fi-1152x648-1751309982.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260227/i4.jpg",
+      "popularity_score": 2019.623281111111,
+      "ai_summary": [
+        "AirSnitch is a series of attacks",
+        "It bypasses Wi-Fi client isolation",
+        "The attacks enable machine-in-the-middle",
+        "They can occur in modern Wi-Fi networks",
+        "The attacks are a security risk"
+      ]
+    },
+    {
+      "id": "cluster_36",
       "coverage": 1,
       "updated_at": "Thu, 26 Feb 2026 22:53:18 +0000",
       "title": "Perplexity announces \"Computer,\" an AI agent that assigns work to other AI agents",
-      "neutral_headline": "Perplexity announces Computer AI",
+      "neutral_headline": "Perplexity announces Computer AI agent",
       "items": [
         {
           "source": "Ars Technica",
@@ -20,21 +58,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Perplexity-Computer-1152x648.jpg",
-      "popularity_score": 352.13013666666666,
+      "popularity_score": 349.09467,
       "ai_summary": [
-        "Perplexity launches Computer AI agent",
-        "Agent assigns work to other AI agents",
-        "Computer AI is a safer concept",
-        "AI agent is a new development",
-        "Computer AI has various applications"
+        "Perplexity announced a new AI agent",
+        "The agent is called Computer",
+        "It assigns work to other AI agents",
+        "The agent is a safer take on OpenClaw",
+        "It is a buttoned-down concept"
       ]
     },
     {
-      "id": "cluster_26",
+      "id": "cluster_32",
       "coverage": 1,
       "updated_at": "Thu, 26 Feb 2026 23:16:46 +0000",
       "title": "Neanderthals seemed to have a thing for modern human women",
-      "neutral_headline": "Neanderthals mated with humans",
+      "neutral_headline": "Neanderthals mated with modern humans",
       "items": [
         {
           "source": "Ars Technica",
@@ -48,21 +86,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1243699616-1024x648.jpg",
-      "popularity_score": 347.5212477777778,
+      "popularity_score": 344.4857811111111,
       "ai_summary": [
-        "Neanderthals mated with modern humans",
-        "Neanderthal genes found in human DNA",
-        "Mating patterns show strong preference",
-        "Neanderthals favored human women",
-        "Genetic evidence supports mating theory"
+        "Neanderthals mated with human women",
+        "The matings show a strong pattern",
+        "Neanderthals had a preference",
+        "The pattern is seen in genomes",
+        "The matings were with modern humans"
       ]
     },
     {
-      "id": "cluster_36",
+      "id": "cluster_39",
       "coverage": 1,
       "updated_at": "Thu, 26 Feb 2026 22:19:39 +0000",
       "title": "xAI spent $7M building wall that barely muffles annoying power plant noise",
-      "neutral_headline": "xAI sound wall is ineffective",
+      "neutral_headline": "xAI Spent 7 Million Dollars Building Sound Wall",
       "items": [
         {
           "source": "Ars Technica",
@@ -76,21 +114,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1768218692.jpg",
-      "popularity_score": 341.5693033333333,
+      "popularity_score": 338.5338366666667,
       "ai_summary": [
-        "xAI builds sound wall for power plant",
-        "Wall fails to reduce noise pollution",
-        "Residents are still affected by noise",
-        "xAI spent 7 million on sound wall",
-        "Sound wall is not a solution"
+        "xAI built a sound wall for 7 million dollars",
+        "The wall barely muffles power plant noise",
+        "The sound wall is called Temu sound wall",
+        "Residents are still furious about the power plant",
+        "The wall does not quell fury over xAI's power plant"
       ]
     },
     {
-      "id": "cluster_75",
+      "id": "cluster_78",
       "coverage": 1,
       "updated_at": "Thu, 26 Feb 2026 17:12:10 +0000",
       "title": "Google reveals Nano Banana 2 AI image model, coming to Gemini today",
-      "neutral_headline": "Google launches Nano Banana AI",
+      "neutral_headline": "Google Reveals Nano Banana 2 AI Image Model",
       "items": [
         {
           "source": "Ars Technica",
@@ -104,21 +142,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/NB2_Hero.width-2200.format-webp-1152x648.png",
-      "popularity_score": 334.4445811111111,
+      "popularity_score": 331.40911444444447,
       "ai_summary": [
-        "Google introduces Nano Banana 2 AI",
-        "AI model replaces previous versions",
-        "Nano Banana 2 is available now",
-        "AI model is used for image processing",
-        "Gemini will use Nano Banana 2 AI"
+        "Google reveals new Nano Banana 2 AI image model",
+        "The model replaces previous versions immediately",
+        "Nano Banana 2 is coming to Gemini today",
+        "The new model is an improvement over previous ones",
+        "Google's new image model is available now"
       ]
     },
     {
-      "id": "cluster_41",
+      "id": "cluster_44",
       "coverage": 1,
       "updated_at": "Thu, 26 Feb 2026 21:48:37 +0000",
       "title": "The physics of squeaking sneakers",
-      "neutral_headline": "Physics of squeaking sneakers",
+      "neutral_headline": "Physics Of Squeaking Sneakers Explained By Researchers",
       "items": [
         {
           "source": "Ars Technica",
@@ -132,49 +170,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/squeak3-1152x648.jpg",
-      "popularity_score": 313.05208111111114,
+      "popularity_score": 310.01661444444443,
       "ai_summary": [
-        "Sneakers squeak due to tread pattern",
-        "Geometry of tread affects frequency",
-        "Blocks designed to play music",
-        "Star Wars music played on sneakers",
-        "Squeaking sneakers can be musical"
+        "Researchers explain the physics of squeaking sneakers",
+        "Geometry of tread patterns determines frequency",
+        "Blocks were designed to play Star Wars music",
+        "Squeaking sneakers can produce different frequencies",
+        "Tread patterns affect the sound produced"
       ]
     },
     {
-      "id": "cluster_91",
-      "coverage": 1,
-      "updated_at": "Thu, 26 Feb 2026 15:45:18 +0000",
-      "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
-      "neutral_headline": "AirSnitch attack breaks Wi-Fi",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
-          "published_at": "Thu, 26 Feb 2026 15:45:18 +0000",
-          "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
-          "standfirst": "That guest network you set up for your neighbors may not be as secure as you think.",
-          "content": "It’s hard to overstate the role that Wi-Fi plays in virtually every facet of life. The organization that shepherds the wireless protocol says that more than 48 billion Wi-Fi-enabled devices have shipped since it debuted in the late 1990s. One estimate pegs the number of individual users at 6 billion, roughly 70 percent of the world’s population. Despite the dependence and the immeasurable amount of sensitive data flowing through Wi-Fi transmissions, the history of the protocol has been littered with security landmines stemming both from the inherited confidentiality weaknesses of its networking predecessor, Ethernet (it was once possible for anyone on a network to read and modify the traffic sent to anyone else), and the ability for anyone nearby to receive the radio signals Wi-Fi relies on. Ghost in the machine In the early days, public Wi-Fi networks often resembled the Wild West, where ARP spoofing attacks that allowed renegade users to read other users' traffic were common. The solution was to build cryptographic protections that prevented nearby parties—whether an authorized user on the network or someone near the AP (access point)—from reading or tampering with the traffic of any other user.Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/wi-fi-1152x648-1751309982.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/wi-fi-1152x648-1751309982.jpg",
-      "popularity_score": 294.99680333333333,
-      "ai_summary": [
-        "AirSnitch attack compromises Wi-Fi",
-        "Encryption is broken by attack",
-        "Homes and offices are vulnerable",
-        "Guest networks are not secure",
-        "AirSnitch attack is a major threat"
-      ]
-    },
-    {
-      "id": "cluster_77",
+      "id": "cluster_80",
       "coverage": 1,
       "updated_at": "Thu, 26 Feb 2026 16:53:50 +0000",
       "title": "Ford is recalling 4.3 million trucks and SUVs to fix a towing software bug",
-      "neutral_headline": "Ford recalls trucks and SUVs",
+      "neutral_headline": "Ford Recalls Trucks And SUVs To Fix Software Bug",
       "items": [
         {
           "source": "Ars Technica",
@@ -188,21 +198,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/2025_Ford_Ranger_Lariat_FX4_1-1152x648.jpg",
-      "popularity_score": 291.1390255555556,
+      "popularity_score": 288.10355888888887,
       "ai_summary": [
-        "Ford recalls 4 million vehicles",
-        "Recall is due to towing software bug",
-        "OTA update will fix the issue",
-        "Owners can visit dealership for fix",
-        "Recall affects trucks and SUVs only"
+        "Ford is recalling 4.3 million trucks and SUVs",
+        "The recall is to fix a towing software bug",
+        "An OTA update will be pushed out in weeks",
+        "Owners can also go to a dealership for fix",
+        "The software bug affects towing capabilities"
       ]
     },
     {
-      "id": "cluster_100",
+      "id": "cluster_101",
       "coverage": 1,
       "updated_at": "Thu, 26 Feb 2026 14:44:25 +0000",
       "title": "A non-public document reveals that science may not be prioritized on next Mars mission",
-      "neutral_headline": "NASA Mars Orbiter Objectives Not Publicly Released",
+      "neutral_headline": "Science May Not Be Prioritized On Next Mars Mission",
       "items": [
         {
           "source": "Ars Technica",
@@ -216,21 +226,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/mars-telecom-1152x648.jpg",
-      "popularity_score": 272.9820811111111,
+      "popularity_score": 269.94661444444444,
       "ai_summary": [
-        "NASA chose not to release Mars orbiter objectives publicly",
-        "The decision has raised concerns about science prioritization",
-        "Mars mission objectives are typically made public",
-        "NASA has not explained the reason for secrecy",
-        "The move has sparked debate among space enthusiasts"
+        "A non-public document reveals Mars mission objectives",
+        "Science may not be prioritized on the next mission",
+        "NASA chose not to publicly release its objectives",
+        "The Mars orbiter objectives are not publicly known",
+        "The mission's priorities are not clearly stated"
       ]
     },
     {
-      "id": "cluster_97",
+      "id": "cluster_98",
       "coverage": 1,
       "updated_at": "Thu, 26 Feb 2026 14:57:36 +0000",
       "title": "New York sues Valve for enabling \"illegal gambling\" with loot boxes",
-      "neutral_headline": "New York Sues Valve Over Loot Boxes",
+      "neutral_headline": "New York Sues Valve Over Loot Boxes And Gambling",
       "items": [
         {
           "source": "Ars Technica",
@@ -244,21 +254,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cslootboxes.jpg",
-      "popularity_score": 269.2018033333333,
+      "popularity_score": 266.16633666666667,
       "ai_summary": [
         "New York sues Valve for enabling illegal gambling",
-        "Loot boxes allow users to resell items for real value",
-        "The state claims this constitutes illegal gambling",
-        "Valve faces legal action over Steam item resale",
-        "The case may set a precedent for gaming industry"
+        "Loot boxes allow reselling Steam items for real value",
+        "The state's case relies on the resale of items",
+        "Valve's Steam platform is involved in the lawsuit",
+        "The lawsuit claims Valve enables illegal activities"
       ]
     },
     {
-      "id": "cluster_103",
+      "id": "cluster_104",
       "coverage": 1,
       "updated_at": "Thu, 26 Feb 2026 14:14:55 +0000",
       "title": "15 state attorneys general sue RFK Jr. over \"anti-science\" vaccine policy",
-      "neutral_headline": "State Attorneys General Sue RFK Jr",
+      "neutral_headline": "State Attorneys General Sue RFK Jr Over Vaccine Policy",
       "items": [
         {
           "source": "Ars Technica",
@@ -272,21 +282,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/getty-vaccine-1152x648.jpg",
-      "popularity_score": 248.49041444444444,
+      "popularity_score": 245.4549477777778,
       "ai_summary": [
-        "15 state attorneys general sue RFK Jr over vaccine policy",
-        "The policy is claimed to be anti-science and harmful",
-        "Trump administration reduced vaccine schedule",
-        "The lawsuit aims to stop the vaccine policy",
-        "The case highlights vaccine policy disagreements"
+        "15 state attorneys general sue RFK Jr over policy",
+        "The policy is considered anti-science by plaintiffs",
+        "The Trump administration's vaccine schedule is involved",
+        "The lawsuit claims the policy throws science out",
+        "The policy's impact on public health is a concern"
       ]
     },
     {
-      "id": "cluster_132",
+      "id": "cluster_133",
       "coverage": 1,
       "updated_at": "Wed, 25 Feb 2026 21:41:27 +0000",
       "title": "The Galaxy S26 is faster, more expensive, and even more chock-full of AI",
-      "neutral_headline": "Samsung Galaxy S26 Series Released",
+      "neutral_headline": "Samsung Galaxy S26 Series Is Available For Preorder",
       "items": [
         {
           "source": "Ars Technica",
@@ -302,19 +312,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Samsung-Mobile-Galaxy-Unpacked-2026-Galaxy-S26-Series-A-First-Look_dl2-1152x648.jpg",
       "popularity_score": 154,
       "ai_summary": [
-        "Samsung Galaxy S26 series is available for preorder",
-        "The series ships on March 11",
-        "The Galaxy S26 is faster and more expensive",
-        "The series features advanced AI capabilities",
-        "Preorders are now open for the new series"
+        "The Galaxy S26 series is available for preorder",
+        "The series is faster and more expensive than before",
+        "The phones are chock-full of AI features",
+        "The Galaxy S26 series ships on March 11",
+        "The phones have improved performance and features"
       ]
     },
     {
-      "id": "cluster_130",
+      "id": "cluster_131",
       "coverage": 1,
       "updated_at": "Wed, 25 Feb 2026 22:09:21 +0000",
       "title": "Musk has no proof OpenAI stole xAI trade secrets, judge rules, tossing lawsuit",
-      "neutral_headline": "Musk Lawsuit Against OpenAI Dismissed",
+      "neutral_headline": "Musk Has No Proof OpenAI Stole Trade Secrets Judge Rules",
       "items": [
         {
           "source": "Ars Technica",
@@ -330,47 +340,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2259422080-1024x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "Judge rules Musk has no proof OpenAI stole trade secrets",
-        "The lawsuit against OpenAI has been dismissed",
-        "Musk claimed OpenAI stole xAI trade secrets",
-        "The judge was not convinced by Musk's evidence",
-        "The dismissal is a setback for Musk's claims"
+        "Musk has no proof OpenAI stole trade secrets",
+        "A judge ruled in favor of OpenAI in the lawsuit",
+        "The lawsuit was tossed due to lack of evidence",
+        "Musk's claims were not supported by evidence",
+        "The judge did not find in favor of Musk's claims"
       ]
     },
     {
-      "id": "cluster_110",
-      "coverage": 1,
-      "updated_at": "Thu, 26 Feb 2026 13:31:18 +0000",
-      "title": "ULA isn't making the Space Force's GPS interference problem any easier",
-      "neutral_headline": "ULA Faces Investigation Over GPS Interference",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/02/ula-isnt-making-the-space-forces-gps-interference-problem-any-easier/",
-          "published_at": "Thu, 26 Feb 2026 13:31:18 +0000",
-          "title": "ULA isn't making the Space Force's GPS interference problem any easier",
-          "standfirst": "Officials expect the investigation into a booster anomaly on ULA's Vulcan rocket to last multiple months.",
-          "content": "DENVER—The Global Positioning System is one of the few space programs that touches nearly every human life, and the stewards of the satellite navigation network are eager to populate the fleet with the latest and greatest spacecraft. The US Space Force owns and operates the GPS constellation, providing civilian and military-grade positioning, navigation, and timing signals to cell phones, airliners, naval ships, precision munitions, and a whole lot more. One reason for routinely launching GPS satellites is simply \"constellation replenishment,\" said Col. Andrew Menschner, deputy commander of the Space Force's Space Systems Command. Old satellites degrade and die, and new ones need to go up and replace them. At least 24 GPS satellites are needed for global coverage, and having additional satellites in the fleet can improve navigation precision. Today, there are 31 GPS satellites in operational service, flying more than 12,000 miles (20,000 kilometers) above the Earth.Read full article Comments",
-          "feed_position": 11,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/55091188472_c01b4e3cdc_k-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/55091188472_c01b4e3cdc_k-1152x648.jpg",
-      "popularity_score": 145.76347,
-      "ai_summary": [
-        "ULA faces investigation over GPS interference problem",
-        "The issue is caused by a booster anomaly",
-        "The investigation is expected to last months",
-        "Officials are working to resolve the issue",
-        "The problem may affect Space Force operations"
-      ]
-    },
-    {
-      "id": "cluster_145",
+      "id": "cluster_146",
       "coverage": 1,
       "updated_at": "Wed, 25 Feb 2026 18:27:27 +0000",
       "title": "2026 Lexus RZ 550e review: Likable, but it needs improvement",
-      "neutral_headline": "Lexus RZ 550e Review Released",
+      "neutral_headline": "2026 Lexus RZ 550e Review And Test Drive",
       "items": [
         {
           "source": "Ars Technica",
@@ -386,19 +368,47 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/2026-Lexus-RZ-550e-1-1152x648.jpg",
       "popularity_score": 144,
       "ai_summary": [
-        "The Lexus RZ 550e review is now available",
-        "The vehicle is likable but needs improvement",
+        "The 2026 Lexus RZ 550e was reviewed and tested",
+        "The car is likable but needs improvement",
+        "The car is not very efficient",
         "The synthetic gearshifts are not great",
-        "The vehicle is not very efficient",
-        "The review highlights areas for improvement"
+        "The review found some positive and negative aspects"
       ]
     },
     {
-      "id": "cluster_135",
+      "id": "cluster_111",
+      "coverage": 1,
+      "updated_at": "Thu, 26 Feb 2026 13:31:18 +0000",
+      "title": "ULA isn't making the Space Force's GPS interference problem any easier",
+      "neutral_headline": "ULA Is Not Solving Space Force's GPS Interference Problem",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/02/ula-isnt-making-the-space-forces-gps-interference-problem-any-easier/",
+          "published_at": "Thu, 26 Feb 2026 13:31:18 +0000",
+          "title": "ULA isn't making the Space Force's GPS interference problem any easier",
+          "standfirst": "Officials expect the investigation into a booster anomaly on ULA's Vulcan rocket to last multiple months.",
+          "content": "DENVER—The Global Positioning System is one of the few space programs that touches nearly every human life, and the stewards of the satellite navigation network are eager to populate the fleet with the latest and greatest spacecraft. The US Space Force owns and operates the GPS constellation, providing civilian and military-grade positioning, navigation, and timing signals to cell phones, airliners, naval ships, precision munitions, and a whole lot more. One reason for routinely launching GPS satellites is simply \"constellation replenishment,\" said Col. Andrew Menschner, deputy commander of the Space Force's Space Systems Command. Old satellites degrade and die, and new ones need to go up and replace them. At least 24 GPS satellites are needed for global coverage, and having additional satellites in the fleet can improve navigation precision. Today, there are 31 GPS satellites in operational service, flying more than 12,000 miles (20,000 kilometers) above the Earth.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/55091188472_c01b4e3cdc_k-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/55091188472_c01b4e3cdc_k-1152x648.jpg",
+      "popularity_score": 142.72800333333333,
+      "ai_summary": [
+        "ULA is not making the GPS interference problem easier",
+        "The Space Force is investigating a booster anomaly",
+        "The investigation into the anomaly will last months",
+        "Officials expect the investigation to be lengthy",
+        "The GPS interference problem is still unresolved"
+      ]
+    },
+    {
+      "id": "cluster_136",
       "coverage": 1,
       "updated_at": "Wed, 25 Feb 2026 20:53:54 +0000",
       "title": "Judge doesn't trust DOJ with search of devices seized from Wash. Post reporter",
-      "neutral_headline": "Judge Limits DOJ Access To Reporter Devices",
+      "neutral_headline": "Judge Does Not Trust DOJ With Search Of Devices",
       "items": [
         {
           "source": "Ars Technica",
@@ -414,19 +424,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/washington-post-building-1152x648-1768424038.jpg",
       "popularity_score": 139,
       "ai_summary": [
-        "Judge limits DOJ access to seized devices",
-        "The court will search devices itself",
-        "The government is not trusted with full access",
-        "The decision aims to protect reporter privacy",
-        "The case highlights concerns over government overreach"
+        "A judge does not trust the DOJ with device search",
+        "The court will search devices itself instead",
+        "The devices were seized from a Wash Post reporter",
+        "The judge is taking steps to ensure privacy",
+        "The court's search will be more limited in scope"
       ]
     },
     {
-      "id": "cluster_140",
+      "id": "cluster_141",
       "coverage": 1,
       "updated_at": "Wed, 25 Feb 2026 19:29:50 +0000",
       "title": "Could a vaccine prevent dementia? Shingles shot data only getting stronger.",
-      "neutral_headline": "Shingles Vaccine May Prevent Dementia",
+      "neutral_headline": "Vaccine May Prevent Dementia According To Research",
       "items": [
         {
           "source": "Ars Technica",
@@ -442,19 +452,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2056512898-1152x648.jpg",
       "popularity_score": 139,
       "ai_summary": [
-        "Shingles vaccine data shows potential dementia prevention",
+        "A vaccine may prevent dementia according to data",
+        "The shingles shot data is getting stronger",
         "The benefits of the vaccine may be underestimated",
-        "Latest data hints at stronger benefits",
-        "The vaccine may have unexpected benefits",
-        "Further research is needed to confirm findings"
+        "The latest data hints at a possible connection",
+        "Research suggests a potential link between vaccine and dementia"
       ]
     },
     {
-      "id": "cluster_105",
+      "id": "cluster_106",
       "coverage": 1,
       "updated_at": "Thu, 26 Feb 2026 14:00:59 +0000",
       "title": "Badge engineering could be worse than this: The 2026 Subaru Uncharted",
-      "neutral_headline": "Subaru Uncharted EV Released",
+      "neutral_headline": "Subaru Uncharted Is A New EV Using Shared Platform",
       "items": [
         {
           "source": "Ars Technica",
@@ -468,21 +478,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Subaru-Uncharted-14-1152x648.jpg",
-      "popularity_score": 138.25819222222222,
+      "popularity_score": 135.22272555555554,
       "ai_summary": [
-        "The Subaru Uncharted is a new EV model",
-        "The vehicle uses a shared platform with Toyota",
-        "The starting price is $34,995",
-        "The vehicle features advanced technology",
-        "The release expands Subaru's EV offerings"
+        "The 2026 Subaru Uncharted is a new EV",
+        "The car uses a platform shared with Toyota",
+        "The Subaru Uncharted starts at 34,995 dollars",
+        "The car is a new addition to Subaru's lineup",
+        "The Uncharted is an electric vehicle option"
       ]
     },
     {
-      "id": "cluster_148",
+      "id": "cluster_149",
       "coverage": 1,
       "updated_at": "Wed, 25 Feb 2026 18:21:38 +0000",
       "title": "RAM now represents 35 percent of bill of materials for HP PCs",
-      "neutral_headline": "RAM Represents 35 Percent Of HP PC Costs",
+      "neutral_headline": "RAM Represents 35 Percent Of HP PC Bill Of Materials",
       "items": [
         {
           "source": "Ars Technica",
@@ -499,18 +509,18 @@
       "popularity_score": 133,
       "ai_summary": [
         "RAM represents 35 percent of HP PC costs",
-        "The percentage has increased from previous quarters",
-        "HP reported the increase in RAM costs",
-        "The change may affect PC pricing",
-        "The shift highlights changing PC component costs"
+        "RAM represented 15 to 18 percent last quarter",
+        "The percentage of RAM costs has increased",
+        "HP said RAM costs have gone up significantly",
+        "The increase in RAM costs is notable for HP PCs"
       ]
     },
     {
-      "id": "cluster_163",
+      "id": "cluster_164",
       "coverage": 1,
       "updated_at": "Wed, 25 Feb 2026 15:46:08 +0000",
       "title": "Trump's MAHA influencer pick for surgeon general goes before Senate",
-      "neutral_headline": "Trump Surgeon General Nominee Faces Senate",
+      "neutral_headline": "Trump Picks Surgeon General Without Medical License",
       "items": [
         {
           "source": "Ars Technica",
@@ -526,15 +536,15 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Casey_Means_on_Ron_Johnson_Roundtable_Discussion-867x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Trump's surgeon general nominee faces Senate review",
-        "The nominee holds no active medical license",
-        "The nominee promotes alternative medicine",
-        "The nomination is controversial",
-        "The Senate will review the nominee's qualifications"
+        "Casey Means has no active medical license",
+        "Means promotes alternative medicine approaches",
+        "Senate to review Means' nomination",
+        "Means' background sparks controversy",
+        "Nomination raises concerns about qualifications"
       ]
     },
     {
-      "id": "cluster_164",
+      "id": "cluster_165",
       "coverage": 1,
       "updated_at": "Wed, 25 Feb 2026 14:29:23 +0000",
       "title": "Pete Hegseth tells Anthropic to fall in line with DoD desires, or else",
@@ -554,11 +564,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/hegseth-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Anthropic CEO was summoned to Washington",
-        "The CEO was asked to limit military technology use",
-        "The company faces pressure from the DoD",
-        "The CEO must balance company goals and DoD desires",
-        "The situation highlights tensions between tech and government"
+        "Pete Hegseth demands compliance with DoD desires",
+        "Anthropic limits military use of its technology",
+        "CEO summoned to Washington for meeting",
+        "Company faces pressure from government",
+        "Technology use sparks military interest"
       ]
     }
   ]
