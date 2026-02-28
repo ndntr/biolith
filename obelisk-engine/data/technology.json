@@ -1,74 +1,92 @@
 {
-  "updated_at": "2026-02-27T23:25:38.674Z",
+  "updated_at": "2026-02-28T04:15:32.059Z",
   "clusters": [
     {
-      "id": "cluster_28",
-      "coverage": 2,
-      "updated_at": "Fri, 27 Feb 2026 14:25:01 -0500",
-      "title": "OpenAI fired an employee for insider trading on prediction markets like Polymarket; Unusual Whales has flagged 77 suspected insider trades around OpenAI events (Kate Knibbs/Wired)",
-      "neutral_headline": "OpenAI Fires Employee For Insider Trading",
+      "id": "cluster_9",
+      "coverage": 1,
+      "updated_at": "Sat, 28 Feb 2026 01:26:41 +0000",
+      "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space",
+      "neutral_headline": "Google Quantum Proofs HTTPS With Merkle Tree",
       "items": [
         {
-          "source": "TechMeme",
-          "url": "http://www.techmeme.com/260227/p26#a260227p26",
-          "published_at": "Fri, 27 Feb 2026 14:25:01 -0500",
-          "title": "OpenAI fired an employee for insider trading on prediction markets like Polymarket; Unusual Whales has flagged 77 suspected insider trades around OpenAI events (Kate Knibbs/Wired)",
-          "standfirst": "Kate Knibbs / Wired: OpenAI fired an employee for insider trading on prediction markets like Polymarket; Unusual Whales has flagged 77 suspected insider trades around OpenAI events &mdash; Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
-          "content": "Kate Knibbs / Wired: OpenAI fired an employee for insider trading on prediction markets like Polymarket; Unusual Whales has flagged 77 suspected insider trades around OpenAI events &mdash; Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
-          "feed_position": 8,
-          "image_url": "http://www.techmeme.com/260227/i26.jpg"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-          "published_at": "Fri, 27 Feb 2026 19:07:28 +0000",
-          "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
-          "standfirst": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
-          "content": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
-          "feed_position": 4,
-          "image_url": "https://media.wired.com/photos/69a0b01c157af8f83feddf9b/master/pass/OpenAI-Employee-Fired-Insider-Trading-Business-2210029299.jpg"
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
+          "published_at": "Sat, 28 Feb 2026 01:26:41 +0000",
+          "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space",
+          "standfirst": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
+          "content": "Google on Friday unveiled its plan for its Chrome browser to secure HTTPS certificates against quantum computer attacks without breaking the Internet. The objective is a tall order. The quantum-resistant cryptographic data needed to transparently publish TLS certificates is roughly 40 times bigger than the classical cryptographic material used today. Today’s X.509 certificates are about 64 bytes in size, and comprise six elliptic curve signatures and two EC public keys. This material can be cracked through the quantum-enabled Shor’s algorithm. Certificates containing the equivalent quantum-resistant cryptographic material are roughly 2.5 kilobytes. All this data must be transmitted when a browser connects to a site. The bigger they come, the slower they move “The bigger you make the certificate, the slower the handshake and the more people you leave behind,” said Bas Westerbaan, principal research engineer at Cloudflare, which is partnering with Google on the transition. “Our problem is we don’t want to leave people behind in this transition.” Speaking to Ars, he said that people will likely disable the new encryption if it slows their browsing. He added that the massive size increase can also degrade “middle boxes,” which sit between browsers and the final site.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/260227/i26.jpg",
-      "popularity_score": 2015.989535,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg",
+      "popularity_score": 370.18581694444447,
       "ai_summary": [
-        "OpenAI employee fired for insider trading",
-        "Employee traded on prediction markets like Polymarket",
-        "Unusual Whales flags suspected insider trades",
-        "OpenAI takes action against insider trading",
-        "Prediction markets pose risks for employees"
+        "Google develops quantum-proof HTTPS with Merkle Tree",
+        "Merkle Tree Certificate support added to Chrome browser",
+        "Quantum-proofing aims to enhance online security measures",
+        "New technology squeezes 2.5kB of data into 64-byte space",
+        "Quantum-proof HTTPS to be implemented widely soon"
       ]
     },
     {
-      "id": "cluster_7",
+      "id": "cluster_11",
+      "coverage": 1,
+      "updated_at": "Sat, 28 Feb 2026 00:32:24 +0000",
+      "title": "The Air Force's new ICBM is nearly ready to fly, but there’s nowhere to put it",
+      "neutral_headline": "Air Force ICBM Nears Readiness But Faces Challenges",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/",
+          "published_at": "Sat, 28 Feb 2026 00:32:24 +0000",
+          "title": "The Air Force's new ICBM is nearly ready to fly, but there’s nowhere to put it",
+          "standfirst": "\"There were assumptions that were made in the strategy that obviously didn’t come to fruition.\"",
+          "content": "DENVER—The US Air Force's new Sentinel intercontinental ballistic missile is on track for its first test flight next year, military officials reaffirmed this week. But no one is ready to say when hundreds of new missile silos, dug from the windswept Great Plains, will be finished, how much they cost, or, for that matter, how many nuclear warheads each Sentinel missile could actually carry. The LGM-35A Sentinel will replace the Air Force's Minuteman III fleet, in service since 1970, with the first of the new missiles due to become operational in the early 2030s. But it will take longer than that to build and activate the full complement of Sentinel missiles and the 450 hardened underground silos to house them.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/6404099-1152x648-1772236795.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/6404099-1152x648-1772236795.jpg",
+      "popularity_score": 354.28109472222224,
+      "ai_summary": [
+        "US Air Force's new ICBM nears readiness for flight",
+        "Challenges arise in finding suitable location for ICBM",
+        "Assumptions in strategy did not come to fruition",
+        "ICBM development faces significant logistical hurdles",
+        "Air Force must address challenges before deployment"
+      ]
+    },
+    {
+      "id": "cluster_22",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 22:39:00 +0000",
       "title": "Under a Paramount-WBD merger, two struggling media giants would unite",
       "neutral_headline": "Paramount And WBD Consider Merger",
       "items": [
         {
-          "source": "Ars Technica Main",
+          "source": "Ars Technica",
           "url": "https://arstechnica.com/gadgets/2026/02/under-a-paramount-wbd-merger-two-struggling-media-giants-would-unite/",
           "published_at": "Fri, 27 Feb 2026 22:39:00 +0000",
           "title": "Under a Paramount-WBD merger, two struggling media giants would unite",
           "standfirst": "Can two declining companies form a profitable one?",
           "content": "Netflix has dropped out of the bidding war for Warner Bros. Discovery (WBD), making Paramount Skydance the expected owner of WBD. A Paramount-WBD merger remains subject to regulatory approval, but it’s likely that we will see a Paramount-Skydance-Warner-Bros.-Discovery media giant. Such a conglomerate would unite two legacy media companies that have struggled with profitability for years and have strongly invested in streaming and cable. With Paramount inching closer to WBD ownership, let’s look at what the union implies for streaming and cable.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 2,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-79075226-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-79075226-1152x648.jpg",
-      "popularity_score": 352.22259055555554,
+      "popularity_score": 327.39109472222225,
       "ai_summary": [
-        "Paramount and WBD consider merger deal",
-        "Two struggling media giants may unite",
-        "Merger aims to create profitable company",
-        "Companies seek to strengthen market position",
-        "Merger outcome may impact media industry"
+        "Paramount and WBD explore potential merger",
+        "Two struggling media giants consider uniting",
+        "Merger aims to form a profitable company",
+        "Companies face significant challenges in media industry",
+        "Potential merger sparks questions about future prospects"
       ]
     },
     {
-      "id": "cluster_16",
+      "id": "cluster_31",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 21:27:33 +0000",
       "title": "Photons that aren't actually there influence superconductivity",
@@ -81,22 +99,22 @@
           "title": "Photons that aren't actually there influence superconductivity",
           "standfirst": "Interactions between neighboring materials is mediated by virtual photons.",
           "content": "Despite the headline, this isn't really a story about superconductivity—at least not the superconductivity that people care about, the stuff that doesn't require exotic refrigeration to work. Instead, it's a story about how superconductivity can be used as a test of some of the weirder consequences of quantum mechanics, one that involves non-existent particles of light that still act as if they exist. Researchers have found a way to get these virtual photons to influence the behavior of a superconductor, ultimately making it worse. That may, in the end, tell us something useful about superconductivity, but it'll probably take a little while. Virtual reality The story starts with quantum field theory, which is incredibly complex, but the simplified version is that even empty space is filled with fields that could govern the interactions of any quantum objects in or near that space. You can think of different particles as energetic excitements of these fields—so a photon is simply an energetic state of the quantum field.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/niac_2011_thibeault-1041x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/niac_2011_thibeault-1041x648.jpg",
-      "popularity_score": 351.0317572222222,
+      "popularity_score": 316.20026138888886,
       "ai_summary": [
-        "Virtual photons mediate interactions between materials",
-        "Superconductivity affected by virtual photons",
-        "Researchers study virtual photon interactions",
-        "Virtual photons play key role in superconductivity",
-        "Scientists explore properties of virtual photons"
+        "Researchers discover virtual photons affect superconductivity",
+        "Interactions between materials mediated by virtual photons",
+        "Findings shed new light on superconductivity mechanisms",
+        "Virtual photons play crucial role in superconducting materials",
+        "Research advances understanding of superconductivity"
       ]
     },
     {
-      "id": "cluster_34",
+      "id": "cluster_45",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 19:04:23 +0000",
       "title": "The AI apocalypse is nigh in Good Luck, Have Fun, Don't Die",
@@ -109,22 +127,22 @@
           "title": "The AI apocalypse is nigh in Good Luck, Have Fun, Don't Die",
           "standfirst": "Director Gore Verbinksi and screenwriter Matthew Robinson on the making of this darkly satirical sci-fi film.",
           "content": "We haven't had a new film from Gore Verbinski for nine years. But the director who brought us the first three Pirates of the Caribbean movies, the nightmare-inducing horror of The Ring (2002), and the Oscar-winning hijinks of Rango (2011) is back in peak form with Good Luck, Have Fun, Don't Die. It's a darkly satirical, inventive, and hugely entertaining time-loop adventure that also serves as a cautionary tale about our widespread online technology addiction. (Some spoilers below but no major reveals.) Sam Rockwell stars as an otherwise unnamed man who shows up at a Norms diner in Los Angeles looking like a homeless person but claiming to be a time traveler from an apocalyptic future. He’s there to recruit the locals into his war against a rogue AI, although the diner patrons are understandably dubious about his sanity. (“I come from a nightmare apocalypse,” he assures the crowd about his grubby appearance. “This is the height of f*@ing fashion!”)Read full article Comments",
-          "feed_position": 2,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/goodluckTOP-1152x648-1771948616.jpg"
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GLHFDD-TOP-1152x617.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/goodluckTOP-1152x648-1771948616.jpg",
-      "popularity_score": 343.6456461111111,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GLHFDD-TOP-1152x617.jpg",
+      "popularity_score": 308.8141502777778,
       "ai_summary": [
-        "Film Good Luck Have Fun Dont Die explores AI",
-        "Director Gore Verbinski and screenwriter discuss film",
-        "Film portrays darkly satirical sci-fi scenario",
-        "AI apocalypse scenario depicted in film",
-        "Film makers discuss inspiration behind the film"
+        "New film Good Luck Have Fun Dont Die explores AI apocalypse",
+        "Director Gore Verbinksi and screenwriter discuss film",
+        "Film offers darkly satirical take on AI and technology",
+        "Storyline examines potential consequences of AI development",
+        "Film sparks discussion about AI and its implications"
       ]
     },
     {
-      "id": "cluster_30",
+      "id": "cluster_41",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 19:14:51 +0000",
       "title": "Whoops: US military laser strike takes down CBP drone near Mexican border",
@@ -137,26 +155,26 @@
           "title": "Whoops: US military laser strike takes down CBP drone near Mexican border",
           "standfirst": "Trump admin \"incompetence continues to cause chaos in our skies,\" Duckworth says.",
           "content": "The US military mistakenly shot down a Customs and Border Protection (CBP) drone near the Mexican border in a strike that reportedly used a laser-based anti-drone system. The CBP uses drones to track people crossing the border. \"Congressional aides told Reuters the Pentagon used the high-energy laser system to shoot down a Customs and Border Protection drone near the Mexican border, in an area that often has incursions from Mexican drones used by drug cartels,\" Reuters reported last night. The FAA closed some airspace along the border with Mexico in Fort Hancock, Texas, on Thursday with a notice announcing temporary flight restrictions for special security reasons. The restrictions are in place until June 24 but could be lifted earlier. There are conflicting reports on which day the strike happened, with The New York Times reporting that the strike occurred Thursday and Bloomberg writing that the Federal Aviation Administration (FAA) “was notified Wednesday after the event occurred.”Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cbp-drone-1152x648-1772218578.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cbp-drone-1152x648-1772218578.jpg",
-      "popularity_score": 338.82009055555557,
+      "popularity_score": 303.9885947222222,
       "ai_summary": [
-        "US military laser strike takes down CBP drone",
-        "Drone downed near Mexican border",
-        "Incident sparks concerns about military actions",
-        "Investigation into laser strike incident underway",
-        "Officials respond to drone downing incident"
+        "US military laser strike accidentally downs CBP drone",
+        "Incident occurs near Mexican border",
+        "Trump administration faces criticism over incident",
+        "Laser strike raises concerns about military technology",
+        "Incident sparks debate about US military actions"
       ]
     },
     {
-      "id": "cluster_50",
+      "id": "cluster_58",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 17:21:21 +0000",
       "title": "How strong is New York's \"illegal gambling\" case against Valve's loot boxes?",
-      "neutral_headline": "New York State Sues Valve Over Loot Boxes",
+      "neutral_headline": "New York Challenges Valve Over Loot Boxes",
       "items": [
         {
           "source": "Ars Technica",
@@ -165,26 +183,26 @@
           "title": "How strong is New York's \"illegal gambling\" case against Valve's loot boxes?",
           "standfirst": "Lawyers tell Ars the state has a tough road ahead, even as Valve is uniquely vulnerable.",
           "content": "For years now, Valve fans have been making jokes about the company's slow transition from game maker to glorified digital hat and knife paint marketplace. This week, though, a lawsuit brought by the state of New York argues that Valve's in-game loot box sales amount to an illegal gambling outfit worth tens of billions of dollars. Lawyers who have looked into the particulars of the case tell Ars that the state faces an uphill battle in convincing courts that this portion of Valve's business legally constitutes gambling. That said, there are a few elements of the case that might make Valve legally vulnerable to the state's arguments. What is gambling, anyway? For a game to legally be counted as \"gambling\" in most jurisdictions, it has to pass a three-part test: a player has to pay money (1) for an outcome that's materially determined by chance (2) in the hopes of receiving something of value (3). While buying a key to a loot box in a Valve game easily passes those first two tests, New York's legal case will likely hinge on whether the random cosmetic items players get from those loot boxes constitute \"something of value\" for statutory purposes.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/csgogun-1-1152x648.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/csgogun-1-1152x648.jpeg",
-      "popularity_score": 321.9284238888889,
+      "popularity_score": 287.09692805555557,
       "ai_summary": [
-        "New York state sues Valve over loot boxes",
-        "Lawyers say state has tough road ahead",
-        "Valve is uniquely vulnerable to lawsuit",
-        "State claims loot boxes are illegal gambling",
-        "Lawsuit may set precedent for gaming industry"
+        "New York state challenges Valve over loot boxes",
+        "Case alleges loot boxes constitute illegal gambling",
+        "Valve faces unique vulnerability in court case",
+        "Lawyers weigh in on the state's chances of success",
+        "Case could have significant implications for gaming industry"
       ]
     },
     {
-      "id": "cluster_39",
+      "id": "cluster_48",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 18:36:04 +0000",
       "title": "Hyperion author Dan Simmons dies from stroke at 77",
-      "neutral_headline": "Author Dan Simmons Dies At 77",
+      "neutral_headline": "Hyperion Author Dan Simmons Dies At 77",
       "items": [
         {
           "source": "Ars Technica",
@@ -193,26 +211,26 @@
           "title": "Hyperion author Dan Simmons dies from stroke at 77",
           "standfirst": "I went into Hyperion blind, decades ago, knowing almost nothing about it. I was never the same.",
           "content": "Dan Simmons, the author of more than three dozen books, including the famed Hyperion Cantos, has died from a stroke. He was 77. Simmons, who worked in elementary education before becoming an author in the 1980s, produced a broad portfolio of writing that spanned several genres, including horror fiction, historical fiction, and science fiction. Often, his books included elements of all of these. This obituary will focus on what is generally considered his greatest work, and what I believe is possibly the greatest science fiction novel of all time, Hyperion. Published in 1989, Hyperion is set in a far-flung future in which human settlement spans hundreds of planets. The novel feels both familiar, in that its structure follows Chaucer's Canterbury Tales, and utterly unfamiliar in its strange, far-flung setting.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2015/06/Hyperion-1152x648-1772217993.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2015/06/Hyperion-1152x648-1772217993.jpg",
-      "popularity_score": 315.17370166666666,
+      "popularity_score": 280.3422058333333,
       "ai_summary": [
-        "Dan Simmons author of Hyperion dies",
-        "Simmons died from stroke at 77 years old",
-        "Hyperion is a science fiction novel series",
-        "Simmons wrote many bestselling books",
-        "He will be remembered for his literary works"
+        "Author Dan Simmons passes away at 77 years old",
+        "Simmons known for science fiction novel Hyperion",
+        "Author's work had significant impact on readers",
+        "Simmons' legacy continues through his written works",
+        "Fans and readers mourn the loss of acclaimed author"
       ]
     },
     {
-      "id": "cluster_60",
+      "id": "cluster_65",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 16:13:51 +0000",
       "title": "And the award for the most improved EV goes to... the 2026 Toyota bZ",
-      "neutral_headline": "Toyota Improves Electric Vehicle Efficiency",
+      "neutral_headline": "Toyota Releases Improved Electric SUV",
       "items": [
         {
           "source": "Ars Technica",
@@ -221,26 +239,26 @@
           "title": "And the award for the most improved EV goes to... the 2026 Toyota bZ",
           "standfirst": "Toyota's small electric SUV is much-revised, much more efficient, and much better.",
           "content": "The world's largest automaker has had a somewhat difficult relationship with battery-electric vehicles. Toyota was an early pioneer of hybrid powertrains, and it remains a fan today, often saying that given limited battery supply, it makes sense to build more hybrids than fewer EVs. Its first full BEV had a rocky start, suffering a recall due to improperly attached wheels just as the cars were hitting showrooms. Reviews for the awkwardly named bZ4x were mixed; the car did little to stand out among the competition. Toyota didn't get to be the world's largest automaker by being completely blind to feedback, and last year, it gave its EV platform (called e-TNGA and shared with Lexus and Subaru) a bit of a spiff-up. To start, it simplified the name—the small electric SUV is now just called the bZ. It uses a new 74.7 kWh battery pack, available with either front- or all-wheel-drive powertrains that now use silicon carbide power electronics. And for the North American market, instead of a CCS1 port just behind the front passenger wheel, you'll now see a Tesla-style NACS socket. Our test bZ was the $37,900 XLE FWD Plus, which has the most range of any bZ at 314 miles (505 km), according to the EPA test cycle. When you realize that the pre-facelift version managed just 252 miles (405 km) with 71.4 kWh onboard, the scale of the improvement becomes clear.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/2026-Toyota-bZ-1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/2026-Toyota-bZ-1-1152x648.jpg",
-      "popularity_score": 301.8034238888889,
+      "popularity_score": 266.97192805555557,
       "ai_summary": [
-        "Toyota improves electric vehicle efficiency",
-        "2026 Toyota bZ is much revised and efficient",
-        "Small electric SUV is much better now",
-        "Toyota focuses on electric vehicle technology",
-        "Improved EV is a significant milestone"
+        "Toyota's small electric SUV is revised",
+        "The new SUV is more efficient",
+        "The SUV has improved features",
+        "Toyota's revisions aim to increase sales",
+        "The SUV's efficiency is much better"
       ]
     },
     {
-      "id": "cluster_67",
+      "id": "cluster_72",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 15:13:48 +0000",
       "title": "Netflix cedes Warner Bros. Discovery to Paramount: “No longer financially attractive”",
-      "neutral_headline": "Netflix Ends Partnership With Warner Bros",
+      "neutral_headline": "Netflix Ends Warner Bros Discovery Deal",
       "items": [
         {
           "source": "Ars Technica",
@@ -249,106 +267,22 @@
           "title": "Netflix cedes Warner Bros. Discovery to Paramount: “No longer financially attractive”",
           "standfirst": "Netflix shares jumped following the announcement.",
           "content": "Netflix backed out of its deal to acquire Warner Bros. Discovery’s (WBD’s) streaming and movie studios businesses on Thursday night. After increasing its bid for all of WBD by $1 per share on Tuesday, Paramount Skydance is poised to become the new owner of WBD, including Game of Thrones, DC Comics, and other IP, as well as the HBO Max streaming service and cable channels CNN and TBS. Netflix and WBD announced merger intentions on December 5. Netflix was going to pay an equity value of $72 billion, or an approximate total enterprise value of $82.7 billion, for part of WBD. At the time, NBC News reported that WBD’s total market value was $60 billion. But Paramount has reportedly been eyeing WBD for years and followed December's merger announcement with an aggressive hostile takeover bid. On Tuesday, in addition to raising its offer to buy all of WBD, Paramount also agreed to pay a $7 billion regulatory termination fee should a Paramount-WBD merger fail to close due to antitrust regulation, as well as a $0.25 per share ticking fee for every quarter that the deal doesn’t close, starting on September 30.Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2258061457-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2258061457-1152x648.jpg",
-      "popularity_score": 284.8025905555556,
+      "popularity_score": 249.97109472222223,
       "ai_summary": [
-        "Netflix ends partnership with Warner Bros",
+        "Netflix ends deal with Warner Bros",
+        "The deal was no longer financially attractive",
         "Netflix shares jumped after announcement",
-        "Partnership was no longer financially attractive",
-        "Netflix focuses on other content partnerships",
-        "Decision may impact Netflix content offerings"
+        "The decision affects Netflix's content",
+        "Warner Bros content will be removed"
       ]
     },
     {
-      "id": "cluster_68",
-      "coverage": 1,
-      "updated_at": "Fri, 27 Feb 2026 15:08:08 +0000",
-      "title": "NASA shakes up its Artemis program to speed up lunar return",
-      "neutral_headline": "NASA Speeds Up Lunar Return Program",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/staff/2026/02/nasa-shakes-up-its-artemis-program-to-speed-up-lunar-return/",
-          "published_at": "Fri, 27 Feb 2026 15:08:08 +0000",
-          "title": "NASA shakes up its Artemis program to speed up lunar return",
-          "standfirst": "\"Launching SLS every three and a half years or so is not a recipe for success.\"",
-          "content": "NASA Administrator Jared Isaacman announced sweeping changes to the Artemis program on Friday morning, including an increased cadence of missions and cancellation of an expensive rocket stage. The upheaval comes as NASA has struggled to fuel the massive Space Launch System rocket for the upcoming Artemis II lunar mission, and Isaacman has sought to revitalize an agency that has moved at a glacial pace on its deep space programs. There is ever-increasing concern that, absent a shake-up, China's rising space program will land humans on the Moon before NASA can return there this decade with Artemis. \"NASA must standardize its approach, increase flight rate safely, and execute on the president’s national space policy,\" Isaacman said. \"With credible competition from our greatest geopolitical adversary increasing by the day, we need to move faster, eliminate delays, and achieve our objectives.\"Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/eus_art-1152x648-1753395940.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/eus_art-1152x648-1753395940.jpg",
-      "popularity_score": 274.7081461111111,
-      "ai_summary": [
-        "NASA speeds up lunar return program",
-        "Artemis program is being revised and accelerated",
-        "NASA aims to return to moon sooner",
-        "Current approach is not a recipe for success",
-        "New plan may include more frequent launches"
-      ]
-    },
-    {
-      "id": "cluster_76",
-      "coverage": 1,
-      "updated_at": "Fri, 27 Feb 2026 14:19:00 +0000",
-      "title": "Block lays off 40% of workforce as it goes all-in on AI tools",
-      "neutral_headline": "Block Lays Off 40 Percent Of Workforce",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/02/block-lays-off-40-of-workforce-as-it-goes-all-in-on-ai-tools/",
-          "published_at": "Fri, 27 Feb 2026 14:19:00 +0000",
-          "title": "Block lays off 40% of workforce as it goes all-in on AI tools",
-          "standfirst": "CEO says \"most companies are late\" to realize how much technology will affect employment.",
-          "content": "Block, the fintech group headed by Twitter cofounder Jack Dorsey, will cut its workforce by “nearly half” in one of the clearest signs of the sweeping changes AI tools are having on employment. Shares in the payment company soared more than 25 percent in after-hours trading on Thursday as it announced it would shed more than 4,000 jobs from its 10,000-strong workforce. “Intelligence tools have changed what it means to build and run a company. We’re already seeing it internally,” Dorsey wrote in a letter to shareholders.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/jack-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/jack-1152x648.jpg",
-      "popularity_score": 268.8892572222222,
-      "ai_summary": [
-        "Block lays off 40 percent of workforce",
-        "Company is shifting focus to AI tools",
-        "CEO says most companies are late to realize",
-        "Technology will significantly affect employment",
-        "Block is adapting to changing industry landscape"
-      ]
-    },
-    {
-      "id": "cluster_74",
-      "coverage": 1,
-      "updated_at": "Fri, 27 Feb 2026 14:34:45 +0000",
-      "title": "How to downgrade from macOS 26 Tahoe on a new Mac",
-      "neutral_headline": "Downgrade From MacOS 26 Tahoe Possible",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/02/how-to-downgrade-from-macos-26-tahoe-on-a-new-mac/",
-          "published_at": "Fri, 27 Feb 2026 14:34:45 +0000",
-          "title": "How to downgrade from macOS 26 Tahoe on a new Mac",
-          "standfirst": "Most new Macs can still be downgraded with few downsides. Here's what to know.",
-          "content": "An Ars Technica colleague recently bought a new M4 MacBook Air. I have essentially nothing bad to say about this hardware, except to point out that even in our current memory shortage apocalypse, Apple is still charging higher-than-market-rates for RAM and SSD upgrades. Still, most people buying this laptop will have a perfectly nice time with it. But for this colleague, it was also their first interaction with macOS 26 Tahoe and the Liquid Glass redesign, the Mac's first major software design update since the Apple Silicon era began with macOS 11 Big Sur in 2020. Negative consumer reaction to Liquid Glass has been overstated by some members of the Apple enthusiast media ecosystem, and Apple's data shows that iOS 26 adoption rates are roughly in line with those of the last few years. But the Mac's foray into Liquid Glass has drawn particular ire from longtime users (developers Jeff Johnson and Norbert Heger have been tracking persistently weird Finder and window resizing behavior, to pick two concrete examples, and Daring Fireball's John Gruber has encouraged users not to upgrade).Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/tahoe-goodbye-imac-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/tahoe-goodbye-imac-1152x648.jpg",
-      "popularity_score": 261.1517572222222,
-      "ai_summary": [
-        "Downgrade from macOS 26 Tahoe is possible",
-        "Most new Macs can be downgraded with ease",
-        "Few downsides to downgrading macOS",
-        "Users can choose to downgrade if needed",
-        "Downgrading may resolve compatibility issues"
-      ]
-    },
-    {
-      "id": "cluster_142",
+      "id": "cluster_145",
       "coverage": 1,
       "updated_at": "Thu, 26 Feb 2026 17:12:10 +0000",
       "title": "Google reveals Nano Banana 2 AI image model, coming to Gemini today",
@@ -361,26 +295,54 @@
           "title": "Google reveals Nano Banana 2 AI image model, coming to Gemini today",
           "standfirst": "Google's new image model replaces the previous versions immediately.",
           "content": "The last year has been big for Google's AI efforts. Its rapid-fire model releases have brought it to parity with the likes of OpenAI and Anthropic and, in some cases, pushed it into the lead. The Nano Banana image generator was emblematic of that trend when it debuted last year, and subsequent updates only made it better. Now, Google has announced yet another update to its image model with Nano Banana 2, which is available starting today. Nano Banana 2 is more accurately known as Gemini 3.1 Flash Image—the previous Nano Banana models were based on the 3.0 branch. According to Google, the new release can deliver results similar to Nano Banana Pro but with the speed of the non-pro Flash variant. Google promises the new image generator will have more advanced world knowledge pulled from the Internet by the Gemini 3.1 LLM. This apparently gives it the necessary information to render objects with greater fidelity and create more accurate infographics. The days of squiggly AI text were already ending, but Google says Nano Banana 2 has Pro-like text accuracy in image outputs.Read full article Comments",
-          "feed_position": 16,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/NB2_Hero.width-2200.format-webp-1152x648.png"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/NB2_Hero.width-2200.format-webp-1152x648.png",
       "popularity_score": 166,
       "ai_summary": [
-        "Google reveals new AI image model Nano",
-        "Nano Banana 2 model is coming to Gemini",
-        "New model replaces previous versions immediately",
-        "Google focuses on AI image technology",
-        "New model may improve image processing"
+        "Google's new AI image model is released",
+        "The model replaces previous versions",
+        "The new model is available on Gemini",
+        "The model improves image processing",
+        "Gemini users can access the model"
       ]
     },
     {
-      "id": "cluster_80",
+      "id": "cluster_81",
+      "coverage": 1,
+      "updated_at": "Fri, 27 Feb 2026 14:19:00 +0000",
+      "title": "Block lays off 40% of workforce as it goes all-in on AI tools",
+      "neutral_headline": "Block Lays Off Workforce To Focus AI",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/02/block-lays-off-40-of-workforce-as-it-goes-all-in-on-ai-tools/",
+          "published_at": "Fri, 27 Feb 2026 14:19:00 +0000",
+          "title": "Block lays off 40% of workforce as it goes all-in on AI tools",
+          "standfirst": "CEO says \"most companies are late\" to realize how much technology will affect employment.",
+          "content": "Block, the fintech group headed by Twitter cofounder Jack Dorsey, will cut its workforce by “nearly half” in one of the clearest signs of the sweeping changes AI tools are having on employment. Shares in the payment company soared more than 25 percent in after-hours trading on Thursday as it announced it would shed more than 4,000 jobs from its 10,000-strong workforce. “Intelligence tools have changed what it means to build and run a company. We’re already seeing it internally,” Dorsey wrote in a letter to shareholders.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/jack-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/jack-1152x648.jpg",
+      "popularity_score": 154.05776138888888,
+      "ai_summary": [
+        "Block lays off 40 percent of workforce",
+        "The company focuses on AI tools",
+        "CEO says technology affects employment",
+        "Block's decision aims to increase efficiency",
+        "The layoffs affect the company's structure"
+      ]
+    },
+    {
+      "id": "cluster_85",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 13:37:42 +0000",
       "title": "Apple says it has \"a big week ahead.\" Here's what we expect to see.",
-      "neutral_headline": "Apple Announces Upcoming Product Updates",
+      "neutral_headline": "Apple Prepares For Big Week Ahead",
       "items": [
         {
           "source": "Ars Technica",
@@ -389,22 +351,22 @@
           "title": "Apple says it has \"a big week ahead.\" Here's what we expect to see.",
           "standfirst": "Apple is taking an \"ain't broke/don't fix\" approach to most of its gadgets.",
           "content": "Excepting the AirTag 2, so far it's been a quiet year for Apple hardware. But that's poised to change next week, as the company is hosting a \"special experience\" on March 4. The use of the word experience, rather than event or presentation, implies that Apple’s typical presentation format won't apply here. And CEO Tim Cook more or less confirmed this when he posted that the company had \"a big week ahead,\" starting on Monday. Apple is most likely planning multiple days of product launches announced via press release on its Newsroom site, with the “experience” on Wednesday serving as a capper and a hands-on session for the media. Apple has used a similar strategy before, spacing out relatively low-key refreshes over several days to generate sustained interest rather than dropping everything in a single 30- to 60-minute string of pre-recorded videos.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/DSC_5638-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/DSC_5638-1152x648.jpg",
-      "popularity_score": 155.2009238888889,
+      "popularity_score": 150.36942805555555,
       "ai_summary": [
-        "Apple announces upcoming product updates",
-        "Company is taking a cautious approach",
-        "Most gadgets will not be significantly changed",
-        "Apple focuses on refining existing products",
-        "Updates may include new features and improvements"
+        "Apple has a big week ahead",
+        "The company expects new releases",
+        "Apple takes a cautious approach",
+        "The company's gadgets will be updated",
+        "Apple's approach aims to improve products"
       ]
     },
     {
-      "id": "cluster_125",
+      "id": "cluster_128",
       "coverage": 1,
       "updated_at": "Thu, 26 Feb 2026 22:53:18 +0000",
       "title": "Perplexity announces \"Computer,\" an AI agent that assigns work to other AI agents",
@@ -417,26 +379,26 @@
           "title": "Perplexity announces \"Computer,\" an AI agent that assigns work to other AI agents",
           "standfirst": "It's also a buttoned-down, ostensibly safer take on the OpenClaw concept.",
           "content": "Perplexity has introduced \"Computer,\" a new tool that allows users to assign tasks and see them carried out by a system that coordinates multiple agents running various models. The company claims that Computer, currently available to Perplexity Max subscribers, is \"a system that creates and executes entire workflows\" and \"capable of running for hours or even months.\" The idea is that the user describes a specific outcome—something like \"plan and execute a local digital marketing campaign for my restaurant\" or \"build me an Android app that helps me do a specific kind of research for my job.\" Computer then ideates subtasks and assigns them to multiple agents as needed, running the models Perplexity deems best for those tasks.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Perplexity-Computer-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Perplexity-Computer-1152x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "Perplexity announces new AI agent Computer",
-        "AI agent assigns work to other agents",
-        "Computer is a safer take on OpenClaw concept",
-        "Perplexity focuses on AI technology development",
-        "New agent may improve AI workflow efficiency"
+        "Perplexity announces new AI agent",
+        "The agent assigns work to other agents",
+        "The agent is a safer take on OpenClaw",
+        "The agent improves AI processing",
+        "The new agent has buttoned-down features"
       ]
     },
     {
-      "id": "cluster_127",
+      "id": "cluster_130",
       "coverage": 1,
       "updated_at": "Thu, 26 Feb 2026 22:19:39 +0000",
       "title": "xAI spent $7M building wall that barely muffles annoying power plant noise",
-      "neutral_headline": "xAI Spent 7 Million On Sound Wall",
+      "neutral_headline": "xAI Builds Wall To Muffle Noise",
       "items": [
         {
           "source": "Ars Technica",
@@ -445,54 +407,54 @@
           "title": "xAI spent $7M building wall that barely muffles annoying power plant noise",
           "standfirst": "“Temu sound wall” not enough to quell fury over xAI’s power plant.",
           "content": "For miles around xAI's makeshift power plant in Southaven, Mississippi, neighbors have endured months of constant roaring, erupting pops, and bursts of high-pitched whining from 27 temporary gas turbines installed without consulting the community. In a report on Thursday, NBC News interviewed residents fighting to shut down xAI's turbines. They confirmed that xAI operates the turbines day and night, allegedly tormenting residents in order to power xAI founder Elon Musk's unbridled AI ambitions. Eventually, 41 permanent gas turbines—that supposedly won't be as noisy—will be installed, if xAI can secure the permitting. In the meantime, xAI has erected a $7 million \"sound barrier\" that's supposed to mitigate some of the noise.Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1768218692.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1768218692.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "xAI spent 7 million on sound wall",
-        "Wall barely muffles annoying power plant noise",
-        "Temu sound wall is not enough to quell fury",
-        "xAI faces criticism over power plant noise",
-        "Company may need to take further action"
+        "xAI builds wall to muffle power plant noise",
+        "The wall is not enough to quell fury",
+        "The wall costs 7 million dollars",
+        "The power plant causes annoying noise",
+        "The wall barely muffles the noise"
       ]
     },
     {
-      "id": "cluster_149",
+      "id": "cluster_73",
       "coverage": 1,
-      "updated_at": "Thu, 26 Feb 2026 15:45:18 +0000",
-      "title": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",
-      "neutral_headline": "New Attack Bypasses Wi Fi Encryption",
+      "updated_at": "Fri, 27 Feb 2026 15:08:08 +0000",
+      "title": "NASA shakes up its Artemis program to speed up lunar return",
+      "neutral_headline": "NASA Speeds Up Lunar Return Program",
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
-          "published_at": "Thu, 26 Feb 2026 15:45:18 +0000",
-          "title": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",
-          "standfirst": "That guest network you set up for your neighbors may not be as secure as you think.",
-          "content": "It’s hard to overstate the role that Wi-Fi plays in virtually every facet of life. The organization that shepherds the wireless protocol says that more than 48 billion Wi-Fi-enabled devices have shipped since it debuted in the late 1990s. One estimate pegs the number of individual users at 6 billion, roughly 70 percent of the world’s population. Despite the dependence and the immeasurable amount of sensitive data flowing through Wi-Fi transmissions, the history of the protocol has been littered with security landmines stemming both from the inherited confidentiality weaknesses of its networking predecessor, Ethernet (it was once possible for anyone on a network to read and modify the traffic sent to anyone else), and the ability for anyone nearby to receive the radio signals Wi-Fi relies on. Ghost in the machine In the early days, public Wi-Fi networks often resembled the Wild West, where ARP spoofing attacks that allowed renegade users to read other users' traffic were common. The solution was to build cryptographic protections that prevented nearby parties—whether an authorized user on the network or someone near the AP (access point)—from reading or tampering with the traffic of any other user.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/wi-fi-1152x648-1751309982.jpg"
+          "url": "https://arstechnica.com/staff/2026/02/nasa-shakes-up-its-artemis-program-to-speed-up-lunar-return/",
+          "published_at": "Fri, 27 Feb 2026 15:08:08 +0000",
+          "title": "NASA shakes up its Artemis program to speed up lunar return",
+          "standfirst": "\"Launching SLS every three and a half years or so is not a recipe for success.\"",
+          "content": "NASA Administrator Jared Isaacman announced sweeping changes to the Artemis program on Friday morning, including an increased cadence of missions and cancellation of an expensive rocket stage. The upheaval comes as NASA has struggled to fuel the massive Space Launch System rocket for the upcoming Artemis II lunar mission, and Isaacman has sought to revitalize an agency that has moved at a glacial pace on its deep space programs. There is ever-increasing concern that, absent a shake-up, China's rising space program will land humans on the Moon before NASA can return there this decade with Artemis. \"NASA must standardize its approach, increase flight rate safely, and execute on the president’s national space policy,\" Isaacman said. \"With credible competition from our greatest geopolitical adversary increasing by the day, we need to move faster, eliminate delays, and achieve our objectives.\"Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/eus_art-1152x648-1753395940.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/wi-fi-1152x648-1751309982.jpg",
-      "popularity_score": 148,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/eus_art-1152x648-1753395940.jpg",
+      "popularity_score": 139.87665027777777,
       "ai_summary": [
-        "New attack bypasses Wi-Fi encryption",
-        "AirSnitch attack affects homes and offices",
-        "Guest networks may not be as secure",
-        "Encryption is not enough to prevent attacks",
-        "Users need to take extra security measures"
+        "NASA speeds up lunar return program",
+        "The program aims to return to moon",
+        "Launching SLS every three years",
+        "The program's success is crucial",
+        "NASA's decision aims to increase efficiency"
       ]
     },
     {
-      "id": "cluster_92",
+      "id": "cluster_97",
       "coverage": 1,
       "updated_at": "Fri, 27 Feb 2026 12:00:13 +0000",
       "title": "Rocket Report: Vulcan \"many months\" from flying; Falcon 9 extends reuse milestone",
-      "neutral_headline": "Vulcan Rocket Many Months From Flying",
+      "neutral_headline": "Rocket Report Updates Space Missions",
       "items": [
         {
           "source": "Ars Technica",
@@ -501,22 +463,50 @@
           "title": "Rocket Report: Vulcan \"many months\" from flying; Falcon 9 extends reuse milestone",
           "standfirst": "\"As the original architect of Vector’s vision, it’s deeply meaningful to bring these assets home.\"",
           "content": "Welcome to Edition 8.31 of the Rocket Report! We have some late-breaking news this week with an update Thursday afternoon from Rocket Lab on the timing of its much-anticipated Neutron rocket. Following the failure of a first stage tank during testing, the company is pushing the medium-lift rocket's debut into the fourth quarter of this year. Effectively that probably means 2027 for the booster, which is disappointing because we all very much want to see another reusable rocket take flight. As always, we welcome reader submissions, and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. The ghost of Vector lives on. Tucson, Arizona-based satellite and rocket developer Phantom Space, co-founded by Jim Cantrell in 2019, has acquired the remnants of Vector Launch, Space News reports. The announcement is notable because Cantrell left Vector as its finances deteriorated in 2019. Cantrell said some of the assets, comprising flight-proven design elements, engineering data, and other technology originally developed for Vector, will be immediately integrated into Phantom’s Daytona vehicle architecture to reduce development risk.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Neutron-Hungry-Hippo-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Neutron-Hungry-Hippo-1152x648.jpg",
-      "popularity_score": 141.57620166666666,
+      "popularity_score": 136.74470583333334,
       "ai_summary": [
-        "Vulcan rocket is many months from flying",
+        "Vulcan is months away from flying",
         "Falcon 9 extends reuse milestone",
-        "Rocket Report provides updates on space industry",
-        "Vulcan rocket development is ongoing",
-        "Space industry is constantly evolving"
+        "The report updates space missions",
+        "The missions aim to achieve success",
+        "The report provides important information"
       ]
     },
     {
-      "id": "cluster_123",
+      "id": "cluster_79",
+      "coverage": 1,
+      "updated_at": "Fri, 27 Feb 2026 14:34:45 +0000",
+      "title": "How to downgrade from macOS 26 Tahoe on a new Mac",
+      "neutral_headline": "Downgrade From macOS 26 Tahoe",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/02/how-to-downgrade-from-macos-26-tahoe-on-a-new-mac/",
+          "published_at": "Fri, 27 Feb 2026 14:34:45 +0000",
+          "title": "How to downgrade from macOS 26 Tahoe on a new Mac",
+          "standfirst": "Most new Macs can still be downgraded with few downsides. Here's what to know.",
+          "content": "An Ars Technica colleague recently bought a new M4 MacBook Air. I have essentially nothing bad to say about this hardware, except to point out that even in our current memory shortage apocalypse, Apple is still charging higher-than-market-rates for RAM and SSD upgrades. Still, most people buying this laptop will have a perfectly nice time with it. But for this colleague, it was also their first interaction with macOS 26 Tahoe and the Liquid Glass redesign, the Mac's first major software design update since the Apple Silicon era began with macOS 11 Big Sur in 2020. Negative consumer reaction to Liquid Glass has been overstated by some members of the Apple enthusiast media ecosystem, and Apple's data shows that iOS 26 adoption rates are roughly in line with those of the last few years. But the Mac's foray into Liquid Glass has drawn particular ire from longtime users (developers Jeff Johnson and Norbert Heger have been tracking persistently weird Finder and window resizing behavior, to pick two concrete examples, and Daring Fireball's John Gruber has encouraged users not to upgrade).Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/tahoe-goodbye-imac-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/tahoe-goodbye-imac-1152x648.jpg",
+      "popularity_score": 136.3202613888889,
+      "ai_summary": [
+        "Users can downgrade from macOS 26",
+        "The process has few downsides",
+        "New Macs can be downgraded",
+        "The downgrade process is available",
+        "Users can follow specific steps"
+      ]
+    },
+    {
+      "id": "cluster_126",
       "coverage": 1,
       "updated_at": "Thu, 26 Feb 2026 23:16:46 +0000",
       "title": "Neanderthals seemed to have a thing for modern human women",
@@ -529,82 +519,26 @@
           "title": "Neanderthals seemed to have a thing for modern human women",
           "standfirst": "\"Neanderthal deserts\" in our genomes suggest a strong pattern in matings.",
           "content": "By now, it's firmly established that modern humans and their Neanderthal relatives met and mated as our ancestors expanded out of Africa, resulting in a substantial amount of Neanderthal DNA scattered throughout our genome. Less widely recognized is that some of the Neanderthal genomes we've seen have pieces of modern human DNA as well. Not every modern human has the same set of Neanderthal DNA, however; different people will, by chance, have inherited different fragments. But there are also some areas, termed \"Neanderthal deserts,\" where none of the Neanderthal DNA seems to have persisted. Notably, the largest Neanderthal desert is the entire X chromosome, raising questions about whether this reflects the evolutionary fitness of genes there or mating preferences. Now, three researchers at the University of Pennsylvania, Alexander Platt, Daniel N. Harris, and Sarah Tishkoff, have done the converse analysis: examining the X chromosomes of the handful of completed Neanderthal genomes we have. It turns out there's also a strong bias toward modern human sequences there, as well, and the authors interpret that as selective mating, with Neanderthal males showing a strong preference for modern human females and their descendants.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1243699616-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1243699616-1024x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Neanderthals mated with modern human women",
-        "Neanderthal deserts in genomes suggest pattern",
-        "Matings were likely a common occurrence",
-        "Neanderthals and humans interbred frequently",
-        "Genetic evidence supports interbreeding theory"
+        "Neanderthals mated with modern humans",
+        "The matings show a strong pattern",
+        "Neanderthals had a preference",
+        "The matings affected human genomes",
+        "The pattern is evident in genomes"
       ]
     },
     {
-      "id": "cluster_143",
-      "coverage": 1,
-      "updated_at": "Thu, 26 Feb 2026 16:53:50 +0000",
-      "title": "Ford is recalling 4.3 million trucks and SUVs to fix a towing software bug",
-      "neutral_headline": "Ford Recalls 4 Million Trucks And SUVs",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/02/ford-is-recalling-4-3-million-trucks-and-suvs-to-fix-a-towing-software-bug/",
-          "published_at": "Thu, 26 Feb 2026 16:53:50 +0000",
-          "title": "Ford is recalling 4.3 million trucks and SUVs to fix a towing software bug",
-          "standfirst": "An OTA update will be pushed out in a few weeks; owners can also go to a dealership.",
-          "content": "Last year, Ford set a new industry record: It issued 152 safety recalls, almost twice the previous high set by General Motors back in 2014. More than 24 million vehicles were recalled in the US last year, and more than half—13 million—were either Fords or Lincolns. By contrast, Tesla issued 11 recalls, affecting just 745,000 vehicles. Truth be told, Ford's not doing too hot in 2026, either; it's currently leading the National Highway Traffic Safety Administration's chart for recalls this year, with 10 on the books already. The latest is a big one, affecting almost 4.4 million trucks, vans, and SUVs. The recall affects the Ford Maverick (model years 2022–2026), Ford Ranger (MY 2024–2026), Ford Expedition (MY 2022–2026), Ford E-Transit (MY 2026), Ford F-150 (MY 2021–2026), Ford F-250 SD (MY 2022–2026), and the Lincoln Navigator (MY 2022–2026). Just the F-150s alone number 2.3 million.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/2025_Ford_Ranger_Lariat_FX4_1-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/2025_Ford_Ranger_Lariat_FX4_1-1152x648.jpg",
-      "popularity_score": 133,
-      "ai_summary": [
-        "Ford recalls 4 million trucks and SUVs",
-        "Recall is due to towing software bug",
-        "OTA update will be pushed out soon",
-        "Owners can also visit a dealership",
-        "Recall aims to fix software issue promptly"
-      ]
-    },
-    {
-      "id": "cluster_150",
-      "coverage": 1,
-      "updated_at": "Thu, 26 Feb 2026 14:57:36 +0000",
-      "title": "New York sues Valve for enabling \"illegal gambling\" with loot boxes",
-      "neutral_headline": "New York Sues Valve Over Loot Boxes",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/02/new-york-sues-valve-for-enabling-illegal-gambling-with-loot-boxes/",
-          "published_at": "Thu, 26 Feb 2026 14:57:36 +0000",
-          "title": "New York sues Valve for enabling \"illegal gambling\" with loot boxes",
-          "standfirst": "The ability to resell Steam items for real value is key to the state's case.",
-          "content": "New York state has filed a lawsuit against Valve alleging that randomized loot boxes in games like Counter-Strike 2, Team Fortress 2, and Dota 2 amount to a form of unregulated gambling, letting users \"pay for the chance to win a rare virtual item of significant monetary value.\" While many randomized video game loot boxes have drawn attention and regulation from various government bodies in recent years, the New York suit calls out Valve's system specifically for \"enabl[ing] users to sell the virtual items they have won, either through its own virtual marketplace, the Steam Community Market, or through third-party marketplaces.\" The vast majority of Valve's in-game loot boxes contain skins that can only be resold for a few cents, the suit notes, while the rarest skins can be worth thousands of dollars through marketplaces on and off of Steam. That fits the statutory definition of gambling as \"charging an individual for a chance to win something of value based on luck alone,\" according to the suit. The Steam Wallet funds that users get through directly reselling skins \"have the equivalent purchasing power on the Steam platform as cash,\" the suit notes. But if a user wants to convert those Steam funds to real cash, they can do so relatively easily by purchasing a Steam Deck and reselling it to any interested party, as an investigator did while preparing the lawsuit.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cslootboxes.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cslootboxes.jpg",
-      "popularity_score": 133,
-      "ai_summary": [
-        "New York state sues Valve over loot boxes",
-        "Loot boxes enable illegal gambling says state",
-        "Reselling Steam items for real value is key",
-        "State seeks to stop loot box sales",
-        "Valve faces legal action over gaming practice"
-      ]
-    },
-    {
-      "id": "cluster_129",
+      "id": "cluster_132",
       "coverage": 1,
       "updated_at": "Thu, 26 Feb 2026 21:48:37 +0000",
       "title": "The physics of squeaking sneakers",
-      "neutral_headline": "Physics Of Squeaking Sneakers Explored",
+      "neutral_headline": "Physics Of Squeaking Sneakers Explained",
       "items": [
         {
           "source": "Ars Technica",
@@ -613,18 +547,18 @@
           "title": "The physics of squeaking sneakers",
           "standfirst": "Geometry of tread patterns determines frequency, so blocks were designed to play Star Wars music.",
           "content": "We're all familiar with the high-pitched squeak of basketball shoes on the court during games, or tires squealing on pavement. Scientists conducted several experiments and discovered that the geometry of the sneakers' tread patterns determines the squeak's frequency, enabling the team to make rubber blocks set to specific frequencies and slide them across glass surfaces to play Star Wars' \"Imperial March.\" \"Tuning frictional behavior on the fly has been a long-standing engineering dream,\" said co-author Katia Bertoldi of Harvard University. \"This new insight into how surface geometry governs slip pulses paves the way for tunable frictional metamaterials that can transition from low-friction to high-grip states on demand.” In addition, the dynamics revealed by these results are similar to those of tectonic faults and thus give scientists a new model for the mechanics of earthquakes, according to their new paper published in the journal Nature. Leonardo da Vinci is usually credited with conducting the first systematic study of friction in the late 15th century, a subfield now known as tribology that deals with the dynamics of interacting surfaces in relative motion. Da Vinci's notebooks depict how he pulled rows of blocks using weights and pulleys, an approach that is still used in frictional studies today, as well as examining the friction produced in screw threads, wheels, and axles. The authors of this latest paper used an experimental setup similar to da Vinci's.Read full article Comments",
-          "feed_position": 15,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/squeak3-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/squeak3-1152x648.jpg",
       "popularity_score": 130,
       "ai_summary": [
-        "Squeaking sneakers studied for sound production",
-        "Geometry of tread patterns determines frequency",
-        "Researchers design blocks to play music",
-        "Star Wars music played using sneaker blocks",
-        "Unique approach to sound generation found"
+        "The physics of squeaking sneakers",
+        "Geometry of tread patterns determines",
+        "The frequency of squeaking is affected",
+        "The tread patterns are designed",
+        "The sneakers can play music"
       ]
     }
   ]
