@@ -1,108 +1,53 @@
 {
   "clinical": {
-    "updated_at": "2026-03-01T04:53:37.615Z",
+    "updated_at": "2026-03-01T07:32:49.157Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-01T04:53:48.073Z",
+    "updated_at": "2026-03-01T07:33:00.675Z",
+    "clusters": []
+  },
+  "patient_signals": {
+    "updated_at": "2026-03-01T07:32:57.825Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
-        "updated_at": "Fri, 27 Feb 2026 05:41:45 GMT",
-        "title": "Expanded MBS access for GP-referred speech pathology",
-        "neutral_headline": "Expanded MBS access for GP-referred speech pathology",
+        "updated_at": "Sun, 01 Mar 2026 07:13:27 GMT",
+        "title": "How are flooding and storms affecting wildlife?",
+        "neutral_headline": "Flooding Affects Wildlife In Devon",
         "items": [
           {
-            "source": "newsGP",
-            "url": "https://www1.racgp.org.au/newsgp/clinical/expanded-mbs-access-for-gp-referred-speech-patholo?feed=RACGPnewsGPArticles",
-            "published_at": "Fri, 27 Feb 2026 05:41:45 GMT",
-            "title": "Expanded MBS access for GP-referred speech pathology",
-            "standfirst": "The investment will increase access to support services for children and young people with severe speech and language disorders.",
-            "content": "The investment will increase access to support services for children and young people with severe speech and language disorders.",
-            "feed_position": 0,
-            "image_url": "https://www1.racgp.org.au/getattachment/130cccdb-584b-4a7c-95ab-db017305eecc/Expanded-MBS-access-for-GP-referred-speech-pathology.aspx"
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/czx1zq0xj00o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 01 Mar 2026 07:13:27 GMT",
+            "title": "How are flooding and storms affecting wildlife?",
+            "standfirst": "Recent rain and flooding across Devon and Cornwall is impacting wildlife and their habitats.",
+            "content": "Recent rain and flooding across Devon and Cornwall is impacting wildlife and their habitats.",
+            "feed_position": 7,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b693/live/b964f030-0e3d-11f1-8705-e59653a64488.jpg"
           }
         ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/130cccdb-584b-4a7c-95ab-db017305eecc/Expanded-MBS-access-for-GP-referred-speech-pathology.aspx",
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b693/live/b964f030-0e3d-11f1-8705-e59653a64488.jpg",
         "ai_summary": [
-          "MBS access expanded for speech pathology",
-          "GPs can refer patients for support",
-          "Services are for children and young people",
-          "Access to support services is increased",
-          "GPs play key role in referrals"
+          "Flooding affects wildlife in Devon",
+          "Recent rain and flooding impact habitats",
+          "Wildlife is struggling to adapt",
+          "The situation is being monitored",
+          "Conservation efforts are necessary"
         ]
       },
       {
         "id": "cluster_1",
         "coverage": 1,
-        "updated_at": "Fri, 27 Feb 2026 05:28:55 GMT",
-        "title": "First 100 SA GPs complete ADHD training",
-        "neutral_headline": "First 100 SA GPs complete ADHD training",
-        "items": [
-          {
-            "source": "newsGP",
-            "url": "https://www1.racgp.org.au/newsgp/professional/first-100-sa-gps-complete-adhd-training?feed=RACGPnewsGPArticles",
-            "published_at": "Fri, 27 Feb 2026 05:28:55 GMT",
-            "title": "First 100 SA GPs complete ADHD training",
-            "standfirst": "The graduates are now ready to diagnose and prescribe, with the trained GPs selected to target regions in greatest need of support.",
-            "content": "The graduates are now ready to diagnose and prescribe, with the trained GPs selected to target regions in greatest need of support.",
-            "feed_position": 1,
-            "image_url": "https://www1.racgp.org.au/getattachment/9bb929e4-fce5-413c-a08c-2543e54d545b/First-100-SA-GPs-complete-ADHD-training.aspx"
-          }
-        ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/9bb929e4-fce5-413c-a08c-2543e54d545b/First-100-SA-GPs-complete-ADHD-training.aspx",
-        "ai_summary": [
-          "100 SA GPs complete ADHD training",
-          "GPs can diagnose and prescribe",
-          "Training targets regions in need",
-          "GPs are now ready to support patients",
-          "Training is complete for 100 GPs"
-        ]
-      },
-      {
-        "id": "cluster_2",
-        "coverage": 1,
-        "updated_at": "Fri, 27 Feb 2026 05:19:14 GMT",
-        "title": "GPs’ central role in Wegovy’s PBS recommendation",
-        "neutral_headline": "GPs’ central role in Wegovy’s PBS recommendation",
-        "items": [
-          {
-            "source": "newsGP",
-            "url": "https://www1.racgp.org.au/newsgp/clinical/gps-central-role-in-wegovy-s-pbs-recommendation?feed=RACGPnewsGPArticles",
-            "published_at": "Fri, 27 Feb 2026 05:19:14 GMT",
-            "title": "GPs’ central role in Wegovy’s PBS recommendation",
-            "standfirst": "How a small, dedicated team of GPs advocated for patients to have affordable access to &lsquo;lifechanging&rsquo; obesity treatment.",
-            "content": "How a small, dedicated team of GPs advocated for patients to have affordable access to &lsquo;lifechanging&rsquo; obesity treatment.",
-            "feed_position": 2,
-            "image_url": "https://www1.racgp.org.au/getattachment/bd73cd26-4354-46ca-afc1-0e8e2e77993f/GPs-central-role-in-Wegovy-s-PBS-recommendation.aspx"
-          }
-        ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/bd73cd26-4354-46ca-afc1-0e8e2e77993f/GPs-central-role-in-Wegovy-s-PBS-recommendation.aspx",
-        "ai_summary": [
-          "GPs play key role in Wegovy recommendation",
-          "Team of GPs advocates for patients",
-          "Affordable access to treatment is goal",
-          "GPs support patients with obesity",
-          "Team of GPs is dedicated to patients"
-        ]
-      }
-    ]
-  },
-  "patient_signals": {
-    "updated_at": "2026-03-01T04:53:48.147Z",
-    "clusters": [
-      {
-        "id": "cluster_0",
-        "coverage": 1,
-        "updated_at": "Sat, 28 Feb 2026 21:56:04 GMT",
+        "updated_at": "Sun, 01 Mar 2026 07:07:10 GMT",
         "title": "I went to rural Wales to bathe in starlight and the Milky Way blew me away",
-        "neutral_headline": "Starlight Bathing In Rural Wales",
+        "neutral_headline": "Starlight And Milky Way In Rural Wales",
         "items": [
           {
             "source": "BBC Science",
             "url": "https://www.bbc.com/news/articles/cj32l7kmkmko?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sat, 28 Feb 2026 21:56:04 GMT",
+            "published_at": "Sun, 01 Mar 2026 07:07:10 GMT",
             "title": "I went to rural Wales to bathe in starlight and the Milky Way blew me away",
             "standfirst": "I join two tourists in the mountains to immerse ourselves in the wonders of the night sky with a star guide.",
             "content": "I join two tourists in the mountains to immerse ourselves in the wonders of the night sky with a star guide.",
@@ -112,15 +57,40 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7657/live/0385c1d0-12ee-11f1-9120-a910fc22c6ac.jpg",
         "ai_summary": [
-          "Tourists bathe in starlight in Wales",
-          "Experience is in rural Wales",
-          "Star guide leads the tour",
-          "Tourists immerse in night sky",
-          "Experience is in the mountains"
+          "Rural Wales offers starlight and Milky Way",
+          "The night sky is a wonder to behold",
+          "Tourists visit to see the stars",
+          "The experience is peaceful and calming",
+          "The natural beauty is appreciated"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Sun, 01 Mar 2026 05:00:31 GMT",
+        "title": "‘All you need is a chair and a view’: could daily ‘dusking’ make us healthier and happier?",
+        "neutral_headline": "All You Need Is A Chair And A View",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/mar/01/could-daily-dusking-make-us-healthier-and-happier",
+            "published_at": "Sun, 01 Mar 2026 05:00:31 GMT",
+            "title": "‘All you need is a chair and a view’: could daily ‘dusking’ make us healthier and happier?",
+            "standfirst": "An old Dutch ritual of going outside to watch the coming of night – or dusking – is having a revival across Europe. Fans of the practice say it’s a great way to disconnect from screens and find peace I’m wandering around a walled garden on the edge of the North York Moors at dusk. The darkening sky is faintly illuminated by a sharp sliver of crescent moon and the first stars. Bats are swooping in search of supper, an owl is softly hooting and the dark outline of a ruined castle looms beyond the walls.But what is really striking about the scene is what’s missing: artificial light. There are no solar lamps or electric bulbs; no torches or phone screens. As parts of the garden recede into the gloom, others are thrown into sharp relief: the bare branches of winter trees; a russet-coloured hedge; clumps of snowdrops, glowing bright in the moonlight. Continue reading...",
+            "content": "An old Dutch ritual of going outside to watch the coming of night – or dusking – is having a revival across Europe. Fans of the practice say it’s a great way to disconnect from screens and find peace I’m wandering around a walled garden on the edge of the North York Moors at dusk. The darkening sky is faintly illuminated by a sharp sliver of crescent moon and the first stars. Bats are swooping in search of supper, an owl is softly hooting and the dark outline of a ruined castle looms beyond the walls.But what is really striking about the scene is what’s missing: artificial light. There are no solar lamps or electric bulbs; no torches or phone screens. As parts of the garden recede into the gloom, others are thrown into sharp relief: the bare branches of winter trees; a russet-coloured hedge; clumps of snowdrops, glowing bright in the moonlight. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "Dusking practice promotes health and happiness",
+          "The ritual involves watching the night sky",
+          "It helps to disconnect from screens",
+          "The practice is having a revival",
+          "It offers a chance to find peace"
+        ]
+      },
+      {
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 28 Feb 2026 19:00:21 GMT",
         "title": "Jeremy Webb died of a meat allergy triggered by a tick bite. How do you avoid ticks and safely remove them?",
@@ -133,19 +103,19 @@
             "title": "Jeremy Webb died of a meat allergy triggered by a tick bite. How do you avoid ticks and safely remove them?",
             "standfirst": "After a coroner concluded 16-year-old Australian died of a bite-induced meat allergy, we look at how to spot symptoms and preventative measuresFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastMyfanwy Webb remembers her son Jeremy was “always getting ticks” because he spent a lot of time in the bush, camping and mountain bike riding, around the property where he grew up on the Central Coast of New South Wales.When Jeremy began to get really bad reactions to eating meat, or even when the scent wafted through the house if she was cooking a pork roast, Webb remembered reading an article about an immunologist who identified the connection between tick bites and developing mammalian meat allergy. Continue reading...",
             "content": "After a coroner concluded 16-year-old Australian died of a bite-induced meat allergy, we look at how to spot symptoms and preventative measuresFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastMyfanwy Webb remembers her son Jeremy was “always getting ticks” because he spent a lot of time in the bush, camping and mountain bike riding, around the property where he grew up on the Central Coast of New South Wales.When Jeremy began to get really bad reactions to eating meat, or even when the scent wafted through the house if she was cooking a pork roast, Webb remembered reading an article about an immunologist who identified the connection between tick bites and developing mammalian meat allergy. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ],
         "ai_summary": [
-          "Jeremy Webb dies from meat allergy",
-          "Allergy is triggered by tick bite",
-          "Ticks can cause meat allergy",
-          "Symptoms can be severe",
-          "Removal of ticks is crucial"
+          "Tick bites can cause meat allergy",
+          "Jeremy Webb died from the allergy",
+          "Symptoms can be severe and sudden",
+          "Preventative measures are necessary",
+          "Safe removal of ticks is crucial"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sat, 28 Feb 2026 15:11:29 GMT",
         "title": "New fungal research to support woodland creation",
@@ -158,25 +128,25 @@
             "title": "New fungal research to support woodland creation",
             "standfirst": "The project's aim is to understand how underground fungal networks adapt to environments.",
             "content": "The project's aim is to understand how underground fungal networks adapt to environments.",
-            "feed_position": 7,
+            "feed_position": 8,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1062/live/cc89bf80-13f9-11f1-8158-61ac1bffdeeb.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1062/live/cc89bf80-13f9-11f1-8158-61ac1bffdeeb.jpg",
         "ai_summary": [
-          "New project aims to understand fungal networks",
           "Fungal networks adapt to environments",
-          "Research supports woodland creation efforts",
-          "Underground fungal networks are complex",
+          "Underground fungi support woodland growth",
+          "Research aims to understand fungal behavior",
+          "Woodland creation relies on fungal networks",
           "Fungal research has environmental implications"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sat, 28 Feb 2026 14:00:13 GMT",
         "title": "Why in the world is Melania Trump leading a UN security council meeting? | Arwa Mahdawi",
-        "neutral_headline": "Why in the world is Melania Trump leading a UN security council meeting",
+        "neutral_headline": "Why in the world is Melania Trump leading a UN security council meeting?",
         "items": [
           {
             "source": "Guardian Health",
@@ -185,7 +155,7 @@
             "title": "Why in the world is Melania Trump leading a UN security council meeting? | Arwa Mahdawi",
             "standfirst": "The first lady is a Trump and therefore automatically qualified to do anything her heart desires“We ended DEI in America,” Donald Trump boasted during his State of the Union (SOTU) address on Tuesday.Unlike many things the president said in his excruciatingly long SOTU speech, this was actually half true. The Trump administration’s “war on woke” has pushed a lot of large companies and institutes to retreat from the diversity, equity and inclusion policies they used to pretend to be proud of.Arwa Mahdawi is a Guardian columnist Continue reading...",
             "content": "The first lady is a Trump and therefore automatically qualified to do anything her heart desires“We ended DEI in America,” Donald Trump boasted during his State of the Union (SOTU) address on Tuesday.Unlike many things the president said in his excruciatingly long SOTU speech, this was actually half true. The Trump administration’s “war on woke” has pushed a lot of large companies and institutes to retreat from the diversity, equity and inclusion policies they used to pretend to be proud of.Arwa Mahdawi is a Guardian columnist Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ],
         "ai_summary": [
@@ -193,11 +163,11 @@
           "Donald Trump boasts about ending DEI policies",
           "Companies retreat from diversity policies",
           "Trump administration pushes anti-woke agenda",
-          "Diversity policies are being deprioritized"
+          "Diversity policies face significant challenges"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sat, 28 Feb 2026 13:00:11 GMT",
         "title": "‘Viruses don’t know borders’: US anti-vaccine rhetoric could impact global measles crisis",
@@ -210,19 +180,19 @@
             "title": "‘Viruses don’t know borders’: US anti-vaccine rhetoric could impact global measles crisis",
             "standfirst": "Experts say global measles vaccination rates are falling as Trump officials signal a deprioritization of the virusThe US government has amplified anti-vaccine rhetoric and signaled that it does not consider measles to be a priority, which could have global ramifications as countries around the world have lost or are on the brink of losing measles elimination status.The World Health Organization announced in late January that six European countries: the United Kingdom, Spain, Austria, Armenia, Azerbaijan and Uzbekistan had all officially lost their measles elimination status, which means the virus has been circulating continuously in those countries for more than 12 months. In order to contain measles, at least 95% of children should be fully vaccinated against it, according to health recommendations, but vaccination rates have been falling across Europe. Continue reading...",
             "content": "Experts say global measles vaccination rates are falling as Trump officials signal a deprioritization of the virusThe US government has amplified anti-vaccine rhetoric and signaled that it does not consider measles to be a priority, which could have global ramifications as countries around the world have lost or are on the brink of losing measles elimination status.The World Health Organization announced in late January that six European countries: the United Kingdom, Spain, Austria, Armenia, Azerbaijan and Uzbekistan had all officially lost their measles elimination status, which means the virus has been circulating continuously in those countries for more than 12 months. In order to contain measles, at least 95% of children should be fully vaccinated against it, according to health recommendations, but vaccination rates have been falling across Europe. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "US antivaccine rhetoric affects global measles crisis",
+          "US antivaccine rhetoric affects global measles",
           "Measles vaccination rates are falling worldwide",
-          "Six European countries lost measles elimination status",
-          "At least 95 percent vaccination rate is recommended",
-          "Global measles crisis has severe consequences"
+          "Six European countries lost measles elimination",
+          "Vaccination rates must be at least 95 percent",
+          "Measles elimination status is at risk globally"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sat, 28 Feb 2026 12:00:12 GMT",
         "title": "‘I clicked on a button – and everything changed’: how a DNA test turned my life upside-down",
@@ -235,23 +205,23 @@
             "title": "‘I clicked on a button – and everything changed’: how a DNA test turned my life upside-down",
             "standfirst": "When I found out my father had been adopted, I was curious to know more about his side of the family. Nothing could have prepared me for what I would discover …Above my grandma’s bed hung a framed black‑and-white photograph of my dad. As a small child I quietly admired it; his luminous eyes, dark hair and gentle smile. He embodied a tender yet spirited early adulthood, staring into the future. Handsome and seeking.As I grew older, I would discover that it was not, in fact, a photograph of my dad but of a man called Elvis Presley. Apparently he was very famous. My grandma had been a lifelong fan. My parents laughed – an adorable mistake – but I felt a hot pulse of humiliation. Continue reading...",
             "content": "When I found out my father had been adopted, I was curious to know more about his side of the family. Nothing could have prepared me for what I would discover …Above my grandma’s bed hung a framed black‑and-white photograph of my dad. As a small child I quietly admired it; his luminous eyes, dark hair and gentle smile. He embodied a tender yet spirited early adulthood, staring into the future. Handsome and seeking.As I grew older, I would discover that it was not, in fact, a photograph of my dad but of a man called Elvis Presley. Apparently he was very famous. My grandma had been a lifelong fan. My parents laughed – an adorable mistake – but I felt a hot pulse of humiliation. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ],
         "ai_summary": [
           "DNA test uncovers family adoption secrets",
-          "Author discovers father was adopted",
           "Family history is complex and surprising",
           "DNA testing reveals unexpected information",
-          "Family secrets can be life changing"
+          "Family relationships are reevaluated",
+          "Secrets are uncovered through DNA testing"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sat, 28 Feb 2026 11:00:10 GMT",
         "title": "Poorly regulated clinics in England are putting children with ADHD at risk, warn doctors",
-        "neutral_headline": "Poorly Regulated Clinics Put Children With ADHD At Risk",
+        "neutral_headline": "Poorly Regulated Clinics Put Children at Risk",
         "items": [
           {
             "source": "Guardian Health",
@@ -260,23 +230,23 @@
             "title": "Poorly regulated clinics in England are putting children with ADHD at risk, warn doctors",
             "standfirst": "Private providers accused of prescribing powerful stimulants without examining young patients properlyChildren with ADHD are being put at risk by poorly regulated private clinics that prescribe powerful stimulants without key physical examinations, doctors have warned.A surge in remote-only assessments has led to what one clinician described as “widespread and unsafe practice”, where children are being diagnosed and medicated via video link. The clinical warnings have now forced health authorities in Greater Manchester to overhaul prescribing rules, mandating face-to-face checks to protect the safety of children. Continue reading...",
             "content": "Private providers accused of prescribing powerful stimulants without examining young patients properlyChildren with ADHD are being put at risk by poorly regulated private clinics that prescribe powerful stimulants without key physical examinations, doctors have warned.A surge in remote-only assessments has led to what one clinician described as “widespread and unsafe practice”, where children are being diagnosed and medicated via video link. The clinical warnings have now forced health authorities in Greater Manchester to overhaul prescribing rules, mandating face-to-face checks to protect the safety of children. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ],
         "ai_summary": [
           "Private clinics prescribe stimulants without exams",
-          "Children with ADHD are at risk due to poor regulation",
-          "Remote assessments are becoming more common",
-          "Doctors warn of widespread and unsafe practices",
+          "Children with ADHD are at risk from poor care",
+          "Remote assessments are widespread and unsafe",
+          "Doctors warn of inadequate medical practices",
           "Health authorities overhaul prescribing rules"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sat, 28 Feb 2026 07:14:44 GMT",
         "title": "I need 120 pills a week to deal with the agony caused by vaginal mesh",
-        "neutral_headline": "Woman Needs 120 Pills A Week After Mesh Operation",
+        "neutral_headline": "Woman Needs 120 Pills a Week for Mesh Agony",
         "items": [
           {
             "source": "BBC Health",
@@ -291,15 +261,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b891/live/fa8aafa0-1478-11f1-801d-ed3cff6bf876.png",
         "ai_summary": [
-          "Kerry Watson needs 120 pills weekly for pain",
-          "Vaginal mesh operations cause severe agony",
-          "Twentyfive women receive compensation",
-          "Mesh operations have severe side effects",
-          "Women suffer from chronic pain after surgery"
+          "Woman suffers from vaginal mesh complications",
+          "She takes 120 pills a week for pain relief",
+          "Twenty-five women receive compensation",
+          "Vaginal mesh operations have serious side effects",
+          "Women suffer from long-term health issues"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sat, 28 Feb 2026 07:00:39 GMT",
         "title": "Marine strategy must deliver action for seabirds, charity says",
@@ -312,21 +282,21 @@
             "title": "Marine strategy must deliver action for seabirds, charity says",
             "standfirst": "The updated strategy should mean areas like Strangford Lough will be better protected in five years' time.",
             "content": "The updated strategy should mean areas like Strangford Lough will be better protected in five years' time.",
-            "feed_position": 8,
+            "feed_position": 9,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a431/live/6c13c0c0-1402-11f1-8e3a-e7cecfbdc12f.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a431/live/6c13c0c0-1402-11f1-8e3a-e7cecfbdc12f.jpg",
         "ai_summary": [
-          "Updated marine strategy must deliver action",
-          "Seabirds need protection in areas like Strangford",
-          "Charity pushes for better seabird conservation",
-          "Marine strategy should prioritize seabirds",
-          "Conservation efforts are necessary for seabirds"
+          "Charity demands action for seabird protection",
+          "Marine strategy must deliver environmental results",
+          "Seabird habitats are at risk from human activity",
+          "Conservation efforts are necessary for seabirds",
+          "Environmental protection is crucial for seabirds"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sat, 28 Feb 2026 05:00:02 GMT",
         "title": "Researchers praise ‘stunning’ results of new prostate cancer treatment",
@@ -339,23 +309,23 @@
             "title": "Researchers praise ‘stunning’ results of new prostate cancer treatment",
             "standfirst": "Early trials of the drug VIR-5500 showed it shrinking tumours in some patientsA new drug for advanced prostate cancer has shown promise in early trials experts have said, with the medication shrinking tumours in some patients.Prostate cancer is the most common cancer among men in many countries, including the US and UK. About 1.5 million men are diagnosed worldwide each year. Continue reading...",
             "content": "Early trials of the drug VIR-5500 showed it shrinking tumours in some patientsA new drug for advanced prostate cancer has shown promise in early trials experts have said, with the medication shrinking tumours in some patients.Prostate cancer is the most common cancer among men in many countries, including the US and UK. About 1.5 million men are diagnosed worldwide each year. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "New drug VIR5500 shrinks tumors in patients",
+          "New drug VIR-5500 shrinks tumors in patients",
+          "Prostate cancer treatment has shown positive results",
+          "Early trials demonstrate the drug's effectiveness",
           "Prostate cancer is a common disease worldwide",
-          "Early trials show stunning results for VIR5500",
-          "New treatment offers hope for patients",
-          "Prostate cancer research is ongoing"
+          "New treatments offer hope for patients"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 23:00:03 GMT",
         "title": "I take 120 tablets a week after mesh operation",
-        "neutral_headline": "Woman Takes 120 Tablets A Week After Mesh Surgery",
+        "neutral_headline": "Woman Takes 120 Tablets a Week After Mesh Operation",
         "items": [
           {
             "source": "BBC Health",
@@ -370,19 +340,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/063dbb60-13ea-11f1-801d-ed3cff6bf876.jpg",
         "ai_summary": [
-          "Woman takes 120 tablets weekly for pain",
-          "Mesh operations cause severe side effects",
-          "Twentyfive women receive compensation",
-          "Women suffer from chronic pain after surgery",
-          "Mesh surgery has severe and lasting impacts"
+          "Woman suffers from mesh operation complications",
+          "She takes 120 tablets a week for pain relief",
+          "Twenty-five women receive compensation",
+          "Vaginal mesh operations have serious side effects",
+          "Women suffer from long-term health issues"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 19:17:45 GMT",
         "title": "Target says it will stop selling breakfast cereals with synthetic colors",
-        "neutral_headline": "Target Stops Selling Cereals With Synthetic Colors",
+        "neutral_headline": "Target Stops Selling Cereals with Synthetic Colors",
         "items": [
           {
             "source": "Guardian Health",
@@ -391,23 +361,23 @@
             "title": "Target says it will stop selling breakfast cereals with synthetic colors",
             "standfirst": "US retailer’s decision comes as RFK Jr and Maha movement increase pressure on food industry to drop dyes like red 40The big-box US retailer Target announced on Friday that by 31 May it will only sell breakfast cereals made without certified synthetic food colors.The company is introducing the restriction amid increased pressure on the food industry from the Trump administration and the “Make America healthy again” (Maha) movement to stop using such ingredients, which they see as dangerous. Continue reading...",
             "content": "US retailer’s decision comes as RFK Jr and Maha movement increase pressure on food industry to drop dyes like red 40The big-box US retailer Target announced on Friday that by 31 May it will only sell breakfast cereals made without certified synthetic food colors.The company is introducing the restriction amid increased pressure on the food industry from the Trump administration and the “Make America healthy again” (Maha) movement to stop using such ingredients, which they see as dangerous. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ],
         "ai_summary": [
-          "Target stops selling cereals with synthetic dyes",
-          "Company introduces restriction on food colors",
-          "Decision comes amid pressure from health groups",
+          "Target bans synthetic colors in breakfast cereals",
+          "Decision comes amid pressure from health advocates",
           "Synthetic colors are considered unhealthy",
-          "Target prioritizes customer health and wellness"
+          "Food industry faces pressure to change practices",
+          "Target introduces new food safety standards"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 18:39:29 GMT",
         "title": "Mental health units discharging eating disorder patients with ‘dangerously low’ BMIs",
-        "neutral_headline": "Mental Health Units Discharge Patients With Low BMIs",
+        "neutral_headline": "Mental Health Units Discharge Patients with Low BMIs",
         "items": [
           {
             "source": "Guardian Health",
@@ -416,19 +386,19 @@
             "title": "Mental health units discharging eating disorder patients with ‘dangerously low’ BMIs",
             "standfirst": "FoI request reveals some people sent home despite BMIs below 15 – considered to be ‘severe malnutrition’ Patients with eating disorders are being discharged from mental health units even though they are still very thin and have “dangerously low” body mass index levels.Some hospitals are sending home people whose BMIs are as low as 12.5, despite usual clinical practice in the NHS seeking to wait until a BMI of 18 or 19 has been achieved. Continue reading...",
             "content": "FoI request reveals some people sent home despite BMIs below 15 – considered to be ‘severe malnutrition’ Patients with eating disorders are being discharged from mental health units even though they are still very thin and have “dangerously low” body mass index levels.Some hospitals are sending home people whose BMIs are as low as 12.5, despite usual clinical practice in the NHS seeking to wait until a BMI of 18 or 19 has been achieved. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ],
         "ai_summary": [
           "Patients with eating disorders are discharged early",
-          "Some hospitals send home patients with low BMIs",
-          "Discharge practices are considered unsafe",
-          "Patients need proper care and treatment",
-          "Mental health units must prioritize patient safety"
+          "Some patients have dangerously low BMIs",
+          "Hospitals send home patients with severe malnutrition",
+          "Discharge practices are under scrutiny",
+          "Patient care is a major concern"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 18:37:11 GMT",
         "title": "Nasa announces change to its Moon landing plans",
@@ -448,18 +418,18 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0623/live/74ff37e0-13fe-11f1-8e3a-e7cecfbdc12f.jpg",
         "ai_summary": [
           "Nasa adds extra mission to Artemis program",
-          "Moon landing plans are revised and updated",
-          "New mission will precede lunar landing",
-          "Artemis program aims to return humans to Moon",
-          "Nasa prioritizes safety and success in space"
+          "Moon landing plans are revised",
+          "Artemis program aims to land astronauts on Moon",
+          "Nasa adjusts its space exploration strategy",
+          "New mission is added to the program"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 17:18:49 GMT",
         "title": "Diagnosing mental health conditions need not be a case of yes/no | Letters",
-        "neutral_headline": "Diagnosing Mental Health Conditions Need Not Be A Case Of Yes Or No",
+        "neutral_headline": "Diagnosing Mental Health Conditions is Not Binary",
         "items": [
           {
             "source": "Guardian Health",
@@ -468,23 +438,23 @@
             "title": "Diagnosing mental health conditions need not be a case of yes/no | Letters",
             "standfirst": "Responding to an article on the rising numbers of young people with mental illness or ADHD diagnoses, Sue Simmons says we all lie on a continuum, and Michael Baber calls for a more holistic approachLucy Foulkes explores the possibility that the rising numbers of young people receiving a diagnosis of mental illness or ADHD are subjects of overdiagnosis (Are we really overdiagnosing mental illness?, 22 February). She posits that changes in terminology, increasing societal awareness and reductions in stigma are all factors in the increase in diagnoses.However, there is another way of looking at this issue. If we treat ADHD as binary (you have it or you do not), we are missing the possibility that we all lie somewhere on a continuum with diagnosed ADHD towards one end (and perhaps an ability to focus and concentrate at the other). A diagnosis of ADHD then depends on where the line is drawn. I suggest that this line has been moved in recent years, so that a large group of people have been caught up in the positive ADHD group, who would not have been previously. Continue reading...",
             "content": "Responding to an article on the rising numbers of young people with mental illness or ADHD diagnoses, Sue Simmons says we all lie on a continuum, and Michael Baber calls for a more holistic approachLucy Foulkes explores the possibility that the rising numbers of young people receiving a diagnosis of mental illness or ADHD are subjects of overdiagnosis (Are we really overdiagnosing mental illness?, 22 February). She posits that changes in terminology, increasing societal awareness and reductions in stigma are all factors in the increase in diagnoses.However, there is another way of looking at this issue. If we treat ADHD as binary (you have it or you do not), we are missing the possibility that we all lie somewhere on a continuum with diagnosed ADHD towards one end (and perhaps an ability to focus and concentrate at the other). A diagnosis of ADHD then depends on where the line is drawn. I suggest that this line has been moved in recent years, so that a large group of people have been caught up in the positive ADHD group, who would not have been previously. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ],
         "ai_summary": [
-          "Mental health diagnoses are not always binary",
-          "Conditions exist on a continuum of severity",
-          "Diagnosis depends on where the line is drawn",
-          "Mental health is complex and multifaceted",
-          "Diagnoses should be approached with nuance"
+          "Mental health conditions exist on a continuum",
+          "Diagnoses depend on where the line is drawn",
+          "ADHD is not a binary condition",
+          "Mental health conditions are complex",
+          "Diagnosis is a nuanced process"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 17:14:33 GMT",
         "title": "How photographer captured six planets in 'parade'",
-        "neutral_headline": "Photographer Captures Six Planets In Parade",
+        "neutral_headline": "Photographer Captures Planetary Parade",
         "items": [
           {
             "source": "BBC Science",
@@ -493,25 +463,25 @@
             "title": "How photographer captured six planets in 'parade'",
             "standfirst": "Josh Dury, from Bristol, photographed the planetary parade in Worth Matravers.",
             "content": "Josh Dury, from Bristol, photographed the planetary parade in Worth Matravers.",
-            "feed_position": 9,
+            "feed_position": 10,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efdf/live/db2a1e60-13f2-11f1-9120-a910fc22c6ac.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efdf/live/db2a1e60-13f2-11f1-9120-a910fc22c6ac.png",
         "ai_summary": [
-          "Josh Dury photographs planetary parade",
-          "Six planets align in rare celestial event",
-          "Photographer captures unique moment",
-          "Planetary parade is a rare occurrence",
-          "Astronomy enthusiasts appreciate the photo"
+          "Photographer captures six planets in alignment",
+          "Planetary parade is a rare astronomical event",
+          "Photographer uses specialized equipment",
+          "Astronomical events are rare and beautiful",
+          "Photographer captures unique moment"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 16:43:54 GMT",
         "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
-        "neutral_headline": "When Does The Nasa Moon Mission Launch And Who Are The Artemis II Crew",
+        "neutral_headline": "When Does the Nasa Moon Mission Launch and Who Are the Artemis II Crew?",
         "items": [
           {
             "source": "BBC Science",
@@ -527,18 +497,18 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a00/live/e35f0660-ed44-11f0-8cc8-8329494b82ad.png",
         "ai_summary": [
           "Nasa Moon mission launch is scheduled for February",
-          "Artemis II crew will embark on lunar mission",
-          "First crewed Moon mission in 50 years launches",
-          "Nasa prioritizes safety and success in space",
-          "Artemis program aims to return humans to Moon"
+          "Artemis II crew is announced",
+          "Mission aims to land astronauts on the Moon",
+          "Nasa prepares for historic space mission",
+          "Crew training is underway for the mission"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Fri, 27 Feb 2026 15:41:31 GMT",
         "title": "How you can see six planets all at once",
-        "neutral_headline": "Six planets visible at sunset on Sunday evening",
+        "neutral_headline": "Six planets visible at once on Sunday",
         "items": [
           {
             "source": "BBC Science",
@@ -553,69 +523,17 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d35/live/257abf80-13f6-11f1-b048-c9424b2cf5fd.jpg",
         "ai_summary": [
-          "Six planets align at sunset on Sunday",
-          "Best viewing time is Sunday evening",
-          "Sunset provides optimal viewing conditions",
-          "Planets visible to the naked eye",
-          "Rare celestial event occurs on Sunday"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Fri, 27 Feb 2026 15:00:20 GMT",
-        "title": "‘Watching my six year old deadlift 35kg was pretty cool’: meet the children who work out",
-        "neutral_headline": "‘Watching my six year old deadlift 35kg was pretty cool’: meet the children who work out",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/feb/27/meet-the-children-who-work-out-weights",
-            "published_at": "Fri, 27 Feb 2026 15:00:20 GMT",
-            "title": "‘Watching my six year old deadlift 35kg was pretty cool’: meet the children who work out",
-            "standfirst": "A growing number of parents are letting their young children train with weights. But is it a good – or safe – idea? We ask the experts to weigh inMost parents remember the first time their baby smiled or when they took their first steps. Eve Stevenson recalls different milestones. “Watching my daughter, Madison, deadlift 35kg at the age of six was pretty cool,” she says, grinning with pride from her living room in south-west London.As a personal trainer (PT) and former British weightlifting champion, her daughter’s achievements shouldn’t really be that surprising. Still, Stevenson has been on the receiving end of some harsh opinions about her daughter and three-year-old son, Beau, doing resistance training with her. “People tell me it will stunt their growth or that it’s dangerous,” she says. She is also often accused of forcing her children to train, when actually it all started the other way round. “What child doesn’t look at their parents and want to do what they’re doing?” she asks. And although to many people the idea of a small child strength training or competing might feel jarring, Stevenson is among a growing number of parents who see value in helping their children build muscles. Continue reading...",
-            "content": "A growing number of parents are letting their young children train with weights. But is it a good – or safe – idea? We ask the experts to weigh inMost parents remember the first time their baby smiled or when they took their first steps. Eve Stevenson recalls different milestones. “Watching my daughter, Madison, deadlift 35kg at the age of six was pretty cool,” she says, grinning with pride from her living room in south-west London.As a personal trainer (PT) and former British weightlifting champion, her daughter’s achievements shouldn’t really be that surprising. Still, Stevenson has been on the receiving end of some harsh opinions about her daughter and three-year-old son, Beau, doing resistance training with her. “People tell me it will stunt their growth or that it’s dangerous,” she says. She is also often accused of forcing her children to train, when actually it all started the other way round. “What child doesn’t look at their parents and want to do what they’re doing?” she asks. And although to many people the idea of a small child strength training or competing might feel jarring, Stevenson is among a growing number of parents who see value in helping their children build muscles. Continue reading...",
-            "feed_position": 9
-          }
-        ],
-        "ai_summary": [
-          "Parents let children train with weights",
-          "Experts weigh in on safety concerns",
-          "Children as young as three train with weights",
-          "Parents defend decision to let kids lift",
-          "Resistance training starts at young age"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Fri, 27 Feb 2026 13:52:25 GMT",
-        "title": "Waitrose to suspend mackerel sales due to overfishing concerns",
-        "neutral_headline": "Waitrose suspends mackerel sales due to overfishing",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cgl5gee07xzo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 27 Feb 2026 13:52:25 GMT",
-            "title": "Waitrose to suspend mackerel sales due to overfishing concerns",
-            "standfirst": "The supermarket chain says it will stop sourcing fresh, chilled and frozen mackerel by 29 April.",
-            "content": "The supermarket chain says it will stop sourcing fresh, chilled and frozen mackerel by 29 April.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f304/live/8e2ba5b0-13cb-11f1-aa2d-1d11f10592ef.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f304/live/8e2ba5b0-13cb-11f1-aa2d-1d11f10592ef.jpg",
-        "ai_summary": [
-          "Waitrose stops sourcing mackerel by 29 April",
-          "Overfishing concerns prompt sales suspension",
-          "Fresh and frozen mackerel sales halted",
-          "Suspension affects chilled mackerel products",
-          "Waitrose acts to address overfishing issues"
+          "Six planets align on Sunday evening",
+          "Best view at sunset for alignment",
+          "Jupiter and Saturn are visible",
+          "Mercury and Mars also aligned",
+          "Venus visible in the evening sky"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-01T04:53:48.147Z",
+    "updated_at": "2026-03-01T07:33:00.675Z",
     "clusters": []
   }
 }
