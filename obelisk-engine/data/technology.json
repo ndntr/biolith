@@ -1,38 +1,102 @@
 {
-  "updated_at": "2026-03-02T04:48:24.986Z",
+  "updated_at": "2026-03-02T07:49:38.568Z",
   "clusters": [
+    {
+      "id": "cluster_2",
+      "coverage": 2,
+      "updated_at": "Mon, 02 Mar 2026 02:25:00 -0500",
+      "title": "MWC 2026: a look at Lenovo's concept devices, including a Framework-like modular laptop with swappable parts, and a gaming handheld with a folding display (Julian Chokkattu/Wired)",
+      "neutral_headline": "Lenovo Unveils Concept Devices",
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/260302/p3#a260302p3",
+          "published_at": "Mon, 02 Mar 2026 02:25:00 -0500",
+          "title": "MWC 2026: a look at Lenovo's concept devices, including a Framework-like modular laptop with swappable parts, and a gaming handheld with a folding display (Julian Chokkattu/Wired)",
+          "standfirst": "Julian Chokkattu / Wired: MWC 2026: a look at Lenovo's concept devices, including a Framework-like modular laptop with swappable parts, and a gaming handheld with a folding display &mdash; At MWC 2026, the company also showed off a dual-screen Yoga Book with 3D capabilities, and the Legion Go Fold&mdash;a gaming handheld &hellip;",
+          "content": "Julian Chokkattu / Wired: MWC 2026: a look at Lenovo's concept devices, including a Framework-like modular laptop with swappable parts, and a gaming handheld with a folding display &mdash; At MWC 2026, the company also showed off a dual-screen Yoga Book with 3D capabilities, and the Legion Go Fold&mdash;a gaming handheld &hellip;",
+          "feed_position": 0,
+          "image_url": "http://www.techmeme.com/260302/i3.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/lenovo-mwc-concepts-thinkbook-modular-ai-pc-legion-go-fold/",
+          "published_at": "Sun, 01 Mar 2026 23:01:00 +0000",
+          "title": "Lenovo’s Latest Wacky Concepts Include a Laptop With a Built-in Portable Monitor",
+          "standfirst": "At MWC 2026, the company also showed off a dual-screen Yoga Book with 3D capabilities, and the Legion Go Fold—a gaming handheld with a folding screen that converts into a mini laptop.",
+          "content": "At MWC 2026, the company also showed off a dual-screen Yoga Book with 3D capabilities, and the Legion Go Fold—a gaming handheld with a folding screen that converts into a mini laptop.",
+          "feed_position": 0,
+          "image_url": "https://media.wired.com/photos/69a2068621f86c9e289eb174/master/pass/DSC_7446.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260302/i3.jpg",
+      "popularity_score": 2019.5892866666666,
+      "ai_summary": [
+        "Lenovo showcases concept devices at MWC 2026",
+        "Modular laptop with swappable parts unveiled",
+        "Gaming handheld with folding display shown",
+        "Dual-screen Yoga Book with 3D capabilities displayed",
+        "Lenovo showcases innovative concept devices"
+      ]
+    },
     {
       "id": "cluster_0",
       "coverage": 1,
-      "updated_at": "2026-03-02T04:48:24.104Z",
+      "updated_at": "2026-03-02T07:49:37.351Z",
       "title": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",
       "neutral_headline": "New AirSnitch Attack Bypasses Wi-Fi Encryption",
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
-          "published_at": "2026-03-02T04:48:24.104Z",
+          "published_at": "2026-03-02T07:49:37.351Z",
           "title": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",
           "standfirst": "",
           "content": "",
           "feed_position": 0
         }
       ],
-      "popularity_score": 367.999755,
+      "popularity_score": 367.9996619444444,
       "ai_summary": [
-        "New AirSnitch attack bypasses Wi-Fi encryption",
-        "Attack affects homes offices and enterprises",
-        "Wi-Fi encryption vulnerable to AirSnitch attack",
-        "Attack can compromise sensitive information",
-        "AirSnitch attack a new cybersecurity threat"
+        "AirSnitch attack bypasses Wi-Fi encryption",
+        "Homes and offices vulnerable to attack",
+        "Enterprises at risk of data breach",
+        "AirSnitch attack exploits Wi-Fi vulnerability",
+        "Security measures needed to prevent attack"
       ]
     },
     {
-      "id": "cluster_62",
+      "id": "cluster_4",
+      "coverage": 1,
+      "updated_at": "2026-03-02T07:49:37.351Z",
+      "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
+      "neutral_headline": "Google Quantum-Proofs HTTPS",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
+          "published_at": "2026-03-02T07:49:37.351Z",
+          "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 4
+        }
+      ],
+      "popularity_score": 332.9996619444444,
+      "ai_summary": [
+        "Google develops quantum-proof HTTPS",
+        "15kB of data squeezed into 700-byte space",
+        "Quantum-proofing ensures secure data transfer",
+        "Google's innovation in data security",
+        "Quantum-proof HTTPS protects against cyber threats"
+      ]
+    },
+    {
+      "id": "cluster_64",
       "coverage": 1,
       "updated_at": "Sun, 01 Mar 2026 12:07:22 +0000",
       "title": "The strange animals that control their body heat",
-      "neutral_headline": "Animals Control Their Body Heat Naturally",
+      "neutral_headline": "Animals Control Their Body Heat",
       "items": [
         {
           "source": "Ars Technica",
@@ -46,47 +110,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-492781221-1152x648.jpg",
-      "popularity_score": 333.3158372222222,
+      "popularity_score": 330.2953977777778,
       "ai_summary": [
-        "Some creatures can alter internal temperature",
-        "They can outlast storms and floods",
-        "Predators have difficulty tracking them",
-        "Unique physiological features are involved",
-        "Scientists study these adaptation mechanisms"
+        "Certain animals can control their body heat",
+        "Creatures can alter internal temperature",
+        "Animals can outlast storms and floods",
+        "Unique ability helps animals survive",
+        "Body heat control a remarkable adaptation"
       ]
     },
     {
-      "id": "cluster_4",
-      "coverage": 1,
-      "updated_at": "2026-03-02T04:48:24.104Z",
-      "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
-      "neutral_headline": "Google Quantum Proofs HTTPS Protocol",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
-          "published_at": "2026-03-02T04:48:24.104Z",
-          "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
-          "standfirst": "",
-          "content": "",
-          "feed_position": 4
-        }
-      ],
-      "popularity_score": 332.999755,
-      "ai_summary": [
-        "Google achieves quantum proofing of HTTPS",
-        "Data is compressed into small space",
-        "15kB of data fits into 700 bytes",
-        "Quantum computer resistance is improved",
-        "Enhanced security for online transactions"
-      ]
-    },
-    {
-      "id": "cluster_83",
+      "id": "cluster_85",
       "coverage": 1,
       "updated_at": "Sat, 28 Feb 2026 18:17:12 +0000",
       "title": "In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT",
-      "neutral_headline": "AI Chatbot Helps Solve Health Mystery",
+      "neutral_headline": "Officials Investigate Mysterious Outbreak",
       "items": [
         {
           "source": "Ars Technica",
@@ -102,19 +140,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1904444791-1152x648.jpg",
       "popularity_score": 328,
       "ai_summary": [
-        "AI chatbot provides health investigation clue",
-        "Cold beer and gross ice are factors",
-        "ChatGPT assists in finding the answer",
-        "Health investigators use AI for insights",
-        "Unconventional methods aid solution"
+        "Health investigators look into cold beer and ice",
+        "ChatGPT AI chatbot provides potential answers",
+        "Officials consider various factors for outbreak",
+        "Investigation is ongoing and complex",
+        "No definitive cause has been determined"
       ]
     },
     {
-      "id": "cluster_81",
+      "id": "cluster_83",
       "coverage": 1,
       "updated_at": "Sat, 28 Feb 2026 20:00:26 +0000",
       "title": "Trump moves to ban Anthropic from the US government",
-      "neutral_headline": "Trump Moves To Ban Anthropic Company",
+      "neutral_headline": "Trump Moves to Ban Anthropic",
       "items": [
         {
           "source": "Ars Technica",
@@ -130,141 +168,141 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/getty-Dario-Amodei-1152x648.jpg",
       "popularity_score": 323,
       "ai_summary": [
-        "Trump administration targets Anthropic",
-        "US government restricts company activities",
-        "Defense Department pressures Anthropic",
-        "AI usage restrictions are imposed",
-        "Military applications are a concern"
+        "Trump administration targets Anthropic company",
+        "Defense Department pressures Anthropic on AI use",
+        "Anthropic faces potential ban from US government",
+        "Military seeks to use Anthropic AI technology",
+        "Restrictions on AI use are being debated"
       ]
     },
     {
       "id": "cluster_5",
       "coverage": 1,
-      "updated_at": "2026-03-02T04:48:24.104Z",
+      "updated_at": "2026-03-02T07:49:37.351Z",
       "title": "The Air Force&#8217;s new ICBM is nearly ready to fly, but there’s nowhere to put it",
-      "neutral_headline": "Air Force ICBM Development Nears Completion",
+      "neutral_headline": "Air Force New ICBM Development",
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/",
-          "published_at": "2026-03-02T04:48:24.104Z",
+          "published_at": "2026-03-02T07:49:37.351Z",
           "title": "The Air Force&#8217;s new ICBM is nearly ready to fly, but there’s nowhere to put it",
           "standfirst": "",
           "content": "",
           "feed_position": 5
         }
       ],
-      "popularity_score": 317.999755,
+      "popularity_score": 317.9996619444444,
       "ai_summary": [
-        "New ICBM is almost ready for launch",
-        "Air Force faces storage and deployment issues",
-        "ICBM development is a complex process",
-        "Military modernization is a priority",
-        "Strategic planning is required"
+        "Air Force develops new intercontinental ballistic missile",
+        "New ICBM is nearly ready for flight testing",
+        "There is no suitable location for the new ICBM",
+        "Development of the ICBM is a significant project",
+        "The Air Force is working on deployment plans"
       ]
     },
     {
       "id": "cluster_6",
       "coverage": 1,
-      "updated_at": "2026-03-02T04:48:24.104Z",
+      "updated_at": "2026-03-02T07:49:37.351Z",
       "title": "Under a Paramount-WBD merger, two struggling media giants would unite",
-      "neutral_headline": "Paramount And WBD Consider Merger",
+      "neutral_headline": "Paramount and WBD Consider Merger",
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/gadgets/2026/02/under-a-paramount-wbd-merger-two-struggling-media-giants-would-unite/",
-          "published_at": "2026-03-02T04:48:24.104Z",
+          "published_at": "2026-03-02T07:49:37.351Z",
           "title": "Under a Paramount-WBD merger, two struggling media giants would unite",
           "standfirst": "",
           "content": "",
           "feed_position": 6
         }
       ],
-      "popularity_score": 292.999755,
+      "popularity_score": 292.9996619444444,
       "ai_summary": [
-        "Paramount and WBD explore merger option",
-        "Media giants unite to strengthen position",
-        "Merger would create a large entity",
-        "Companies aim to increase market share",
-        "Industry consolidation is a trend"
+        "Paramount and WBD discuss potential merger",
+        "Two media giants consider uniting operations",
+        "Merger could have significant industry impact",
+        "Companies are struggling financially and seeking solutions",
+        "Details of the potential merger are being discussed"
       ]
     },
     {
       "id": "cluster_7",
       "coverage": 1,
-      "updated_at": "2026-03-02T04:48:24.104Z",
+      "updated_at": "2026-03-02T07:49:37.351Z",
       "title": "Photons that aren&#8217;t actually there influence superconductivity",
-      "neutral_headline": "Photons Influence Superconductivity Research",
+      "neutral_headline": "Photons Influence Superconductivity",
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/science/2026/02/photons-that-arent-actually-there-influence-superconductivity/",
-          "published_at": "2026-03-02T04:48:24.104Z",
+          "published_at": "2026-03-02T07:49:37.351Z",
           "title": "Photons that aren&#8217;t actually there influence superconductivity",
           "standfirst": "",
           "content": "",
           "feed_position": 7
         }
       ],
-      "popularity_score": 282.999755,
+      "popularity_score": 282.9996619444444,
       "ai_summary": [
-        "Photons affect superconductivity studies",
-        "Scientists investigate quantum phenomena",
-        "Superconductivity has unique properties",
-        "Research aims to understand photon role",
-        "Discoveries could lead to new materials"
+        "Researchers study photons and superconductivity",
+        "Photons that are not present can influence superconductivity",
+        "Scientists explore the properties of superconductors",
+        "Research has potential applications in technology",
+        "The study of photons and superconductivity continues"
       ]
     },
     {
       "id": "cluster_8",
       "coverage": 1,
-      "updated_at": "2026-03-02T04:48:24.104Z",
+      "updated_at": "2026-03-02T07:49:37.351Z",
       "title": "Whoops: US military laser strike takes down CBP drone near Mexican border",
-      "neutral_headline": "US Military Laser Strikes CBP Drone",
+      "neutral_headline": "US Military Laser Strike Downs Drone",
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/tech-policy/2026/02/whoops-us-military-laser-strike-takes-down-cbp-drone-near-mexican-border/",
-          "published_at": "2026-03-02T04:48:24.104Z",
+          "published_at": "2026-03-02T07:49:37.351Z",
           "title": "Whoops: US military laser strike takes down CBP drone near Mexican border",
           "standfirst": "",
           "content": "",
           "feed_position": 8
         }
       ],
-      "popularity_score": 272.999755,
+      "popularity_score": 272.9996619444444,
       "ai_summary": [
-        "US military laser downs CBP drone",
-        "Incident occurs near Mexican border",
-        "Drone is struck by laser technology",
-        "Military operations are highly sensitive",
-        "Border security is a concern"
+        "US military laser strike takes down CBP drone",
+        "Incident occurs near the Mexican border",
+        "The drone was operating in a restricted area",
+        "The laser strike was a significant incident",
+        "Investigation into the incident is ongoing"
       ]
     },
     {
       "id": "cluster_9",
       "coverage": 1,
-      "updated_at": "2026-03-02T04:48:24.105Z",
+      "updated_at": "2026-03-02T07:49:37.351Z",
       "title": "Inside the quixotic team trying to build an entire world in a 20-year-old game",
-      "neutral_headline": "Team Builds Virtual World In Old Game",
+      "neutral_headline": "Team Builds World in Old Game",
       "items": [
         {
           "source": "Ars Technica",
           "url": "https://arstechnica.com/gaming/2026/02/inside-the-quixotic-team-trying-to-build-an-entire-world-in-a-20-year-old-game/",
-          "published_at": "2026-03-02T04:48:24.105Z",
+          "published_at": "2026-03-02T07:49:37.351Z",
           "title": "Inside the quixotic team trying to build an entire world in a 20-year-old game",
           "standfirst": "",
           "content": "",
           "feed_position": 9
         }
       ],
-      "popularity_score": 262.99975527777775,
+      "popularity_score": 262.9996619444444,
       "ai_summary": [
-        "Team creates virtual world in 20 year old game",
-        "Game development is a complex task",
-        "Virtual world has unique features",
-        "Team aims to build an immersive experience",
-        "Game development community is supportive"
+        "Team works on building a world in a 20-year-old game",
+        "The game is being used for creative expression",
+        "Team members are dedicated to the project",
+        "The project is complex and time-consuming",
+        "The team is passionate about the game and its potential"
       ]
     }
   ]
