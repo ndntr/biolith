@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-03-04T19:38:07.001Z",
+    "updated_at": "2026-03-04T23:30:49.943Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-04T19:38:16.043Z",
+    "updated_at": "2026-03-04T23:31:04.031Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/3f2bd5e6-5bcc-45f7-a905-52100138ff92/One-GP-can-make-a-significant-difference.aspx",
         "ai_summary": [
-          "Dr Jennie Wright speaks up for GP care",
-          "Improving care and practice viability is key",
-          "GPs can make a significant difference",
-          "Federal Health Minister's electorate is focus",
-          "Dr Wright aims to improve healthcare services"
+          "Dr Jennie Wright speaks up",
+          "Improving care and practice viability",
+          "GP in Federal Health Minister electorate",
+          "Dr Wright advocates for change",
+          "Focus on improving healthcare services"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/307a13cf-83b2-475b-bf78-eec6eba1f6bf/DoHDA-not-considering-adding-GP-fees-to-Medical-Costs-website.aspx",
         "ai_summary": [
-          "DoHDA not planning to publish GP fees",
-          "Legislation allows for flexibility in fee publication",
-          "Individual GP details will not be published",
-          "Medical Costs website will not include GP fees",
-          "DoHDA focuses on other healthcare priorities"
+          "DoHDA not planning to add GP fees to website",
+          "Legislation allows flexibility in publishing fees",
+          "Individual GP details not to be added",
+          "Medical Costs website to remain unchanged",
+          "No changes planned for GP fee transparency"
         ]
       },
       {
@@ -80,11 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/fb724c5b-c40b-41a2-99fd-5fc408f36d3e/World-first-multi-STI-rapid-test.aspx",
         "ai_summary": [
-          "New rapid test can diagnose multiple STIs",
-          "Test can provide results within an hour",
+          "New test can diagnose multiple STIs quickly",
+          "Test can make diagnosis within one hour",
           "Researchers hope for clinical use in five years",
           "Test is a point-of-care diagnostic tool",
-          "Rapid test can improve STI diagnosis and treatment"
+          "Could improve STI diagnosis and treatment"
         ]
       },
       {
@@ -107,11 +107,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/50dbe257-cdd1-42ff-bb8b-5876040610eb/TGA-doubles-down-on-fake-GLP-1-warnings.aspx",
         "ai_summary": [
-          "TGA warns against imported fake GLP-1 products",
+          "TGA testing confirms fake GLP-1 products",
           "Products contain no GLP-1 or analogues",
-          "TGA testing confirms products are fake",
-          "Fake products can pose health risks to users",
-          "TGA advises caution when purchasing GLP-1 products"
+          "TGA warns against imported products",
+          "Fake products pose health risks to consumers",
+          "TGA to continue monitoring and testing"
         ]
       },
       {
@@ -134,24 +134,51 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/56162c9e-f144-4690-8f7e-290f52c4143d/Refugee-health-skillset-acknowledged.aspx",
         "ai_summary": [
-          "RACGP recognizes refugee health skillset",
-          "Fellows can apply for skillset recognition",
-          "Skillset focuses on migrant and refugee health",
-          "Recognition aims to improve healthcare services",
-          "RACGP supports healthcare for vulnerable groups"
+          "RACGP recognizes refugee health skills",
+          "Fellows can apply for skill recognition",
+          "Recognition for migrant and asylum seeker health",
+          "Skillset to improve refugee healthcare",
+          "RACGP supports refugee health professionals"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-03-04T19:38:16.594Z",
+    "updated_at": "2026-03-04T23:30:52.356Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Wed, 04 Mar 2026 22:06:19 GMT",
+        "title": "Drug breakthrough for children with severe form of epilepsy",
+        "neutral_headline": "Drug breakthrough for children with epilepsy",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c3rzj9jy9e8o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 04 Mar 2026 22:06:19 GMT",
+            "title": "Drug breakthrough for children with severe form of epilepsy",
+            "standfirst": "Families say the groundbreaking medicine is transforming the lives of children with Dravet syndrome.",
+            "content": "Families say the groundbreaking medicine is transforming the lives of children with Dravet syndrome.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd49/live/25c47070-171c-11f1-b787-dd8097b9508d.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd49/live/25c47070-171c-11f1-b787-dd8097b9508d.jpg",
+        "ai_summary": [
+          "New medicine helps children with Dravet syndrome",
+          "Groundbreaking treatment shows promise",
+          "Families report improved quality of life",
+          "Medicine could transform lives of children",
+          "Treatment offers new hope for epilepsy patients"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
         "updated_at": "Wed, 04 Mar 2026 18:17:13 GMT",
         "title": "‘A new normal’: inquiry’s key findings on how Covid changed UK society",
-        "neutral_headline": "Covid Inquiry Focuses On Legacy And Impact",
+        "neutral_headline": "Covid inquiry focuses on mental health impact",
         "items": [
           {
             "source": "Guardian Health",
@@ -164,19 +191,19 @@
           }
         ],
         "ai_summary": [
-          "Covid inquiry concludes with final module",
-          "Module focuses on legacy and mental health",
-          "Inquiry examines impact on key workers and vulnerable",
-          "Covid-19 has changed UK society and healthcare",
-          "Inquiry provides insights into pandemic response"
+          "Covid inquiry examines mental health effects",
+          "Final module concludes public hearings",
+          "Inquiry looks at legacy and impact on society",
+          "Mental health of key workers a concern",
+          "Inquiry to inform future pandemic responses"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Wed, 04 Mar 2026 16:53:38 GMT",
         "title": "Maternity services need investment in people and training, not another review | Letters",
-        "neutral_headline": "Maternity Services Need Investment And Training",
+        "neutral_headline": "Maternity services need investment in people",
         "items": [
           {
             "source": "Guardian Health",
@@ -189,19 +216,19 @@
           }
         ],
         "ai_summary": [
-          "Maternity services require investment and training",
-          "Clinicians call for improved staffing and care",
-          "Reports highlight deficiencies in maternity care",
-          "Recommendations aim to improve care and safety",
-          "Investment in maternity services is crucial"
+          "Maternity services face staffing and care issues",
+          "Clinicians call for investment in training",
+          "Reports highlight systemic pressures and risks",
+          "Recommendations to improve care not implemented",
+          "Funding diverted to another review instead"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Wed, 04 Mar 2026 16:53:03 GMT",
         "title": "Why Norway beats us hollow at sport | Letters",
-        "neutral_headline": "Norway Prioritizes Sports Development Over Competition",
+        "neutral_headline": "Norway prioritizes sport development over competition",
         "items": [
           {
             "source": "Guardian Health",
@@ -214,19 +241,19 @@
           }
         ],
         "ai_summary": [
-          "Norway focuses on sports development over winning",
-          "Approach prioritizes joy and participation",
-          "Coaches and parents can impact children's experience",
-          "Emphasis on development can reduce emotional abuse",
-          "Norway's approach can improve children's sports experience"
+          "Norway focuses on sport development for children",
+          "Emphasis on joy and participation over winning",
+          "Approach aims to reduce emotional abuse",
+          "Coaches and parents encouraged to support",
+          "Prioritizing development can improve sport experience"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Wed, 04 Mar 2026 16:12:00 GMT",
         "title": "South West Water admits criminal offence over Devon parasite outbreak",
-        "neutral_headline": "South West Water Admits Supplying Unfit Water",
+        "neutral_headline": "South West Water admits criminal offence",
         "items": [
           {
             "source": "Guardian Health",
@@ -239,19 +266,19 @@
           }
         ],
         "ai_summary": [
-          "South West Water pleads guilty to supplying unfit water",
+          "South West Water pleads guilty to offence",
+          "Company supplied water unfit for consumption",
           "Parasite outbreak affected nearly 150 people",
-          "Company admits to criminal offense",
-          "Water supply was unfit for human consumption",
-          "South West Water faces consequences for actions"
+          "Water company faces consequences for actions",
+          "Incident highlights need for improved water safety"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Wed, 04 Mar 2026 15:18:05 GMT",
         "title": "Syngenta says it will stop making pesticide linked to Parkinson’s disease",
-        "neutral_headline": "Syngenta To Stop Producing Paraquat Weed Killer",
+        "neutral_headline": "Syngenta to stop making pesticide linked to disease",
         "items": [
           {
             "source": "Guardian Health",
@@ -264,19 +291,19 @@
           }
         ],
         "ai_summary": [
-          "Syngenta will stop producing paraquat by June",
-          "Paraquat is linked to Parkinson's disease",
+          "Syngenta to halt production of paraquat weed killer",
+          "Pesticide linked to Parkinson’s disease",
           "Company faces thousands of lawsuits",
-          "Production halt is a response to health concerns",
-          "Syngenta will discontinue paraquat production"
+          "Production to stop by end of June",
+          "Decision aims to reduce health risks associated"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Wed, 04 Mar 2026 15:00:36 GMT",
         "title": "Gen Z flocks to Chinese medicine as trust in US health system plummets: ‘It’s so personalized to being human’",
-        "neutral_headline": "Gen Z Turns To Chinese Medicine For Wellness",
+        "neutral_headline": "Gen Z turns to Chinese medicine for wellness",
         "items": [
           {
             "source": "Guardian Health",
@@ -289,19 +316,19 @@
           }
         ],
         "ai_summary": [
-          "Gen Z is interested in Chinese medicine and wellness",
-          "Traditional Chinese medicine offers holistic approach",
-          "Creators share Chinese medicine tips and hacks",
-          "Chinese medicine focuses on personalized wellness",
-          "Gen Z seeks alternative approaches to healthcare"
+          "Gen Z interested in traditional Chinese medicine",
+          "Approach offers personalized and holistic care",
+          "Online creators share Chinese medicine hacks",
+          "Hot water and tea recommended for digestion",
+          "Chinese medicine offers alternative to US health system"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Wed, 04 Mar 2026 12:48:15 GMT",
         "title": "Glass deposit plan 'could push up prices for consumer'",
-        "neutral_headline": "Glass Deposit Plan May Increase Consumer Prices",
+        "neutral_headline": "Glass deposit plan may increase consumer prices",
         "items": [
           {
             "source": "BBC Science",
@@ -316,19 +343,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4208/live/45d7f4a0-17bb-11f1-b048-c9424b2cf5fd.jpg",
         "ai_summary": [
-          "Wales plans to include glass in deposit return scheme",
-          "Scheme may increase prices for consumers",
-          "Glass deposit plan aims to reduce waste",
-          "Scheme will be implemented in October 2027",
-          "Consumers may face higher prices for glass products"
+          "Wales to include glass in deposit return scheme",
+          "Scheme could push up prices for consumers",
+          "Plan aims to reduce waste and increase recycling",
+          "Glass deposit scheme to start in October 2027",
+          "Consumers may face higher costs for glass products"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Wed, 04 Mar 2026 12:39:58 GMT",
         "title": "Councillors scrap 2050 carbon neutral target",
-        "neutral_headline": "Councillors Scrap 2050 Carbon Neutral Target",
+        "neutral_headline": "Councillors scrap carbon neutral target",
         "items": [
           {
             "source": "BBC Science",
@@ -343,19 +370,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57b3/live/9944bd00-17be-11f1-9c22-99724fe2ca37.jpg",
         "ai_summary": [
-          "Lincolnshire County Council scraps carbon neutral target",
-          "Reform UK-led council agrees to scrap target",
-          "Council no longer aims for 2050 net zero target",
-          "Decision may impact local environmental policies",
-          "Council's decision may have implications for climate goals"
+          "Lincolnshire County Council scraps target",
+          "Reform UK-led council agrees to scrap goal",
+          "Net zero target no longer a priority",
+          "Decision may impact environmental efforts",
+          "Council to focus on other priorities instead"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Wed, 04 Mar 2026 11:02:12 GMT",
         "title": "Gemma Oaten on eating disorders",
-        "neutral_headline": "Gemma Oaten Discusses Eating Disorders Awareness",
+        "neutral_headline": "Gemma Oaten discusses eating disorders",
         "items": [
           {
             "source": "BBC Health",
@@ -364,25 +391,25 @@
             "title": "Gemma Oaten on eating disorders",
             "standfirst": "For Eating Disorders Awareness Week, actor Gemma Oaten joined us in the studio",
             "content": "For Eating Disorders Awareness Week, actor Gemma Oaten joined us in the studio",
-            "feed_position": 52,
+            "feed_position": 53,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5428/live/709fb760-17b9-11f1-9120-a910fc22c6ac.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5428/live/709fb760-17b9-11f1-9120-a910fc22c6ac.jpg",
         "ai_summary": [
-          "Gemma Oaten joined BBC Health for an interview",
-          "She discussed eating disorders awareness",
-          "The conversation was part of Eating Disorders Awareness Week",
-          "Oaten shared her personal experiences",
-          "The discussion aimed to raise awareness about eating disorders"
+          "Gemma Oaten talks about eating disorders awareness",
+          "Actor shares experiences and insights",
+          "Eating Disorders Awareness Week highlighted",
+          "Importance of awareness and support emphasized",
+          "Gemma Oaten advocates for mental health support"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Wed, 04 Mar 2026 10:29:34 GMT",
         "title": "Can an AI recruiter really spot a good carer?",
-        "neutral_headline": "AI Recruiters Screen Care Workers Effectively",
+        "neutral_headline": "AI recruiter used to screen care workers",
         "items": [
           {
             "source": "BBC Health",
@@ -391,21 +418,21 @@
             "title": "Can an AI recruiter really spot a good carer?",
             "standfirst": "AI is being used to screen care workers – but can a robot truly judge who is right for the job?",
             "content": "AI is being used to screen care workers – but can a robot truly judge who is right for the job?",
-            "feed_position": 3,
+            "feed_position": 4,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fae9/live/c41983a0-17b2-11f1-a2ea-c9162e82aeaa.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fae9/live/c41983a0-17b2-11f1-a2ea-c9162e82aeaa.jpg",
         "ai_summary": [
-          "AI is being used to screen care workers",
-          "The AI system assesses candidates for care jobs",
-          "Effectiveness of AI recruiters is being questioned",
-          "Care workers require specific skills and traits",
-          "AI may struggle to judge certain qualities"
+          "AI used to screen and select care workers",
+          "Technology aims to improve recruitment process",
+          "Questions raised about AI’s ability to judge",
+          "Care worker recruitment a challenging task",
+          "AI may help streamline the hiring process"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Wed, 04 Mar 2026 09:22:36 GMT",
         "title": "In pictures: Worm Moon captured over Northern Ireland",
@@ -424,19 +451,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2935/live/0dc1aac0-17ed-11f1-b048-c9424b2cf5fd.jpg",
         "ai_summary": [
-          "The Worm Moon was visible in Northern Ireland",
-          "The full moon appeared on Monday and Tuesday",
-          "The event marked the first full moon of spring",
-          "The Worm Moon is a significant astronomical event",
-          "It was visible across Northern Ireland"
+          "Worm Moon is the first full Moon of spring",
+          "Visible on Monday and Tuesday in Northern Ireland",
+          "Captured in pictures by observers",
+          "Marks the beginning of spring season",
+          "Occurs when Moon is full and near equinox"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Wed, 04 Mar 2026 07:05:45 GMT",
         "title": "Pregnant women's brains shed grey matter to prime them for motherhood, study suggests",
-        "neutral_headline": "Pregnant Women's Brains Undergo Changes",
+        "neutral_headline": "Pregnant Women's Brains Change For Motherhood",
         "items": [
           {
             "source": "BBC Health",
@@ -445,21 +472,21 @@
             "title": "Pregnant women's brains shed grey matter to prime them for motherhood, study suggests",
             "standfirst": "It is time to move beyond the “baby brain” cliche, say scientists who scanned dozens of women’s brains.",
             "content": "It is time to move beyond the “baby brain” cliche, say scientists who scanned dozens of women’s brains.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e17/live/291802d0-17cd-11f1-801d-ed3cff6bf876.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e17/live/291802d0-17cd-11f1-801d-ed3cff6bf876.jpg",
         "ai_summary": [
-          "Pregnant women's brains shed grey matter",
-          "The change is believed to prepare for motherhood",
+          "Study suggests brain changes prepare women for motherhood",
+          "Grey matter is shed in pregnant women's brains",
           "Scientists scanned dozens of women's brains",
-          "The study suggests a significant brain change",
-          "The findings move beyond the \"baby brain\" cliche"
+          "Findings move beyond the \"baby brain\" cliche",
+          "Research provides new insights into pregnancy"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Wed, 04 Mar 2026 06:45:41 GMT",
         "title": "A moment that changed me: my girlfriend criticised my kisses – and it led to the best decision of my life",
@@ -476,19 +503,19 @@
           }
         ],
         "ai_summary": [
-          "The author started smoking at 18 years old",
-          "The author smoked two packs a day",
-          "The author's girlfriend criticized their kissing",
-          "The criticism led to the author quitting smoking",
-          "The author found quitting smoking to be challenging"
+          "Author started smoking at 18 years old",
+          "Smoked up to 40 cigarettes per day",
+          "Girlfriend criticized author's kisses",
+          "Author quit smoking due to girlfriend's comment",
+          "Quitting smoking was a difficult task"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Wed, 04 Mar 2026 06:28:17 GMT",
         "title": "DIY pads campaign for period poverty awareness",
-        "neutral_headline": "DIY Pads Campaign Raises Period Poverty Awareness",
+        "neutral_headline": "DIY Pads Campaign For Period Poverty",
         "items": [
           {
             "source": "BBC Health",
@@ -497,21 +524,21 @@
             "title": "DIY pads campaign for period poverty awareness",
             "standfirst": "A Buckinghamshire charity urges people to craft reusable pads to raise awareness of period poverty.",
             "content": "A Buckinghamshire charity urges people to craft reusable pads to raise awareness of period poverty.",
-            "feed_position": 29,
+            "feed_position": 30,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/631e/live/cede7f10-1795-11f1-801d-ed3cff6bf876.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/631e/live/cede7f10-1795-11f1-801d-ed3cff6bf876.jpg",
         "ai_summary": [
-          "A charity is crafting reusable pads",
-          "The campaign aims to raise period poverty awareness",
-          "The charity is based in Buckinghamshire",
-          "The campaign encourages people to craft pads",
-          "The goal is to raise awareness about period poverty"
+          "Charity urges people to craft reusable pads",
+          "Campaign raises awareness of period poverty",
+          "Reusable pads are a sustainable option",
+          "Period poverty affects many individuals",
+          "Charity is based in Buckinghamshire"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Wed, 04 Mar 2026 06:17:18 GMT",
         "title": "Under-fire Nottingham maternity services still need to improve",
@@ -524,25 +551,25 @@
             "title": "Under-fire Nottingham maternity services still need to improve",
             "standfirst": "Maternity services at the trust are the subject of the largest inquiry of its kind in NHS history.",
             "content": "Maternity services at the trust are the subject of the largest inquiry of its kind in NHS history.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5200/live/49fa1200-16f5-11f1-b048-c9424b2cf5fd.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5200/live/49fa1200-16f5-11f1-b048-c9424b2cf5fd.png",
         "ai_summary": [
-          "Nottingham maternity services are under inquiry",
-          "The inquiry is the largest of its kind in NHS history",
-          "The services require significant improvement",
-          "The trust is working to address the issues",
-          "The inquiry is examining the services' performance"
+          "Maternity services are under investigation",
+          "NHS trust is subject to a large inquiry",
+          "Services need to improve according to reports",
+          "Inquiry is one of the largest in NHS history",
+          "Improvements are necessary for patient care"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Wed, 04 Mar 2026 00:01:33 GMT",
         "title": "More than 220m children will be obese by 2040 without drastic action, report warns",
-        "neutral_headline": "More than 220m children will be obese by 2040 without drastic action, report warns",
+        "neutral_headline": "More Than 220m Children Will Be Obese By 2040",
         "items": [
           {
             "source": "Guardian Health",
@@ -555,19 +582,19 @@
           }
         ],
         "ai_summary": [
-          "Over 220 million children may be obese by 2040",
-          "The World Obesity Federation issued the warning",
+          "Report warns of rising childhood obesity rates",
+          "Over 220 million children will be obese by 2040",
           "Half a billion children will be overweight",
           "Governments must act to create healthier environments",
-          "The report calls for drastic action to address obesity"
+          "World Obesity Federation released the report"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Tue, 03 Mar 2026 18:00:59 GMT",
         "title": "Man 'damaged beyond repair' over mother's death during Covid",
-        "neutral_headline": "Man Damaged By Mother's Death During Covid",
+        "neutral_headline": "Man Damaged Beyond Repair Over Mother's Death",
         "items": [
           {
             "source": "BBC Health",
@@ -576,21 +603,21 @@
             "title": "Man 'damaged beyond repair' over mother's death during Covid",
             "standfirst": "The inquiry, which is in its last week of scheduled public hearings, is examining the pandemic's 'Impact on Society'.",
             "content": "The inquiry, which is in its last week of scheduled public hearings, is examining the pandemic's 'Impact on Society'.",
-            "feed_position": 2,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68f6/live/8d87ba20-1724-11f1-a87c-4f2760b09a7c.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68f6/live/8d87ba20-1724-11f1-a87c-4f2760b09a7c.png",
         "ai_summary": [
-          "A man was damaged by his mother's death",
-          "The death occurred during the Covid pandemic",
-          "The man is testifying at an inquiry",
-          "The inquiry is examining the pandemic's impact",
-          "The man's experience is being shared publicly"
+          "Man's mother died during the Covid pandemic",
+          "Inquiry is examining the pandemic's impact",
+          "Man was damaged beyond repair by the event",
+          "Inquiry is in its final week of public hearings",
+          "Pandemic had a significant impact on society"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Tue, 03 Mar 2026 17:59:47 GMT",
         "title": "Recruiting nurses overseas must work for all | Letter",
@@ -607,19 +634,19 @@
           }
         ],
         "ai_summary": [
-          "Overseas nurse recruitment is declining",
-          "The UK relies on international nurses",
-          "A co-investment mechanism is proposed",
-          "The mechanism would support global nursing education",
-          "The goal is to create a more resilient workforce"
+          "Overseas nurse recruitment has fallen by 93%",
+          "UK hospitals and care homes are affected",
+          "International recruitment is a fragile model",
+          "Co-investment in nursing education is necessary",
+          "UK is dependent on international nurse recruitment"
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Tue, 03 Mar 2026 17:57:54 GMT",
         "title": "Polite men do still walk among us | Brief letters",
-        "neutral_headline": "Polite Men Still Exist And Show Consideration",
+        "neutral_headline": "Polite Men Do Still Walk Among Us",
         "items": [
           {
             "source": "Guardian Health",
@@ -632,44 +659,17 @@
           }
         ],
         "ai_summary": [
-          "Men are still polite and considerate",
-          "A woman shared her experience of polite men",
-          "The men changed their trajectory to let her pass",
-          "The incident occurred on a walk in Bradford",
-          "The woman appreciated the men's consideration"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Tue, 03 Mar 2026 17:16:58 GMT",
-        "title": "The businesses that prioritise people and planet",
-        "neutral_headline": "Businesses Prioritise People And Planet",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c4g80433rdjo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 03 Mar 2026 17:16:58 GMT",
-            "title": "The businesses that prioritise people and planet",
-            "standfirst": "Firms with B-Corp status want more companies to prioritise people and the planet as much as profits.",
-            "content": "Firms with B-Corp status want more companies to prioritise people and the planet as much as profits.",
-            "feed_position": 8,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecbb/live/43047350-163c-11f1-9293-5bf16ec577d6.png"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecbb/live/43047350-163c-11f1-9293-5bf16ec577d6.png",
-        "ai_summary": [
-          "Firms with B-Corp status prioritize people and planet",
-          "These companies balance profits with social responsibility",
-          "B-Corp status is awarded to responsible businesses",
-          "The companies aim to create positive social impact",
-          "The goal is to prioritize people and the planet alongside profits"
+          "Men can be considerate of women in public",
+          "Some men will change their trajectory to avoid women",
+          "Consideration is important in public spaces",
+          "Men in Bradford are reportedly considerate",
+          "Small actions can make a significant difference"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-04T19:38:16.594Z",
+    "updated_at": "2026-03-04T23:31:04.031Z",
     "clusters": []
   }
 }
