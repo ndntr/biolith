@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-03-07T11:20:08.197Z",
+    "updated_at": "2026-03-07T19:21:59.098Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-07T11:20:21.063Z",
+    "updated_at": "2026-03-07T19:22:10.527Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/55275a7e-b0d1-4433-aa6e-490ce0beb27e/Pharmacy-Guild-spends-big-for-seat-at-PM-s-birthday-dinner.aspx",
         "ai_summary": [
-          "Pharmacy Guild paid up to $110,000 for access",
-          "RACGP criticizes the Guild for influencing policy",
-          "Australia needs evidence-based policy decisions",
-          "The Guild's actions are seen as purchased influence",
-          "Transparency and accountability are being called for"
+          "Pharmacy Guild pays for PM's dinner seat",
+          "RACGP criticizes Guild for purchased influence",
+          "Australia needs evidence-based policy",
+          "Guild's actions spark controversy",
+          "RACGP calls for policy change"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/87500bb4-9ae8-4d40-baa0-0dc8c06b7474/ACCHO-led-GP-training-trial-launches-in-rural-QLD.aspx",
         "ai_summary": [
-          "ACCHO leads a new GP training trial in QLD",
-          "The trial aims to boost the rural GP workforce",
-          "Community controlled care will be strengthened",
-          "The trial is a first-of-its-kind Single Employer Model",
-          "Rural areas will benefit from increased healthcare access"
+          "ACCHO leads GP training trial in QLD",
+          "Single Employer Model aims to boost workforce",
+          "Trial strengthens community controlled care",
+          "Rural GP workforce will be increased",
+          "Program focuses on regional healthcare"
         ]
       },
       {
@@ -80,20 +80,70 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/3715c53b-ad80-4da4-96f8-7119b116f71d/Costs-must-be-covered-for-GPs-travelling-to-rural-areas-RACGP.aspx",
         "ai_summary": [
-          "RACGP calls for funding for GPs to travel rural",
-          "City GPs will spend four weeks per year in rural areas",
-          "The Pathways to Rural program needs funding and support",
-          "Rural areas lack sufficient healthcare and access",
-          "Funding will help increase healthcare services and quality"
+          "RACGP calls for Pathways to Rural funding",
+          "Program pays for city GPs to practice regionally",
+          "GPs need financial support for travel",
+          "Rural areas require more healthcare professionals",
+          "Funding will boost rural healthcare services"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-03-07T11:20:10.057Z",
+    "updated_at": "2026-03-07T19:22:07.740Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 07 Mar 2026 13:00:52 GMT",
+        "title": "US agency did not perform safety checks of more than 100 food ingredients, analysis finds",
+        "neutral_headline": "US Agency Fails to Check Food Ingredients",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2026/mar/07/fda-food-product-safety-checks-substances",
+            "published_at": "Sat, 07 Mar 2026 13:00:52 GMT",
+            "title": "US agency did not perform safety checks of more than 100 food ingredients, analysis finds",
+            "standfirst": "Review of FDA records by the Environmental Working Group reveals firms are exploiting rule to send new chemicals in food systemMore than 100 substances widely used in common US foods, supplements and beverages underwent no health and safety review by the US Food and Drug Administration, a new analysis of federal records finds.The review of FDA records by the Environmental Working Group (EWG) non-profit reveals that diverse products across the food pyramid, such as Capri Sun drinks, Kettle and Fire organic broth, Acme smoked fish, and Quaker Oats snack bars, use a range of substances that have not undergone review by regulators. Continue reading...",
+            "content": "Review of FDA records by the Environmental Working Group reveals firms are exploiting rule to send new chemicals in food systemMore than 100 substances widely used in common US foods, supplements and beverages underwent no health and safety review by the US Food and Drug Administration, a new analysis of federal records finds.The review of FDA records by the Environmental Working Group (EWG) non-profit reveals that diverse products across the food pyramid, such as Capri Sun drinks, Kettle and Fire organic broth, Acme smoked fish, and Quaker Oats snack bars, use a range of substances that have not undergone review by regulators. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "FDA does not review over 100 food ingredients",
+          "Environmental Working Group analyzes records",
+          "Firms exploit rule to introduce new chemicals",
+          "Common foods contain unreviewed substances",
+          "FDA's lack of review poses health risks"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Sat, 07 Mar 2026 12:00:53 GMT",
+        "title": "Families say infected blood scandal compensation scheme creates ‘penalty for dying’",
+        "neutral_headline": "Infected Blood Scandal Compensation Scheme Criticized",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/uk-news/2026/mar/07/families-say-infected-blood-scandal-compensation-scheme-creates-penalty-for-dying",
+            "published_at": "Sat, 07 Mar 2026 12:00:53 GMT",
+            "title": "Families say infected blood scandal compensation scheme creates ‘penalty for dying’",
+            "standfirst": "Charities warn estates of victims who died before the scheme began are losing hundreds of thousands in financial loss paymentsFamilies of victims of the infected blood scandal have criticised the government for imposing a “penalty for dying” in its compensation scheme, which has seen them lose out on hundreds of thousands of pounds.The scheme awards payouts to living victims and the families of those who have died after being infected with HIV or hepatitis as a result of being given contaminated blood products by the NHS. Continue reading...",
+            "content": "Charities warn estates of victims who died before the scheme began are losing hundreds of thousands in financial loss paymentsFamilies of victims of the infected blood scandal have criticised the government for imposing a “penalty for dying” in its compensation scheme, which has seen them lose out on hundreds of thousands of pounds.The scheme awards payouts to living victims and the families of those who have died after being infected with HIV or hepatitis as a result of being given contaminated blood products by the NHS. Continue reading...",
+            "feed_position": 1
+          }
+        ],
+        "ai_summary": [
+          "Families criticize compensation scheme",
+          "Estates of deceased victims lose payments",
+          "Scheme awards payouts to living victims",
+          "Families face financial loss due to scheme",
+          "Charities warn of unfair compensation"
+        ]
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sat, 07 Mar 2026 10:23:08 GMT",
         "title": "Tim Peake leaves scouts starry-eyed at hut opening",
@@ -112,19 +162,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4a6/live/cb5f3d70-1984-11f1-ad8c-2577a14d4f52.jpg",
         "ai_summary": [
-          "Tim Peake attended a scouts hut opening event",
-          "Peake is a renowned astronaut and space expert",
-          "He was the first Briton on the International Space Station",
-          "Scouts were inspired by Peake's achievements and story",
-          "The event promoted interest in space and science"
+          "Tim Peake attends scout hut opening",
+          "Peake is first Briton on International Space Station",
+          "Scouts are inspired by Peake's achievement",
+          "Peake shares space experience with scouts",
+          "Event promotes interest in space exploration"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 07 Mar 2026 10:03:47 GMT",
         "title": "‘A very paternalistic attitude’: why is female desire still not taken seriously?",
-        "neutral_headline": "Female Desire and the Pharmaceutical Industry",
+        "neutral_headline": "Female Desire Not Taken Seriously In Health Industry",
         "items": [
           {
             "source": "Guardian Health",
@@ -133,23 +183,23 @@
             "title": "‘A very paternalistic attitude’: why is female desire still not taken seriously?",
             "standfirst": "In documentary The Pink Pill, the fight to provide access to the so-called ‘female Viagra’ exposes an industry that still discounts the needs of womenBarbara Gattuso had been happily married for decades when she signed up, in the late 2000s, for a clinical trial involving a potentially revolutionary new drug. She and her husband had once had a fulfilling sex life, both pre- and post-children. But at some point during her perimenopausal years, her desire disappeared. It wasn’t stress, fatigue or relationship issues, though her lack of libido certainly contributed to those. It was more like a mysterious evaporation – like “somebody pulled the plug”, as she recalls in a new documentary on flibanserin, the experimental drug that proffered potential relief.Originally developed as an anti-depressant by the German company Boehringer Ingelheim, flibanserin had instead shown promise as a treatment for low female libido, working on neurotransmitters in the so-called “sex center” of the brain. In a video from that trial filmed by Dr Irwin Goldstein, the “godfather of sexual medicine” and a key consultant on Viagra – that revolutionary blue pill for men with erectile dysfunction – Gattuso appears nearly giddy. She was chasing her husband around again, she said. She felt “phenomenal”, like a “new woman on this drug”. She was plugged in. Continue reading...",
             "content": "In documentary The Pink Pill, the fight to provide access to the so-called ‘female Viagra’ exposes an industry that still discounts the needs of womenBarbara Gattuso had been happily married for decades when she signed up, in the late 2000s, for a clinical trial involving a potentially revolutionary new drug. She and her husband had once had a fulfilling sex life, both pre- and post-children. But at some point during her perimenopausal years, her desire disappeared. It wasn’t stress, fatigue or relationship issues, though her lack of libido certainly contributed to those. It was more like a mysterious evaporation – like “somebody pulled the plug”, as she recalls in a new documentary on flibanserin, the experimental drug that proffered potential relief.Originally developed as an anti-depressant by the German company Boehringer Ingelheim, flibanserin had instead shown promise as a treatment for low female libido, working on neurotransmitters in the so-called “sex center” of the brain. In a video from that trial filmed by Dr Irwin Goldstein, the “godfather of sexual medicine” and a key consultant on Viagra – that revolutionary blue pill for men with erectile dysfunction – Gattuso appears nearly giddy. She was chasing her husband around again, she said. She felt “phenomenal”, like a “new woman on this drug”. She was plugged in. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ],
         "ai_summary": [
-          "Female desire is not taken seriously by the industry",
-          "The Pink Pill documentary exposes the issue and concerns",
-          "Women's needs and health are being discounted and ignored",
-          "The pharmaceutical industry is criticized for its approach",
-          "Access to the so-called 'female Viagra' is being fought for"
+          "Documentary The Pink Pill explores female libido issues",
+          "Flibanserin shows promise as treatment for low female libido",
+          "Women face challenges in accessing effective treatments",
+          "Industry still discounts women's needs and desires",
+          "Clinical trials provide hope for new treatments"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sat, 07 Mar 2026 06:48:24 GMT",
         "title": "The climate change course for people with learning disabilities",
-        "neutral_headline": "Climate Change Course for People with Disabilities",
+        "neutral_headline": "Climate Change Course For People With Learning Disabilities",
         "items": [
           {
             "source": "BBC Science",
@@ -164,19 +214,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bb8/live/3507c7e0-194b-11f1-b048-c9424b2cf5fd.jpg",
         "ai_summary": [
-          "A climate change course is designed for people with disabilities",
-          "The course aims to educate and raise awareness and understanding",
-          "People with learning disabilities will benefit from the course",
-          "The course is specially developed for their needs and requirements",
-          "Climate change awareness is essential for all individuals and communities"
+          "Special training course developed for people with learning disabilities",
+          "Course focuses on climate change awareness and education",
+          "People with learning disabilities can contribute to climate solutions",
+          "Inclusive education is essential for climate action",
+          "Course aims to empower individuals with learning disabilities"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Fri, 06 Mar 2026 23:15:42 GMT",
         "title": "Trump administration’s embattled FDA vaccine chief departing for the second time",
-        "neutral_headline": "FDA Vaccine Chief Leaving Agency",
+        "neutral_headline": "Trump Administration FDA Vaccine Chief Departing",
         "items": [
           {
             "source": "Guardian Health",
@@ -185,23 +235,23 @@
             "title": "Trump administration’s embattled FDA vaccine chief departing for the second time",
             "standfirst": "Vinay Prasad to leave in April after decisions involving vaccine reviews and specialty drugs for rare diseasesThe top vaccine official at the Food and Drug Administration, Dr Vinay Prasad, is once again leaving the agency – the second time in less than a year that he’s departed after decisions involving the review of vaccinations and specialty drugs for rare diseases.FDA commissioner Marty Makary announced the news to FDA staff in an email late Friday, saying Prasad would depart at the end of April. Makary said Prasad would return to his academic job at the University of California, San Francisco. Continue reading...",
             "content": "Vinay Prasad to leave in April after decisions involving vaccine reviews and specialty drugs for rare diseasesThe top vaccine official at the Food and Drug Administration, Dr Vinay Prasad, is once again leaving the agency – the second time in less than a year that he’s departed after decisions involving the review of vaccinations and specialty drugs for rare diseases.FDA commissioner Marty Makary announced the news to FDA staff in an email late Friday, saying Prasad would depart at the end of April. Makary said Prasad would return to his academic job at the University of California, San Francisco. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "Dr Vinay Prasad is leaving the FDA in April",
-          "Prasad was involved in vaccine reviews and decisions",
-          "He will return to his academic job at UCSF",
-          "The FDA will need to find a new vaccine chief and leader",
-          "Prasad's departure may impact vaccine development and policy"
+          "Dr Vinay Prasad leaving FDA in April after vaccine reviews",
+          "Prasad to return to academic job at University of California",
+          "FDA commissioner announces Prasad's departure to staff",
+          "Prasad's departure follows decisions on vaccine reviews",
+          "Prasad's expertise will be missed at the FDA"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Fri, 06 Mar 2026 17:40:01 GMT",
         "title": "Supermarkets hit by falling demand for nitrite-cured bacon due to cancer fears",
-        "neutral_headline": "Nitrite-Cured Bacon Sales Drop Due to Health Concerns",
+        "neutral_headline": "Supermarkets See Drop In Nitrite Cured Bacon Sales",
         "items": [
           {
             "source": "Guardian Health",
@@ -210,23 +260,23 @@
             "title": "Supermarkets hit by falling demand for nitrite-cured bacon due to cancer fears",
             "standfirst": "Sales of products made the traditional way dropped 7% in three months to 25 January while nitrite-free sales rose 20%UK supermarkets have been hit by a “bacon backlash” as consumers fear that chemicals used to preserve it increase the risk of cancer.Campaigners against the use of nitrites in meat production claimed the fall in sales showed that a “consumer revolt” against the traditional, nitrite-cured form of bacon was gathering pace. Continue reading...",
             "content": "Sales of products made the traditional way dropped 7% in three months to 25 January while nitrite-free sales rose 20%UK supermarkets have been hit by a “bacon backlash” as consumers fear that chemicals used to preserve it increase the risk of cancer.Campaigners against the use of nitrites in meat production claimed the fall in sales showed that a “consumer revolt” against the traditional, nitrite-cured form of bacon was gathering pace. Continue reading...",
-            "feed_position": 0
+            "feed_position": 4
           }
         ],
         "ai_summary": [
-          "Nitrite-cured bacon sales have dropped by 7%",
-          "Consumers are concerned about the health risks and effects",
-          "Nitrite-free bacon sales have risen by 20% in response",
-          "The bacon industry is responding to changing consumer demands",
-          "Health concerns are driving changes in food production and sales"
+          "Sales of nitrite-cured bacon drop 7% in three months",
+          "Nitrite-free bacon sales rise 20% in same period",
+          "Consumers fear nitrites increase cancer risk",
+          "Campaigners claim consumer revolt against traditional bacon",
+          "Supermarkets respond to changing consumer demands"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 06 Mar 2026 17:30:01 GMT",
         "title": "A lovely name for watching night fall | Letters",
-        "neutral_headline": "The Benefits of Dusking and Watching Night Fall",
+        "neutral_headline": "A Lovely Name For Watching Night Fall",
         "items": [
           {
             "source": "Guardian Health",
@@ -235,23 +285,23 @@
             "title": "A lovely name for watching night fall | Letters",
             "standfirst": "Robert Howard, Mary Fitzpatrick and Martin Brown on the delights of duskingRachel Dixon’s piece about “dusking” (‘All you need is a chair and a view’: could daily ‘dusking’ make us healthier and happier?, 1 March) gave a lovely name to something I having been doing all my life, beginning as a child in the company of my Nanna, in a gas-lit kitchen in Wembley in the 1940s, with no view to speak of – just a back yard. I can see Nanna clearly, sitting on a chair wedged between the dresser and a table, the gas mantle yet to be lit by a taper that stood in a clay pot on top of the range. “Let the night take you and you will sleep all the better for it,” she used to say.And I was always a night-long sleeper – still am as I approach my 82nd birthday. Now the view is a back garden in Beeston; I sit and watch, as the night draws in, in an Ikea chair bought for £9 in 1996, and warm thanks to central heating. If only my Nanna had known such comforts. She died when I was 15, a year after we got electric light, and I had been at work six months, never having the chance to look after her come the time, as I would have done. Continue reading...",
             "content": "Robert Howard, Mary Fitzpatrick and Martin Brown on the delights of duskingRachel Dixon’s piece about “dusking” (‘All you need is a chair and a view’: could daily ‘dusking’ make us healthier and happier?, 1 March) gave a lovely name to something I having been doing all my life, beginning as a child in the company of my Nanna, in a gas-lit kitchen in Wembley in the 1940s, with no view to speak of – just a back yard. I can see Nanna clearly, sitting on a chair wedged between the dresser and a table, the gas mantle yet to be lit by a taper that stood in a clay pot on top of the range. “Let the night take you and you will sleep all the better for it,” she used to say.And I was always a night-long sleeper – still am as I approach my 82nd birthday. Now the view is a back garden in Beeston; I sit and watch, as the night draws in, in an Ikea chair bought for £9 in 1996, and warm thanks to central heating. If only my Nanna had known such comforts. She died when I was 15, a year after we got electric light, and I had been at work six months, never having the chance to look after her come the time, as I would have done. Continue reading...",
-            "feed_position": 3
+            "feed_position": 5
           }
         ],
         "ai_summary": [
-          "Dusking is the practice of watching night fall and sunset",
-          "It can have health and mental benefits and advantages",
-          "People are sharing their experiences and stories of dusking",
-          "The practice promotes relaxation and reduces stress and anxiety",
-          "Dusking can be a simple and accessible way to improve well-being"
+          "Dusking practice promotes relaxation and well-being",
+          "Individuals share personal experiences of dusking benefits",
+          "Dusking can improve sleep quality and duration",
+          "People find comfort in watching night fall",
+          "Dusking is a simple and accessible practice"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 06 Mar 2026 17:06:41 GMT",
         "title": "'Women grow up with pain as a part of their lives'",
-        "neutral_headline": "Women and Pain Management and Perception",
+        "neutral_headline": "Women Grow Up With Pain As Part Of Their Lives",
         "items": [
           {
             "source": "BBC Health",
@@ -266,19 +316,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ef1/live/ce95d960-196e-11f1-801d-ed3cff6bf876.jpg",
         "ai_summary": [
-          "Women's relationship with pain is shaped by their experiences",
-          "Pain is a common part of women's lives and health",
-          "Women are more likely to experience chronic pain and conditions",
-          "The way women grow up with pain affects their perception and response",
-          "Pain management and treatment options are being developed and improved"
+          "Health campaigner discusses women's relationship with pain",
+          "Women's experiences with pain shape their lives",
+          "Pain affects women's physical and mental health",
+          "Women need better support and resources for pain management",
+          "Pain awareness is essential for women's health"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 06 Mar 2026 17:05:11 GMT",
         "title": "Tory peer to leave Lords after investigation finds he breached standards over Covid PPE deals",
-        "neutral_headline": "Tory Peer to Leave Lords After Investigation",
+        "neutral_headline": "Tory Peer To Leave Lords After Investigation",
         "items": [
           {
             "source": "Guardian Health",
@@ -287,23 +337,23 @@
             "title": "Tory peer to leave Lords after investigation finds he breached standards over Covid PPE deals",
             "standfirst": "Lord Chadlington introduced government to company in which he had financial interest in 2020The Conservative peer Peter Gummer has said he will leave the House of Lords after an investigation found he committed five breaches of standards over Covid PPE deals and failing to cooperate with previous inquiries.The Lords standards commissioner, Martin Jelley, found that Gummer, whose peerage title is Lord Chadlington, committed three breaches of the code governing peers’ conduct by: introducing a company in which he had a financial interest to the government in April 2020 as a potential supplier of personal protective equipment (PPE) for the NHS; having contact with the then health secretary, Matt Hancock; and giving further advice to the company. Continue reading...",
             "content": "Lord Chadlington introduced government to company in which he had financial interest in 2020The Conservative peer Peter Gummer has said he will leave the House of Lords after an investigation found he committed five breaches of standards over Covid PPE deals and failing to cooperate with previous inquiries.The Lords standards commissioner, Martin Jelley, found that Gummer, whose peerage title is Lord Chadlington, committed three breaches of the code governing peers’ conduct by: introducing a company in which he had a financial interest to the government in April 2020 as a potential supplier of personal protective equipment (PPE) for the NHS; having contact with the then health secretary, Matt Hancock; and giving further advice to the company. Continue reading...",
-            "feed_position": 4
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "Lord Chadlington is leaving the House of Lords",
-          "He breached standards over Covid PPE deals and contracts",
-          "The investigation found five breaches of the code and rules",
-          "Chadlington introduced a company with a financial interest",
-          "He failed to cooperate with previous inquiries and investigations"
+          "Lord Chadlington found to have breached standards",
+          "Investigation reveals five breaches of standards",
+          "Lord Chadlington introduced company with financial interest",
+          "Lord Chadlington failed to cooperate with previous inquiries",
+          "Lord Chadlington to leave House of Lords"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 06 Mar 2026 15:00:32 GMT",
         "title": "Relying on drugs to stop obesity would be 'societal failure', says Chris Whitty",
-        "neutral_headline": "England Doctor Says Obesity Drugs Not Solution",
+        "neutral_headline": "Relying On Drugs To Stop Obesity Would Be Failure",
         "items": [
           {
             "source": "BBC Health",
@@ -318,19 +368,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7706/live/e7369410-195e-11f1-a1cd-a71e69f1cf89.jpg",
         "ai_summary": [
-          "Chris Whitty says obesity drugs should be for minority",
-          "More effort needed to prevent obesity",
-          "Drugs should not replace healthy lifestyle",
-          "Obesity is a major health concern in England",
-          "Government action needed to address obesity"
+          "Chris Whitty says drugs should be for minority of cases",
+          "England's top doctor emphasizes need for prevention",
+          "Obesity crisis requires comprehensive solution",
+          "Drugs alone cannot solve obesity problem",
+          "More effort needed to prevent obesity"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 06 Mar 2026 15:00:24 GMT",
         "title": "Weight-loss drugs alone will not solve UK’s obesity crisis, says Chris Whitty",
-        "neutral_headline": "Weight-loss drugs alone will not solve UK’s obesity crisis, says Chris Whitty",
+        "neutral_headline": "Weight Loss Drugs Alone Will Not Solve Obesity Crisis",
         "items": [
           {
             "source": "Guardian Health",
@@ -339,23 +389,23 @@
             "title": "Weight-loss drugs alone will not solve UK’s obesity crisis, says Chris Whitty",
             "standfirst": "Chief medical adviser warns of side-effects and calls for action on junk food advertising and making food healthierWeight-loss drugs cannot rescue the UK from its deepening obesity crisis and produce unpleasant side-effects for many users, the government’s chief medical adviser has said.Prof Chris Whitty delivered a wide-ranging critique of the drugs during a speech in London on Thursday evening. Continue reading...",
             "content": "Chief medical adviser warns of side-effects and calls for action on junk food advertising and making food healthierWeight-loss drugs cannot rescue the UK from its deepening obesity crisis and produce unpleasant side-effects for many users, the government’s chief medical adviser has said.Prof Chris Whitty delivered a wide-ranging critique of the drugs during a speech in London on Thursday evening. Continue reading...",
-            "feed_position": 5
+            "feed_position": 7
           }
         ],
         "ai_summary": [
           "Chris Whitty warns of weight-loss drug side-effects",
-          "Calls for action on junk food advertising",
-          "Making food healthier is a priority",
-          "Obesity crisis deepening in the UK",
-          "Government must take action to address obesity"
+          "Chief medical adviser calls for action on junk food",
+          "Making food healthier is essential for obesity solution",
+          "Weight-loss drugs have limitations and risks",
+          "Comprehensive approach needed to address obesity"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 06 Mar 2026 14:58:35 GMT",
         "title": "Non-sun sunglasses: sport-fashion fusion accessory goes mainstream",
-        "neutral_headline": "Non-Sun Sunglasses Become Mainstream Fashion",
+        "neutral_headline": "Non Sun Sunglasses Become Fashion Trend",
         "items": [
           {
             "source": "Guardian Health",
@@ -364,23 +414,23 @@
             "title": "Non-sun sunglasses: sport-fashion fusion accessory goes mainstream",
             "standfirst": "Transparent specs often associated with hygienist appointments have conquered catwalks and high streetsDespite some people in the UK experiencing 40 consecutive days of rain this year, sales of sunglasses have not been dampened.Instead, the dark skies have ushered in a new era of eyewear: the non-sun sunglasses. Continue reading...",
             "content": "Transparent specs often associated with hygienist appointments have conquered catwalks and high streetsDespite some people in the UK experiencing 40 consecutive days of rain this year, sales of sunglasses have not been dampened.Instead, the dark skies have ushered in a new era of eyewear: the non-sun sunglasses. Continue reading...",
-            "feed_position": 6
+            "feed_position": 8
           }
         ],
         "ai_summary": [
-          "Non-sun sunglasses are now a fashion trend",
-          "Often associated with hygienist appointments",
-          "Sales of sunglasses have increased despite rain",
-          "New era of eyewear has begun",
-          "Transparent specs are popular on catwalks"
+          "Non-sun sunglasses gain popularity in UK",
+          "Transparent specs become fashion fusion accessory",
+          "Sales of sunglasses increase despite rainy weather",
+          "Non-sun sunglasses conquer catwalks and high streets",
+          "Fashion trend focuses on style and comfort"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 06 Mar 2026 14:42:38 GMT",
         "title": "How to use AI tools to support our wellbeing in safe and simple ways",
-        "neutral_headline": "Using AI Tools For Wellbeing Support",
+        "neutral_headline": "Using AI Tools To Support Wellbeing",
         "items": [
           {
             "source": "BBC Health",
@@ -395,19 +445,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06cb/live/4aa178c0-196a-11f1-b048-c9424b2cf5fd.jpg",
         "ai_summary": [
-          "AI tools can support wellbeing in safe ways",
-          "Important to know difference between open and closed AI",
-          "AI can help with mental health",
-          "Simple ways to use AI for wellbeing",
-          "AI tools can be used for stress relief"
+          "AI tools can support wellbeing in simple ways",
+          "Important difference between open and closed AI",
+          "AI can provide personalized wellbeing support",
+          "AI tools can help with mental health and wellness",
+          "AI can enhance human wellbeing and quality of life"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 06 Mar 2026 11:57:15 GMT",
         "title": "Sheep are disappearing from our hills - and our dinner plates",
-        "neutral_headline": "Sheep Population Declining In UK",
+        "neutral_headline": "Sheep Disappearing From UK Hills And Dinner Plates",
         "items": [
           {
             "source": "BBC Science",
@@ -422,19 +472,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a93/live/afe90dd0-17e2-11f1-9120-a910fc22c6ac.jpg",
         "ai_summary": [
-          "Sheep population is declining in the UK",
-          "Fewer sheep on hills and dinner plates",
-          "Peak sheep population may have been reached",
-          "Sheep farming industry is affected",
-          "Decline of sheep population has economic impact"
+          "Sheep population declining in UK",
+          "Sheep numbers decreasing on hills and farms",
+          "UK may have passed peak sheep production",
+          "Sheep industry faces challenges and uncertainties",
+          "Decline of sheep population affects rural communities"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 06 Mar 2026 11:30:24 GMT",
         "title": "Digested week: It’s been a rough year – so thank you to our politicians for giving me plenty to write about",
-        "neutral_headline": "Digested week: It’s been a rough year – so thank you to our politicians for giving me plenty to write about",
+        "neutral_headline": "Digested Week Cancer Treatment And Care",
         "items": [
           {
             "source": "Guardian Health",
@@ -443,19 +493,19 @@
             "title": "Digested week: It’s been a rough year – so thank you to our politicians for giving me plenty to write about",
             "standfirst": "I’ve lost count of the number of sketches I wrote from the chemo ward as Jill went through the hell of cancer treatmentIt’s been a while since I last wrote the digested week. Last May, my wife was diagnosed with cancer and life has been a struggle ever since. Jill’s story is hers to tell, but here are some of my initial thoughts on finding myself a primary carer on the cancer frontline (it’s always been me who’s needed looking after up till now). From that first consultation, when the doctor told us that a blood test for a tumour marker had come back raised – “How seriously should we take this?” “Very” – I had a feeling of being separated from the rest of the world. I was in a shadowland. There were those of us in Cancerworld and those who weren’t. It wasn’t that we stopped seeing family and friends – far from it, we couldn’t have got through without their love and food parcels – more that at an emotional level we were out of sync with one another. My life has become existential. I wake up every morning thinking about cancer and I go to bed thinking of cancer. Continue reading...",
             "content": "I’ve lost count of the number of sketches I wrote from the chemo ward as Jill went through the hell of cancer treatmentIt’s been a while since I last wrote the digested week. Last May, my wife was diagnosed with cancer and life has been a struggle ever since. Jill’s story is hers to tell, but here are some of my initial thoughts on finding myself a primary carer on the cancer frontline (it’s always been me who’s needed looking after up till now). From that first consultation, when the doctor told us that a blood test for a tumour marker had come back raised – “How seriously should we take this?” “Very” – I had a feeling of being separated from the rest of the world. I was in a shadowland. There were those of us in Cancerworld and those who weren’t. It wasn’t that we stopped seeing family and friends – far from it, we couldn’t have got through without their love and food parcels – more that at an emotional level we were out of sync with one another. My life has become existential. I wake up every morning thinking about cancer and I go to bed thinking of cancer. Continue reading...",
-            "feed_position": 7
+            "feed_position": 9
           }
         ],
         "ai_summary": [
-          "Author's wife was diagnosed with cancer",
-          "Author became primary carer",
-          "Cancer treatment was a struggle",
-          "Author wrote about experience",
-          "Cancer has emotional impact on family"
+          "Author shares personal experience of cancer treatment",
+          "Cancer diagnosis and treatment affect entire family",
+          "Primary carers need support and resources",
+          "Cancer treatment is emotionally and physically challenging",
+          "Author reflects on life and relationships during cancer journey"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 06 Mar 2026 11:12:48 GMT",
         "title": "It took 10 years to get surgery for my endometriosis",
@@ -474,19 +524,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5f/live/0f46f240-194d-11f1-9120-a910fc22c6ac.jpg",
         "ai_summary": [
-          "Ami Clarke shares her endometriosis experience",
-          "Waited 10 years for surgery",
-          "Endometriosis affects many women",
-          "Delayed diagnosis is common",
-          "Endometriosis treatment options are limited"
+          "Ami Clarke shares experience of living with endometriosis",
+          "Endometriosis diagnosis and treatment can be delayed",
+          "Patients face challenges in accessing effective care",
+          "Endometriosis affects quality of life and relationships",
+          "Raising awareness and support for endometriosis is essential"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Fri, 06 Mar 2026 10:43:38 GMT",
         "title": "3G pitch set to be approved despite pollution fears",
-        "neutral_headline": "3G Pitch Approval Despite Pollution Concerns",
+        "neutral_headline": "3G Pitch Set To Be Approved Despite Pollution Fears",
         "items": [
           {
             "source": "BBC Science",
@@ -501,19 +551,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecdf/live/0c768d70-fe20-11f0-a8b8-bdd2c5f9bcad.png",
         "ai_summary": [
-          "3G pitch set to be approved despite concerns",
-          "Charity worried about microplastics pollution",
+          "Charity raises concerns about microplastics pollution",
           "Council says plans follow environmental guidance",
-          "Microplastics can harm environment",
-          "Pollution concerns are being addressed"
+          "3G pitch approval sparks debate and controversy",
+          "Environmental impact of 3G pitch is a concern",
+          "Council must balance development with environmental protection"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Fri, 06 Mar 2026 10:13:46 GMT",
         "title": "Cancer patient leaves Dubai on 'miracle flight'",
-        "neutral_headline": "Cancer Patient Returns To UK For Treatment",
+        "neutral_headline": "Cancer patient returns to Plymouth for treatment",
         "items": [
           {
             "source": "BBC Health",
@@ -528,19 +578,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b3/live/26280560-18aa-11f1-8a24-35cedd1a21de.png",
         "ai_summary": [
-          "Cancer patient returns to UK for treatment",
-          "Arrived in Plymouth for chemotherapy",
-          "Miracle flight brought patient home",
-          "Patient will receive medical care",
-          "Treatment will begin immediately"
+          "Cancer patient travels from Dubai to Plymouth",
+          "Patient arrives in time for chemotherapy treatment",
+          "Woman receives medical attention in Plymouth",
+          "Chemotherapy treatment begins as scheduled",
+          "Patient's condition requires immediate attention"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Fri, 06 Mar 2026 09:00:16 GMT",
         "title": "Weight-loss jab could be made for $3 a month, study finds",
-        "neutral_headline": "Weight-Loss Jab Could Be Made For $3",
+        "neutral_headline": "Weight-loss jab could be made for $3 a month, study finds",
         "items": [
           {
             "source": "Guardian Health",
@@ -549,75 +599,21 @@
             "title": "Weight-loss jab could be made for $3 a month, study finds",
             "standfirst": "Cheap semaglutide, the drug in Ozempic and Wegovy, could help millions with diabetes and obesity in 160 countriesWeight-loss jabs such as Wegovy could be made for just $3 a month, according to new analysis, potentially making the treatment available to millions in poorer countries as patents expire.More than a billion people live with obesity worldwide, with rates rising fast in lower-income nations as they shift to westernised diets and more sedentary lifestyles. Continue reading...",
             "content": "Cheap semaglutide, the drug in Ozempic and Wegovy, could help millions with diabetes and obesity in 160 countriesWeight-loss jabs such as Wegovy could be made for just $3 a month, according to new analysis, potentially making the treatment available to millions in poorer countries as patents expire.More than a billion people live with obesity worldwide, with rates rising fast in lower-income nations as they shift to westernised diets and more sedentary lifestyles. Continue reading...",
-            "feed_position": 8
+            "feed_position": 10
           }
         ],
         "ai_summary": [
-          "Weight-loss jab could be made cheaply",
-          "Semaglutide drug could help millions",
-          "Obesity and diabetes treatment",
-          "Patents expiring soon",
-          "Affordable treatment options are needed"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Fri, 06 Mar 2026 06:12:24 GMT",
-        "title": "Charity hopes new HQ can bring people together",
-        "neutral_headline": "Charity Renovates New Headquarters",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/cyv95qp77j6o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 06 Mar 2026 06:12:24 GMT",
-            "title": "Charity hopes new HQ can bring people together",
-            "standfirst": "Health Connections is to renovate six floors of its new base as spaces for people to come together.",
-            "content": "Health Connections is to renovate six floors of its new base as spaces for people to come together.",
-            "feed_position": 30,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c09d/live/94715bf0-165e-11f1-801d-ed3cff6bf876.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c09d/live/94715bf0-165e-11f1-801d-ed3cff6bf876.jpg",
-        "ai_summary": [
-          "Health Connections renovates new HQ",
-          "Six floors will be community spaces",
-          "People can come together at new HQ",
-          "Charity aims to bring people together",
-          "Community spaces will be available"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Fri, 06 Mar 2026 06:11:46 GMT",
-        "title": "'Game-changing' urine tests could detect breast cancer, endometriosis and PCOS",
-        "neutral_headline": "Urine Tests Detect Breast Cancer And Endometriosis",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c1e96j08ngyo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 06 Mar 2026 06:11:46 GMT",
-            "title": "'Game-changing' urine tests could detect breast cancer, endometriosis and PCOS",
-            "standfirst": "New tests are being developed to spot early signs of breast cancer and endometriosis in urine.",
-            "content": "New tests are being developed to spot early signs of breast cancer and endometriosis in urine.",
-            "feed_position": 27,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9f2/live/1a6da0f0-10c5-11f1-b048-c9424b2cf5fd.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9f2/live/1a6da0f0-10c5-11f1-b048-c9424b2cf5fd.jpg",
-        "ai_summary": [
-          "Urine tests can detect breast cancer",
-          "Endometriosis and PCOS can also be detected",
-          "New tests are being developed",
-          "Early signs of disease can be spotted",
-          "Urine tests are a potential game-changer"
+          "Semaglutide drug costs could be reduced significantly",
+          "Cheap semaglutide could help millions with diabetes",
+          "Obesity treatment could be available in 160 countries",
+          "Over a billion people live with obesity worldwide",
+          "Patents expiring could make treatment more accessible"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-07T11:20:21.063Z",
+    "updated_at": "2026-03-07T19:22:10.527Z",
     "clusters": []
   }
 }
