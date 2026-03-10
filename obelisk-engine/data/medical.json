@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-03-10T19:38:16.961Z",
+    "updated_at": "2026-03-10T23:28:10.858Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-10T19:38:23.113Z",
+    "updated_at": "2026-03-10T23:28:18.501Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/90057852-bbff-4d12-ae55-3dac899e1bc7/Critical-failure-in-plan-to-phase-out-Medicare-cheques.aspx",
         "ai_summary": [
-          "Government plan to phase out Medicare cheques fails",
-          "RACGP supports ditching cheques but opposes delays",
-          "Gap-only payment delays cause concerns",
-          "Medicare cheque phase-out plan criticized",
-          "RACGP seeks improvements to payment system"
+          "Medicare cheques are being phased out",
+          "RACGP supports ditching the cheques",
+          "Government plan has payment delays",
+          "Gap-only payments are a concern",
+          "RACGP opposes the Government plan"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/e7172462-e485-493b-a05a-6cb4fcb1d8b1/Victorian-pharmacists-to-prescribe-contraceptive-pill.aspx",
         "ai_summary": [
-          "Victorian pharmacists gain prescribing authority",
-          "Contraceptive pill prescriptions now available",
-          "Patients can access prescriptions without GP",
-          "RACGP opposes pharmacist prescribing authority",
-          "Move aims to increase patient convenience"
+          "Victorian pharmacists can prescribe pill",
+          "Patients will not need a GP appointment",
+          "RACGP opposes the move",
+          "Pharmacists will have new responsibility",
+          "Patients may prefer pharmacist option"
         ]
       },
       {
@@ -80,11 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/2cc322a8-957c-4277-a895-99f9bdf62129/Five-minute-GP-test-fast-tracks-endometriosis-care.aspx",
         "ai_summary": [
-          "New test quickly identifies at-risk patients",
+          "Five-minute test identifies at-risk patients",
           "Test aims to reduce diagnostic delays",
-          "GPs can use test for clinical decision making",
-          "Endometriosis care may be improved",
-          "Test availability pending clinical release"
+          "GPs will use the test for decision making",
+          "Endometriosis care will be improved",
+          "Test is a new tool for GPs"
         ]
       },
       {
@@ -108,10 +108,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/e14e7cbd-97c4-475b-b931-2df0e9b4603a/Bid-to-bolster-GPs-confidence-in-child-mental-health-care.aspx",
         "ai_summary": [
           "GPs lack confidence in child mental health",
-          "Experts call for support and training",
-          "Child mental health care needs improvement",
-          "GPs require resources for evolving health needs",
-          "Confidence boost needed for effective care"
+          "Experts call for support for doctors",
+          "Child mental health is a growing concern",
+          "GPs need training and resources",
+          "Confidence boost is a priority"
         ]
       },
       {
@@ -134,20 +134,126 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/4aec56e9-e435-412a-ac0a-e58dc4c2ee49/Digital-Health-Festival-an-invaluable-GP-experience.aspx",
         "ai_summary": [
-          "Digital Health Festival features GP experience",
-          "RACGP leaders attend the event",
-          "Health-tech innovators participate in festival",
-          "Event explores future of healthcare connection",
-          "GPs can gain insights from festival"
+          "Digital Health Festival is a valuable event",
+          "RACGP leaders will attend the festival",
+          "Health-tech innovators will be present",
+          "Future of healthcare is a focus",
+          "GPs will learn from the festival"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-03-10T19:38:18.233Z",
+    "updated_at": "2026-03-10T23:28:11.646Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Tue, 10 Mar 2026 22:55:55 GMT",
+        "title": "A 1,300-pound Nasa spacecraft to re-enter Earth's atmosphere",
+        "neutral_headline": "Nasa Spacecraft To Re Enter Earth Atmosphere",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cd9gwdgg38vo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 10 Mar 2026 22:55:55 GMT",
+            "title": "A 1,300-pound Nasa spacecraft to re-enter Earth's atmosphere",
+            "standfirst": "Much of the Van Allen Probe is expected to burn up in the atmosphere though Nasa says there is \"low\" risk of people being struck by surviving components.",
+            "content": "Much of the Van Allen Probe is expected to burn up in the atmosphere though Nasa says there is \"low\" risk of people being struck by surviving components.",
+            "feed_position": 11,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e627/live/06b45bc0-1cce-11f1-940c-8d69ad1b5c3b.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e627/live/06b45bc0-1cce-11f1-940c-8d69ad1b5c3b.jpg",
+        "ai_summary": [
+          "Nasa spacecraft will re-enter atmosphere",
+          "Van Allen Probe is the spacecraft",
+          "Much of the probe will burn up",
+          "There is a low risk of damage",
+          "Nasa is monitoring the re-entry"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Tue, 10 Mar 2026 22:48:00 GMT",
+        "title": "Toxic pet flea treatment chemicals found at 'damaging' levels in rivers",
+        "neutral_headline": "Toxic Pet Flea Treatment Chemicals Found",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cze0j2dgkx4o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 10 Mar 2026 22:48:00 GMT",
+            "title": "Toxic pet flea treatment chemicals found at 'damaging' levels in rivers",
+            "standfirst": "Scientists have found further evidence that pet flea treatments are widespread in rivers across the UK.",
+            "content": "Scientists have found further evidence that pet flea treatments are widespread in rivers across the UK.",
+            "feed_position": 6,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0995/live/b168f9b0-1c59-11f1-a128-9b485282528f.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0995/live/b168f9b0-1c59-11f1-a128-9b485282528f.jpg",
+        "ai_summary": [
+          "Toxic chemicals are found in rivers",
+          "Pet flea treatments are the source",
+          "Chemicals are at damaging levels",
+          "Rivers across the UK are affected",
+          "Scientists are concerned about the impact"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Tue, 10 Mar 2026 22:30:00 GMT",
+        "title": "Wegovy users have five times greater risk of sudden sight loss than Ozempic users, study finds",
+        "neutral_headline": "Wegovy Users Have Higher Risk Of Sight Loss",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/mar/10/wegovy-sudden-sight-loss-ozempic-study-semaglutide",
+            "published_at": "Tue, 10 Mar 2026 22:30:00 GMT",
+            "title": "Wegovy users have five times greater risk of sudden sight loss than Ozempic users, study finds",
+            "standfirst": "‘Eye strokes’ that reduce blood flow to optic nerve likely to be side-effect of active ingredient semaglutide, says authorPatients taking Wegovy have nearly five times the risk of sudden sight loss of those on Ozempic, a large-scale study has found.Glucagon-like peptide-1 receptor agonist (GLP-1 RA) medicines such as semaglutide (sold as Wegovy, Ozempic and Rybelsus) and tirzepetide (sold as Mounjaro) help reduce blood sugar levels, slow digestion and reduce appetite, and have been linked to reduced risks of heart attack, fewer drug overdoses and other health benefits. Continue reading...",
+            "content": "‘Eye strokes’ that reduce blood flow to optic nerve likely to be side-effect of active ingredient semaglutide, says authorPatients taking Wegovy have nearly five times the risk of sudden sight loss of those on Ozempic, a large-scale study has found.Glucagon-like peptide-1 receptor agonist (GLP-1 RA) medicines such as semaglutide (sold as Wegovy, Ozempic and Rybelsus) and tirzepetide (sold as Mounjaro) help reduce blood sugar levels, slow digestion and reduce appetite, and have been linked to reduced risks of heart attack, fewer drug overdoses and other health benefits. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "Wegovy users have higher risk of sight loss",
+          "Ozempic users have lower risk",
+          "Semaglutide is the active ingredient",
+          "Eye strokes are a possible side effect",
+          "Study finds significant risk difference"
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Tue, 10 Mar 2026 19:39:58 GMT",
+        "title": "Air strikes cause black rain and 'unprecedented' pollution in Tehran, scientists say",
+        "neutral_headline": "Air Strikes Cause Black Rain And Pollution",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 10 Mar 2026 19:39:58 GMT",
+            "title": "Air strikes cause black rain and 'unprecedented' pollution in Tehran, scientists say",
+            "standfirst": "Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month.",
+            "content": "Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b08/live/e2362070-1c9c-11f1-9120-a910fc22c6ac.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b08/live/e2362070-1c9c-11f1-9120-a910fc22c6ac.jpg",
+        "ai_summary": [
+          "Air strikes cause black rain and pollution",
+          "Oil facilities have been damaged",
+          "Tehran is affected by the pollution",
+          "Scientists are studying the effects",
+          "Air strikes have caused unprecedented pollution"
+        ]
+      },
+      {
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Tue, 10 Mar 2026 18:41:21 GMT",
         "title": "UK junk food ad ban so diluted it may be largely ineffective, experts say",
@@ -160,23 +266,23 @@
             "title": "UK junk food ad ban so diluted it may be largely ineffective, experts say",
             "standfirst": "Exclusive: Report suggests only 1% of annual spend on food and drink adverts will be affected after industry lobbyingThe junk food ad ban intended to curb childhood obesity will affect only 1% of the £2.4bn spent annually on advertising food and drink, and may prove a “paper tiger”, ministers have been told.The government has hailed the ban on advertising foods high in fat, salt and sugar before 9pm on TV and completely online, which came into force on 5 January, as a decisive and world-leading move that will remove 7.2bn calories from UK children’s diets every year. Continue reading...",
             "content": "Exclusive: Report suggests only 1% of annual spend on food and drink adverts will be affected after industry lobbyingThe junk food ad ban intended to curb childhood obesity will affect only 1% of the £2.4bn spent annually on advertising food and drink, and may prove a “paper tiger”, ministers have been told.The government has hailed the ban on advertising foods high in fat, salt and sugar before 9pm on TV and completely online, which came into force on 5 January, as a decisive and world-leading move that will remove 7.2bn calories from UK children’s diets every year. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ],
         "ai_summary": [
-          "UK junk food ad ban affects only 1% of spend",
-          "Ban may not curb childhood obesity effectively",
-          "Industry lobbying influences ad ban",
-          "Experts criticize ad ban as ineffective",
-          "Ad ban aims to remove calories from diets"
+          "UK junk food ad ban affects only 1% of annual spend",
+          "Ban aims to curb childhood obesity",
+          "Experts say ban may be largely ineffective",
+          "Government hailed ban as decisive move",
+          "Ban removes 7.2bn calories from UK children's diets"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Tue, 10 Mar 2026 16:51:37 GMT",
         "title": "Maternity inquiry chair named in government U-turn",
-        "neutral_headline": "Maternity Inquiry Chair Named In Government U-Turn",
+        "neutral_headline": "Maternity Inquiry Chair Named In Government U Turn",
         "items": [
           {
             "source": "BBC Health",
@@ -191,46 +297,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64a3/live/2c625910-b015-11f0-8317-a7963fdcfd4f.jpg",
         "ai_summary": [
-          "Donna Ockenden appointed to lead maternity inquiry",
-          "Government reverses decision on inquiry chair",
-          "Maternity services inquiry at Leeds hospitals",
-          "Inquiry aims to improve maternity care",
-          "Ockenden leads the inquiry team"
+          "Donna Ockenden appointed to lead maternity services inquiry",
+          "Inquiry to investigate Leeds hospitals",
+          "Ockenden has experience in similar reviews",
+          "Appointment follows government U-turn",
+          "Families welcome Ockenden's appointment"
         ]
       },
       {
-        "id": "cluster_2",
-        "coverage": 1,
-        "updated_at": "Tue, 10 Mar 2026 16:42:31 GMT",
-        "title": "Air strikes cause black rain and 'unprecedented' pollution in Tehran, scientists say",
-        "neutral_headline": "Air Strikes Cause Pollution In Tehran",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 10 Mar 2026 16:42:31 GMT",
-            "title": "Air strikes cause black rain and 'unprecedented' pollution in Tehran, scientists say",
-            "standfirst": "Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month.",
-            "content": "Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b08/live/e2362070-1c9c-11f1-9120-a910fc22c6ac.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b08/live/e2362070-1c9c-11f1-9120-a910fc22c6ac.jpg",
-        "ai_summary": [
-          "Air strikes damage oil facilities in Iran",
-          "Pollution levels increase in Tehran",
-          "Black rain and unprecedented pollution occur",
-          "Scientists study the effects of air strikes",
-          "Pollution affects the environment and health"
-        ]
-      },
-      {
-        "id": "cluster_3",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Tue, 10 Mar 2026 16:24:38 GMT",
         "title": "Dr Xand on the wellness benefits of knitting",
-        "neutral_headline": "Knitting Has Wellness Benefits For Individuals",
+        "neutral_headline": "Dr Xand Discusses Wellness Benefits Of Knitting",
         "items": [
           {
             "source": "BBC Health",
@@ -245,15 +324,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d76/live/d3a3b500-1c87-11f1-9120-a910fc22c6ac.jpg",
         "ai_summary": [
-          "Knitting provides wellness benefits",
-          "Dr Xand discusses knitting on podcast",
-          "Knitting can reduce stress and anxiety",
-          "Wellness benefits of knitting are explored",
-          "Knitting as a hobby promotes relaxation"
+          "Dr Xand talks about knitting on BBC Sounds",
+          "Knitting has wellness benefits",
+          "Dr Xand shares his expertise",
+          "Knitting can reduce stress",
+          "Listen to What's Up Docs? on BBC Sounds"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Tue, 10 Mar 2026 15:27:56 GMT",
         "title": "'Extinct' butterfly found across southern England",
@@ -266,25 +345,25 @@
             "title": "'Extinct' butterfly found across southern England",
             "standfirst": "There has been a flurry of early sightings of the large tortoiseshell butterfly, a charity says.",
             "content": "There has been a flurry of early sightings of the large tortoiseshell butterfly, a charity says.",
-            "feed_position": 6,
+            "feed_position": 7,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e6b/live/13571ce0-1c7a-11f1-a7bf-efb6e72f87e6.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e6b/live/13571ce0-1c7a-11f1-a7bf-efb6e72f87e6.jpg",
         "ai_summary": [
           "Large tortoiseshell butterfly spotted in England",
-          "Butterfly thought to be extinct is found",
-          "Charity reports sightings of the butterfly",
-          "Southern England sees early butterfly sightings",
-          "Butterfly population may be recovering"
+          "Charity reports early sightings",
+          "Butterfly thought to be extinct",
+          "Sightings across southern England",
+          "Conservation efforts may be working"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Tue, 10 Mar 2026 15:04:16 GMT",
         "title": "Why the price of oil matters more than you might think",
-        "neutral_headline": "Oil Price Increase Affects Global Economy",
+        "neutral_headline": "Oil Price Matters More Than You Might Think",
         "items": [
           {
             "source": "BBC Science",
@@ -299,19 +378,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ec9/live/a738a8b0-1c6c-11f1-801d-ed3cff6bf876.jpg",
         "ai_summary": [
-          "Oil supplies are being rattled by global events",
-          "Financial markets are experiencing increased volatility",
-          "Prices at the pump are rising for consumers",
-          "Economic hit is a major concern for governments",
-          "Global trade is being impacted by oil price"
+          "Oil price affects financial markets",
+          "Price increase drives up costs",
+          "Economic hit feared",
+          "Oil supplies are crucial",
+          "Global economy is affected"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Tue, 10 Mar 2026 14:00:08 GMT",
         "title": "‘A sobering preview’: extreme heat now affects one in three people globally, study finds",
-        "neutral_headline": "Extreme Heat Affects One Third Of Global Population",
+        "neutral_headline": "Extreme Heat Affects One In Three People Globally",
         "items": [
           {
             "source": "Guardian Health",
@@ -320,23 +399,23 @@
             "title": "‘A sobering preview’: extreme heat now affects one in three people globally, study finds",
             "standfirst": "Rising temperatures making it hard even for young, healthy people to safely do normal physical tasks in many regionsClimate breakdown is shrinking the amount of time that people can safely go about their lives, according to a study that shows a third of the world’s population now resides in areas where heat severely limits activity.Rising temperatures, driven by the continued burning of fossil fuels, are making it difficult even for many young, healthy adults to do basic physical activities, such as housework or walking up stairs during daylight hours at the height of the summer, the report warns. Continue reading...",
             "content": "Rising temperatures making it hard even for young, healthy people to safely do normal physical tasks in many regionsClimate breakdown is shrinking the amount of time that people can safely go about their lives, according to a study that shows a third of the world’s population now resides in areas where heat severely limits activity.Rising temperatures, driven by the continued burning of fossil fuels, are making it difficult even for many young, healthy adults to do basic physical activities, such as housework or walking up stairs during daylight hours at the height of the summer, the report warns. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ],
         "ai_summary": [
-          "One in three people globally are affected by extreme heat",
-          "Rising temperatures limit physical activity for many",
-          "Young and healthy individuals are also being impacted",
-          "Heat severely limits daily activities in many regions",
-          "Climate breakdown is a major contributor to heat"
+          "Rising temperatures limit activity",
+          "Heat affects young and healthy people",
+          "Climate breakdown is causing issues",
+          "Regions are severely impacted",
+          "Basic tasks are becoming difficult"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Tue, 10 Mar 2026 13:00:05 GMT",
         "title": "Families welcome appointment of Donna Ockenden to Leeds maternity inquiry",
-        "neutral_headline": "Donna Ockenden Appointed To Leeds Maternity Inquiry",
+        "neutral_headline": "Families Welcome Appointment Of Donna Ockenden",
         "items": [
           {
             "source": "Guardian Health",
@@ -345,48 +424,48 @@
             "title": "Families welcome appointment of Donna Ockenden to Leeds maternity inquiry",
             "standfirst": "Campaigners say Wes Streeting’s decision to name senior midwife as chair will begin to restore trustFamilies who lost babies at two hospitals in Leeds have said they are slowly regaining trust in the health secretary after the midwife Donna Ockenden was appointed to lead a review into the failing service, where 56 babies and two mothers died in five years.Ockenden, who conducted a similar review into maternity services at Shrewsbury and Telford hospital NHS trust in 2020, was chosen to lead the investigation into Leeds teaching hospitals NHS trust after a campaign by the families. Continue reading...",
             "content": "Campaigners say Wes Streeting’s decision to name senior midwife as chair will begin to restore trustFamilies who lost babies at two hospitals in Leeds have said they are slowly regaining trust in the health secretary after the midwife Donna Ockenden was appointed to lead a review into the failing service, where 56 babies and two mothers died in five years.Ockenden, who conducted a similar review into maternity services at Shrewsbury and Telford hospital NHS trust in 2020, was chosen to lead the investigation into Leeds teaching hospitals NHS trust after a campaign by the families. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "Donna Ockenden is leading the Leeds maternity inquiry",
-          "Families of victims are regaining trust in the inquiry",
-          "Ockenden led a similar review at Shrewsbury hospital",
-          "The inquiry will examine the failing maternity service",
-          "Fifty six babies and two mothers died in five years"
+          "Donna Ockenden leads Leeds maternity inquiry",
+          "Families regain trust in health secretary",
+          "Ockenden has experience in maternity reviews",
+          "Families campaign for change",
+          "Trust begins to restore"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Tue, 10 Mar 2026 11:00:05 GMT",
         "title": "RFK Jr’s pick to review Covid vaccines authored misleading research, experts say",
-        "neutral_headline": "RFK Jr Appoints Professor To Review Covid Vaccines",
+        "neutral_headline": "RFK Jr’s Pick To Review Covid Vaccines Authored Misleading Research",
         "items": [
           {
             "source": "Guardian Health",
             "url": "https://www.theguardian.com/us-news/2026/mar/10/rfk-jr-pick-review-covid-vaccines",
             "published_at": "Tue, 10 Mar 2026 11:00:05 GMT",
             "title": "RFK Jr’s pick to review Covid vaccines authored misleading research, experts say",
-            "standfirst": "HHS says the MIT professor is ‘more than qualified’ to serve on the agency’s vaccine advisory panel and calls ‘attacks’ on him ‘politically motivated’The MIT professor who has been appointed by Robert F Kennedy Jr to review the safety of Covid-19 vaccines has failed to meet basic scientific standards in his own research on the topic, according to more than a dozen scientists and public health experts.Retsef Levi, an operations management professor, is a member of the US health department’s vaccine advisory committee (ACIP) which is meeting later this month and – many experts fear – could seek to roll back recommendations on who should receive Covid-19 vaccines. Continue reading...",
-            "content": "HHS says the MIT professor is ‘more than qualified’ to serve on the agency’s vaccine advisory panel and calls ‘attacks’ on him ‘politically motivated’The MIT professor who has been appointed by Robert F Kennedy Jr to review the safety of Covid-19 vaccines has failed to meet basic scientific standards in his own research on the topic, according to more than a dozen scientists and public health experts.Retsef Levi, an operations management professor, is a member of the US health department’s vaccine advisory committee (ACIP) which is meeting later this month and – many experts fear – could seek to roll back recommendations on who should receive Covid-19 vaccines. Continue reading...",
-            "feed_position": 3
+            "standfirst": "HHS calls MIT professor ‘more than qualified’ for advisory panel and calls ‘attacks’ on him ‘politically motivated’The MIT professor who has been appointed by Robert F Kennedy Jr to review the safety of Covid-19 vaccines has failed to meet basic scientific standards in his own research on the topic, according to more than a dozen scientists and public health experts.Retsef Levi, an operations management professor, is a member of the US health department’s vaccine advisory committee (ACIP), which is meeting later this month and – many experts fear – could seek to roll back recommendations on who should receive Covid-19 vaccines. Continue reading...",
+            "content": "HHS calls MIT professor ‘more than qualified’ for advisory panel and calls ‘attacks’ on him ‘politically motivated’The MIT professor who has been appointed by Robert F Kennedy Jr to review the safety of Covid-19 vaccines has failed to meet basic scientific standards in his own research on the topic, according to more than a dozen scientists and public health experts.Retsef Levi, an operations management professor, is a member of the US health department’s vaccine advisory committee (ACIP), which is meeting later this month and – many experts fear – could seek to roll back recommendations on who should receive Covid-19 vaccines. Continue reading...",
+            "feed_position": 4
           }
         ],
         "ai_summary": [
-          "Professor Retsef Levi is reviewing Covid vaccine safety",
-          "Experts say Levi's research has been misleading",
-          "Levi is a member of the US health department committee",
-          "The committee will meet to discuss vaccine recommendations",
+          "MIT professor appointed to review Covid vaccines",
+          "Experts say professor's research is misleading",
+          "Professor is part of vaccine advisory committee",
+          "Committee meets to discuss vaccine safety",
           "Experts fear roll back of vaccine recommendations"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Tue, 10 Mar 2026 10:00:00 GMT",
         "title": "Inside Health",
-        "neutral_headline": "Low Vaccination Rates In Hackney Examined",
+        "neutral_headline": "Low Vaccination Rates In Hackney",
         "items": [
           {
             "source": "BBC Health",
@@ -401,19 +480,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg",
         "ai_summary": [
-          "Hackney has one of the lowest vaccination rates",
-          "The area is being visited by health experts",
-          "Vaccination rates are a major concern for health officials",
-          "Low vaccination rates can lead to disease outbreaks",
-          "Health experts are working to improve vaccination rates"
+          "Hackney has low vaccination rates",
+          "James visits Hackney to discuss issue",
+          "Vaccination rates are a concern",
+          "Community is affected",
+          "Solutions are being sought"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Tue, 10 Mar 2026 08:00:12 GMT",
         "title": "The blistering speech that tells me Britain’s social care deadlock can finally be broken | Polly Toynbee",
-        "neutral_headline": "The Blistering Speech That Tells Me Britain’s Social Care Deadlock Can Finally Be Broken",
+        "neutral_headline": "Britain’s Social Care Deadlock Can Be Broken",
         "items": [
           {
             "source": "Guardian Health",
@@ -422,23 +501,23 @@
             "title": "The blistering speech that tells me Britain’s social care deadlock can finally be broken | Polly Toynbee",
             "standfirst": "If anyone can convince politicians and public of the need to pay for a national care service, it’s Louise Casey. With her involved, I now have hopeNo government in my lifetime has been dealt a worse hand than Keir Starmer’s. Austerity-broken public services, an empty Treasury, a jittery bond market freaked out by Liz Truss and then stricken by the arrival of Trump 2.0 with his bully-tariffs. Now Britain’s ally is setting the Middle East on fire in a murderous war, exploding oil and gas prices. This needs repeating regularly, lest anyone forgets the obstacles blocking this government’s best intentions for change.One of those good intentions in the Labour manifesto was the creation of a national care service. Louise Casey, respected troubleshooter, was given a commission to review adult social care and solve its impossible dilemmas. She showed her thinking in a blistering speech last week.Polly Toynbee is a Guardian columnistGuardian Newsroom: Can Labour come back from the brink? On Thursday 30 April, ahead of May elections, join Gaby Hinsliff, Zoe Williams, Polly Toynbee and Rafael Behr as they discuss the threat to Labour from the Greens and Reform – and whether Keir Starmer can survive as leader. Book tickets here or at guardian.live Continue reading...",
             "content": "If anyone can convince politicians and public of the need to pay for a national care service, it’s Louise Casey. With her involved, I now have hopeNo government in my lifetime has been dealt a worse hand than Keir Starmer’s. Austerity-broken public services, an empty Treasury, a jittery bond market freaked out by Liz Truss and then stricken by the arrival of Trump 2.0 with his bully-tariffs. Now Britain’s ally is setting the Middle East on fire in a murderous war, exploding oil and gas prices. This needs repeating regularly, lest anyone forgets the obstacles blocking this government’s best intentions for change.One of those good intentions in the Labour manifesto was the creation of a national care service. Louise Casey, respected troubleshooter, was given a commission to review adult social care and solve its impossible dilemmas. She showed her thinking in a blistering speech last week.Polly Toynbee is a Guardian columnistGuardian Newsroom: Can Labour come back from the brink? On Thursday 30 April, ahead of May elections, join Gaby Hinsliff, Zoe Williams, Polly Toynbee and Rafael Behr as they discuss the threat to Labour from the Greens and Reform – and whether Keir Starmer can survive as leader. Book tickets here or at guardian.live Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ],
         "ai_summary": [
-          "Louise Casey is reviewing adult social care",
-          "Casey gave a speech on the need for a national care service",
-          "The Labour government is facing obstacles to change",
-          "Austerity has broken public services in the UK",
-          "The government is facing challenges in implementing change"
+          "Louise Casey to review adult social care",
+          "Casey is a respected troubleshooter",
+          "National care service is proposed",
+          "Labour manifesto includes care service",
+          "Casey's speech sparks hope for change"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Tue, 10 Mar 2026 06:52:40 GMT",
         "title": "Are more people cutting off their parents?",
-        "neutral_headline": "People Cutting Off Their Parents On The Rise",
+        "neutral_headline": "More People Cutting Off Their Parents",
         "items": [
           {
             "source": "BBC Health",
@@ -453,19 +532,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a87d/live/da180b80-196b-11f1-9120-a910fc22c6ac.jpg",
         "ai_summary": [
-          "Ben Cole Edwards built a career as a trauma coach",
-          "Edwards was estranged from his mother",
-          "He posted about his experiences online",
-          "Many people are seeking help for family trauma",
-          "Trauma coaching is becoming more popular"
+          "Ben Cole Edwards built career as trauma coach",
+          "Edwards is estranged from his mum",
+          "Trauma coaching is his expertise",
+          "Estrangement is a growing issue",
+          "People are seeking help"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Tue, 10 Mar 2026 06:10:41 GMT",
         "title": "University joins UK's £17bn space sector",
-        "neutral_headline": "University Joins UK Space Sector",
+        "neutral_headline": "University Joins UK's Space Sector",
         "items": [
           {
             "source": "BBC Science",
@@ -474,25 +553,25 @@
             "title": "University joins UK's £17bn space sector",
             "standfirst": "The Southampton Space Institute will use expertise and facilities for education and jobs creation.",
             "content": "The Southampton Space Institute will use expertise and facilities for education and jobs creation.",
-            "feed_position": 11,
+            "feed_position": 12,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4206/live/42ad1660-1be0-11f1-9a61-1b759d532334.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4206/live/42ad1660-1be0-11f1-9a61-1b759d532334.jpg",
         "ai_summary": [
-          "The Southampton Space Institute is new",
-          "The institute will use expertise for education",
-          "Jobs creation is a major goal of the institute",
-          "The UK space sector is worth seventeen billion pounds",
-          "The institute will contribute to the growing sector"
+          "Southampton Space Institute joins space sector",
+          "Institute will use expertise for education",
+          "Jobs creation is a goal",
+          "Space sector is growing",
+          "University is contributing"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Tue, 10 Mar 2026 00:00:12 GMT",
         "title": "'I'm in constant pain after vaginal mesh surgery'",
-        "neutral_headline": "Vaginal Mesh Surgery Causes Constant Pain",
+        "neutral_headline": "Woman Calls For Action On Vaginal Mesh Surgery",
         "items": [
           {
             "source": "BBC Health",
@@ -507,15 +586,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bbd/live/6db3c660-1c6c-11f1-8206-178b2777dfa1.jpg",
         "ai_summary": [
-          "Susan McLarnon had vaginal mesh surgery",
-          "She is experiencing constant pain after surgery",
-          "McLarnon is calling for urgent action on redress",
-          "Many women are harmed by pelvic mesh implants",
-          "The issue is being raised with the government"
+          "Susan McLarnon calls for urgent action",
+          "McLarnon suffered from mesh surgery",
+          "Redress is sought for those harmed",
+          "Pelvic mesh implants are an issue",
+          "Action is needed"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Mon, 09 Mar 2026 19:11:04 GMT",
         "title": "The Guardian view on cancer survival rates: there is good news about healthcare amid the gloom | Editorial",
@@ -528,19 +607,19 @@
             "title": "The Guardian view on cancer survival rates: there is good news about healthcare amid the gloom | Editorial",
             "standfirst": "Treatments continue to improve. The challenge now facing ministers is hugely unequal outcomesNew analysis from Cancer Research UK, revealing a 29% drop in the rate of people dying from cancer compared with 40 years ago, is a vital counterpoint to grim health headlines about the UK’s outcomes falling behind those of other countries, and the NHS missing its own cancer targets. Prof Chris Whitty, the chief medical officer for England, made a related point in a recent lecture. Stand back from the day to day, he said, and the extraordinary leaps forward enabled by vaccinations and other advances in treatment and public health come into focus.This longer view is not a cause for complacency or inaction. England’s latest cancer plan, launched last month, highlighted shocking lapses including lengthy waits for treatment and a failure to tackle inequalities in cancer mortality dating back 15 years. Last year, analysis by the Guardian found that about three-quarters of NHS trusts were failing to reach standards relating to diagnosis and treatment.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
             "content": "Treatments continue to improve. The challenge now facing ministers is hugely unequal outcomesNew analysis from Cancer Research UK, revealing a 29% drop in the rate of people dying from cancer compared with 40 years ago, is a vital counterpoint to grim health headlines about the UK’s outcomes falling behind those of other countries, and the NHS missing its own cancer targets. Prof Chris Whitty, the chief medical officer for England, made a related point in a recent lecture. Stand back from the day to day, he said, and the extraordinary leaps forward enabled by vaccinations and other advances in treatment and public health come into focus.This longer view is not a cause for complacency or inaction. England’s latest cancer plan, launched last month, highlighted shocking lapses including lengthy waits for treatment and a failure to tackle inequalities in cancer mortality dating back 15 years. Last year, analysis by the Guardian found that about three-quarters of NHS trusts were failing to reach standards relating to diagnosis and treatment.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "Cancer survival rates have improved by twenty nine percent",
-          "Treatments are continuing to improve outcomes",
-          "Health inequity is a major challenge for ministers",
-          "Cancer mortality rates vary across the UK",
-          "The NHS is working to improve cancer care"
+          "Cancer survival rates have improved",
+          "Treatments are becoming more effective",
+          "Challenge is unequal outcomes",
+          "Ministers face challenge",
+          "Cancer research is ongoing"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Mon, 09 Mar 2026 17:15:53 GMT",
         "title": "Martyn Butler obituary",
@@ -553,23 +632,23 @@
             "title": "Martyn Butler obituary",
             "standfirst": "Co-founder of the Terrence Higgins Trust, the leading HIV charity, in 1982 In 1982, Martyn Butler co-founded the Terrence Higgins Trust, the first organisation in Europe to respond to the health crisis caused by HIV/Aids, and now Britain’s leading HIV charity. It was the death in July that year of his friend, Terry Higgins – one of the first named people to die of an Aids-related illness in the UK – that spurred Martyn, along with Terry’s partner, Rupert Whitaker, to act.Martyn, who has died aged 71, and Rupert launched the trust with the help of friends to raise money for medical research, but the sums required were huge and would have to be provided by governments and the pharmaceutical industry. Continue reading...",
             "content": "Co-founder of the Terrence Higgins Trust, the leading HIV charity, in 1982 In 1982, Martyn Butler co-founded the Terrence Higgins Trust, the first organisation in Europe to respond to the health crisis caused by HIV/Aids, and now Britain’s leading HIV charity. It was the death in July that year of his friend, Terry Higgins – one of the first named people to die of an Aids-related illness in the UK – that spurred Martyn, along with Terry’s partner, Rupert Whitaker, to act.Martyn, who has died aged 71, and Rupert launched the trust with the help of friends to raise money for medical research, but the sums required were huge and would have to be provided by governments and the pharmaceutical industry. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ],
         "ai_summary": [
-          "Martyn Butler co founded the trust in nineteen eighty two",
-          "The trust is the leading HIV charity in the UK",
-          "Butler's friend Terry Higgins died of an AIDS related illness",
-          "The trust was launched to raise money for research",
-          "The charity has made a major impact on HIV care"
+          "Martyn Butler co-founded HIV charity",
+          "Charity was first to respond to HIV crisis",
+          "Butler died aged 71",
+          "Trust is now leading HIV charity",
+          "Butler's legacy continues"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Mon, 09 Mar 2026 16:54:34 GMT",
         "title": "We need a national plan to tackle the health inequity that is killing people | Letters",
-        "neutral_headline": "National Plan Needed To Tackle Health Inequity",
+        "neutral_headline": "UK Health Inequity Requires National Plan",
         "items": [
           {
             "source": "Guardian Health",
@@ -578,98 +657,21 @@
             "title": "We need a national plan to tackle the health inequity that is killing people | Letters",
             "standfirst": "Readers respond to Aditya Chakrabortty’s article about the decline in healthy life expectancy in the UKHow could I fault Aditya Chakrabortty’s account of the failure to prioritise the nation’s health as he cites me as its inspiration (This is a life and death story for the UK – so why is it being brushed under the carpet?, 6 March). However, it is important to emphasise that the government is well aware of the gross health inequities that scar our nation and limit lives as well as economic prosperity, but chooses not to prioritise them. The ministerial response last month to the House of Lords report on ageing contains this shocking statistic: a girl born in Barnsley can expect an average of 53 years of good health, whereas one born in Wokingham can look forward to 71 healthy years – an extra 18 years.Throughout the country deprivation accelerates ageing, which for many means an unnecessary premature exit from the labour market and premature need for social care. But the main focus of health policy is the manifesto commitment to reduce NHS waiting times, a target that has very little impact on health inequity. Instead, a radical programme is required to prevent the largely social and commercial determinants of ill-health, such as poverty, poor diets, lack of exercise, and air pollution. Continue reading...",
             "content": "Readers respond to Aditya Chakrabortty’s article about the decline in healthy life expectancy in the UKHow could I fault Aditya Chakrabortty’s account of the failure to prioritise the nation’s health as he cites me as its inspiration (This is a life and death story for the UK – so why is it being brushed under the carpet?, 6 March). However, it is important to emphasise that the government is well aware of the gross health inequities that scar our nation and limit lives as well as economic prosperity, but chooses not to prioritise them. The ministerial response last month to the House of Lords report on ageing contains this shocking statistic: a girl born in Barnsley can expect an average of 53 years of good health, whereas one born in Wokingham can look forward to 71 healthy years – an extra 18 years.Throughout the country deprivation accelerates ageing, which for many means an unnecessary premature exit from the labour market and premature need for social care. But the main focus of health policy is the manifesto commitment to reduce NHS waiting times, a target that has very little impact on health inequity. Instead, a radical programme is required to prevent the largely social and commercial determinants of ill-health, such as poverty, poor diets, lack of exercise, and air pollution. Continue reading...",
-            "feed_position": 7
-          }
-        ],
-        "ai_summary": [
-          "Health inequity is a major issue in the UK",
-          "A national plan is needed to address the issue",
-          "Deprivation accelerates ageing in many areas",
-          "Poverty and poor diets contribute to ill health",
-          "The government needs to prioritize health inequity"
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Mon, 09 Mar 2026 16:00:52 GMT",
-        "title": "Taking multivitamin daily could help to slow biological ageing, study suggests",
-        "neutral_headline": "Multivitamins May Help Slow Biological Ageing",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/science/2026/mar/09/taking-multivitamin-daily-could-help-to-slow-biological-ageing-study-suggests",
-            "published_at": "Mon, 09 Mar 2026 16:00:52 GMT",
-            "title": "Taking multivitamin daily could help to slow biological ageing, study suggests",
-            "standfirst": "Researchers working to unpick whether daily multivitamin results in people staying healthier as they ageTaking a multivitamin every day for two years appears to slow some markers of biological ageing – albeit to a small degree, research suggests.While chronological age is based on how long a person has lived, biological age reflects the state of the body. Estimates of the latter are often based on changes in patterns of DNA methylation – modifications to DNA that accumulate with age and affect how genes function. Continue reading...",
-            "content": "Researchers working to unpick whether daily multivitamin results in people staying healthier as they ageTaking a multivitamin every day for two years appears to slow some markers of biological ageing – albeit to a small degree, research suggests.While chronological age is based on how long a person has lived, biological age reflects the state of the body. Estimates of the latter are often based on changes in patterns of DNA methylation – modifications to DNA that accumulate with age and affect how genes function. Continue reading...",
             "feed_position": 8
           }
         ],
         "ai_summary": [
-          "Taking multivitamins daily may slow ageing",
-          "Research suggests a small but significant impact",
-          "Biological ageing is different from chronological age",
-          "DNA methylation patterns are used to estimate age",
-          "The study examined the effects of multivitamins on ageing"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Mon, 09 Mar 2026 15:59:43 GMT",
-        "title": "It's nearly moving day for these sand martins",
-        "neutral_headline": "Sand Martins Prepare To Migrate",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/videos/cly1w23g3r2o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 09 Mar 2026 15:59:43 GMT",
-            "title": "It's nearly moving day for these sand martins",
-            "standfirst": "Testwood Lakes Nature Reserve in Hampshire is set to welcome its first residents later this month.",
-            "content": "Testwood Lakes Nature Reserve in Hampshire is set to welcome its first residents later this month.",
-            "feed_position": 7,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3eb/live/67d53070-1bc8-11f1-801d-ed3cff6bf876.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3eb/live/67d53070-1bc8-11f1-801d-ed3cff6bf876.jpg",
-        "ai_summary": [
-          "Sand martins are migrating to Testwood Lakes",
-          "The nature reserve is a major stopover point",
-          "The birds are expected to arrive later this month",
-          "The reserve is preparing for the influx of birds",
-          "Conservation efforts are in place to protect the martins"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Mon, 09 Mar 2026 15:51:03 GMT",
-        "title": "John Oliver on the demise of USAID: ‘What this administration has done is beyond cruel’",
-        "neutral_headline": "John Oliver On The Demise Of USAID",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/tv-and-radio/2026/mar/09/john-oliver-trump-usaid",
-            "published_at": "Mon, 09 Mar 2026 15:51:03 GMT",
-            "title": "John Oliver on the demise of USAID: ‘What this administration has done is beyond cruel’",
-            "standfirst": "Last Week Tonight host examined the devastating impact of the demise of USAID, the primary federal agency for foreign aidOn the latest Last Week Tonight, John Oliver examined the Trump administration’s gutting of USAID, the international aid agency once described as “the world’s single largest humanitarian donor”. Donald Trump, naturally, called it “a scam” where there was “very little being put to good use”.“Set aside the irony of Donald Trump, of Trump University, accusing anything of being a fraud,” said Oliver. “You can’t just call something a scam because you don’t like it. I want to call low-rise jeans a scam. I feel like Peppa Pig is a fraud. I believe that radical lunatics run Jamba Juice. But even I acknowledge that my feelings don’t make any of those thoughts true.” Continue reading...",
-            "content": "Last Week Tonight host examined the devastating impact of the demise of USAID, the primary federal agency for foreign aidOn the latest Last Week Tonight, John Oliver examined the Trump administration’s gutting of USAID, the international aid agency once described as “the world’s single largest humanitarian donor”. Donald Trump, naturally, called it “a scam” where there was “very little being put to good use”.“Set aside the irony of Donald Trump, of Trump University, accusing anything of being a fraud,” said Oliver. “You can’t just call something a scam because you don’t like it. I want to call low-rise jeans a scam. I feel like Peppa Pig is a fraud. I believe that radical lunatics run Jamba Juice. But even I acknowledge that my feelings don’t make any of those thoughts true.” Continue reading...",
-            "feed_position": 9
-          }
-        ],
-        "ai_summary": [
-          "John Oliver examined the demise of USAID",
-          "The agency was gutted by the Trump administration",
-          "The impact on international aid is devastating",
-          "Oliver criticized the administration's actions",
-          "The demise of USAID has major humanitarian implications"
+          "Health inequity affects life expectancy in the UK",
+          "Girls in Barnsley expect 53 years of good health",
+          "Girls in Wokingham expect 71 years of good health",
+          "Deprivation accelerates ageing in the country",
+          "Radical program needed to address health determinants"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-10T19:38:23.114Z",
+    "updated_at": "2026-03-10T23:28:18.501Z",
     "clusters": []
   }
 }
