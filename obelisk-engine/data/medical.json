@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-03-12T19:42:13.088Z",
+    "updated_at": "2026-03-12T23:28:20.491Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-12T19:42:28.594Z",
+    "updated_at": "2026-03-12T23:28:36.529Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/44e0a04d-64e4-4155-97b7-9e412b97c32d/In-Practice-AHPRA-resources-for-GPs.aspx",
         "ai_summary": [
-          "AHPRA hosts webinars for GPs",
-          "Webinars support GPs with registration",
-          "GPs can access registration resources",
-          "AHPRA provides registration guidance",
-          "Webinars available in coming months"
+          "AHPRA hosts webinars for GP registration",
+          "Webinars support GPs with registration aspects",
+          "AHPRA provides resources for GPs",
+          "Webinars cover various registration topics",
+          "AHPRA aims to support GP registration process"
         ]
       },
       {
@@ -54,10 +54,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/4a995227-0cec-4b96-9346-abbb6cf8848e/Rural-workforce-incentive-reforms-hailed-significant-win.aspx",
         "ai_summary": [
           "RACGP welcomes rural workforce reforms",
-          "Reforms change FTE assessment for program",
-          "GPs benefit from rural workforce changes",
-          "Rural Advanced Skills stream altered",
-          "Reforms hailed as significant win"
+          "Reforms alter FTE assessment for program eligibility",
+          "Changes affect GP registration and eligibility",
+          "RACGP supports reforms for rural workforce",
+          "Reforms aim to improve rural healthcare services"
         ]
       },
       {
@@ -81,10 +81,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/99f7e687-b0cb-46e2-a45e-949c4e2c147e/MP-pens-targeted-letter-pressuring-clinic-to-bulk-bill.aspx",
         "ai_summary": [
           "MP writes letter to local general practice",
-          "Letter expresses disappointment at billing model",
-          "Clinic urged to switch to bulk billing",
-          "MP pressures clinic to change model",
-          "Letter targets local general practice"
+          "Letter expresses disappointment over billing model",
+          "Clinic has not switched to bulk billing",
+          "MP pressures clinic to change billing model",
+          "Letter aims to influence clinic's billing decision"
         ]
       },
       {
@@ -107,11 +107,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/6057ed45-4f24-4753-ac6b-3f91f74ca959/RACGP-budget-wish-list-urges-aged-care-reforms.aspx",
         "ai_summary": [
-          "RACGP urges aged care reforms in budget",
-          "Funding redirected to embed pharmacists",
-          "Aged care reforms proposed by RACGP",
-          "Pharmacists to be embedded in aged care",
-          "RACGP proposes budget reforms"
+          "RACGP urges funding for aged care reforms",
+          "College wants pharmacists embedded in aged care",
+          "RACGP proposes redirecting pharmacy pilot funds",
+          "Aged care reforms aim to improve healthcare services",
+          "RACGP advocates for aged care reform funding"
         ]
       },
       {
@@ -134,24 +134,78 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/51392f2d-7351-4164-a691-578a4c065730/Huge-financial-disincentives-lead-to-drop-in-GP-home-visits.aspx",
         "ai_summary": [
-          "GP home visits have fallen 85 percent",
-          "Financial disincentives drive drop in visits",
-          "Remuneration does not cover costs",
-          "GPs reduce home visits due to finances",
-          "Home visits decrease over three decades"
+          "GP home visits have fallen 85% in three decades",
+          "Financial disincentives drive drop in home visits",
+          "Remuneration for home visits is a key issue",
+          "Experts say current system doesn't pass the pub test",
+          "Home visit numbers have significantly decreased"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-03-12T19:42:14.815Z",
+    "updated_at": "2026-03-12T23:28:35.669Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Thu, 12 Mar 2026 21:21:11 GMT",
+        "title": "Artemis II: Nasa targets early April for Moon mission",
+        "neutral_headline": "Nasa targets early April for Moon mission",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c4g8qp42rq6o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 12 Mar 2026 21:21:11 GMT",
+            "title": "Artemis II: Nasa targets early April for Moon mission",
+            "standfirst": "Nasa says technical problems that have delayed the rocket are fixed and it is ready for launch.",
+            "content": "Nasa says technical problems that have delayed the rocket are fixed and it is ready for launch.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eb9/live/8d927b40-1e45-11f1-b6ba-eb40411f1248.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eb9/live/8d927b40-1e45-11f1-b6ba-eb40411f1248.jpg",
+        "ai_summary": [
+          "Nasa sets early April target for Moon mission",
+          "Technical problems have delayed the rocket",
+          "Nasa says issues are now fixed and ready",
+          "Artemis II mission aims for Moon launch",
+          "Nasa is preparing for the upcoming launch"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Thu, 12 Mar 2026 21:00:00 GMT",
+        "title": "BBC Inside Science",
+        "neutral_headline": "New research on hot years and climate change",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/sounds/play/w3ct8ty3?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 12 Mar 2026 21:00:00 GMT",
+            "title": "BBC Inside Science",
+            "standfirst": "New research on what three very hot years can tell us about climate change.",
+            "content": "New research on what three very hot years can tell us about climate change.",
+            "feed_position": 31,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
+        "ai_summary": [
+          "Research examines hot years and climate change",
+          "Study analyzes data from recent hot years",
+          "Findings provide insights into climate change",
+          "Hot years are used to understand climate trends",
+          "Research aims to inform climate change policies"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 17:15:40 GMT",
         "title": "GPs tell BBC they've NEVER refused sick note for mental health",
-        "neutral_headline": "GPs tell BBC they have never refused sick note",
+        "neutral_headline": "GPs tell BBC they've NEVER refused sick note for mental health",
         "items": [
           {
             "source": "BBC Health",
@@ -176,19 +230,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51be/live/461f7c70-1e33-11f1-b048-c9424b2cf5fd.jpg",
         "ai_summary": [
-          "GPs surveyed on sick note refusals",
-          "Many GPs never refuse sick notes",
-          "Fit notes issued for mental health concerns",
-          "GPs provide fit notes for mental health",
-          "BBC surveys GPs on sick note policies"
+          "GPs report never refusing sick notes for mental health",
+          "BBC sent questionnaire to over 5000 GPs",
+          "GPs provide fit notes for mental health concerns",
+          "Number of fit notes issued has been rising",
+          "GPs support patients with mental health concerns"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 17:03:40 GMT",
         "title": "Change energy use to reduce pollution and protect our health | Letters",
-        "neutral_headline": "Energy use change reduces pollution",
+        "neutral_headline": "Energy use change can reduce pollution and health risks",
         "items": [
           {
             "source": "Guardian Health",
@@ -201,19 +255,19 @@
           }
         ],
         "ai_summary": [
-          "Energy use contributes to pollution",
-          "Reducing energy use helps mitigate pollution",
-          "Air pollution affects human health",
-          "Energy systems drive climate change",
-          "Reducing energy use is crucial"
+          "Changing energy use can reduce pollution",
+          "Energy production contributes to greenhouse gas emissions",
+          "Fossil fuels release harmful pollutants when burned",
+          "Energy system changes can mitigate health issues",
+          "Reducing energy consumption can improve public health"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 17:03:27 GMT",
         "title": "Antibiotics need coordinated G7 investment | Letter",
-        "neutral_headline": "Antibiotics need coordinated investment",
+        "neutral_headline": "Coordinated G7 investment needed for antibiotics",
         "items": [
           {
             "source": "Guardian Health",
@@ -227,70 +281,43 @@
         ],
         "ai_summary": [
           "Antibiotic pipeline is worryingly thin",
-          "Market failure affects antibiotic development",
+          "Market failure limits antibiotic development",
           "Companies have less incentive to invest",
-          "Policy intervention is necessary",
-          "Antibiotic development needs investment"
+          "Policy intervention is crucial for antibiotic development",
+          "G7 investment can support antibiotic research"
         ]
       },
       {
-        "id": "cluster_3",
-        "coverage": 1,
-        "updated_at": "Thu, 12 Mar 2026 17:00:00 GMT",
-        "title": "BBC Inside Science",
-        "neutral_headline": "New research on hot years and climate change",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/sounds/play/w3ct8ty3?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 12 Mar 2026 17:00:00 GMT",
-            "title": "BBC Inside Science",
-            "standfirst": "New research on what three very hot years can tell us about climate change.",
-            "content": "New research on what three very hot years can tell us about climate change.",
-            "feed_position": 31,
-            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
-        "ai_summary": [
-          "Research examines hot years and climate",
-          "Climate change affects global temperatures",
-          "Hot years provide insight into climate",
-          "Research studies climate change patterns",
-          "Climate change is a pressing issue"
-        ]
-      },
-      {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 15:24:20 GMT",
-        "title": "Two plasma donors die at private Canadian clinics under federal investigation",
-        "neutral_headline": "Plasma donors die at Canadian clinics",
+        "title": "Two people die after donating plasma at Canadian clinics under federal investigation",
+        "neutral_headline": "Two people die after donating plasma at Canadian clinics",
         "items": [
           {
             "source": "Guardian Health",
             "url": "https://www.theguardian.com/world/2026/mar/12/two-plasma-donors-die-private-canada-clinics",
             "published_at": "Thu, 12 Mar 2026 15:24:20 GMT",
-            "title": "Two plasma donors die at private Canadian clinics under federal investigation",
+            "title": "Two people die after donating plasma at Canadian clinics under federal investigation",
             "standfirst": "Company that runs the sites says it has ‘no reason to believe there is a correlation between the donors’ passing and plasma donation’Two people have died in Canada after donating plasma at a chain of clinics that has been under scrutiny by federal inspectors for failing to keep accurate records, screen donors or maintain its machines.While experts say the deaths are exceedingly rare, critics say Canada’s embrace of private companies to handle blood products reflects a “slow collapse of a system that has been the envy of the world”. Continue reading...",
             "content": "Company that runs the sites says it has ‘no reason to believe there is a correlation between the donors’ passing and plasma donation’Two people have died in Canada after donating plasma at a chain of clinics that has been under scrutiny by federal inspectors for failing to keep accurate records, screen donors or maintain its machines.While experts say the deaths are exceedingly rare, critics say Canada’s embrace of private companies to handle blood products reflects a “slow collapse of a system that has been the envy of the world”. Continue reading...",
             "feed_position": 2
           }
         ],
         "ai_summary": [
-          "Two plasma donors die at clinics",
-          "Clinics under investigation for safety",
-          "Donor deaths are exceedingly rare",
-          "Plasma donation safety is a concern",
-          "Clinics face scrutiny over donor deaths"
+          "Two people died after donating plasma in Canada",
+          "Clinics are under federal investigation",
+          "Donors' deaths are exceedingly rare",
+          "Experts say no correlation with plasma donation",
+          "Investigation is ongoing into the clinics"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 13:00:23 GMT",
         "title": "Republican farm bill criticized as agribusiness giveaway: ‘Pesticide industry wishlist’",
-        "neutral_headline": "Republican farm bill criticized",
+        "neutral_headline": "Republican farm bill criticized as agribusiness giveaway",
         "items": [
           {
             "source": "Guardian Health",
@@ -303,19 +330,19 @@
           }
         ],
         "ai_summary": [
-          "Farm bill provisions criticized",
-          "Bill weakens safety reviews and protections",
-          "Pesticide industry influence is increased",
-          "Bill shields industry from liability",
-          "Critics oppose farm bill provisions"
+          "Farm bill includes pesticide industry provisions",
+          "Bill weakens safety reviews and boosts industry influence",
+          "Opponents say bill kills protections for humans and environment",
+          "Bill grants USDA veto power over health safeguards",
+          "Critics argue bill favors agribusiness over public health"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 12:59:29 GMT",
         "title": "UK government axes flagship global health project",
-        "neutral_headline": "UK government axes global health project",
+        "neutral_headline": "UK government axes flagship global health project",
         "items": [
           {
             "source": "Guardian Health",
@@ -330,17 +357,17 @@
         "ai_summary": [
           "UK government cuts global health project",
           "Project supported healthcare staff in Africa",
-          "Aid cuts affect global health initiatives",
-          "Project closure affects healthcare staff",
-          "UK government axes flagship project"
+          "Programme aimed to protect Britain from pandemics",
+          "Closure is due to aid cuts",
+          "Project supported development in six African countries"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 12:00:23 GMT",
         "title": "Colon cancer now leading cause of cancer deaths under 50 in US",
-        "neutral_headline": "Colon cancer is leading cause of death under 50",
+        "neutral_headline": "Colon cancer is leading cause of cancer deaths under 50",
         "items": [
           {
             "source": "Guardian Health",
@@ -353,19 +380,19 @@
           }
         ],
         "ai_summary": [
-          "Colon cancer is leading cause of death",
-          "Younger people are diagnosed with colon cancer",
-          "Symptoms should not be dismissed",
-          "Colon cancer diagnoses rise in young people",
-          "Experts warn of colon cancer risks"
+          "Colon cancer is leading cause of cancer death under 50",
+          "Experts warn younger people to take symptoms seriously",
+          "Rectal bleeding is a common symptom",
+          "Diagnoses are rising for people under 50",
+          "Colon cancer is a significant health concern for young people"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 11:23:36 GMT",
         "title": "Nasa spacecraft weighing 1,300lb re-enters Earth's atmosphere",
-        "neutral_headline": "Nasa spacecraft re enters Earth atmosphere",
+        "neutral_headline": "Nasa Spacecraft Re Enters Earth Atmosphere",
         "items": [
           {
             "source": "BBC Science",
@@ -374,25 +401,25 @@
             "title": "Nasa spacecraft weighing 1,300lb re-enters Earth's atmosphere",
             "standfirst": "Much of the Van Allen Probe was expected to burn up in the atmosphere, though Nasa said there was a \"low\" risk of people being struck by surviving components.",
             "content": "Much of the Van Allen Probe was expected to burn up in the atmosphere, though Nasa said there was a \"low\" risk of people being struck by surviving components.",
-            "feed_position": 11,
+            "feed_position": 12,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e627/live/06b45bc0-1cce-11f1-940c-8d69ad1b5c3b.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e627/live/06b45bc0-1cce-11f1-940c-8d69ad1b5c3b.jpg",
         "ai_summary": [
-          "Nasa spacecraft weighs 1300 pounds",
-          "Spacecraft re enters Earth atmosphere",
-          "Much of spacecraft burns up in atmosphere",
-          "Risk of components striking people is low",
-          "Nasa monitors spacecraft re entry"
+          "Nasa spacecraft weighs 1,300lb",
+          "Van Allen Probe re-enters Earth atmosphere",
+          "Much of the probe expected to burn up",
+          "Low risk of people being struck by components",
+          "Nasa monitors the spacecraft's re-entry"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 11:09:43 GMT",
         "title": "‘The light will always outshine the dark’: trauma surgeon Shehan Hettiaratchy on his harrowing, heartening calling",
-        "neutral_headline": "Trauma surgeon on harrowing experiences",
+        "neutral_headline": "The light will always outshine the dark: trauma surgeon Shehan Hettiaratchy on his harrowing, heartening calling",
         "items": [
           {
             "source": "Guardian Health",
@@ -405,19 +432,19 @@
           }
         ],
         "ai_summary": [
-          "Trauma surgeon operates on attack victims",
-          "Surgeon sees horror but believes in humanity",
-          "Optimism and selflessness are key",
-          "Surgeon reflects on Westminster attack",
-          "Trauma surgeon shares harrowing experiences"
+          "Shehan Hettiaratchy is a trauma surgeon",
+          "He operated on Westminster attack victims",
+          "Hettiaratchy visited Ukraine and Gaza",
+          "He believes in humanity and optimism",
+          "He is the lead surgeon at St Mary's hospital"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 11:02:58 GMT",
         "title": "NHS tracker - are hospital waiting times improving near you?",
-        "neutral_headline": "NHS Hospital Waiting Times Improving Slowly",
+        "neutral_headline": "NHS Hospital Waiting Times Tracker",
         "items": [
           {
             "source": "BBC Health",
@@ -432,15 +459,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e64/live/1cccf440-5013-11f0-8c47-237c2e4015f5.png",
         "ai_summary": [
-          "NHS tracker shows hospital waiting times",
-          "Treatment waits are getting better slowly",
-          "Interactive tracker available online",
-          "Local hospital waiting times can be checked",
-          "NHS data is updated regularly"
+          "Interactive tracker for hospital waiting times",
+          "Tracker shows treatment waits at local hospitals",
+          "Data available for NHS hospitals",
+          "Waiting times compared over time",
+          "Tracker updated with new data"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 10:40:47 GMT",
         "title": "The family donating kidneys to their siblings",
@@ -459,19 +486,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cfd/live/0ed24a30-1dfd-11f1-b048-c9424b2cf5fd.jpg",
         "ai_summary": [
-          "Family members donate kidneys to siblings",
-          "Donors save their siblings lives",
-          "Selfless act of kindness is appreciated",
-          "Family bonds are strengthened through donation",
-          "Organ donation is a noble cause"
+          "Family members donate kidneys to each other",
+          "Donors save their siblings' lives",
+          "Kidney donation is a life-saving act",
+          "Family members undergo surgery together",
+          "Donors recover from the operation"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 10:26:38 GMT",
         "title": "Why is smoking so addictive – and what are the best ways to give up?",
-        "neutral_headline": "Why Is Smoking So Addictive",
+        "neutral_headline": "Why is smoking so addictive – and what are the best ways to give up?",
         "items": [
           {
             "source": "Guardian Health",
@@ -486,13 +513,13 @@
         "ai_summary": [
           "Smoking is highly addictive due to nicotine",
           "Nicotine affects the brain and lungs",
-          "Quitting smoking is a difficult process",
-          "Research suggests smoking is bad for health",
-          "Estimates show few smokers manage to quit"
+          "Quitting smoking is very difficult",
+          "Research suggests ways to quit smoking",
+          "Estimates show many attempts to quit fail"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 09:22:14 GMT",
         "title": "Police probe breast cancer treatment allegations",
@@ -512,14 +539,14 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b29d/live/6bdfc7e0-67fd-11f0-bf90-9f843a155227.jpg",
         "ai_summary": [
           "Police probe breast cancer treatment allegations",
-          "Concerns of poor care at County Durham trust",
-          "Inquiry is being held to investigate claims",
-          "Breast cancer patients may have been affected",
-          "Investigation is ongoing"
+          "Concerns over poor care at County Durham trust",
+          "Inquiry held to investigate allegations",
+          "Trust provides breast cancer treatment services",
+          "Police gather evidence for the inquiry"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 09:00:13 GMT",
         "title": "London, San Francisco and Beijing achieve ‘remarkable reductions’ in air pollution",
@@ -538,17 +565,17 @@
         "ai_summary": [
           "London and other cities reduce air pollution",
           "Cycle lanes and electric cars help reduce pollution",
-          "Interventions have improved air quality",
-          "Pollutant levels have decreased significantly",
-          "Global cities have achieved remarkable reductions"
+          "Interventions lead to 20% reduction in pollutants",
+          "19 global cities achieve remarkable reductions",
+          "Air pollution levels compared over time"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 07:00:13 GMT",
         "title": "Palantir’s NHS England contract ‘opens door to government abuse of power’, health bosses told",
-        "neutral_headline": "Palantir’s NHS England Contract Opens Door To Government Abuse Of Power",
+        "neutral_headline": "Palantir’s NHS England contract ‘opens door to government abuse of power’",
         "items": [
           {
             "source": "Guardian Health",
@@ -561,19 +588,19 @@
           }
         ],
         "ai_summary": [
-          "Palantir’s NHS contract raises concerns",
-          "Data-sharing potential is a concern",
-          "Health bosses warned of potential abuse",
-          "NHS data may be used for other purposes",
-          "Contract has sparked controversy"
+          "Palantir wins £330m NHS England contract",
+          "Contract raises concerns over data-sharing",
+          "Health charity warns of potential abuse",
+          "Data-sharing potential is a major concern",
+          "NHS England contract sparks controversy"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 06:11:16 GMT",
         "title": "Greedy beaver caught twice in monitoring trap",
-        "neutral_headline": "Greedy Beaver Caught In Monitoring Trap",
+        "neutral_headline": "Greedy Beaver Caught In Trap",
         "items": [
           {
             "source": "BBC Science",
@@ -588,19 +615,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11a4/live/a0562ca0-1d4f-11f1-a00b-6f91831af046.jpg",
         "ai_summary": [
-          "Greedy beaver caught in Northumberland",
-          "Rangers monitor beaver activity",
-          "Beavers are doing well in the area",
-          "Monitoring traps are used to track beavers",
-          "Beavers are an important part of ecosystem"
+          "Beaver caught twice in monitoring trap",
+          "Rangers in Northumberland monitor beavers",
+          "Beavers are doing well after being caught",
+          "Trap used to check beaver health",
+          "Rangers ensure beaver safety"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 12 Mar 2026 00:04:52 GMT",
         "title": "Why Namibia's green energy dream could be a red flag for penguins",
-        "neutral_headline": "Namibia's Green Energy Dream May Harm Penguins",
+        "neutral_headline": "Namibia Green Energy Project",
         "items": [
           {
             "source": "BBC Science",
@@ -615,19 +642,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f60/live/4a037c30-1d69-11f1-801d-ed3cff6bf876.jpg",
         "ai_summary": [
-          "Namibia's green energy plan may harm penguins",
-          "Hydrogen production facility is planned",
-          "Desert and coastal wilderness may be affected",
-          "Penguins may be impacted by new facility",
-          "Environmental concerns are being raised"
+          "Namibia plans huge hydrogen production facility",
+          "Facility could host green energy production",
+          "Project may affect penguin habitats",
+          "Hydrogen production has environmental impact",
+          "Namibia considers green energy options"
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Wed, 11 Mar 2026 18:31:50 GMT",
         "title": "Women receiving worse treatment for back and neck pain – UK study",
-        "neutral_headline": "Women Receive Worse Treatment For Back Pain",
+        "neutral_headline": "Women receiving worse treatment for back and neck pain – UK study",
         "items": [
           {
             "source": "Guardian Health",
@@ -642,40 +669,15 @@
         "ai_summary": [
           "Women receive worse treatment for back pain",
           "Clinical guidelines do not acknowledge sex differences",
-          "Research shows women's experiences are not factored",
-          "NHS model of care is being criticized",
-          "Women's back pain is not being properly addressed"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Wed, 11 Mar 2026 17:28:11 GMT",
-        "title": "Generational divide isn’t as wide as you think | Letters",
-        "neutral_headline": "Generational Divide Is Not As Wide As Thought",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/inequality/2026/mar/11/generational-divide-isnt-as-wide-as-you-think",
-            "published_at": "Wed, 11 Mar 2026 17:28:11 GMT",
-            "title": "Generational divide isn’t as wide as you think | Letters",
-            "standfirst": "Readers respond to an article by John Lanchester and a report on gen Z’s views on marriageI enjoyed John Lanchester’s article on the generation gap (Did baby boomers eat all the pies? John Lanchester on the truth about the generation gap, 8 March). As a university lecturer, I spend a lot of time in class unpicking statistics and received wisdom, including narratives such as intergenerational rivalry, which is more complex than it first seems. I often feel that we are too shortsighted in our intergenerational discussions.As a gen Xer, I’ve often discussed my experiences as a young adult, which, as Lanchester points out, share many parallels with today’s gen Z. In heritage management classes, I ask students about their parents and grandparents. We compare experiences with those of the first and second world war generations, then that of our great-grandparents. Mine were born in 1879, were lacemakers in Essex, had a pea field, made turnip dollies and sent their sons to Haberdashers’ School in London to better themselves. Continue reading...",
-            "content": "Readers respond to an article by John Lanchester and a report on gen Z’s views on marriageI enjoyed John Lanchester’s article on the generation gap (Did baby boomers eat all the pies? John Lanchester on the truth about the generation gap, 8 March). As a university lecturer, I spend a lot of time in class unpicking statistics and received wisdom, including narratives such as intergenerational rivalry, which is more complex than it first seems. I often feel that we are too shortsighted in our intergenerational discussions.As a gen Xer, I’ve often discussed my experiences as a young adult, which, as Lanchester points out, share many parallels with today’s gen Z. In heritage management classes, I ask students about their parents and grandparents. We compare experiences with those of the first and second world war generations, then that of our great-grandparents. Mine were born in 1879, were lacemakers in Essex, had a pea field, made turnip dollies and sent their sons to Haberdashers’ School in London to better themselves. Continue reading...",
-            "feed_position": 11
-          }
-        ],
-        "ai_summary": [
-          "Generational divide is more complex",
-          "Intergenerational discussions are needed",
-          "Narratives of intergenerational rivalry are oversimplified",
-          "Experiences of different generations are compared",
-          "University lecturer shares insights on generation gap"
+          "Research finds sex-specific considerations lacking",
+          "NHS model of care does not account for women",
+          "Study highlights need for improved treatment"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-12T19:42:28.594Z",
+    "updated_at": "2026-03-12T23:28:36.530Z",
     "clusters": []
   }
 }
