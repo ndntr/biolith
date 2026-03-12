@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-03-11T23:26:56.011Z",
+    "updated_at": "2026-03-12T04:46:59.658Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-11T23:27:04.727Z",
+    "updated_at": "2026-03-12T04:47:13.836Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/51392f2d-7351-4164-a691-578a4c065730/Huge-financial-disincentives-lead-to-drop-in-GP-home-visits.aspx",
         "ai_summary": [
-          "GP home visits have fallen 85 percent",
-          "Financial disincentives are the main reason",
-          "Remuneration is a key driver",
-          "Experts say it does not pass the test",
-          "GP home visits are decreasing rapidly"
+          "GP home visits decreased by 85% in three decades",
+          "Financial disincentives cited as key driver",
+          "Remuneration issues affect GP home visit numbers",
+          "Experts call for revised remuneration structures",
+          "GP home visit decline impacts patient care"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/aba495b7-e5af-4c4c-b023-210dd3fd547c/Results-out-for-first-RACGP-exams-of-2026.aspx",
         "ai_summary": [
-          "RACGP exam results are out for 2026",
-          "Success rate is 80 percent",
-          "More candidates passed this time",
-          "Results confirm an upward trend",
-          "RACGP is pleased with the outcome"
+          "RACGP exam results show 80% success rate",
+          "More candidates passed Fellowship exams",
+          "Exam results compared to previous cycles",
+          "RACGP exam success rate indicates high standards",
+          "Candidates who passed exams can proceed to next steps"
         ]
       },
       {
@@ -80,11 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/f89e8863-4cee-42c5-b28b-fc7491bde898/X-ray-results-available-immediately-on-My-Health-Record.aspx",
         "ai_summary": [
-          "X-ray results are now available immediately",
-          "Results are uploaded to My Health Record",
-          "Patients can access results quickly",
-          "Diagnostic imaging wait times are shortened",
-          "New changes are beneficial for patients"
+          "My Health Record now includes immediate X-ray results",
+          "Patients can access X-ray results on upload",
+          "Diagnostic imaging wait times shortened",
+          "My Health Record updates improve patient access",
+          "Immediate X-ray results enhance patient care"
         ]
       },
       {
@@ -107,11 +107,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/b5257fca-df6d-4790-81dc-c7ce6211b58c/No-one-is-too-small-to-make-a-difference.aspx",
         "ai_summary": [
-          "Women face barriers in medicine",
-          "Barriers are often quietly structural",
-          "Women can make a difference",
-          "Dr Ramya Raman shares her thoughts",
-          "Women's experiences are important"
+          "Women in medicine face structural barriers",
+          "Barriers to women in medicine are often subtle",
+          "Experts call for increased support for women",
+          "Women's experiences in medicine are unique",
+          "Addressing barriers can improve women's careers"
         ]
       },
       {
@@ -134,20 +134,47 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/90057852-bbff-4d12-ae55-3dac899e1bc7/Critical-failure-in-plan-to-phase-out-Medicare-cheques.aspx",
         "ai_summary": [
-          "Plan to phase out Medicare cheques failed",
-          "RACGP opposes the government plan",
-          "Gap only payment delays are a concern",
-          "RACGP supports ditching the cheques",
-          "New plan is needed to address issues"
+          "Plan to phase out Medicare cheques criticized",
+          "RACGP opposes gap-only payment delays",
+          "Government plan affects Medicare payments",
+          "RACGP supports ditching Medicare cheques",
+          "Payment delay issues impact healthcare providers"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-03-11T23:26:59.308Z",
+    "updated_at": "2026-03-12T04:47:01.644Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Thu, 12 Mar 2026 00:04:52 GMT",
+        "title": "Why Namibia's green energy dream could be a red flag for penguins",
+        "neutral_headline": "Namibia Green Energy Project Raises Concerns",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/czj1lkvpzxyo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 12 Mar 2026 00:04:52 GMT",
+            "title": "Why Namibia's green energy dream could be a red flag for penguins",
+            "standfirst": "A near pristine desert and coastal wilderness in Namibia could soon host a huge hydrogen production facility.",
+            "content": "A near pristine desert and coastal wilderness in Namibia could soon host a huge hydrogen production facility.",
+            "feed_position": 6,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f60/live/4a037c30-1d69-11f1-801d-ed3cff6bf876.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f60/live/4a037c30-1d69-11f1-801d-ed3cff6bf876.jpg",
+        "ai_summary": [
+          "Namibia green energy project may harm penguins",
+          "Hydrogen production facility planned",
+          "Desert and coastal wilderness at risk",
+          "Environmental concerns raised about project",
+          "Project's impact on local ecosystem assessed"
+        ]
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Wed, 11 Mar 2026 18:31:50 GMT",
         "title": "Women receiving worse treatment for back and neck pain – UK study",
@@ -164,19 +191,19 @@
           }
         ],
         "ai_summary": [
-          "Women receive worse treatment for back pain",
-          "Clinical guidelines are male by default",
-          "Sex based differences are not acknowledged",
-          "NHS fails to consider women's experiences",
-          "Research highlights the need for change"
+          "Women receive inadequate treatment for back pain",
+          "Clinical guidelines do not account for sex differences",
+          "Research highlights need for revised guidelines",
+          "Women's experiences with back pain are unique",
+          "Revised guidelines can improve treatment outcomes"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Wed, 11 Mar 2026 17:28:11 GMT",
         "title": "Generational divide isn’t as wide as you think | Letters",
-        "neutral_headline": "Generational Divide Is Not Wide",
+        "neutral_headline": "Generational Divide Not As Wide As Thought",
         "items": [
           {
             "source": "Guardian Health",
@@ -189,19 +216,19 @@
           }
         ],
         "ai_summary": [
-          "Generational divide is not as wide",
           "Intergenerational discussions are complex",
-          "Narratives are often too simplistic",
-          "Experiences are shared across generations",
-          "Discussions should be more nuanced"
+          "Narratives about generational rivalry are oversimplified",
+          "Experts call for nuanced discussions",
+          "Generational experiences share parallels",
+          "Understanding generational differences is important"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Wed, 11 Mar 2026 17:04:41 GMT",
         "title": "Proton beam hope for asbestos cancer patients",
-        "neutral_headline": "Proton Beam Hope For Asbestos Cancer",
+        "neutral_headline": "Proton Beam Therapy For Asbestos Cancer",
         "items": [
           {
             "source": "BBC Health",
@@ -216,19 +243,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b8f/live/53ae1160-1c64-11f1-b8c2-59d98cecc063.jpg",
         "ai_summary": [
-          "Proton beam therapy is being trialed",
-          "Asbestos cancer is an incurable disease",
+          "Proton beam therapy may help asbestos cancer patients",
+          "Mesothelioma is an incurable cancer",
           "Trial aims to prolong patient lives",
-          "Mesothelioma is a serious condition",
-          "New treatment options are being explored"
+          "Proton beam therapy shows promise",
+          "Asbestos cancer treatment options are limited"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Wed, 11 Mar 2026 16:18:24 GMT",
         "title": "Endometriosis study aims for safer diagnosis",
-        "neutral_headline": "Endometriosis Study Aims For Safer Diagnosis",
+        "neutral_headline": "Endometriosis Diagnosis Study Uses Electrodes",
         "items": [
           {
             "source": "BBC Health",
@@ -243,19 +270,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d672/live/fa36a270-1d5b-11f1-a5ee-870cbdcb0f98.png",
         "ai_summary": [
-          "Endometriosis study uses electrodes",
-          "Non invasive diagnosis tool is being tested",
-          "Researchers are in Worcestershire",
-          "Diagnosis is currently invasive",
-          "New method could be safer for patients"
+          "Researchers use electrodes for endometriosis diagnosis",
+          "Non-invasive diagnosis tool developed",
+          "Endometriosis diagnosis can be challenging",
+          "Electrodes may improve diagnosis accuracy",
+          "Study aims to enhance endometriosis diagnosis"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Wed, 11 Mar 2026 15:35:42 GMT",
         "title": "'My daughter died in her sleep, with no warning'",
-        "neutral_headline": "My Daughter Died In Her Sleep",
+        "neutral_headline": "Sudden Unexpected Death In Epilepsy Awareness",
         "items": [
           {
             "source": "BBC Health",
@@ -270,19 +297,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e582/live/11c8a2c0-1c7c-11f1-a7bf-efb6e72f87e6.jpg",
         "ai_summary": [
-          "Daughter died from sudden epilepsy",
-          "Mother was not warned about the risk",
-          "Sudden Unexpected Death is a concern",
-          "Epilepsy patients need to be informed",
-          "Awareness is needed to prevent deaths"
+          "Sudden Unexpected Death in Epilepsy is a risk",
+          "Patients with epilepsy may not be informed",
+          "Awareness about SUDEP is crucial",
+          "Patients and families need education",
+          "SUDEP risk can be mitigated with awareness"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Wed, 11 Mar 2026 12:54:56 GMT",
         "title": "Alternative to HRT for menopausal hot flushes now on NHS",
-        "neutral_headline": "New Non Hormonal Pill Available On NHS",
+        "neutral_headline": "Alternative To HRT For Menopausal Hot Flushes",
         "items": [
           {
             "source": "BBC Health",
@@ -297,19 +324,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e012/live/ac56c010-1d58-11f1-801d-ed3cff6bf876.png",
         "ai_summary": [
-          "Alternative to HRT for menopausal hot flushes",
-          "Non hormonal daily pill available on NHS",
-          "Could benefit 500,000 women in England",
-          "Suitable for women for whom HRT is not suitable",
-          "NHS to offer new treatment option"
+          "Non-hormonal pill available for menopausal hot flushes",
+          "Pill can benefit 500,000 women",
+          "HRT is not suitable for all women",
+          "Alternative treatment options are needed",
+          "Non-hormonal pill provides new treatment choice"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Wed, 11 Mar 2026 12:00:03 GMT",
         "title": "At 56, I woke to silence: the strange, sudden loss that changed everything",
-        "neutral_headline": "At 56, I woke to silence: the strange, sudden loss that changed everything",
+        "neutral_headline": "Woman Experiences Sudden Hearing Loss",
         "items": [
           {
             "source": "Guardian Health",
@@ -322,19 +349,19 @@
           }
         ],
         "ai_summary": [
-          "Author experiences sudden hearing loss",
-          "US has no federal mandate for hearing aid coverage",
-          "Author learns American Sign Language",
-          "Facial expressions play key role in ASL",
-          "Author struggles to communicate with hearing and deaf"
+          "Woman wakes up to sudden hearing loss at 56",
+          "No federal mandate for hearing aid coverage in US",
+          "Woman learns American Sign Language to communicate",
+          "Non-manual markers are crucial in ASL communication",
+          "Woman struggles to express her hearing impairment"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Wed, 11 Mar 2026 11:57:57 GMT",
         "title": "Mounting rubbish in Gaza brings health risks to residents – video report",
-        "neutral_headline": "Gaza Residents Face Health Risks From Rubbish",
+        "neutral_headline": "Gaza Rubbish Piles Pose Health Risks",
         "items": [
           {
             "source": "Guardian Health",
@@ -347,19 +374,19 @@
           }
         ],
         "ai_summary": [
-          "Rubbish accumulates in Gaza streets",
-          "Health risks increase for residents",
-          "Limited resources to clear waste",
-          "Areas once filled with markets now covered in litter",
-          "Palestinians fear for their health"
+          "Rubbish accumulates in Gaza streets due to limited resources",
+          "Palestinians fear health risks from waste and debris",
+          "Markets are now filled with litter and dirt",
+          "Residents lack access to proper waste management",
+          "Health concerns rise among Gaza residents"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Wed, 11 Mar 2026 11:00:02 GMT",
         "title": "Peak interest: Toronto’s snow mountains that refuse to melt are a toxic hazard",
-        "neutral_headline": "Toronto Snow Piles Pose Environmental Hazard",
+        "neutral_headline": "Toronto Snow Piles Contain Toxic Waste",
         "items": [
           {
             "source": "Guardian Health",
@@ -372,19 +399,19 @@
           }
         ],
         "ai_summary": [
-          "Snow piles in Toronto contain toxic materials",
-          "Piles reach up to 100ft high",
-          "Road salt and antifreeze pose environmental risks",
-          "Snow piles are final resting place for winter debris",
-          "City faces daunting environmental hazard"
+          "Toronto snow piles reach up to 100ft high",
+          "Piles contain toxic mix of salt and debris",
+          "Environmental risks posed by snow piles",
+          "Road salt and waste mix in snow piles",
+          "Snow piles are a daunting environmental hazard"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Wed, 11 Mar 2026 09:46:59 GMT",
         "title": "Drug that prevents hot flushes to be available on NHS in England",
-        "neutral_headline": "Drug That Prevents Hot Flushes Available On NHS",
+        "neutral_headline": "New Drug Available for Hot Flushes",
         "items": [
           {
             "source": "Guardian Health",
@@ -397,19 +424,19 @@
           }
         ],
         "ai_summary": [
-          "Veoza to be offered to women on NHS",
-          "Drug prevents hot flushes in menopausal women",
-          "Suitable for women for whom HRT is unsuitable",
-          "Over 500,000 women in England to benefit",
-          "National Institute for Health approves use"
+          "Veoza drug prevents hot flushes in women",
+          "Over 500,000 women in England to receive Veoza",
+          "Drug is suitable for women who cannot take HRT",
+          "Veoza is also known as fezolinetant",
+          "NHS to offer Veoza to eligible women"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Wed, 11 Mar 2026 07:00:11 GMT",
         "title": "Expert witness in Lucy Letby trial did not reveal hospital investigation into his medical work",
-        "neutral_headline": "Expert Witness In Lucy Letby Trial Under Investigation",
+        "neutral_headline": "Expert Witness Did Not Reveal Hospital Investigation",
         "items": [
           {
             "source": "Guardian Health",
@@ -422,19 +449,19 @@
           }
         ],
         "ai_summary": [
-          "Expert witness did not reveal hospital investigation",
-          "Prof Peter Hindmarsh under investigation",
-          "Cheshire police and CPS not informed",
-          "Investigation into Hindmarsh's medical work",
-          "Concerns raised about witness credibility"
+          "Expert witness did not disclose hospital investigation",
+          "Prof Peter Hindmarsh was under investigation",
+          "Police and CPS were not informed of investigation",
+          "Hindmarsh gave evidence at Lucy Letby trial",
+          "Investigation was not revealed before trial"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Wed, 11 Mar 2026 06:24:04 GMT",
         "title": "Toxic pet flea treatment chemicals found at 'damaging' levels in rivers",
-        "neutral_headline": "Toxic Pet Flea Treatment Found In Rivers",
+        "neutral_headline": "Pet Flea Treatment Chemicals Found in Rivers",
         "items": [
           {
             "source": "BBC Science",
@@ -450,18 +477,18 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e69f/live/87a6b6d0-1d5d-11f1-b048-c9424b2cf5fd.jpg",
         "ai_summary": [
           "Pet flea treatments found in UK rivers",
-          "Scientists discover damaging levels of chemicals",
-          "Widespread presence of toxic chemicals",
-          "Further evidence of environmental pollution",
-          "Rivers across UK affected"
+          "Chemicals are at damaging levels in rivers",
+          "Scientists discover evidence of pet treatments",
+          "Widespread presence of chemicals in rivers",
+          "Rivers are affected by pet flea treatments"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Wed, 11 Mar 2026 06:11:12 GMT",
         "title": "Mother given wrong antibiotics died from sepsis",
-        "neutral_headline": "Mother Dies From Sepsis After Receiving Wrong Antibiotics",
+        "neutral_headline": "Mother Dies from Sepsis After Wrong Antibiotics",
         "items": [
           {
             "source": "BBC Health",
@@ -476,19 +503,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a2b/live/432147d0-1c97-11f1-9120-a910fc22c6ac.jpg",
         "ai_summary": [
-          "Mother given wrong antibiotics dies",
-          "Bank cashier Aleisha Rochester dies from sepsis",
-          "Died two weeks after routine procedure",
-          "Wrong antibiotics administered",
-          "Investigation into medical error"
+          "Mother given wrong antibiotics dies from sepsis",
+          "Aleisha Rochester died two weeks after procedure",
+          "Wrong antibiotics administered to mother",
+          "Mother underwent routine procedure",
+          "Sepsis caused by wrong antibiotics"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Wed, 11 Mar 2026 06:00:11 GMT",
         "title": "‘We can’t go back’: mother of six-year-old cancer survivor fears UK visa changes",
-        "neutral_headline": "Mother Fears UK Visa Changes Will Deny Daughter Cancer Treatment",
+        "neutral_headline": "Mother Fears UK Visa Changes for Cancer Survivor",
         "items": [
           {
             "source": "Guardian Health",
@@ -501,19 +528,19 @@
           }
         ],
         "ai_summary": [
-          "Mother fears daughter will be denied cancer treatment",
-          "UK visa changes cause uncertainty",
-          "Mother from west Africa faces indefinite wait",
-          "Daughter underwent life-saving chemotherapy",
-          "Family fears for daughter's health"
+          "Mother fears visa changes for cancer survivor",
+          "Six-year-old daughter underwent chemotherapy",
+          "Mother faces uncertain wait for visa decision",
+          "Daughter has rare cancer neuroblastoma",
+          "Mother fears daughter will be denied treatment"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Wed, 11 Mar 2026 00:24:19 GMT",
         "title": "Secret of hedgehog hearing discovered at far beyond human range",
-        "neutral_headline": "Hedgehogs Can Hear Beyond Human Range",
+        "neutral_headline": "Hedgehog Hearing Discovered at High Frequency",
         "items": [
           {
             "source": "BBC Science",
@@ -528,15 +555,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/907b/live/2a155290-1c83-11f1-a7bf-efb6e72f87e6.jpg",
         "ai_summary": [
-          "Researchers discover hedgehog hearing secret",
+          "Researchers discover hedgehog hearing range",
           "Hedgehogs can hear beyond human range",
-          "Played soundtrack to identify frequency",
-          "Hedgehogs can hear high frequency sounds",
-          "Discovery sheds light on hedgehog behavior"
+          "Scientists play soundtrack to hedgehogs",
+          "Hedgehogs respond to high frequency sounds",
+          "Discovery sheds light on hedgehog hearing"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Wed, 11 Mar 2026 00:11:12 GMT",
         "title": "Prioritising AI data centres could block new homes, builders warn",
@@ -555,19 +582,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38d1/live/f206da40-1c9b-11f1-8f3c-8366692412b1.jpg",
         "ai_summary": [
-          "AI data centres to get priority access to electricity",
+          "AI data centres to get priority electricity access",
           "Builders warn of potential block on new homes",
-          "Government plans to speed up development",
-          "Data centres to get priority over housing",
-          "Concerns raised about housing shortage"
+          "Government plans to speed up data centre development",
+          "Priority access may affect new home construction",
+          "Builders are concerned about electricity access"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Tue, 10 Mar 2026 22:55:55 GMT",
         "title": "Nasa spacecraft weighing 1,300lb due to re-enter Earth's atmosphere",
-        "neutral_headline": "Nasa Spacecraft To Re Enter Earth Atmosphere",
+        "neutral_headline": "Nasa Spacecraft to Re Enter Earth Atmosphere",
         "items": [
           {
             "source": "BBC Science",
@@ -582,19 +609,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e627/live/06b45bc0-1cce-11f1-940c-8d69ad1b5c3b.jpg",
         "ai_summary": [
-          "Nasa spacecraft to re-enter Earth's atmosphere",
+          "Nasa spacecraft to re-enter Earth atmosphere",
           "Van Allen Probe weighs 1,300lb",
-          "Much of spacecraft expected to burn up",
+          "Spacecraft expected to burn up in atmosphere",
           "Low risk of people being struck by debris",
-          "Spacecraft to disintegrate in atmosphere"
+          "Spacecraft will re-enter Earth atmosphere soon"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Tue, 10 Mar 2026 22:30:00 GMT",
         "title": "Wegovy users have five times greater risk of sudden sight loss than Ozempic users, study finds",
-        "neutral_headline": "Wegovy Users At Higher Risk Of Sudden Sight Loss",
+        "neutral_headline": "Wegovy Users Have Five Times Greater Risk of Sudden Sight Loss",
         "items": [
           {
             "source": "Guardian Health",
@@ -608,18 +635,18 @@
         ],
         "ai_summary": [
           "Wegovy users at higher risk of sudden sight loss",
-          "Study finds five times greater risk",
-          "Active ingredient semaglutide linked to risk",
-          "'Eye strokes' reduce blood flow to optic nerve",
-          "Patients taking Wegovy at higher risk"
+          "Study finds five times greater risk than Ozempic",
+          "Semaglutide is the active ingredient in Wegovy",
+          "Eye strokes are a potential side effect",
+          "Sudden sight loss is a concern for Wegovy users"
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Tue, 10 Mar 2026 19:39:58 GMT",
         "title": "Why air strikes on Tehran oil facilities are causing black rain",
-        "neutral_headline": "Air Strikes On Tehran Oil Facilities Cause Black Rain",
+        "neutral_headline": "Air Strikes on Tehran Oil Facilities Cause Black Rain",
         "items": [
           {
             "source": "BBC Science",
@@ -634,42 +661,17 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b08/live/e2362070-1c9c-11f1-9120-a910fc22c6ac.jpg",
         "ai_summary": [
-          "Air strikes damage Tehran oil facilities",
+          "Air strikes damage oil facilities in Tehran",
           "Black rain caused by oil facility damage",
           "At least four oil facilities damaged",
-          "Air strikes began last month",
-          "Environmental concerns raised"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Tue, 10 Mar 2026 18:41:21 GMT",
-        "title": "UK junk food ad ban so diluted it may be largely ineffective, experts say",
-        "neutral_headline": "UK Junk Food Ad Ban May Be Largely Ineffective",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/politics/2026/mar/10/uk-junk-food-ad-ban-so-diluted-it-may-be-largely-ineffective-experts-say",
-            "published_at": "Tue, 10 Mar 2026 18:41:21 GMT",
-            "title": "UK junk food ad ban so diluted it may be largely ineffective, experts say",
-            "standfirst": "Exclusive: Report suggests only 1% of annual spend on food and drink adverts will be affected after industry lobbyingThe junk food ad ban intended to curb childhood obesity will affect only 1% of the £2.4bn spent annually on advertising food and drink, and may prove a “paper tiger”, ministers have been told.The government has hailed the ban on advertising foods high in fat, salt and sugar before 9pm on TV and completely online, which came into force on 5 January, as a decisive and world-leading move that will remove 7.2bn calories from UK children’s diets every year. Continue reading...",
-            "content": "Exclusive: Report suggests only 1% of annual spend on food and drink adverts will be affected after industry lobbyingThe junk food ad ban intended to curb childhood obesity will affect only 1% of the £2.4bn spent annually on advertising food and drink, and may prove a “paper tiger”, ministers have been told.The government has hailed the ban on advertising foods high in fat, salt and sugar before 9pm on TV and completely online, which came into force on 5 January, as a decisive and world-leading move that will remove 7.2bn calories from UK children’s diets every year. Continue reading...",
-            "feed_position": 9
-          }
-        ],
-        "ai_summary": [
-          "UK junk food ad ban may not be effective",
-          "Only 1% of annual spend to be affected",
-          "Industry lobbying influences ban",
-          "Ban intended to curb childhood obesity",
-          "Experts raise concerns about ban's impact"
+          "US-Israeli attacks on Iran began last month",
+          "Air strikes have environmental consequences"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-11T23:27:04.728Z",
+    "updated_at": "2026-03-12T04:47:13.836Z",
     "clusters": []
   }
 }
