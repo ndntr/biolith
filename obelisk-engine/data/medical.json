@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-03-14T11:24:04.656Z",
+    "updated_at": "2026-03-14T19:27:35.833Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-14T11:24:19.384Z",
+    "updated_at": "2026-03-14T19:27:47.445Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -27,10 +27,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/1e5d4b49-47eb-401c-90be-ee4ee05ec911/Brainstorming-bright-ideas-and-bold-plans-RACGP-Hackathon-begins.aspx",
         "ai_summary": [
           "RACGP Hackathon brings GPs and tech experts",
-          "Event aims to solve primary care challenges",
-          "Participants work together to create solutions",
-          "Hackathon is a highly anticipated event",
-          "Solutions will benefit primary care patients"
+          "The event creates solutions to primary care",
+          "GPs work with tech experts to find solutions",
+          "The event is a collaborative effort",
+          "The goal is to improve primary care"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/c39597a2-b868-4ff9-9c20-d9e837f1a980/Health-Minister-launches-federal-pharmacy-prescribing-trial.aspx",
         "ai_summary": [
-          "Federal Government launches pharmacy trial",
-          "Trial allows pharmacy prescribed contraceptives",
-          "Concession card holders can access service",
-          "RACGP expresses concerns about the trial",
-          "Trial aims to improve access to healthcare"
+          "The Health Minister launches a trial",
+          "The trial allows pharmacy prescribed contraceptives",
+          "The trial is for concession card holders",
+          "The trial has been labeled unsafe",
+          "The trial has been met with opposition"
         ]
       },
       {
@@ -80,24 +80,74 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/dc074e81-fc20-4947-aa5f-4b5ab5705c8d/Which-uni-produces-the-most-GPs.aspx",
         "ai_summary": [
-          "Monash and James Cook universities lead",
-          "Universities trained most future GPs and RGs",
-          "New analysis reveals university rankings",
-          "Universities play a crucial role in GP training",
-          "Rankings can inform future GP training decisions"
+          "Monash and James Cook universities produce",
+          "The universities trained the most future GPs",
+          "The training is for GPs and RGs",
+          "The universities are top producers",
+          "The information is from a new analysis"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-03-14T11:24:12.745Z",
+    "updated_at": "2026-03-14T19:27:47.483Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Sat, 14 Mar 2026 15:34:29 GMT",
+        "title": "Israeli strike kills 12 healthcare workers in southern Lebanon",
+        "neutral_headline": "Israeli strike kills 12 healthcare workers",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/world/2026/mar/14/lebanon-israeli-rockets-kill-healthcare-workers",
+            "published_at": "Sat, 14 Mar 2026 15:34:29 GMT",
+            "title": "Israeli strike kills 12 healthcare workers in southern Lebanon",
+            "standfirst": "The facility was attacked on Friday night, bringing the toll of medical staff to 31 killed in past 12 daysIsrael killed 12 medical workers in a strike on a medical centre in south Lebanon on Friday night, bringing the toll of healthcare staff killed in the country by Israel to 31 over the past 12 days.A primary healthcare facility in the town of Burj Qalaouiyah was hit by an Israeli strike late on Friday, setting it ablaze and causing the structure to collapse on top of the staff inside. The strike killed doctors, paramedics and nurses on duty, according to the Lebanese ministry of health, which said it “violated all international humanitarian laws” in a statement. Continue reading...",
+            "content": "The facility was attacked on Friday night, bringing the toll of medical staff to 31 killed in past 12 daysIsrael killed 12 medical workers in a strike on a medical centre in south Lebanon on Friday night, bringing the toll of healthcare staff killed in the country by Israel to 31 over the past 12 days.A primary healthcare facility in the town of Burj Qalaouiyah was hit by an Israeli strike late on Friday, setting it ablaze and causing the structure to collapse on top of the staff inside. The strike killed doctors, paramedics and nurses on duty, according to the Lebanese ministry of health, which said it “violated all international humanitarian laws” in a statement. Continue reading...",
+            "feed_position": 1
+          }
+        ],
+        "ai_summary": [
+          "Israeli strike kills 12 healthcare workers",
+          "The strike was on a medical centre",
+          "The centre was in southern Lebanon",
+          "The strike killed doctors and nurses",
+          "The attack has been condemned"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Sat, 14 Mar 2026 12:00:19 GMT",
+        "title": "Fetuses likely have more ‘forever chemicals’ in blood than thought – report",
+        "neutral_headline": "Fetuses likely have more ‘forever chemicals’",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/mar/14/fetuses-pfas-forever-chemicals",
+            "published_at": "Sat, 14 Mar 2026 12:00:19 GMT",
+            "title": "Fetuses likely have more ‘forever chemicals’ in blood than thought – report",
+            "standfirst": "US test of 120 umbilical blood cord samples identified 42 Pfas compounds, which do not naturally break downSign up for the Breaking News US email to get newsletter alerts in your inboxNew peer-reviewed research shows fetuses likely have much higher levels of Pfas “forever chemicals” in their blood than previously thought.Testing of umbilical cord blood typically looks for a small number of common Pfas compounds, like Pfoa and Pfos. However, thousands of Pfas exist, and a new Mount Sinai study tested 120 umbilical blood cord samples that were previously found to contain up to four compounds. Continue reading...",
+            "content": "US test of 120 umbilical blood cord samples identified 42 Pfas compounds, which do not naturally break downSign up for the Breaking News US email to get newsletter alerts in your inboxNew peer-reviewed research shows fetuses likely have much higher levels of Pfas “forever chemicals” in their blood than previously thought.Testing of umbilical cord blood typically looks for a small number of common Pfas compounds, like Pfoa and Pfos. However, thousands of Pfas exist, and a new Mount Sinai study tested 120 umbilical blood cord samples that were previously found to contain up to four compounds. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "Fetuses have high levels of forever chemicals",
+          "The chemicals are found in umbilical cord blood",
+          "The levels are higher than previously thought",
+          "The chemicals do not break down naturally",
+          "The findings are from a new study"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
         "updated_at": "Sat, 14 Mar 2026 11:00:18 GMT",
         "title": "New study raises concerns about AI chatbots fueling delusional thinking",
-        "neutral_headline": "AI chatbots may fuel delusional thinking in vulnerable people",
+        "neutral_headline": "New study raises concerns about AI chatbots",
         "items": [
           {
             "source": "Guardian Health",
@@ -106,23 +156,23 @@
             "title": "New study raises concerns about AI chatbots fueling delusional thinking",
             "standfirst": "First major study on ‘AI psychosis’ suggests chatbots can encourage delusions among vulnerable peopleA new scientific review raises concerns about how chatbots powered by artificial intelligence may encourage delusional thinking, especially in vulnerable people.A summary of existing evidence on artificial intelligence-induced psychosis was published last week in the Lancet Psychiatry, highlighting how chatbots can encourage delusional thinking – though possibly only in people who are already vulnerable to psychotic symptoms. The authors advocate for clinical testing of AI chatbots in conjunction with trained mental health professionals. Continue reading...",
             "content": "First major study on ‘AI psychosis’ suggests chatbots can encourage delusions among vulnerable peopleA new scientific review raises concerns about how chatbots powered by artificial intelligence may encourage delusional thinking, especially in vulnerable people.A summary of existing evidence on artificial intelligence-induced psychosis was published last week in the Lancet Psychiatry, highlighting how chatbots can encourage delusional thinking – though possibly only in people who are already vulnerable to psychotic symptoms. The authors advocate for clinical testing of AI chatbots in conjunction with trained mental health professionals. Continue reading...",
-            "feed_position": 0
+            "feed_position": 2
           }
         ],
         "ai_summary": [
-          "AI chatbots can encourage delusional thinking",
-          "Vulnerable people are at higher risk",
-          "Chatbots can mimic human conversation",
-          "Clinical testing is being advocated",
-          "Mental health professionals are involved"
+          "AI chatbots may fuel delusional thinking",
+          "The chatbots can encourage delusions",
+          "The study is the first of its kind",
+          "The findings are concerning",
+          "The study suggests clinical testing"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 14 Mar 2026 10:00:15 GMT",
         "title": "This doctor treated migrants’ severe injuries at the US-Mexico wall: ‘Political decisions made it as violent as possible’",
-        "neutral_headline": "Doctor treats migrants injured at US Mexico border",
+        "neutral_headline": "This doctor treated migrants’ severe injuries",
         "items": [
           {
             "source": "Guardian Health",
@@ -131,23 +181,23 @@
             "title": "This doctor treated migrants’ severe injuries at the US-Mexico wall: ‘Political decisions made it as violent as possible’",
             "standfirst": "Dr Brian Elmore witnessed a public health crisis unfold at the border near El Paso. He reflects on why it was like a ‘perverse Groundhog Day’In late spring 2024, Dr Brian Elmore was working out of a mobile clinic, providing medical treatment to migrants in Ciudad Juárez, just south of the US-Mexico border wall. One of his patients, a Venezuelan man with a fractured arm and a detached left chest from his sternum and clavicle, told Elmore that Mexican immigration officials broke his arm when he first got to town, and that rubber bullets fired by Texas national guardsmen had caused his chest injuries.The man somehow had managed to fashion a shoddily made splint for his arm, but his chest would require surgery. When an ambulance arrived, the criminal group that controlled the riverine area refused to let him leave. The Texas guardsmen looked on from the US side of the river. “It was heartbreaking,” Elmore said of the spectacle. Continue reading...",
             "content": "Dr Brian Elmore witnessed a public health crisis unfold at the border near El Paso. He reflects on why it was like a ‘perverse Groundhog Day’In late spring 2024, Dr Brian Elmore was working out of a mobile clinic, providing medical treatment to migrants in Ciudad Juárez, just south of the US-Mexico border wall. One of his patients, a Venezuelan man with a fractured arm and a detached left chest from his sternum and clavicle, told Elmore that Mexican immigration officials broke his arm when he first got to town, and that rubber bullets fired by Texas national guardsmen had caused his chest injuries.The man somehow had managed to fashion a shoddily made splint for his arm, but his chest would require surgery. When an ambulance arrived, the criminal group that controlled the riverine area refused to let him leave. The Texas guardsmen looked on from the US side of the river. “It was heartbreaking,” Elmore said of the spectacle. Continue reading...",
-            "feed_position": 1
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "Doctor Brian Elmore treated migrants at the border",
-          "Migrants suffered severe injuries from violence",
-          "A Venezuelan man had a fractured arm",
-          "Rubber bullets caused chest injuries",
-          "Medical treatment was provided in a mobile clinic"
+          "A doctor treated migrants at the US-Mexico border",
+          "The migrants had severe injuries",
+          "The injuries were caused by violence",
+          "The doctor witnessed a public health crisis",
+          "The crisis was due to political decisions"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sat, 14 Mar 2026 09:28:22 GMT",
         "title": "Former dairy farm could become peat research centre",
-        "neutral_headline": "Former dairy farm may become peat research centre",
+        "neutral_headline": "Former dairy farm to become peat research centre",
         "items": [
           {
             "source": "BBC Science",
@@ -163,18 +213,18 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b25/live/3bac4f30-1f7c-11f1-9120-a910fc22c6ac.jpg",
         "ai_summary": [
           "Honeygar Farm has deep lowland peatland",
-          "The farm is one of the few areas in the UK",
-          "Peat research centre is being considered",
-          "The farm has unique environmental features",
-          "Scientists are interested in the peatland"
+          "Peat research centre to be established",
+          "UK has few areas with deep peatland",
+          "Farm is one of the last remaining areas",
+          "Research to focus on peat conservation"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sat, 14 Mar 2026 07:23:02 GMT",
         "title": "How reintroducing beavers is changing our landscape",
-        "neutral_headline": "Reintroducing beavers changes the landscape",
+        "neutral_headline": "Beavers reintroduced to change landscape",
         "items": [
           {
             "source": "BBC Science",
@@ -189,19 +239,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad3d/live/1bd8e7b0-193f-11f1-aa25-55dd10ec078f.png",
         "ai_summary": [
-          "Four pairs of beavers were released",
-          "Beavers were released into the Par river",
-          "The beavers are changing the landscape",
-          "Beavers are ecosystem engineers",
-          "The release is part of a conservation effort"
+          "Four pairs of beavers released into river",
+          "Beavers to change Par and Fowey river catchment",
+          "Release occurred in February",
+          "Beavers to create new habitats",
+          "Ecosystem to be altered by beavers"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sat, 14 Mar 2026 07:19:55 GMT",
         "title": "'Carnage' unleashed on sleeping town when river hit 18-times normal level",
-        "neutral_headline": "Storm Claudia causes damage to town",
+        "neutral_headline": "Storm Claudia causes river flooding",
         "items": [
           {
             "source": "BBC Science",
@@ -216,19 +266,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd02/live/a6549c90-1f25-11f1-b048-c9424b2cf5fd.jpg",
         "ai_summary": [
-          "Storm Claudia hit the town of Monmouth",
-          "The river reached 18 times its normal level",
-          "Residents are still living with the damage",
-          "The storm caused significant destruction",
-          "The town is recovering from the disaster"
+          "Storm Claudia hit Monmouth town",
+          "River level reached 18 times normal level",
+          "Residents still living with flood damage",
+          "Town experienced significant flooding",
+          "Floods caused widespread destruction"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 19:09:48 GMT",
         "title": "Austrian glaciers disintegrating due to climate change, say scientists",
-        "neutral_headline": "Austrian glaciers are disintegrating",
+        "neutral_headline": "Austrian glaciers disintegrate due climate",
         "items": [
           {
             "source": "BBC Science",
@@ -243,19 +293,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e386/live/a4275090-1f0a-11f1-87bd-bb650a6d53bc.jpg",
         "ai_summary": [
-          "Austrian glaciers are shrinking due to climate",
-          "Scientists say the glaciers are disintegrating",
-          "The Alps have significant glacier loss",
-          "Climate change is the main cause",
-          "Glaciers are important for the ecosystem"
+          "Austrian Alps glaciers have shrunk significantly",
+          "Climate change causes glacier disintegration",
+          "Scientists study glacier melting",
+          "Glaciers in Austrian Alps are disappearing",
+          "Climate change affects glacier size"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 17:32:26 GMT",
         "title": "Casey’s review of adult social care offers hope | Letters",
-        "neutral_headline": "Casey’s review of adult social care offers hope",
+        "neutral_headline": "Casey’s review of adult social care offers hope | Letters",
         "items": [
           {
             "source": "Guardian Health",
@@ -264,23 +314,23 @@
             "title": "Casey’s review of adult social care offers hope | Letters",
             "standfirst": "Readers respond to Polly Toynbee’s article praising Louise Casey’s speech on social care fundingLouise Casey may have the power of words behind her (The blistering speech that tells me Britain’s social care deadlock can finally be broken, 10 March), but what she’s uncovered is a truth that local authorities have been voicing for years: the national care service will fail unless ministers stabilise the local systems that underpin it.Key Cities (a cross-party network of UK local authorities) has long been calling for an urgent funding reset for the social care system. And while the Casey commission’s reforms are welcome, what’s still missing is the transition plan to enable councils to make this happen. A key part of the government’s NHS 10‑year plan must be a significant expansion of joint commissioning, across regional and national scales. This collaboration will finally end the costly push‑pull between those who fund and those who deliver care and, vitally, lay the foundations for effective transformation from local to national provision. Continue reading...",
             "content": "Readers respond to Polly Toynbee’s article praising Louise Casey’s speech on social care fundingLouise Casey may have the power of words behind her (The blistering speech that tells me Britain’s social care deadlock can finally be broken, 10 March), but what she’s uncovered is a truth that local authorities have been voicing for years: the national care service will fail unless ministers stabilise the local systems that underpin it.Key Cities (a cross-party network of UK local authorities) has long been calling for an urgent funding reset for the social care system. And while the Casey commission’s reforms are welcome, what’s still missing is the transition plan to enable councils to make this happen. A key part of the government’s NHS 10‑year plan must be a significant expansion of joint commissioning, across regional and national scales. This collaboration will finally end the costly push‑pull between those who fund and those who deliver care and, vitally, lay the foundations for effective transformation from local to national provision. Continue reading...",
-            "feed_position": 2
+            "feed_position": 4
           }
         ],
         "ai_summary": [
-          "Louise Casey reviewed adult social care",
-          "The review offers hope for social care funding",
-          "Local authorities have been calling for funding",
-          "The government needs to stabilise the system",
-          "A transition plan is necessary for reform"
+          "Louise Casey reviews adult social care",
+          "Social care system needs funding reset",
+          "Local authorities call for urgent funding",
+          "National care service may fail without support",
+          "Joint commissioning to improve care delivery"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 16:53:09 GMT",
         "title": "Woman found out she had terminal brain cancer after suitcase fell on her head",
-        "neutral_headline": "Woman discovers terminal brain cancer",
+        "neutral_headline": "Woman diagnosed with brain cancer",
         "items": [
           {
             "source": "BBC Health",
@@ -295,15 +345,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d51d/live/ac5bb620-1e29-11f1-b048-c9424b2cf5fd.jpg",
         "ai_summary": [
-          "Lauren Macpherson found out she had cancer",
-          "A suitcase fell on her head",
-          "She was travelling home from a festival",
-          "The incident led to a medical diagnosis",
-          "Macpherson is living with terminal cancer"
+          "Lauren Macpherson diagnosed with cancer",
+          "Suitcase fell on her head causing injury",
+          "Macpherson travelling home from festival",
+          "Brain cancer diagnosis life changing",
+          "Incident occurred in London"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 16:37:42 GMT",
         "title": "Oil giant forced to pay £6m after major spill",
@@ -322,19 +372,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f50/live/5e691a90-1ee0-11f1-a54d-ddcb0c2f34df.jpg",
         "ai_summary": [
-          "Perenco paid 6 million pounds for a spill",
-          "A major incident was declared",
-          "The spill occurred at a pipeline",
-          "The company is responsible for the spill",
-          "Environmental damage was caused"
+          "Perenco pipeline leak caused major incident",
+          "Oil giant forced to pay 6 million pounds",
+          "Leak occurred at gas company pipeline",
+          "Environmental damage from oil spill",
+          "Company fined for environmental harm"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 13:46:22 GMT",
         "title": "3G pitch given approval despite pollution fears",
-        "neutral_headline": "3G pitch approved despite pollution concerns",
+        "neutral_headline": "3G pitch approved despite pollution fears",
         "items": [
           {
             "source": "BBC Science",
@@ -349,19 +399,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecdf/live/0c768d70-fe20-11f0-a8b8-bdd2c5f9bcad.png",
         "ai_summary": [
-          "A 3G pitch was approved for construction",
-          "There are concerns about microplastics pollution",
-          "The council says the plans follow guidance",
-          "A charity is worried about the environment",
-          "The pitch will be built despite concerns"
+          "Charity worried about microplastics pollution",
+          "Council says plans follow environmental guidance",
+          "3G pitch to be built despite concerns",
+          "Microplastics may affect local environment",
+          "Environmental impact of 3G pitch assessed"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 12:42:20 GMT",
         "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
-        "neutral_headline": "Nasa Moon mission launch scheduled",
+        "neutral_headline": "Nasa Moon mission to launch soon",
         "items": [
           {
             "source": "BBC Science",
@@ -376,19 +426,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a00/live/e35f0660-ed44-11f0-8cc8-8329494b82ad.png",
         "ai_summary": [
-          "The Nasa Moon mission will launch soon",
-          "The mission is the first crewed launch",
-          "The launch is scheduled for February",
-          "The crew includes experienced astronauts",
-          "The mission is part of a lunar landing plan"
+          "Nasa Moon mission to launch in February",
+          "Artemis II crew to embark on mission",
+          "First crewed Moon mission in 50 years",
+          "Mission to prepare for lunar landing",
+          "Nasa to launch historic Moon mission"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 12:00:48 GMT",
         "title": "Trump policies set to increase rates of lung disease and death, study finds",
-        "neutral_headline": "Trump policies set to increase lung disease",
+        "neutral_headline": "Trump policies set to increase rates of lung disease and death, study finds",
         "items": [
           {
             "source": "Guardian Health",
@@ -397,19 +447,19 @@
             "title": "Trump policies set to increase rates of lung disease and death, study finds",
             "standfirst": "Experts warn of ‘attack on Americans’ lungs’ from cuts to health programs, environmental rollbacks and other plansDonald Trump’s policies are likely to drive soaring rates of lung disease and premature death, according to a wide-ranging new study by pulmonary specialists and public health experts.The analysis, published in the American Journal of Respiratory and Critical Care Medicine, examines policies adopted during Trump’s second term across 10 areas, including healthcare access, environmental regulation, workplace protections and vaccine uptake. Continue reading...",
             "content": "Experts warn of ‘attack on Americans’ lungs’ from cuts to health programs, environmental rollbacks and other plansDonald Trump’s policies are likely to drive soaring rates of lung disease and premature death, according to a wide-ranging new study by pulmonary specialists and public health experts.The analysis, published in the American Journal of Respiratory and Critical Care Medicine, examines policies adopted during Trump’s second term across 10 areas, including healthcare access, environmental regulation, workplace protections and vaccine uptake. Continue reading...",
-            "feed_position": 3
+            "feed_position": 5
           }
         ],
         "ai_summary": [
-          "Trump policies may increase lung disease",
-          "Experts warn of an attack on Americans lungs",
-          "The policies include healthcare access cuts",
-          "Environmental rollbacks are also included",
-          "The changes may lead to premature death"
+          "Trump policies to increase lung disease rates",
+          "Study examines policies affecting healthcare",
+          "Environmental rollbacks to harm health",
+          "Cuts to health programs to affect Americans",
+          "Policies to drive premature death rates"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 11:14:05 GMT",
         "title": "Out of the blue? How the colour of light could be used to treat mental illness",
@@ -422,19 +472,19 @@
             "title": "Out of the blue? How the colour of light could be used to treat mental illness",
             "standfirst": "A psychiatric unit in Norway has been testing its built-in lighting on conditions such as psychosis and depressionAt first glance, the psychiatric ward in Trondheim looks much like any other unit caring for patients in acute mental distress. But as evening falls, filters descend over the windows, and the lights shift to a soft amber glow. By removing blue wavelengths that interfere with the body’s internal clock, doctors here are testing an unusual idea: that the design of the ward itself could become a form of treatment.Light is the main signal regulating the body’s circadian rhythm – the roughly 24-hour biological clock that governs sleep and many other bodily processes. Mounting evidence links circadian disruption to conditions including depression, cardiovascular disease and dementia, and disturbed sleep-wake cycles are a long-recognised feature of mental illness, particularly bipolar disorder. Continue reading...",
             "content": "A psychiatric unit in Norway has been testing its built-in lighting on conditions such as psychosis and depressionAt first glance, the psychiatric ward in Trondheim looks much like any other unit caring for patients in acute mental distress. But as evening falls, filters descend over the windows, and the lights shift to a soft amber glow. By removing blue wavelengths that interfere with the body’s internal clock, doctors here are testing an unusual idea: that the design of the ward itself could become a form of treatment.Light is the main signal regulating the body’s circadian rhythm – the roughly 24-hour biological clock that governs sleep and many other bodily processes. Mounting evidence links circadian disruption to conditions including depression, cardiovascular disease and dementia, and disturbed sleep-wake cycles are a long-recognised feature of mental illness, particularly bipolar disorder. Continue reading...",
-            "feed_position": 4
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "A psychiatric unit is testing light therapy",
-          "The therapy uses soft amber glow lighting",
-          "The lighting removes blue wavelengths",
-          "The therapy is being used for psychosis",
-          "The unit is in Norway and is showing promise"
+          "Psychiatric unit tests lighting on patients",
+          "Blue light filters to regulate circadian rhythm",
+          "Soft amber glow to aid mental health",
+          "Lighting design to become treatment form",
+          "Circadian disruption linked to mental illness"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 10:56:07 GMT",
         "title": "'My hotel bill is £12,000': British holidaymakers stranded by Iran war",
@@ -453,19 +503,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6c8/live/da28eb80-1e39-11f1-9120-a910fc22c6ac.jpg",
         "ai_summary": [
-          "British holidaymakers are stuck in Iran",
-          "Flights are restricted due to conflict",
-          "Hotel bills are running up to 12000 pounds",
-          "The holidaymakers are running out of money",
-          "The conflict is causing travel disruptions"
+          "Flights restricted due to Iran war conflict",
+          "Holidaymakers stuck in Iran running up bills",
+          "People stranded in hotels with no flights",
+          "Conflict affects travel plans",
+          "Holidaymakers face financial difficulties"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 09:10:53 GMT",
         "title": "AI toys for children misread emotions and respond inappropriately, researchers warn",
-        "neutral_headline": "AI toys misread childrens emotions",
+        "neutral_headline": "AI toys misread children's emotions",
         "items": [
           {
             "source": "BBC Health",
@@ -480,19 +530,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb66/live/c3116580-1e20-11f1-8c74-957f793ca681.jpg",
         "ai_summary": [
-          "AI toys can misread childrens emotions",
-          "The toys respond inappropriately sometimes",
-          "Researchers warn about the toys limitations",
-          "The toys are not perfect and can make mistakes",
-          "The study is the first of its kind on AI toys"
+          "AI toys respond inappropriately to emotions",
+          "Cambridge researchers study AI toy responses",
+          "AI toys may misread children's feelings",
+          "Inappropriate responses to emotional cues",
+          "Study examines AI toy limitations"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 09:00:45 GMT",
         "title": "Patients face long journeys for medicines as pharmacies cut weekend hours",
-        "neutral_headline": "Pharmacies Cut Weekend Hours In England",
+        "neutral_headline": "Pharmacies cut weekend hours affecting patients",
         "items": [
           {
             "source": "Guardian Health",
@@ -501,23 +551,23 @@
             "title": "Patients face long journeys for medicines as pharmacies cut weekend hours",
             "standfirst": "More than 20% of weekend availability lost in England since 2022, forcing some to turn to A&E, says national associationPeople who need to obtain medication at the weekend are having to undertake long trips because more pharmacies are cutting their opening hours on Saturdays and Sundays.One in six pharmacies in England have reduced their hours at weekends since 2022, with some shutting altogether, as a result of “unsustainable” pressures on their budgets. Continue reading...",
             "content": "More than 20% of weekend availability lost in England since 2022, forcing some to turn to A&E, says national associationPeople who need to obtain medication at the weekend are having to undertake long trips because more pharmacies are cutting their opening hours on Saturdays and Sundays.One in six pharmacies in England have reduced their hours at weekends since 2022, with some shutting altogether, as a result of “unsustainable” pressures on their budgets. Continue reading...",
-            "feed_position": 5
+            "feed_position": 7
           }
         ],
         "ai_summary": [
-          "Over 20% of weekend pharmacy hours lost since 2022",
-          "One in six pharmacies reduced weekend hours",
-          "Some pharmacies shut altogether on weekends",
-          "Patients forced to travel for medication",
-          "A&E visits increase due to pharmacy closures"
+          "Pharmacies reduce weekend opening hours",
+          "Patients face long journeys for medication",
+          "One in six pharmacies cut hours since 2022",
+          "Weekend availability lost in England",
+          "Patients forced to visit A&E for medication"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 09:00:44 GMT",
         "title": "‘Massive boost of serotonin!’: How a dose of nature is treating mental illness",
-        "neutral_headline": "Massive boost of serotonin from nature",
+        "neutral_headline": "Nature used to treat mental illness",
         "items": [
           {
             "source": "Guardian Health",
@@ -526,23 +576,23 @@
             "title": "‘Massive boost of serotonin!’: How a dose of nature is treating mental illness",
             "standfirst": "A project in London is helping hundreds of people, providing a genuine alternative to traditional treatments“What you’ve got there from the sun on your face is a massive boost of serotonin!” says Alison Greenwood, founder of Dose of Nature, the charity successfully prescribing time outside as a treatment for mental health.Greenwood is striding round Pensford Field, a tiny patch of wildness tucked behind houses in south-west London. The bright day is illuminating the early blackthorn blossom, gleaming off the pond where a heron watches tiny froglets and shadows of birch trees on a wood-chip path. “All these trees and plants are giving off phytoncides, and they’re good for your immune system too,” the former NHS psychologist says. Continue reading...",
             "content": "A project in London is helping hundreds of people, providing a genuine alternative to traditional treatments“What you’ve got there from the sun on your face is a massive boost of serotonin!” says Alison Greenwood, founder of Dose of Nature, the charity successfully prescribing time outside as a treatment for mental health.Greenwood is striding round Pensford Field, a tiny patch of wildness tucked behind houses in south-west London. The bright day is illuminating the early blackthorn blossom, gleaming off the pond where a heron watches tiny froglets and shadows of birch trees on a wood-chip path. “All these trees and plants are giving off phytoncides, and they’re good for your immune system too,” the former NHS psychologist says. Continue reading...",
-            "feed_position": 6
+            "feed_position": 8
           }
         ],
         "ai_summary": [
-          "Dose of Nature charity prescribes outdoor time",
-          "Project helps hundreds with mental health",
-          "Nature provides serotonin and phytoncides",
-          "Outdoor activities aid immune system",
-          "Charity offers alternative to traditional treatments"
+          "Dose of Nature project helps mental health",
+          "Time outside prescribed as treatment",
+          "Charity provides alternative to traditional care",
+          "Nature boosts serotonin levels",
+          "Project helps hundreds of people with mental health"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Fri, 13 Mar 2026 06:22:13 GMT",
         "title": "Woman with rare blood feels 'honoured' to donate",
-        "neutral_headline": "Woman with rare blood feels honoured to donate",
+        "neutral_headline": "Woman donates rare blood type",
         "items": [
           {
             "source": "BBC Health",
@@ -558,70 +608,16 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f55b/live/8dcfcbc0-1edc-11f1-b048-c9424b2cf5fd.jpg",
         "ai_summary": [
           "Woman has extremely rare blood type",
-          "Her blood is frozen for up to three decades",
-          "Donation helps patients with rare conditions",
-          "Woman feels special about her donation",
-          "Rare blood types are highly valued"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Thu, 12 Mar 2026 21:21:11 GMT",
-        "title": "Artemis II: Nasa targets early April for Moon mission",
-        "neutral_headline": "Nasa Targets Early April For Moon Mission",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c4g8qp42rq6o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 12 Mar 2026 21:21:11 GMT",
-            "title": "Artemis II: Nasa targets early April for Moon mission",
-            "standfirst": "Nasa says technical problems that have delayed the rocket are fixed and it is ready for launch.",
-            "content": "Nasa says technical problems that have delayed the rocket are fixed and it is ready for launch.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0242/live/f5220620-1ece-11f1-801d-ed3cff6bf876.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0242/live/f5220620-1ece-11f1-801d-ed3cff6bf876.jpg",
-        "ai_summary": [
-          "Nasa fixes technical problems with rocket",
-          "Artemis II mission ready for launch",
-          "Early April launch window targeted",
-          "Mission aims to send humans to Moon",
-          "Technical issues delayed previous launch"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 12 Mar 2026 21:00:00 GMT",
-        "title": "BBC Inside Science",
-        "neutral_headline": "BBC Inside Science New Research On Climate Change",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/sounds/play/w3ct8ty3?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 12 Mar 2026 21:00:00 GMT",
-            "title": "BBC Inside Science",
-            "standfirst": "New research on what three very hot years can tell us about climate change.",
-            "content": "New research on what three very hot years can tell us about climate change.",
-            "feed_position": 31,
-            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
-        "ai_summary": [
-          "Research analyzes three very hot years",
-          "Study provides insights into climate change",
-          "Data helps understand global temperature",
-          "Scientists examine extreme weather patterns",
-          "Research informs climate change mitigation strategies"
+          "Blood is frozen for up to thirty years",
+          "Donation feels very special to her",
+          "Rare blood type is highly valued",
+          "Woman feels honoured to donate blood"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-14T11:24:19.384Z",
+    "updated_at": "2026-03-14T19:27:47.483Z",
     "clusters": []
   }
 }
