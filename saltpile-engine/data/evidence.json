@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-03-14T23:36:48.111Z",
+  "updated_at": "2026-03-15T23:37:52.823Z",
   "articles": [
+    {
+      "id": "d1196a9c1c18",
+      "title": "Initial Vancomycin Taper for the Prevention of Recurrent Clostridioides difficile Infection: A Randomized Clinical Trial.",
+      "journal": "JAMA Netw Open",
+      "score": "6/7",
+      "tags": [
+        "Infectious Disease"
+      ],
+      "evidenceAlertsUrl": "https://plus.mcmaster.ca/EvidenceAlerts/LFE/Article/ce4e8711-d28c-49a6-8652-021a3edd4e7e/50360987/118981",
+      "abstract": "Clostridioides difficile infection (CDI) is associated with substantial morbidity and mortality, and recurrent CDI (rCDI) is common. To determine whether a 4-week vancomycin pulse and taper regimen would be superior to a standard 2-week vancomycin pulse regimen in terms of recurrence. This parallel-design, double-blind clinical trial was performed at 12 Canadian hospitals. Adults with a first episode or first recurrence of CDI were eligible to participate. Patients needed to have clinical CDI with laboratory confirmation and to have improved by day 10 of treatment. Recruitment began November 19, 2020, and all follow-up was completed by October 4, 2024. All patients received a 2-week pulse of vancomycin (standardized at 125 mg orally 4 times a day at the time of recruitment) and were then randomized to receive either vancomycin taper (125 mg orally twice a day for 7 days and then 125 mg once a day for 7 days) or an equivalent schedule of placebo capsules. The primary outcome was the posterior probability of superiority of the vancomycin pulse and taper regimen to prevent rCDI at day 56. A secondary outcome was recurrence at day 38. Binary outcomes were analyzed using a bayesian generalized linear model with minimally informative priors yielding log relative risk (RR) with 95% bayesian credible intervals (CrIs). The trial was stopped early due to feasibility of recruitment. Among 265 participants (135 in the intervention group and 130 in the control group; median age, 63 [IQR 47-74] years; 138 [52.1%] women), recurrence at day 56 occurred in 20 of 135 patients (14.8%) in the vancomycin pulse and taper group compared with 23 of 130 (17.7%) in the vancomycin pulse group (adjusted RR, 0.84 [95% CrI, 0.48-1.45]; posterior probability of superiority, 73.8%). Recurrence at day 38 occurred in 9 of 135 patients (6.7%) in the vancomycin pulse and taper group compared with 20 of 130 (15.4%) in the vancomycin pulse group (adjusted RR, 0.43 [95% CrI, 0.19-0.89]; posterior probability of superiority, 99.0%). Adverse effects were rare in both groups. In this randomized clinical trial, a 4-week vancomycin pulse and taper regimen had a probability of 73.8% to be superior to a 2-week pulse regimen. This approach may represent a safe and accessible treatment option to delay or prevent early CDI recurrence. ClinicalTrials.gov Identifier: NCT04138706.",
+      "structuredAbstract": [
+        {
+          "label": "IMPORTANCE",
+          "text": "Clostridioides difficile infection (CDI) is associated with substantial morbidity and mortality, and recurrent CDI (rCDI) is common."
+        },
+        {
+          "label": "OBJECTIVE",
+          "text": "To determine whether a 4-week vancomycin pulse and taper regimen would be superior to a standard 2-week vancomycin pulse regimen in terms of recurrence."
+        },
+        {
+          "label": "DESIGN, SETTING, AND PARTICIPANTS",
+          "text": "This parallel-design, double-blind clinical trial was performed at 12 Canadian hospitals. Adults with a first episode or first recurrence of CDI were eligible to participate. Patients needed to have clinical CDI with laboratory confirmation and to have improved by day 10 of treatment. Recruitment began November 19, 2020, and all follow-up was completed by October 4, 2024."
+        },
+        {
+          "label": "INTERVENTION",
+          "text": "All patients received a 2-week pulse of vancomycin (standardized at 125 mg orally 4 times a day at the time of recruitment) and were then randomized to receive either vancomycin taper (125 mg orally twice a day for 7 days and then 125 mg once a day for 7 days) or an equivalent schedule of placebo capsules."
+        },
+        {
+          "label": "MAIN OUTCOMES AND MEASURES",
+          "text": "The primary outcome was the posterior probability of superiority of the vancomycin pulse and taper regimen to prevent rCDI at day 56. A secondary outcome was recurrence at day 38. Binary outcomes were analyzed using a bayesian generalized linear model with minimally informative priors yielding log relative risk (RR) with 95% bayesian credible intervals (CrIs)."
+        },
+        {
+          "label": "RESULTS",
+          "text": "The trial was stopped early due to feasibility of recruitment. Among 265 participants (135 in the intervention group and 130 in the control group; median age, 63 [IQR 47-74] years; 138 [52.1%] women), recurrence at day 56 occurred in 20 of 135 patients (14.8%) in the vancomycin pulse and taper group compared with 23 of 130 (17.7%) in the vancomycin pulse group (adjusted RR, 0.84 [95% CrI, 0.48-1.45]; posterior probability of superiority, 73.8%). Recurrence at day 38 occurred in 9 of 135 patients (6.7%) in the vancomycin pulse and taper group compared with 20 of 130 (15.4%) in the vancomycin pulse group (adjusted RR, 0.43 [95% CrI, 0.19-0.89]; posterior probability of superiority, 99.0%). Adverse effects were rare in both groups."
+        },
+        {
+          "label": "CONCLUSIONS AND RELEVANCE",
+          "text": "In this randomized clinical trial, a 4-week vancomycin pulse and taper regimen had a probability of 73.8% to be superior to a 2-week pulse regimen. This approach may represent a safe and accessible treatment option to delay or prevent early CDI recurrence."
+        },
+        {
+          "label": "TRIAL REGISTRATION",
+          "text": "ClinicalTrials.gov Identifier: NCT04138706."
+        }
+      ],
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41758514/",
+      "pubDate": "2026 Feb 02",
+      "doi": "10.1001/jamanetworkopen.2025.60495",
+      "dateReceived": "2026-03-15T23:37:38.055Z",
+      "isNew": true
+    },
     {
       "id": "ada4078e4657",
       "title": "Melatonin or ramelteon for the prevention of postoperative delirium in elderly patients: A systematic review and meta-analysis of randomized clinical trials.",
@@ -33,7 +83,7 @@
       "pubDate": "2026 Mar",
       "doi": "10.1016/j.jclinane.2026.112151",
       "dateReceived": "2026-03-14T23:36:31.525Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d287dbc687d8",
@@ -72,7 +122,7 @@
       "pubDate": "2026 Feb 26",
       "doi": "10.1016/S0140-6736(26)00202-3",
       "dateReceived": "2026-03-14T23:36:31.525Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e5168cf059f3",
@@ -112,7 +162,7 @@
       "pubDate": "2026 Mar 07",
       "doi": "10.1016/S0140-6736(25)02549-8",
       "dateReceived": "2026-03-14T23:36:31.524Z",
-      "isNew": true,
+      "isNew": false,
       "summary": "Baxdro."
     },
     {
@@ -131,7 +181,7 @@
       "pubDate": "2026 Feb 16",
       "doi": "10.1055/a-2806-3484",
       "dateReceived": "2026-03-13T23:37:00.415Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "077ea4919a96",
@@ -182,7 +232,7 @@
       "pubDate": "2026 Feb 16",
       "doi": "10.1001/jamaneurol.2025.5614",
       "dateReceived": "2026-03-13T23:37:00.415Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "56fe78b6a7e9",
@@ -248,7 +298,7 @@
       "pubDate": "2026 Feb 11",
       "doi": "10.1002/14651858.CD009733.pub4",
       "dateReceived": "2026-03-13T23:37:00.415Z",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6a2e0964188a",
@@ -284,7 +334,7 @@
       "pubDate": "2026 Mar 05",
       "doi": "10.1056/NEJMoa2512854",
       "dateReceived": "2026-03-13T23:37:00.414Z",
-      "isNew": true,
+      "isNew": false,
       "summary": "F."
     },
     {
@@ -1346,57 +1396,6 @@
       "doi": "10.7326/ANNALS-25-05485",
       "dateReceived": "2026-03-09T23:36:28.125Z",
       "isNew": false
-    },
-    {
-      "id": "d1196a9c1c18",
-      "title": "Initial Vancomycin Taper for the Prevention of Recurrent Clostridioides difficile Infection: A Randomized Clinical Trial.",
-      "journal": "JAMA Netw Open",
-      "score": "6/7",
-      "tags": [
-        "Infectious Disease"
-      ],
-      "evidenceAlertsUrl": "https://plus.mcmaster.ca/EvidenceAlerts/LFE/Article/ce4e8711-d28c-49a6-8652-021a3edd4e7e/50360987/118981",
-      "abstract": "Clostridioides difficile infection (CDI) is associated with substantial morbidity and mortality, and recurrent CDI (rCDI) is common. To determine whether a 4-week vancomycin pulse and taper regimen would be superior to a standard 2-week vancomycin pulse regimen in terms of recurrence. This parallel-design, double-blind clinical trial was performed at 12 Canadian hospitals. Adults with a first episode or first recurrence of CDI were eligible to participate. Patients needed to have clinical CDI with laboratory confirmation and to have improved by day 10 of treatment. Recruitment began November 19, 2020, and all follow-up was completed by October 4, 2024. All patients received a 2-week pulse of vancomycin (standardized at 125 mg orally 4 times a day at the time of recruitment) and were then randomized to receive either vancomycin taper (125 mg orally twice a day for 7 days and then 125 mg once a day for 7 days) or an equivalent schedule of placebo capsules. The primary outcome was the posterior probability of superiority of the vancomycin pulse and taper regimen to prevent rCDI at day 56. A secondary outcome was recurrence at day 38. Binary outcomes were analyzed using a bayesian generalized linear model with minimally informative priors yielding log relative risk (RR) with 95% bayesian credible intervals (CrIs). The trial was stopped early due to feasibility of recruitment. Among 265 participants (135 in the intervention group and 130 in the control group; median age, 63 [IQR 47-74] years; 138 [52.1%] women), recurrence at day 56 occurred in 20 of 135 patients (14.8%) in the vancomycin pulse and taper group compared with 23 of 130 (17.7%) in the vancomycin pulse group (adjusted RR, 0.84 [95% CrI, 0.48-1.45]; posterior probability of superiority, 73.8%). Recurrence at day 38 occurred in 9 of 135 patients (6.7%) in the vancomycin pulse and taper group compared with 20 of 130 (15.4%) in the vancomycin pulse group (adjusted RR, 0.43 [95% CrI, 0.19-0.89]; posterior probability of superiority, 99.0%). Adverse effects were rare in both groups. In this randomized clinical trial, a 4-week vancomycin pulse and taper regimen had a probability of 73.8% to be superior to a 2-week pulse regimen. This approach may represent a safe and accessible treatment option to delay or prevent early CDI recurrence. ClinicalTrials.gov Identifier: NCT04138706.",
-      "structuredAbstract": [
-        {
-          "label": "IMPORTANCE",
-          "text": "Clostridioides difficile infection (CDI) is associated with substantial morbidity and mortality, and recurrent CDI (rCDI) is common."
-        },
-        {
-          "label": "OBJECTIVE",
-          "text": "To determine whether a 4-week vancomycin pulse and taper regimen would be superior to a standard 2-week vancomycin pulse regimen in terms of recurrence."
-        },
-        {
-          "label": "DESIGN, SETTING, AND PARTICIPANTS",
-          "text": "This parallel-design, double-blind clinical trial was performed at 12 Canadian hospitals. Adults with a first episode or first recurrence of CDI were eligible to participate. Patients needed to have clinical CDI with laboratory confirmation and to have improved by day 10 of treatment. Recruitment began November 19, 2020, and all follow-up was completed by October 4, 2024."
-        },
-        {
-          "label": "INTERVENTION",
-          "text": "All patients received a 2-week pulse of vancomycin (standardized at 125 mg orally 4 times a day at the time of recruitment) and were then randomized to receive either vancomycin taper (125 mg orally twice a day for 7 days and then 125 mg once a day for 7 days) or an equivalent schedule of placebo capsules."
-        },
-        {
-          "label": "MAIN OUTCOMES AND MEASURES",
-          "text": "The primary outcome was the posterior probability of superiority of the vancomycin pulse and taper regimen to prevent rCDI at day 56. A secondary outcome was recurrence at day 38. Binary outcomes were analyzed using a bayesian generalized linear model with minimally informative priors yielding log relative risk (RR) with 95% bayesian credible intervals (CrIs)."
-        },
-        {
-          "label": "RESULTS",
-          "text": "The trial was stopped early due to feasibility of recruitment. Among 265 participants (135 in the intervention group and 130 in the control group; median age, 63 [IQR 47-74] years; 138 [52.1%] women), recurrence at day 56 occurred in 20 of 135 patients (14.8%) in the vancomycin pulse and taper group compared with 23 of 130 (17.7%) in the vancomycin pulse group (adjusted RR, 0.84 [95% CrI, 0.48-1.45]; posterior probability of superiority, 73.8%). Recurrence at day 38 occurred in 9 of 135 patients (6.7%) in the vancomycin pulse and taper group compared with 20 of 130 (15.4%) in the vancomycin pulse group (adjusted RR, 0.43 [95% CrI, 0.19-0.89]; posterior probability of superiority, 99.0%). Adverse effects were rare in both groups."
-        },
-        {
-          "label": "CONCLUSIONS AND RELEVANCE",
-          "text": "In this randomized clinical trial, a 4-week vancomycin pulse and taper regimen had a probability of 73.8% to be superior to a 2-week pulse regimen. This approach may represent a safe and accessible treatment option to delay or prevent early CDI recurrence."
-        },
-        {
-          "label": "TRIAL REGISTRATION",
-          "text": "ClinicalTrials.gov Identifier: NCT04138706."
-        }
-      ],
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41758514/",
-      "pubDate": "2026 Feb 02",
-      "doi": "10.1001/jamanetworkopen.2025.60495",
-      "dateReceived": "2026-03-08T23:32:32.398Z",
-      "isNew": false,
-      "summary": "A."
     }
   ]
 }
