@@ -1,21 +1,48 @@
 {
   "clinical": {
-    "updated_at": "2026-03-15T23:29:53.192Z",
+    "updated_at": "2026-03-16T05:15:05.221Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-15T23:29:55.861Z",
+    "updated_at": "2026-03-16T05:15:12.880Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-03-15T23:29:54.744Z",
+    "updated_at": "2026-03-16T05:15:07.485Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Mon, 16 Mar 2026 00:35:08 GMT",
+        "title": "People turn to private health care to beat NHS waits, says watchdog",
+        "neutral_headline": "People Turn To Private Health Care To Beat NHS Waits",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cn4892wnv2zo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 16 Mar 2026 00:35:08 GMT",
+            "title": "People turn to private health care to beat NHS waits, says watchdog",
+            "standfirst": "The patient watchdog warns of two-tier service as polling shows numbers paying for care is on the rise.",
+            "content": "The patient watchdog warns of two-tier service as polling shows numbers paying for care is on the rise.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4390/live/634fe100-1f9a-11f1-925c-7976235b6684.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4390/live/634fe100-1f9a-11f1-925c-7976235b6684.jpg",
+        "ai_summary": [
+          "Patients pay for private health care services",
+          "Long NHS waits prompt private health care use",
+          "Private health care use increases rapidly",
+          "Patients seek faster medical treatment options",
+          "NHS wait times affect patient health outcomes"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 22:50:04 GMT",
         "title": "Two dead and 11 seriously ill in meningitis outbreak at University of Kent",
-        "neutral_headline": "Two dead in University of Kent meningitis outbreak",
+        "neutral_headline": "Two Dead And 11 Seriously Ill In Meningitis Outbreak",
         "items": [
           {
             "source": "Guardian Health",
@@ -29,18 +56,18 @@
         ],
         "ai_summary": [
           "Meningitis outbreak at University of Kent",
-          "Two students have died from disease",
-          "Eleven students seriously ill in hospital",
-          "University provides antibiotics to students",
-          "Invasive meningococcal disease detected"
+          "Two people die from meningococcal disease",
+          "11 students seriously ill in hospital",
+          "University students given antibiotics",
+          "Health officials investigate outbreak cause"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 22:30:02 GMT",
         "title": "Sharp rise in young Britons saying ill health is reason they are jobless, study finds",
-        "neutral_headline": "Young Britons cite ill health as reason for joblessness",
+        "neutral_headline": "Young Britons Cite Ill Health As Reason For Joblessness",
         "items": [
           {
             "source": "Guardian Health",
@@ -54,18 +81,18 @@
         ],
         "ai_summary": [
           "Young people cite health issues for joblessness",
-          "Number of Neets with work limiting conditions rises",
-          "70 percent increase in work limiting conditions",
-          "Charity thinktank analyzes joblessness data",
+          "Number of Neets with health issues increases",
+          "70 percent rise in work limiting conditions",
+          "Charity thinktank analyzes Neet data",
           "Health problems affect young people's employment"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 21:00:34 GMT",
         "title": "Restraining and sedating dementia patients ‘routine’ in hospitals in England, study finds",
-        "neutral_headline": "Dementia patients restrained in English hospitals",
+        "neutral_headline": "Restraining And Sedating Dementia Patients Routine",
         "items": [
           {
             "source": "Guardian Health",
@@ -78,19 +105,19 @@
           }
         ],
         "ai_summary": [
-          "Dementia patients face restraints in hospitals",
-          "Restrictive practices used in ward care",
-          "Patients experience verbal commands and sedation",
-          "Study finds restraints are routine practice",
-          "Hospitals use physical interventions on patients"
+          "Dementia patients restrained in hospitals",
+          "Non consensual sedation used on patients",
+          "Restrictive practices are common in hospitals",
+          "Patients experience verbal commands and blocks",
+          "Study finds restrictive practices are routine"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 18:00:31 GMT",
         "title": "Decriminalising abortion: how could the House of Lords amend the legislation?",
-        "neutral_headline": "House of Lords to amend abortion legislation",
+        "neutral_headline": "Decriminalising Abortion How Could The House Of Lords Amend The Legislation",
         "items": [
           {
             "source": "Guardian Health",
@@ -103,19 +130,19 @@
           }
         ],
         "ai_summary": [
-          "House of Lords considers abortion amendments",
-          "MPs voted to decriminalize abortion last year",
+          "House of Lords to amend abortion legislation",
+          "MPs voted to change abortion law last year",
           "Proposed amendments to be put forward",
-          "Abortion law to be revised in England and Wales",
-          "Changes to abortion legislation expected"
+          "Abortion law to be changed in England and Wales",
+          "Legislation aims to improve reproductive rights"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 18:00:30 GMT",
         "title": "Vulnerable women in England still being arrested over suspected illegal abortions",
-        "neutral_headline": "Vulnerable women arrested over suspected illegal abortions",
+        "neutral_headline": "Vulnerable Women In England Still Being Arrested Over Suspected Illegal Abortions",
         "items": [
           {
             "source": "Guardian Health",
@@ -131,16 +158,16 @@
           "Women arrested for suspected illegal abortions",
           "Arrests made despite decriminalization vote",
           "Police investigate suspected abortion cases",
-          "Vulnerable women face police action",
-          "Arrests contradict decriminalization efforts"
+          "Vulnerable women affected by abortion laws",
+          "Charities call for change in abortion policies"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 17:25:29 GMT",
         "title": "The Guardian view on weight-loss jabs and addiction: there is too much moralising about these remarkable medicines | Editorial",
-        "neutral_headline": "The Guardian view on weight loss jabs and addiction",
+        "neutral_headline": "The Guardian View On Weight Loss Jabs And Addiction",
         "items": [
           {
             "source": "Guardian Health",
@@ -154,18 +181,18 @@
         ],
         "ai_summary": [
           "Weight loss jabs may treat addiction",
-          "GLP-1 drugs show promise in addiction treatment",
-          "Study suggests reduced drug cravings",
-          "Weight loss medicines may have new uses",
+          "GLP 1 drugs show promise in addiction treatment",
+          "Study finds reduced drug cravings",
+          "Weight loss jabs may reduce overdose risk",
           "Research on weight loss jabs and addiction"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 14:00:35 GMT",
         "title": "How a ‘vacuum cleaner turned the other way’ became a popular solution to snoring disorders",
-        "neutral_headline": "Cpap machines used to treat snoring disorders",
+        "neutral_headline": "How A Vacuum Cleaner Turned The Other Way Became A Popular Solution To Snoring Disorders",
         "items": [
           {
             "source": "Guardian Health",
@@ -178,19 +205,19 @@
           }
         ],
         "ai_summary": [
-          "Cpap machines treat snoring and sleep apnea",
-          "Machines used for mild sleep apnea cases",
+          "Cpap machines used for snoring disorders",
           "Sleep medicine physicians prescribe cpap",
-          "Cpap machines help reduce snoring",
-          "Treatment options for sleep disorders expand"
+          "Cpap machines help with sleep apnea",
+          "Snoring treatment options increase",
+          "Cpap machines improve sleep quality"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 14:00:28 GMT",
         "title": "Hustle culture is destroying our clients. It’s time they let their impossible standards crash to the ground | Gaynor Parkin and Dave Winsborough",
-        "neutral_headline": "Hustle culture destroys mental health",
+        "neutral_headline": "Hustle Culture Is Destroying Our Clients",
         "items": [
           {
             "source": "Guardian Health",
@@ -203,19 +230,19 @@
           }
         ],
         "ai_summary": [
-          "Hustle culture affects mental health negatively",
-          "Endurance and grit can be harmful",
+          "Hustle culture affects mental health",
+          "Endurance and grit rewarded in business",
           "Alternatives to hustle culture needed",
-          "Mental health experts warn of hustle culture",
-          "Importance of self care and balance"
+          "Clients suffer from hustle culture expectations",
+          "Experts call for change in work culture"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 14:00:27 GMT",
         "title": "‘I’ve been living under a shadow for 13 years’: life with prostate cancer",
-        "neutral_headline": "Life with prostate cancer",
+        "neutral_headline": "Ive Been Living Under A Shadow For 13 Years",
         "items": [
           {
             "source": "Guardian Health",
@@ -228,19 +255,19 @@
           }
         ],
         "ai_summary": [
-          "Prostate cancer is common in the UK",
-          "Screening is not universal for prostate cancer",
-          "Charities debate prostate cancer screening",
-          "Patients share experiences with prostate cancer",
-          "Prostate cancer affects many men's lives"
+          "Prostate cancer affects patients lives",
+          "Screening for prostate cancer not universal",
+          "Charities divided on screening issue",
+          "Patients share their experiences with prostate cancer",
+          "Prostate cancer awareness and support needed"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 13:57:37 GMT",
         "title": "Wyoming’s new six-week abortion ban prompts lawsuit",
-        "neutral_headline": "Wyoming's new six week abortion ban prompts lawsuit",
+        "neutral_headline": "Wyoming Passes Six Week Abortion Ban",
         "items": [
           {
             "source": "Guardian Health",
@@ -253,19 +280,19 @@
           }
         ],
         "ai_summary": [
-          "Wyoming passes six week abortion ban",
-          "Lawsuit filed against new abortion ban",
-          "Abortion ban faces constitutional hurdles",
-          "Previous bans were struck down by court",
-          "Abortion laws in Wyoming are contested"
+          "Wyoming's governor signs six-week abortion ban",
+          "Lawmakers call the ban an insult to voters",
+          "Previous abortion bans were struck down in January",
+          "New lawsuit filed against the abortion ban",
+          "Bill faces constitutional hurdles"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 13:40:15 GMT",
         "title": "'I have four months left to preserve my fertility'",
-        "neutral_headline": "Iona Hall is freezing her eggs after surgery",
+        "neutral_headline": "Woman Freezes Eggs After Endometriosis Surgery",
         "items": [
           {
             "source": "BBC Health",
@@ -274,25 +301,25 @@
             "title": "'I have four months left to preserve my fertility'",
             "standfirst": "Iona Hall is freezing her eggs after surgery for endometriosis left her reserves \"critically low\".",
             "content": "Iona Hall is freezing her eggs after surgery for endometriosis left her reserves \"critically low\".",
-            "feed_position": 33,
+            "feed_position": 34,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22d0/live/da5dd770-2058-11f1-b048-c9424b2cf5fd.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22d0/live/da5dd770-2058-11f1-b048-c9424b2cf5fd.jpg",
         "ai_summary": [
-          "Iona Hall freezes eggs due to endometriosis",
-          "Surgery left her fertility reserves low",
-          "Egg freezing is option for women",
-          "Endometriosis affects women's fertility",
-          "Women take steps to preserve fertility"
+          "Iona Hall freezes eggs due to low fertility reserves",
+          "Endometriosis surgery left her with low egg count",
+          "Hall has four months to preserve her fertility",
+          "Egg freezing is an option for women with endometriosis",
+          "Surgery can affect a woman's fertility"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 12:00:24 GMT",
         "title": "From childhood to midlife and beyond: how to handle anxiety at every age",
-        "neutral_headline": "Handling anxiety at every age",
+        "neutral_headline": "Managing Anxiety At Different Life Stages",
         "items": [
           {
             "source": "Guardian Health",
@@ -305,19 +332,19 @@
           }
         ],
         "ai_summary": [
-          "Anxiety affects people of all ages",
+          "One in five people experience anxiety all the time",
           "Experts share strategies for managing anxiety",
-          "Talking about fears helps anxiety",
-          "Physical activity reduces anxiety symptoms",
-          "Anxiety management techniques are available"
+          "Anxiety affects people of all ages",
+          "Uncertainty is a major cause of anxiety",
+          "Exercise and talk can help reduce anxiety"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 10:41:30 GMT",
         "title": "Police-style powers to tackle fly-tippers being considered",
-        "neutral_headline": "Police style powers to tackle fly tippers",
+        "neutral_headline": "Police Style Powers To Tackle Fly Tipping",
         "items": [
           {
             "source": "BBC Science",
@@ -332,19 +359,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/286d/live/c26c9210-2025-11f1-9120-a910fc22c6ac.jpg",
         "ai_summary": [
-          "Police style powers proposed for fly tipping",
-          "Officers may search premises without warrant",
-          "Assets can be seized in fly tipping cases",
-          "Arrests can be made for fly tipping",
-          "New powers aim to reduce fly tipping incidents"
+          "Officers may get powers to search premises",
+          "Fly tipping is a major environmental issue",
+          "New powers would allow asset seizure",
+          "Arrests can be made for suspected fly tipping",
+          "Officers need new powers to tackle fly tipping"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 07:32:42 GMT",
         "title": "Funding for green community initiatives",
-        "neutral_headline": "Staffordshire Moorlands funds green community projects",
+        "neutral_headline": "Funding For Green Community Initiatives",
         "items": [
           {
             "source": "BBC Science",
@@ -359,19 +386,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da87/live/603e4cd0-1bcc-11f1-964c-87b629a369ca.png",
         "ai_summary": [
-          "Staffordshire Moorlands District Council provides funding",
-          "Projects can receive up to £5,000",
-          "Green community initiatives are eligible",
-          "Funding aims to support local projects",
-          "Community groups can apply for funds"
+          "Staffordshire Moorlands offers green funding",
+          "Community projects can receive up to 5000 pounds",
+          "Green initiatives promote environmental sustainability",
+          "Funding supports local community projects",
+          "Green projects help reduce carbon footprint"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 07:30:24 GMT",
         "title": "The astronaut who took one giant leap for Manx-kind",
-        "neutral_headline": "Astronaut shares space experience insights",
+        "neutral_headline": "Astronaut Shares Space Experience",
         "items": [
           {
             "source": "BBC Science",
@@ -386,19 +413,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4591/live/895205a0-1ef9-11f1-8cb7-433d6fa8d367.jpg",
         "ai_summary": [
-          "Retired astronaut Nicole Stott shares experience",
-          "Being in space changes perspective on Earth",
-          "Astronauts gain new insights from space travel",
-          "Space travel affects personal viewpoints",
-          "Astronauts share unique space experiences"
+          "Nicole Stott is a retired astronaut",
+          "Space experience changes one's perspective",
+          "Astronauts see Earth from a unique viewpoint",
+          "Space travel affects one's worldview",
+          "Astronauts share their experiences with others"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 06:19:57 GMT",
         "title": "Major hedgerow restoration project begins on farm",
-        "neutral_headline": "National Trust restores farm hedgerows",
+        "neutral_headline": "Hedgerow Restoration Project Begins",
         "items": [
           {
             "source": "BBC Science",
@@ -413,15 +440,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7772/live/231f2550-1f04-11f1-87bd-bb650a6d53bc.png",
         "ai_summary": [
-          "National Trust begins hedgerow restoration project",
-          "Restored hedgerows boost wildlife and farm productivity",
-          "Project aims to improve farm ecosystem",
-          "Hedgerow restoration benefits local environment",
-          "National Trust supports conservation efforts"
+          "National Trust starts hedgerow restoration",
+          "Project aims to boost wildlife and farm productivity",
+          "Hedgerows provide habitat for wildlife",
+          "Restoration project promotes environmental sustainability",
+          "Farm productivity increases with hedgerow restoration"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 06:00:16 GMT",
         "title": "The one thing everyone gets wrong about feminism",
@@ -438,19 +465,19 @@
           }
         ],
         "ai_summary": [
-          "Feminism is not dead despite common claims",
-          "Patriarchy is deeply entrenched in society",
-          "Feminist movements face unrealistic expectations",
-          "#MeToo and Epstein files are not sole measures",
-          "Feminism is a long-term ongoing social movement"
+          "Feminism is not dead",
+          "People love to declare the death of feminism",
+          "Feminism has achieved many successes",
+          "Patriarchy is still entrenched in society",
+          "Feminism is a long-term movement"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 00:01:21 GMT",
         "title": "Sculpting jaws, giving scores: Inside the world of looksmaxxing",
-        "neutral_headline": "Young men pursue looksmaxxing for perfect face",
+        "neutral_headline": "Inside The World Of Looksmaxxing",
         "items": [
           {
             "source": "BBC Health",
@@ -459,21 +486,21 @@
             "title": "Sculpting jaws, giving scores: Inside the world of looksmaxxing",
             "standfirst": "Growing numbers of young men are going to great lengths to achieve what they see as the perfect face.",
             "content": "Growing numbers of young men are going to great lengths to achieve what they see as the perfect face.",
-            "feed_position": 38,
+            "feed_position": 39,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c02/live/23d953e0-1fd0-11f1-801d-ed3cff6bf876.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c02/live/23d953e0-1fd0-11f1-801d-ed3cff6bf876.jpg",
         "ai_summary": [
-          "Looksmaxxing is a growing trend among young men",
-          "Men seek to achieve perfect facial features",
-          "Looksmaxxing involves various beauty procedures",
-          "Young men go to great lengths for ideal looks",
-          "Social pressure drives looksmaxxing trends"
+          "Young men strive for the perfect face",
+          "Looksmaxxing is a growing trend",
+          "Men go to great lengths for physical perfection",
+          "Social media promotes unrealistic beauty standards",
+          "Looksmaxxing affects mental health"
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sat, 14 Mar 2026 15:34:29 GMT",
         "title": "Israeli strike kills 12 healthcare workers in southern Lebanon",
@@ -490,42 +517,17 @@
           }
         ],
         "ai_summary": [
-          "Israeli strike hits medical centre in Lebanon",
-          "12 healthcare workers killed in the strike",
-          "Attack violates international humanitarian laws",
+          "Israeli strike kills 12 medical workers",
+          "Strike occurred at a medical centre in Lebanon",
           "31 healthcare workers killed in 12 days",
-          "Medical facilities are targeted in the conflict"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Sat, 14 Mar 2026 12:00:19 GMT",
-        "title": "Fetuses likely have more ‘forever chemicals’ in blood than thought – report",
-        "neutral_headline": "Fetuses likely have more ‘forever chemicals’ in blood than thought",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/mar/14/fetuses-pfas-forever-chemicals",
-            "published_at": "Sat, 14 Mar 2026 12:00:19 GMT",
-            "title": "Fetuses likely have more ‘forever chemicals’ in blood than thought – report",
-            "standfirst": "US test of 120 umbilical blood cord samples identified 42 Pfas compounds, which do not naturally break downSign up for the Breaking News US email to get newsletter alerts in your inboxNew peer-reviewed research shows fetuses likely have much higher levels of Pfas “forever chemicals” in their blood than previously thought.Testing of umbilical cord blood typically looks for a small number of common Pfas compounds, like Pfoa and Pfos. However, thousands of Pfas exist, and a new Mount Sinai study tested 120 umbilical blood cord samples that were previously found to contain up to four compounds. Continue reading...",
-            "content": "US test of 120 umbilical blood cord samples identified 42 Pfas compounds, which do not naturally break downSign up for the Breaking News US email to get newsletter alerts in your inboxNew peer-reviewed research shows fetuses likely have much higher levels of Pfas “forever chemicals” in their blood than previously thought.Testing of umbilical cord blood typically looks for a small number of common Pfas compounds, like Pfoa and Pfos. However, thousands of Pfas exist, and a new Mount Sinai study tested 120 umbilical blood cord samples that were previously found to contain up to four compounds. Continue reading...",
-            "feed_position": 13
-          }
-        ],
-        "ai_summary": [
-          "Fetuses may have high levels of Pfas compounds",
-          "Umbilical cord blood tests detect Pfas chemicals",
-          "42 Pfas compounds found in blood samples",
-          "Pfas chemicals do not naturally break down",
-          "Research reveals high Pfas levels in fetuses"
+          "Attack violates international humanitarian laws",
+          "Medical staff were on duty when strike occurred"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-15T23:29:55.861Z",
+    "updated_at": "2026-03-16T05:15:12.880Z",
     "clusters": []
   }
 }
