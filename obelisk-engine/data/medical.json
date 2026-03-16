@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-03-16T08:07:28.272Z",
+    "updated_at": "2026-03-16T11:47:57.731Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-16T08:07:35.495Z",
+    "updated_at": "2026-03-16T11:48:05.077Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/c58fbcd9-4e8d-4476-942a-84c13e20df54/Women-21-less-likely-to-die-from-cancer-Study.aspx",
         "ai_summary": [
-          "Women have lower cancer death rate",
-          "21 percent lower risk of cancer death",
-          "Women have higher risk of side effects",
-          "Severe side effects occur in 12 percent",
-          "Study uses US FDA clinical trial data"
+          "Women have lower cancer death rates than men",
+          "Study used data from US FDA clinical trials",
+          "Women have higher risk of severe side effects",
+          "Research found 12 percent higher side effect risk",
+          "Study results can inform cancer treatment decisions"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/d614128b-9739-4c19-9af8-29b97a1281c4/Rural-town-vows-to-support-a-GP-to-no-end.aspx",
         "ai_summary": [
-          "Kimba town spent $1 million on a medical centre",
-          "Built rent-free homes to attract a permanent doctor",
-          "Filmed an ad campaign to promote the town",
-          "The town knows the importance of GPs",
-          "Aims to provide a supportive environment for doctors"
+          "Town of Kimba spent 1 million on medical centre",
+          "Rent free homes built to attract doctors",
+          "Ad campaign launched to recruit permanent GP",
+          "Town recognizes importance of local healthcare",
+          "Efforts aim to improve rural health services"
         ]
       },
       {
@@ -80,25 +80,44 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/81f5ed42-ecf7-4b3f-9d64-8e415c6c177b/GP-advocacy-push-takes-over-Parliament.aspx",
         "ai_summary": [
-          "NT's inaugural GPs@Parliament event was held",
-          "Almost every MP spoke with a GP face to face",
-          "GPs discussed needed changes with MPs",
-          "The event aimed to raise awareness about GPs' concerns",
-          "MPs heard first-hand about the issues affecting GPs"
+          "GPs met with MPs to discuss healthcare issues",
+          "NT inaugural GPs@Parliament event held",
+          "Almost every MP spoke with a GP representative",
+          "Event aimed to raise awareness of GP concerns",
+          "GPs advocated for changes to healthcare system"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-03-16T08:07:35.120Z",
+    "updated_at": "2026-03-16T11:47:59.599Z",
     "clusters": [
       {
-        "id": "cluster_6",
+        "id": "cluster_1",
         "coverage": 2,
-        "updated_at": "Sun, 15 Mar 2026 22:50:04 GMT",
-        "title": "Two dead and 11 seriously ill in meningitis outbreak at University of Kent",
-        "neutral_headline": "Meningitis outbreak at University of Kent",
+        "updated_at": "Mon, 16 Mar 2026 11:10:41 GMT",
+        "title": "Sixth-form pupil second person to die from Kent meningitis outbreak, MP says",
+        "neutral_headline": "Meningitis outbreak in Kent kills two people",
         "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/mar/16/school-student-second-person-die-kent-meningitis-outbreak-says-mp",
+            "published_at": "Mon, 16 Mar 2026 11:10:41 GMT",
+            "title": "Sixth-form pupil second person to die from Kent meningitis outbreak, MP says",
+            "standfirst": "Year 13 pupil and a University of Kent student have died after contracting disease, while 11 people are seriously ill in hospitalA school pupil has been confirmed as the second person to have died after an outbreak of meningitis in Kent, an MP has said.Over the weekend it was reported that a University of Kent student was one of two people to have died after contracting the disease, while 11 more people were seriously ill in hospital. Continue reading...",
+            "content": "Year 13 pupil and a University of Kent student have died after contracting disease, while 11 people are seriously ill in hospitalA school pupil has been confirmed as the second person to have died after an outbreak of meningitis in Kent, an MP has said.Over the weekend it was reported that a University of Kent student was one of two people to have died after contracting the disease, while 11 more people were seriously ill in hospital. Continue reading...",
+            "feed_position": 0
+          },
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c7432klgyldo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 16 Mar 2026 10:00:57 GMT",
+            "title": "What are the symptoms of meningitis and is there a vaccine?",
+            "standfirst": "Two people have died following an outbreak of meningitis, including one student at the University of Kent.",
+            "content": "Two people have died following an outbreak of meningitis, including one student at the University of Kent.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad7/live/c3d6f270-2120-11f1-97c2-f5f000687aac.jpg"
+          },
           {
             "source": "Guardian Health",
             "url": "https://www.theguardian.com/society/2026/mar/15/two-die-and-11-seriously-ill-in-meningitis-outbreak-at-university-of-kent",
@@ -106,7 +125,7 @@
             "title": "Two dead and 11 seriously ill in meningitis outbreak at University of Kent",
             "standfirst": "Students in Canterbury given antibiotics for fast-acting and invasive meningococcal disease, says UKHSATwo people have died and 11 are reportedly seriously ill in hospital after an outbreak of a rare form of invasive meningitis at the University of Kent.The UK Health Security Agency (UKHSA) said it had provided antibiotics to students in the Canterbury area after it detected 13 cases of invasive meningococcal disease, a combination of meningitis and septicaemia. Continue reading...",
             "content": "Students in Canterbury given antibiotics for fast-acting and invasive meningococcal disease, says UKHSATwo people have died and 11 are reportedly seriously ill in hospital after an outbreak of a rare form of invasive meningitis at the University of Kent.The UK Health Security Agency (UKHSA) said it had provided antibiotics to students in the Canterbury area after it detected 13 cases of invasive meningococcal disease, a combination of meningitis and septicaemia. Continue reading...",
-            "feed_position": 3
+            "feed_position": 5
           },
           {
             "source": "BBC Health",
@@ -115,25 +134,77 @@
             "title": "Uni student among two dead in Kent meningitis outbreak",
             "standfirst": "Eleven people in the Canterbury area are also seriously ill in hospital, the BBC understands.",
             "content": "Eleven people in the Canterbury area are also seriously ill in hospital, the BBC understands.",
-            "feed_position": 2,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c301/live/8017f630-20a6-11f1-b760-7d6278c3d0c0.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c301/live/8017f630-20a6-11f1-b760-7d6278c3d0c0.jpg",
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad7/live/c3d6f270-2120-11f1-97c2-f5f000687aac.jpg",
         "ai_summary": [
-          "Two people died from invasive meningococcal disease",
-          "11 students are seriously ill in hospital",
-          "UKHSA provided antibiotics to students",
-          "The outbreak occurred in the Canterbury area",
-          "Students were given preventative measures"
+          "Two people died from meningitis in Kent outbreak",
+          "11 people seriously ill in hospital with disease",
+          "University of Kent student among those affected",
+          "UK Health Security Agency provided antibiotics",
+          "Outbreak caused by invasive meningococcal disease"
         ]
       },
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Mon, 16 Mar 2026 11:13:19 GMT",
+        "title": "'Goatsucker' bird makes 'remarkable comeback'",
+        "neutral_headline": "Nightjar bird makes remarkable comeback",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c7952d4dwd8o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 16 Mar 2026 11:13:19 GMT",
+            "title": "'Goatsucker' bird makes 'remarkable comeback'",
+            "standfirst": "An ecological survey has found 109 nightjar territories in the lowland heaths of east Hampshire.",
+            "content": "An ecological survey has found 109 nightjar territories in the lowland heaths of east Hampshire.",
+            "feed_position": 7,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a10e/live/9159f930-2127-11f1-821c-5783b4f9d6f9.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a10e/live/9159f930-2127-11f1-821c-5783b4f9d6f9.jpg",
+        "ai_summary": [
+          "Ecological survey found 109 nightjar territories",
+          "Lowland heaths of east Hampshire saw increase",
+          "Conservation efforts may have aided comeback",
+          "Nightjar population was previously declining",
+          "Survey results indicate successful conservation"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Mon, 16 Mar 2026 11:00:15 GMT",
+        "title": "Officials ‘missed 99% of data’ on Covid vaccines before making recommendation, memos reveal",
+        "neutral_headline": "Officials missed Covid vaccine data",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2026/mar/16/covid-vaccine-recommendation-kids-pregnant-people-data",
+            "published_at": "Mon, 16 Mar 2026 11:00:15 GMT",
+            "title": "Officials ‘missed 99% of data’ on Covid vaccines before making recommendation, memos reveal",
+            "standfirst": "US based Covid vaccine recommendations for children and pregnant people on ideology instead of evidence, critics saySign up for the Breaking News US email to get newsletter alerts in your inboxThere was scant data behind ending the Covid vaccine recommendation for pregnant people and children, according to internal memos made public because of a lawsuit against the US Department of Health and Human Services (HHS).The memos overlooked hundreds of studies on the benefits and safety of Covid vaccination and set the precedent for making changes to vaccine recommendations based on ideology instead of evidence, critics say. Continue reading...",
+            "content": "US based Covid vaccine recommendations for children and pregnant people on ideology instead of evidence, critics saySign up for the Breaking News US email to get newsletter alerts in your inboxThere was scant data behind ending the Covid vaccine recommendation for pregnant people and children, according to internal memos made public because of a lawsuit against the US Department of Health and Human Services (HHS).The memos overlooked hundreds of studies on the benefits and safety of Covid vaccination and set the precedent for making changes to vaccine recommendations based on ideology instead of evidence, critics say. Continue reading...",
+            "feed_position": 1
+          }
+        ],
+        "ai_summary": [
+          "US officials made vaccine recommendations lacking data",
+          "Internal memos revealed scant evidence used",
+          "Critics say ideology influenced vaccine decisions",
+          "Hundreds of studies on vaccine benefits ignored",
+          "Recommendations affected children and pregnant people"
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
         "updated_at": "Mon, 16 Mar 2026 07:14:05 GMT",
         "title": "Google scraps AI search feature that crowdsourced amateur medical advice",
-        "neutral_headline": "Google drops AI health advice feature",
+        "neutral_headline": "Google scraps AI health advice feature",
         "items": [
           {
             "source": "Guardian Health",
@@ -142,19 +213,19 @@
             "title": "Google scraps AI search feature that crowdsourced amateur medical advice",
             "standfirst": "Exclusive: Revelation comes as company faces mounting scrutiny over use of AI to provide health tipsGoogle has dropped a new artificial intelligence search feature that gave users crowdsourced health advice from amateurs around the world.The company had said its launch of “What People Suggest”, which provided tips from strangers, showed “the potential of AI to transform health outcomes across the globe”. Continue reading...",
             "content": "Exclusive: Revelation comes as company faces mounting scrutiny over use of AI to provide health tipsGoogle has dropped a new artificial intelligence search feature that gave users crowdsourced health advice from amateurs around the world.The company had said its launch of “What People Suggest”, which provided tips from strangers, showed “the potential of AI to transform health outcomes across the globe”. Continue reading...",
-            "feed_position": 0
+            "feed_position": 2
           }
         ],
         "ai_summary": [
-          "Google scrapped a new AI search feature",
-          "The feature provided crowdsourced health advice",
-          "The company faced scrutiny over AI health tips",
-          "The feature was dropped due to concerns",
-          "Google aims to provide accurate health information"
+          "Google dropped AI feature giving amateur advice",
+          "Feature provided crowdsourced health tips",
+          "Company faced scrutiny over AI health use",
+          "Decision made amid concerns over health information",
+          "Google prioritized reliable health information sources"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 16 Mar 2026 06:17:12 GMT",
         "title": "Women with endometriosis face 'systemic misogyny'",
@@ -174,14 +245,41 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/308e/live/95e23fa0-1ee6-11f1-a2c3-796e1360a572.jpg",
         "ai_summary": [
           "Women share experiences of living with endometriosis",
-          "The condition affects many women's lives",
-          "Endometriosis is often misunderstood",
-          "Women face challenges in accessing proper care",
-          "Raising awareness can help improve understanding"
+          "Condition can cause chronic pain and infertility",
+          "Women face challenges in accessing healthcare",
+          "Systemic misogyny affects endometriosis treatment",
+          "Raising awareness can improve healthcare outcomes"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_5",
+        "coverage": 1,
+        "updated_at": "Mon, 16 Mar 2026 06:13:37 GMT",
+        "title": "Farmers 'hammered' by fertiliser and fuel rises",
+        "neutral_headline": "Farmers affected by fertiliser and fuel rises",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/ceqv8z1v3zyo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 16 Mar 2026 06:13:37 GMT",
+            "title": "Farmers 'hammered' by fertiliser and fuel rises",
+            "standfirst": "Andrew Williamson, who farms near Bridgnorth, says he is concerned how the Iran war is affecting prices.",
+            "content": "Andrew Williamson, who farms near Bridgnorth, says he is concerned how the Iran war is affecting prices.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed71/live/15b578e0-1ee3-11f1-a54d-ddcb0c2f34df.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed71/live/15b578e0-1ee3-11f1-a54d-ddcb0c2f34df.jpg",
+        "ai_summary": [
+          "Farmers face increased costs for fertiliser and fuel",
+          "Price rises caused by global market changes",
+          "Iran war affects global fertiliser prices",
+          "Farmers concerned about impact on livelihoods",
+          "Rising costs can affect food production and prices"
+        ]
+      },
+      {
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Mon, 16 Mar 2026 06:00:11 GMT",
         "title": "Plans to cut NHS international workforce appear overambitious, say MPs",
@@ -194,23 +292,23 @@
             "title": "Plans to cut NHS international workforce appear overambitious, say MPs",
             "standfirst": "Health service in England has saved more than £14bn hiring from overseas, report says, as doubt is cast on aim to reduce international recruitment to 10%Ministers’ plans to cut the international workforce within NHS England appear overambitious, MPs have said, as a report reveals the health service saved more than £14bn by recruiting doctors, nurses and midwives from overseas.Many of the countries recruited from were struggling with staff shortages, and the UK had a moral duty to offer support, rather than simply extracting what it needed, the all-party parliamentary group (APPG) on global health and security found. Continue reading...",
             "content": "Health service in England has saved more than £14bn hiring from overseas, report says, as doubt is cast on aim to reduce international recruitment to 10%Ministers’ plans to cut the international workforce within NHS England appear overambitious, MPs have said, as a report reveals the health service saved more than £14bn by recruiting doctors, nurses and midwives from overseas.Many of the countries recruited from were struggling with staff shortages, and the UK had a moral duty to offer support, rather than simply extracting what it needed, the all-party parliamentary group (APPG) on global health and security found. Continue reading...",
-            "feed_position": 1
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "MPs say plans to cut international workforce are overambitious",
-          "NHS has saved £14bn by hiring from overseas",
-          "Recruiting from abroad helps fill staff shortages",
-          "The UK has a moral duty to support other countries",
-          "The NHS relies on international staff"
+          "MPs doubt NHS plan to reduce international recruitment",
+          "Report reveals NHS saved 14 billion hiring overseas",
+          "International recruitment aids NHS staffing shortages",
+          "Moral duty to support countries with staff shortages",
+          "Reducing international recruitment may worsen shortages"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 16 Mar 2026 06:00:10 GMT",
         "title": "More than 100 Labour MPs call on PM to stop assisted dying bill being blocked",
-        "neutral_headline": "Labour MPs call to stop assisted dying bill block",
+        "neutral_headline": "More than 100 Labour MPs call on PM to stop assisted dying bill being blocked",
         "items": [
           {
             "source": "Guardian Health",
@@ -219,23 +317,23 @@
             "title": "More than 100 Labour MPs call on PM to stop assisted dying bill being blocked",
             "standfirst": "Letter sent to Starmer claims ‘small number of peers have been using procedural tactics’ to stymie its progressMore than 100 Labour MPs have called on Keir Starmer to stop the House of Lords from blocking the assisted dying bill and give it more time to return to the Commons, with the legislation now certain to fall owing to lack of time.The private member’s bill, sponsored by Labour’s Kim Leadbeater, will fall when the parliamentary session comes to an end in May because peers have used multiple amendments and lengthy debates to prevent it from being put to a vote. Continue reading...",
             "content": "Letter sent to Starmer claims ‘small number of peers have been using procedural tactics’ to stymie its progressMore than 100 Labour MPs have called on Keir Starmer to stop the House of Lords from blocking the assisted dying bill and give it more time to return to the Commons, with the legislation now certain to fall owing to lack of time.The private member’s bill, sponsored by Labour’s Kim Leadbeater, will fall when the parliamentary session comes to an end in May because peers have used multiple amendments and lengthy debates to prevent it from being put to a vote. Continue reading...",
-            "feed_position": 2
+            "feed_position": 4
           }
         ],
         "ai_summary": [
-          "Over 100 Labour MPs signed a letter to Keir Starmer",
-          "The letter calls to stop the House of Lords from blocking the bill",
-          "The assisted dying bill will fall due to lack of time",
-          "Peers have used tactics to prevent a vote",
-          "The bill aims to change the law on assisted dying"
+          "Labour MPs urge PM to support assisted dying bill",
+          "Bill faces blocking in House of Lords",
+          "Peers use procedural tactics to delay bill",
+          "MPs want bill to return to Commons for vote",
+          "Bill aims to provide right to die for terminally ill"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Mon, 16 Mar 2026 01:13:30 GMT",
         "title": "One-off £2,000 grant gives care leavers head start, study finds",
-        "neutral_headline": "Care leavers benefit from one-off grant",
+        "neutral_headline": "One off grant helps care leavers",
         "items": [
           {
             "source": "BBC Health",
@@ -244,48 +342,48 @@
             "title": "One-off £2,000 grant gives care leavers head start, study finds",
             "standfirst": "Participants were less likely to become homeless or spend time in hospital or prison, researchers say.",
             "content": "Participants were less likely to become homeless or spend time in hospital or prison, researchers say.",
-            "feed_position": 1,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8bb/live/5ae2e5d0-1e37-11f1-b7fb-092a0008fe58.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8bb/live/5ae2e5d0-1e37-11f1-b7fb-092a0008fe58.jpg",
         "ai_summary": [
-          "A £2,000 grant helps care leavers get a head start",
-          "Participants were less likely to become homeless",
-          "The grant reduces hospital and prison time",
-          "Care leavers face unique challenges",
-          "The grant provides essential support"
+          "Care leavers receive one off 2000 pound grant",
+          "Grant helps care leavers with living costs",
+          "Study finds grant reduces homelessness risk",
+          "Grant also reduces hospital and prison time",
+          "Researchers recommend grant as effective support"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 16 Mar 2026 00:35:08 GMT",
-        "title": "People turn to private health care to beat NHS waits, says watchdog",
-        "neutral_headline": "People turn to private health care due to NHS waits",
+        "title": "Fears of two-tier health system as more turn to private care, says watchdog",
+        "neutral_headline": "Fears of two tier health system",
         "items": [
           {
             "source": "BBC Health",
             "url": "https://www.bbc.com/news/articles/cn4892wnv2zo?at_medium=RSS&at_campaign=rss",
             "published_at": "Mon, 16 Mar 2026 00:35:08 GMT",
-            "title": "People turn to private health care to beat NHS waits, says watchdog",
+            "title": "Fears of two-tier health system as more turn to private care, says watchdog",
             "standfirst": "The patient watchdog warns of two-tier service as polling shows numbers paying for care is on the rise.",
             "content": "The patient watchdog warns of two-tier service as polling shows numbers paying for care is on the rise.",
-            "feed_position": 0,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4390/live/634fe100-1f9a-11f1-925c-7976235b6684.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4390/live/634fe100-1f9a-11f1-925c-7976235b6684.jpg",
         "ai_summary": [
-          "Patients are paying for private health care to avoid waits",
-          "The patient watchdog warns of a two-tier service",
-          "NHS waits are driving people to private care",
-          "Private health care is on the rise",
-          "The NHS faces challenges in providing timely care"
+          "Patient watchdog warns of two tier health system",
+          "More people turning to private healthcare",
+          "Polling shows increase in private care use",
+          "Concerns over unequal access to healthcare",
+          "Two tier system can exacerbate health inequalities"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 22:30:02 GMT",
         "title": "Sharp rise in young Britons saying ill health is reason they are jobless, study finds",
@@ -298,23 +396,23 @@
             "title": "Sharp rise in young Britons saying ill health is reason they are jobless, study finds",
             "standfirst": "Share of 16- to 24-year-old Neets who report a work-limiting condition up 70% in a decade, says thinktankThere has been a sharp rise in the number of jobless young people in the UK citing health problems as the reason they are not working, according to analysis.The share of 16- to 24-year-olds not in education, employment or training – known as Neets – who reported a work-limiting condition has surged by 70% in a decade, a charity thinktank found. Continue reading...",
             "content": "Share of 16- to 24-year-old Neets who report a work-limiting condition up 70% in a decade, says thinktankThere has been a sharp rise in the number of jobless young people in the UK citing health problems as the reason they are not working, according to analysis.The share of 16- to 24-year-olds not in education, employment or training – known as Neets – who reported a work-limiting condition has surged by 70% in a decade, a charity thinktank found. Continue reading...",
-            "feed_position": 4
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "Jobless young people cite health problems as the reason",
-          "The share of Neets with work-limiting conditions has surged",
-          "The number of young people with health issues is rising",
-          "Health problems affect employment opportunities",
-          "The trend is a concern for the UK's workforce"
+          "16- to 24-year-old Neets report work-limiting conditions",
+          "Share of Neets with work-limiting conditions up 70% in decade",
+          "Charity thinktank analyzes data on young jobless people",
+          "Health problems cited as reason for not working",
+          "Neets not in education or employment face health challenges"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 21:00:34 GMT",
         "title": "Restraining and sedating dementia patients ‘routine’ in hospitals in England, study finds",
-        "neutral_headline": "Dementia patients face restraints in hospitals",
+        "neutral_headline": "Restraining and sedating dementia patients routine in hospitals",
         "items": [
           {
             "source": "Guardian Health",
@@ -323,23 +421,23 @@
             "title": "Restraining and sedating dementia patients ‘routine’ in hospitals in England, study finds",
             "standfirst": "Patients experiencing raised bedside rails, doors and pathways blocked by furniture and physical interventionsPeople with dementia are being subjected to restraints and non-consensual sedation while in hospitals in England, according to the first study of its kind.These restrictive practices were found to be an “embedded aspect of routine ward care”, according to the analysis, with such examples including dementia patients having their bedside rails raised, doors and pathways blocked by furniture, experiencing verbal commands to sit down or go back to bed, and physical interventions such as non-consensual sedation. Continue reading...",
             "content": "Patients experiencing raised bedside rails, doors and pathways blocked by furniture and physical interventionsPeople with dementia are being subjected to restraints and non-consensual sedation while in hospitals in England, according to the first study of its kind.These restrictive practices were found to be an “embedded aspect of routine ward care”, according to the analysis, with such examples including dementia patients having their bedside rails raised, doors and pathways blocked by furniture, experiencing verbal commands to sit down or go back to bed, and physical interventions such as non-consensual sedation. Continue reading...",
-            "feed_position": 5
+            "feed_position": 7
           }
         ],
         "ai_summary": [
-          "Dementia patients are subjected to restraints and sedation",
-          "Restrictive practices are routine in English hospitals",
-          "Patients experience raised bedside rails and blocked pathways",
-          "Physical interventions are used on dementia patients",
-          "The practices are an embedded aspect of ward care"
+          "Dementia patients subjected to restraints and sedation",
+          "Raised bedside rails and blocked pathways used",
+          "Verbal commands and physical interventions common",
+          "Non-consensual sedation used in hospitals",
+          "Restrictive practices embedded in routine ward care"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 18:00:31 GMT",
         "title": "Decriminalising abortion: how could the House of Lords amend the legislation?",
-        "neutral_headline": "Decriminalising abortion law amendments proposed",
+        "neutral_headline": "House of Lords to amend abortion legislation",
         "items": [
           {
             "source": "Guardian Health",
@@ -348,19 +446,19 @@
             "title": "Decriminalising abortion: how could the House of Lords amend the legislation?",
             "standfirst": "After MPs voted last year to change the law in England and Wales, members of the Lords will now put forward proposed amendmentsMPs voted last year to end the criminalisation of women who terminate pregnancies outside the legal framework. It was hailed as the biggest step forward for reproductive rights in England and Wales in six decades.On Wednesday evening, abortion law will again come under the parliamentary spotlight when members of the House of Lords put forward their proposed amendments to the legislation. Continue reading...",
             "content": "After MPs voted last year to change the law in England and Wales, members of the Lords will now put forward proposed amendmentsMPs voted last year to end the criminalisation of women who terminate pregnancies outside the legal framework. It was hailed as the biggest step forward for reproductive rights in England and Wales in six decades.On Wednesday evening, abortion law will again come under the parliamentary spotlight when members of the House of Lords put forward their proposed amendments to the legislation. Continue reading...",
-            "feed_position": 6
+            "feed_position": 8
           }
         ],
         "ai_summary": [
-          "The House of Lords will propose amendments to the law",
-          "MPs voted to end the criminalisation of abortion",
-          "The legislation aims to change the law in England and Wales",
-          "The amendments will be discussed in the House of Lords",
-          "The law change is a significant step for reproductive rights"
+          "MPs voted to end criminalization of abortion",
+          "House of Lords to propose amendments to legislation",
+          "Reproductive rights in England and Wales to be updated",
+          "Abortion law to be revised",
+          "Changes to legislation aim to improve women's rights"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 18:00:30 GMT",
         "title": "Vulnerable women in England still being arrested over suspected illegal abortions",
@@ -373,23 +471,23 @@
             "title": "Vulnerable women in England still being arrested over suspected illegal abortions",
             "standfirst": "Nottinghamshire and Met police made arrests in past year, despite MPs voting to decriminalise in England and WalesVulnerable women in England are still being arrested and facing police investigations over suspected illegal pregnancy terminations, despite parliament backing changes to the law to decriminalise abortion.Responding to a freedom of information request, Nottinghamshire police and the Metropolitan police confirmed they had arrested women suspected of illegal terminations between June last year and this January. Continue reading...",
             "content": "Nottinghamshire and Met police made arrests in past year, despite MPs voting to decriminalise in England and WalesVulnerable women in England are still being arrested and facing police investigations over suspected illegal pregnancy terminations, despite parliament backing changes to the law to decriminalise abortion.Responding to a freedom of information request, Nottinghamshire police and the Metropolitan police confirmed they had arrested women suspected of illegal terminations between June last year and this January. Continue reading...",
-            "feed_position": 7
+            "feed_position": 9
           }
         ],
         "ai_summary": [
-          "Women are being arrested for suspected illegal terminations",
-          "Despite MPs voting to decriminalise abortion",
+          "Women in England arrested for suspected illegal abortions",
           "Nottinghamshire and Met police made arrests",
-          "The arrests are a concern for women's rights",
-          "The law change aims to protect women's health"
+          "Arrests made despite MPs voting to decriminalize abortion",
+          "Women face police investigations over suspected terminations",
+          "Vulnerable women affected by current abortion laws"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 17:25:29 GMT",
         "title": "The Guardian view on weight-loss jabs and addiction: there is too much moralising about these remarkable medicines | Editorial",
-        "neutral_headline": "Weight loss jabs may treat addiction",
+        "neutral_headline": "The Guardian view on weight-loss jabs and addiction",
         "items": [
           {
             "source": "Guardian Health",
@@ -398,19 +496,19 @@
             "title": "The Guardian view on weight-loss jabs and addiction: there is too much moralising about these remarkable medicines | Editorial",
             "standfirst": "Evidence is piling up that GLP-1 drugs can treat addiction. We must learn from the way that obesity has been stigmatisedIn the years since so-called weight-loss jabs entered widespread use, there have been reports that these drugs may not just reduce food cravings, but in fact cravings and desires full-stop. Earlier this month, a study using large-scale data from US veterans undergoing diabetes treatment suggested that those on the jabs were less likely to develop addictions to a wide range of drugs. Patients already using substances appeared about half as likely to suffer overdose or drug-related death if they were taking the jab as well.This is an exciting avenue for future research. These medicines work partly on satiation and reward centres in the brain. It is likely that problematic food and drug cravings share a similar biological basis, and next-generation medicines may be more powerful or more targeted to one or the other. But, in the meantime, we should expect that existing weight-loss drugs will end up recommended (or prescribed off-label) for addiction treatment. This should make us rethink our approach to these remarkable medicines.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
             "content": "Evidence is piling up that GLP-1 drugs can treat addiction. We must learn from the way that obesity has been stigmatisedIn the years since so-called weight-loss jabs entered widespread use, there have been reports that these drugs may not just reduce food cravings, but in fact cravings and desires full-stop. Earlier this month, a study using large-scale data from US veterans undergoing diabetes treatment suggested that those on the jabs were less likely to develop addictions to a wide range of drugs. Patients already using substances appeared about half as likely to suffer overdose or drug-related death if they were taking the jab as well.This is an exciting avenue for future research. These medicines work partly on satiation and reward centres in the brain. It is likely that problematic food and drug cravings share a similar biological basis, and next-generation medicines may be more powerful or more targeted to one or the other. But, in the meantime, we should expect that existing weight-loss drugs will end up recommended (or prescribed off-label) for addiction treatment. This should make us rethink our approach to these remarkable medicines.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "feed_position": 8
+            "feed_position": 10
           }
         ],
         "ai_summary": [
-          "GLP-1 drugs may help treat addiction",
-          "The drugs reduce food cravings and desires",
-          "Research suggests a link between obesity and addiction",
-          "The medicines work on satiation and reward centres",
-          "Further research is needed to confirm the findings"
+          "Weight-loss jabs may treat addiction",
+          "GLP-1 drugs reduce food cravings and desires",
+          "Study suggests jabs reduce addiction risk",
+          "Medicines work on satiation and reward centers",
+          "Weight-loss drugs may be recommended for addiction treatment"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 14:00:35 GMT",
         "title": "How a ‘vacuum cleaner turned the other way’ became a popular solution to snoring disorders",
@@ -423,23 +521,23 @@
             "title": "How a ‘vacuum cleaner turned the other way’ became a popular solution to snoring disorders",
             "standfirst": "Cpap machines were once used only for severe sleep apnoea but sleep medicine physicians say there has been a rise in prescribing for milder casesGet our weekend culture and lifestyle emailWhen Nick went camping in the summer with friends, he would set up his tent 100 metres away from the group.“It became a bit that I did,” says Nick. As early as his teenage years, he learned to use humour to cope with what was immediately a social problem: the “cacophony” of his snoring.Sign up for the fun stuff with our rundown of must-reads, pop culture and tips for the weekend, every Saturday morning Continue reading...",
             "content": "Cpap machines were once used only for severe sleep apnoea but sleep medicine physicians say there has been a rise in prescribing for milder casesGet our weekend culture and lifestyle emailWhen Nick went camping in the summer with friends, he would set up his tent 100 metres away from the group.“It became a bit that I did,” says Nick. As early as his teenage years, he learned to use humour to cope with what was immediately a social problem: the “cacophony” of his snoring.Sign up for the fun stuff with our rundown of must-reads, pop culture and tips for the weekend, every Saturday morning Continue reading...",
-            "feed_position": 9
+            "feed_position": 11
           }
         ],
         "ai_summary": [
-          "Cpap machines are used for severe sleep apnoea",
-          "The machines are now prescribed for milder cases",
-          "Sleep medicine physicians see a rise in prescriptions",
-          "The machines help reduce snoring and improve sleep",
-          "The treatment is becoming more widely accepted"
+          "Cpap machines prescribed for mild sleep apnoea",
+          "Sleep medicine physicians recommend cpap machines",
+          "Machines used to treat snoring and sleep disorders",
+          "Rise in prescribing cpap machines for milder cases",
+          "Cpap machines help reduce snoring and improve sleep"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 14:00:28 GMT",
         "title": "Hustle culture is destroying our clients. It’s time they let their impossible standards crash to the ground | Gaynor Parkin and Dave Winsborough",
-        "neutral_headline": "Experts discuss mental health issues in their work",
+        "neutral_headline": "Hustle culture destroys mental health",
         "items": [
           {
             "source": "Guardian Health",
@@ -448,23 +546,23 @@
             "title": "Hustle culture is destroying our clients. It’s time they let their impossible standards crash to the ground | Gaynor Parkin and Dave Winsborough",
             "standfirst": "In business especially, endurance, grit and ‘pushing through’ are rewarded. How do we create alternatives?The modern mind is a column where experts discuss mental health issues they are seeing in their workOutwardly performing brilliantly in a high-profile role, Ariana* races through her days. When her baby sleeps, she jumps on calls, replies to messages, sometimes squeezing in a few exercises to try to stay fit. When the baby wakes, the loop begins again. Despite exhaustion, Ariana holds herself to her internal standards of high output and pace.Many media commentators have labelled this way of living “the cult of productivity”. It’s compounded by popular “hustle culture” – do more and do it faster! Continue reading...",
             "content": "In business especially, endurance, grit and ‘pushing through’ are rewarded. How do we create alternatives?The modern mind is a column where experts discuss mental health issues they are seeing in their workOutwardly performing brilliantly in a high-profile role, Ariana* races through her days. When her baby sleeps, she jumps on calls, replies to messages, sometimes squeezing in a few exercises to try to stay fit. When the baby wakes, the loop begins again. Despite exhaustion, Ariana holds herself to her internal standards of high output and pace.Many media commentators have labelled this way of living “the cult of productivity”. It’s compounded by popular “hustle culture” – do more and do it faster! Continue reading...",
-            "feed_position": 10
+            "feed_position": 12
           }
         ],
         "ai_summary": [
-          "Ariana holds herself to high internal standards",
-          "Exhaustion affects people with high output and pace",
-          "Hustle culture is compounded by productivity",
-          "Endurance and grit are rewarded in business",
-          "Alternatives to current standards are being created"
+          "Hustle culture rewards endurance and grit",
+          "High standards and pace affect mental health",
+          "Alternatives to hustle culture needed",
+          "Exhaustion and burnout common in high-pressure roles",
+          "Mental health affected by unrealistic expectations"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 14:00:27 GMT",
         "title": "‘I’ve been living under a shadow for 13 years’: life with prostate cancer",
-        "neutral_headline": "I’ve been living under a shadow for 13 years",
+        "neutral_headline": "Life with prostate cancer",
         "items": [
           {
             "source": "Guardian Health",
@@ -473,23 +571,23 @@
             "title": "‘I’ve been living under a shadow for 13 years’: life with prostate cancer",
             "standfirst": "Prostate cancer is the most commonly diagnosed cancer in the UK. But screening is not universal, and charities are divided over whether it should be extended. What do those living with the disease think? Almost seven years into his retirement, David Bulteel should be enjoying the fruits of his 40-year career in the City. On paper, he has the lot: a tidy pension, delightful grandkids, a big house in the Buckinghamshire commuter belt. He’s naturally upbeat and driven, which he says was in part a reaction to the trauma of losing his right arm in a motorbike crash at 21. He was so energetic and enthusiastic in the office that his nickname was “Tigger”.“My philosophy has always been that there’s no such thing as a problem that you can’t solve,” Bulteel, 70, tells me from his home, where he’s wearing two jumpers on one of the coldest days of the winter. “The reality now is that I’ve been living under a shadow for 13 years, which has had a huge impact not just on me but on my whole family.” Continue reading...",
             "content": "Prostate cancer is the most commonly diagnosed cancer in the UK. But screening is not universal, and charities are divided over whether it should be extended. What do those living with the disease think? Almost seven years into his retirement, David Bulteel should be enjoying the fruits of his 40-year career in the City. On paper, he has the lot: a tidy pension, delightful grandkids, a big house in the Buckinghamshire commuter belt. He’s naturally upbeat and driven, which he says was in part a reaction to the trauma of losing his right arm in a motorbike crash at 21. He was so energetic and enthusiastic in the office that his nickname was “Tigger”.“My philosophy has always been that there’s no such thing as a problem that you can’t solve,” Bulteel, 70, tells me from his home, where he’s wearing two jumpers on one of the coldest days of the winter. “The reality now is that I’ve been living under a shadow for 13 years, which has had a huge impact not just on me but on my whole family.” Continue reading...",
-            "feed_position": 11
+            "feed_position": 13
           }
         ],
         "ai_summary": [
-          "Prostate cancer is the most commonly diagnosed cancer",
-          "David Bulteel has been living with the disease for 13 years",
-          "Screening for prostate cancer is not universal",
-          "Charities are divided over extending screening",
-          "Patients think screening should be extended"
+          "Prostate cancer most commonly diagnosed cancer",
+          "Screening not universal for prostate cancer",
+          "Charities divided over extending screening",
+          "Patients living with prostate cancer face challenges",
+          "Prostate cancer affects quality of life"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 13:57:37 GMT",
         "title": "Wyoming’s new six-week abortion ban prompts lawsuit",
-        "neutral_headline": "Wyoming passes six-week abortion ban",
+        "neutral_headline": "Wyoming's new six-week abortion ban prompts lawsuit",
         "items": [
           {
             "source": "Guardian Health",
@@ -498,23 +596,23 @@
             "title": "Wyoming’s new six-week abortion ban prompts lawsuit",
             "standfirst": "Bill faces constitutional hurdles as previous abortion bans were struck down by state supreme court in JanuarySign up for the Breaking News US email to get newsletter alerts in your inboxWyoming’s Republican-dominated legislature passed a six-week abortion ban this week, prompting a new lawsuit and some lawmakers to call it “an insult to voters and our institution”.Mark Gordon, Wyoming’s governor, signed the bill while simultaneously warning of its constitutional hurdles, noting that prior abortion bans were struck down by the state’s all Republican-appointed supreme court this January. Almost immediately, an identical set of plaintiffs filed suit against the new bill. Continue reading...",
             "content": "Bill faces constitutional hurdles as previous abortion bans were struck down by state supreme court in JanuarySign up for the Breaking News US email to get newsletter alerts in your inboxWyoming’s Republican-dominated legislature passed a six-week abortion ban this week, prompting a new lawsuit and some lawmakers to call it “an insult to voters and our institution”.Mark Gordon, Wyoming’s governor, signed the bill while simultaneously warning of its constitutional hurdles, noting that prior abortion bans were struck down by the state’s all Republican-appointed supreme court this January. Almost immediately, an identical set of plaintiffs filed suit against the new bill. Continue reading...",
-            "feed_position": 12
+            "feed_position": 14
           }
         ],
         "ai_summary": [
-          "Wyoming’s legislature passed a six-week abortion ban",
-          "The bill faces constitutional hurdles",
-          "Previous abortion bans were struck down",
-          "Lawmakers call the bill an insult to voters",
-          "A lawsuit has been filed against the new bill"
+          "Wyoming passes six-week abortion ban",
+          "Bill faces constitutional hurdles",
+          "Previous abortion bans struck down by state supreme court",
+          "Lawsuit filed against new abortion ban",
+          "Abortion ban affects women's reproductive rights"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sun, 15 Mar 2026 13:40:15 GMT",
         "title": "'I have four months left to preserve my fertility'",
-        "neutral_headline": "Woman freezes eggs after endometriosis surgery",
+        "neutral_headline": "Iona Hall has four months to preserve fertility",
         "items": [
           {
             "source": "BBC Health",
@@ -529,96 +627,17 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22d0/live/da5dd770-2058-11f1-b048-c9424b2cf5fd.jpg",
         "ai_summary": [
-          "Iona Hall is freezing her eggs",
-          "Endometriosis surgery left her fertility reserves low",
-          "She has four months to preserve her fertility",
-          "Egg freezing is an option for women",
-          "Fertility preservation is a concern for women"
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Sun, 15 Mar 2026 12:00:24 GMT",
-        "title": "From childhood to midlife and beyond: how to handle anxiety at every age",
-        "neutral_headline": "Experts share strategies for managing anxiety",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/mar/15/how-to-handle-anxiety-at-every-age",
-            "published_at": "Sun, 15 Mar 2026 12:00:24 GMT",
-            "title": "From childhood to midlife and beyond: how to handle anxiety at every age",
-            "standfirst": "Talk about your fears, normalise difficult emotions, get up and move: experts share their strategies for managing anxiety at different stages of lifeWe are living in an age of anxiety. A 2023 survey by the Mental Health Foundation found that one in five people in the UK experience anxiety all or most of the time. In 2024, 500 children a day were being referred for NHS anxiety treatment in England.It is one of the epidemics of our time, says Owen O’Kane, a psychotherapist and the author of Addicted to Anxiety: How to Break the Habit. “When we look at what is happening in the world at the moment, the one thing we have an abundance of is uncertainty. If you look at a textbook definition of anxiety, it is an intolerance of uncertainty.” Continue reading...",
-            "content": "Talk about your fears, normalise difficult emotions, get up and move: experts share their strategies for managing anxiety at different stages of lifeWe are living in an age of anxiety. A 2023 survey by the Mental Health Foundation found that one in five people in the UK experience anxiety all or most of the time. In 2024, 500 children a day were being referred for NHS anxiety treatment in England.It is one of the epidemics of our time, says Owen O’Kane, a psychotherapist and the author of Addicted to Anxiety: How to Break the Habit. “When we look at what is happening in the world at the moment, the one thing we have an abundance of is uncertainty. If you look at a textbook definition of anxiety, it is an intolerance of uncertainty.” Continue reading...",
-            "feed_position": 13
-          }
-        ],
-        "ai_summary": [
-          "Anxiety affects people of all ages",
-          "One in five people experience anxiety",
-          "Experts share strategies for managing anxiety",
-          "Talking about fears can help manage anxiety",
-          "Exercise and movement can reduce anxiety"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Sun, 15 Mar 2026 10:41:30 GMT",
-        "title": "Police-style powers to tackle fly-tippers being considered",
-        "neutral_headline": "Police style powers to tackle fly tippers",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c8d5z7rd5mpo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 15 Mar 2026 10:41:30 GMT",
-            "title": "Police-style powers to tackle fly-tippers being considered",
-            "standfirst": "The move would allow officers to search premises without a warrant, seize assets and arrest those suspected of criminality.",
-            "content": "The move would allow officers to search premises without a warrant, seize assets and arrest those suspected of criminality.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/286d/live/c26c9210-2025-11f1-9120-a910fc22c6ac.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/286d/live/c26c9210-2025-11f1-9120-a910fc22c6ac.jpg",
-        "ai_summary": [
-          "Officers may get powers to search premises",
-          "They can seize assets and arrest suspects",
-          "The move aims to tackle fly tipping",
-          "Criminality will be addressed",
-          "New powers will help reduce fly tipping"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Sun, 15 Mar 2026 07:32:42 GMT",
-        "title": "Funding for green community initiatives",
-        "neutral_headline": "Funding for green community initiatives",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cx2gvw1z2gwo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 15 Mar 2026 07:32:42 GMT",
-            "title": "Funding for green community initiatives",
-            "standfirst": "Staffordshire Moorlands District Council says projects can receive up to £5.000.",
-            "content": "Staffordshire Moorlands District Council says projects can receive up to £5.000.",
-            "feed_position": 7,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da87/live/603e4cd0-1bcc-11f1-964c-87b629a369ca.png"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da87/live/603e4cd0-1bcc-11f1-964c-87b629a369ca.png",
-        "ai_summary": [
-          "Staffordshire Moorlands offers funding",
-          "Green community projects can receive funding",
-          "Projects can get up to £5000",
-          "The funding supports environmental initiatives",
-          "Community projects can apply for funding"
+          "Iona Hall freezing eggs after endometriosis surgery",
+          "Egg reserves critically low after surgery",
+          "Four months to preserve fertility",
+          "Endometriosis affects fertility and health",
+          "Egg freezing an option for preserving fertility"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-16T08:07:35.495Z",
+    "updated_at": "2026-03-16T11:48:05.077Z",
     "clusters": []
   }
 }
