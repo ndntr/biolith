@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-03-17T19:53:39.129Z",
+    "updated_at": "2026-03-17T23:32:41.303Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-17T19:53:42.159Z",
+    "updated_at": "2026-03-17T23:32:55.187Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/7f1d5670-ea04-40de-8ba6-b594669782f4/Peptide-use-emerging-faster-than-we-re-tracking-it.aspx",
         "ai_summary": [
-          "Peptide use is increasing rapidly",
-          "Online marketing is fueling sales",
-          "Unregulated peptides are being sold",
-          "RACGP expert calls for regulation",
-          "Social media is a major sales platform"
+          "Peptide use is emerging quickly",
+          "An RACGP expert is calling for regulation",
+          "Social media is fueling sales of peptides",
+          "The peptides are unregulated and sold online",
+          "The expert is warning about the rapid emergence"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/8eed393e-55ee-4497-99f2-a321efda0d5e/RACGP-pushes-back-on-expanding-weight-loss-drugs-for-kids.aspx",
         "ai_summary": [
-          "RACGP opposes weight loss drugs for kids",
-          "Ozempic manufacturer supports its use",
-          "The college warns of health risks",
-          "Holistic care may be replaced",
-          "Health budgets may be affected"
+          "The RACGP is pushing back on expanding weight-loss drugs",
+          "The drugs are for kids with obesity",
+          "Ozempic manufacturer Novo Nordisk supports expansion",
+          "The RACGP warns about replacing holistic care",
+          "The college is concerned about health budgets"
         ]
       },
       {
@@ -80,11 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/1f934f24-1079-4736-acb8-5747929e1f12/No-evidence-cannabis-works-for-most-mental-health-disorders-Review.aspx",
         "ai_summary": [
-          "Cannabis has no evidence for mental health",
-          "Review found no effective treatment",
-          "Depression and anxiety not helped",
-          "PTSD not treated by cannabis",
-          "Largest review of its kind conducted"
+          "There is no evidence cannabis works for mental health",
+          "The finding is from the largest-ever review",
+          "Cannabinoids are not effective for depression",
+          "Cannabinoids are not effective for anxiety",
+          "Cannabinoids are not effective for PTSD treatment"
         ]
       },
       {
@@ -107,11 +107,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/c58fbcd9-4e8d-4476-942a-84c13e20df54/Women-21-less-likely-to-die-from-cancer-Study.aspx",
         "ai_summary": [
-          "Women have lower cancer death rate",
-          "Study used US FDA trial data",
-          "Women have higher side effect risk",
-          "Severe side effects are more common",
-          "Cancer treatment outcomes vary"
+          "Women have 21 percent lower cancer death risk",
+          "Severe side effects risk is 12 percent higher",
+          "Data from US FDA approved clinical trials used",
+          "Study found significant differences in outcomes",
+          "Women's health outcomes are improving slowly"
         ]
       },
       {
@@ -134,24 +134,51 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/d614128b-9739-4c19-9af8-29b97a1281c4/Rural-town-vows-to-support-a-GP-to-no-end.aspx",
         "ai_summary": [
-          "Rural town needs a permanent doctor",
-          "Town spent $1 million on medical centre",
+          "Town of Kimba spent 1 million on medical centre",
           "Rent free homes built for doctors",
-          "Ad campaign launched to attract GP",
-          "Community is supportive of doctors"
+          "Ad campaign launched to attract permanent doctor",
+          "Community supports local healthcare services",
+          "Doctor recruitment efforts are ongoing"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-03-17T19:53:41.610Z",
+    "updated_at": "2026-03-17T23:32:50.499Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Tue, 17 Mar 2026 20:46:45 GMT",
+        "title": "Moment suspected meteor is spotted over Ohio and Pennsylvania",
+        "neutral_headline": "Meteor spotted over Ohio and Pennsylvania",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/videos/cewzw221wn5o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 17 Mar 2026 20:46:45 GMT",
+            "title": "Moment suspected meteor is spotted over Ohio and Pennsylvania",
+            "standfirst": "The fireball, which Nasa confirmed to have fallen near Cleveland, broke the sound barrier and caused a kaboom as it landed.",
+            "content": "The fireball, which Nasa confirmed to have fallen near Cleveland, broke the sound barrier and caused a kaboom as it landed.",
+            "feed_position": 12,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c4d/live/ffb17520-223f-11f1-a79a-77e93010d956.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c4d/live/ffb17520-223f-11f1-a79a-77e93010d956.jpg",
+        "ai_summary": [
+          "Fireball broke sound barrier and landed near Cleveland",
+          "Nasa confirmed the meteor's fall",
+          "Kaboom heard as meteor landed",
+          "Meteor's origin and size are unknown",
+          "No damage or injuries reported"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
         "updated_at": "Tue, 17 Mar 2026 19:48:33 GMT",
         "title": "Desperate parents calling pharmacies for meningitis jab as stocks run low",
-        "neutral_headline": "Meningitis Jab Stocks Run Low",
+        "neutral_headline": "Meningitis jab stocks run low in UK",
         "items": [
           {
             "source": "Guardian Health",
@@ -164,19 +191,19 @@
           }
         ],
         "ai_summary": [
-          "Meningitis vaccine stocks are low",
-          "Demand is high due to Kent outbreak",
+          "Meningitis vaccine stocks are running low",
+          "Demand increased after Kent outbreak",
+          "Two people died and 13 are seriously ill",
           "Pharmacies cannot get vaccine supplies",
-          "Parents are desperate for vaccination",
-          "Vaccine shortage is a concern"
+          "Health officials are working to resolve issue"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Tue, 17 Mar 2026 19:40:19 GMT",
         "title": "Kent students to be offered targeted meningitis B jabs after two more cases",
-        "neutral_headline": "Kent Students To Get Meningitis B Jabs",
+        "neutral_headline": "Kent students to get meningitis B jabs",
         "items": [
           {
             "source": "Guardian Health",
@@ -234,19 +261,19 @@
           }
         ],
         "ai_summary": [
-          "Kent students to receive meningitis B vaccine",
-          "Vaccination program to be launched",
-          "Strain B of disease identified in outbreak",
-          "Government scientists confirm strain",
-          "Vaccination program to start soon"
+          "Targeted vaccination program to be launched",
+          "Meningitis B strain identified in fatal outbreak",
+          "Government scientists confirmed strain B",
+          "Vaccination program to start soon",
+          "Students at risk will be vaccinated"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Tue, 17 Mar 2026 19:02:26 GMT",
         "title": "‘Missed opportunities’ to prevent woman’s death in prison cell fire, inquest finds",
-        "neutral_headline": "Prison Cell Fire Death Inquest Finds Missed Opportunities",
+        "neutral_headline": "Prison cell fire death inquest finds missed opportunities",
         "items": [
           {
             "source": "Guardian Health",
@@ -259,19 +286,19 @@
           }
         ],
         "ai_summary": [
-          "Inquest finds missed opportunities in prison death",
-          "Woman died in cell fire using vape",
-          "Severe mental illness was a factor",
-          "Missed opportunities could have prevented death",
-          "Inquest findings are being reviewed"
+          "Inquest found missed opportunities to prevent death",
+          "Woman with mental illness died in prison cell fire",
+          "Vape used to start blaze at HMP Eastwood Park",
+          "Prison authorities are reviewing procedures",
+          "Inquest findings will be implemented"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Tue, 17 Mar 2026 18:26:30 GMT",
         "title": "Mayors to gain more spending power under Reeves tax plans",
-        "neutral_headline": "Mayors To Gain More Spending Power",
+        "neutral_headline": "Mayors to get more spending power",
         "items": [
           {
             "source": "BBC Science",
@@ -286,19 +313,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67c2/live/6f775d60-2214-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "Mayors to get more spending power",
           "Chancellor sets out economic growth plan",
-          "Closer ties to EU are included",
-          "Government plans to boost economy",
-          "Mayors will have more control"
+          "Mayors to gain more spending power",
+          "Closer ties to EU included in plan",
+          "Government aims to boost economic growth",
+          "Plan details will be announced soon"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Tue, 17 Mar 2026 18:22:47 GMT",
         "title": "Zelenskyy says Europe is a ‘global force’ that can stand against any other power in address to MPs – as it happened",
-        "neutral_headline": "Zelenskyy Says Europe Is Global Force",
+        "neutral_headline": "Zelenskyy addresses MPs on Europe's global role",
         "items": [
           {
             "source": "Guardian Health",
@@ -311,19 +338,19 @@
           }
         ],
         "ai_summary": [
-          "Zelenskyy addresses MPs in Europe",
-          "Europe is a global force against power",
-          "Keir Starmer supports Ukraine",
-          "War in Iran will not distract UK",
-          "Ukraine support is a priority"
+          "Zelenskyy says Europe is a global force",
+          "EU can stand against other powers",
+          "UK to continue supporting Ukraine",
+          "Zelenskyy's address was well received",
+          "EU's global role is being discussed"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Tue, 17 Mar 2026 17:39:27 GMT",
         "title": "‘It’s like Covid II’: Canterbury’s student hangouts left empty by meningitis scare",
-        "neutral_headline": "Meningitis Scare Empties Canterbury Student Hangouts",
+        "neutral_headline": "Meningitis scare empties Canterbury student hangouts",
         "items": [
           {
             "source": "Guardian Health",
@@ -336,19 +363,19 @@
           }
         ],
         "ai_summary": [
-          "Meningitis scare affects Canterbury students",
-          "Student hangouts are empty",
+          "Meningitis outbreak affects student hangouts",
+          "Students left for Easter holiday early",
           "In person assessments were cut",
           "Exams were moved online",
-          "Students have left for Easter holiday"
+          "Students are concerned about outbreak"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Tue, 17 Mar 2026 17:04:07 GMT",
         "title": "Meningitis is back – and here is why | Devi Sridhar",
-        "neutral_headline": "Meningitis Is Back And Here Is Why",
+        "neutral_headline": "Meningitis is back and here is why",
         "items": [
           {
             "source": "Guardian Health",
@@ -361,19 +388,19 @@
           }
         ],
         "ai_summary": [
-          "Meningitis is a public health concern",
-          "Two deaths have occurred in Kent",
-          "13 cases have been confirmed",
-          "Investment in public health is needed",
-          "Meningitis has been an ongoing issue"
+          "Meningitis cases are increasing in UK",
+          "Two deaths and 13 cases confirmed",
+          "Meningitis B strain is identified",
+          "Vaccination programs are being discussed",
+          "Public health investment is needed"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Tue, 17 Mar 2026 16:38:30 GMT",
         "title": "We get it RFK Jr: you have abs. Now enough with the slopaganda | Arwa Mahdawi",
-        "neutral_headline": "Robert F Kennedy Jr Posts Shirtless Workout Videos",
+        "neutral_headline": "RFK Jr posts shirtless workouts on social media",
         "items": [
           {
             "source": "Guardian Health",
@@ -386,19 +413,19 @@
           }
         ],
         "ai_summary": [
-          "Robert F Kennedy Jr posts shirtless workout videos on social media",
-          "He has been doing this since his presidential campaign in 2023",
-          "Kennedy is now the US health secretary",
-          "He posts videos of himself doing push-ups and other exercises",
-          "His actions have been criticized by some as unprofessional"
+          "RFK Jr posts workout videos online",
+          "Health secretary's social media use criticized",
+          "Measles cases are increasing in US",
+          "RFK Jr's priorities are being questioned",
+          "Social media use is being debated"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Tue, 17 Mar 2026 16:00:50 GMT",
         "title": "‘Strong evidence’ of lowered dementia risk: the benefits of shingles vaccination",
-        "neutral_headline": "Shingles Vaccination Lowers Dementia Risk",
+        "neutral_headline": "Shingles vaccination may lower dementia risk",
         "items": [
           {
             "source": "Guardian Health",
@@ -411,19 +438,19 @@
           }
         ],
         "ai_summary": [
-          "Shingles vaccination may lower risk of dementia and stroke",
-          "One in three people in the US get shingles",
-          "US vaccination rates for shingles are about 35 percent",
-          "The vaccine is effective but vaccine fatigue is a concern",
-          "Low vaccination rates are consistent with overall trends"
+          "Shingles vaccine may lower dementia risk",
+          "Vaccine also lowers stroke and heart risk",
+          "US vaccination rates are low",
+          "Vaccine effectiveness is being studied",
+          "More research is needed on vaccine benefits"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Tue, 17 Mar 2026 15:36:28 GMT",
         "title": "Judge blocks RFK Jr's changes to US childhood vaccine schedule",
-        "neutral_headline": "Judge Blocks RFK Jr's Changes to US Childhood Vaccine Schedule",
+        "neutral_headline": "Judge blocks RFK Jr's vaccine schedule changes",
         "items": [
           {
             "source": "BBC Health",
@@ -438,19 +465,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4240/live/1a97f330-2206-11f1-901a-f7fb21330210.jpg",
         "ai_summary": [
-          "A judge has blocked changes to the US childhood vaccine schedule",
-          "Robert F Kennedy Jr had reduced recommended vaccines from 17 to 11",
-          "The changes sparked a backlash from health experts",
-          "The judge's decision is a significant development in the debate",
-          "The vaccine schedule is crucial for public health"
+          "Judge blocks changes to US vaccine schedule",
+          "RFK Jr had reduced recommended vaccines",
+          "Health experts criticized the changes",
+          "Vaccine schedule will remain unchanged",
+          "Court decision is being welcomed"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Tue, 17 Mar 2026 15:13:16 GMT",
         "title": "Sally Berry obituary",
-        "neutral_headline": "Sally Berry Obituary Psychotherapist",
+        "neutral_headline": "Sally Berry obituary psychotherapist dies",
         "items": [
           {
             "source": "Guardian Health",
@@ -463,19 +490,19 @@
           }
         ],
         "ai_summary": [
-          "Sally Berry was a psychotherapist who worked with people with difficulties",
-          "She lived and worked at the Arbours Association in London",
-          "Berry provided counseling to women experiencing personal struggles",
-          "She was chair of the training committee at the Arbours Association",
-          "Berry died aged 85 after a long career in psychotherapy"
+          "Sally Berry was a pioneering psychotherapist",
+          "She worked with people with emotional difficulties",
+          "Berry was chair of Arbours Association training",
+          "She provided counseling to women",
+          "Berry's legacy will be remembered"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Tue, 17 Mar 2026 14:49:17 GMT",
         "title": "Why is MenB vaccine not given to teenagers in UK and should they be offered it?",
-        "neutral_headline": "MenB Vaccine Not Given to Teenagers in UK",
+        "neutral_headline": "Why is MenB vaccine not given to teenagers",
         "items": [
           {
             "source": "BBC Health",
@@ -490,19 +517,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d3/live/04098770-21fa-11f1-9256-9b680459597d.jpg",
         "ai_summary": [
-          "The MenB vaccine is not given to teenagers in the UK",
-          "Students and older teens have not been vaccinated against the strain",
-          "There has been an outbreak of cases in Kent",
-          "The vaccine is typically given to younger children",
-          "There is debate about whether teenagers should be offered the vaccine"
+          "MenB vaccine not given to UK teenagers",
+          "Students and older teens not vaccinated",
+          "Outbreak of cases in Kent occurred",
+          "Vaccine is not part of routine schedule",
+          "Vaccination policy is being reviewed"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Tue, 17 Mar 2026 14:24:53 GMT",
         "title": "What is the UK Covid inquiry and how does it work?",
-        "neutral_headline": "UK Covid Inquiry and How it Works",
+        "neutral_headline": "UK Covid Inquiry Publishes Reports",
         "items": [
           {
             "source": "BBC Health",
@@ -517,19 +544,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bda/live/d088bf20-5723-11f0-82f9-ffcaa67a8d94.jpg",
         "ai_summary": [
-          "The UK Covid inquiry is investigating the government's pandemic response",
-          "The inquiry has published two reports with eight more to follow",
-          "The inquiry is examining the government's handling of the pandemic",
-          "The reports will provide insight into the government's decision-making",
-          "The inquiry is a significant development in the pandemic's aftermath"
+          "UK Covid inquiry published two reports",
+          "Eight more reports are expected to follow",
+          "Inquiry examines government pandemic handling",
+          "Reports provide insight into pandemic response",
+          "Findings will inform future pandemic planning"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Tue, 17 Mar 2026 14:03:18 GMT",
         "title": "What are the symptoms of meningitis and is there a vaccine?",
-        "neutral_headline": "Symptoms of Meningitis and Vaccine Availability",
+        "neutral_headline": "Meningitis Outbreak Kills Two People",
         "items": [
           {
             "source": "BBC Health",
@@ -544,44 +571,44 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/272f/live/77b9b680-2200-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "Meningitis symptoms include fever and headache",
-          "Two people have died following an outbreak of meningitis",
-          "There is a vaccine available for meningitis",
-          "The vaccine is typically given to younger children",
-          "The outbreak has raised concerns about vaccine availability"
+          "Two people died from meningitis outbreak",
+          "One victim was a University of Kent student",
+          "Meningitis symptoms require prompt treatment",
+          "Vaccines are available for meningitis prevention",
+          "Outbreak highlights importance of vaccination"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Tue, 17 Mar 2026 14:00:51 GMT",
         "title": "Honey as a superfood: can it really heal wounds, fight superbugs and provide sweet relief for coughs? | Antiviral",
-        "neutral_headline": "Honey as a Superfood for Wound Healing",
+        "neutral_headline": "Honey as a superfood: can it really heal wounds, fight superbugs and provide sweet relief for coughs?",
         "items": [
           {
             "source": "Guardian Health",
             "url": "https://www.theguardian.com/commentisfree/2026/mar/18/honey-health-benefits-sore-throat-antibiotic-sweetner-research",
             "published_at": "Tue, 17 Mar 2026 14:00:51 GMT",
             "title": "Honey as a superfood: can it really heal wounds, fight superbugs and provide sweet relief for coughs? | Antiviral",
-            "standfirst": "While it’s not effective as an antibiotic, some evidence suggests honey can help with wound healing – but good quality research is lackingRead more in the Antiviral seriesGet our breaking news email, free app or daily news podcastHumans have been consuming honey for thousands of years. The ancient Egyptians and Greeks used it as a sweetener, but also a treatment for burns. Hippocrates, often referred to as the “father of medicine”, championed the sticky stuff – mistakenly – for purposes as varied as contraception and baldness.Today, honey is often described as a superfood with a laundry list of promised benefits: a treatment for coughs, an antioxidant and anti-inflammatory, a potential solution to combat drug-resistant superbugs. Antiviral has previously debunked claims about hay fever and honey, finding there is little evidence that raw honey can reduce symptoms of allergic rhinitis.Donna Lu is an assistant editor, climate, environment and science at Guardian AustraliaAntiviral is a fortnightly column that interrogates the evidence behind the health headlines and factchecks popular wellness claims Continue reading...",
-            "content": "While it’s not effective as an antibiotic, some evidence suggests honey can help with wound healing – but good quality research is lackingRead more in the Antiviral seriesGet our breaking news email, free app or daily news podcastHumans have been consuming honey for thousands of years. The ancient Egyptians and Greeks used it as a sweetener, but also a treatment for burns. Hippocrates, often referred to as the “father of medicine”, championed the sticky stuff – mistakenly – for purposes as varied as contraception and baldness.Today, honey is often described as a superfood with a laundry list of promised benefits: a treatment for coughs, an antioxidant and anti-inflammatory, a potential solution to combat drug-resistant superbugs. Antiviral has previously debunked claims about hay fever and honey, finding there is little evidence that raw honey can reduce symptoms of allergic rhinitis.Donna Lu is an assistant editor, climate, environment and science at Guardian AustraliaAntiviral is a fortnightly column that interrogates the evidence behind the health headlines and factchecks popular wellness claims Continue reading...",
+            "standfirst": "While it’s not effective as an antibiotic, some evidence suggests honey can help with wound healing – but good-quality research is lackingRead more in the Antiviral seriesGet our breaking news email, free app or daily news podcastHumans have been consuming honey for thousands of years. The ancient Egyptians and Greeks used it as a sweetener, but also a treatment for burns. Hippocrates, often referred to as the “father of medicine”, championed the sticky stuff – mistakenly – for purposes as varied as contraception and baldness.Today, honey is often described as a superfood with a laundry list of promised benefits: a treatment for coughs, an antioxidant and anti-inflammatory, a potential solution to combat drug-resistant superbugs. Antiviral has previously debunked claims about hay fever and honey, finding there is little evidence that raw honey can reduce symptoms of allergic rhinitis.Donna Lu is an assistant editor, climate, environment and science at Guardian AustraliaAntiviral is a fortnightly column that interrogates the evidence behind the health headlines and factchecks popular wellness claims Continue reading...",
+            "content": "While it’s not effective as an antibiotic, some evidence suggests honey can help with wound healing – but good-quality research is lackingRead more in the Antiviral seriesGet our breaking news email, free app or daily news podcastHumans have been consuming honey for thousands of years. The ancient Egyptians and Greeks used it as a sweetener, but also a treatment for burns. Hippocrates, often referred to as the “father of medicine”, championed the sticky stuff – mistakenly – for purposes as varied as contraception and baldness.Today, honey is often described as a superfood with a laundry list of promised benefits: a treatment for coughs, an antioxidant and anti-inflammatory, a potential solution to combat drug-resistant superbugs. Antiviral has previously debunked claims about hay fever and honey, finding there is little evidence that raw honey can reduce symptoms of allergic rhinitis.Donna Lu is an assistant editor, climate, environment and science at Guardian AustraliaAntiviral is a fortnightly column that interrogates the evidence behind the health headlines and factchecks popular wellness claims Continue reading...",
             "feed_position": 11
           }
         ],
         "ai_summary": [
-          "Honey may have benefits for wound healing and coughs",
-          "Some evidence suggests honey can help with wound healing",
-          "Good quality research on honey's benefits is lacking",
-          "Honey is often described as a superfood with various benefits",
-          "More research is needed to confirm honey's effectiveness"
+          "Honey has been used for wound healing",
+          "Evidence for honey's benefits is limited",
+          "Honey is not effective as an antibiotic",
+          "Ancient civilizations used honey for medicine",
+          "More research is needed on honey's benefits"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Tue, 17 Mar 2026 12:56:56 GMT",
         "title": "Parents of teen who died in 2025 call for more government support",
-        "neutral_headline": "Parents of Teen Who Died in 2025 Call for Support",
+        "neutral_headline": "Parents Call for Government Support",
         "items": [
           {
             "source": "BBC Health",
@@ -596,15 +623,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/738d/live/daeee300-21fc-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "Parents of a teen who died in 2025 are calling for government support",
-          "The teen died from meningitis in October 2025",
-          "The parents are advocating for more support for families",
-          "They want to raise awareness about meningitis and its risks",
-          "The family's experience has been devastating"
+          "Parents of meningitis victim seek support",
+          "Helen and Lee Draper lost their daughter",
+          "Government support is needed for victims",
+          "Meningitis awareness is crucial for prevention",
+          "Parents advocate for increased government aid"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Tue, 17 Mar 2026 12:45:40 GMT",
         "title": "What are El Niño and La Niña, and how do they change the weather?",
@@ -623,19 +650,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f05/live/8bf1db80-ab42-11f0-ba75-093eca1ac29b.jpg",
         "ai_summary": [
-          "El Niño and La Niña affect global temperatures and rain patterns",
-          "The climate phenomenon has significant impacts on weather",
-          "El Niño and La Niña are complex and multifaceted",
-          "They have effects on agriculture and food production",
-          "Understanding El Niño and La Niña is crucial for climate prediction"
+          "El Niño and La Niña affect global temperatures",
+          "Climate phenomenon impacts rain patterns",
+          "El Niño and La Niña have significant effects",
+          "Global weather patterns are influenced",
+          "Climate scientists study El Niño and La Niña"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Tue, 17 Mar 2026 12:45:33 GMT",
         "title": "Discussion over the future of Sark launched",
-        "neutral_headline": "Discussion on Future of Sark Launched",
+        "neutral_headline": "Discussion on Sark Island Future",
         "items": [
           {
             "source": "BBC Science",
@@ -650,19 +677,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9db6/live/ad8f69f0-21f4-11f1-9256-9b680459597d.jpg",
         "ai_summary": [
-          "A discussion on the future of Sark has been launched",
-          "Islanders are being urged to share their ideas and concerns",
-          "The discussion will focus on what matters most for residents",
-          "The future of Sark is uncertain and needs to be addressed",
-          "The discussion will help shape the island's development"
+          "Islanders discuss future of Sark Island",
+          "Residents share ideas on island development",
+          "Community input is essential for planning",
+          "Islanders consider environmental impact",
+          "Future plans aim to preserve island character"
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Tue, 17 Mar 2026 12:00:46 GMT",
         "title": "I help people with psychosis off the streets. Sometimes, their minds won’t let them leave",
-        "neutral_headline": "Helping People with Psychosis Off the Streets",
+        "neutral_headline": "I help people with psychosis off the streets. Sometimes, their minds won’t let them leave",
         "items": [
           {
             "source": "Guardian Health",
@@ -675,44 +702,17 @@
           }
         ],
         "ai_summary": [
-          "A mental health chaplain helps people with psychosis",
-          "The chaplain assists people in leaving homelessness",
-          "Mental illness and bureaucracy can make it difficult",
-          "The system is fragile and often pulls people back",
-          "The chaplain's work is crucial for supporting vulnerable individuals"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Tue, 17 Mar 2026 10:17:20 GMT",
-        "title": "Scotland is about to vote on assisted dying. How would it work?",
-        "neutral_headline": "Scotland to Vote on Assisted Dying",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c8jg9kgz209o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 17 Mar 2026 10:17:20 GMT",
-            "title": "Scotland is about to vote on assisted dying. How would it work?",
-            "standfirst": "The Scottish Parliament will soon decide whether to allow terminally-ill adults to end their lives.",
-            "content": "The Scottish Parliament will soon decide whether to allow terminally-ill adults to end their lives.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0975/live/a7043840-30b9-11f0-96c3-cf669419a2b0.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0975/live/a7043840-30b9-11f0-96c3-cf669419a2b0.jpg",
-        "ai_summary": [
-          "Scotland will soon vote on assisted dying",
-          "The vote will decide whether to allow terminally-ill adults to end lives",
-          "The Scottish Parliament will make the decision",
-          "The issue is complex and contentious",
-          "The vote will have significant implications for end-of-life care"
+          "Mental health chaplain helps homeless people",
+          "Psychosis and bureaucracy hinder progress",
+          "Mental illness is a significant challenge",
+          "Fragile system makes it hard to help",
+          "Chaplain provides support and guidance"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-17T19:53:42.159Z",
+    "updated_at": "2026-03-17T23:32:55.188Z",
     "clusters": []
   }
 }
