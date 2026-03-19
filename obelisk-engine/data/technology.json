@@ -1,12 +1,88 @@
 {
-  "updated_at": "2026-03-19T19:46:03.441Z",
+  "updated_at": "2026-03-19T23:30:34.682Z",
   "clusters": [
     {
-      "id": "cluster_11",
+      "id": "cluster_24",
+      "coverage": 2,
+      "updated_at": "Thu, 19 Mar 2026 16:20:01 -0400",
+      "title": "Signal's Moxie Marlinspike says his privacy-focused AI platform Confer will integrate its encryption tech into Meta AI to provide E2EE for chatbot interactions (Wired)",
+      "neutral_headline": "Signal's Moxie Marlinspike says his privacy-focused AI platform Confer will integrate its encryption tech into Meta AI to provide E2EE for chatbot interactions",
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/260319/p47#a260319p47",
+          "published_at": "Thu, 19 Mar 2026 16:20:01 -0400",
+          "title": "Signal's Moxie Marlinspike says his privacy-focused AI platform Confer will integrate its encryption tech into Meta AI to provide E2EE for chatbot interactions (Wired)",
+          "standfirst": "Wired: Signal's Moxie Marlinspike says his privacy-focused AI platform Confer will integrate its encryption tech into Meta AI to provide E2EE for chatbot interactions &mdash; Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI.",
+          "content": "Wired: Signal's Moxie Marlinspike says his privacy-focused AI platform Confer will integrate its encryption tech into Meta AI to provide E2EE for chatbot interactions &mdash; Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI.",
+          "feed_position": 8,
+          "image_url": "http://www.techmeme.com/260319/i47.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/",
+          "published_at": "Thu, 19 Mar 2026 14:09:51 +0000",
+          "title": "Signal’s Creator Is Helping Encrypt Meta AI",
+          "standfirst": "Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI. The move could help protect the AI conversations of millions of people.",
+          "content": "Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI. The move could help protect the AI conversations of millions of people.",
+          "feed_position": 7,
+          "image_url": "https://media.wired.com/photos/69baacb648cfa1aefb918759/master/pass/GettyImages-2263125077.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260319/i47.jpg",
+      "popularity_score": 2016.8239775,
+      "ai_summary": [
+        "Moxie Marlinspike is integrating encryption tech",
+        "The tech will be used in Meta AI chatbots",
+        "The goal is to provide end-to-end encryption",
+        "The integration will enhance user privacy",
+        "The move is seen as a positive development"
+      ]
+    },
+    {
+      "id": "cluster_25",
+      "coverage": 2,
+      "updated_at": "Thu, 19 Mar 2026 20:11:36 +0000",
+      "title": "Millions of iPhones can be hacked with a new tool found in the wild",
+      "neutral_headline": "iPhones Can Be Hacked With New Tool",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+          "published_at": "Thu, 19 Mar 2026 20:11:36 +0000",
+          "title": "Millions of iPhones can be hacked with a new tool found in the wild",
+          "standfirst": "DarkSword, a powerful iPhone-hacking technique, has been discovered in use by Russian hackers.",
+          "content": "iPhone hacking techniques have sometimes been described almost like rare and elusive animals: Hackers have used them so stealthily and carefully against such a small number of hand-picked targets that they're only rarely seen in the wild. Now a recent spate of espionage and cybercriminal campaigns has instead deployed those same phone-takeover tools, embedded in infected websites, to indiscriminately hack phones by the thousands. And one new technique in particular—capable of taking over any of hundreds of millions of iOS devices—has appeared on the web in an easily reusable form, putting a significant fraction of the world's iPhone users at risk. Researchers at Google and cybersecurity firms iVerify and Lookout on Wednesday jointly revealed the discovery of a sophisticated iPhone hacking technique known as DarkSword that they've seen in use on infected websites, capable of instantly and silently hacking iOS devices that visit those sites. While the technique doesn't affect the latest updated versions of iOS, it does work against iOS devices running versions of Apple's previous operating system release, iOS 18, which as of last month still accounted for close to a quarter of iPhones, according to Apple's own count. “A vast number of iOS users could have all of their personal data stolen simply for visiting a popular website,” says Rocky Cole, iVerify's cofounder and CEO. “Hundreds of millions of people who are still using older Apple devices or older operating system versions remain vulnerable.”Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266672989-1152x648.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+          "published_at": "Wed, 18 Mar 2026 14:00:00 +0000",
+          "title": "Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild",
+          "standfirst": "A powerful iPhone-hacking technique known as DarkSword has been discovered in use by Russian hackers. It can take over devices running iOS 18 that simply visit infected websites.",
+          "content": "A powerful iPhone-hacking technique known as DarkSword has been discovered in use by Russian hackers. It can take over devices running iOS 18 that simply visit infected websites.",
+          "feed_position": 30,
+          "image_url": "https://media.wired.com/photos/69b86b74be9e27104c501c7c/master/pass/security_iphone_Getty.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266672989-1152x648.jpg",
+      "popularity_score": 2016.6836997222222,
+      "ai_summary": [
+        "A new iPhone-hacking tool has been found",
+        "The tool is called DarkSword",
+        "It can take over devices running iOS 18",
+        "The hack can occur through infected websites",
+        "Users are advised to be cautious"
+      ]
+    },
+    {
+      "id": "cluster_41",
       "coverage": 2,
       "updated_at": "Thu, 19 Mar 2026 14:35:01 -0400",
       "title": "Google moved some staffers working on Project Mariner, its AI agent that can navigate Chrome and complete tasks on a user's behalf, to higher-priority projects (Maxwell Zeff/Wired)",
-      "neutral_headline": "Google Moves Project Mariner Staff",
+      "neutral_headline": "Google Shifts Staff From Project Mariner",
       "items": [
         {
           "source": "TechMeme",
@@ -15,7 +91,7 @@
           "title": "Google moved some staffers working on Project Mariner, its AI agent that can navigate Chrome and complete tasks on a user's behalf, to higher-priority projects (Maxwell Zeff/Wired)",
           "standfirst": "Maxwell Zeff / Wired: Google moved some staffers working on Project Mariner, its AI agent that can navigate Chrome and complete tasks on a user's behalf, to higher-priority projects &mdash; As Silicon Valley obsesses over a new wave of AI coding agents, Google and other AI labs are shifting their bets.",
           "content": "Maxwell Zeff / Wired: Google moved some staffers working on Project Mariner, its AI agent that can navigate Chrome and complete tasks on a user's behalf, to higher-priority projects &mdash; As Silicon Valley obsesses over a new wave of AI coding agents, Google and other AI labs are shifting their bets.",
-          "feed_position": 3,
+          "feed_position": 12,
           "image_url": "http://www.techmeme.com/260319/i43.jpg"
         },
         {
@@ -25,26 +101,26 @@
           "title": "Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze",
           "standfirst": "As Silicon Valley obsesses over a new wave of AI coding agents, Google and other AI labs are shifting their bets.",
           "content": "As Silicon Valley obsesses over a new wave of AI coding agents, Google and other AI labs are shifting their bets.",
-          "feed_position": 1,
+          "feed_position": 2,
           "image_url": "https://media.wired.com/photos/69bc33bda714aba9de7defdf/master/pass/Model-Behavior-Google-Project-Mariner-Business.jpg"
         }
       ],
       "featured_image": "http://www.techmeme.com/260319/i43.jpg",
-      "popularity_score": 2018.8159886111112,
+      "popularity_score": 2015.0739775,
       "ai_summary": [
-        "Google moved staff from Project Mariner",
+        "Google is shifting staff from Project Mariner",
         "The project is an AI agent for Chrome",
-        "Staff were reassigned to higher-priority projects",
-        "The move is part of Google's AI strategy",
-        "The decision reflects shifting bets in AI labs"
+        "Staff are being moved to higher-priority projects",
+        "The move is seen as a strategic decision",
+        "The company is adapting to changing trends"
       ]
     },
     {
-      "id": "cluster_23",
+      "id": "cluster_53",
       "coverage": 2,
       "updated_at": "Thu, 19 Mar 2026 13:45:02 -0400",
       "title": "Google announces a new \"advanced flow\" for Android sideloading that requires a mandatory 24-hour cooling-off period to install apps from unverified developers (Dominic Preston/The Verge)",
-      "neutral_headline": "Google Announces Android Sideload Changes",
+      "neutral_headline": "Google Announces New Android Sideload Process",
       "items": [
         {
           "source": "TechMeme",
@@ -53,7 +129,7 @@
           "title": "Google announces a new \"advanced flow\" for Android sideloading that requires a mandatory 24-hour cooling-off period to install apps from unverified developers (Dominic Preston/The Verge)",
           "standfirst": "Dominic Preston / The Verge: Google announces a new &ldquo;advanced flow&rdquo; for Android sideloading that requires a mandatory 24-hour cooling-off period to install apps from unverified developers &mdash; The one-time &lsquo;advanced flow&rsquo; includes 24 hours of cooling off time. &hellip; Google has revealed the &ldquo;advanced flow&rdquo; &hellip;",
           "content": "Dominic Preston / The Verge: Google announces a new &ldquo;advanced flow&rdquo; for Android sideloading that requires a mandatory 24-hour cooling-off period to install apps from unverified developers &mdash; The one-time &lsquo;advanced flow&rsquo; includes 24 hours of cooling off time. &hellip; Google has revealed the &ldquo;advanced flow&rdquo; &hellip;",
-          "feed_position": 5,
+          "feed_position": 14,
           "image_url": "http://www.techmeme.com/260319/i41.jpg"
         },
         {
@@ -63,25 +139,137 @@
           "title": "Google reveals its solution for true Android sideloading: a mandatory waiting period",
           "standfirst": "Google has revealed the \"advanced flow\" that will be required to install certain Android apps once the company introduces mandatory developer verification later this year. The company had initially announced that it would no longer be possible to install apps from unverified developers, and the process announced today is its concession to critics who accused [&#8230;]",
           "content": "Google has revealed the \"advanced flow\" that will be required to install certain Android apps once the company introduces mandatory developer verification later this year. The company had initially announced that it would no longer be possible to install apps from unverified developers, and the process announced today is its concession to critics who accused it of killing off app sideloading and making Android less open. The good news is the new advanced flow is a one-off process that won't need to be repeated every time a user wants to sideload an app; the bad news is that part of that process includes a mandatory one-day waiting period. … Read the full story at The Verge.",
-          "feed_position": 5
+          "feed_position": 8
         }
       ],
       "featured_image": "http://www.techmeme.com/260319/i41.jpg",
-      "popularity_score": 2017.9829330555556,
+      "popularity_score": 2014.2409219444444,
       "ai_summary": [
-        "Google introduced a new sideloading flow",
-        "The flow requires a 24-hour cooling-off period",
-        "The change affects unverified developer apps",
-        "The move aims to improve Android security",
-        "The change will be implemented later this year"
+        "Google has announced a new sideload process",
+        "The process includes a 24-hour waiting period",
+        "The wait is for installing unverified apps",
+        "The goal is to enhance user safety",
+        "The process will be available later this year"
       ]
     },
     {
-      "id": "cluster_9",
+      "id": "cluster_5",
+      "coverage": 1,
+      "updated_at": "Thu, 19 Mar 2026 22:34:06 +0000",
+      "title": "RFK Jr. has destroyed over a quarter of health dept's expert panels",
+      "neutral_headline": "RFK Jr Destroys Health Department Panels",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/03/rfk-jr-s-war-on-scientific-expertise-destroyed-27-of-agencys-advisor-panels/",
+          "published_at": "Thu, 19 Mar 2026 22:34:06 +0000",
+          "title": "RFK Jr. has destroyed over a quarter of health dept's expert panels",
+          "standfirst": "Under Kennedy, the health dept. has wiped out 75 advisory boards, corrupted others.",
+          "content": "In his role as health secretary, Robert F. Kennedy Jr.—a long-time anti-vaccine activist with no background in science, medicine, or public health—has made headlines for his thorough perversion of the Centers for Disease Control and Prevention's vaccine advisory panel. In June, Kennedy fired all 17 independent experts who made up the CDC's Advisory Committee on Immunization Practices, or ACIP. The panel sets federal vaccination guidance that dictates insurance coverage and influences state school requirements. Kennedy then repopulated ACIP with mostly unqualified allies who share his anti-vaccine views. The corrupted board went on to hold several chaotic meetings in which they voted, without scientific backing, to change vaccine policies to align with Kennedy's anti-vaccine agenda. The blatant undermining of ACIP led a federal judge this week to temporarily block Kennedy's installed ACIP members and the anti-vaccine changes they made to CDC guidance. But while ACIP's corruption has drawn the spotlight, it's far from the only advisory committee Kennedy has destroyed or corrupted.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-1152x648.jpg",
+      "popularity_score": 352.05869972222223,
+      "ai_summary": [
+        "RFK Jr has destroyed health department panels",
+        "Over 75 advisory boards have been wiped out",
+        "The move has been criticized by experts",
+        "The health department is being restructured",
+        "The changes are seen as significant"
+      ]
+    },
+    {
+      "id": "cluster_11",
+      "coverage": 1,
+      "updated_at": "Thu, 19 Mar 2026 21:29:53 +0000",
+      "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
+      "neutral_headline": "Cloud Service Providers Ask EU To Reinstate Program",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
+          "published_at": "Thu, 19 Mar 2026 21:29:53 +0000",
+          "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
+          "standfirst": "Broadcom says the group is misrepresenting market \"realities.\"",
+          "content": "A trade association of cloud service providers (CSPs) filed an antitrust complaint today with the European Union’s European Commission (EC) over Broadcom's shuttering of VMware’s CSP partner program this year. Since Broadcom bought VMware, it has drastically cut the number of channel partners VMware works with, a shift that began with the elimination of VMware’s partner program. Broadcom replaced the program with an invite-only alternative that favors larger partners working with enterprise-sized clients rather than small-to-medium-sized businesses. There are even fewer CSP partners working with VMware today. Broadcom introduced a requirement that CSP partners operate at least 3,500 cores, rendering hundreds of CSPs ineligible for partnership. Before Broadcom bought VMware, the virtualization company had over 4,000 CSP partners, per a February 2024 report from The Register. Today, VMware reportedly has 19 CSP partners in the US and about nine in the United Kingdom, The Register reported.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2238913761-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2238913761-1024x648.jpg",
+      "popularity_score": 340.98842194444444,
+      "ai_summary": [
+        "Cloud service providers are asking EU to act",
+        "They want a partner program reinstated",
+        "The program was previously suspended",
+        "The providers are seeking a resolution",
+        "The issue is being discussed with regulators"
+      ]
+    },
+    {
+      "id": "cluster_27",
+      "coverage": 1,
+      "updated_at": "Thu, 19 Mar 2026 19:57:35 +0000",
+      "title": "FBI started buying Americans' location data again, Kash Patel confirms",
+      "neutral_headline": "FBI Buys Americans Location Data Again",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/03/fbi-started-buying-americans-location-data-again-kash-patel-confirms/",
+          "published_at": "Thu, 19 Mar 2026 19:57:35 +0000",
+          "title": "FBI started buying Americans' location data again, Kash Patel confirms",
+          "standfirst": "Tom Cotton supports FBI data purchasing, compares it to searching people's trash.",
+          "content": "Three years after saying it had stopped buying location data of Americans without a warrant, the FBI acknowledged it has restarted the purchases. During questioning at a Senate Select Committee on Intelligence hearing yesterday, FBI Director Kash Patel said the location data purchases have produced valuable information, and he did not commit to stopping the practice. In March 2023, then-FBI Director Christopher Wray confirmed that the agency had previously bought location data of US citizens without obtaining a warrant. \"To my knowledge, we do not currently purchase commercial database information that includes location data derived from Internet advertising,” Wray, who led the agency during Trump's first term and during the Biden era, said at the time. “I understand that we previously—as in the past—purchased some such information for a specific national security pilot project. But that’s not been active for some time.” At yesterday's hearing, Sen. Ron Wyden (D-Ore.) recounted Wray's 2023 statement and asked Patel, \"Is that the case still and, if so, can you commit this morning to not buying Americans' location data?\"Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/kash-patel-1152x648-1773947302.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/kash-patel-1152x648-1773947302.jpg",
+      "popularity_score": 334.45008861111114,
+      "ai_summary": [
+        "The FBI is buying Americans location data",
+        "The practice has been criticized by experts",
+        "The data is being used for investigations",
+        "The move has raised privacy concerns",
+        "The issue is being debated by lawmakers"
+      ]
+    },
+    {
+      "id": "cluster_30",
+      "coverage": 1,
+      "updated_at": "Thu, 19 Mar 2026 19:45:22 +0000",
+      "title": "Dogfighting in space won't look like the movies, but this company wants in on it",
+      "neutral_headline": "Company Wants To Develop Space Warfare",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/03/dogfighting-in-space-this-company-builds-satellites-for-high-tempo-engagement/",
+          "published_at": "Thu, 19 Mar 2026 19:45:22 +0000",
+          "title": "Dogfighting in space won't look like the movies, but this company wants in on it",
+          "standfirst": "\"Where we are today in space warfare is very similar to where air superiority was in the 1930s.\"",
+          "content": "If a battle is fought in space, it will look nothing like those depicted in the Star Wars franchise, with sleek TIE fighters blasting enemy ships with laser cannons and mag-pulses. Instead, these battles will be cerebral and unhurried, somewhat like the 1973 film The Day of the Jackal, a slow-burning political thriller with a plot that somehow mixes tension with clinical precision. In that film, an assassin sets out to murder the French president. The main character's moves are meticulously planned, with backup plans for backup plans. A police commissioner, just as clever, must pursue the assassin and stop the conspiracy. The events play out over weeks and months, not seconds and minutes. True Anomaly, which emerged from stealth just three years ago, is planning for The Day of the Jackal in space. The startup's primary hardware product, aptly named Jackal, is a war-ready satellite platform designed for mass production. In nature, jackals are known for their intelligence, adaptability, and hunting prowess. True Anomaly's Jackal boasts similar traits in space.Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/trueanomaly1-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/trueanomaly1-1152x648.jpg",
+      "popularity_score": 317.2464772222222,
+      "ai_summary": [
+        "A company is developing space warfare tech",
+        "The goal is to create a new industry",
+        "Space warfare is seen as a growing field",
+        "The company is investing in research",
+        "The development is expected to take time"
+      ]
+    },
+    {
+      "id": "cluster_39",
       "coverage": 1,
       "updated_at": "Thu, 19 Mar 2026 18:44:58 +0000",
       "title": "OpenAI is acquiring open source Python tool-maker Astral",
-      "neutral_headline": "OpenAI Acquires Astral",
+      "neutral_headline": "OpenAI Acquires Python Tool Maker Astral",
       "items": [
         {
           "source": "Ars Technica",
@@ -90,54 +278,26 @@
           "title": "OpenAI is acquiring open source Python tool-maker Astral",
           "standfirst": "Codex maker says it will \"continue to support these open source projects\" after deal closes.",
           "content": "OpenAI announced Thursday that it has entered into an agreement to acquire Astral, the company behind popular open source Python development tools such as uv, Ruff, and ty, and integrate the company into its Codex team. The deal, whose financial terms were not publicly disclosed, will help OpenAI \"accelerate our work on Codex and expand what AI can do across the software development lifecycle,\" the company said in an announcement post. Integrating Astral's tools more closely with Codex after the acquisition will \"enable AI agents to work more directly with the tools developers already rely on every day,\" it continued. Astral's most popular open source projects include:Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/openai-logo-1152x648-1741196873.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/openai-logo-1152x648-1741196873.jpg",
-      "popularity_score": 366.98182194444445,
+      "popularity_score": 313.23981055555555,
       "ai_summary": [
-        "OpenAI acquired Astral",
-        "Astral is an open source Python tool-maker",
-        "OpenAI will support Astral's projects",
-        "The deal is expected to close soon",
-        "OpenAI will continue Astral's open source work"
+        "OpenAI is acquiring Astral",
+        "Astral is a Python tool maker",
+        "The acquisition will enhance OpenAI's capabilities",
+        "Astral's tools will continue to be supported",
+        "The deal is seen as a strategic move"
       ]
     },
     {
-      "id": "cluster_0",
-      "coverage": 1,
-      "updated_at": "Thu, 19 Mar 2026 19:45:22 +0000",
-      "title": "Dogfighting in space? This company builds satellites for \"high-tempo engagement.\"",
-      "neutral_headline": "Company Builds Satellites For Space Warfare",
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/space/2026/03/dogfighting-in-space-this-company-builds-satellites-for-high-tempo-engagement/",
-          "published_at": "Thu, 19 Mar 2026 19:45:22 +0000",
-          "title": "Dogfighting in space? This company builds satellites for \"high-tempo engagement.\"",
-          "standfirst": "\"Where we are today in space warfare is very similar to where air superiority was in the 1930s.\"",
-          "content": "If a battle is fought in space, it will look nothing like those depicted in the Star Wars franchise, with sleek TIE fighters blasting enemy ships with laser cannons and mag-pulses. Instead, these battles will be cerebral and unhurried, somewhat like the 1973 film The Day of the Jackal, a slow-burning political thriller with a plot that somehow mixes tension with clinical precision. In that film, an assassin sets out to murder the French president. The main character's moves are meticulously planned, with backup plans for backup plans. A police commissioner, just as clever, must pursue the assassin and stop the conspiracy. The events play out over weeks and months, not seconds and minutes. True Anomaly, which emerged from stealth just three years ago, is planning for The Day of the Jackal in space. The startup's primary hardware product, aptly named Jackal, is a war-ready satellite platform designed for mass production. In nature, jackals are known for their intelligence, adaptability, and hunting prowess. True Anomaly's Jackal boasts similar traits in space.Read full article Comments",
-          "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/trueanomaly1-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/trueanomaly1-1152x648.jpg",
-      "popularity_score": 360.9884886111111,
-      "ai_summary": [
-        "A company builds satellites for space warfare",
-        "The satellites are for high-tempo engagement",
-        "Space warfare is a growing concern",
-        "The company's work is compared to air superiority",
-        "The field is still in its early stages of development"
-      ]
-    },
-    {
-      "id": "cluster_27",
+      "id": "cluster_57",
       "coverage": 1,
       "updated_at": "Thu, 19 Mar 2026 17:28:26 +0000",
       "title": "Google details new 24-hour process to sideload unverified Android apps",
-      "neutral_headline": "Google Introduces New Android App Sideload Process",
+      "neutral_headline": "Google Details New 24 Hour Sideload Process",
       "items": [
         {
           "source": "Ars Technica",
@@ -146,26 +306,26 @@
           "title": "Google details new 24-hour process to sideload unverified Android apps",
           "standfirst": "The \"advanced flow\" will be available before verification enforcement begins later this year.",
           "content": "Google is planning big changes for Android in 2026 aimed at combating malware across the entire device ecosystem. Starting in September, Google will begin restricting application sideloading with its developer verification program, but not everyone is on board. Android Ecosystem President Sameer Samat tells Ars that the company has been listening to feedback, and the result is the newly unveiled advanced flow, which will allow power users to skip app verification. With its new limits on sideloading, Android phones will only install apps that come from verified developers. To verify, devs releasing apps outside of Google Play will have to provide identification, upload a copy of their signing keys, and pay a $25 fee. It all seems rather onerous for people who just want to make apps without Google's intervention. Apps that come from unverified developers won't be installable on Android phones—unless you use the new advanced flow, which will be buried in the developer settings.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/developer-identity-hero-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/developer-identity-hero-1152x648.jpg",
-      "popularity_score": 347.7062663888889,
+      "popularity_score": 293.964255,
       "ai_summary": [
-        "Google details new 24 hour process",
-        "Available before verification enforcement",
-        "Advanced flow for unverified apps",
-        "Begins later this year",
-        "Affects Android app installation"
+        "Google has announced a new sideload process",
+        "The process includes a 24-hour waiting period",
+        "The wait is for installing unverified apps",
+        "The goal is to enhance user safety",
+        "The process will be available later this year"
       ]
     },
     {
-      "id": "cluster_20",
+      "id": "cluster_50",
       "coverage": 1,
       "updated_at": "Thu, 19 Mar 2026 17:50:40 +0000",
       "title": "Meta decides not to kill Horizon Worlds VR after all",
-      "neutral_headline": "Meta Reconsiders Horizon Worlds VR",
+      "neutral_headline": "Meta Decides Not To Kill Horizon Worlds VR",
       "items": [
         {
           "source": "Ars Technica",
@@ -174,26 +334,26 @@
           "title": "Meta decides not to kill Horizon Worlds VR after all",
           "standfirst": "VR will be on life support while mobile remains the focus, though.",
           "content": "The dream of the metaverse may have died for now, but Meta has decided it's not completely giving up on the VR experience in Horizon Worlds, the virtual worlds service that it originally envisioned as the first step toward said metaverse. The news was announced via the Instagram account of Meta CTO Andrew Bosworth. \"We have decided, just today in fact, that we will keep Horizon Worlds working in VR,\" said Bosworth in an AMA on the platform in response to someone who expressed disappointment at the previously announced plan to end support. He went on to clarify that only games and experiences that already support VR will continue to do so, while new games will be exclusive to mobile, and the majority of the team's development focus will be on mobile instead of VR.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/andrew-bosworth-instagram-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/andrew-bosworth-instagram-1152x648.jpg",
-      "popularity_score": 341.0768219444444,
+      "popularity_score": 287.3348105555556,
       "ai_summary": [
-        "Meta decides not to kill Horizon Worlds",
-        "VR will be on life support",
-        "Mobile remains the primary focus",
-        "Horizon Worlds will continue",
-        "Meta adjusts its VR strategy"
+        "Meta will keep Horizon Worlds VR on life support",
+        "Mobile remains the primary focus for the company",
+        "VR will continue to receive some support",
+        "The decision was made despite initial plans",
+        "Horizon Worlds will still be available to users"
       ]
     },
     {
-      "id": "cluster_22",
+      "id": "cluster_52",
       "coverage": 1,
       "updated_at": "Thu, 19 Mar 2026 17:45:28 +0000",
       "title": "Afroman keeps trolling cops after winning “Lemon Pound Cake” defamation case",
-      "neutral_headline": "Afroman Wins Defamation Case",
+      "neutral_headline": "Afroman Wins Defamation Case Against Cops",
       "items": [
         {
           "source": "Ars Technica",
@@ -202,26 +362,26 @@
           "title": "Afroman keeps trolling cops after winning “Lemon Pound Cake” defamation case",
           "standfirst": "Cops asked the jury for millions after Afroman used raid footage in music videos.",
           "content": "On Wednesday, Afroman won a widely watched defamation lawsuit that seven cops filed after the rapper made music videos mocking them for conducting a 2022 raid of his home that resulted in no charges and no marijuana found. Videos for songs like \"Lemon Pound Cake,\" \"Why You Disconnecting My Video Camera,\" and \"Will You Help Me Repair My Door\" used real footage from the raid, pulling from security camera footage and videos shot by Afroman's wife. Cops from the Adams County Sheriff's Office alleged they were humiliated and received death threats after the videos went viral. Accusing Afroman of defamation, cops individually sought damages as high as $1.5 million. But Afroman's lawyer, David Osborne, argued this was a clear-cut First Amendment case. At trial, Afroman testified that cops had no one to blame for the reputational damage but themselves, arguing that \"if they hadn’t wrongly raided my house, there would be no lawsuit,\" The New York Times reported.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1176036605-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1176036605-1024x648.jpg",
-      "popularity_score": 330.9901552777778,
+      "popularity_score": 277.2481438888889,
       "ai_summary": [
-        "Afroman wins Lemon Pound Cake case",
-        "Cops asked for millions in damages",
-        "Afroman used raid footage in videos",
-        "Jury rules in Afroman's favor",
-        "Case involves music video content"
+        "Afroman used raid footage in his music videos",
+        "Cops asked the jury for millions in damages",
+        "The jury ruled in favor of Afroman",
+        "The case was related to a defamation claim",
+        "Afroman was found not liable for damages"
       ]
     },
     {
-      "id": "cluster_38",
+      "id": "cluster_65",
       "coverage": 1,
       "updated_at": "Thu, 19 Mar 2026 16:50:10 +0000",
       "title": "Despite hardware limits, Parallels supports running Windows on MacBook Neo",
-      "neutral_headline": "Parallels Supports Windows on MacBook Neo",
+      "neutral_headline": "Parallels Supports Running Windows On MacBook Neo",
       "items": [
         {
           "source": "Ars Technica",
@@ -230,162 +390,22 @@
           "title": "Despite hardware limits, Parallels supports running Windows on MacBook Neo",
           "standfirst": "\"8GB unified memory is the minimum practical configuration.\"",
           "content": "Apple's MacBook Neo is impressive for its $600 price, but its A18 Pro processor is one of its biggest compromises compared to a modern MacBook Air—in our review, we found it was more than up to basic computing tasks, but for demanding workloads that benefit from more CPU and GPU cores and RAM, the Air is a better choice. But those limited computing resources are still enough to run Windows on your Mac using the Parallels Desktop virtualization software—so says Parallels itself, which after some testing and benchmarking has declared the Neo suitable for \"lightweight computing and everyday productivity, document editing, and web-based apps\" while running Windows 11. Parallels says the MacBook Neo's respectable single-core CPU performance keeps the Neo feeling \"quick and responsive\" when running multiple Windows-only software packages, including QuickBooks Desktop and other accounting apps, Microsoft Office, \"light engineering and data tools\" including AutoCAD LT and MATLAB, and \"Windows-only courseware and education software\" with \"no Mac equivalent.\" In Parallels' testing, the Neo's single-core CPU performance in Windows was still roughly 20 percent faster compared to a Core Ultra 5 235U chip in a Dell Pro 14 laptop.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/IMG_3670-1-1152x648.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/IMG_3670-1-1152x648.jpeg",
-      "popularity_score": 310.0684886111111,
+      "popularity_score": 256.32647722222225,
       "ai_summary": [
-        "Parallels supports Windows on MacBook",
-        "Despite hardware limits and constraints",
-        "Minimum 8GB unified memory required",
-        "Practical configuration for users",
-        "Running Windows on MacBook Neo"
+        "Parallels software supports Windows on MacBook Neo",
+        "The minimum practical configuration is 8GB unified memory",
+        "The software overcomes hardware limits",
+        "MacBook Neo can run Windows with Parallels",
+        "The software is designed for compatibility"
       ]
     },
     {
-      "id": "cluster_52",
-      "coverage": 1,
-      "updated_at": "Thu, 19 Mar 2026 15:59:58 +0000",
-      "title": "Counter-Strike 2’s new reload system could upend the entire game",
-      "neutral_headline": "Counter Strike 2 Reload System",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/03/after-25-years-valve-reworks-counter-strikes-reload-system/",
-          "published_at": "Thu, 19 Mar 2026 15:59:58 +0000",
-          "title": "Counter-Strike 2’s new reload system could upend the entire game",
-          "standfirst": "Full-magazine reloads throw out muscle memory in favor of \"higher stakes\" decisions.",
-          "content": "For decades now, Counter-Strike players have gotten used to tapping the reload button whenever they have a spare, safe moment. Yesterday evening, though, Valve announced that it had decided this system needed \"higher stakes,\" overhauling Counter-Strike 2's reload mechanic in a way that could disrupt years of muscle memory for millions of players. Until now, reloading in CS2 has meant dumping the remainder of your current clip \"back into an essentially endless reserve supply,\" Valve wrote in the game's latest update announcement. From now on, hitting the reload button will instead make players \"drop the used magazine and discard all of its remaining ammo. Instead of 'topping off' your weapon with a few bullets, a new full magazine will be taken from the reserves whenever you reload.\" While most weapons will now come with three full clips of reserve ammo, Valve wrote that \"some weapons will have less to reward efficiency and precision, or more to encourage spamming through walls and smokes.\" Counter-Strike specialist Thour did the math on the changes and found that seven weapons gained ammo, 16 lost ammo, and 12 saw their total ammo remain unchanged under this new system. Shotguns seem to have seen the biggest upgrades, while strategies that rely on \"pistol spam\" might have to be rethought from now on.Read full article Comments",
-          "feed_position": 5,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/cs2reload-1152x648.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/cs2reload-1152x648.png",
-      "popularity_score": 299.23182194444445,
-      "ai_summary": [
-        "Counter Strike 2 has new reload",
-        "Full magazine reloads change gameplay",
-        "Higher stakes decisions for players",
-        "Muscle memory affected by change",
-        "New system upends the game"
-      ]
-    },
-    {
-      "id": "cluster_55",
-      "coverage": 1,
-      "updated_at": "Thu, 19 Mar 2026 15:45:33 +0000",
-      "title": "Study pinpoints when bow and arrow came to North America",
-      "neutral_headline": "Bow and Arrow Origin in North America",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/03/study-pinpoints-when-bow-and-arrow-came-to-north-america/",
-          "published_at": "Thu, 19 Mar 2026 15:45:33 +0000",
-          "title": "Study pinpoints when bow and arrow came to North America",
-          "standfirst": "Radiocarbon results suggest a single origin and rapid diffusion through cultural transition networks.",
-          "content": "People in North America adopted the bow and arrow as replacement weapons for the dart and atlatl about 1,400 years ago, according to a new paper published in the journal PNAS Nexus. But the adoption was almost immediate in southern regions, while people living farther north initially adopted the bow and arrow as a complement to their existing toolkit, gradually phasing out the atlatl and dart over a thousand years. That's according to the latest research from experimental archaeologist Metin Eren's Experimental Archaeology Laboratory at Kent State University in Ohio, where he and his team try to reverse-engineer a wide range of ancient technologies, from stone tools and ceramics to metal, butchery, and textiles. Eren achieved some notoriety for his 2019 debunking of an Inuit legend, testing rudimentary knives made of frozen feces to see whether they could cut through pig hide, muscle, and tendon. That paper snagged Eren an Ig Nobel prize. While such work might be colorful, Eren has always emphasized that what he does is very much serious science, not entertainment. His lab has conducted studies on the pitches and octaves produced from the percussive aspects of flint-knapping; common injuries suffered by flint-knappers; the butchering efficiency of Clovis points (field work done jointly with the MeatEater hunters and immortalized on YouTube); and ballistics experiments to test a 1970s hypothesis about whether some stone blades once had some sort of wood or bone backing on the flat, dulled edge (as opposed to the sharp cutting edge), which would have increased adhesion.Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/bowandarrow-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/bowandarrow-1152x648.jpg",
-      "popularity_score": 288.99154416666664,
-      "ai_summary": [
-        "Study pinpoints bow and arrow origin",
-        "Radiocarbon results show single origin",
-        "Rapid diffusion through cultural networks",
-        "North America bow and arrow history",
-        "Cultural transition networks involved"
-      ]
-    },
-    {
-      "id": "cluster_96",
-      "coverage": 1,
-      "updated_at": "Thu, 19 Mar 2026 11:00:46 +0000",
-      "title": "TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs",
-      "neutral_headline": "TCL German QLED Ban",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/03/tcls-german-qled-ban-puts-pressure-on-tv-brands-to-be-more-honest-about-qds/",
-          "published_at": "Thu, 19 Mar 2026 11:00:46 +0000",
-          "title": "TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs",
-          "standfirst": "\"This is a serious warning shot.\"",
-          "content": "Germany recently banned TCL from marketing some of its TVs as QLED (quantum dot light-emitting diode), with a Munich court ruling that the TVs lack the quantum dot (QD) structure and performance associated with QLED TVs. The decision increases pressure on TV companies to be more honest with their marketing. Samsung has actively campaigned against TCL’s use of the term QLED. A year ago, Samsung sent Ars Technica results from testing performed by Intertek, a London-headquartered testing and certification company, on TCL’s 65Q651G, 65Q681G, and 75Q651G. The results showed that the TVs lacked sufficient amounts of cadmium and indium (two chemicals used in QD TVs, either individually or in combination). Intertek reportedly tested the optical sheet, diffuser plate, and LED modules in each TV using a minimum detection standard of 0.5 mg/kg for cadmium and 2 mg/kg for indium. At the time, a TCL representative told me that TCL had “definitive substantiation for the claims made regarding its QLED televisions.”Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-909570482-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-909570482-1152x648.jpg",
-      "popularity_score": 274.24515527777777,
-      "ai_summary": [
-        "TCL faces QLED ban in Germany",
-        "Pressure on TV brands to be honest",
-        "QDs and their use in TVs",
-        "Warning shot for TV manufacturers",
-        "QLED technology and its implications"
-      ]
-    },
-    {
-      "id": "cluster_118",
-      "coverage": 1,
-      "updated_at": "Wed, 18 Mar 2026 22:06:32 +0000",
-      "title": "Kagi Translate's AI answers the question \"What would horny Margaret Thatcher say?\"",
-      "neutral_headline": "Kagi Translate AI Capabilities",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/",
-          "published_at": "Wed, 18 Mar 2026 22:06:32 +0000",
-          "title": "Kagi Translate's AI answers the question \"What would horny Margaret Thatcher say?\"",
-          "standfirst": "Remember when it was fun to play around with LLMs?",
-          "content": "If you've been using the Internet for any length of time, you've probably used a tool like Google Translate to convert webpages or snippets of text to and from languages ranging from Uzbek to Esperanto. But what if you want to translate into more esoteric \"languages\" like \"LinkedIn Speak,\" \"Gen Z slang,\" or \"horny Margaret Thatcher\"? This week, many people across the Internet have been bemused to find that the AI-powered Kagi Translate can perform these and countless other unlikely \"translation\" tasks. And while the collective discovery highlights the playful, creative side of large language models, it also exposes the risks of letting users play with generalized LLM tools. What is a \"language,\" really? While you might know Kagi best as the paid competitor to Google's ever-worsening search product, the company launched its Kagi Translate tool back in 2024, saying at the time that it was a \"simply better\" competitor to tools like Google Translate and DeepL. At launch, the company said Kagi Translate \"uses a combination of LLMs, selecting and optimizing the best output for each task,\" a fact that \"can occasionally lead to quirks that we're actively working to resolve.\"Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2166043553-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2166043553-1152x648.jpg",
-      "popularity_score": 268,
-      "ai_summary": [
-        "Kagi Translate has advanced AI",
-        "AI answers unique and varied questions",
-        "LLMs and their capabilities",
-        "AI can generate human like responses",
-        "Kagi Translate's AI features"
-      ]
-    },
-    {
-      "id": "cluster_119",
-      "coverage": 1,
-      "updated_at": "Wed, 18 Mar 2026 21:32:20 +0000",
-      "title": "Musk’s tactic of blaming users for Grok sex images may be foiled by EU law",
-      "neutral_headline": "Musk and Grok Sex Images",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/",
-          "published_at": "Wed, 18 Mar 2026 21:32:20 +0000",
-          "title": "Musk’s tactic of blaming users for Grok sex images may be foiled by EU law",
-          "standfirst": "Planned EU ban on nudify apps would likely force Musk to make Grok less \"spicy.\"",
-          "content": "The European Union may soon ban nudify apps after Elon Musk's chatbot Grok emerged as a prime example of the dangers of an AI platform failing to block outputs that sexualized images of real people, including children. In a joint press release, the European Parliament's Internal Market and Civil Liberties committees confirmed that lawmakers voted 101–9 (with 8 abstentions) to simplify the Artificial Intelligence Act and \"propose bans on AI 'nudifier' systems.\" The vote came after the European Commission concluded earlier this year that the AI Act does not prohibit \"AI systems that generate child sexual abuse material (CSAM) or sexually explicit deepfake nudes.\" At that time, the Commission signaled that Parliament members were already proposing ways to amend the law to strengthen protections against such harmful content.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2256968212-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2256968212-1024x648.jpg",
-      "popularity_score": 243,
-      "ai_summary": [
-        "Musk blames users for Grok images",
-        "EU law may affect Grok content",
-        "Planned EU ban on nudify apps",
-        "Musk's tactics and EU regulations",
-        "Grok and its content policies"
-      ]
-    },
-    {
-      "id": "cluster_121",
+      "id": "cluster_132",
       "coverage": 1,
       "updated_at": "Wed, 18 Mar 2026 20:46:32 +0000",
       "title": "Never mind Band-Aids, Neanderthals had antiseptic birch tar",
@@ -398,54 +418,110 @@
           "title": "Never mind Band-Aids, Neanderthals had antiseptic birch tar",
           "standfirst": "Our view of Neanderthal life keeps getting more complex and vibrant.",
           "content": "Neanderthals may have used birch tar as more than just glue; it could have helped them ward off infection and even insect bites. People from several modern Indigenous cultures, including the Mi'kmaq of eastern Canada, use tar from birch bark to treat skin infections and keep wounds from festering. We know from several archaeological sites that Neanderthals also knew how to extract birch tar and that they used it as an adhesive to haft weapons. A recent study tested distilled birch tar against the bacteria S. aureleus and E. coli and found that Neanderthals could easily have used the same material as medicine for their frequent injuries. This is the simplest step-by-step tutorial for making birch tar: find a tree, set some bark on fire, get messy hands. Credit: Tjaark Siemssen, CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/) Medicine can be messy What we call \"birch tar\" in English has a lot of other names in multiple Indigenous languages, and it can range from an oily fluid to a brittle, almost solid tarry resin, depending on how long you heat it in the open air after extracting it from the bark. The Mi'kmaq of eastern Canada prefer the more fluid version, which they call maskwio'mi, for wound dressings and skin ointment.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/214233_web.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/214233_web.jpg",
       "popularity_score": 154,
       "ai_summary": [
-        "Neanderthals used antiseptic birch tar",
-        "New discovery about Neanderthal life",
-        "Antiseptic properties of birch tar",
-        "Neanderthal medical practices",
-        "Birch tar and its uses"
+        "Neanderthals used birch tar for antiseptic purposes",
+        "The discovery changes our view of Neanderthal life",
+        "Birch tar was used for medical purposes",
+        "The finding was made through archaeological research",
+        "Neanderthals had complex medical knowledge"
       ]
     },
     {
-      "id": "cluster_139",
+      "id": "cluster_129",
       "coverage": 1,
-      "updated_at": "Wed, 18 Mar 2026 15:41:24 +0000",
-      "title": "Peter faces a new life cycle in Spider-Man: Brand New Day trailer",
-      "neutral_headline": "Spider Man Brand New Day Trailer",
+      "updated_at": "Wed, 18 Mar 2026 22:06:32 +0000",
+      "title": "Kagi Translate's AI answers the question \"What would horny Margaret Thatcher say?\"",
+      "neutral_headline": "Kagi Translate AI Generates Humorous Responses",
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/03/peter-faces-a-new-life-cycle-in-spider-man-brand-new-day-trailer/",
-          "published_at": "Wed, 18 Mar 2026 15:41:24 +0000",
-          "title": "Peter faces a new life cycle in Spider-Man: Brand New Day trailer",
-          "standfirst": "“Sometimes Spider-Man has to do the hard thing, even if it breaks Peter Parker’s heart.”",
-          "content": "We've got an official trailer for Spider-Man: Brand New Day, the follow-up to 2021's No Way Home that is purportedly intended to launch a fresh trilogy of films with Tom Holland in the title role. Sony Pictures opted for a unique approach to building anticipation for the trailer, releasing snippets of footage throughout the day yesterday via the social media accounts of influencers and fans around the world. To which we can only say: Just stop already. Release the dang trailer and be done with it. A movie trailer should be able to stand on its own without an extra layer of cheap marketing gimmicks—and this one does. (Spoilers for No Way Home below.) I didn't love No Way Home, although it was entertaining and enjoyable, and it was fun seeing all the other incarnations of Spider-Man across the multiverse make cameos. Story-wise, though, it was the weakest of the Holland Spidey films. But it made nearly $2 billion worldwide, so clearly I was in the minority. While Holland himself has wondered how long it will be before he ages out of the role, he still has the box office juice. So a fourth film, as part of the MCU's Phase Six, made sense—especially since No Way Home ended on a pretty bleak note, with Peter asking Doctor Strange (Benedict Cumberbatch) to erase him from everyone's memory to protect the multiverse, including MJ (Zendaya).Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/spider-man1-1152x648.jpg"
+          "url": "https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/",
+          "published_at": "Wed, 18 Mar 2026 22:06:32 +0000",
+          "title": "Kagi Translate's AI answers the question \"What would horny Margaret Thatcher say?\"",
+          "standfirst": "Remember when it was fun to play around with LLMs?",
+          "content": "If you've been using the Internet for any length of time, you've probably used a tool like Google Translate to convert webpages or snippets of text to and from languages ranging from Uzbek to Esperanto. But what if you want to translate into more esoteric \"languages\" like \"LinkedIn Speak,\" \"Gen Z slang,\" or \"horny Margaret Thatcher\"? This week, many people across the Internet have been bemused to find that the AI-powered Kagi Translate can perform these and countless other unlikely \"translation\" tasks. And while the collective discovery highlights the playful, creative side of large language models, it also exposes the risks of letting users play with generalized LLM tools. What is a \"language,\" really? While you might know Kagi best as the paid competitor to Google's ever-worsening search product, the company launched its Kagi Translate tool back in 2024, saying at the time that it was a \"simply better\" competitor to tools like Google Translate and DeepL. At launch, the company said Kagi Translate \"uses a combination of LLMs, selecting and optimizing the best output for each task,\" a fact that \"can occasionally lead to quirks that we're actively working to resolve.\"Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2166043553-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/spider-man1-1152x648.jpg",
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2166043553-1152x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "Spider Man faces new life cycle",
-        "Brand New Day trailer released",
-        "Peter Parker's story continues",
-        "Spider Man's challenges and decisions",
-        "Trailer reveals new story direction"
+        "Kagi Translate AI generates humorous responses",
+        "The AI was asked to respond as Margaret Thatcher",
+        "The AI's responses were unexpected and funny",
+        "The AI is designed for language translation",
+        "The AI's humor is a notable feature"
       ]
     },
     {
-      "id": "cluster_133",
+      "id": "cluster_75",
+      "coverage": 1,
+      "updated_at": "Thu, 19 Mar 2026 15:59:58 +0000",
+      "title": "Counter-Strike 2’s new reload system could upend the entire game",
+      "neutral_headline": "Counter Strike 2 Has New Reload System",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/03/after-25-years-valve-reworks-counter-strikes-reload-system/",
+          "published_at": "Thu, 19 Mar 2026 15:59:58 +0000",
+          "title": "Counter-Strike 2’s new reload system could upend the entire game",
+          "standfirst": "Full-magazine reloads throw out muscle memory in favor of \"higher stakes\" decisions.",
+          "content": "For decades now, Counter-Strike players have gotten used to tapping the reload button whenever they have a spare, safe moment. Yesterday evening, though, Valve announced that it had decided this system needed \"higher stakes,\" overhauling Counter-Strike 2's reload mechanic in a way that could disrupt years of muscle memory for millions of players. Until now, reloading in CS2 has meant dumping the remainder of your current clip \"back into an essentially endless reserve supply,\" Valve wrote in the game's latest update announcement. From now on, hitting the reload button will instead make players \"drop the used magazine and discard all of its remaining ammo. Instead of 'topping off' your weapon with a few bullets, a new full magazine will be taken from the reserves whenever you reload.\" While most weapons will now come with three full clips of reserve ammo, Valve wrote that \"some weapons will have less to reward efficiency and precision, or more to encourage spamming through walls and smokes.\" Counter-Strike specialist Thour did the math on the changes and found that seven weapons gained ammo, 16 lost ammo, and 12 saw their total ammo remain unchanged under this new system. Shotguns seem to have seen the biggest upgrades, while strategies that rely on \"pistol spam\" might have to be rethought from now on.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/cs2reload-1152x648.png"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/cs2reload-1152x648.png",
+      "popularity_score": 145.48981055555555,
+      "ai_summary": [
+        "Counter Strike 2 has a new reload system",
+        "The system changes the game's dynamics",
+        "Full-magazine reloads are now possible",
+        "The system requires strategic decisions",
+        "The new system affects player muscle memory"
+      ]
+    },
+    {
+      "id": "cluster_77",
+      "coverage": 1,
+      "updated_at": "Thu, 19 Mar 2026 15:45:33 +0000",
+      "title": "Study pinpoints when bow and arrow came to North America",
+      "neutral_headline": "Bow And Arrow Originated In North America",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/03/study-pinpoints-when-bow-and-arrow-came-to-north-america/",
+          "published_at": "Thu, 19 Mar 2026 15:45:33 +0000",
+          "title": "Study pinpoints when bow and arrow came to North America",
+          "standfirst": "Radiocarbon results suggest a single origin and rapid diffusion through cultural transition networks.",
+          "content": "People in North America adopted the bow and arrow as replacement weapons for the dart and atlatl about 1,400 years ago, according to a new paper published in the journal PNAS Nexus. But the adoption was almost immediate in southern regions, while people living farther north initially adopted the bow and arrow as a complement to their existing toolkit, gradually phasing out the atlatl and dart over a thousand years. That's according to the latest research from experimental archaeologist Metin Eren's Experimental Archaeology Laboratory at Kent State University in Ohio, where he and his team try to reverse-engineer a wide range of ancient technologies, from stone tools and ceramics to metal, butchery, and textiles. Eren achieved some notoriety for his 2019 debunking of an Inuit legend, testing rudimentary knives made of frozen feces to see whether they could cut through pig hide, muscle, and tendon. That paper snagged Eren an Ig Nobel prize. While such work might be colorful, Eren has always emphasized that what he does is very much serious science, not entertainment. His lab has conducted studies on the pitches and octaves produced from the percussive aspects of flint-knapping; common injuries suffered by flint-knappers; the butchering efficiency of Clovis points (field work done jointly with the MeatEater hunters and immortalized on YouTube); and ballistics experiments to test a 1970s hypothesis about whether some stone blades once had some sort of wood or bone backing on the flat, dulled edge (as opposed to the sharp cutting edge), which would have increased adhesion.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/bowandarrow-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/bowandarrow-1152x648.jpg",
+      "popularity_score": 145.24953277777777,
+      "ai_summary": [
+        "The bow and arrow originated in North America",
+        "Radiocarbon results confirm the origin",
+        "The technology spread rapidly through cultural networks",
+        "The bow and arrow was used for hunting",
+        "The discovery was made through archaeological research"
+      ]
+    },
+    {
+      "id": "cluster_144",
       "coverage": 1,
       "updated_at": "Wed, 18 Mar 2026 17:36:40 +0000",
       "title": "Federal cyber experts called Microsoft's cloud a \"pile of shit,\" approved it anyway",
-      "neutral_headline": "Federal Cyber Experts Criticize Microsoft",
+      "neutral_headline": "Federal Cyber Experts Criticize Microsoft Cloud",
       "items": [
         {
           "source": "Ars Technica",
@@ -454,54 +530,26 @@
           "title": "Federal cyber experts called Microsoft's cloud a \"pile of shit,\" approved it anyway",
           "standfirst": "One Microsoft product was approved despite years of concerns about its security.",
           "content": "In late 2024, the federal government’s cybersecurity evaluators rendered a troubling verdict on one of Microsoft’s biggest cloud computing offerings. The tech giant’s “lack of proper detailed security documentation” left reviewers with a “lack of confidence in assessing the system’s overall security posture,” according to an internal government report reviewed by ProPublica. Or, as one member of the team put it: “The package is a pile of shit.”Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
       "popularity_score": 145,
       "ai_summary": [
-        "Federal cyber experts criticize Microsoft",
-        "Microsoft's cloud security concerns",
-        "Experts approved cloud despite concerns",
-        "Security issues and approvals",
-        "Microsoft's cloud and its critics"
+        "Federal cyber experts criticized Microsoft cloud",
+        "The cloud was approved despite security concerns",
+        "The experts called the cloud a pile of issues",
+        "The approval was made despite years of concerns",
+        "The cloud's security is a major concern"
       ]
     },
     {
-      "id": "cluster_175",
-      "coverage": 1,
-      "updated_at": "Tue, 17 Mar 2026 21:38:33 +0000",
-      "title": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
-      "neutral_headline": "Apple Can Delist Apps",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/",
-          "published_at": "Tue, 17 Mar 2026 21:38:33 +0000",
-          "title": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
-          "standfirst": "Judge tosses Musi case against Apple, sanctions lawyers for \"mak[ing] up facts.\"",
-          "content": "Musi, a free music-streaming app that had tens of millions of iPhone downloads and garnered plenty of controversy over its method of acquiring music, has lost an attempt to get back on Apple's App Store. A federal judge dismissed Musi's lawsuit against Apple with prejudice and sanctioned Musi's lawyers for \"mak[ing] up facts to fill the perceived gaps in Musi’s case.\" Musi built a streaming service without striking its own deals with copyright holders. It did so by playing music from YouTube, writing in its 2024 lawsuit against Apple that \"the Musi app plays or displays content based on the user’s own interactions with YouTube and enhances the user experience via Musi’s proprietary technology.\" Musi's app displayed its own ads but let users remove them for a one-time fee of $5.99. Musi claimed it complied with YouTube's terms, but Apple removed it from the App Store in September 2024. Musi does not offer an Android app. Musi alleged that Apple delisted its app based on “unsubstantiated” intellectual property claims from YouTube and that Apple violated its own Developer Program License Agreement (DPLA) by delisting the app.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/musi-1152x648-1773782266.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/musi-1152x648-1773782266.png",
-      "popularity_score": 145,
-      "ai_summary": [
-        "Apple can delist apps without cause",
-        "Judge rules in favor of Apple",
-        "Musi app case against Apple",
-        "Judge sanctions lawyers for misconduct",
-        "App delisting and its implications"
-      ]
-    },
-    {
-      "id": "cluster_127",
+      "id": "cluster_138",
       "coverage": 1,
       "updated_at": "Wed, 18 Mar 2026 19:00:40 +0000",
       "title": "A private space company has a radical new plan to bag an asteroid",
-      "neutral_headline": "Private Space Company Asteroid Plan",
+      "neutral_headline": "Private Space Company Plans To Bag Asteroid",
       "items": [
         {
           "source": "Ars Technica",
@@ -510,26 +558,54 @@
           "title": "A private space company has a radical new plan to bag an asteroid",
           "standfirst": "Company has previously tested its technology on the International Space Station.",
           "content": "It may sound fanciful, but a Los Angeles-based company says it has conceived of a plan to fly out to a smallish, near-Earth asteroid, throw a large bag around it, and bring the body back to a \"safe\" gathering point near our planet. The company, TransAstra, said Wednesday that an unnamed customer has agreed to fund a study of its proposed \"New Moon\" mission to capture and relocate an asteroid approximately the size of a house, with a mass of about 100 metric tons. \"We envision it becoming a base for robotic research and development on materials processing and manufacturing,\" said Joel Sercel, chief executive officer of TransAstra. \"Long term, instead of building space hardware on the ground and launching propellant up from the Earth, we could harvest it from raw materials in space.\"Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/New-Moon-Rotated-060425-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/New-Moon-Rotated-060425-1152x648.jpg",
       "popularity_score": 141,
       "ai_summary": [
-        "Private space company has asteroid plan",
-        "Radical new plan to bag asteroid",
-        "Company tested technology on ISS",
-        "Asteroid capture and its challenges",
-        "Space company's innovative approach"
+        "A private space company plans to bag an asteroid",
+        "The company has tested its technology",
+        "The technology was tested on the International Space Station",
+        "The company has a radical new plan",
+        "The plan is designed to capture an asteroid"
       ]
     },
     {
-      "id": "cluster_120",
+      "id": "cluster_109",
+      "coverage": 1,
+      "updated_at": "Thu, 19 Mar 2026 11:00:46 +0000",
+      "title": "TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs",
+      "neutral_headline": "TCL Faces German QLED Ban",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/03/tcls-german-qled-ban-puts-pressure-on-tv-brands-to-be-more-honest-about-qds/",
+          "published_at": "Thu, 19 Mar 2026 11:00:46 +0000",
+          "title": "TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs",
+          "standfirst": "\"This is a serious warning shot.\"",
+          "content": "Germany recently banned TCL from marketing some of its TVs as QLED (quantum dot light-emitting diode), with a Munich court ruling that the TVs lack the quantum dot (QD) structure and performance associated with QLED TVs. The decision increases pressure on TV companies to be more honest with their marketing. Samsung has actively campaigned against TCL’s use of the term QLED. A year ago, Samsung sent Ars Technica results from testing performed by Intertek, a London-headquartered testing and certification company, on TCL’s 65Q651G, 65Q681G, and 75Q651G. The results showed that the TVs lacked sufficient amounts of cadmium and indium (two chemicals used in QD TVs, either individually or in combination). Intertek reportedly tested the optical sheet, diffuser plate, and LED modules in each TV using a minimum detection standard of 0.5 mg/kg for cadmium and 2 mg/kg for indium. At the time, a TCL representative told me that TCL had “definitive substantiation for the claims made regarding its QLED televisions.”Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-909570482-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-909570482-1152x648.jpg",
+      "popularity_score": 140.5031438888889,
+      "ai_summary": [
+        "TCL faces a ban on its QLED TVs in Germany",
+        "The ban is due to misleading advertising",
+        "The company must be more honest about QDs",
+        "The ban is a warning to other TV brands",
+        "The company must change its advertising"
+      ]
+    },
+    {
+      "id": "cluster_131",
       "coverage": 1,
       "updated_at": "Wed, 18 Mar 2026 21:10:45 +0000",
       "title": "Coal plant forced to stay open due to emergency order isn't even running",
-      "neutral_headline": "Coal Plant Forced to Stay Open",
+      "neutral_headline": "Coal Plant Forced To Stay Open",
       "items": [
         {
           "source": "Ars Technica",
@@ -538,50 +614,50 @@
           "title": "Coal plant forced to stay open due to emergency order isn't even running",
           "standfirst": "Department of Energy's attempts to prop up coal can look pretty pointless.",
           "content": "In the US, the economics of coal power generation are marginal at best, and a large number of coal plants have shut down as cheaper renewables and natural gas have surged. The Trump administration has used a number of methods to swim against this economic tide, the simplest of which has been to order plants scheduled for closure to remain operational. The Department of Energy has used the Federal Power Act and a Trump executive order declaring an energy emergency to block the closure of coal plants nationwide. The orders requiring plants to stay open have been accompanied by a steady stream of triumphal press releases, suggesting that the Department of Energy was taking the step solely to ensure grid reliability. The latest of these releases, issued on Monday, pertains to a plant in Centralia, Washington, that was scheduled to close last year to be converted into natural gas generation. A Department of Energy emergency order had kept it operational over the winter, but that order was set to expire yesterday. With yesterday's new order, the plant will remain operational through mid-June. According to the press release, the action was taken \"to ensure Americans in the Northwestern region of the United States have access to affordable, reliable, and secure electricity.\"Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1232409436-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1232409436-1024x648.jpg",
       "popularity_score": 139,
       "ai_summary": [
-        "Coal plant stays open due to order",
-        "Plant is not currently running",
-        "Emergency order and its effects",
-        "Department of Energy's actions",
-        "Coal plant and its current status"
+        "A coal plant was forced to stay open",
+        "The plant is not even running",
+        "The order was made due to an emergency",
+        "The plant's closure was initially planned",
+        "The plant's status is currently uncertain"
       ]
     },
     {
-      "id": "cluster_162",
+      "id": "cluster_130",
       "coverage": 1,
-      "updated_at": "Wed, 18 Mar 2026 10:00:23 +0000",
-      "title": "Here's BMW's first all-electric 3 series, the 2027 i3",
-      "neutral_headline": "BMW Introduces First All Electric 3 Series",
+      "updated_at": "Wed, 18 Mar 2026 21:32:20 +0000",
+      "title": "Musk’s tactic of blaming users for Grok sex images may be foiled by EU law",
+      "neutral_headline": "Musk Blames Users For Grok Sex Images",
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/03/heres-bmws-first-all-electric-3-series-the-2027-i3/",
-          "published_at": "Wed, 18 Mar 2026 10:00:23 +0000",
-          "title": "Here's BMW's first all-electric 3 series, the 2027 i3",
-          "standfirst": "The iX3 SUV was very good; we think the i3 sedan will be even better.",
-          "content": "BMW provided flights from Washington, DC, to Malaga, Spain, and accommodation so Ars could drive the iX3 and be briefed on the i3. Ars does not accept paid editorial content. MALAGA, Spain—Late last year, we got our first chance to drive the new BMW iX3. An all-electric version of one of BMW's best-sellers, the electric SUV is arguably the new head of the class in the competitive premium SUV EV segment, with good driving dynamics and an extremely efficient electric powertrain. The next new BMW EVs to use the company's Neue Klasse platform is the one we find more interesting here at Ars, even if it won't sell as well. It's the 2027 i3, or BMW's first 3 series EV, and it goes into production in Munich this August. A proper sedan It has been a few years since we first saw the Neue Klasse sedan concept, and it has mostly remained faithful to that design as it made the transition from concept to production model. Light has replaced chrome for BMW's traditional kidney grille, which here contains kidneys within kidneys. Like the iX3, there's a valley down the hood, but here the kidneys are long and wide, unlike the bucktooth look of BMW's new SUVs. The biggest change is at the rear. Sadly, the i3 has little of the elegance or charm of the concept aft of the rear axle, but the demands of real-life practicality meant BMW needed to raise the rear deck a few inches in order to give the car proper cargo-carrying capacity. And yes, the rear window does have the traditional \"Hofmeister kink.\" At launch, the i3 will be just a sedan, but BMW showed us a silhouette of a wagon variant—Touring in BMW-speak—that we very much hope crosses the Atlantic at some point.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/P90632486_highRes-1152x648.jpg"
+          "url": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/",
+          "published_at": "Wed, 18 Mar 2026 21:32:20 +0000",
+          "title": "Musk’s tactic of blaming users for Grok sex images may be foiled by EU law",
+          "standfirst": "Planned EU ban on nudify apps would likely force Musk to make Grok less \"spicy.\"",
+          "content": "The European Union may soon ban nudify apps after Elon Musk's chatbot Grok emerged as a prime example of the dangers of an AI platform failing to block outputs that sexualized images of real people, including children. In a joint press release, the European Parliament's Internal Market and Civil Liberties committees confirmed that lawmakers voted 101–9 (with 8 abstentions) to simplify the Artificial Intelligence Act and \"propose bans on AI 'nudifier' systems.\" The vote came after the European Commission concluded earlier this year that the AI Act does not prohibit \"AI systems that generate child sexual abuse material (CSAM) or sexually explicit deepfake nudes.\" At that time, the Commission signaled that Parliament members were already proposing ways to amend the law to strengthen protections against such harmful content.Read full article Comments",
+          "feed_position": 14,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2256968212-1024x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/P90632486_highRes-1152x648.jpg",
-      "popularity_score": 139,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2256968212-1024x648.jpg",
+      "popularity_score": 133,
       "ai_summary": [
-        "BMW launches the 2027 i3 electric sedan",
-        "The i3 is based on the existing 3 series platform",
-        "The iX3 SUV was a successful electric vehicle",
-        "The i3 sedan will have improved performance",
-        "BMW expects high demand for the i3 sedan"
+        "Musk blames users for explicit images on Grok",
+        "The tactic may be foiled by EU law",
+        "The EU plans to ban nudify apps",
+        "The law would force Musk to change Grok",
+        "The law is designed to protect users"
       ]
     },
     {
-      "id": "cluster_125",
+      "id": "cluster_136",
       "coverage": 1,
       "updated_at": "Wed, 18 Mar 2026 19:36:14 +0000",
       "title": "Cloudflare appeals Piracy Shield fine, hopes to kill Italy's site-blocking law",
@@ -594,74 +670,18 @@
           "title": "Cloudflare appeals Piracy Shield fine, hopes to kill Italy's site-blocking law",
           "standfirst": "Firm says requiring site blocks within 30 minutes breaks core Internet architecture.",
           "content": "Cloudflare said it has appealed a fine issued by Italy over the company's refusal to block access to websites on its 1.1.1.1 DNS service. The appeal is the latest step in Cloudflare's fight against Italy's Piracy Shield law. Piracy Shield is \"a misguided Italian regulatory scheme designed to protect large rightsholder interests at the expense of the broader Internet,\" Cloudflare said in a blog post this week. \"After Cloudflare resisted registering for Piracy Shield and challenged it in court, the Italian communications regulator, AGCOM, fined Cloudflare... We appealed that fine on March 8, and we continue to challenge the legality of Piracy Shield itself.\" Cloudflare called the fine of 14.2 million euros ($16.4 million) \"staggering.\" AGCOM issued the penalty in January 2026, saying Cloudflare flouted requirements to disable DNS resolution of domain names and routing of traffic to IP addresses reported by copyright holders.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/cloudflare-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/cloudflare-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Cloudflare appeals fine for not blocking sites",
-        "The company hopes to change Italy's site-blocking law",
-        "Cloudflare says the law breaks internet architecture",
+        "Cloudflare appeals a fine for Piracy Shield",
+        "The company hopes to kill Italy's site-blocking law",
         "The law requires site blocks within 30 minutes",
-        "Cloudflare argues this is not technically feasible"
-      ]
-    },
-    {
-      "id": "cluster_137",
-      "coverage": 1,
-      "updated_at": "Wed, 18 Mar 2026 16:02:36 +0000",
-      "title": "A station wagon is entering one of the hardest 24-hour races in the world",
-      "neutral_headline": "Station Wagon Enters 24 Hour Race",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/03/bmw-says-station-wagons-are-no-joke-so-this-ones-going-to-the-nurburgring/",
-          "published_at": "Wed, 18 Mar 2026 16:02:36 +0000",
-          "title": "A station wagon is entering one of the hardest 24-hour races in the world",
-          "standfirst": "Station wagons used to be family cars, but now they're for going fast, too.",
-          "content": "It is a strange quirk of fate that the station wagon has morphed from mass-market family transport into something far more esoteric (at least here in the US, a market that once embraced the form factor like no other). Now, wagons come in two flavors. There's the \"slightly lifted with some extra protective cladding\" kind, designed with forest roads in mind but equally useful if you're surrounded by people who park by sense of smell. The other variety is the one that thinks it's really a supercar, with at least 600 hp (447 kW) and the ability to test if the kids and family dog get nauseous when subjected to high lateral Gs. Even then, the US misses out. BMW will sell us an M5 Touring here, a plug-in hybrid wagon with 717 hp (535 kW), but it has no plans to bring over the smaller, (much) lighter M3 Touring, no matter how much we plead. That's a shame, as the M3 Touring is about to become even cooler: BMW is entering one in the Nürburgring Langstrecken-Serie, which races at the infamous racetrack in the Eifel Mountains. The idea started as an April Fool's joke last year, but the overwhelmingly positive reaction from fans worked something loose, and someone in Munich signed off on a budget to make a station wagon version of its GT3 race car (the M4 GT3 EVO). It makes its NLS debut next week, with the highlight of the program being the Nürburgring 24H in mid-May. That race will also be contested by one Max Verstappen on a weekend away from F1.Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/P90632514_highRes_munich-ger-16-march--1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/P90632514_highRes_munich-ger-16-march--1152x648.jpg",
-      "popularity_score": 133,
-      "ai_summary": [
-        "A station wagon will compete in a 24 hour race",
-        "The race is one of the hardest in the world",
-        "Station wagons are not typical racing cars",
-        "The wagon will be driven by experienced drivers",
-        "The team hopes to achieve a good finish"
-      ]
-    },
-    {
-      "id": "cluster_152",
-      "coverage": 1,
-      "updated_at": "Wed, 18 Mar 2026 11:30:47 +0000",
-      "title": "Users hate it, but age-check tech is coming. Here's how it works.",
-      "neutral_headline": "Age Check Technology Is Coming",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/03/after-discord-fiasco-age-check-tech-promises-privacy-by-running-locally-does-it-work/",
-          "published_at": "Wed, 18 Mar 2026 11:30:47 +0000",
-          "title": "Users hate it, but age-check tech is coming. Here's how it works.",
-          "standfirst": "On-device face scans and cross-platform age keys decrease privacy risks, but trust issues abound.",
-          "content": "Last month, Discord quickly backpedaled after it announced that an age-verification system would roll out globally. Discord's reversal followed a widespread user backlash, which also intensified scrutiny of the platform's age-check partners. Suddenly, these often-overlooked players in the \"age-assurance\" ecosystem had to defend their tech or risk losing major contracts. The whole saga shined a harsh spotlight on the current problems with age-verification tech—and on the technical solutions aiming to make the whole process both secure and private.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/age-verification-key-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/age-verification-key-1152x648.jpg",
-      "popularity_score": 133,
-      "ai_summary": [
-        "Age check tech uses face scans and age keys",
-        "The tech aims to decrease privacy risks",
-        "Users are concerned about trust issues",
-        "The tech will be used for age verification",
-        "It will be implemented on various platforms"
+        "The company says the law breaks Internet architecture",
+        "The appeal is currently pending"
       ]
     }
   ]

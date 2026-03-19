@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-03-19T19:45:57.216Z",
+    "updated_at": "2026-03-19T23:30:20.149Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-19T19:46:10.163Z",
+    "updated_at": "2026-03-19T23:30:22.956Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/06d16084-a9b4-4684-892f-e60fb33a66e5/In-Practice-What-to-expect-at-Practice-Owners-Conference.aspx",
         "ai_summary": [
-          "The RACGP conference program is now available",
+          "The RACGP's conference program is now available",
           "Early bird registrations are open",
-          "The conference will cover various topics",
-          "Practice owners can expect useful information",
-          "The event will be attended by industry experts"
+          "The conference is for practice owners",
+          "The event will cover various topics",
+          "The conference program is fully detailed"
         ]
       },
       {
@@ -54,10 +54,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/70f5b284-0cbb-492b-a2e4-cc7851bc3ed6/Is-screening-reflecting-the-realities-of-multicultural-Australia.aspx",
         "ai_summary": [
           "New research investigates gestational diabetes",
-          "The study focuses on women in diverse communities",
-          "The research aims to improve health outcomes",
-          "The study will analyze data from various sources",
-          "The findings will inform future health policies"
+          "The research focuses on multicultural Australia",
+          "The study looks at long-term health risks",
+          "The research is GP-led and comprehensive",
+          "The study aims to improve health outcomes"
         ]
       },
       {
@@ -80,11 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/ba6283df-2b8a-42ed-8fae-795bce77e1a4/Resilience-innovation-and-a-commitment-to-building-a-better-future.aspx",
         "ai_summary": [
-          "The Close the Gap report highlights progress",
-          "The report emphasizes the need for urgent reform",
-          "Aboriginal and Torres Strait Islander peoples lead",
-          "The report focuses on health and wellbeing",
-          "The findings will inform future policy decisions"
+          "Close the Gap report emphasizes Aboriginal leadership",
+          "Urgent reform is needed for progress",
+          "Report highlights importance of innovation",
+          "Commitment to building a better future is necessary",
+          "Aboriginal and Torres Strait Islander peoples must lead"
         ]
       },
       {
@@ -107,11 +107,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/e8b48974-a8f7-4631-9d80-483e51b486e9/AHPRA-gears-up-for-more-notifications.aspx",
         "ai_summary": [
-          "AHPRA expects an increase in complaints",
-          "The regulator will improve its systems",
-          "A new five-year strategy is in place",
-          "The strategy aims to enhance complaint handling",
-          "AHPRA will increase its staff and resources"
+          "AHPRA releases new five-year strategy",
+          "Plans to improve systems for increasing complaints",
+          "Regulator anticipates more notifications",
+          "Strategy aims to enhance complaint handling",
+          "AHPRA seeks to improve overall performance"
         ]
       },
       {
@@ -134,20 +134,47 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/9c49c1b7-37f7-460f-8f6f-3f3705b217a0/PBAC-issues-update-on-subsidised-access-to-GLP-1s.aspx",
         "ai_summary": [
-          "The PBAC updates access to GLP-1 drugs",
-          "The committee advises a slow rollout",
-          "The rollout will be managed carefully",
-          "The drugs will be available on the PBS",
-          "The decision aims to improve health outcomes"
+          "PBAC updates on subsidised GLP-1 access",
+          "PBS listing for Wegovy is advancing",
+          "Committee advises slow and managed rollout",
+          "GLP-1 drugs to be accessed through PBS",
+          "Rollout to be carefully managed"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-03-19T19:45:58.452Z",
+    "updated_at": "2026-03-19T23:30:30.055Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Thu, 19 Mar 2026 21:00:00 GMT",
+        "title": "BBC Inside Science",
+        "neutral_headline": "UK Government Invests In Quantum Computing",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/sounds/play/w3ct8ty4?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 19 Mar 2026 21:00:00 GMT",
+            "title": "BBC Inside Science",
+            "standfirst": "The UK government announces a £2billion investment in quantum computing.",
+            "content": "The UK government announces a £2billion investment in quantum computing.",
+            "feed_position": 32,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
+        "ai_summary": [
+          "UK government invests in quantum computing",
+          "£2 billion investment announced",
+          "Quantum computing to be developed",
+          "Investment to boost UK technology",
+          "Quantum computing to improve UK economy"
+        ]
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Thu, 19 Mar 2026 19:09:35 GMT",
         "title": "US states sue Trump over his move to scrap greenhouse gases ruling",
@@ -166,19 +193,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24b2/live/05d1c690-23b6-11f1-92e7-e70d0571c9f1.jpg",
         "ai_summary": [
-          "US states sue the Trump administration",
-          "The lawsuit challenges the reversal of a ruling",
-          "The ruling underpins US emissions policies",
-          "The lawsuit aims to overturn the reversal",
-          "The case will be heard in court"
+          "US states sue Trump administration",
+          "Lawsuit seeks to overturn greenhouse gases ruling",
+          "Trump administration reversed 2009 ruling",
+          "US states aim to lower emissions",
+          "Lawsuit to protect environmental policies"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Thu, 19 Mar 2026 18:01:02 GMT",
         "title": "Peers vote to back clause pardoning women convicted over illegal abortions",
-        "neutral_headline": "Peers Vote To Back Clause Pardoning Women Convicted Over Illegal Abortions",
+        "neutral_headline": "Peers Vote To Pardon Women Convicted Over Illegal Abortions",
         "items": [
           {
             "source": "Guardian Health",
@@ -200,38 +227,11 @@
           }
         ],
         "ai_summary": [
-          "The House of Lords votes to pardon women",
-          "The vote is a landmark moment",
-          "Women convicted of abortion crimes will be pardoned",
-          "The decision aims to address past injustices",
-          "The pardon will apply to women in England and Wales"
-        ]
-      },
-      {
-        "id": "cluster_2",
-        "coverage": 1,
-        "updated_at": "Thu, 19 Mar 2026 17:00:00 GMT",
-        "title": "BBC Inside Science",
-        "neutral_headline": "UK Government Announces Investment In Quantum Computing",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/sounds/play/w3ct8ty4?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 19 Mar 2026 17:00:00 GMT",
-            "title": "BBC Inside Science",
-            "standfirst": "The UK government announces a £2billion investment in quantum computing.",
-            "content": "The UK government announces a £2billion investment in quantum computing.",
-            "feed_position": 32,
-            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
-        "ai_summary": [
-          "The UK government invests in quantum computing",
-          "The investment is worth £2 billion",
-          "The funding will support research and development",
-          "The investment aims to boost the UK's tech industry",
-          "The project will create new job opportunities"
+          "House of Lords votes to pardon women",
+          "Women convicted of illegal abortions to be pardoned",
+          "Amendment to strike out clause defeated",
+          "Pardon to apply to women in England and Wales",
+          "Historic vote welcomed by campaigners"
         ]
       },
       {
@@ -239,7 +239,7 @@
         "coverage": 1,
         "updated_at": "Thu, 19 Mar 2026 16:46:48 GMT",
         "title": "Meningitis vaccine eligibility expanded after Kent outbreak rises to 27",
-        "neutral_headline": "Meningitis Vaccine Eligibility Expanded",
+        "neutral_headline": "Meningitis Vaccine Eligibility Expanded In Kent",
         "items": [
           {
             "source": "Guardian Health",
@@ -252,11 +252,11 @@
           }
         ],
         "ai_summary": [
-          "The government expands meningitis vaccine eligibility",
-          "The expansion is due to a rise in cases",
-          "Anyone who attended Club Chemistry is advised",
-          "The vaccine will be available to those at risk",
-          "The government aims to prevent further cases"
+          "Meningitis vaccine eligibility expanded",
+          "Expansion due to outbreak in Kent",
+          "Anyone at Club Chemistry advised to get vaccinated",
+          "Vaccination to prevent meningitis spread",
+          "Government announces major expansion"
         ]
       },
       {
@@ -279,11 +279,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ce/live/4578dff0-0d8f-11f1-b5e2-dd58fc65f0f6.jpg",
         "ai_summary": [
-          "Hospital waiting lists in Wales are decreasing",
+          "Hospital waiting lists in Wales drop",
+          "Record drop in waiting lists reported",
           "Wait times for planned care are falling",
           "Diagnostic and cancer waits are increasing",
-          "The decrease is a positive trend",
-          "The NHS aims to further reduce wait times"
+          "Latest figures indicate improving healthcare"
         ]
       },
       {
@@ -291,7 +291,7 @@
         "coverage": 1,
         "updated_at": "Thu, 19 Mar 2026 15:53:39 GMT",
         "title": "What is the UK Covid inquiry and how does it work?",
-        "neutral_headline": "What is the UK Covid inquiry and how does it work?",
+        "neutral_headline": "UK Covid Inquiry Finds NHS Close To Collapse",
         "items": [
           {
             "source": "BBC Health",
@@ -326,11 +326,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bda/live/d088bf20-5723-11f0-82f9-ffcaa67a8d94.jpg",
         "ai_summary": [
-          "The UK Covid inquiry investigates the pandemic",
-          "The inquiry examines the government's response",
-          "The NHS was close to collapse during the pandemic",
-          "Patients and staff were failed by the system",
-          "The inquiry aims to learn from past mistakes"
+          "Covid inquiry finds NHS close to collapse",
+          "NHS struggled to cope with pandemic",
+          "Patients and staff were failed",
+          "Health service only just managed to survive",
+          "Inquiry reports devastating impact of pandemic"
         ]
       },
       {
@@ -338,7 +338,7 @@
         "coverage": 1,
         "updated_at": "Thu, 19 Mar 2026 15:29:37 GMT",
         "title": "'People with ADHD are good in a crisis'",
-        "neutral_headline": "People with ADHD are good in crisis",
+        "neutral_headline": "People With ADHD Are Good In A Crisis",
         "items": [
           {
             "source": "BBC Health",
@@ -353,11 +353,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e623/live/8d461a70-239f-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "People with ADHD are great in crisis",
-          "ADHD individuals are highly adaptable",
-          "They can think outside the box",
-          "ADHD people are highly energetic",
-          "They can handle high pressure situations"
+          "People with ADHD excel in crises",
+          "ADHD individuals are great in a crisis",
+          "Unique skills and abilities are valuable",
+          "ADHD can be an asset in certain situations",
+          "Crisis management benefits from ADHD"
         ]
       },
       {
@@ -365,7 +365,7 @@
         "coverage": 1,
         "updated_at": "Thu, 19 Mar 2026 15:15:16 GMT",
         "title": "What are the symptoms of meningitis and how is it spread?",
-        "neutral_headline": "Meningitis outbreak in Kent",
+        "neutral_headline": "Meningitis Outbreak In Kent Causes Concern",
         "items": [
           {
             "source": "BBC Health",
@@ -380,11 +380,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b66e/live/35af95b0-22c4-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "Two people died from meningitis in Kent",
-          "Meningitis outbreak is unprecedented",
-          "Two people have died following outbreak",
-          "Thousands have received meningitis jabs",
-          "Health workers are on high alert"
+          "Meningitis outbreak reported in Kent",
+          "Two people have died from the outbreak",
+          "Unprecedented outbreak causes concern",
+          "Meningitis symptoms and spread are explained",
+          "Public health measures are being taken"
         ]
       },
       {
@@ -392,7 +392,7 @@
         "coverage": 1,
         "updated_at": "Thu, 19 Mar 2026 15:12:53 GMT",
         "title": "Why is MenB vaccine not given to teenagers in UK and should they be offered it?",
-        "neutral_headline": "MenB vaccine not given to UK teenagers",
+        "neutral_headline": "MenB Vaccine Not Given To Teenagers In UK",
         "items": [
           {
             "source": "BBC Health",
@@ -407,11 +407,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d3/live/04098770-21fa-11f1-9256-9b680459597d.jpg",
         "ai_summary": [
-          "MenB vaccine is not routine for teenagers",
-          "Students and older teens are not vaccinated",
-          "Meningitis strain is behind Kent outbreak",
-          "Vaccination is not offered to all teens",
-          "Older teens are at risk of meningitis"
+          "MenB vaccine not given to UK teenagers",
+          "Vaccine not routinely offered to students",
+          "Meningitis strain behind Kent outbreak",
+          "Vaccine could be offered to older teens",
+          "UK vaccination policies are being reviewed"
         ]
       },
       {
@@ -419,7 +419,7 @@
         "coverage": 1,
         "updated_at": "Thu, 19 Mar 2026 15:12:34 GMT",
         "title": "NHS was ‘on brink of collapse’ during pandemic, Covid inquiry finds",
-        "neutral_headline": "NHS was on brink of collapse during pandemic",
+        "neutral_headline": "NHS Was On Brink Of Collapse During Pandemic",
         "items": [
           {
             "source": "Guardian Health",
@@ -432,11 +432,11 @@
           }
         ],
         "ai_summary": [
-          "NHS was on brink of collapse during pandemic",
+          "NHS was on brink of collapse",
+          "Covid pandemic put immense pressure",
           "Healthcare workers made superhuman efforts",
-          "NHS was in parlous state before pandemic",
-          "Low bed numbers and staff vacancies existed",
-          "Infection control was flawed at start"
+          "NHS was in a parlous state before pandemic",
+          "Infection control and PPE were inadequate"
         ]
       },
       {
@@ -444,7 +444,7 @@
         "coverage": 1,
         "updated_at": "Thu, 19 Mar 2026 14:34:11 GMT",
         "title": "King opens world's longest coastal path around England",
-        "neutral_headline": "King opens world's longest coastal path",
+        "neutral_headline": "King Opens World's Longest Coastal Path",
         "items": [
           {
             "source": "BBC Science",
@@ -459,11 +459,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d0/live/b5438050-23a2-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "King Charles opens coastal path around England",
-          "Path allows walkers right of access",
-          "Entire coast is now accessible",
-          "Walkers can access entire English coast",
-          "New path is world's longest coastal path"
+          "King opens world's longest coastal path",
+          "Path allows walkers access to entire coast",
+          "King Charles coastal path is now open",
+          "Path provides new opportunities for walkers",
+          "England's coastline is now more accessible"
         ]
       },
       {
@@ -471,7 +471,7 @@
         "coverage": 1,
         "updated_at": "Thu, 19 Mar 2026 14:02:15 GMT",
         "title": "Updated plan aims to boost NI's resilience to climate change",
-        "neutral_headline": "Updated plan to boost Northern Ireland resilience",
+        "neutral_headline": "Updated Plan Aims To Boost Northern Ireland's Resilience",
         "items": [
           {
             "source": "BBC Science",
@@ -486,11 +486,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2de4/live/66a17ce0-2393-11f1-a59e-e9e4aab4fac7.jpg",
         "ai_summary": [
-          "Updated plan aims to boost climate change resilience",
+          "Updated plan to boost Northern Ireland's resilience",
+          "Plan aims to address climate change",
+          "Third climate change adaptation plan released",
           "Plan should have been in place since 2024",
-          "Northern Ireland needs climate change plan",
-          "Plan will help with climate change adaptation",
-          "Climate change plan is third for Northern Ireland"
+          "Northern Ireland's resilience to be improved"
         ]
       },
       {
@@ -498,7 +498,7 @@
         "coverage": 1,
         "updated_at": "Thu, 19 Mar 2026 12:21:14 GMT",
         "title": "Launch of map to report Asian hornet sightings",
-        "neutral_headline": "Map to report Asian hornet sightings",
+        "neutral_headline": "Asian Hornet Sightings Reported On Jersey",
         "items": [
           {
             "source": "BBC Science",
@@ -513,11 +513,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f95/live/68a9bbe0-2386-11f1-bbc4-054d2cdbb6e0.jpg",
         "ai_summary": [
-          "Map is for reporting Asian hornet sightings",
-          "Asian hornets are invasive species on Jersey",
+          "Asian hornets are an invasive species on Jersey",
           "People are asked to report hornet sightings",
-          "Hornets are threat to native species",
-          "Reporting will help track hornet spread"
+          "The species poses a threat to local ecosystem",
+          "Reporting helps track hornet movement",
+          "Jersey authorities take measures to control"
         ]
       },
       {
@@ -525,7 +525,7 @@
         "coverage": 1,
         "updated_at": "Thu, 19 Mar 2026 11:00:06 GMT",
         "title": "Independent autism committee that challenges RFK Jr’s overhaul draws criticism",
-        "neutral_headline": "Independent autism committee draws criticism",
+        "neutral_headline": "Independent autism committee that challenges RFK Jr’s overhaul draws criticism",
         "items": [
           {
             "source": "Guardian Health",
@@ -538,11 +538,11 @@
           }
         ],
         "ai_summary": [
-          "Autism committee has only one autistic member",
-          "Committee has anti-vaccine advocates",
-          "Kennedy reshaped autism advisory committee",
-          "New committee has sparked controversy",
-          "Autistic community is concerned about focus"
+          "Robert F Kennedy Jr reshaped the autism committee",
+          "New committee has only one autistic member",
+          "Kennedy appointed anti-vaccine advocates",
+          "The committee's focus is questioned by critics",
+          "Autistic community raises concerns about representation"
         ]
       },
       {
@@ -550,7 +550,7 @@
         "coverage": 1,
         "updated_at": "Thu, 19 Mar 2026 10:00:06 GMT",
         "title": "Molecule in python blood could pave way for new obesity drugs, scientists say",
-        "neutral_headline": "Molecule in python blood could aid obesity",
+        "neutral_headline": "Molecule In Python Blood Could Treat Obesity",
         "items": [
           {
             "source": "Guardian Health",
@@ -563,11 +563,11 @@
           }
         ],
         "ai_summary": [
-          "Python blood molecule suppresses appetite",
-          "Molecule could lead to new obesity drugs",
-          "Obese mice lost weight with molecule",
-          "Molecule has potential for human use",
-          "Researchers are studying python metabolite"
+          "Researchers found a molecule in python blood",
+          "The molecule suppresses appetite in obese mice",
+          "It could lead to new obesity treatments",
+          "The molecule has fewer side effects than GLP-1 drugs",
+          "Scientists study the molecule's effects on weight loss"
         ]
       },
       {
@@ -575,7 +575,7 @@
         "coverage": 1,
         "updated_at": "Thu, 19 Mar 2026 09:18:07 GMT",
         "title": "Health bosses can't confirm meningitis outbreak contained",
-        "neutral_headline": "Meningitis outbreak not contained",
+        "neutral_headline": "Meningitis Outbreak Not Contained In England",
         "items": [
           {
             "source": "BBC Health",
@@ -590,11 +590,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2804/live/dc039100-22f1-11f1-a60b-b951e22b29eb.jpg",
         "ai_summary": [
-          "Health bosses cannot confirm outbreak contained",
-          "Thousands have received meningitis jabs",
-          "Health workers are on high alert",
-          "Meningitis outbreak is still a concern",
-          "Outbreak may not be fully under control"
+          "Health workers are urged to watch for infection signs",
+          "Thousands of people have received meningitis jabs",
+          "The outbreak is a concern for health authorities",
+          "England's health system is on high alert",
+          "Meningitis cases are being closely monitored"
         ]
       },
       {
@@ -602,7 +602,7 @@
         "coverage": 1,
         "updated_at": "Thu, 19 Mar 2026 07:47:55 GMT",
         "title": "Better NHS care might have saved 58 babies, BBC finds",
-        "neutral_headline": "Better NHS care might have saved babies",
+        "neutral_headline": "Better NHS Care Could Have Saved 58 Babies",
         "items": [
           {
             "source": "BBC Health",
@@ -617,11 +617,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ccd/live/d219c360-b62e-11f0-8c22-1dd3bd1762ee.jpg",
         "ai_summary": [
-          "Better care might have saved 58 babies",
+          "A BBC investigation found potential NHS failures",
           "Maternity services in Oxford are under scrutiny",
-          "BBC finds issues with NHS care",
-          "Calls are growing for public inquiry",
-          "NHS care is being questioned"
+          "There are calls for a public inquiry into NHS care",
+          "The investigation found avoidable baby deaths",
+          "NHS care is being reviewed for improvements"
         ]
       },
       {
@@ -642,11 +642,11 @@
           }
         ],
         "ai_summary": [
-          "Meningitis B outbreak is largest in generation",
-          "Outbreak started at nightclub in Kent",
-          "Thousands have received meningitis jabs",
-          "Health authorities are responding",
-          "Parents and experts are questioning vaccination"
+          "A meningitis outbreak occurred in Kent",
+          "Two young people died and others are hospitalized",
+          "The outbreak is linked to a nightclub in Canterbury",
+          "Health authorities launched a major response",
+          "Thousands of people received antibiotics and vaccines"
         ]
       },
       {
@@ -654,7 +654,7 @@
         "coverage": 1,
         "updated_at": "Thu, 19 Mar 2026 05:00:58 GMT",
         "title": "The Myanmar nurses dodging drones to graduate from a secret jungle school",
-        "neutral_headline": "Myanmar nurses graduate from secret jungle school",
+        "neutral_headline": "Myanmar Nurses Graduate From Secret Jungle School",
         "items": [
           {
             "source": "Guardian Health",
@@ -667,11 +667,11 @@
           }
         ],
         "ai_summary": [
-          "Nurses graduated from secret jungle school",
-          "School is hidden from military junta",
-          "Students trained in underground health system",
-          "Graduates will treat displaced people",
-          "Nursing degree is three-year course"
+          "Nurses graduated from a secret jungle school",
+          "The school is hidden from Myanmar's military junta",
+          "The nurses will treat displaced people and fighters",
+          "The school provides a three-year nursing degree",
+          "Graduates will work in an underground health system"
         ]
       },
       {
@@ -679,7 +679,7 @@
         "coverage": 1,
         "updated_at": "Thu, 19 Mar 2026 00:01:53 GMT",
         "title": "Instagram worse for mental health than WhatsApp, global study finds",
-        "neutral_headline": "Instagram worse for mental health than WhatsApp",
+        "neutral_headline": "Instagram Worse For Mental Health Than WhatsApp",
         "items": [
           {
             "source": "Guardian Health",
@@ -692,17 +692,17 @@
           }
         ],
         "ai_summary": [
-          "Instagram is worse for mental health",
+          "Instagram is worse for mental health than WhatsApp",
           "Algorithm-driven apps are more harmful",
-          "Social media affects young people's happiness",
-          "Excessive use causes unhappiness",
-          "Facebook and WhatsApp are less harmful"
+          "Social media use causes unhappiness in young people",
+          "The World Happiness Report studied global social media",
+          "Excessive social media use has negative effects"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-19T19:46:10.163Z",
+    "updated_at": "2026-03-19T23:30:30.055Z",
     "clusters": []
   }
 }
