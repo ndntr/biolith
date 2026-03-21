@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-03-21T19:24:39.461Z",
+    "updated_at": "2026-03-21T23:25:40.355Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-21T19:24:51.454Z",
+    "updated_at": "2026-03-21T23:25:51.401Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -27,10 +27,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/314b01af-d4db-4c4e-9913-808e495279ae/TGA-urges-against-panic-buying-amid-medicine-supply-disruptions.aspx",
         "ai_summary": [
           "TGA urges against panic buying of medicine",
-          "Medicine supply disruptions are caused by conflict in Iran",
-          "Australia-bound supply is being rerouted",
-          "Experts are working to prevent stockpiling",
-          "Patients are advised to follow doctor's instructions"
+          "Medicine supply disruptions cause concern",
+          "Experts advise GPs to prevent stockpiling",
+          "Conflict in Iran affects Australia-bound supply",
+          "GPs play a key role in managing medicine supply"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/e1f1a69d-10a0-4515-8c9f-5faaaa7d09b2/Could-indefinite-referrals-become-default-for-GPs.aspx",
         "ai_summary": [
-          "The Federal Government is investigating referral rules",
-          "Current referral rules may not reflect modern healthcare",
-          "Indefinite referrals may become the default for GPs",
-          "The government is considering changes to referral validity",
-          "GPs will be affected by the potential changes"
+          "Federal Government investigates referral rules",
+          "Indefinite referrals may become default for GPs",
+          "Current referral rules are being reviewed",
+          "The Government considers modern healthcare needs",
+          "GPs may see changes to referral procedures"
         ]
       },
       {
@@ -80,20 +80,47 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/1481728d-fdf7-476e-901a-dfa81f8abc8a/New-Government-group-to-guide-digital-health-oversight.aspx",
         "ai_summary": [
-          "A new government group will guide digital health oversight",
-          "The group includes members from the RACGP",
-          "The group will provide advice on emerging technologies",
-          "Clinical safety will be a top priority",
-          "The group will help balance access to new technologies"
+          "New Government group guides digital health oversight",
+          "The group includes the RACGP and other members",
+          "The group provides advice on emerging technologies",
+          "Clinical safety is a top priority for the group",
+          "The group balances access with safety concerns"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-03-21T19:24:42.822Z",
+    "updated_at": "2026-03-21T23:25:42.602Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 21 Mar 2026 21:43:59 GMT",
+        "title": "I spent five months in a mother and baby mental health unit - here's what I want mums to know",
+        "neutral_headline": "Mother and baby mental health unit experiences",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c5yve15lvgko?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 21 Mar 2026 21:43:59 GMT",
+            "title": "I spent five months in a mother and baby mental health unit - here's what I want mums to know",
+            "standfirst": "Sofii Lewis was diagnosed with postpartum psychosis tendencies and OCD after giving birth.",
+            "content": "Sofii Lewis was diagnosed with postpartum psychosis tendencies and OCD after giving birth.",
+            "feed_position": 35,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f2/live/a265b950-1edc-11f1-aedd-0da0e866b1f3.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f2/live/a265b950-1edc-11f1-aedd-0da0e866b1f3.jpg",
+        "ai_summary": [
+          "Sofii Lewis diagnosed with postpartum psychosis tendencies",
+          "Lewis also diagnosed with obsessive compulsive disorder",
+          "Mental health unit stay lasted five months",
+          "Lewis shares her experiences to help other mothers",
+          "Postpartum psychosis affects many new mothers"
+        ]
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Sat, 21 Mar 2026 17:00:57 GMT",
         "title": "‘Thank God they’re still alive’: Kaiser therapists claim its new screening system puts patients at higher risk by delaying their care",
@@ -110,15 +137,15 @@
           }
         ],
         "ai_summary": [
-          "Kaiser therapists claim new screening system delays care",
-          "The system uses clerical workers to assess patients",
-          "Licensed professionals are concerned about patient safety",
-          "The system has been in place since January 2024",
-          "Kaiser has pushed back against the claims"
+          "Kaiser Permanente introduced new screening process",
+          "Clerical workers assess patient conditions with scripted questions",
+          "Licensed professionals express concerns about delayed care",
+          "Patients experience severe mental health issues",
+          "Kaiser pushes back on claims of inadequate care"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sat, 21 Mar 2026 10:00:49 GMT",
         "title": "Trump is eager to disclose details on others’ health – but not his own",
@@ -135,19 +162,19 @@
           }
         ],
         "ai_summary": [
-          "Trump revealed a congressman's terminal diagnosis",
-          "The congressman's condition is reportedly terminal",
-          "Trump has been criticized for disclosing the information",
-          "The congressman's health is a private matter",
-          "Trump has been accused of being insensitive"
+          "President Trump discloses Neal Dunn's health condition",
+          "Trump comments on Dunn's condition during press conference",
+          "Dunn's condition reportedly terminal without treatment",
+          "Trump's disclosure sparks controversy and debate",
+          "Trump's own health records remain largely private"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 21 Mar 2026 09:50:45 GMT",
         "title": "Five questions that still need answering about the meningitis outbreak",
-        "neutral_headline": "Meningitis Outbreak Raises Questions",
+        "neutral_headline": "Meningitis outbreak raises unanswered questions",
         "items": [
           {
             "source": "BBC Health",
@@ -162,19 +189,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b935/live/67574430-2497-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "A meningitis outbreak has occurred in the UK",
-          "Five questions remain unanswered about the outbreak",
-          "The outbreak has affected 34 people",
-          "Two people have died from the outbreak",
-          "The cause of the outbreak is still unknown"
+          "Meningitis outbreak affects 34 people and kills two",
+          "Outbreak labeled unprecedented due to size and speed",
+          "Five key questions remain unanswered about outbreak",
+          "Investigation into outbreak is ongoing",
+          "Public health officials work to contain outbreak"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sat, 21 Mar 2026 08:00:47 GMT",
         "title": "Infertility: at a time when we need the right words, others are unable to find them | Nuala McGovern",
-        "neutral_headline": "Infertility Discussions Need Empathy",
+        "neutral_headline": "Infertility discussions require empathy and understanding",
         "items": [
           {
             "source": "Guardian Health",
@@ -187,19 +214,19 @@
           }
         ],
         "ai_summary": [
-          "Infertility is a difficult topic to discuss",
-          "People need empathy and understanding when discussing infertility",
-          "Better timing and fewer platitudes are helpful",
-          "Listening and empathy are essential",
-          "Infertility affects many people"
+          "Infertility is a difficult topic to discuss openly",
+          "Nuala McGovern shares personal experience with infertility",
+          "Better timing and active listening are helpful approaches",
+          "Platitudes and certainty can be unhelpful",
+          "Empathy and understanding are essential for support"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sat, 21 Mar 2026 06:00:45 GMT",
         "title": "‘Something I’ve never felt since Covid. It was scarier’: the shock and pain of Kent’s meningitis outbreak",
-        "neutral_headline": "Meningitis Outbreak in Kent",
+        "neutral_headline": "Kent meningitis outbreak causes shock and pain",
         "items": [
           {
             "source": "Guardian Health",
@@ -212,19 +239,19 @@
           }
         ],
         "ai_summary": [
-          "A meningitis outbreak has occurred in Kent",
-          "The outbreak is linked to a nightclub",
-          "Two people have died from the outbreak",
-          "Experts are still investigating the cause",
-          "The outbreak has caused widespread concern"
+          "Meningitis outbreak in Kent affects young people",
+          "Tyra Skinner's experience with meningitis is shared",
+          "Symptoms include headache and stiff neck",
+          "Outbreak is linked to a nightclub in Kent",
+          "Investigation into outbreak is ongoing"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 19:15:09 GMT",
         "title": "Meningitis B: Your questions answered",
-        "neutral_headline": "Meningitis B Questions Answered",
+        "neutral_headline": "Meningitis B questions answered",
         "items": [
           {
             "source": "BBC Health",
@@ -239,15 +266,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca78/live/4d3200a0-248c-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "Meningitis B is a serious disease",
-          "The disease can be prevented with vaccination",
-          "Symptoms include headache and stiff neck",
-          "Treatment is available for meningitis B",
-          "Vaccination is the best way to prevent the disease"
+          "Meningitis B is a serious and potentially deadly disease",
+          "BBC Health reporter answers common questions",
+          "Symptoms and treatment options are discussed",
+          "Vaccination is available to prevent meningitis B",
+          "Public awareness is crucial for prevention"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 18:30:30 GMT",
         "title": "The Guardian view on meningitis in Kent: we must not take public health systems for granted | Editorial",
@@ -264,19 +291,19 @@
           }
         ],
         "ai_summary": [
-          "The meningitis outbreak in Kent is a public health concern",
-          "The outbreak has caused two deaths",
-          "The government is taking measures to control the outbreak",
-          "The public is advised to take precautions",
-          "The outbreak highlights the importance of public health systems"
+          "Meningitis outbreak in Kent is a public health concern",
+          "Two young people have died from the disease",
+          "Thousands of lives have been disrupted by outbreak",
+          "Public health measures are in place to contain outbreak",
+          "Investigation into outbreak is ongoing"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 17:58:08 GMT",
         "title": "Experts consider expanding meningitis vaccine eligibility after Kent outbreak",
-        "neutral_headline": "Experts Consider Expanding Meningitis Vaccine Eligibility",
+        "neutral_headline": "Experts consider expanding meningitis vaccine eligibility",
         "items": [
           {
             "source": "Guardian Health",
@@ -289,19 +316,19 @@
           }
         ],
         "ai_summary": [
-          "Experts are considering expanding meningitis vaccine eligibility",
-          "The decision is in response to the Kent outbreak",
-          "The vaccine is currently only available to certain groups",
-          "The government is reviewing the eligibility criteria",
-          "The decision will be based on scientific evidence"
+          "Meningitis vaccine eligibility may be expanded",
+          "Joint Committee on Vaccination and Immunisation reviews policy",
+          "Health secretary asks for review of eligibility criteria",
+          "Meningitis outbreak in Kent prompts reconsideration",
+          "Vaccine eligibility expansion could prevent future outbreaks"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 17:40:02 GMT",
         "title": "Thousands get meningitis vaccine as experts wait to see outbreak peak",
-        "neutral_headline": "Thousands Get Meningitis Vaccine",
+        "neutral_headline": "Thousands receive meningitis vaccine",
         "items": [
           {
             "source": "BBC Health",
@@ -316,19 +343,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d1/live/a7a89990-2464-11f1-a2c1-39d16ad974aa.jpg",
         "ai_summary": [
-          "Thousands of people are getting the meningitis vaccine",
-          "The vaccine is being offered in response to the outbreak",
-          "The outbreak has killed two people",
-          "Experts are waiting to see if the outbreak has peaked",
-          "The vaccine is available to those at risk"
+          "Meningitis vaccine is administered to thousands",
+          "Outbreak in Kent prompts vaccination efforts",
+          "Two people have died from meningitis in Kent",
+          "Vaccination is available to prevent meningitis",
+          "Public health officials work to contain outbreak"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 17:13:34 GMT",
         "title": "Eid moon spotters pass skills to next generation",
-        "neutral_headline": "Eid Moon Spotters Pass Skills",
+        "neutral_headline": "Eid moon spotters gather to spot new moon",
         "items": [
           {
             "source": "BBC Science",
@@ -343,19 +370,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae56/live/bf062d70-2476-11f1-b187-ed35b97acec8.jpg",
         "ai_summary": [
-          "Eid moon spotters are passing skills to the next generation",
-          "Families and astronomers are gathering to spot the moon",
-          "The event is taking place in Shipley",
-          "The new moon is a significant event",
-          "The tradition is being passed down to children"
+          "Families and astronomers gather to spot new moon",
+          "Event takes place in Shipley on Thursday",
+          "Eid moon spotting is a traditional activity",
+          "Astronomers and families participate together",
+          "New moon is a significant event for many cultures"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 16:46:41 GMT",
         "title": "World's longest coastal path opens in England",
-        "neutral_headline": "King Charles Inaugurates New Coastal Path In England",
+        "neutral_headline": "England's coastal path opens to public",
         "items": [
           {
             "source": "BBC Science",
@@ -370,19 +397,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b25e/live/d76b1d00-2479-11f1-b297-95b0a0a8331e.jpg",
         "ai_summary": [
-          "King Charles inaugurated a new footpath in England",
-          "The footpath stretches around the entire coast of England",
-          "The path is the longest coastal path in the world",
-          "It provides a new route for walkers and tourists",
-          "The path is expected to boost local economies"
+          "King Charles inaugurates new coastal path",
+          "Path stretches around entire coast of England",
+          "New footpath is now open to the public",
+          "Path offers scenic views and outdoor activities",
+          "King Charles attends inauguration ceremony"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 16:32:43 GMT",
         "title": "Nasa's Artemis Moon rocket rolls back to pad for possible April launch",
-        "neutral_headline": "Nasa Prepares Artemis Moon Rocket For Launch",
+        "neutral_headline": "Nasa's Artemis Moon rocket prepares for launch",
         "items": [
           {
             "source": "BBC Science",
@@ -397,19 +424,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc66/live/e81b0480-247e-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "Nasa is preparing a mission to send astronauts to the Moon",
-          "The Artemis Moon rocket is being readied for a possible April launch",
-          "The mission will send astronauts around the Moon for the first time",
-          "The launch will take place after a 50 year hiatus",
-          "Nasa is working to ensure a successful mission"
+          "Nasa's Artemis Moon rocket is prepared for launch",
+          "Rocket will send astronauts around the Moon",
+          "Mission is scheduled for possible April launch",
+          "Astronauts will travel to Moon for first time in decades",
+          "Nasa's Artemis program aims to explore Moon"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 16:31:06 GMT",
         "title": "'I feel so grateful to be alive,' Kent University meningitis survivor says",
-        "neutral_headline": "Meningitis Survivor Shares Her Experience",
+        "neutral_headline": "Kent University meningitis survivor shares experience",
         "items": [
           {
             "source": "BBC Health",
@@ -424,19 +451,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/303f/live/5cde23d0-247d-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "Annabelle Mackay survived meningitis at the age of 21",
-          "She spoke to the BBC about her experience with the disease",
-          "Mackay is grateful to be alive after surviving meningitis",
-          "She hopes to raise awareness about the disease",
-          "Her story is an inspiration to others"
+          "Annabelle Mackay survives meningitis outbreak",
+          "Mackay shares her experience with the BBC",
+          "Meningitis outbreak in Kent affects young people",
+          "Mackay is grateful to be alive after illness",
+          "Meningitis awareness is crucial for prevention"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 16:26:23 GMT",
         "title": "Influencers are drinking shots of olive oil and lemon juice. Should you?",
-        "neutral_headline": "Influencers Drink Olive Oil And Lemon Juice",
+        "neutral_headline": "Influencers drink olive oil and lemon juice shots",
         "items": [
           {
             "source": "Guardian Health",
@@ -449,19 +476,19 @@
           }
         ],
         "ai_summary": [
-          "Influencers are drinking shots of olive oil and lemon juice",
-          "They claim the combination has health benefits",
-          "The drink is said to bestow glowing skin and better digestion",
-          "The trend is popular on TikTok and Instagram",
-          "Experts have not verified the claimed health benefits"
+          "Wellness enthusiasts drink olive oil and lemon juice",
+          "Claimed benefits include glowing skin and digestion",
+          "Trend is popular on TikTok and Instagram",
+          "Combination is consumed as a shot",
+          "Health benefits of trend are not scientifically proven"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 15:41:42 GMT",
         "title": "Ambulance delays during power cut possibly contributed to man’s death, coroner rules",
-        "neutral_headline": "Ambulance Delays Possibly Contributed To Mans Death",
+        "neutral_headline": "Ambulance delays during power cut possibly contributed to man’s death coroner rules",
         "items": [
           {
             "source": "Guardian Health",
@@ -474,19 +501,19 @@
           }
         ],
         "ai_summary": [
-          "A coroner ruled that ambulance delays may have contributed to a death",
-          "Peter Coates died in 2019 due to breathing apparatus stopping",
-          "The family welcomed the coroner's conclusion",
+          "Ambulance delays occurred during a power cut",
+          "A man died when his breathing apparatus stopped",
+          "The coroner ruled delays possibly contributed to death",
           "The family had been seeking answers for years",
-          "The coroner's ruling brings closure to the family"
+          "The family faced delays and resistance from ambulance service"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 15:14:07 GMT",
         "title": "MP raises question in Parliament over fish deaths",
-        "neutral_headline": "MP Raises Question About Fish Deaths In Parliament",
+        "neutral_headline": "MP raises question in Parliament over fish deaths",
         "items": [
           {
             "source": "BBC Science",
@@ -501,19 +528,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb81/live/9c83f660-23db-11f1-8afd-2d0cf3dc7503.jpg",
         "ai_summary": [
-          "MP Steve Barclay asked about fish deaths in Parliament",
+          "An MP asked about fish deaths in Parliament",
           "About 900 fish died in Whittlesey",
-          "There has been no prosecution for the fish deaths",
-          "The MP is seeking answers about the incident",
-          "The cause of the fish deaths is still unknown"
+          "No prosecution has been made so far",
+          "The MP is seeking answers for the fish deaths",
+          "The incident occurred in a specific location"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 14:51:52 GMT",
         "title": "Second company plans Shetland rocket launch this year",
-        "neutral_headline": "Second Company Plans Shetland Rocket Launch",
+        "neutral_headline": "Second company plans Shetland rocket launch this year",
         "items": [
           {
             "source": "BBC Science",
@@ -528,19 +555,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3e1/live/64c25200-2456-11f1-9ef2-69d6b0d0d019.jpg",
         "ai_summary": [
-          "A second company plans to launch a rocket from Shetland",
-          "The launch will take place at SaxaVord Spaceport",
-          "The spaceport is located in Unst",
-          "Several firms hope to use the spaceport for launches",
-          "The launch is expected to take place this year"
+          "A company plans to launch a rocket in Shetland",
+          "The launch will occur at SaxaVord Spaceport",
+          "Multiple firms want to use the spaceport",
+          "The launch is scheduled to happen this year",
+          "The spaceport is located in Unst"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 14:00:24 GMT",
         "title": "‘It all feels very natural’: Britain’s sauna boom heats up as people seek warmth of human connection",
-        "neutral_headline": "Britains Sauna Boom Continues To Grow",
+        "neutral_headline": "Britain experiences sauna boom and growth",
         "items": [
           {
             "source": "Guardian Health",
@@ -553,19 +580,19 @@
           }
         ],
         "ai_summary": [
-          "The number of saunas in Britain is increasing",
+          "Saunas are becoming popular in Britain",
           "The British Sauna Society lists about 640 saunas",
-          "Saunas are said to have health benefits",
-          "The trend is popular in an increasingly digital world",
-          "The sauna market is expected to continue growing"
+          "Saunas can boost heart health and connection",
+          "The number of saunas is increasing rapidly",
+          "The UK may become the largest sauna market"
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 13:40:37 GMT",
         "title": "US health department investigates 13 states that require insurance plans to cover abortion",
-        "neutral_headline": "US Health Department Investigates 13 States",
+        "neutral_headline": "US health department investigates 13 states that require insurance plans to cover abortion",
         "items": [
           {
             "source": "Guardian Health",
@@ -578,42 +605,17 @@
           }
         ],
         "ai_summary": [
-          "The US Health Department is investigating 13 states",
+          "The US HHS is investigating 13 states",
           "The states require insurance plans to cover abortion",
-          "The investigation is related to the Weldon amendment",
-          "The amendment prohibits federal funding for certain programs",
-          "The investigation will examine alleged violations"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Fri, 20 Mar 2026 12:36:00 GMT",
-        "title": "Kent meningitis outbreak may have peaked as UKHSA reports slowdown in cases",
-        "neutral_headline": "Kent Meningitis Outbreak May Have Peaked",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/mar/20/kent-meningitis-outbreak-may-have-peaked",
-            "published_at": "Fri, 20 Mar 2026 12:36:00 GMT",
-            "title": "Kent meningitis outbreak may have peaked as UKHSA reports slowdown in cases",
-            "standfirst": "Experts continue to analyse strain of MenB to understand whether it has become more likely to spread or cause diseaseThe Kent meningitis outbreak may have reached its peak after only two new cases were reported by officials on Friday.The UK Health and Security Agency said that as of 12.30pm on Thursday, there were 18 confirmed and 11 probable cases of meningitis linked to the Kent outbreak, taking the total number of people with the disease to 29. Of the confirmed cases, 13 were meningitis B. Continue reading...",
-            "content": "Experts continue to analyse strain of MenB to understand whether it has become more likely to spread or cause diseaseThe Kent meningitis outbreak may have reached its peak after only two new cases were reported by officials on Friday.The UK Health and Security Agency said that as of 12.30pm on Thursday, there were 18 confirmed and 11 probable cases of meningitis linked to the Kent outbreak, taking the total number of people with the disease to 29. Of the confirmed cases, 13 were meningitis B. Continue reading...",
-            "feed_position": 10
-          }
-        ],
-        "ai_summary": [
-          "The Kent meningitis outbreak may have reached its peak",
-          "Only two new cases were reported recently",
-          "There are 18 confirmed and 11 probable cases",
-          "Experts are analyzing the strain of MenB",
-          "The outbreak is being closely monitored by health officials"
+          "The investigation is about the Weldon amendment",
+          "The amendment prohibits federal funding discrimination",
+          "The HHS office for civil rights is handling case"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-21T19:24:51.454Z",
+    "updated_at": "2026-03-21T23:25:51.402Z",
     "clusters": []
   }
 }
