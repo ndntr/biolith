@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-03-21T11:23:30.476Z",
+    "updated_at": "2026-03-21T19:24:39.461Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-21T11:23:42.727Z",
+    "updated_at": "2026-03-21T19:24:51.454Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/314b01af-d4db-4c4e-9913-808e495279ae/TGA-urges-against-panic-buying-amid-medicine-supply-disruptions.aspx",
         "ai_summary": [
-          "TGA warns against panic buying of medicine",
-          "Medicine supply disruptions are cause for concern",
-          "Experts urge GPs to prevent stockpiling",
-          "Conflict in Iran affects Australia bound supply",
-          "GPs play key role in managing medicine supply"
+          "TGA urges against panic buying of medicine",
+          "Medicine supply disruptions are caused by conflict in Iran",
+          "Australia-bound supply is being rerouted",
+          "Experts are working to prevent stockpiling",
+          "Patients are advised to follow doctor's instructions"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/e1f1a69d-10a0-4515-8c9f-5faaaa7d09b2/Could-indefinite-referrals-become-default-for-GPs.aspx",
         "ai_summary": [
-          "Federal Government considers indefinite referrals",
-          "Current referral rules are under review",
-          "GPs may use indefinite referrals by default",
-          "Referral rules may be updated to reflect modern healthcare",
-          "Government is investigating referral rule changes"
+          "The Federal Government is investigating referral rules",
+          "Current referral rules may not reflect modern healthcare",
+          "Indefinite referrals may become the default for GPs",
+          "The government is considering changes to referral validity",
+          "GPs will be affected by the potential changes"
         ]
       },
       {
@@ -80,45 +80,70 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/1481728d-fdf7-476e-901a-dfa81f8abc8a/New-Government-group-to-guide-digital-health-oversight.aspx",
         "ai_summary": [
-          "New Government group guides digital health",
-          "Group provides advice on emerging technologies",
-          "RACGP is member of new Government group",
-          "Group aims to balance access and clinical safety",
-          "Digital health oversight is key focus of group"
+          "A new government group will guide digital health oversight",
+          "The group includes members from the RACGP",
+          "The group will provide advice on emerging technologies",
+          "Clinical safety will be a top priority",
+          "The group will help balance access to new technologies"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-03-21T11:23:33.019Z",
+    "updated_at": "2026-03-21T19:24:42.822Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Sat, 21 Mar 2026 17:00:57 GMT",
+        "title": "‘Thank God they’re still alive’: Kaiser therapists claim its new screening system puts patients at higher risk by delaying their care",
+        "neutral_headline": "Kaiser therapists claim new screening system puts patients at risk",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/technology/2026/mar/21/kaiser-permanente-therapists-ai-strike",
+            "published_at": "Sat, 21 Mar 2026 17:00:57 GMT",
+            "title": "‘Thank God they’re still alive’: Kaiser therapists claim its new screening system puts patients at higher risk by delaying their care",
+            "standfirst": "Kaiser pushed back on striking workers’ claims and AI fears, saying it delivers ‘timely, high-quality care to meet members’ needs’Ilana Marcucci-Morris is worried about the patients she treats and how long it took for them to arrive in her office. At Kaiser Permanente’s psychiatry outpatient clinic in Oakland, California, she says she increasingly finds herself assessing people experiencing severe mental health issues who she believes should have been sent to the emergency room weeks earlier. For those who do make it to their appointments, she thinks: “Thank God they’re still alive.”It wasn’t always this way, according to Marcucci-Morris, a licensed clinical social worker. Licensed professionals used to almost always be the first point of contact for patients with behavioral health issues at Kaiser, she said. She has noticed a change since January 2024, after the healthcare giant introduced a new screening process for first-time patients. The new system introduced clerical workers who are not licensed practitioners, who ask scripted “yes” or “no” questions to assess the severity of patients’ conditions and how urgently they need to be seen. Around the same time, Kaiser also rolled out a different way to screen some patients: e-visits, essentially online questionnaires patients take before getting scheduled with a licensed health care professional. Continue reading...",
+            "content": "Kaiser pushed back on striking workers’ claims and AI fears, saying it delivers ‘timely, high-quality care to meet members’ needs’Ilana Marcucci-Morris is worried about the patients she treats and how long it took for them to arrive in her office. At Kaiser Permanente’s psychiatry outpatient clinic in Oakland, California, she says she increasingly finds herself assessing people experiencing severe mental health issues who she believes should have been sent to the emergency room weeks earlier. For those who do make it to their appointments, she thinks: “Thank God they’re still alive.”It wasn’t always this way, according to Marcucci-Morris, a licensed clinical social worker. Licensed professionals used to almost always be the first point of contact for patients with behavioral health issues at Kaiser, she said. She has noticed a change since January 2024, after the healthcare giant introduced a new screening process for first-time patients. The new system introduced clerical workers who are not licensed practitioners, who ask scripted “yes” or “no” questions to assess the severity of patients’ conditions and how urgently they need to be seen. Around the same time, Kaiser also rolled out a different way to screen some patients: e-visits, essentially online questionnaires patients take before getting scheduled with a licensed health care professional. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "Kaiser therapists claim new screening system delays care",
+          "The system uses clerical workers to assess patients",
+          "Licensed professionals are concerned about patient safety",
+          "The system has been in place since January 2024",
+          "Kaiser has pushed back against the claims"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
         "updated_at": "Sat, 21 Mar 2026 10:00:49 GMT",
         "title": "Trump is eager to disclose details on others’ health – but not his own",
-        "neutral_headline": "Trump Reveals Congressman Terminal Diagnosis",
+        "neutral_headline": "Trump reveals congressman's terminal diagnosis",
         "items": [
           {
             "source": "Guardian Health",
             "url": "https://www.theguardian.com/us-news/2026/mar/21/trump-health-privacy",
             "published_at": "Sat, 21 Mar 2026 10:00:49 GMT",
             "title": "Trump is eager to disclose details on others’ health – but not his own",
-            "standfirst": "President revealing congressman’s terminal diagnosis follows caginess about his own health, such as recent rashWhen Donald Trump revealed that Republican congressman Neal Dunn would have been “dead by June” if not for White House doctors who treated the representative’s reportedly terminal condition, many were shocked by his disclosure.The president’s comments last week, which unfolded during a meandering presser with Republican House speaker Mike Johnson and Kennedy Center leaders, came after Trump prodded the top politician for details on Dunn’s health. Continue reading...",
-            "content": "President revealing congressman’s terminal diagnosis follows caginess about his own health, such as recent rashWhen Donald Trump revealed that Republican congressman Neal Dunn would have been “dead by June” if not for White House doctors who treated the representative’s reportedly terminal condition, many were shocked by his disclosure.The president’s comments last week, which unfolded during a meandering presser with Republican House speaker Mike Johnson and Kennedy Center leaders, came after Trump prodded the top politician for details on Dunn’s health. Continue reading...",
+            "standfirst": "President revealing congressman’s terminal diagnosis follows caginess about his own health, such as recent rashSign up for the Breaking News US email to get newsletter alerts in your inboxWhen Donald Trump revealed that Republican congressman Neal Dunn would have been “dead by June” if not for White House doctors who treated the representative’s reportedly terminal condition, many were shocked by his disclosure.The president’s comments last week, which unfolded during a meandering presser with Republican House speaker Mike Johnson and Kennedy Center leaders, came after Trump prodded the top politician for details on Dunn’s health. Continue reading...",
+            "content": "President revealing congressman’s terminal diagnosis follows caginess about his own health, such as recent rashSign up for the Breaking News US email to get newsletter alerts in your inboxWhen Donald Trump revealed that Republican congressman Neal Dunn would have been “dead by June” if not for White House doctors who treated the representative’s reportedly terminal condition, many were shocked by his disclosure.The president’s comments last week, which unfolded during a meandering presser with Republican House speaker Mike Johnson and Kennedy Center leaders, came after Trump prodded the top politician for details on Dunn’s health. Continue reading...",
             "feed_position": 1
           }
         ],
         "ai_summary": [
-          "Trump discloses Neal Dunn's terminal condition",
-          "White House doctors treated Dunn's condition",
-          "Trump's comments sparked shock and debate",
-          "Dunn's condition was reportedly terminal",
-          "Trump's health remains a topic of discussion"
+          "Trump revealed a congressman's terminal diagnosis",
+          "The congressman's condition is reportedly terminal",
+          "Trump has been criticized for disclosing the information",
+          "The congressman's health is a private matter",
+          "Trump has been accused of being insensitive"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sat, 21 Mar 2026 09:50:45 GMT",
         "title": "Five questions that still need answering about the meningitis outbreak",
@@ -129,27 +154,27 @@
             "url": "https://www.bbc.com/news/articles/cz783d70x8ro?at_medium=RSS&at_campaign=rss",
             "published_at": "Sat, 21 Mar 2026 09:50:45 GMT",
             "title": "Five questions that still need answering about the meningitis outbreak",
-            "standfirst": "The size and speed of the outbreak which has now affected 29 people, killing two of them, has been labelled \"unprecedented\".",
-            "content": "The size and speed of the outbreak which has now affected 29 people, killing two of them, has been labelled \"unprecedented\".",
+            "standfirst": "The size and speed of the outbreak which has now affected 34 people, killing two of them, has been labelled \"unprecedented\".",
+            "content": "The size and speed of the outbreak which has now affected 34 people, killing two of them, has been labelled \"unprecedented\".",
             "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b935/live/67574430-2497-11f1-934f-036468834728.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b935/live/67574430-2497-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "Meningitis outbreak affects 29 people",
+          "A meningitis outbreak has occurred in the UK",
+          "Five questions remain unanswered about the outbreak",
+          "The outbreak has affected 34 people",
           "Two people have died from the outbreak",
-          "Outbreak is considered unprecedented",
-          "Size and speed of outbreak are concerning",
-          "Investigation into outbreak is ongoing"
+          "The cause of the outbreak is still unknown"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 21 Mar 2026 08:00:47 GMT",
         "title": "Infertility: at a time when we need the right words, others are unable to find them | Nuala McGovern",
-        "neutral_headline": "Infertility Discussion Needs Improvement",
+        "neutral_headline": "Infertility Discussions Need Empathy",
         "items": [
           {
             "source": "Guardian Health",
@@ -163,14 +188,14 @@
         ],
         "ai_summary": [
           "Infertility is a difficult topic to discuss",
-          "Better timing and empathy are needed",
-          "Listening and understanding are crucial",
-          "Infertility affects many people's lives",
-          "Open conversation can help break stigma"
+          "People need empathy and understanding when discussing infertility",
+          "Better timing and fewer platitudes are helpful",
+          "Listening and empathy are essential",
+          "Infertility affects many people"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sat, 21 Mar 2026 06:00:45 GMT",
         "title": "‘Something I’ve never felt since Covid. It was scarier’: the shock and pain of Kent’s meningitis outbreak",
@@ -187,15 +212,15 @@
           }
         ],
         "ai_summary": [
-          "Meningitis outbreak in Kent is puzzling",
+          "A meningitis outbreak has occurred in Kent",
+          "The outbreak is linked to a nightclub",
+          "Two people have died from the outbreak",
           "Experts are still investigating the cause",
-          "Infections linked to a nightclub",
-          "Public health incident requires national response",
-          "Outbreak has claimed two young lives"
+          "The outbreak has caused widespread concern"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 19:15:09 GMT",
         "title": "Meningitis B: Your questions answered",
@@ -215,14 +240,14 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca78/live/4d3200a0-248c-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
           "Meningitis B is a serious disease",
-          "Vaccination is available for meningitis B",
-          "Symptoms of meningitis B include headache",
-          "Disease can cause septicaemia and infection",
-          "Vaccination can help prevent meningitis B"
+          "The disease can be prevented with vaccination",
+          "Symptoms include headache and stiff neck",
+          "Treatment is available for meningitis B",
+          "Vaccination is the best way to prevent the disease"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 18:30:30 GMT",
         "title": "The Guardian view on meningitis in Kent: we must not take public health systems for granted | Editorial",
@@ -239,19 +264,19 @@
           }
         ],
         "ai_summary": [
-          "Meningitis outbreak in Kent is frightening",
-          "Public health measures are in place",
-          "Outbreak has disrupted thousands of lives",
-          "Scientists are examining the bacteria",
-          "Meningitis remains a mysterious illness"
+          "The meningitis outbreak in Kent is a public health concern",
+          "The outbreak has caused two deaths",
+          "The government is taking measures to control the outbreak",
+          "The public is advised to take precautions",
+          "The outbreak highlights the importance of public health systems"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 17:58:08 GMT",
         "title": "Experts consider expanding meningitis vaccine eligibility after Kent outbreak",
-        "neutral_headline": "Experts consider expanding meningitis vaccine eligibility after Kent outbreak",
+        "neutral_headline": "Experts Consider Expanding Meningitis Vaccine Eligibility",
         "items": [
           {
             "source": "Guardian Health",
@@ -261,31 +286,22 @@
             "standfirst": "Scientific advisory committee to examine impact of offering routine MenB jabs to wider range of peopleThe Kent meningitis outbreak: what is happening and why?Experts are considering the case for routinely vaccinating more people against meningitis B in response to the fatal outbreak in Kent.The Joint Committee on Vaccination and Immunisation’s review was announced after the health secretary, Wes Streeting, asked it to “re-examine eligibility for meningitis vaccines” for a wider range of people than those who now qualify. Continue reading...",
             "content": "Scientific advisory committee to examine impact of offering routine MenB jabs to wider range of peopleThe Kent meningitis outbreak: what is happening and why?Experts are considering the case for routinely vaccinating more people against meningitis B in response to the fatal outbreak in Kent.The Joint Committee on Vaccination and Immunisation’s review was announced after the health secretary, Wes Streeting, asked it to “re-examine eligibility for meningitis vaccines” for a wider range of people than those who now qualify. Continue reading...",
             "feed_position": 5
-          },
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/mar/19/number-meningitis-cases-linked-kent-outbreak-rises",
-            "published_at": "Thu, 19 Mar 2026 16:46:48 GMT",
-            "title": "Meningitis vaccine eligibility expanded after Kent outbreak rises to 27",
-            "standfirst": "Anyone who was at Club Chemistry in Canterbury from 5 March to 15 March advised to get antibiotics and vaccinationThe government has announced a major expansion in vaccination against meningitis in Kent after seven new cases of the disease were confirmed in the county, taking the total number of cases to 27.On a visit to the University of Kent, the health secretary, Wes Streeting, said anyone who attended the Club Chemistry nightclub in Canterbury from 5 March until 15 March should come forward for antibiotics and vaccination. Continue reading...",
-            "content": "Anyone who was at Club Chemistry in Canterbury from 5 March to 15 March advised to get antibiotics and vaccinationThe government has announced a major expansion in vaccination against meningitis in Kent after seven new cases of the disease were confirmed in the county, taking the total number of cases to 27.On a visit to the University of Kent, the health secretary, Wes Streeting, said anyone who attended the Club Chemistry nightclub in Canterbury from 5 March until 15 March should come forward for antibiotics and vaccination. Continue reading...",
-            "feed_position": 19
           }
         ],
         "ai_summary": [
-          "Experts are reviewing meningitis vaccine eligibility",
-          "Joint Committee on Vaccination and Immunisation",
-          "Review was announced after health secretary",
-          "Eligibility for meningitis vaccines may expand",
-          "Vaccination can help prevent meningitis"
+          "Experts are considering expanding meningitis vaccine eligibility",
+          "The decision is in response to the Kent outbreak",
+          "The vaccine is currently only available to certain groups",
+          "The government is reviewing the eligibility criteria",
+          "The decision will be based on scientific evidence"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 17:40:02 GMT",
         "title": "Thousands get meningitis vaccine as experts wait to see outbreak peak",
-        "neutral_headline": "Thousands get meningitis vaccine",
+        "neutral_headline": "Thousands Get Meningitis Vaccine",
         "items": [
           {
             "source": "BBC Health",
@@ -300,15 +316,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d1/live/a7a89990-2464-11f1-a2c1-39d16ad974aa.jpg",
         "ai_summary": [
-          "Thousands receive meningitis vaccination",
-          "Outbreak has killed two people",
-          "Experts wait to see outbreak peak",
-          "Vaccination is available for those at risk",
-          "Outbreak is thought to have originated"
+          "Thousands of people are getting the meningitis vaccine",
+          "The vaccine is being offered in response to the outbreak",
+          "The outbreak has killed two people",
+          "Experts are waiting to see if the outbreak has peaked",
+          "The vaccine is available to those at risk"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 17:13:34 GMT",
         "title": "Eid moon spotters pass skills to next generation",
@@ -327,19 +343,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae56/live/bf062d70-2476-11f1-b187-ed35b97acec8.jpg",
         "ai_summary": [
-          "Families gather to spot new moon",
-          "Astronomers pass skills to next generation",
-          "Event took place in Shipley",
-          "New moon is significant for Eid",
-          "Families come together to celebrate"
+          "Eid moon spotters are passing skills to the next generation",
+          "Families and astronomers are gathering to spot the moon",
+          "The event is taking place in Shipley",
+          "The new moon is a significant event",
+          "The tradition is being passed down to children"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 16:46:41 GMT",
         "title": "World's longest coastal path opens in England",
-        "neutral_headline": "World's Longest Coastal Path Opens",
+        "neutral_headline": "King Charles Inaugurates New Coastal Path In England",
         "items": [
           {
             "source": "BBC Science",
@@ -350,33 +366,23 @@
             "content": "King Charles has inaugurated a new footpath stretching around the entire coast of England.",
             "feed_position": 17,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b25e/live/d76b1d00-2479-11f1-b297-95b0a0a8331e.jpg"
-          },
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cy0dxexdd8xo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 19 Mar 2026 14:34:11 GMT",
-            "title": "King opens world's longest coastal path around England",
-            "standfirst": "The King Charles coastal path will allow walkers right of access to the entire coast for the first time.",
-            "content": "The King Charles coastal path will allow walkers right of access to the entire coast for the first time.",
-            "feed_position": 3,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d0/live/b5438050-23a2-11f1-934f-036468834728.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b25e/live/d76b1d00-2479-11f1-b297-95b0a0a8331e.jpg",
         "ai_summary": [
-          "King Charles inaugurates coastal path",
-          "Path stretches around entire coast",
-          "Walkers have right of access to coast",
-          "Path is the longest in the world",
-          "King Charles opens new footpath"
+          "King Charles inaugurated a new footpath in England",
+          "The footpath stretches around the entire coast of England",
+          "The path is the longest coastal path in the world",
+          "It provides a new route for walkers and tourists",
+          "The path is expected to boost local economies"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 16:32:43 GMT",
         "title": "Nasa's Artemis Moon rocket rolls back to pad for possible April launch",
-        "neutral_headline": "Nasa's Artemis Moon Rocket Prepares",
+        "neutral_headline": "Nasa Prepares Artemis Moon Rocket For Launch",
         "items": [
           {
             "source": "BBC Science",
@@ -391,19 +397,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc66/live/e81b0480-247e-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "Nasa's Artemis Moon rocket rolls back",
-          "Rocket is preparing for possible launch",
-          "Mission aims to send astronauts to moon",
-          "Launch may take place in April",
-          "Nasa is preparing for historic mission"
+          "Nasa is preparing a mission to send astronauts to the Moon",
+          "The Artemis Moon rocket is being readied for a possible April launch",
+          "The mission will send astronauts around the Moon for the first time",
+          "The launch will take place after a 50 year hiatus",
+          "Nasa is working to ensure a successful mission"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 16:31:06 GMT",
         "title": "'I feel so grateful to be alive,' Kent University meningitis survivor says",
-        "neutral_headline": "Kent University Meningitis Survivor",
+        "neutral_headline": "Meningitis Survivor Shares Her Experience",
         "items": [
           {
             "source": "BBC Health",
@@ -418,19 +424,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/303f/live/5cde23d0-247d-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "Annabelle Mackay survives meningitis",
-          "Mackay speaks about her experience",
-          "Meningitis outbreak in Kent is ongoing",
-          "Mackay is grateful to be alive",
-          "Outbreak has affected many young people"
+          "Annabelle Mackay survived meningitis at the age of 21",
+          "She spoke to the BBC about her experience with the disease",
+          "Mackay is grateful to be alive after surviving meningitis",
+          "She hopes to raise awareness about the disease",
+          "Her story is an inspiration to others"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 16:26:23 GMT",
         "title": "Influencers are drinking shots of olive oil and lemon juice. Should you?",
-        "neutral_headline": "Influencers Drink Olive Oil Shots",
+        "neutral_headline": "Influencers Drink Olive Oil And Lemon Juice",
         "items": [
           {
             "source": "Guardian Health",
@@ -443,19 +449,19 @@
           }
         ],
         "ai_summary": [
-          "Influencers drink olive oil and lemon",
-          "Combination is claimed to have benefits",
-          "Wellness enthusiasts promote the drink",
-          "Drink is said to support digestion",
-          "Claims about benefits are dubious"
+          "Influencers are drinking shots of olive oil and lemon juice",
+          "They claim the combination has health benefits",
+          "The drink is said to bestow glowing skin and better digestion",
+          "The trend is popular on TikTok and Instagram",
+          "Experts have not verified the claimed health benefits"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 15:41:42 GMT",
         "title": "Ambulance delays during power cut possibly contributed to man’s death, coroner rules",
-        "neutral_headline": "Ambulance Delays Possibly Contributed",
+        "neutral_headline": "Ambulance Delays Possibly Contributed To Mans Death",
         "items": [
           {
             "source": "Guardian Health",
@@ -468,19 +474,19 @@
           }
         ],
         "ai_summary": [
-          "Ambulance delays may have contributed",
-          "Coroner rules on man's death",
-          "Family welcomes end to years of pursuit",
-          "Ambulance service faced delays and resistance",
-          "Family sought answers for years"
+          "A coroner ruled that ambulance delays may have contributed to a death",
+          "Peter Coates died in 2019 due to breathing apparatus stopping",
+          "The family welcomed the coroner's conclusion",
+          "The family had been seeking answers for years",
+          "The coroner's ruling brings closure to the family"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 15:14:07 GMT",
         "title": "MP raises question in Parliament over fish deaths",
-        "neutral_headline": "MP Raises Question on Fish Deaths",
+        "neutral_headline": "MP Raises Question About Fish Deaths In Parliament",
         "items": [
           {
             "source": "BBC Science",
@@ -495,19 +501,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb81/live/9c83f660-23db-11f1-8afd-2d0cf3dc7503.jpg",
         "ai_summary": [
-          "MP raises question in Parliament",
-          "Question is about fish deaths in Whittlesey",
-          "About 900 fish died in the incident",
-          "No prosecution has taken place",
-          "MP seeks answers on the incident"
+          "MP Steve Barclay asked about fish deaths in Parliament",
+          "About 900 fish died in Whittlesey",
+          "There has been no prosecution for the fish deaths",
+          "The MP is seeking answers about the incident",
+          "The cause of the fish deaths is still unknown"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 14:51:52 GMT",
         "title": "Second company plans Shetland rocket launch this year",
-        "neutral_headline": "Company Plans Shetland Rocket Launch This Year",
+        "neutral_headline": "Second Company Plans Shetland Rocket Launch",
         "items": [
           {
             "source": "BBC Science",
@@ -522,19 +528,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3e1/live/64c25200-2456-11f1-9ef2-69d6b0d0d019.jpg",
         "ai_summary": [
-          "SaxaVord Spaceport in Unst is a launch site",
-          "Commercial rockets will be launched from site",
-          "Multiple firms hope to use the spaceport",
-          "Launch is planned to occur this year",
-          "Spaceport is located in the Shetland Islands"
+          "A second company plans to launch a rocket from Shetland",
+          "The launch will take place at SaxaVord Spaceport",
+          "The spaceport is located in Unst",
+          "Several firms hope to use the spaceport for launches",
+          "The launch is expected to take place this year"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 14:00:24 GMT",
         "title": "‘It all feels very natural’: Britain’s sauna boom heats up as people seek warmth of human connection",
-        "neutral_headline": "Britain's Sauna Boom Heats Up",
+        "neutral_headline": "Britains Sauna Boom Continues To Grow",
         "items": [
           {
             "source": "Guardian Health",
@@ -543,23 +549,23 @@
             "title": "‘It all feels very natural’: Britain’s sauna boom heats up as people seek warmth of human connection",
             "standfirst": "Evidence suggests saunas can boost heart health, but their real power may lie in bringing people together in an increasingly digital worldFrom fields to floating pontoons, in horseboxes, barrels and beach huts, saunas are springing up across Britain. The British Sauna Society now lists about 640 saunas – up from 540 at the start of the year – while a recent report predicted that the UK could become the world’s largest sauna market by 2033, outpacing even Finland and Germany.“The continuing growth suggests that the peak has still yet to come – if there is one,” said Gabrielle Reason, the society’s director. But are saunas a tonic for the nation’s health – or a wellness fad with hidden risks? Continue reading...",
             "content": "Evidence suggests saunas can boost heart health, but their real power may lie in bringing people together in an increasingly digital worldFrom fields to floating pontoons, in horseboxes, barrels and beach huts, saunas are springing up across Britain. The British Sauna Society now lists about 640 saunas – up from 540 at the start of the year – while a recent report predicted that the UK could become the world’s largest sauna market by 2033, outpacing even Finland and Germany.“The continuing growth suggests that the peak has still yet to come – if there is one,” said Gabrielle Reason, the society’s director. But are saunas a tonic for the nation’s health – or a wellness fad with hidden risks? Continue reading...",
-            "feed_position": 0
+            "feed_position": 8
           }
         ],
         "ai_summary": [
-          "Saunas can boost heart health in people",
-          "The British Sauna Society lists 640 saunas",
-          "Saunas are springing up across Britain",
-          "The UK may become the largest sauna market",
-          "Saunas are found in various locations now"
+          "The number of saunas in Britain is increasing",
+          "The British Sauna Society lists about 640 saunas",
+          "Saunas are said to have health benefits",
+          "The trend is popular in an increasingly digital world",
+          "The sauna market is expected to continue growing"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 13:40:37 GMT",
         "title": "US health department investigates 13 states that require insurance plans to cover abortion",
-        "neutral_headline": "US Health Department Investigates States",
+        "neutral_headline": "US Health Department Investigates 13 States",
         "items": [
           {
             "source": "Guardian Health",
@@ -568,19 +574,19 @@
             "title": "US health department investigates 13 states that require insurance plans to cover abortion",
             "standfirst": "HHS is looking into the states for ‘alleged disregard of, or confusion about’ the federal Weldon amendmentSign up for the Breaking News US email to get newsletter alerts in your inboxThe US Department of Health and Human Services (HHS) said on Thursday that it is investigating 13 states that require state-regulated health insurance plans to cover abortion services.HHS officials said in a news release that the department’s office for civil rights (OCR) is looking into the states for allegedly violating the federal Weldon amendment, which prohibits federal funding for programs or state or local governments that “subjects any institutional or individual healthcare entity to discrimination on the basis that the healthcare entity does not provide, pay for, provide coverage of, or refer for abortions”. Continue reading...",
             "content": "HHS is looking into the states for ‘alleged disregard of, or confusion about’ the federal Weldon amendmentSign up for the Breaking News US email to get newsletter alerts in your inboxThe US Department of Health and Human Services (HHS) said on Thursday that it is investigating 13 states that require state-regulated health insurance plans to cover abortion services.HHS officials said in a news release that the department’s office for civil rights (OCR) is looking into the states for allegedly violating the federal Weldon amendment, which prohibits federal funding for programs or state or local governments that “subjects any institutional or individual healthcare entity to discrimination on the basis that the healthcare entity does not provide, pay for, provide coverage of, or refer for abortions”. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ],
         "ai_summary": [
-          "HHS is investigating 13 states for violations",
-          "States require insurance plans to cover abortion",
-          "The Weldon amendment prohibits federal funding",
-          "HHS officials are looking into the states",
-          "The investigation is being conducted by OCR"
+          "The US Health Department is investigating 13 states",
+          "The states require insurance plans to cover abortion",
+          "The investigation is related to the Weldon amendment",
+          "The amendment prohibits federal funding for certain programs",
+          "The investigation will examine alleged violations"
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Fri, 20 Mar 2026 12:36:00 GMT",
         "title": "Kent meningitis outbreak may have peaked as UKHSA reports slowdown in cases",
@@ -593,46 +599,21 @@
             "title": "Kent meningitis outbreak may have peaked as UKHSA reports slowdown in cases",
             "standfirst": "Experts continue to analyse strain of MenB to understand whether it has become more likely to spread or cause diseaseThe Kent meningitis outbreak may have reached its peak after only two new cases were reported by officials on Friday.The UK Health and Security Agency said that as of 12.30pm on Thursday, there were 18 confirmed and 11 probable cases of meningitis linked to the Kent outbreak, taking the total number of people with the disease to 29. Of the confirmed cases, 13 were meningitis B. Continue reading...",
             "content": "Experts continue to analyse strain of MenB to understand whether it has become more likely to spread or cause diseaseThe Kent meningitis outbreak may have reached its peak after only two new cases were reported by officials on Friday.The UK Health and Security Agency said that as of 12.30pm on Thursday, there were 18 confirmed and 11 probable cases of meningitis linked to the Kent outbreak, taking the total number of people with the disease to 29. Of the confirmed cases, 13 were meningitis B. Continue reading...",
-            "feed_position": 9
-          }
-        ],
-        "ai_summary": [
-          "The Kent meningitis outbreak may have peaked",
-          "Only two new cases were reported recently",
-          "There are 18 confirmed and 11 probable cases",
-          "The UKHSA is analyzing the strain of MenB",
-          "The total number of cases is 29 people"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Fri, 20 Mar 2026 12:32:43 GMT",
-        "title": "Confusion abounds over future of US vaccine advisory committee",
-        "neutral_headline": "Confusion Abounds Over Future of US Vaccine Advisory Committee",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/us-news/2026/mar/20/acip-vaccine-advisory-committee",
-            "published_at": "Fri, 20 Mar 2026 12:32:43 GMT",
-            "title": "Confusion abounds over future of US vaccine advisory committee",
-            "standfirst": "Former ACIP members make contradictory statements following judge essentially invalidating panel and recent decisionsSign up for the Breaking News US email to get newsletter alerts in your inboxDoes the US have a vaccine advisory committee? The answer became surprisingly murky on Thursday, as former members of the Advisory Committee on Immunization Practices (ACIP) and health officials made contradictory statements following a federal judge essentially invalidating the committee and their recent decisions on Monday.According to a former member of the committee who asked not to be identified to discuss sensitive matters, ACIP will continue to exist without the 13 members who were stayed by Judge Brian Murphy on Monday – and officials plan to start the process over again with new members. Continue reading...",
-            "content": "Former ACIP members make contradictory statements following judge essentially invalidating panel and recent decisionsSign up for the Breaking News US email to get newsletter alerts in your inboxDoes the US have a vaccine advisory committee? The answer became surprisingly murky on Thursday, as former members of the Advisory Committee on Immunization Practices (ACIP) and health officials made contradictory statements following a federal judge essentially invalidating the committee and their recent decisions on Monday.According to a former member of the committee who asked not to be identified to discuss sensitive matters, ACIP will continue to exist without the 13 members who were stayed by Judge Brian Murphy on Monday – and officials plan to start the process over again with new members. Continue reading...",
             "feed_position": 10
           }
         ],
         "ai_summary": [
-          "A federal judge essentially invalidated ACIP",
-          "Former members made contradictory statements",
-          "The committee's existence is now uncertain",
-          "Officials plan to start the process over",
-          "New members will be appointed to the committee"
+          "The Kent meningitis outbreak may have reached its peak",
+          "Only two new cases were reported recently",
+          "There are 18 confirmed and 11 probable cases",
+          "Experts are analyzing the strain of MenB",
+          "The outbreak is being closely monitored by health officials"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-21T11:23:42.727Z",
+    "updated_at": "2026-03-21T19:24:51.454Z",
     "clusters": []
   }
 }
