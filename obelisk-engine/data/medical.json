@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-03-23T19:49:14.595Z",
+    "updated_at": "2026-03-23T23:32:48.690Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-23T19:49:24.670Z",
+    "updated_at": "2026-03-23T23:32:52.226Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/33a2881a-83ba-46da-a590-604187bc5d81/Campaign-targets-GPs-syphilis-testing-blind-spots.aspx",
         "ai_summary": [
-          "Campaign targets GPs syphilis testing",
-          "GPs lack confidence in syphilis testing",
-          "Practical tools for early detection provided",
-          "Research shows lack of confidence",
-          "Campaign aims to equip GPs with tools"
+          "Campaign aims to improve syphilis testing",
+          "GPs need practical tools for early detection",
+          "Research shows lack of confidence in doctors",
+          "Campaign focuses on equipping GPs with tools",
+          "Early detection is crucial for syphilis treatment"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/c30de9a3-009c-4a7b-837e-36aeebed55d2/More-than-ever-Boost-to-NSW-GP-training-numbers.aspx",
         "ai_summary": [
-          "NSW GP training numbers see record boost",
-          "RACGP comments on GP training numbers",
-          "Scope for more GP training exists",
-          "GP training numbers increase in NSW",
-          "Record numbers start GP training in NSW"
+          "NSW GP training numbers have increased",
+          "Record numbers have started GP training",
+          "RACGP says there is scope for more growth",
+          "GP training is essential for healthcare",
+          "NSW has seen a significant boost in GP training"
         ]
       },
       {
@@ -80,24 +80,24 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/d5e28b51-f5a3-4985-a0aa-297d153bfa82/How-do-hormones-alter-women-s-ADHD-symptoms.aspx",
         "ai_summary": [
-          "Hormonal shifts impact ADHD symptoms in women",
-          "Research raises awareness of symptoms outside male model",
-          "GPs must be aware of hormonal effects on ADHD",
-          "Expert says awareness is crucial for proper diagnosis",
-          "Symptoms can vary greatly among women with ADHD"
+          "Hormones affect women's ADHD symptoms",
+          "GPs must be aware of hormonal shifts",
+          "Research raises awareness of ADHD symptoms",
+          "ADHD symptoms can vary in women",
+          "Hormonal shifts impact ADHD diagnosis"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-03-23T19:49:24.710Z",
+    "updated_at": "2026-03-23T23:32:50.092Z",
     "clusters": [
       {
-        "id": "cluster_0",
+        "id": "cluster_1",
         "coverage": 2,
         "updated_at": "Mon, 23 Mar 2026 19:20:17 GMT",
         "title": "Scotland becomes first in UK to test newborns for rare genetic condition",
-        "neutral_headline": "Scotland screens newborns for spinal muscular atrophy",
+        "neutral_headline": "Scotland Becomes First In UK To Test Newborns For Rare Genetic Condition",
         "items": [
           {
             "source": "BBC Health",
@@ -121,19 +121,53 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61ba/live/dd5c21d0-2683-11f1-a32b-91a6d5286fbb.jpg",
         "ai_summary": [
-          "Scotland is first in UK to test newborns for SMA",
-          "SMA causes progressive muscle weakness and limited life",
-          "Heel prick test is used for screening",
-          "Campaigners hope for approval across the UK",
-          "Early detection is critical for treatment outcomes"
+          "Scotland tests newborns for Spinal Muscular Atrophy",
+          "SMA causes progressive muscle weakness",
+          "Early detection is critical for treatment",
+          "Scotland is the first UK country to test newborns",
+          "Testing can improve treatment outcomes"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Mon, 23 Mar 2026 19:51:17 GMT",
+        "title": "No new meningitis cases linked to Kent outbreak found, health agency says",
+        "neutral_headline": "No New Meningitis Cases Linked To Kent Outbreak Found",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/mar/23/meningitis-no-new-cases-linked-fatal-kent-outbreak-ukhsa",
+            "published_at": "Mon, 23 Mar 2026 19:51:17 GMT",
+            "title": "No new meningitis cases linked to Kent outbreak found, health agency says",
+            "standfirst": "UKHSA reports 29 cases, the same figure as on Sunday, raising hopes the outbreak has been well contained No new cases of meningitis linked to the outbreak in Kent have been detected, raising hopes that it has been well contained and has not led to people elsewhere catching the disease.The number of people affected remains at 29, of which 20 are are confirmed and nine probable cases in what health officials say is an “explosive” outbreak – the biggest to occur in the UK in a generation. Continue reading...",
+            "content": "UKHSA reports 29 cases, the same figure as on Sunday, raising hopes the outbreak has been well contained No new cases of meningitis linked to the outbreak in Kent have been detected, raising hopes that it has been well contained and has not led to people elsewhere catching the disease.The number of people affected remains at 29, of which 20 are are confirmed and nine probable cases in what health officials say is an “explosive” outbreak – the biggest to occur in the UK in a generation. Continue reading...",
+            "feed_position": 0
+          },
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/uk-news/2026/mar/22/kent-meningitis-confirmed-cases-drop",
+            "published_at": "Sun, 22 Mar 2026 12:45:41 GMT",
+            "title": "Number of confirmed meningitis cases linked to fatal Kent outbreak drops to 20",
+            "standfirst": "Three cases previously confirmed reclassified by UK Health Security Agency after further testingThe number of confirmed meningitis cases linked to the Kent outbreak has fallen from 23 to 20.The UK Health Security Agency (UKHSA) said on Sunday that three cases previously thought confirmed had been downgraded after further testing. Continue reading...",
+            "content": "Three cases previously confirmed reclassified by UK Health Security Agency after further testingThe number of confirmed meningitis cases linked to the Kent outbreak has fallen from 23 to 20.The UK Health Security Agency (UKHSA) said on Sunday that three cases previously thought confirmed had been downgraded after further testing. Continue reading...",
+            "feed_position": 7
+          }
+        ],
+        "ai_summary": [
+          "No new meningitis cases linked to Kent outbreak",
+          "UKHSA reports 29 cases in total",
+          "20 cases are confirmed and 9 are probable",
+          "Outbreak is considered well contained",
+          "Health agency continues to monitor the situation"
+        ]
+      },
+      {
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 13:31:17 GMT",
         "title": "Meningitis outbreak passes peak, says health agency",
-        "neutral_headline": "Meningitis outbreak passes peak in UK",
+        "neutral_headline": "Meningitis Outbreak Passes Peak",
         "items": [
           {
             "source": "BBC Health",
@@ -149,18 +183,18 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/687a/live/d3423e00-26a1-11f1-9a4b-834c9ce445e3.jpg",
         "ai_summary": [
           "Meningitis outbreak has passed its peak",
-          "Health agency still monitoring for new cases",
-          "UKHSA reports a decrease in new cases",
-          "Outbreak is being closely watched by health officials",
-          "Further cases are still possible but less likely"
+          "UKHSA says cases may still be reported",
+          "Health agency continues to monitor outbreak",
+          "Outbreak is considered to be under control",
+          "Further cases may still be detected"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 13:11:52 GMT",
         "title": "Our son loved the outdoors - invisible illness means he now can't walk or talk",
-        "neutral_headline": "Thousands in Wales have invisible illness ME",
+        "neutral_headline": "Invisible Illness Affects Thousands In Wales",
         "items": [
           {
             "source": "BBC Health",
@@ -176,18 +210,18 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a9d/live/3d22cf20-26ba-11f1-b297-95b0a0a8331e.jpg",
         "ai_summary": [
           "ME is an invisible illness affecting thousands",
-          "Services for ME patients are described as inadequate",
-          "Patients face significant challenges in daily life",
-          "ME can cause severe symptoms and disability",
-          "Support services are needed for affected individuals"
+          "Tomos is one of many with ME in Wales",
+          "Services for ME patients are limited",
+          "ME patients face significant challenges",
+          "Services are described as a desert"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 12:00:49 GMT",
         "title": "US under-45s struggle for insurance approval as colon cancer rates rise",
-        "neutral_headline": "US under 45s struggle for colon cancer insurance",
+        "neutral_headline": "US Under 45s Struggle For Insurance Approval",
         "items": [
           {
             "source": "Guardian Health",
@@ -196,49 +230,15 @@
             "title": "US under-45s struggle for insurance approval as colon cancer rates rise",
             "standfirst": "ACA requires firms to cover colonoscopies for over-45s but young people face hurdles to receive appropriate testsAs colon cancer rates are rising among people in their 20s and 30s, some adults in the US who are under 45 and experiencing worrying symptoms are struggling to get insurance coverage for colonoscopies, which can detect colon cancer.The Affordable Care Act (ACA) requires insurance companies to cover colonoscopies for people over 45 “because it’s been recommended by the US Preventive Services Task Force”, says Caitlin Murphy, a cancer epidemiologist and professor at the University of Chicago. The ACA requires preventive screenings, including pap smears, for example, to be completely covered. Continue reading...",
             "content": "ACA requires firms to cover colonoscopies for over-45s but young people face hurdles to receive appropriate testsAs colon cancer rates are rising among people in their 20s and 30s, some adults in the US who are under 45 and experiencing worrying symptoms are struggling to get insurance coverage for colonoscopies, which can detect colon cancer.The Affordable Care Act (ACA) requires insurance companies to cover colonoscopies for people over 45 “because it’s been recommended by the US Preventive Services Task Force”, says Caitlin Murphy, a cancer epidemiologist and professor at the University of Chicago. The ACA requires preventive screenings, including pap smears, for example, to be completely covered. Continue reading...",
-            "feed_position": 0
-          }
-        ],
-        "ai_summary": [
-          "US under 45s face hurdles for colon cancer tests",
-          "Insurance coverage is often denied for young people",
-          "Colon cancer rates are rising among young adults",
-          "ACA requires coverage for colonoscopies over 45",
-          "Young people face challenges in getting proper care"
-        ]
-      },
-      {
-        "id": "cluster_4",
-        "coverage": 1,
-        "updated_at": "Mon, 23 Mar 2026 11:48:23 GMT",
-        "title": "No new meningitis cases linked to Kent outbreak reported, health agency says",
-        "neutral_headline": "No new meningitis cases reported in Kent outbreak",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/mar/23/meningitis-no-new-cases-linked-fatal-kent-outbreak-ukhsa",
-            "published_at": "Mon, 23 Mar 2026 11:48:23 GMT",
-            "title": "No new meningitis cases linked to Kent outbreak reported, health agency says",
-            "standfirst": "UKHSA reports 29 cases, the same figure as on Sunday, raising hopes the outbreak has been well containedNo new cases of meningitis linked to the outbreak in Kent have been detected, raising hopes that it has been well contained and not led to people elsewhere catching the disease.The number of people affected remains at 29, of which 20 are are confirmed and nine probable cases in what health officials say is an “explosive” outbreak – the biggest to occur in the UK in a generation. Continue reading...",
-            "content": "UKHSA reports 29 cases, the same figure as on Sunday, raising hopes the outbreak has been well containedNo new cases of meningitis linked to the outbreak in Kent have been detected, raising hopes that it has been well contained and not led to people elsewhere catching the disease.The number of people affected remains at 29, of which 20 are are confirmed and nine probable cases in what health officials say is an “explosive” outbreak – the biggest to occur in the UK in a generation. Continue reading...",
             "feed_position": 1
-          },
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/uk-news/2026/mar/22/kent-meningitis-confirmed-cases-drop",
-            "published_at": "Sun, 22 Mar 2026 12:45:41 GMT",
-            "title": "Number of confirmed meningitis cases linked to fatal Kent outbreak drops to 20",
-            "standfirst": "Three cases previously confirmed reclassified by UK Health Security Agency after further testingThe number of confirmed meningitis cases linked to the Kent outbreak has fallen from 23 to 20.The UK Health Security Agency (UKHSA) said on Sunday that three cases previously thought confirmed had been downgraded after further testing. Continue reading...",
-            "content": "Three cases previously confirmed reclassified by UK Health Security Agency after further testingThe number of confirmed meningitis cases linked to the Kent outbreak has fallen from 23 to 20.The UK Health Security Agency (UKHSA) said on Sunday that three cases previously thought confirmed had been downgraded after further testing. Continue reading...",
-            "feed_position": 7
           }
         ],
         "ai_summary": [
-          "No new cases of meningitis have been reported",
-          "Total cases remain at 29 with 20 confirmed",
-          "Outbreak is considered well contained",
-          "Health officials are still monitoring the situation",
-          "Further testing has reclassified some cases"
+          "US under 45s struggle for colonoscopy approval",
+          "Colon cancer rates are rising in young people",
+          "ACA requires insurance coverage for over 45s",
+          "Young people face hurdles for colonoscopy coverage",
+          "Insurance companies have strict requirements"
         ]
       },
       {
@@ -246,7 +246,7 @@
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 07:00:43 GMT",
         "title": "Hundreds of children stuck in hospital because of lack of community services",
-        "neutral_headline": "Children stuck in hospital due to lack of services",
+        "neutral_headline": "Hundreds Of Children Stuck In Hospital",
         "items": [
           {
             "source": "Guardian Health",
@@ -259,11 +259,11 @@
           }
         ],
         "ai_summary": [
-          "Hundreds of children are stuck in hospital unnecessarily",
-          "Lack of community services causes discharge delays",
-          "Patients are missing out on childhood activities",
-          "Youngsters needing care are waiting for hospital beds",
-          "Support services are needed for affected families"
+          "Hundreds of children are stuck in hospital",
+          "Lack of community services causes delays",
+          "Discharge delays affect patients and families",
+          "Children are missing out on childhood activities",
+          "Youngsters needing hospital care wait for beds"
         ]
       },
       {
@@ -271,7 +271,7 @@
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 06:46:46 GMT",
         "title": "'Women's health must be taken more seriously'",
-        "neutral_headline": "Women's health must be taken seriously",
+        "neutral_headline": "Women's Health Must Be Taken Seriously",
         "items": [
           {
             "source": "BBC Health",
@@ -286,11 +286,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/653a/live/a2d66ca0-2557-11f1-934f-036468834728.png",
         "ai_summary": [
-          "Women's health is often not taken seriously enough",
-          "Dr Liz O'Riordan advocates for professional help",
-          "Women should seek help from doctors not online",
-          "Health issues can be complex and require expertise",
-          "Proper care and support are essential for women"
+          "Women's health is often not taken seriously",
+          "Dr Liz O'Riordan advocates for women's health",
+          "Women should seek help from professionals",
+          "Google and Chat GPT are not reliable sources",
+          "Women's health requires proper medical attention"
         ]
       },
       {
@@ -298,7 +298,7 @@
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 06:17:50 GMT",
         "title": "'I waited 30 years for my endometriosis diagnosis'",
-        "neutral_headline": "Endometriosis diagnosis can take decades",
+        "neutral_headline": "Endometriosis Diagnosis Can Take Years",
         "items": [
           {
             "source": "BBC Health",
@@ -313,11 +313,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72ee/live/27c53b20-23a1-11f1-9699-87c229cb26a0.jpg",
         "ai_summary": [
-          "Endometriosis diagnosis can take many years",
-          "Patients often face significant pain and discomfort",
-          "Doctors may dismiss symptoms or misdiagnose",
-          "Proper care and support are essential for patients",
-          "Raising awareness can help improve diagnosis times"
+          "Endometriosis diagnosis can take decades",
+          "Nichola Howell waited 30 years for diagnosis",
+          "Patients often face dismissive doctors",
+          "Endometriosis causes barbaric pain",
+          "Diagnosis is crucial for effective treatment"
         ]
       },
       {
@@ -325,7 +325,7 @@
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 06:09:12 GMT",
         "title": "MP raises Heathrow expansion transport concerns",
-        "neutral_headline": "Heathrow expansion transport concerns raised",
+        "neutral_headline": "MP Raises Heathrow Expansion Transport Concerns",
         "items": [
           {
             "source": "BBC Science",
@@ -340,11 +340,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e23f/live/152af630-bc09-11f0-ae46-bd64331f0fd4.png",
         "ai_summary": [
-          "MP raises concerns about Heathrow expansion transport",
-          "Western rail link is proposed as a solution",
-          "Transport infrastructure is crucial for expansion",
-          "MP backs the idea of a western rail link",
-          "Further discussion is needed on transport options"
+          "MP Jack Rankin raises Heathrow expansion concerns",
+          "Western rail link to Heathrow is proposed",
+          "Transport concerns are a major issue",
+          "Heathrow expansion affects local communities",
+          "MP backs the idea of a western rail link"
         ]
       },
       {
@@ -352,7 +352,7 @@
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 04:06:22 GMT",
         "title": "UN issues new climate warning as El Niño looms",
-        "neutral_headline": "UN issues new climate warning",
+        "neutral_headline": "UN Issues New Climate Warning",
         "items": [
           {
             "source": "BBC Science",
@@ -367,11 +367,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aab8/live/5db64fd0-2487-11f1-a673-e3b236a15253.jpg",
         "ai_summary": [
-          "UN issues warning about Earth's climate balance",
-          "Climate is further out of balance than recorded",
-          "El Niño is a significant concern for climate",
-          "UN's weather agency reports on climate status",
-          "Action is needed to address climate change"
+          "Earth's climate is out of balance",
+          "El Niño is a contributing factor",
+          "UN's weather agency made the announcement",
+          "Climate change has severe consequences",
+          "Global action is necessary to mitigate effects"
         ]
       },
       {
@@ -379,7 +379,7 @@
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 03:01:09 GMT",
         "title": "Apology for poor care over boy's bleed death",
-        "neutral_headline": "Apology for poor care in boy's death",
+        "neutral_headline": "Apology For Poor Care Over Boy's Death",
         "items": [
           {
             "source": "BBC Health",
@@ -394,11 +394,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3535/live/02d08300-1e5c-11f1-a1da-edae1d05dd8e.png",
         "ai_summary": [
-          "Apology given for poor care in boy's death",
-          "Three-year-old Aarav Chopra died during biopsy",
-          "Artery was pierced by a trainee doctor",
-          "Investigation into the incident is ongoing",
-          "Hospital has apologized for the tragic event"
+          "Aarav Chopra died during a biopsy",
+          "A trainee doctor pierced his artery",
+          "The incident occurred at a hospital",
+          "An apology was issued for poor care",
+          "The boy was three years old"
         ]
       },
       {
@@ -406,7 +406,7 @@
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 00:01:35 GMT",
         "title": "Study links children’s social media use with anxiety and depression in teenage years",
-        "neutral_headline": "Social media use linked to teenage anxiety",
+        "neutral_headline": "Study Links Social Media Use To Anxiety",
         "items": [
           {
             "source": "Guardian Health",
@@ -419,11 +419,11 @@
           }
         ],
         "ai_summary": [
-          "Social media use is linked to teenage anxiety",
-          "Lack of sleep is a possible factor in depression",
-          "Researchers study social media use in children",
-          "More than three hours of social media use is a concern",
-          "Parents should be aware of social media use risks"
+          "Social media use affects children's mental health",
+          "More than three hours of use increases risks",
+          "Lack of sleep is a contributing factor",
+          "Depression and anxiety are potential outcomes",
+          "Girls are more likely to be affected"
         ]
       },
       {
@@ -431,7 +431,7 @@
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 00:00:16 GMT",
         "title": "How an island became ferret free - thanks, in part, to Woody the wonderdog",
-        "neutral_headline": "Island becomes ferret free with help",
+        "neutral_headline": "Island Becomes Ferret Free Thanks To Project",
         "items": [
           {
             "source": "BBC Science",
@@ -446,11 +446,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e2a/live/16598810-25e9-11f1-a3f0-379050aefd37.jpg",
         "ai_summary": [
-          "Island is now ferret free thanks to project",
+          "An island was infested with ferrets",
+          "A £4.5m project was launched to remove them",
           "Over 400 traps were laid across the island",
-          "Specially trained dog Woody helped in the effort",
-          "Project cost £4.5m and was successful",
-          "Island is now free from ferret population"
+          "A detection dog named Woody helped",
+          "The project was successful in removing ferrets"
         ]
       },
       {
@@ -458,7 +458,7 @@
         "coverage": 1,
         "updated_at": "Sun, 22 Mar 2026 18:59:17 GMT",
         "title": "Streeting praises response to meningitis outbreak",
-        "neutral_headline": "Streeting praises response to meningitis outbreak",
+        "neutral_headline": "Response To Meningitis Outbreak Praised",
         "items": [
           {
             "source": "BBC Health",
@@ -473,11 +473,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c3/live/4bd2cb60-2624-11f1-aad6-2d605a562384.jpg",
         "ai_summary": [
-          "Wes Streeting praises response to meningitis outbreak",
-          "Herculean efforts were made to protect people",
-          "Outbreak response was successful and effective",
-          "Health officials worked hard to contain outbreak",
-          "Efforts to protect people were appreciated by Streeting"
+          "A meningitis outbreak occurred in Kent",
+          "Efforts to protect people were praised",
+          "Wes Streeting acknowledged the response",
+          "The outbreak was a serious health concern",
+          "Protective measures were put in place"
         ]
       },
       {
@@ -485,7 +485,7 @@
         "coverage": 1,
         "updated_at": "Sun, 22 Mar 2026 16:51:34 GMT",
         "title": "Weight-loss drugs do work – but not on their own | Letters",
-        "neutral_headline": "Weight Loss Drugs Work With Lifestyle Adjustments",
+        "neutral_headline": "Weight Loss Drugs Work With Lifestyle Changes",
         "items": [
           {
             "source": "Guardian Health",
@@ -498,11 +498,11 @@
           }
         ],
         "ai_summary": [
-          "GLP-1 medicines influence brain reward systems",
-          "Medication alone is rarely the whole answer",
-          "Patients combine pharmacological treatment with diet changes",
-          "Physical activity and sleep impact treatment outcomes",
-          "Combining treatments leads to more durable results"
+          "GLP-1 medicines aid in weight loss",
+          "Lifestyle adjustments are necessary",
+          "Medication alone is not enough",
+          "Diet quality and physical activity matter",
+          "Combining treatment with lifestyle changes is effective"
         ]
       },
       {
@@ -523,11 +523,11 @@
           }
         ],
         "ai_summary": [
-          "Leucovorin is a vitamin B derivative",
-          "FDA approved it for folate deficiency only",
-          "Outpatient prescriptions increased 71 percent",
-          "Doctors were shocked by the announcement",
-          "Little evidence supports leucovorin for autism"
+          "Leucovorin was touted as an autism treatment",
+          "The FDA later approved it for folate deficiency",
+          "Outpatient prescriptions increased by 71%",
+          "There is little evidence for its use in autism",
+          "The announcement was made by Trump and RFK Jr"
         ]
       },
       {
@@ -550,9 +550,9 @@
         "ai_summary": [
           "Stage four cancer has no cure",
           "Death is not necessarily imminent",
-          "Patients experience fragile health and constant treatment",
-          "Daily life is dictated by breath and energy",
-          "The long middle is a rarely discussed territory"
+          "Treatment is constant and ongoing",
+          "The patient's quality of life is affected",
+          "Living with cancer is a daily challenge"
         ]
       },
       {
@@ -578,8 +578,8 @@
           "Sofii Lewis was diagnosed with postpartum psychosis",
           "She spent five months in a mental health unit",
           "The unit provided support for mothers and babies",
-          "Postpartum psychosis and OCD are treatable conditions",
-          "Early diagnosis and treatment are crucial"
+          "Lewis was also diagnosed with OCD",
+          "Her experience was life-changing"
         ]
       },
       {
@@ -587,7 +587,7 @@
         "coverage": 1,
         "updated_at": "Sun, 22 Mar 2026 07:07:33 GMT",
         "title": "'Having coeliac disease aged 9 means I'm normal with a tiny twist'",
-        "neutral_headline": "Having Coeliac Disease Aged 9 Means Im Normal With A Tiny Twist",
+        "neutral_headline": "Living With Coeliac Disease As A Child",
         "items": [
           {
             "source": "BBC Health",
@@ -602,17 +602,17 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5a3/live/466a68a0-2448-11f1-8350-0b57c2d91bf3.jpg",
         "ai_summary": [
-          "Eliza was diagnosed with coeliac disease at age 9",
-          "Her mum was relieved by the diagnosis",
-          "Coeliac disease requires a gluten free diet",
-          "Early diagnosis and treatment improve quality of life",
-          "Coeliac disease is a manageable condition with proper care"
+          "Eliza was diagnosed with coeliac disease",
+          "She was nine years old at the time",
+          "Her mother was relieved by the diagnosis",
+          "Coeliac disease requires a special diet",
+          "Eliza's condition is manageable with treatment"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-23T19:49:24.710Z",
+    "updated_at": "2026-03-23T23:32:52.226Z",
     "clusters": []
   }
 }
