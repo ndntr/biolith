@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-03-24T19:52:52.900Z",
+    "updated_at": "2026-03-24T23:33:27.538Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-24T19:52:58.029Z",
+    "updated_at": "2026-03-24T23:33:40.410Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/726ca519-55cc-4b78-ba0d-5c21f00f7449/Primary-care-in-focus-as-nation-s-health-leaders-meet.aspx",
         "ai_summary": [
-          "RACGP President attends healthcare meeting",
-          "Primary care leaders discuss improvements",
-          "Meeting aims to enhance Australia's healthcare",
-          "Leaders explore ways to improve primary care",
-          "Healthcare discussion focuses on key issues"
+          "Primary care leaders meet",
+          "RACGP President attends meeting",
+          "Improving healthcare discussed",
+          "Australia's healthcare explored",
+          "Primary care in focus"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/1f20857c-14df-41cb-bb53-906fb5ecac49/Are-vision-enabled-AI-scribes-on-the-horizon.aspx",
         "ai_summary": [
-          "AI scribes use video input for accuracy",
-          "Trial shows significant improvement",
-          "AI scribes have potential applications",
-          "Video input enhances AI scribe performance",
-          "AI scribes aim to improve medication histories"
+          "AI scribes use video input",
+          "Accuracy outperforms audio-only",
+          "Simulated medication histories",
+          "Proof-of-concept trial successful",
+          "Vision-enabled AI scribes explored"
         ]
       },
       {
@@ -80,11 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/c8c4e74d-c575-44f6-b76f-a7588f8c4bda/Foundation-s-Major-Research-Grant-round-opens.aspx",
         "ai_summary": [
-          "Foundation opens research grant round",
-          "Grants support GP-led research projects",
-          "Ageing Well Research Grant available",
-          "Health Services Research Grant available",
-          "Grants aim to deliver real-world solutions"
+          "Research Grant round opens",
+          "Ageing Well Research Grant",
+          "Health Services Research Grant",
+          "GP-led research supported",
+          "Real-world solutions sought"
         ]
       },
       {
@@ -144,7 +144,7 @@
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-03-24T19:52:54.888Z",
+    "updated_at": "2026-03-24T23:33:29.538Z",
     "clusters": [
       {
         "id": "cluster_21",
@@ -179,11 +179,36 @@
           "SMA causes progressive muscle weakness",
           "Early detection is critical for treatment",
           "Campaigners hope for UK-wide approval",
-          "Newborn screening is a public health priority"
+          "Heel prick test is used for screening"
         ]
       },
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Tue, 24 Mar 2026 23:22:27 GMT",
+        "title": "Influencers are promoting these three health tests – but they risk doing more harm than good",
+        "neutral_headline": "Influencers promote unnecessary health tests",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/australia-news/2026/mar/24/influencers-health-tests-medical-treatment-social-media-risks-explained",
+            "published_at": "Tue, 24 Mar 2026 23:22:27 GMT",
+            "title": "Influencers are promoting these three health tests – but they risk doing more harm than good",
+            "standfirst": "Experts warn of ‘over-diagnosis’ dangers as social media prompts the worried well to seek out unnecessary and expensive scans and blood testsMedical tests are marketed on social media as a way to empower people to take control of their health, but experts are warning to be wary of the harms influencers don’t mention.Three controversial tests – full-body magnetic resonance imaging (MRI) scans, blood tests for testosterone levels and the Anti-Mullerian hormone (AMH) or “egg-timer” test, which surveys a woman’s egg count – are the focus of a campaign backed by the University of Sydney based on its own research trying to combat misinformation online. Continue reading...",
+            "content": "Experts warn of ‘over-diagnosis’ dangers as social media prompts the worried well to seek out unnecessary and expensive scans and blood testsMedical tests are marketed on social media as a way to empower people to take control of their health, but experts are warning to be wary of the harms influencers don’t mention.Three controversial tests – full-body magnetic resonance imaging (MRI) scans, blood tests for testosterone levels and the Anti-Mullerian hormone (AMH) or “egg-timer” test, which surveys a woman’s egg count – are the focus of a campaign backed by the University of Sydney based on its own research trying to combat misinformation online. Continue reading...",
+            "feed_position": 1
+          }
+        ],
+        "ai_summary": [
+          "Social media promotes full-body MRI scans",
+          "Blood tests for testosterone levels are marketed",
+          "Anti-Mullerian hormone test is also promoted",
+          "Experts warn of over-diagnosis dangers",
+          "University of Sydney research combats misinformation"
+        ]
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Tue, 24 Mar 2026 19:06:03 GMT",
         "title": "Judge sets $1 bail for Georgia woman charged with murder for taking abortion pills",
@@ -196,23 +221,23 @@
             "title": "Judge sets $1 bail for Georgia woman charged with murder for taking abortion pills",
             "standfirst": "Alexia Moore was arrested under a Georgia law that bans abortions after detection of embryonic cardiac activitySign up for the Breaking News US email to get newsletter alerts in your inboxA Georgia judge set a $1 bond for a woman facing murder charges tied to allegations she used abortion pills to end a pregnancy, potentially paving the way for a possible reduction or dismissal of charges.Alexia Moore, 31, was arrested by police in Savannah earlier this month on a warrant that echoed a 2019 Georgia law banning abortions after embryonic cardiac activity can be detected. Continue reading...",
             "content": "Alexia Moore was arrested under a Georgia law that bans abortions after detection of embryonic cardiac activitySign up for the Breaking News US email to get newsletter alerts in your inboxA Georgia judge set a $1 bond for a woman facing murder charges tied to allegations she used abortion pills to end a pregnancy, potentially paving the way for a possible reduction or dismissal of charges.Alexia Moore, 31, was arrested by police in Savannah earlier this month on a warrant that echoed a 2019 Georgia law banning abortions after embryonic cardiac activity can be detected. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ],
         "ai_summary": [
           "Alexia Moore faces murder charges for abortion",
           "Georgia law bans abortions after embryonic cardiac activity",
-          "Moore was arrested and released on bail",
-          "Abortion laws are being challenged in court",
-          "Women's rights groups are advocating for change"
+          "Judge sets $1 bail for the defendant",
+          "Case may lead to reduction or dismissal",
+          "Abortion laws are being challenged"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Tue, 24 Mar 2026 19:05:06 GMT",
         "title": "Endangered butterfly count key to peat bog health",
-        "neutral_headline": "Endangered butterfly count key to peat bog health",
+        "neutral_headline": "Endangered butterfly counts indicate peat bog health",
         "items": [
           {
             "source": "BBC Science",
@@ -227,15 +252,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f64/live/6cb44b80-2753-11f1-ab40-153d5f019d38.jpg",
         "ai_summary": [
-          "Large heath butterflies indicate peatland health",
-          "Butterfly counts are used for conservation",
-          "Peat bogs are crucial ecosystems",
-          "Conservation efforts are necessary",
-          "Butterfly populations are declining"
+          "Large heath butterflies are endangered species",
+          "Peatland health is linked to butterfly counts",
+          "Conservation efforts focus on peat bogs",
+          "Butterfly counts are used as indicators",
+          "Peat bogs are crucial ecosystems"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Tue, 24 Mar 2026 17:30:10 GMT",
         "title": "Ministers confirm heat pump targets as climate plan unveiled",
@@ -254,15 +279,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f67/live/fadd3250-2785-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "Scotland aims to roll out heat pumps by 2035",
-          "Climate plan includes renewable energy goals",
-          "Heat pumps are a key technology",
-          "Scotland is investing in green energy",
-          "Targets are set to reduce carbon emissions"
+          "Scotland aims to increase heat pump use",
+          "Climate plan includes heat pump targets",
+          "Roll-out of heat pumps will start in 2035",
+          "Government sets ambitious climate goals",
+          "Heat pumps are a key part of climate plan"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Tue, 24 Mar 2026 16:50:22 GMT",
         "title": "My child should have been offered meningitis vaccine by the NHS | Letter",
@@ -275,23 +300,23 @@
             "title": "My child should have been offered meningitis vaccine by the NHS | Letter",
             "standfirst": "Aimée Hamblin recalls her frustration when she had to get her son vaccinated privatelyI completely agree with the points made in Devi Sridhar’s article on meningitis (Meningitis is back – and here is why, 17 March). She says that the NHS routine vaccination schedule covers children born after 2015. In fact, it was extended to babies born from May 2015 in a catchup programme. I remember this clearly as my eldest son was born in December 2014. I recall the frustration that I felt on my maternity leave in 2015 when he was not eligible for a MenB vaccine on the NHS like his younger peers.This means that many current Year 6 students are not vaccinated depending on the month in which they were born. My husband and I took the decision to vaccinate our son privately at significant, but completely worthwhile, cost in 2015. Continue reading...",
             "content": "Aimée Hamblin recalls her frustration when she had to get her son vaccinated privatelyI completely agree with the points made in Devi Sridhar’s article on meningitis (Meningitis is back – and here is why, 17 March). She says that the NHS routine vaccination schedule covers children born after 2015. In fact, it was extended to babies born from May 2015 in a catchup programme. I remember this clearly as my eldest son was born in December 2014. I recall the frustration that I felt on my maternity leave in 2015 when he was not eligible for a MenB vaccine on the NHS like his younger peers.This means that many current Year 6 students are not vaccinated depending on the month in which they were born. My husband and I took the decision to vaccinate our son privately at significant, but completely worthwhile, cost in 2015. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "NHS vaccine schedule does not cover all children",
-          "Parents are seeking private vaccination options",
-          "Meningitis is a serious health risk",
-          "Vaccination is crucial for prevention",
-          "Vaccine schedules are being reviewed"
+          "NHS routine vaccination schedule has gaps",
+          "Children born before 2015 are not vaccinated",
+          "Private vaccination is an option",
+          "Parents are concerned about vaccine access",
+          "Vaccine schedule is being reviewed"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Tue, 24 Mar 2026 16:06:35 GMT",
         "title": "Timelapse of Artemis II rollout to launch pad",
-        "neutral_headline": "NASA Artemis II rollout to launch pad",
+        "neutral_headline": "Nasa's Artemis II rocket returns to launch pad",
         "items": [
           {
             "source": "BBC Science",
@@ -306,15 +331,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be9c/live/5ed52280-2796-11f1-b297-95b0a0a8331e.jpg",
         "ai_summary": [
-          "NASA's Moon rocket is ready for launch",
-          "Artemis II mission will send astronauts around Moon",
-          "Space exploration is a priority",
-          "NASA is investing in new technologies",
-          "Mission objectives are being finalized"
+          "Artemis II rocket is prepared for launch",
+          "Nasa's mission aims to send astronauts to Moon",
+          "Rocket has returned to launch pad",
+          "Mission is a significant step for space exploration",
+          "Artemis II is a crucial part of space program"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Tue, 24 Mar 2026 15:43:11 GMT",
         "title": "Is a morning cup of hot water better than cold?",
@@ -333,19 +358,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/992c/live/8d2c4610-26ae-11f1-b297-95b0a0a8331e.jpg",
         "ai_summary": [
-          "Drinking hot water may have health advantages",
-          "Hot water can aid digestion and circulation",
-          "Morning routines are important for health",
-          "Hydration is essential for well-being",
+          "Drinking hot water has health advantages",
+          "Social media trend promotes hot water drinking",
+          "GP examines benefits of hot water consumption",
+          "Hot water may aid digestion and circulation",
           "Health benefits of hot water are being studied"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Tue, 24 Mar 2026 15:37:53 GMT",
         "title": "Heat pumps for all new homes and plug-in solar in green tech drive",
-        "neutral_headline": "Heat pumps and solar panels for new homes",
+        "neutral_headline": "Heat pumps and solar panels promote green tech",
         "items": [
           {
             "source": "BBC Science",
@@ -360,19 +385,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e71f/live/c6516ea0-26ce-11f1-81a2-116adc639d06.jpg",
         "ai_summary": [
-          "New homes will be required to have heat pumps",
-          "Solar panels will be available for purchase",
+          "Heat pumps are a key part of green tech drive",
+          "Solar panels can be plugged in at home",
           "Green technology is being promoted",
-          "Renewable energy is a priority",
-          "Energy efficiency is being improved"
+          "Heat pumps and solar panels are eco-friendly",
+          "Government supports green tech initiatives"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Tue, 24 Mar 2026 15:09:46 GMT",
         "title": "Why is MenB vaccine not given to teenagers in UK and should they be offered it?",
-        "neutral_headline": "MenB vaccine not given to teenagers in UK",
+        "neutral_headline": "MenB vaccine not given to UK teenagers",
         "items": [
           {
             "source": "BBC Health",
@@ -388,14 +413,14 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d3/live/04098770-21fa-11f1-9256-9b680459597d.jpg",
         "ai_summary": [
           "MenB vaccine is not routine for teenagers",
-          "Meningitis is a risk for this age group",
-          "Vaccination is crucial for prevention",
-          "Vaccine schedules are being reviewed",
-          "Health experts are advocating for change"
+          "Meningitis strain is a concern for students",
+          "Vaccine is not offered to older teens",
+          "Health experts examine vaccine policy",
+          "MenB vaccine is crucial for prevention"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Tue, 24 Mar 2026 14:17:21 GMT",
         "title": "Meningitis B vaccine scheme widened to include some year 11 pupils in Kent",
@@ -408,7 +433,7 @@
             "title": "Meningitis B vaccine scheme widened to include some year 11 pupils in Kent",
             "standfirst": "Scheme expanded to four schools with known or suspected cases, as UKHSA figures show number has fallen to 23The meningitis B vaccination programme will be expanded to include year 11 pupils at schools affected by the outbreak in Kent, health officials have said.Figures from the UK Health Security Agency (UKHSA) show the number of cases of meningitis have fallen from 29 on Sunday, when 20 cases were confirmed and a further nine were under investigation, to 20 confirmed cases with a further three under investigation, as of 12.30pm on Monday. Continue reading...",
             "content": "Scheme expanded to four schools with known or suspected cases, as UKHSA figures show number has fallen to 23The meningitis B vaccination programme will be expanded to include year 11 pupils at schools affected by the outbreak in Kent, health officials have said.Figures from the UK Health Security Agency (UKHSA) show the number of cases of meningitis have fallen from 29 on Sunday, when 20 cases were confirmed and a further nine were under investigation, to 20 confirmed cases with a further three under investigation, as of 12.30pm on Monday. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           },
           {
             "source": "Guardian Health",
@@ -421,36 +446,11 @@
           }
         ],
         "ai_summary": [
-          "Meningitis B vaccine program is being expanded",
-          "Year 11 pupils in Kent will be vaccinated",
-          "Outbreak has been contained",
-          "Vaccine is effective in preventing meningitis",
-          "Health officials are monitoring the situation"
-        ]
-      },
-      {
-        "id": "cluster_9",
-        "coverage": 1,
-        "updated_at": "Tue, 24 Mar 2026 14:00:40 GMT",
-        "title": "Influencers are spruiking these three tests on social media, but they risk doing more harm than good",
-        "neutral_headline": "Medical tests marketed on social media",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/australia-news/2026/mar/24/influencers-health-tests-medical-treatment-social-media-risks-explained",
-            "published_at": "Tue, 24 Mar 2026 14:00:40 GMT",
-            "title": "Influencers are spruiking these three tests on social media, but they risk doing more harm than good",
-            "standfirst": "Experts warn of ‘over-diagnosis’ dangers as social media prompts the worried well to seek out unnecessary and expensive scans and blood testsGet our breaking news email, free app or daily news podcastMedical tests are marketed on social media as a way to empower people to take control of their health, but experts are warning to be wary of the harms influencers don’t mention.Three controversial tests – full-body magnetic resonance imaging (MRI) scans, blood tests for testosterone levels and the Anti-Mullerian hormone (AMH) or “egg-timer” test, which surveys a woman’s egg count – are the focus of a campaign backed by the University of Sydney based on its own research trying to combat misinformation online. Continue reading...",
-            "content": "Experts warn of ‘over-diagnosis’ dangers as social media prompts the worried well to seek out unnecessary and expensive scans and blood testsGet our breaking news email, free app or daily news podcastMedical tests are marketed on social media as a way to empower people to take control of their health, but experts are warning to be wary of the harms influencers don’t mention.Three controversial tests – full-body magnetic resonance imaging (MRI) scans, blood tests for testosterone levels and the Anti-Mullerian hormone (AMH) or “egg-timer” test, which surveys a woman’s egg count – are the focus of a campaign backed by the University of Sydney based on its own research trying to combat misinformation online. Continue reading...",
-            "feed_position": 4
-          }
-        ],
-        "ai_summary": [
-          "Influencers promote medical tests on social media",
-          "Experts warn of over-diagnosis and harm",
-          "Tests are often unnecessary and expensive",
-          "Social media marketing is a concern",
-          "Medical professionals are advising caution"
+          "Meningitis B vaccination program is expanded",
+          "Year 11 pupils in Kent are included",
+          "Vaccine scheme aims to prevent outbreak",
+          "Health officials monitor meningitis cases",
+          "Vaccination program is being expanded"
         ]
       },
       {
@@ -458,7 +458,7 @@
         "coverage": 1,
         "updated_at": "Tue, 24 Mar 2026 14:00:39 GMT",
         "title": "I was asked if there was an ‘everything’ test for cancer. Despite bold claims, no such thing exists | Ranjana Srivastava",
-        "neutral_headline": "No single test for cancer detection",
+        "neutral_headline": "No single test for cancer detection exists",
         "items": [
           {
             "source": "Guardian Health",
@@ -471,11 +471,11 @@
           }
         ],
         "ai_summary": [
-          "There is no single test for cancer detection",
+          "Cancer detection is a complex process",
+          "No single test can detect all cancers",
           "Oncologists rely on various diagnostic tools",
           "Early detection is crucial for treatment",
-          "Cancer research is ongoing",
-          "Medical professionals are working to improve detection"
+          "Cancer research focuses on improving detection"
         ]
       },
       {
@@ -483,7 +483,7 @@
         "coverage": 1,
         "updated_at": "Tue, 24 Mar 2026 12:50:30 GMT",
         "title": "UK medical council overhaul may mean more doctors struck off for racism and antisemitism",
-        "neutral_headline": "UK medical council overhaul may lead to more doctors being struck off",
+        "neutral_headline": "UK medical council overhaul targets racism",
         "items": [
           {
             "source": "Guardian Health",
@@ -496,11 +496,11 @@
           }
         ],
         "ai_summary": [
-          "General Medical Council is being overhauled",
-          "Doctors may face action for racist language",
-          "Social media use is being monitored",
-          "Medical professionals must uphold standards",
-          "Regulation is being strengthened to protect patients"
+          "General Medical Council will be overhauled",
+          "Doctors accused of racism will face action",
+          "Social media use will be monitored",
+          "Health department aims to combat racism",
+          "Medical regulator will be reformed"
         ]
       },
       {
@@ -508,7 +508,7 @@
         "coverage": 1,
         "updated_at": "Tue, 24 Mar 2026 12:22:02 GMT",
         "title": "What are the symptoms of meningitis and how is it spread?",
-        "neutral_headline": "Meningitis Outbreak In Kent Causes Two Deaths",
+        "neutral_headline": "Meningitis Outbreak In Kent Results In Two Deaths",
         "items": [
           {
             "source": "BBC Health",
@@ -526,8 +526,8 @@
           "Two people died from meningitis in Kent",
           "Outbreak is considered unprecedented",
           "Meningitis symptoms are being reported",
-          "Two cases are confirmed in Kent area",
-          "Investigation into outbreak is ongoing"
+          "Kent health officials are investigating",
+          "Cause of outbreak is not specified"
         ]
       },
       {
@@ -553,7 +553,7 @@
           "Migratory fish populations declined 81 percent",
           "Decline occurred over the last 50 years",
           "UN assessed the state of migratory fish",
-          "Freshwater fish are most affected species",
+          "Freshwater fish are most affected",
           "Conservation efforts are being considered"
         ]
       },
@@ -580,8 +580,8 @@
           "Government wants more homes to use heat pumps",
           "Heat pumps can cut fossil fuel use",
           "Energy bills may decrease with heat pumps",
-          "Government aims to reduce carbon emissions",
-          "Heat pump installation costs are varying"
+          "Government is promoting heat pump use",
+          "Heat pump costs are being considered"
         ]
       },
       {
@@ -589,7 +589,7 @@
         "coverage": 1,
         "updated_at": "Tue, 24 Mar 2026 10:14:38 GMT",
         "title": "When is Nasa's Moon mission launch and what will Artemis do?",
-        "neutral_headline": "Nasa Plans Crewed Moon Mission Launch",
+        "neutral_headline": "Nasa Plans Moon Mission For April",
         "items": [
           {
             "source": "BBC Science",
@@ -604,11 +604,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a00/live/e35f0660-ed44-11f0-8cc8-8329494b82ad.png",
         "ai_summary": [
-          "Nasa plans to launch crewed Moon mission",
-          "Mission may launch in April this year",
-          "Artemis program aims for lunar landing",
-          "First crewed mission in 50 years planned",
-          "Nasa is preparing for future space missions"
+          "Nasa plans to launch Moon mission in April",
+          "Mission will be the first crewed in 50 years",
+          "Artemis program is behind the mission",
+          "Lunar landing is a future goal",
+          "Mission details are being finalized"
         ]
       },
       {
@@ -616,7 +616,7 @@
         "coverage": 1,
         "updated_at": "Tue, 24 Mar 2026 10:01:19 GMT",
         "title": "Surprise sighting of pine marten in Cornwall",
-        "neutral_headline": "Pine Marten Sighting In Cornwall Reported",
+        "neutral_headline": "Pine Marten Sighting In Cornwall",
         "items": [
           {
             "source": "BBC Science",
@@ -631,11 +631,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1587/live/2c5497b0-2759-11f1-a797-4bd7869bf0d1.png",
         "ai_summary": [
-          "Pine marten spotted in Cornwall area",
-          "Kernow Conservation recorded the sighting",
-          "Creature was seen during routine monitoring",
-          "Staff confirmed the pine marten sighting",
-          "Conservation efforts are in place locally"
+          "Pine marten was spotted in Cornwall",
+          "Kernow Conservation made the sighting",
+          "Sighting was during routine monitoring",
+          "Staff confirmed the creature's identity",
+          "Pine marten is a rare species"
         ]
       },
       {
@@ -643,7 +643,7 @@
         "coverage": 1,
         "updated_at": "Tue, 24 Mar 2026 10:00:00 GMT",
         "title": "Inside Health",
-        "neutral_headline": "Inside Health: James Gallagher On Meningitis",
+        "neutral_headline": "Inside Health Discusses Meningitis Outbreak",
         "items": [
           {
             "source": "BBC Health",
@@ -658,11 +658,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg",
         "ai_summary": [
-          "James Gallagher discusses meningitis outbreak",
-          "Experts answer key questions on meningitis",
-          "Meningitis symptoms and treatment discussed",
-          "Outbreak in Kent is main topic of discussion",
-          "Health experts provide valuable information"
+          "Inside Health discusses meningitis outbreak",
+          "Experts answer questions on the outbreak",
+          "Meningitis symptoms are being discussed",
+          "Outbreak cause is being investigated",
+          "Health experts are providing information"
         ]
       },
       {
@@ -683,17 +683,17 @@
           }
         ],
         "ai_summary": [
-          "Eleven minutes more sleep reduces heart risk",
+          "Sleeping 11 minutes more reduces heart risk",
           "Additional brisk walking reduces heart risk",
           "Eating more vegetables reduces heart risk",
-          "Small behavior changes are achievable goals",
-          "Study finds 10 percent reduction in heart risk"
+          "Small behavior changes are beneficial",
+          "Study found a 10 percent risk reduction"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-24T19:52:58.030Z",
+    "updated_at": "2026-03-24T23:33:40.410Z",
     "clusters": []
   }
 }
