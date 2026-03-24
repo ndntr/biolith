@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-03-23T23:32:48.690Z",
+    "updated_at": "2026-03-24T04:53:16.557Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-23T23:32:52.226Z",
+    "updated_at": "2026-03-24T04:53:27.013Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -27,10 +27,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/33a2881a-83ba-46da-a590-604187bc5d81/Campaign-targets-GPs-syphilis-testing-blind-spots.aspx",
         "ai_summary": [
           "Campaign aims to improve syphilis testing",
-          "GPs need practical tools for early detection",
-          "Research shows lack of confidence in doctors",
-          "Campaign focuses on equipping GPs with tools",
-          "Early detection is crucial for syphilis treatment"
+          "GPs lack confidence in testing",
+          "Practical tools for early detection provided",
+          "Research shows lack of doctor confidence",
+          "Early detection and testing are crucial"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/c30de9a3-009c-4a7b-837e-36aeebed55d2/More-than-ever-Boost-to-NSW-GP-training-numbers.aspx",
         "ai_summary": [
-          "NSW GP training numbers have increased",
-          "Record numbers have started GP training",
-          "RACGP says there is scope for more growth",
-          "GP training is essential for healthcare",
-          "NSW has seen a significant boost in GP training"
+          "NSW GP training numbers increase",
+          "Record numbers start GP training",
+          "RACGP says there is scope for more",
+          "GP training numbers are rising",
+          "More doctors are being trained"
         ]
       },
       {
@@ -80,24 +80,24 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/d5e28b51-f5a3-4985-a0aa-297d153bfa82/How-do-hormones-alter-women-s-ADHD-symptoms.aspx",
         "ai_summary": [
-          "Hormones affect women's ADHD symptoms",
+          "Hormones impact women's ADHD symptoms",
           "GPs must be aware of hormonal shifts",
-          "Research raises awareness of ADHD symptoms",
-          "ADHD symptoms can vary in women",
-          "Hormonal shifts impact ADHD diagnosis"
+          "Research raises awareness of symptoms",
+          "ADHD symptoms vary in women",
+          "Hormonal changes affect ADHD symptoms"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-03-23T23:32:50.092Z",
+    "updated_at": "2026-03-24T04:53:18.641Z",
     "clusters": [
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 2,
         "updated_at": "Mon, 23 Mar 2026 19:20:17 GMT",
         "title": "Scotland becomes first in UK to test newborns for rare genetic condition",
-        "neutral_headline": "Scotland Becomes First In UK To Test Newborns For Rare Genetic Condition",
+        "neutral_headline": "Scotland becomes first in UK to test newborns for rare genetic condition",
         "items": [
           {
             "source": "BBC Health",
@@ -121,19 +121,46 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61ba/live/dd5c21d0-2683-11f1-a32b-91a6d5286fbb.jpg",
         "ai_summary": [
-          "Scotland tests newborns for Spinal Muscular Atrophy",
-          "SMA causes progressive muscle weakness",
+          "Scotland tests newborns for SMA",
+          "Spinal Muscular Atrophy is rare condition",
+          "Heel prick test is used for screening",
           "Early detection is critical for treatment",
-          "Scotland is the first UK country to test newborns",
-          "Testing can improve treatment outcomes"
+          "Screening can improve treatment outcomes"
         ]
       },
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Tue, 24 Mar 2026 01:10:12 GMT",
+        "title": "Heat pumps for all new homes and plug-in solar in green tech drive",
+        "neutral_headline": "Green Tech Drive Includes Heat Pumps",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/czjw7klkjm2o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 24 Mar 2026 01:10:12 GMT",
+            "title": "Heat pumps for all new homes and plug-in solar in green tech drive",
+            "standfirst": "Solar panels that can be plugged in at home could be available to buy in supermarkets in the coming months.",
+            "content": "Solar panels that can be plugged in at home could be available to buy in supermarkets in the coming months.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e71f/live/c6516ea0-26ce-11f1-81a2-116adc639d06.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e71f/live/c6516ea0-26ce-11f1-81a2-116adc639d06.jpg",
+        "ai_summary": [
+          "Heat pumps are part of green tech drive",
+          "Plug-in solar panels are being developed",
+          "Solar panels may be sold in supermarkets",
+          "Green technology is being promoted",
+          "New solar panels are plug-in ready"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 19:51:17 GMT",
         "title": "No new meningitis cases linked to Kent outbreak found, health agency says",
-        "neutral_headline": "No New Meningitis Cases Linked To Kent Outbreak Found",
+        "neutral_headline": "No New Meningitis Cases Found",
         "items": [
           {
             "source": "Guardian Health",
@@ -155,15 +182,15 @@
           }
         ],
         "ai_summary": [
-          "No new meningitis cases linked to Kent outbreak",
-          "UKHSA reports 29 cases in total",
-          "20 cases are confirmed and 9 are probable",
-          "Outbreak is considered well contained",
-          "Health agency continues to monitor the situation"
+          "No new meningitis cases are reported",
+          "Outbreak in Kent is being contained",
+          "UKHSA reports 29 cases total",
+          "20 cases are confirmed and 9 probable",
+          "Outbreak is being closely monitored"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 13:31:17 GMT",
         "title": "Meningitis outbreak passes peak, says health agency",
@@ -182,19 +209,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/687a/live/d3423e00-26a1-11f1-9a4b-834c9ce445e3.jpg",
         "ai_summary": [
-          "Meningitis outbreak has passed its peak",
-          "UKHSA says cases may still be reported",
-          "Health agency continues to monitor outbreak",
-          "Outbreak is considered to be under control",
-          "Further cases may still be detected"
+          "Meningitis outbreak is passing peak",
+          "Health agency is still monitoring cases",
+          "Cases may still be reported",
+          "Outbreak is being closely watched",
+          "Peak of outbreak has been reached"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 13:11:52 GMT",
         "title": "Our son loved the outdoors - invisible illness means he now can't walk or talk",
-        "neutral_headline": "Invisible Illness Affects Thousands In Wales",
+        "neutral_headline": "Invisible Illness Affects Thousands",
         "items": [
           {
             "source": "BBC Health",
@@ -209,19 +236,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a9d/live/3d22cf20-26ba-11f1-b297-95b0a0a8331e.jpg",
         "ai_summary": [
-          "ME is an invisible illness affecting thousands",
-          "Tomos is one of many with ME in Wales",
-          "Services for ME patients are limited",
-          "ME patients face significant challenges",
+          "ME illness affects thousands in Wales",
+          "Services for ME patients are lacking",
+          "Patients struggle with daily life",
+          "ME is a debilitating condition",
           "Services are described as a desert"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 12:00:49 GMT",
         "title": "US under-45s struggle for insurance approval as colon cancer rates rise",
-        "neutral_headline": "US Under 45s Struggle For Insurance Approval",
+        "neutral_headline": "US Under 45s Struggle For Insurance",
         "items": [
           {
             "source": "Guardian Health",
@@ -234,19 +261,19 @@
           }
         ],
         "ai_summary": [
-          "US under 45s struggle for colonoscopy approval",
-          "Colon cancer rates are rising in young people",
-          "ACA requires insurance coverage for over 45s",
-          "Young people face hurdles for colonoscopy coverage",
-          "Insurance companies have strict requirements"
+          "US under 45s struggle for insurance",
+          "Colon cancer rates are rising",
+          "Insurance companies require approval",
+          "Colonoscopies can detect colon cancer",
+          "Young adults face hurdles for testing"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 07:00:43 GMT",
         "title": "Hundreds of children stuck in hospital because of lack of community services",
-        "neutral_headline": "Hundreds Of Children Stuck In Hospital",
+        "neutral_headline": "Children Stuck In Hospital Due To Lack Of Services",
         "items": [
           {
             "source": "Guardian Health",
@@ -259,19 +286,19 @@
           }
         ],
         "ai_summary": [
-          "Hundreds of children are stuck in hospital",
-          "Lack of community services causes delays",
-          "Discharge delays affect patients and families",
-          "Children are missing out on childhood activities",
-          "Youngsters needing hospital care wait for beds"
+          "Children are stuck in hospital unnecessarily",
+          "Lack of community services is the cause",
+          "Discharge delays are a major issue",
+          "Patients are missing out on childhood",
+          "Youngsters needing care are waiting beds"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 06:46:46 GMT",
         "title": "'Women's health must be taken more seriously'",
-        "neutral_headline": "Women's Health Must Be Taken Seriously",
+        "neutral_headline": "Women's health issues must be taken seriously",
         "items": [
           {
             "source": "BBC Health",
@@ -286,19 +313,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/653a/live/a2d66ca0-2557-11f1-934f-036468834728.png",
         "ai_summary": [
-          "Women's health is often not taken seriously",
-          "Dr Liz O'Riordan advocates for women's health",
-          "Women should seek help from professionals",
-          "Google and Chat GPT are not reliable sources",
-          "Women's health requires proper medical attention"
+          "Dr Liz O'Riordan emphasizes women's health importance",
+          "Women should seek professional help not online advice",
+          "Google and Chat GPT are not reliable health sources",
+          "Women's health issues are often misunderstood",
+          "Professional help is necessary for accurate diagnosis"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 06:17:50 GMT",
         "title": "'I waited 30 years for my endometriosis diagnosis'",
-        "neutral_headline": "Endometriosis Diagnosis Can Take Years",
+        "neutral_headline": "Endometriosis diagnosis delayed for 30 years",
         "items": [
           {
             "source": "BBC Health",
@@ -313,19 +340,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72ee/live/27c53b20-23a1-11f1-9699-87c229cb26a0.jpg",
         "ai_summary": [
-          "Endometriosis diagnosis can take decades",
           "Nichola Howell waited 30 years for diagnosis",
-          "Patients often face dismissive doctors",
-          "Endometriosis causes barbaric pain",
-          "Diagnosis is crucial for effective treatment"
+          "She experienced barbaric pain during that time",
+          "Doctors constantly dismissed her symptoms",
+          "Endometriosis diagnosis is often delayed",
+          "Patients should advocate for themselves"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 06:09:12 GMT",
         "title": "MP raises Heathrow expansion transport concerns",
-        "neutral_headline": "MP Raises Heathrow Expansion Transport Concerns",
+        "neutral_headline": "Heathrow expansion transport concerns raised",
         "items": [
           {
             "source": "BBC Science",
@@ -334,25 +361,25 @@
             "title": "MP raises Heathrow expansion transport concerns",
             "standfirst": "Windsor MP, Jack Rankin says he backs the idea of a western rail link to Heathrow.",
             "content": "Windsor MP, Jack Rankin says he backs the idea of a western rail link to Heathrow.",
-            "feed_position": 7,
+            "feed_position": 6,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e23f/live/152af630-bc09-11f0-ae46-bd64331f0fd4.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e23f/live/152af630-bc09-11f0-ae46-bd64331f0fd4.png",
         "ai_summary": [
-          "MP Jack Rankin raises Heathrow expansion concerns",
+          "MP Jack Rankin raises transport concerns",
           "Western rail link to Heathrow is proposed",
-          "Transport concerns are a major issue",
-          "Heathrow expansion affects local communities",
-          "MP backs the idea of a western rail link"
+          "Expansion plans may impact local communities",
+          "Transport infrastructure is a major concern",
+          "Heathrow expansion plans are being debated"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 04:06:22 GMT",
         "title": "UN issues new climate warning as El Niño looms",
-        "neutral_headline": "UN Issues New Climate Warning",
+        "neutral_headline": "UN issues new climate warning",
         "items": [
           {
             "source": "BBC Science",
@@ -361,25 +388,25 @@
             "title": "UN issues new climate warning as El Niño looms",
             "standfirst": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says.",
             "content": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aab8/live/5db64fd0-2487-11f1-a673-e3b236a15253.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aab8/live/5db64fd0-2487-11f1-a673-e3b236a15253.jpg",
         "ai_summary": [
-          "Earth's climate is out of balance",
-          "El Niño is a contributing factor",
-          "UN's weather agency made the announcement",
+          "UN warns of climate imbalance",
+          "El Niño looms as a significant threat",
           "Climate change has severe consequences",
-          "Global action is necessary to mitigate effects"
+          "The Earth's climate is out of balance",
+          "Immediate action is necessary to mitigate effects"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 03:01:09 GMT",
         "title": "Apology for poor care over boy's bleed death",
-        "neutral_headline": "Apology For Poor Care Over Boy's Death",
+        "neutral_headline": "Apology for poor care in boy's death",
         "items": [
           {
             "source": "BBC Health",
@@ -396,17 +423,17 @@
         "ai_summary": [
           "Aarav Chopra died during a biopsy",
           "A trainee doctor pierced his artery",
-          "The incident occurred at a hospital",
-          "An apology was issued for poor care",
-          "The boy was three years old"
+          "The hospital apologized for poor care",
+          "The incident is under investigation",
+          "Patient safety is a top priority"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 00:01:35 GMT",
         "title": "Study links children’s social media use with anxiety and depression in teenage years",
-        "neutral_headline": "Study Links Social Media Use To Anxiety",
+        "neutral_headline": "Study links social media use to anxiety",
         "items": [
           {
             "source": "Guardian Health",
@@ -419,19 +446,19 @@
           }
         ],
         "ai_summary": [
-          "Social media use affects children's mental health",
-          "More than three hours of use increases risks",
+          "Social media use linked to anxiety and depression",
           "Lack of sleep is a contributing factor",
-          "Depression and anxiety are potential outcomes",
-          "Girls are more likely to be affected"
+          "Children who use social media for over three hours are at risk",
+          "The impact is more pronounced in girls",
+          "Parents should monitor social media use"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 23 Mar 2026 00:00:16 GMT",
         "title": "How an island became ferret free - thanks, in part, to Woody the wonderdog",
-        "neutral_headline": "Island Becomes Ferret Free Thanks To Project",
+        "neutral_headline": "Island becomes ferret free",
         "items": [
           {
             "source": "BBC Science",
@@ -440,25 +467,25 @@
             "title": "How an island became ferret free - thanks, in part, to Woody the wonderdog",
             "standfirst": "More than 400 traps were laid across the island in a £4.5m project which featured a specially-trained detection dog called Woody.",
             "content": "More than 400 traps were laid across the island in a £4.5m project which featured a specially-trained detection dog called Woody.",
-            "feed_position": 8,
+            "feed_position": 7,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e2a/live/16598810-25e9-11f1-a3f0-379050aefd37.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e2a/live/16598810-25e9-11f1-a3f0-379050aefd37.jpg",
         "ai_summary": [
-          "An island was infested with ferrets",
-          "A £4.5m project was launched to remove them",
-          "Over 400 traps were laid across the island",
+          "Ferrets were eradicated from the island",
+          "A £4.5m project was implemented",
+          "Over 400 traps were laid",
           "A detection dog named Woody helped",
           "The project was successful in removing ferrets"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sun, 22 Mar 2026 18:59:17 GMT",
         "title": "Streeting praises response to meningitis outbreak",
-        "neutral_headline": "Response To Meningitis Outbreak Praised",
+        "neutral_headline": "Meningitis outbreak response praised",
         "items": [
           {
             "source": "BBC Health",
@@ -473,19 +500,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c3/live/4bd2cb60-2624-11f1-aad6-2d605a562384.jpg",
         "ai_summary": [
-          "A meningitis outbreak occurred in Kent",
-          "Efforts to protect people were praised",
-          "Wes Streeting acknowledged the response",
-          "The outbreak was a serious health concern",
-          "Protective measures were put in place"
+          "Wes Streeting praises response to outbreak",
+          "Herculean efforts were made to protect people",
+          "The outbreak was contained quickly",
+          "Vaccinations were administered promptly",
+          "Public health measures were effective"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Sun, 22 Mar 2026 16:51:34 GMT",
         "title": "Weight-loss drugs do work – but not on their own | Letters",
-        "neutral_headline": "Weight Loss Drugs Work With Lifestyle Changes",
+        "neutral_headline": "Weight loss drugs require lifestyle changes",
         "items": [
           {
             "source": "Guardian Health",
@@ -498,19 +525,19 @@
           }
         ],
         "ai_summary": [
-          "GLP-1 medicines aid in weight loss",
-          "Lifestyle adjustments are necessary",
-          "Medication alone is not enough",
-          "Diet quality and physical activity matter",
-          "Combining treatment with lifestyle changes is effective"
+          "GLP-1 medicines require lifestyle adjustments",
+          "Obesity treatment involves biological drivers",
+          "Patients must combine medication with diet changes",
+          "Physical activity and sleep are crucial",
+          "Medication alone is rarely the whole answer"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sun, 22 Mar 2026 13:00:21 GMT",
         "title": "Trump and RFK Jr touted leucovorin as a treatment for autism. The FDA quietly walked it back",
-        "neutral_headline": "Trump and RFK Jr Touted Leucovorin As Autism Treatment",
+        "neutral_headline": "Trump and RFK Jr touted leucovorin",
         "items": [
           {
             "source": "Guardian Health",
@@ -527,15 +554,15 @@
           "The FDA later approved it for folate deficiency",
           "Outpatient prescriptions increased by 71%",
           "There is little evidence for its use in autism",
-          "The announcement was made by Trump and RFK Jr"
+          "Parents should consult doctors before treatment"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Sun, 22 Mar 2026 12:00:20 GMT",
         "title": "I have stage four cancer – there will be no cure, but death isn’t necessarily imminent: this is how it feels to live in the long middle",
-        "neutral_headline": "Living With Stage Four Cancer",
+        "neutral_headline": "Living with stage four cancer",
         "items": [
           {
             "source": "Guardian Health",
@@ -550,17 +577,17 @@
         "ai_summary": [
           "Stage four cancer has no cure",
           "Death is not necessarily imminent",
+          "Patients must manage their condition",
           "Treatment is constant and ongoing",
-          "The patient's quality of life is affected",
-          "Living with cancer is a daily challenge"
+          "Life persists despite the disease"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sun, 22 Mar 2026 07:09:49 GMT",
         "title": "I spent five months in a mother and baby mental health unit - here's what I want mums to know",
-        "neutral_headline": "Mother And Baby Mental Health Unit Experience",
+        "neutral_headline": "Mother and baby mental health unit",
         "items": [
           {
             "source": "BBC Health",
@@ -575,19 +602,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf86/live/a1d6c050-269e-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "Sofii Lewis was diagnosed with postpartum psychosis",
-          "She spent five months in a mental health unit",
-          "The unit provided support for mothers and babies",
-          "Lewis was also diagnosed with OCD",
-          "Her experience was life-changing"
+          "Sofii Lewis spent five months in a unit",
+          "She was diagnosed with postpartum psychosis",
+          "OCD and psychosis are common issues",
+          "Mother and baby units provide crucial support",
+          "Mental health support is essential for new mothers"
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sun, 22 Mar 2026 07:07:33 GMT",
         "title": "'Having coeliac disease aged 9 means I'm normal with a tiny twist'",
-        "neutral_headline": "Living With Coeliac Disease As A Child",
+        "neutral_headline": "Having coeliac disease aged 9 means I'm normal with a tiny twist",
         "items": [
           {
             "source": "BBC Health",
@@ -603,16 +630,16 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5a3/live/466a68a0-2448-11f1-8350-0b57c2d91bf3.jpg",
         "ai_summary": [
           "Eliza was diagnosed with coeliac disease",
-          "She was nine years old at the time",
-          "Her mother was relieved by the diagnosis",
-          "Coeliac disease requires a special diet",
-          "Eliza's condition is manageable with treatment"
+          "Her mum was relieved by the diagnosis",
+          "Coeliac disease requires dietary changes",
+          "Eliza's condition is manageable with treatment",
+          "She can lead a normal life with some adjustments"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-23T23:32:52.226Z",
+    "updated_at": "2026-03-24T04:53:27.013Z",
     "clusters": []
   }
 }
