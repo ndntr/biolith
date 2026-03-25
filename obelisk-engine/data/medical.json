@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-03-25T19:46:46.533Z",
+    "updated_at": "2026-03-25T23:35:26.025Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-25T19:47:00.520Z",
+    "updated_at": "2026-03-25T23:35:40.385Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/3b100571-83fa-4d0f-92e7-2177b37eb529/How-could-fuel-price-rises-impact-GP-care.aspx",
         "ai_summary": [
-          "Fuel price rises affect GP care",
+          "Fuel price rises may impact GP care",
           "GPs report more telehealth consult requests",
-          "Concerns rise for equity of care",
-          "Rural areas are particularly affected",
-          "Fuel prices impact healthcare access"
+          "Equity of care is a concern",
+          "Rural areas may be particularly affected",
+          "Fuel costs could change healthcare access"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/80470906-bffb-4194-aa3c-4c87ec52ed69/Data-helps-target-skin-cancer-screening.aspx",
         "ai_summary": [
-          "Data helps target skin cancer screening",
-          "AIHW report shows linked data usage",
-          "Data shapes national skin cancer program",
-          "Program aims to improve screening",
-          "Linked data is key to the program"
+          "Linked data is used for skin cancer screening",
+          "AIHW report shows data-driven approach",
+          "National skin cancer program will benefit",
+          "Data analysis will inform screening roadmap",
+          "Targeted screening will improve outcomes"
         ]
       },
       {
@@ -80,11 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/a7bd99db-57de-4248-9899-3cc22200f856/GP-plan-to-combat-completely-unsustainable-NSW-hospital-costs.aspx",
         "ai_summary": [
-          "RACGP delivers strategy to NSW Government",
-          "Focus on well-connected general practice",
-          "Aims to reduce hospital costs",
-          "NSW hospital costs are unsustainable",
-          "RACGP President leads the initiative"
+          "RACGP delivered a strategy to NSW Government",
+          "The plan aims to reduce hospital costs",
+          "Well-connected general practice is key",
+          "Spiralling hospital costs are a concern",
+          "The strategy will focus on preventative care"
         ]
       },
       {
@@ -107,11 +107,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/2e340543-0159-4c0a-918d-b28f0042938a/Early-intervention-key-for-teen-mental-health.aspx",
         "ai_summary": [
-          "Landmark study on teen mental health",
-          "Early intervention is crucial",
-          "GP expert comments on mental health",
-          "Prescription not the only solution",
-          "Study identifies risks and factors"
+          "Landmark study identifies teen mental health risks",
+          "Protective factors were also identified",
+          "Early intervention is crucial for mental health",
+          "Prescription alone cannot solve issues",
+          "GPs emphasize the importance of early action"
         ]
       },
       {
@@ -134,24 +134,49 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/726ca519-55cc-4b78-ba0d-5c21f00f7449/Primary-care-in-focus-as-nation-s-health-leaders-meet.aspx",
         "ai_summary": [
-          "RACGP President meets health leaders",
-          "Primary care is the main focus",
-          "Meeting in Canberra to improve healthcare",
-          "Australia's healthcare system discussed",
-          "Leaders explore improvement strategies"
+          "RACGP President met with primary care leaders",
+          "The meeting aimed to improve healthcare",
+          "Primary care was the main focus",
+          "Leaders discussed ways to enhance services",
+          "Australia's healthcare system will benefit"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-03-25T19:47:00.608Z",
+    "updated_at": "2026-03-25T23:35:40.380Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Wed, 25 Mar 2026 19:50:50 GMT",
+        "title": "Resident doctors in England to begin six-day strike after rejecting offer in pay dispute",
+        "neutral_headline": "Resident doctors in England to begin six-day strike",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/mar/25/resident-doctors-nhs-england-strike-reject-offer-pay",
+            "published_at": "Wed, 25 Mar 2026 19:50:50 GMT",
+            "title": "Resident doctors in England to begin six-day strike after rejecting offer in pay dispute",
+            "standfirst": "British Medical Association blame government for longest proposed walkout so far, with NHS leaders warning it could cost £300mResident doctors in England will strike for six days after Easter after rejecting what they said was the final offer by the health secretary, Wes Streeting, to end the long-running pay and jobs dispute.The British Medical Association blamed the government for its decision to undertake its longest stoppage so far, from 7am on Tuesday 7 April to 6.59 on Monday 13 April. Continue reading...",
+            "content": "British Medical Association blame government for longest proposed walkout so far, with NHS leaders warning it could cost £300mResident doctors in England will strike for six days after Easter after rejecting what they said was the final offer by the health secretary, Wes Streeting, to end the long-running pay and jobs dispute.The British Medical Association blamed the government for its decision to undertake its longest stoppage so far, from 7am on Tuesday 7 April to 6.59 on Monday 13 April. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "Resident doctors will strike for six days",
+          "The strike is due to a pay dispute",
+          "British Medical Association blamed government",
+          "NHS leaders warned of potential costs",
+          "The strike will begin after Easter"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
         "updated_at": "Wed, 25 Mar 2026 18:33:33 GMT",
         "title": "Kent meningitis outbreak prompts rush for routine vaccinations in England",
-        "neutral_headline": "Meningitis outbreak prompts vaccination rush",
+        "neutral_headline": "Kent meningitis outbreak prompts vaccination rush",
         "items": [
           {
             "source": "Guardian Health",
@@ -160,23 +185,23 @@
             "title": "Kent meningitis outbreak prompts rush for routine vaccinations in England",
             "standfirst": "Exclusive: Parental consents in Greater Manchester up 40% as demand surges in various parts of the countrySchool immunisation services and pharmacies are reporting surging demand for routine vaccinations after the Kent meningitis outbreak in which two teenagers died.Thousands of teenagers across England have booked or received jabs in the past fortnight against the A, C, W and Y strains of meningitis (MenACWY), and diphtheria, polio and tetanus (Td/IPV). Continue reading...",
             "content": "Exclusive: Parental consents in Greater Manchester up 40% as demand surges in various parts of the countrySchool immunisation services and pharmacies are reporting surging demand for routine vaccinations after the Kent meningitis outbreak in which two teenagers died.Thousands of teenagers across England have booked or received jabs in the past fortnight against the A, C, W and Y strains of meningitis (MenACWY), and diphtheria, polio and tetanus (Td/IPV). Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ],
         "ai_summary": [
-          "Meningitis outbreak in Kent",
-          "Vaccination demand surges",
-          "Thousands of teenagers get vaccinated",
-          "MenACWY and Td/IPV vaccines given",
-          "Parental consents increase by 40 percent"
+          "Kent meningitis outbreak led to vaccination surge",
+          "Parental consents increased in Greater Manchester",
+          "Demand for vaccinations rose in England",
+          "MenACWY and Td/IPV vaccinations are in demand",
+          "Schools and pharmacies report increased bookings"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Wed, 25 Mar 2026 18:02:45 GMT",
         "title": "Why are resident doctors striking and how much are they paid?",
-        "neutral_headline": "Resident doctors strike over pay",
+        "neutral_headline": "Resident doctors striking over pay",
         "items": [
           {
             "source": "BBC Health",
@@ -191,19 +216,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/527f/live/66221cf0-cf8f-11f0-8d79-4975c2144860.jpg",
         "ai_summary": [
-          "Resident doctors strike in England",
-          "Strike lasts from December 17 to 22",
-          "Doctors demand better pay",
-          "14th walkout since 2023",
-          "Pay dispute with the government"
+          "Resident doctors are striking in England",
+          "The strike is due to a pay dispute",
+          "Doctors are walking out for 14th time",
+          "Pay and jobs are the main concerns",
+          "The strike will affect NHS services"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Wed, 25 Mar 2026 17:52:49 GMT",
         "title": "UK politics: Tories claim McSweeney has ‘serious questions’ to answer about phone theft – as it happened",
-        "neutral_headline": "Health secretary comments on phone theft",
+        "neutral_headline": "UK politics and phone theft controversy",
         "items": [
           {
             "source": "Guardian Health",
@@ -212,23 +237,23 @@
             "title": "UK politics: Tories claim McSweeney has ‘serious questions’ to answer about phone theft – as it happened",
             "standfirst": "Shadow cabinet officer minister claims ‘this whole thing stinks to high heaven’Here is the list of MPs down to ask a question at PMQs.Wes Streeting, the health secretary, has urged people to reject “conspiracy” theories about the loss of Morgan McSweeney’s phone. Continue reading...",
             "content": "Shadow cabinet officer minister claims ‘this whole thing stinks to high heaven’Here is the list of MPs down to ask a question at PMQs.Wes Streeting, the health secretary, has urged people to reject “conspiracy” theories about the loss of Morgan McSweeney’s phone. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ],
         "ai_summary": [
-          "Health secretary Wes Streeting comments",
-          "Phone theft incident discussed",
-          "Conspiracy theories rejected",
-          "Minister responds to phone theft claims",
-          "Incident sparks controversy"
+          "Phone theft controversy involves MP",
+          "Shadow cabinet officer minister commented",
+          "Health secretary urged people to reject theories",
+          "The incident has sparked a political debate",
+          "MPs are asking questions about the issue"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Wed, 25 Mar 2026 17:15:05 GMT",
         "title": "Doctors announce six-day strike in England as talks break down",
-        "neutral_headline": "Doctors announce six day strike",
+        "neutral_headline": "Doctors announce six-day strike in England",
         "items": [
           {
             "source": "BBC Health",
@@ -243,19 +268,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08d1/live/40d44900-2868-11f1-aa48-117dee2050d3.jpg",
         "ai_summary": [
-          "Doctors announce six day strike",
-          "Strike begins on April 7",
-          "Dispute over jobs and pay",
-          "One of the longest strikes yet",
-          "England's healthcare system affected"
+          "Doctors will strike for six days in England",
+          "The strike is due to jobs and pay dispute",
+          "Talks between doctors and government broke down",
+          "The strike will begin on 7 April",
+          "NHS services will be affected by the strike"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Wed, 25 Mar 2026 16:34:01 GMT",
         "title": "Cuts to overseas aid will ultimately hurt Britain | Letters",
-        "neutral_headline": "UK aid cuts to hurt poorest countries",
+        "neutral_headline": "UK Government Cuts Overseas Aid To Poorest Countries",
         "items": [
           {
             "source": "Guardian Health",
@@ -264,23 +289,23 @@
             "title": "Cuts to overseas aid will ultimately hurt Britain | Letters",
             "standfirst": "Readers respond to the news that some of the world’s poorest countries are going to lose aid from the UKThe recent announcement that the UK government is set to make significant cuts to direct aid to Africa and the Middle East is deeply disappointing (Report, 19 March). It is plumbing new depths by proposing to balance increased defence spending on the backs of the world’s poorest by slashing development aid.Such a move also breaks Labour’s 2024 manifesto pledge to restore development spending at the level of 0.7% of gross national income (GNI) “as soon as fiscal circumstances allow”. Continue reading...",
             "content": "Readers respond to the news that some of the world’s poorest countries are going to lose aid from the UKThe recent announcement that the UK government is set to make significant cuts to direct aid to Africa and the Middle East is deeply disappointing (Report, 19 March). It is plumbing new depths by proposing to balance increased defence spending on the backs of the world’s poorest by slashing development aid.Such a move also breaks Labour’s 2024 manifesto pledge to restore development spending at the level of 0.7% of gross national income (GNI) “as soon as fiscal circumstances allow”. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "UK government cuts overseas aid",
-          "Poorest countries affected",
-          "Aid reduction sparks criticism",
-          "Cuts break Labour's manifesto pledge",
-          "Development aid reduced"
+          "UK government cuts aid to Africa and Middle East",
+          "Cuts break Labour's 2024 manifesto pledge",
+          "Development aid reduced to balance defence spending",
+          "Poorest countries will lose significant financial support",
+          "UK's decision sparks widespread criticism and concern"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Wed, 25 Mar 2026 15:46:01 GMT",
         "title": "'I froze my eggs because I was born without a womb'",
-        "neutral_headline": "Woman born without womb freezes eggs",
+        "neutral_headline": "Woman Born Without Womb Freezes Eggs",
         "items": [
           {
             "source": "BBC Health",
@@ -295,19 +320,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aefc/live/7831f6a0-2849-11f1-b297-95b0a0a8331e.jpg",
         "ai_summary": [
-          "Woman born with Mayer-Rokitansky-Küster-Hauser",
-          "Syndrome affects reproductive system",
-          "Woman freezes eggs for future",
-          "Condition affects one in 5000 women",
-          "Fertility options explored"
+          "Betty Mukherjee talks about living with Mayer-Rokitansky-Küster-Hauser syndrome",
+          "She froze her eggs due to her condition",
+          "Mukherjee shares her experiences on BBC",
+          "Her story raises awareness about reproductive health",
+          "Mukherjee's decision to freeze eggs gives her hope"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Wed, 25 Mar 2026 15:03:29 GMT",
         "title": "'You feel forgotten' - the reality for boxers after the fights stop",
-        "neutral_headline": "Retired boxers struggle after fights",
+        "neutral_headline": "Retired Boxers Struggle After Fighting Career",
         "items": [
           {
             "source": "BBC Health",
@@ -322,19 +347,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06f7/live/b8ddc970-2855-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "Retired boxers face challenges",
-          "Boxers struggle to fill the void",
-          "Mental health affected",
-          "Boxers share their experiences",
-          "Support systems are needed"
+          "Retired boxer Stephen Smith shares his struggles",
+          "Boxers often struggle to fill the void after retirement",
+          "Smith talks about the reality of life after boxing",
+          "Many boxers face mental and physical health issues",
+          "Support systems are needed for retired boxers"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Wed, 25 Mar 2026 13:34:04 GMT",
         "title": "US left without functioning vaccine panel as adviser says ‘drama distracts’",
-        "neutral_headline": "US vaccine panel loses functionality",
+        "neutral_headline": "Cuts to overseas aid will ultimately hurt Britain",
         "items": [
           {
             "source": "Guardian Health",
@@ -343,23 +368,23 @@
             "title": "US left without functioning vaccine panel as adviser says ‘drama distracts’",
             "standfirst": "Move comes after judge voided Kennedy’s ACIP picks, leaving key flu, Covid and RSV vaccines in limboSign up for the Breaking News US email to get newsletter alerts in your inboxAmid upheaval to the US vaccine advisory committee Robert Malone, the former co-chair and controversial figure who has opposed vaccines, says he has been pushed out and will not be involved in any future decisions. The move comes after a federal judge stayed the appointment of 13 members of the advisory committee on immunization practices (ACIP), essentially invalidating their roles on the committee and the decisions they have made.Those new advisers were all hand-picked by the Department of Health and Human Services (HHS) secretary, Robert F Kennedy Jr, after he fired the previous 17 members of the ACIP in June – but the judge ruled they were unqualified and not selected properly. Continue reading...",
             "content": "Move comes after judge voided Kennedy’s ACIP picks, leaving key flu, Covid and RSV vaccines in limboSign up for the Breaking News US email to get newsletter alerts in your inboxAmid upheaval to the US vaccine advisory committee Robert Malone, the former co-chair and controversial figure who has opposed vaccines, says he has been pushed out and will not be involved in any future decisions. The move comes after a federal judge stayed the appointment of 13 members of the advisory committee on immunization practices (ACIP), essentially invalidating their roles on the committee and the decisions they have made.Those new advisers were all hand-picked by the Department of Health and Human Services (HHS) secretary, Robert F Kennedy Jr, after he fired the previous 17 members of the ACIP in June – but the judge ruled they were unqualified and not selected properly. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ],
         "ai_summary": [
-          "US vaccine advisory committee affected",
+          "US vaccine advisory committee in disarray",
           "Judge voids Kennedy's ACIP picks",
-          "Committee members' roles invalidated",
-          "Vaccine decisions in limbo",
-          "Controversy surrounds the committee"
+          "Key vaccines in limbo due to committee issues",
+          "Robert Malone says he has been pushed out",
+          "Decision-making process for vaccines is uncertain"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Wed, 25 Mar 2026 12:46:01 GMT",
         "title": "Young people less satisfied with the NHS - survey",
-        "neutral_headline": "Young people dissatisfied with NHS",
+        "neutral_headline": "Young People Less Satisfied With NHS",
         "items": [
           {
             "source": "BBC Health",
@@ -374,19 +399,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d44/live/010e39c0-2845-11f1-ac61-c943803d2ed3.jpg",
         "ai_summary": [
-          "Young people unhappy with NHS",
-          "Only one in four satisfied",
-          "Satisfaction rates vary by age",
-          "NHS faces challenges",
-          "Healthcare system under scrutiny"
+          "Survey shows low satisfaction with NHS among young people",
+          "Only one in four people are satisfied with the NHS",
+          "Younger age groups have lower satisfaction rates",
+          "NHS faces challenges in meeting young people's needs",
+          "Satisfaction rates vary across different age groups"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Wed, 25 Mar 2026 12:39:13 GMT",
         "title": "'I shampooed with raw egg to try and get pregnant'",
-        "neutral_headline": "Health misinformation on social media",
+        "neutral_headline": "Fighting Health Misinformation On Social Media",
         "items": [
           {
             "source": "BBC Health",
@@ -401,19 +426,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce3c/live/99b82210-2842-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "Health misinformation spreads online",
-          "Social media platforms affected",
-          "Facts and myths about health",
-          "Experts combat misinformation",
-          "Awareness campaigns launched"
+          "Barbora Gray shares her experiences with health misinformation",
+          "She fights back by sharing facts on social media",
+          "Health misinformation is a growing concern",
+          "Social media platforms must address the issue",
+          "Accurate information is crucial for public health"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Wed, 25 Mar 2026 10:56:47 GMT",
         "title": "Hospital waited two days before raising alarm about meningitis outbreak",
-        "neutral_headline": "Hospital delayed meningitis outbreak response",
+        "neutral_headline": "Hospital Delayed Raising Alarm On Meningitis Outbreak",
         "items": [
           {
             "source": "BBC Health",
@@ -428,19 +453,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c2b/live/930d70d0-2812-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "Hospital waited two days to respond",
-          "Meningitis outbreak in Kent",
-          "Delay possibly slowed identification",
-          "Experts criticize the delay",
-          "Hospital's response under investigation"
+          "Hospital waited two days to raise alarm about outbreak",
+          "Experts say the delay was indefensible",
+          "Meningitis outbreak highlights hospital's slow response",
+          "Delayed response may have worsened the outbreak",
+          "Investigation into the hospital's response is needed"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Wed, 25 Mar 2026 08:01:17 GMT",
         "title": "NHS trust took two days to raise alarm about Kent meningitis outbreak, says report",
-        "neutral_headline": "NHS trust took two days to raise alarm",
+        "neutral_headline": "NHS trust took two days to raise alarm about Kent meningitis outbreak",
         "items": [
           {
             "source": "Guardian Health",
@@ -449,23 +474,23 @@
             "title": "NHS trust took two days to raise alarm about Kent meningitis outbreak, says report",
             "standfirst": "East Kent hospitals NHS trust says officials could have acted sooner to notify UKHSA after first reported caseEast Kent hospitals NHS trust missed an earlier opportunity to alert the UK Health Security Agency (UKHSA) over the meningitis outbreak in Kent, it has been reported.According to the BBC, the Queen Elizabeth the Queen Mother hospital in Margate first reported a case to the UKHSA on the afternoon of Friday 13 March. Continue reading...",
             "content": "East Kent hospitals NHS trust says officials could have acted sooner to notify UKHSA after first reported caseEast Kent hospitals NHS trust missed an earlier opportunity to alert the UK Health Security Agency (UKHSA) over the meningitis outbreak in Kent, it has been reported.According to the BBC, the Queen Elizabeth the Queen Mother hospital in Margate first reported a case to the UKHSA on the afternoon of Friday 13 March. Continue reading...",
-            "feed_position": 4
+            "feed_position": 5
           }
         ],
         "ai_summary": [
-          "NHS trust delayed meningitis response",
-          "Two day delay in notification",
-          "UKHSA not notified promptly",
-          "Trust could have acted sooner",
-          "Investigation into the delay launched"
+          "East Kent hospitals NHS trust delayed alerting UKHSA",
+          "First case reported to UKHSA on Friday 13 March",
+          "Trust says officials could have acted sooner",
+          "Delayed response may have impacted outbreak control",
+          "UKHSA investigation into the outbreak is ongoing"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Wed, 25 Mar 2026 01:26:40 GMT",
         "title": "NHS dentistry is rotting. Will the plan to fix it work?",
-        "neutral_headline": "NHS Dentistry Faces Challenges",
+        "neutral_headline": "NHS Dentistry Faces Significant Challenges",
         "items": [
           {
             "source": "BBC Health",
@@ -480,19 +505,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc52/live/28ea5050-2769-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "NHS patients struggle to find dentists",
-          "Labour proposes a plan to fix issues",
-          "Not everyone is convinced by the plan",
-          "Patients face difficulties in accessing care",
-          "NHS dentistry requires significant improvement"
+          "NHS dentistry is struggling to meet patient needs",
+          "Patients face difficulties finding NHS dentists",
+          "Labour proposes a plan to fix NHS dentistry",
+          "Plan aims to improve access to dental care",
+          "Success of the plan is uncertain and debated"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Wed, 25 Mar 2026 00:01:52 GMT",
         "title": "More frequent ejaculations may boost men’s fertility, research suggests",
-        "neutral_headline": "Frequent Ejaculations May Boost Fertility",
+        "neutral_headline": "Frequent Ejaculations May Boost Men's Fertility",
         "items": [
           {
             "source": "Guardian Health",
@@ -501,19 +526,19 @@
             "title": "More frequent ejaculations may boost men’s fertility, research suggests",
             "standfirst": "Need for abstinence before fertility treatment questioned as study finds sperm deteriorates as it stays in bodyEncouraging men to have more frequent ejaculations may boost their fertility, according to researchers who found that sperm deteriorates over time as it remains in the body.The longer men went without sex, the more their sperm showed signs of DNA damage and oxidative stress, and the more tests rated the sperm as less viable and poorer swimmers. Continue reading...",
             "content": "Need for abstinence before fertility treatment questioned as study finds sperm deteriorates as it stays in bodyEncouraging men to have more frequent ejaculations may boost their fertility, according to researchers who found that sperm deteriorates over time as it remains in the body.The longer men went without sex, the more their sperm showed signs of DNA damage and oxidative stress, and the more tests rated the sperm as less viable and poorer swimmers. Continue reading...",
-            "feed_position": 5
+            "feed_position": 6
           }
         ],
         "ai_summary": [
-          "Research suggests frequent ejaculations help fertility",
-          "Sperm deteriorates over time in the body",
-          "DNA damage and oxidative stress increase",
-          "Sperm viability and swimming ability decrease",
-          "Abstinence before fertility treatment is questioned"
+          "Research suggests frequent ejaculations improve fertility",
+          "Sperm deteriorates over time if not ejaculated",
+          "Study finds DNA damage and oxidative stress increase",
+          "Frequent sex may be beneficial for male fertility",
+          "More research is needed to confirm the findings"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Wed, 25 Mar 2026 00:01:52 GMT",
         "title": "Polyurethane coating reduces implant complications after mastectomy, cancer study finds",
@@ -526,23 +551,23 @@
             "title": "Polyurethane coating reduces implant complications after mastectomy, cancer study finds",
             "standfirst": "Non-coated silicone implants found to lead to higher levels of scarring, infections and necessity for further operationsWomen with breast cancer who have reconstructive surgery after a mastectomy are much less likely to have complications if they have a polyurethane-coated implant, according to research.About 55,000 women are diagnosed with breast cancer in the UK every year, of whom about 30% have a mastectomy. Many of these will subsequently have radiotherapy. Continue reading...",
             "content": "Non-coated silicone implants found to lead to higher levels of scarring, infections and necessity for further operationsWomen with breast cancer who have reconstructive surgery after a mastectomy are much less likely to have complications if they have a polyurethane-coated implant, according to research.About 55,000 women are diagnosed with breast cancer in the UK every year, of whom about 30% have a mastectomy. Many of these will subsequently have radiotherapy. Continue reading...",
-            "feed_position": 6
+            "feed_position": 7
           }
         ],
         "ai_summary": [
-          "Polyurethane coating reduces implant complications",
-          "Non-coated implants lead to higher scarring rates",
-          "Infections and further operations are more common",
-          "Breast cancer patients benefit from coated implants",
-          "Coated implants improve reconstructive surgery outcomes"
+          "Polyurethane coating reduces complications after mastectomy",
+          "Non-coated implants lead to higher scarring and infections",
+          "Study finds significant benefits of polyurethane coating",
+          "Coating reduces need for further operations",
+          "Findings may improve breast cancer treatment outcomes"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Wed, 25 Mar 2026 00:01:52 GMT",
         "title": "Public satisfaction with the NHS rises for first time since 2019",
-        "neutral_headline": "Public Satisfaction With NHS Rises",
+        "neutral_headline": "Public Satisfaction With NHS Rises Slightly",
         "items": [
           {
             "source": "Guardian Health",
@@ -551,19 +576,19 @@
             "title": "Public satisfaction with the NHS rises for first time since 2019",
             "standfirst": "Wes Streeting set to hail result as proof of progress, but Britons remain frustrated with long waits for GP hospital carePublic satisfaction with the NHS has risen for the first time since 2019, but people remain deeply frustrated with stubbornly long waits to receive GP, A&E or hospital care.The proportion of voters in Great Britain satisfied with the way the NHS runs has increased from the record low of 21% seen last year to 26%. At the same time dissatisfaction with the health service fell 8% – the biggest drop since 1998 – although it remains high at 51%. Continue reading...",
             "content": "Wes Streeting set to hail result as proof of progress, but Britons remain frustrated with long waits for GP hospital carePublic satisfaction with the NHS has risen for the first time since 2019, but people remain deeply frustrated with stubbornly long waits to receive GP, A&E or hospital care.The proportion of voters in Great Britain satisfied with the way the NHS runs has increased from the record low of 21% seen last year to 26%. At the same time dissatisfaction with the health service fell 8% – the biggest drop since 1998 – although it remains high at 51%. Continue reading...",
-            "feed_position": 7
+            "feed_position": 8
           }
         ],
         "ai_summary": [
-          "Public satisfaction with NHS increases for first time",
-          "Satisfaction rises from 21 percent to 26 percent",
-          "Dissatisfaction with NHS remains high at 51 percent",
+          "Public satisfaction with NHS increases for first time since 2019",
+          "Satisfaction rates remain low despite the increase",
           "Long waits for GP and hospital care persist",
-          "NHS still faces significant challenges and frustrations"
+          "People remain frustrated with NHS services",
+          "Satisfaction rates vary across different services"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Wed, 25 Mar 2026 00:01:51 GMT",
         "title": "‘No one’s tried this before’: a new live music roster aims to ensure opportunities for disabled musicians",
@@ -576,19 +601,19 @@
             "title": "‘No one’s tried this before’: a new live music roster aims to ensure opportunities for disabled musicians",
             "standfirst": "UnMute has been founded to overhaul ableist booking practices, representing artists with specialist access requirements often deemed too costly by venues Musician Andrew Lansley hid his autism diagnosis for 10 years, scared of losing opportunities to perform if he asked for the adjustments he needed regarding lighting and noise controls. Now, the double bassist has created the UK’s first roster of disabled musicians, aiming to get artists with disabilities on to lineups and address the career barriers they face.Launched today, the UnMute roster has been developed with the hope it will make promoters, venues and festivals more comfortable in booking disabled artists. Continue reading...",
             "content": "UnMute has been founded to overhaul ableist booking practices, representing artists with specialist access requirements often deemed too costly by venues Musician Andrew Lansley hid his autism diagnosis for 10 years, scared of losing opportunities to perform if he asked for the adjustments he needed regarding lighting and noise controls. Now, the double bassist has created the UK’s first roster of disabled musicians, aiming to get artists with disabilities on to lineups and address the career barriers they face.Launched today, the UnMute roster has been developed with the hope it will make promoters, venues and festivals more comfortable in booking disabled artists. Continue reading...",
-            "feed_position": 8
+            "feed_position": 9
           }
         ],
         "ai_summary": [
-          "UnMute roster aims to support disabled musicians",
+          "UnMute roster aims to promote disabled musicians",
           "Roster addresses ableist booking practices",
-          "Disabled musicians face career barriers and costs",
-          "UnMute helps promoters book disabled artists",
-          "Roster launches with goal of increasing opportunities"
+          "Disabled musicians face career barriers and biases",
+          "UnMute seeks to increase opportunities for disabled artists",
+          "Roster launch is a positive step for inclusivity"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Tue, 24 Mar 2026 23:22:27 GMT",
         "title": "Influencers are promoting these three health tests – but they risk doing more harm than good",
@@ -601,23 +626,23 @@
             "title": "Influencers are promoting these three health tests – but they risk doing more harm than good",
             "standfirst": "Experts warn of ‘over-diagnosis’ dangers as social media prompts the worried well to seek out unnecessary and expensive scans and blood testsMedical tests are marketed on social media as a way to empower people to take control of their health, but experts are warning to be wary of the harms influencers don’t mention.Three controversial tests – full-body magnetic resonance imaging (MRI) scans, blood tests for testosterone levels and the Anti-Mullerian hormone (AMH) or “egg-timer” test, which surveys a woman’s egg count – are the focus of a campaign backed by the University of Sydney based on its own research trying to combat misinformation online. Continue reading...",
             "content": "Experts warn of ‘over-diagnosis’ dangers as social media prompts the worried well to seek out unnecessary and expensive scans and blood testsMedical tests are marketed on social media as a way to empower people to take control of their health, but experts are warning to be wary of the harms influencers don’t mention.Three controversial tests – full-body magnetic resonance imaging (MRI) scans, blood tests for testosterone levels and the Anti-Mullerian hormone (AMH) or “egg-timer” test, which surveys a woman’s egg count – are the focus of a campaign backed by the University of Sydney based on its own research trying to combat misinformation online. Continue reading...",
-            "feed_position": 9
+            "feed_position": 10
           }
         ],
         "ai_summary": [
-          "Influencers promote three controversial health tests",
+          "Influencers promote controversial health tests",
           "Experts warn of over-diagnosis and unnecessary tests",
-          "Full-body MRI scans and blood tests are questioned",
-          "Tests may do more harm than good for some people",
-          "Experts advise caution when considering these tests"
+          "Tests may do more harm than good for public health",
+          "Social media platforms must address misinformation",
+          "Accurate information is crucial for informed decisions"
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Tue, 24 Mar 2026 19:06:03 GMT",
         "title": "Judge sets $1 bail for Georgia woman charged with murder for taking abortion pills",
-        "neutral_headline": "Judge Sets $1 Bail For Georgia Woman",
+        "neutral_headline": "Judge sets $1 bail for Georgia woman charged with murder for taking abortion pills",
         "items": [
           {
             "source": "Guardian Health",
@@ -626,48 +651,21 @@
             "title": "Judge sets $1 bail for Georgia woman charged with murder for taking abortion pills",
             "standfirst": "Alexia Moore was arrested under a Georgia law that bans abortions after detection of embryonic cardiac activitySign up for the Breaking News US email to get newsletter alerts in your inboxA Georgia judge set a $1 bond for a woman facing murder charges tied to allegations she used abortion pills to end a pregnancy, potentially paving the way for a possible reduction or dismissal of charges.Alexia Moore, 31, was arrested by police in Savannah earlier this month on a warrant that echoed a 2019 Georgia law banning abortions after embryonic cardiac activity can be detected. Continue reading...",
             "content": "Alexia Moore was arrested under a Georgia law that bans abortions after detection of embryonic cardiac activitySign up for the Breaking News US email to get newsletter alerts in your inboxA Georgia judge set a $1 bond for a woman facing murder charges tied to allegations she used abortion pills to end a pregnancy, potentially paving the way for a possible reduction or dismissal of charges.Alexia Moore, 31, was arrested by police in Savannah earlier this month on a warrant that echoed a 2019 Georgia law banning abortions after embryonic cardiac activity can be detected. Continue reading...",
-            "feed_position": 10
+            "feed_position": 11
           }
         ],
         "ai_summary": [
-          "Alexia Moore faces murder charges for abortion pills",
-          "Georgia law bans abortions after embryonic cardiac activity",
-          "Judge sets $1 bond for the accused woman",
-          "Charges may be reduced or dismissed in the future",
-          "Case highlights controversy over abortion laws"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Tue, 24 Mar 2026 19:05:06 GMT",
-        "title": "Endangered butterfly count key to peat bog health",
-        "neutral_headline": "Endangered Butterfly Count Key To Peat Bog Health",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cqxlwvpnplgo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 24 Mar 2026 19:05:06 GMT",
-            "title": "Endangered butterfly count key to peat bog health",
-            "standfirst": "Could counting endangered large heath butterflies be used as an indicator of peatland health?",
-            "content": "Could counting endangered large heath butterflies be used as an indicator of peatland health?",
-            "feed_position": 6,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f64/live/6cb44b80-2753-11f1-ab40-153d5f019d38.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f64/live/6cb44b80-2753-11f1-ab40-153d5f019d38.jpg",
-        "ai_summary": [
-          "Endangered large heath butterflies indicate peatland health",
-          "Butterfly counts may be used as a health indicator",
-          "Peat bogs require conservation and protection efforts",
-          "Butterfly populations are affected by peatland conditions",
-          "Conservation efforts focus on preserving peatlands and butterflies"
+          "Alexia Moore faces murder charges for taking abortion pills",
+          "Judge sets $1 bail for Moore's release",
+          "Case highlights controversy over abortion laws",
+          "Moore's arrest sparks debate about reproductive rights",
+          "Outcome of the case may have significant implications"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-25T19:47:00.608Z",
+    "updated_at": "2026-03-25T23:35:40.385Z",
     "clusters": []
   }
 }
