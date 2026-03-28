@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-03-28T07:43:37.600Z",
+    "updated_at": "2026-03-28T11:28:41.793Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-28T07:43:51.183Z",
+    "updated_at": "2026-03-28T11:28:54.265Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/e8a6125f-4461-48a0-9dcc-0881ae014b70/DoHDA-reveals-2026-compliance-watchlist.aspx",
         "ai_summary": [
-          "DoHDA releases 2026 compliance watchlist",
-          "Compliance priorities include telehealth",
-          "Claiming MBS services while overseas",
-          "Care and management plans are prioritized",
-          "Compliance watchlist is released for 2026"
+          "The compliance watchlist includes telehealth",
+          "Claiming MBS services while overseas is targeted",
+          "Care and management plans are a priority",
+          "The watchlist is for 2026 compliance",
+          "The Department of Health is cracking down"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/1b4e3d44-93f1-40d1-854d-5b0209446fae/RACGP-rejects-call-for-nurse-practitioners-to-lead-UCCs.aspx",
         "ai_summary": [
-          "RACGP rejects nurse practitioner leadership",
-          "UCCs must remain GP led",
-          "Nursing college's call is dismissed",
-          "RACGP rejects call for change",
-          "UCCs will remain GP led"
+          "The RACGP dismissed the nursing college's call",
+          "Nurse practitioners will not lead UCCs independently",
+          "The RACGP says UCCs must remain GP-led",
+          "The nursing college made the call for change",
+          "The RACGP rejected the proposal"
         ]
       },
       {
@@ -80,24 +80,51 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/47ef791c-96a3-4a50-83bb-6316c2e96a66/A-tool-to-stem-the-antimicrobial-tide.aspx",
         "ai_summary": [
-          "Online toolbox helps GPs with antimicrobials",
-          "Toolbox is being trialled currently",
-          "GPs have crucial role in antimicrobials",
-          "Toolbox supports GPs in role",
-          "Antimicrobial tide is being addressed"
+          "GPs play a crucial role in antimicrobial stewardship",
+          "Online toolbox being trialled to support GPs",
+          "Toolbox aims to help reduce antimicrobial resistance",
+          "GPs are key to preventing antimicrobial misuse",
+          "Toolbox could improve patient outcomes"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-03-28T07:43:51.181Z",
+    "updated_at": "2026-03-28T11:28:54.297Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Sat, 28 Mar 2026 08:08:42 GMT",
+        "title": "Ultrasound delays putting pregnant women and cancer patients at risk, sonographers say",
+        "neutral_headline": "Ultrasound delays put patients at risk",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cd7jdp9gxjdo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 28 Mar 2026 08:08:42 GMT",
+            "title": "Ultrasound delays putting pregnant women and cancer patients at risk, sonographers say",
+            "standfirst": "Demand for ultrasound has increased but too few people are being trained for the job, sonographers warn.",
+            "content": "Demand for ultrasound has increased but too few people are being trained for the job, sonographers warn.",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/194c/live/be4c7f50-29e5-11f1-81d4-f1e3c77fafb4.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/194c/live/be4c7f50-29e5-11f1-81d4-f1e3c77fafb4.jpg",
+        "ai_summary": [
+          "Ultrasound delays affect pregnant women and cancer patients",
+          "Sonographers warn of increased demand and low training",
+          "Few people are being trained for sonography jobs",
+          "Delays can lead to poor health outcomes",
+          "Increased training is needed to meet demand"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
         "updated_at": "Sat, 28 Mar 2026 07:13:53 GMT",
         "title": "Exclusion zone set up to protect endangered birds",
-        "neutral_headline": "Exclusion Zone for Endangered Birds",
+        "neutral_headline": "Endangered birds protected by exclusion zone",
         "items": [
           {
             "source": "BBC Science",
@@ -112,19 +139,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f07/live/68277b00-2901-11f1-be8b-2136d1c912ba.jpg",
         "ai_summary": [
-          "Exclusion zone set up for birds",
-          "Isle of Man area is cordoned off",
-          "Endangered species are being protected",
-          "Nesting birds are being protected",
-          "Exclusion zone is in place"
+          "Exclusion zone set up on Isle of Man for nesting birds",
+          "Zone aims to protect endangered bird species",
+          "Birds are vulnerable to human disturbance",
+          "Exclusion zone will help reduce disturbance",
+          "Conservation efforts are in place to protect birds"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sat, 28 Mar 2026 00:15:07 GMT",
         "title": "Are UK students at risk of more deadly meningitis outbreaks?",
-        "neutral_headline": "Are UK students at risk of more deadly meningitis outbreaks",
+        "neutral_headline": "Meningitis outbreaks pose risk to UK students",
         "items": [
           {
             "source": "BBC Health",
@@ -139,19 +166,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7c8/live/632d9f00-2a3a-11f1-8e06-4f542a88d870.jpg",
         "ai_summary": [
-          "UK students at risk of meningitis",
-          "Worst outbreak seems to be over",
-          "Questions remain about meningitis outbreak",
-          "Outbreak could happen again",
-          "Students are at risk of meningitis"
+          "Meningitis outbreaks have occurred in UK universities",
+          "Questions remain about outbreak causes and prevention",
+          "Students are at risk of meningitis infection",
+          "Vaccination is available to prevent meningitis",
+          "Outbreaks can have serious health consequences"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 18:15:51 GMT",
         "title": "Screen time for under-fives should be limited to one hour a day, parents told",
-        "neutral_headline": "Screen time limited for under fives",
+        "neutral_headline": "Screen time limited for under-fives",
         "items": [
           {
             "source": "BBC Health",
@@ -160,25 +187,25 @@
             "title": "Screen time for under-fives should be limited to one hour a day, parents told",
             "standfirst": "New government guidance also suggests children under-two should not be watching screens alone.",
             "content": "New government guidance also suggests children under-two should not be watching screens alone.",
-            "feed_position": 2,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2173/live/dfb962c0-29a4-11f1-934f-036468834728.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2173/live/dfb962c0-29a4-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "Children under five should limit screen time",
-          "One hour of screen time per day recommended",
-          "Children under two should not watch screens alone",
-          "New government guidance issued for parents",
-          "Guidance aims to promote healthy habits"
+          "Children under five should limit screen time to one hour",
+          "Government guidance advises against solo screen time",
+          "Excessive screen time can harm child development",
+          "Parents should monitor and limit screen time",
+          "Screen time guidelines are in place for child health"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 17:37:19 GMT",
         "title": "Conversations about infertility are hard, but essential | Letters",
-        "neutral_headline": "Conversations about infertility are hard",
+        "neutral_headline": "Conversations about infertility are essential",
         "items": [
           {
             "source": "Guardian Health",
@@ -191,15 +218,15 @@
           }
         ],
         "ai_summary": [
-          "Infertility conversations are difficult to have",
-          "People need a vocabulary for infertility",
-          "Support and understanding are essential",
-          "Reassurance and positivity can be unhelpful",
-          "Infertility affects individuals and families"
+          "Infertility conversations can be difficult and uncomfortable",
+          "People need support and vocabulary to discuss infertility",
+          "Infertility affects many individuals and couples",
+          "Conversations can help raise awareness and understanding",
+          "Support is available for those experiencing infertility"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 16:29:38 GMT",
         "title": "Polio virus detected in London days before ministers cut global eradication funding",
@@ -216,15 +243,15 @@
           }
         ],
         "ai_summary": [
-          "Polio virus found in London sewage",
-          "Detection reveals funding cuts are shortsighted",
-          "Polio is an infectious viral disease",
-          "It can cause paralysis and be life threatening",
-          "Funding cuts increase risk to the public"
+          "Polio virus found in London sewage for second time",
+          "Detection reveals risk to UK public health",
+          "Funding cuts may increase polio risk",
+          "Polio is a highly infectious and potentially life-threatening disease",
+          "Global eradication efforts are necessary to prevent polio"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 12:38:08 GMT",
         "title": "The first colour photo of Earth from the Moon",
@@ -243,19 +270,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9540/live/b5ded7a0-29d1-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "Apollo 8 mission took first colour photo",
-          "Photo shows Earth from the Moon's surface",
-          "Witness History tells the story of the mission",
-          "The photo is a historic moment in space",
-          "It was taken in 1968"
+          "Apollo 8 mission took first colour photo of Earth",
+          "Photo was taken in 1968 from the Moon's surface",
+          "Mission marked a historic moment in space exploration",
+          "Photo showed Earth as a single, unified entity",
+          "Apollo 8 mission paved the way for future space travel"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 09:45:38 GMT",
         "title": "How Cornwall is helping Nasa's deep space mission",
-        "neutral_headline": "Cornwall helps Nasa deep space mission",
+        "neutral_headline": "Cornwall helps Nasa's deep space mission",
         "items": [
           {
             "source": "BBC Science",
@@ -270,19 +297,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3a4/live/70167570-2918-11f1-babf-516204a6f1ce.jpg",
         "ai_summary": [
-          "Nasa's Artemis II mission launches soon",
-          "Goonhilly Earth Station tracks the mission",
-          "The station is near Helston in Cornwall",
-          "The mission is a significant step for space",
-          "Nasa is working towards deep space exploration"
+          "Goonhilly Earth Station in Cornwall tracks Nasa missions",
+          "Station will track Artemis II mission in April",
+          "Mission aims to return humans to the Moon",
+          "Cornwall's location makes it ideal for space tracking",
+          "Nasa relies on international partnerships for space exploration"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 06:20:54 GMT",
         "title": "Released beavers settle after year of ups and downs",
-        "neutral_headline": "Released beavers settle after year",
+        "neutral_headline": "Released beavers settle in nature reserve",
         "items": [
           {
             "source": "BBC Science",
@@ -297,19 +324,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27ff/live/16b38df0-2865-11f1-b297-95b0a0a8331e.jpg",
         "ai_summary": [
-          "Beavers were released at a nature reserve",
-          "Conservationists monitor their progress",
-          "The beavers have settled after a year",
-          "They are an important part of the ecosystem",
-          "Their release aims to promote biodiversity"
+          "Beavers released in Dorset nature reserve last year",
+          "Beavers are adapting to their new environment",
+          "Conservationists monitor beaver activity and health",
+          "Beavers play a crucial role in ecosystem engineering",
+          "Nature reserve provides a safe habitat for beavers"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 06:04:08 GMT",
         "title": "Our daughter battled Meningitis B despite being vaccinated in 'very rare' case",
-        "neutral_headline": "Daughter battled Meningitis B despite vaccination",
+        "neutral_headline": "Vaccinated child battles Meningitis B",
         "items": [
           {
             "source": "BBC Health",
@@ -318,25 +345,25 @@
             "title": "Our daughter battled Meningitis B despite being vaccinated in 'very rare' case",
             "standfirst": "After Noa-Rose became critically ill, the four-year-old spent two weeks fighting for her life.",
             "content": "After Noa-Rose became critically ill, the four-year-old spent two weeks fighting for her life.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3792/live/505bec90-29bf-11f1-952c-77491ff53aff.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3792/live/505bec90-29bf-11f1-952c-77491ff53aff.jpg",
         "ai_summary": [
-          "Noa-Rose contracted Meningitis B despite vaccination",
-          "She spent two weeks fighting for her life",
-          "The case is very rare and unusual",
-          "Meningitis B is a serious and infectious disease",
-          "Vaccination is crucial for prevention"
+          "Four-year-old girl contracted Meningitis B despite vaccination",
+          "Case is considered very rare and unusual",
+          "Girl spent two weeks in hospital recovering",
+          "Vaccination is still effective in preventing Meningitis B",
+          "Rare cases can still occur despite vaccination"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 22:38:33 GMT",
         "title": "Trump’s Maha agenda stalled as top CDC and surgeon general roles sit empty",
-        "neutral_headline": "Trump’s Maha agenda stalled",
+        "neutral_headline": "Trump's health agenda stalled",
         "items": [
           {
             "source": "Guardian Health",
@@ -349,19 +376,19 @@
           }
         ],
         "ai_summary": [
-          "Trump has not nominated a CDC director",
-          "The surgeon general role is also empty",
-          "The Maha agenda is stalled as a result",
-          "The CDC and surgeon general are key roles",
-          "The lack of nominees affects public health"
+          "CDC director and surgeon general roles remain empty",
+          "Trump's \"Make America healthy again\" agenda is stalled",
+          "CDC and surgeon general play key roles in public health",
+          "Empty positions can hinder public health efforts",
+          "Nominations and confirmations are necessary to fill roles"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 21:00:00 GMT",
         "title": "BBC Inside Science",
-        "neutral_headline": "Nuclear powered spacecraft promises deeper space travel",
+        "neutral_headline": "Nuclear-powered spacecraft promises deep space travel",
         "items": [
           {
             "source": "BBC Science",
@@ -376,19 +403,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
         "ai_summary": [
-          "A new spacecraft uses nuclear power",
-          "It promises deeper and more explorative travel",
-          "The spacecraft is a significant development",
-          "It could lead to new discoveries and exploration",
-          "Nuclear power is a key component"
+          "Nuclear-powered spacecraft can travel deeper into space",
+          "Spacecraft can explore more of the solar system",
+          "Nuclear power provides a reliable energy source",
+          "Spacecraft can carry more cargo and equipment",
+          "Nuclear-powered spacecraft can expand space exploration"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 20:14:20 GMT",
         "title": "NHS bosses say resident doctors’ strike will cause ‘maximum harm’",
-        "neutral_headline": "NHS bosses say doctors strike will cause harm",
+        "neutral_headline": "Resident doctors' strike to cause harm",
         "items": [
           {
             "source": "Guardian Health",
@@ -401,19 +428,19 @@
           }
         ],
         "ai_summary": [
-          "Resident doctors are striking for six days",
-          "NHS bosses say the strike will cause harm",
-          "The strike is over pay and jobs",
-          "The doctors are seeking better working conditions",
-          "The strike may affect patient care"
+          "Resident doctors plan to strike for six days",
+          "Strike is over pay and job disputes",
+          "NHS bosses warn of maximum harm to patients",
+          "Strike can lead to delayed or cancelled procedures",
+          "Negotiations are necessary to resolve disputes"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 18:50:38 GMT",
         "title": "The Guardian view on a recovering NHS: public confidence has risen, but not enough | Editorial",
-        "neutral_headline": "Public confidence in NHS has risen",
+        "neutral_headline": "The Guardian view on a recovering NHS",
         "items": [
           {
             "source": "Guardian Health",
@@ -426,19 +453,19 @@
           }
         ],
         "ai_summary": [
-          "Public satisfaction with the NHS has increased",
-          "The increase is a positive development",
-          "The NHS is a cherished institution",
-          "There are still ongoing problems to address",
-          "The health secretary has pledged further improvement"
+          "Public satisfaction with NHS has increased",
+          "Survey shows improvement in social care satisfaction",
+          "Health secretary pledges further improvement",
+          "NHS still faces challenges and problems",
+          "Ongoing efforts are needed to improve NHS services"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 18:35:38 GMT",
         "title": "Weekly quiz: What sneaky snack was this bird of prey seen carrying?",
-        "neutral_headline": "Weekly quiz on world events",
+        "neutral_headline": "Bird of prey seen carrying sneaky snack",
         "items": [
           {
             "source": "BBC Science",
@@ -453,19 +480,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf4c/live/e9b9d650-2932-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "The quiz tests knowledge of current events",
-          "It covers a range of topics and stories",
-          "The quiz is a fun and interactive way",
-          "To learn about what happened in the world",
-          "It is a weekly feature"
+          "Bird of prey spotted with unusual food",
+          "Type of food not specified in the report",
+          "Bird of prey species not identified",
+          "Incident occurred in the past week",
+          "No further details provided"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 18:03:09 GMT",
         "title": "Owner blocks 'Rainham volcano' fix, council says",
-        "neutral_headline": "Owner blocks fix for Rainham volcano",
+        "neutral_headline": "Owner blocks Rainham volcano fix",
         "items": [
           {
             "source": "BBC Science",
@@ -480,19 +507,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b8c/live/16bce050-f2fd-11f0-b385-5f48925de19a.jpg",
         "ai_summary": [
-          "The Rainham volcano is a persistent problem",
-          "The owner is blocking a fix for the issue",
-          "Repeated fires have plagued residents",
-          "The council is seeking a solution",
-          "The issue affects local residents and environment"
+          "Repeated fires occur at Arnolds Field",
+          "Location is in Launders Lane, Rainham",
+          "Residents have been plagued for years",
+          "Council is involved in the situation",
+          "No solution has been implemented yet"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 18:00:48 GMT",
         "title": "UK politics: Trump says UK’s aircraft carriers are just ‘toys’ – as it happened",
-        "neutral_headline": "UK politics Trump says UK aircraft carriers are toys",
+        "neutral_headline": "UK politics: Trump says UK’s aircraft carriers are just ‘toys’ – as it happened",
         "items": [
           {
             "source": "Guardian Health",
@@ -505,19 +532,19 @@
           }
         ],
         "ai_summary": [
-          "Trump made comments about UK aircraft carriers",
-          "He said they are just toys",
-          "The comments were part of a broader address",
-          "Trump condemned Nato allies",
-          "The comments are a significant development"
+          "Trump commented on UK aircraft carriers",
+          "Comments were part of a broader address",
+          "Trump condemned Nato allies in speech",
+          "Conservative party proposes new law",
+          "Law would ban foreign language campaign materials"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 16:48:44 GMT",
         "title": "When family ties become a dreadful burden | Letters",
-        "neutral_headline": "When family ties become a dreadful burden",
+        "neutral_headline": "Family ties become a dreadful burden",
         "items": [
           {
             "source": "Guardian Health",
@@ -530,15 +557,15 @@
           }
         ],
         "ai_summary": [
-          "Caring for parents can be a burden",
-          "Complicated relationships make it harder",
-          "Changes to social care support are needed",
-          "Unpaid family carers provide essential support",
-          "They deserve recognition and assistance"
+          "Caring for parents can be challenging",
+          "Complicated relationships add to burden",
+          "Social care support funding needs change",
+          "Unpaid family carers provide daily support",
+          "Professional care options are insufficient"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 16:48:25 GMT",
         "title": "Coming across a terrible dilemma | Brief letters",
@@ -555,19 +582,19 @@
           }
         ],
         "ai_summary": [
-          "Men's fertility may increase with frequent ejaculations",
-          "Extra sleep reduces heart attack risk",
-          "Stress affects heart attack risk",
-          "Sleep deprivation is a concern",
-          "Heart health is closely monitored"
+          "Frequent ejaculations may boost fertility",
+          "Extra sleep can reduce heart attack risk",
+          "Readers share concerns about stress impact",
+          "Sleep and ejaculation have opposing benefits",
+          "No clear solution to the dilemma exists"
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 15:00:14 GMT",
         "title": "Trail hunt ban moves closer as consultation begins",
-        "neutral_headline": "Trail hunt ban moves closer as consultation begins",
+        "neutral_headline": "Trail hunt ban moves closer",
         "items": [
           {
             "source": "BBC Science",
@@ -582,44 +609,17 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9e1/live/51be9ad0-2904-11f1-8d7b-c7ea0e92917e.jpg",
         "ai_summary": [
-          "Animal welfare campaigners support the ban",
-          "Trail hunting ban is a pivotal moment",
-          "Consultation on trail hunting has started",
-          "Ban aims to protect animal welfare",
-          "Campaigners welcome the consultation"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 26 Mar 2026 11:01:54 GMT",
-        "title": "When is Nasa's Moon mission launch and what will Artemis do?",
-        "neutral_headline": "When is Nasa's Moon mission launch and what will Artemis do",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 26 Mar 2026 11:01:54 GMT",
-            "title": "When is Nasa's Moon mission launch and what will Artemis do?",
-            "standfirst": "The first crewed Moon mission in 50 years could launch in April, ahead of a future lunar landing.",
-            "content": "The first crewed Moon mission in 50 years could launch in April, ahead of a future lunar landing.",
-            "feed_position": 13,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a00/live/e35f0660-ed44-11f0-8cc8-8329494b82ad.png"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a00/live/e35f0660-ed44-11f0-8cc8-8329494b82ad.png",
-        "ai_summary": [
-          "Nasa's Moon mission launch is in April",
-          "Artemis is a crewed Moon mission",
-          "Lunar landing is a future goal",
-          "Mission launch is after 50 years",
-          "Nasa plans a lunar landing soon"
+          "Consultation on trail hunt ban begins",
+          "Animal welfare campaigners welcome move",
+          "Ban on trail hunting is a pivotal moment",
+          "Campaigners push for animal welfare laws",
+          "Outcome of the consultation is pending"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-28T07:43:51.183Z",
+    "updated_at": "2026-03-28T11:28:54.297Z",
     "clusters": []
   }
 }
