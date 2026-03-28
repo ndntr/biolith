@@ -1,12 +1,50 @@
 {
-  "updated_at": "2026-03-27T23:33:42.585Z",
+  "updated_at": "2026-03-28T04:53:05.645Z",
   "clusters": [
     {
-      "id": "cluster_86",
-      "coverage": 3,
+      "id": "cluster_7",
+      "coverage": 2,
+      "updated_at": "Fri, 27 Mar 2026 19:45:00 -0400",
+      "title": "NeurIPS reverses a policy change that would have banned papers from researchers at any entity under US sanctions, after backlash from Chinese researchers (Eduardo Baptista/Reuters)",
+      "neutral_headline": "NeurIPS Reverses Policy Change After Backlash",
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "http://www.techmeme.com/260327/p27#a260327p27",
+          "published_at": "Fri, 27 Mar 2026 19:45:00 -0400",
+          "title": "NeurIPS reverses a policy change that would have banned papers from researchers at any entity under US sanctions, after backlash from Chinese researchers (Eduardo Baptista/Reuters)",
+          "standfirst": "Eduardo Baptista / Reuters: NeurIPS reverses a policy change that would have banned papers from researchers at any entity under US sanctions, after backlash from Chinese researchers &mdash; A leading artificial intelligence conference on Friday reversed a policy change that would have banned papers from researchers &hellip;",
+          "content": "Eduardo Baptista / Reuters: NeurIPS reverses a policy change that would have banned papers from researchers at any entity under US sanctions, after backlash from Chinese researchers &mdash; A leading artificial intelligence conference on Friday reversed a policy change that would have banned papers from researchers &hellip;",
+          "feed_position": 5,
+          "image_url": "http://www.techmeme.com/260327/i27.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+          "published_at": "Fri, 27 Mar 2026 21:46:39 +0000",
+          "title": "AI Research Is Getting Harder to Separate From Geopolitics",
+          "standfirst": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
+          "content": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
+          "feed_position": 0,
+          "image_url": "https://media.wired.com/photos/69c6b7c2b1e88611bd972d9a/master/pass/Made-In-China-AI-Research-Is-Starting-to-Split-Along-Geopolitical-Lines-Business-2246178146.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260327/i27.jpg",
+      "popularity_score": 2014.865098611111,
+      "ai_summary": [
+        "NeurIPS reverses policy change on researcher sanctions",
+        "Chinese researchers protest against initial policy change",
+        "Conference organizers respond to community concerns",
+        "Researchers from sanctioned entities can now participate",
+        "NeurIPS aims to promote inclusivity and academic freedom"
+      ]
+    },
+    {
+      "id": "cluster_87",
+      "coverage": 2,
       "updated_at": "Fri, 27 Mar 2026 13:16:40 +0000",
       "title": "Senators want US energy information agency to monitor data center electricity usage",
-      "neutral_headline": "Senators Press For Data Center Electricity Disclosure",
+      "neutral_headline": "Senators Demand Data Center Electricity Disclosure",
       "items": [
         {
           "source": "Ars Technica",
@@ -17,15 +55,6 @@
           "content": "Democratic Senator Elizabeth Warren and Republican Senator Josh Hawley are urging the US’s central energy information agency to provide better information on how much electricity data centers actually use. In a joint letter sent to the Energy Information Administration Thursday morning, seen by WIRED, Hawley and Warren press the agency to publicly collect “comprehensive, annual energy-use disclosures” on data centers. This information, they write, is “essential for accurate grid planning and will support policymaking to prevent large companies from increasing electricity costs for American families.” As the data center boom spreads across the country, there have been widespread worries from voters about how their massive energy needs may increase consumers’ electric bills; this concern helped shape some midterm elections in data-center-heavy states, including Virginia and Georgia. Last month, Hawley cosponsored a bill with Democratic Senator Richard Blumenthal that would require data centers to supply their own power sources in order to protect consumers. Earlier this month, Donald Trump convened a group of executives from Big Tech companies at the White House to sign a nonbinding (and toothless) agreement pledging to pay for their own power for data centers.Read full article Comments",
           "feed_position": 11,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/GettyImages-1139755656-1152x648.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
-          "published_at": "Thu, 26 Mar 2026 18:23:31 +0000",
-          "title": "Data centers get ready — the Senate wants to see your power bills",
-          "standfirst": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
-          "content": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
-          "feed_position": 18
         },
         {
           "source": "Wired Tech",
@@ -39,17 +68,17 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/GettyImages-1139755656-1152x648.jpg",
-      "popularity_score": 3009.715948611111,
+      "popularity_score": 2004.392876388889,
       "ai_summary": [
-        "Senators want annual electricity disclosure for data centers",
-        "Energy Information Administration will gather data",
-        "Data centers' power usage affects the grid",
-        "Senators Josh Hawley and Elizabeth Warren lead effort",
-        "Mandatory disclosure is being pressed for"
+        "Senators press for annual electricity usage disclosure",
+        "Data centers consume large amounts of energy",
+        "Senators want to monitor and reduce energy consumption",
+        "Disclosure will help track and manage energy usage",
+        "Data centers must report their electricity usage annually"
       ]
     },
     {
-      "id": "cluster_13",
+      "id": "cluster_21",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 21:53:45 +0000",
       "title": "With new plugins feature, OpenAI officially takes Codex beyond coding",
@@ -67,21 +96,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/codex-plugins-1152x648.jpg",
-      "popularity_score": 356.33400416666666,
+      "popularity_score": 351.01093194444445,
       "ai_summary": [
         "OpenAI introduces new plugins feature for Codex",
-        "Codex expands beyond coding capabilities",
-        "Competitors have offered similar features",
-        "OpenAI moves fast with new developments",
-        "Codex has new possibilities with plugins"
+        "Codex now goes beyond coding and programming",
+        "Feature allows for more versatile and creative uses",
+        "OpenAI competes with other AI research and development",
+        "Codex expansion offers new possibilities for users"
       ]
     },
     {
-      "id": "cluster_8",
+      "id": "cluster_16",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 22:09:00 +0000",
       "title": "Playing Wolfenstein 3D with one hand in 2026",
-      "neutral_headline": "Playing Wolfenstein 3D With One Hand",
+      "neutral_headline": "Wolfenstein 3D Still Played With One Hand",
       "items": [
         {
           "source": "Ars Technica",
@@ -95,21 +124,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/wofl3d-1.jpg",
-      "popularity_score": 348.5881708333333,
+      "popularity_score": 343.2650986111111,
       "ai_summary": [
-        "Wolfenstein 3D played with one hand in 2026",
-        "Game has rough edges after three decades",
-        "Historical curiosity sparks interest",
-        "One-handed play is a unique challenge",
-        "Game's age shows in its roughness"
+        "Wolfenstein 3D is played with one hand in 2026",
+        "Game is over three decades old and still popular",
+        "Player uses unique controller and gaming setup",
+        "Game has rough edges but remains a historical curiosity",
+        "One-handed gaming is a challenging and impressive feat"
       ]
     },
     {
-      "id": "cluster_19",
+      "id": "cluster_26",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 21:43:00 +0000",
       "title": "Outbreak linked to raw cheese grows; 9 cases total, one with kidney failure",
-      "neutral_headline": "Raw Cheese Outbreak Grows To 9 Cases",
+      "neutral_headline": "Raw Cheese Outbreak Grows And Spreads",
       "items": [
         {
           "source": "Ars Technica",
@@ -123,21 +152,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/RAW-FARM-Raw-Cheddar-Cheese-Label.png",
-      "popularity_score": 346.1548375,
+      "popularity_score": 340.8317652777778,
       "ai_summary": [
         "Outbreak linked to raw cheese grows to 9 cases",
-        "One case results in kidney failure",
-        "Raw Farm denies link to illnesses",
-        "Patients identify Raw Farm products",
-        "Illnesses are a concern for public health"
+        "One case results in kidney failure and serious illness",
+        "Raw Farm denies link to illnesses despite patient reports",
+        "Patients identify Raw Farm products as cause of illness",
+        "Investigation into outbreak and raw cheese continues"
       ]
     },
     {
-      "id": "cluster_26",
+      "id": "cluster_33",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 21:10:25 +0000",
       "title": "Judge irate as defendant joins by Zoom while driving—then lies about it",
-      "neutral_headline": "Defendant Joins Court Via Zoom While Driving",
+      "neutral_headline": "Judge Reacts To Defendant Driving During Zoom",
       "items": [
         {
           "source": "Ars Technica",
@@ -151,17 +180,17 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1407642057-1152x648-1774644559.jpg",
-      "popularity_score": 320.61178194444443,
+      "popularity_score": 315.2887097222222,
       "ai_summary": [
-        "Defendant joins court via Zoom while driving",
-        "Defendant lies about driving during Zoom call",
-        "Judge is irate at defendant's actions",
-        "Defendant's actions are considered disrespectful",
-        "Court proceedings are disrupted by defendant"
+        "Defendant joins court hearing by Zoom while driving",
+        "Defendant lies about driving and tries to hide it",
+        "Judge becomes irate and demands to see the driver",
+        "Defendant's actions are considered contempt of court",
+        "Judge emphasizes the importance of honesty and respect"
       ]
     },
     {
-      "id": "cluster_67",
+      "id": "cluster_69",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 16:24:05 +0000",
       "title": "DOJ confirms FBI Director Kash Patel’s personal email was hacked",
@@ -179,21 +208,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266689842-1024x648.jpg",
-      "popularity_score": 310.83955972222225,
+      "popularity_score": 305.5164875,
       "ai_summary": [
         "FBI Director Kash Patel's personal email is hacked",
-        "Hackers claim attack is retaliation",
-        "Patel vowed to hunt hackers previously",
-        "Hackers target high-profile individuals",
-        "Email hacking is a security concern"
+        "Hackers claim attack is retaliation for Patel's vows",
+        "Patel vowed to hunt and prosecute hackers",
+        "Hackers access and release sensitive information",
+        "FBI investigates and responds to email hacking incident"
       ]
     },
     {
-      "id": "cluster_33",
+      "id": "cluster_40",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 20:31:21 +0000",
       "title": "AV1’s open, royalty-free promise in question as Dolby sues Snapchat over codec",
-      "neutral_headline": "Dolby Sues Snapchat Over AV1 Codec",
+      "neutral_headline": "AV1’s Open Royalty-Free Promise In Question",
       "items": [
         {
           "source": "Ars Technica",
@@ -207,21 +236,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2259062605-1024x648.jpg",
-      "popularity_score": 309.9606708333333,
+      "popularity_score": 304.6375986111111,
       "ai_summary": [
         "Dolby sues Snapchat over AV1 codec usage",
-        "AV1's royalty-free promise is questioned",
-        "Big Tech declares AV1 royalty-free",
-        "Lawsuit challenges AV1's royalty-free status",
-        "Codec usage is a point of contention"
+        "AV1's royalty-free promise is disputed and challenged",
+        "Big Tech companies declare AV1 as royalty-free",
+        "Dolby claims AV1 infringes on their patents and rights",
+        "Lawsuit raises questions about AV1's future and usage"
       ]
     },
     {
-      "id": "cluster_39",
+      "id": "cluster_46",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 19:49:18 +0000",
       "title": "Hegseth, Trump had no authority to order Anthropic to be blacklisted, judge says",
-      "neutral_headline": "Judge Says Trump Had No Authority To Blacklist",
+      "neutral_headline": "Judge says Trump had no authority to blacklist Anthropic",
       "items": [
         {
           "source": "Ars Technica",
@@ -235,21 +264,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2267370596-1024x648.jpg",
-      "popularity_score": 299.2598375,
+      "popularity_score": 293.9367652777778,
       "ai_summary": [
-        "Judge says Trump had no authority to blacklist",
-        "Anthropic blacklisting is deemed unjustified",
-        "Department of War fails to justify action",
-        "Blacklisting is a controversial topic",
-        "Authority is a key issue in the case"
+        "Department of War failed to justify blacklisting Anthropic",
+        "Judge questioned the authority of the order",
+        "Anthropic was ordered to be blacklisted",
+        "The Department of War did not provide justification",
+        "The judge expressed uncertainty about the situation"
       ]
     },
     {
-      "id": "cluster_68",
+      "id": "cluster_70",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 15:57:40 +0000",
       "title": "Sony is raising PlayStation 5 prices again, this time by between $100 and $150",
-      "neutral_headline": "Sony Raises PlayStation 5 Prices",
+      "neutral_headline": "Sony raises PlayStation 5 prices again",
       "items": [
         {
           "source": "Ars Technica",
@@ -263,21 +292,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/ps-logo-1152x648.jpg",
-      "popularity_score": 290.39928194444445,
+      "popularity_score": 285.07620972222225,
       "ai_summary": [
-        "Sony raises PlayStation 5 prices again",
-        "Price increase is due to memory shortages",
-        "Storage shortages affect consumer tech",
-        "Price hike is up to $150",
-        "Shortages drive up prices"
+        "Price increase is between $100 and $150",
+        "Memory and storage shortages caused the increase",
+        "Consumer tech prices have increased overall",
+        "The price hike affects all PlayStation 5 models",
+        "Shortages have impacted the tech industry"
       ]
     },
     {
-      "id": "cluster_72",
+      "id": "cluster_73",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 15:42:35 +0000",
       "title": "No one is happy with NASA's new idea for private space stations",
-      "neutral_headline": "NASA's Private Space Station Idea Criticized",
+      "neutral_headline": "NASA's private space station idea faces criticism",
       "items": [
         {
           "source": "Ars Technica",
@@ -291,21 +320,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/core-module-1152x648-1774629991.jpg",
-      "popularity_score": 273.1478930555555,
+      "popularity_score": 267.8248208333333,
       "ai_summary": [
-        "NASA's private space station idea is criticized",
-        "Idea is met with dissatisfaction",
-        "Comparison is made to Lucy and Charlie Brown",
-        "NASA's plan is not well-received",
-        "Criticism comes from various parties"
+        "NASA's idea is compared to Lucy and Charlie Brown",
+        "The idea is met with dissatisfaction from many",
+        "Private space stations are part of the plan",
+        "NASA's concept is not well received",
+        "Critics are unhappy with the proposal"
       ]
     },
     {
-      "id": "cluster_78",
+      "id": "cluster_79",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 14:47:03 +0000",
       "title": "Apple pulls the plug on its high-priced, oft-neglected Mac Pro desktop",
-      "neutral_headline": "Apple Discontinues Mac Pro Desktop",
+      "neutral_headline": "Apple discontinues high priced Mac Pro desktop",
       "items": [
         {
           "source": "Ars Technica",
@@ -319,21 +348,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Mac-Pro-main-view-scaled-1-1152x648-1774591771.jpg",
-      "popularity_score": 266.2223375,
+      "popularity_score": 260.8992652777778,
       "ai_summary": [
-        "Apple pulls the plug on Mac Pro desktop",
         "M2 Ultra Mac Pro is no longer for sale",
-        "No replacement is planned for Mac Pro",
-        "Apple discontinues high-priced product",
-        "Mac Pro is no longer available"
+        "Apple has no plans to replace the Mac Pro",
+        "The Mac Pro was a high priced desktop",
+        "Apple has ended sales of the Mac Pro",
+        "No replacement is planned by Apple"
       ]
     },
     {
-      "id": "cluster_131",
+      "id": "cluster_132",
       "coverage": 1,
       "updated_at": "Thu, 26 Mar 2026 20:30:48 +0000",
       "title": "Netflix raises prices for every subscription tier by up to 12.5 percent",
-      "neutral_headline": "Netflix Raises Subscription Prices",
+      "neutral_headline": "Netflix raises subscription prices by up to 12 percent",
       "items": [
         {
           "source": "Ars Technica",
@@ -349,19 +378,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2019/07/Stranger-Things-3-trailer.png",
       "popularity_score": 154,
       "ai_summary": [
-        "Netflix raises prices for all subscription tiers",
-        "Price increase is up to 12.5 percent",
+        "Price increase affects every subscription tier",
+        "The increase is up to 12.5 percent",
         "Netflix last raised prices in January 2025",
-        "Price hike affects all subscribers",
-        "Increase is a significant change"
+        "The price hike is across all subscription plans",
+        "The increase is effective immediately"
       ]
     },
     {
-      "id": "cluster_81",
+      "id": "cluster_82",
       "coverage": 1,
       "updated_at": "Fri, 27 Mar 2026 13:53:18 +0000",
       "title": "Rivian and VW Group complete winter testing of new zonal architecture",
-      "neutral_headline": "Rivian And VW Complete Winter Testing",
+      "neutral_headline": "Rivian and VW complete winter testing",
       "items": [
         {
           "source": "Ars Technica",
@@ -375,49 +404,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/B2026CW00095-1152x648.jpg",
-      "popularity_score": 148.32650416666667,
+      "popularity_score": 143.00343194444446,
       "ai_summary": [
-        "Rivian and VW complete winter testing",
-        "New zonal architecture is tested",
-        "RV Tech joint venture passes milestone",
-        "$1 billion is opened up for Rivian",
-        "Testing is a key step in development"
+        "Rivian and VW Group completed winter testing",
+        "The RV Tech joint venture passed a milestone",
+        "The testing opens up $1 billion for Rivian",
+        "The joint venture is a key partnership",
+        "The testing was a key milestone for Rivian"
       ]
     },
     {
-      "id": "cluster_89",
-      "coverage": 1,
-      "updated_at": "Fri, 27 Mar 2026 12:35:40 +0000",
-      "title": "Rocket Report: Russia reopens gateway to ISS; Cape Canaveral hosts missile test",
-      "neutral_headline": "Russia Reopens Gateway To International Space Station",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/03/rocket-report-russian-megaconstellation-takes-off-isar-preps-for-second-launch/",
-          "published_at": "Fri, 27 Mar 2026 12:35:40 +0000",
-          "title": "Rocket Report: Russia reopens gateway to ISS; Cape Canaveral hosts missile test",
-          "standfirst": "The US Space Force might move additional payloads off of ULA's grounded Vulcan rocket.",
-          "content": "Welcome to Edition 8.35 of the Rocket Report! The headlines this week are again dominated by the big changes afoot in NASA's exploration program, with the announcement of a Moon base and a nuclear-powered rocket to Mars. The shakeups come as the agency is just a week away from launching Artemis II, a circumlunar flight carrying a crew of four around the Moon. The Ars space team will be writing extensively about this mission in the days ahead, and we may skip the Rocket Report next week to focus on our Artemis II coverage. As always, we welcome reader submissions. If you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar. NASA announces nuclear rocket demo. NASA's announcement Tuesday that it will \"pause\" work on a lunar space station and focus on building a surface base on the Moon was no big surprise to anyone paying attention to the Trump administration’s space policy. But what should NASA do with hardware already built for the Gateway outpost? NASA spent close to $4.5 billion on developing a human-tended complex in orbit around the Moon since the Gateway program’s official start in 2019. There are pieces of the station undergoing construction and testing in factories scattered around the world. The centerpiece of Gateway, called the Power and Propulsion Element, is closest to being ready for launch. NASA’s rejigged exploration roadmap, revealed Tuesday in an all-day event at NASA headquarters in Washington, calls for repurposing the core module for a nuclear-electric propulsion demonstration in deep space, Ars reports.Read full article Comments",
-          "feed_position": 13,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1152x648-1774582700.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1152x648-1774582700.jpg",
-      "popularity_score": 147.03261527777778,
-      "ai_summary": [
-        "Russia reopens gateway to International Space Station",
-        "US Space Force considers moving payloads off ULA Vulcan",
-        "Cape Canaveral hosts missile test for US Space Force",
-        "Vulcan rocket remains grounded due to technical issues",
-        "US Space Force evaluates alternative launch options"
-      ]
-    },
-    {
-      "id": "cluster_127",
+      "id": "cluster_128",
       "coverage": 1,
       "updated_at": "Thu, 26 Mar 2026 21:04:31 +0000",
       "title": "Internet Yiff Machine: We hacked 93GB of \"anonymous\" crime tips",
-      "neutral_headline": "Ultra Sensitive Data May Have Been Hacked",
+      "neutral_headline": "Ultra sensitive crime tips may have been hacked",
       "items": [
         {
           "source": "Ars Technica",
@@ -433,47 +434,47 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/p3-app-1152x648-1774557739.jpg",
       "popularity_score": 143,
       "ai_summary": [
-        "Hackers access 93GB of anonymous crime tips data",
-        "Ultra-sensitive data may have been compromised",
-        "Investigation into data breach is ongoing",
-        "Source of hack remains unknown at this time",
-        "Potential consequences of breach are being assessed"
+        "93GB of anonymous crime tips were hacked",
+        "Ultra sensitive data may have been compromised",
+        "The hack may have exposed sensitive information",
+        "The data was supposed to be anonymous",
+        "The hack is a significant security breach"
       ]
     },
     {
-      "id": "cluster_88",
+      "id": "cluster_90",
       "coverage": 1,
-      "updated_at": "Fri, 27 Mar 2026 12:44:12 +0000",
-      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
-      "neutral_headline": "AMD Releases Ryzen 9 9950X3D2 Dual Edition Chip",
+      "updated_at": "Fri, 27 Mar 2026 12:35:40 +0000",
+      "title": "Rocket Report: Russia reopens gateway to ISS; Cape Canaveral hosts missile test",
+      "neutral_headline": "Russia reopens gateway to ISS",
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
-          "published_at": "Fri, 27 Mar 2026 12:44:12 +0000",
-          "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
-          "standfirst": "Both of the chip's CPU dies will include 64MB of extra cache stacked beneath.",
-          "content": "For about four years now, AMD has offered special \"X3D\" variants of its high-end desktop processors with an extra 64MB of L3 cache attached, an addition that disproportionately benefits games. AMD calls this \"3D V-Cache\" because it stacks the cache directly on top of (for Ryzen 5000 and 7000) or beneath (for Ryzen 9000) the CPU die. The 12- and 16-core Ryzen chips have their CPU cores split between two silicon chiplets, which has historically made the 7900X3D, 7950X3D, 9900X3D, and 9950X3D a bit weird. One of their two CPU chiplets has the 64MB of 3D V-Cache attached, and one does not. AMD relies on its driver software to make sure that software that benefits from the extra cache is run on the V-Cache-enabled CPU cores, which usually works well but is occasionally error-prone. Enter the Ryzen 9 9950X3D2 Dual Edition, a mouthful of a chip that includes 64MB of 3D V-Cache on both processor dies, without the hybrid arrangement that has defined the other chips up until now. This gives the chip a grand total of 208MB of cache—16MB of L2 cache, the 32MB of L3 cache built into each of the two CPU dies (for a total of 64MB), and then another 64MB chunk of 3D V-Cache per die. In total, AMD says the new chip should be as much as 10 percent faster than the 9950X3D in games and other apps that benefit from the extra cache.Read full article Comments",
-          "feed_position": 12,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/9950x3d2-1152x648.jpeg"
+          "url": "https://arstechnica.com/space/2026/03/rocket-report-russian-megaconstellation-takes-off-isar-preps-for-second-launch/",
+          "published_at": "Fri, 27 Mar 2026 12:35:40 +0000",
+          "title": "Rocket Report: Russia reopens gateway to ISS; Cape Canaveral hosts missile test",
+          "standfirst": "The US Space Force might move additional payloads off of ULA's grounded Vulcan rocket.",
+          "content": "Welcome to Edition 8.35 of the Rocket Report! The headlines this week are again dominated by the big changes afoot in NASA's exploration program, with the announcement of a Moon base and a nuclear-powered rocket to Mars. The shakeups come as the agency is just a week away from launching Artemis II, a circumlunar flight carrying a crew of four around the Moon. The Ars space team will be writing extensively about this mission in the days ahead, and we may skip the Rocket Report next week to focus on our Artemis II coverage. As always, we welcome reader submissions. If you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar. NASA announces nuclear rocket demo. NASA's announcement Tuesday that it will \"pause\" work on a lunar space station and focus on building a surface base on the Moon was no big surprise to anyone paying attention to the Trump administration’s space policy. But what should NASA do with hardware already built for the Gateway outpost? NASA spent close to $4.5 billion on developing a human-tended complex in orbit around the Moon since the Gateway program’s official start in 2019. There are pieces of the station undergoing construction and testing in factories scattered around the world. The centerpiece of Gateway, called the Power and Propulsion Element, is closest to being ready for launch. NASA’s rejigged exploration roadmap, revealed Tuesday in an all-day event at NASA headquarters in Washington, calls for repurposing the core module for a nuclear-electric propulsion demonstration in deep space, Ars reports.Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1152x648-1774582700.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/9950x3d2-1152x648.jpeg",
-      "popularity_score": 142.1748375,
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1152x648-1774582700.jpg",
+      "popularity_score": 141.70954305555557,
       "ai_summary": [
-        "AMD releases Ryzen 9 9950X3D2 Dual Edition chip",
-        "Chip features 208MB of cache and 64MB extra cache",
-        "Both CPU dies include 64MB of extra cache stacked",
-        "Chip designed for high-performance computing tasks",
-        "AMD targets gamers and content creators with new chip"
+        "Russia has reopened the gateway to ISS",
+        "Cape Canaveral hosted a missile test",
+        "The US Space Force may move payloads",
+        "The Vulcan rocket is currently grounded",
+        "The US Space Force is considering options"
       ]
     },
     {
-      "id": "cluster_135",
+      "id": "cluster_136",
       "coverage": 1,
       "updated_at": "Thu, 26 Mar 2026 19:06:12 +0000",
       "title": "You've got $20,000 to spend on an EV: Here are some options",
-      "neutral_headline": "Electric Vehicle Options For 20000 Dollar Budget",
+      "neutral_headline": "EV options available for $20,000 budget",
       "items": [
         {
           "source": "Ars Technica",
@@ -489,19 +490,47 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/electric-piggy-bank-20k-1152x648.jpg",
       "popularity_score": 139,
       "ai_summary": [
-        "Audi and Tesla offer electric vehicles under 20000",
-        "Several electric vehicle options available in price range",
-        "Buyers can choose from various models and brands",
-        "Electric vehicles offer environmental and cost benefits",
-        "Research and comparison necessary for informed decision"
+        "There are several EV options for $20,000",
+        "Audi and Tesla have options available",
+        "The budget can get a variety of EVs",
+        "The options include both new and used EVs",
+        "The $20,000 budget can get a good EV"
       ]
     },
     {
-      "id": "cluster_122",
+      "id": "cluster_89",
+      "coverage": 1,
+      "updated_at": "Fri, 27 Mar 2026 12:44:12 +0000",
+      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
+      "neutral_headline": "AMD's Ryzen 9 9950X3D2 has 208MB cache",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
+          "published_at": "Fri, 27 Mar 2026 12:44:12 +0000",
+          "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
+          "standfirst": "Both of the chip's CPU dies will include 64MB of extra cache stacked beneath.",
+          "content": "For about four years now, AMD has offered special \"X3D\" variants of its high-end desktop processors with an extra 64MB of L3 cache attached, an addition that disproportionately benefits games. AMD calls this \"3D V-Cache\" because it stacks the cache directly on top of (for Ryzen 5000 and 7000) or beneath (for Ryzen 9000) the CPU die. The 12- and 16-core Ryzen chips have their CPU cores split between two silicon chiplets, which has historically made the 7900X3D, 7950X3D, 9900X3D, and 9950X3D a bit weird. One of their two CPU chiplets has the 64MB of 3D V-Cache attached, and one does not. AMD relies on its driver software to make sure that software that benefits from the extra cache is run on the V-Cache-enabled CPU cores, which usually works well but is occasionally error-prone. Enter the Ryzen 9 9950X3D2 Dual Edition, a mouthful of a chip that includes 64MB of 3D V-Cache on both processor dies, without the hybrid arrangement that has defined the other chips up until now. This gives the chip a grand total of 208MB of cache—16MB of L2 cache, the 32MB of L3 cache built into each of the two CPU dies (for a total of 64MB), and then another 64MB chunk of 3D V-Cache per die. In total, AMD says the new chip should be as much as 10 percent faster than the 9950X3D in games and other apps that benefit from the extra cache.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/9950x3d2-1152x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/9950x3d2-1152x648.jpeg",
+      "popularity_score": 136.8517652777778,
+      "ai_summary": [
+        "The chip has 208MB of cache",
+        "The cache is stacked beneath the CPU dies",
+        "Both CPU dies have 64MB of extra cache",
+        "The chip is a high performance processor",
+        "The cache improves the chip's performance"
+      ]
+    },
+    {
+      "id": "cluster_123",
       "coverage": 1,
       "updated_at": "Thu, 26 Mar 2026 21:50:26 +0000",
       "title": "Elon Musk loses big in court; X boycott perfectly legal",
-      "neutral_headline": "Elon Musk Loses Court Case Against Ad Boycott",
+      "neutral_headline": "Elon Musk loses court case",
       "items": [
         {
           "source": "Ars Technica",
@@ -517,19 +546,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1244262469-2.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Elon Musk loses court case against ad boycott",
-        "Judge dismisses lawsuit as fishing expedition",
-        "X admonished for attempting to intimidate advertisers",
-        "Court ruling seen as victory for free speech advocates",
-        "Musk and X may appeal the court decision"
+        "Elon Musk lost the ad boycott lawsuit",
+        "The judge dismissed the lawsuit",
+        "X was admonished for a fishing expedition",
+        "The lawsuit was deemed without merit",
+        "The judge ruled in favor of the defendant"
       ]
     },
     {
-      "id": "cluster_125",
+      "id": "cluster_126",
       "coverage": 1,
       "updated_at": "Thu, 26 Mar 2026 21:27:16 +0000",
       "title": "Spotify seeks $300M from Anna's Archive, which ignores all court proceedings",
-      "neutral_headline": "Spotify Seeks 300 Million From Anna's Archive",
+      "neutral_headline": "Spotify seeks $300M from Anna's Archive",
       "items": [
         {
           "source": "Ars Technica",
@@ -545,19 +574,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/spotify-logos-1152x648-1767642275.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Spotify seeks 300 million from Anna's Archive",
-        "Anna's Archive ignores all court proceedings and orders",
-        "Music firms struggle to eliminate shadow libraries",
-        "Spotify and music industry fight against piracy",
-        "Anna's Archive continues to operate despite court actions"
+        "Spotify is seeking $300M in damages",
+        "Anna's Archive is ignoring court proceedings",
+        "The company is struggling to eliminate the archive",
+        "The archive is a notorious shadow library",
+        "Spotify is taking legal action against the archive"
       ]
     },
     {
-      "id": "cluster_128",
+      "id": "cluster_129",
       "coverage": 1,
       "updated_at": "Thu, 26 Mar 2026 20:46:09 +0000",
       "title": "As RFK Jr.’s anti-vaccine ways turn toxic to GOP, CDC director is hard to find",
-      "neutral_headline": "RFK Jr Anti Vaccine Views Impact GOP",
+      "neutral_headline": "RFK Jr's anti vaccine views affect GOP",
       "items": [
         {
           "source": "Ars Technica",
@@ -573,11 +602,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1207345889-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "RFK Jr's anti-vaccine views become toxic to GOP",
-        "CDC director nomination deadline passes",
-        "New CDC director nomination expected soon",
-        "GOP distances itself from RFK Jr's views",
-        "Anti-vaccine movement faces increased scrutiny"
+        "RFK Jr's views are toxic to the GOP",
+        "The CDC director is hard to find",
+        "The deadline to nominate a new director passed",
+        "The GOP is affected by RFK Jr's views",
+        "The CDC is without a director"
       ]
     }
   ]
