@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-03-28T11:28:41.793Z",
+    "updated_at": "2026-03-28T19:29:45.703Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-28T11:28:54.265Z",
+    "updated_at": "2026-03-28T19:29:58.689Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/e8a6125f-4461-48a0-9dcc-0881ae014b70/DoHDA-reveals-2026-compliance-watchlist.aspx",
         "ai_summary": [
-          "The compliance watchlist includes telehealth",
+          "DoHDA releases 2026 compliance watchlist",
+          "Telehealth is a compliance priority",
           "Claiming MBS services while overseas is targeted",
-          "Care and management plans are a priority",
-          "The watchlist is for 2026 compliance",
-          "The Department of Health is cracking down"
+          "Care and management plans are also targeted",
+          "Compliance priorities will be strictly enforced"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/1b4e3d44-93f1-40d1-854d-5b0209446fae/RACGP-rejects-call-for-nurse-practitioners-to-lead-UCCs.aspx",
         "ai_summary": [
-          "The RACGP dismissed the nursing college's call",
-          "Nurse practitioners will not lead UCCs independently",
-          "The RACGP says UCCs must remain GP-led",
-          "The nursing college made the call for change",
-          "The RACGP rejected the proposal"
+          "RACGP rejects call for nurse practitioners",
+          "Nurse practitioners will not lead UCCs",
+          "UCCs must remain GP-led",
+          "RACGP dismissed nursing college's call",
+          "GP leadership is required for UCCs"
         ]
       },
       {
@@ -80,24 +80,128 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/47ef791c-96a3-4a50-83bb-6316c2e96a66/A-tool-to-stem-the-antimicrobial-tide.aspx",
         "ai_summary": [
-          "GPs play a crucial role in antimicrobial stewardship",
-          "Online toolbox being trialled to support GPs",
-          "Toolbox aims to help reduce antimicrobial resistance",
-          "GPs are key to preventing antimicrobial misuse",
-          "Toolbox could improve patient outcomes"
+          "Online toolbox helps GPs with antimicrobial stewardship",
+          "Toolbox is currently being trialled",
+          "GPs play crucial role in antimicrobial stewardship",
+          "Toolbox will support GPs in their role",
+          "Antimicrobial resistance is a major concern"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-03-28T11:28:54.297Z",
+    "updated_at": "2026-03-28T19:29:48.878Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Sat, 28 Mar 2026 16:06:55 GMT",
+        "title": "Pupil art sessions 'bring joy' to hospice",
+        "neutral_headline": "Pupil Art Sessions Bring Joy To Hospice",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c4gx92jedw2o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 28 Mar 2026 16:06:55 GMT",
+            "title": "Pupil art sessions 'bring joy' to hospice",
+            "standfirst": "The Hospice in the Weald in Pembury runs the sessions for people with life-limiting conditions.",
+            "content": "The Hospice in the Weald in Pembury runs the sessions for people with life-limiting conditions.",
+            "feed_position": 43,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca2/live/687af220-29c5-11f1-952c-77491ff53aff.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca2/live/687af220-29c5-11f1-952c-77491ff53aff.jpg",
+        "ai_summary": [
+          "Pupil art sessions bring joy to hospice",
+          "Sessions are for people with life-limiting conditions",
+          "Hospice in the Weald runs the sessions",
+          "Art sessions provide emotional support",
+          "Hospice care is focused on patient comfort"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Sat, 28 Mar 2026 15:05:00 GMT",
+        "title": "Call out to volunteers to take part in bug survey",
+        "neutral_headline": "Volunteers Needed For Bug Survey",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cj37epve5l6o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 28 Mar 2026 15:05:00 GMT",
+            "title": "Call out to volunteers to take part in bug survey",
+            "standfirst": "Buglife says Kent, Surrey and Sussex forms one of the UK's richest regions for insect variety.",
+            "content": "Buglife says Kent, Surrey and Sussex forms one of the UK's richest regions for insect variety.",
+            "feed_position": 6,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/936e/live/bf5dde60-29dc-11f1-9def-51999882d8d7.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/936e/live/bf5dde60-29dc-11f1-9def-51999882d8d7.jpg",
+        "ai_summary": [
+          "Buglife calls for volunteers to survey bugs",
+          "Survey will take place in Kent, Surrey, and Sussex",
+          "Region is rich in insect variety",
+          "Volunteers will help collect bug data",
+          "Data will be used for conservation efforts"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Sat, 28 Mar 2026 14:39:01 GMT",
+        "title": "Nine people sick from E coli linked to raw cheese from California farm, more than half of them children",
+        "neutral_headline": "E Coli Outbreak Linked To Raw Cheese",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2026/mar/28/california-dairy-e-coli-raw-cheese",
+            "published_at": "Sat, 28 Mar 2026 14:39:01 GMT",
+            "title": "Nine people sick from E coli linked to raw cheese from California farm, more than half of them children",
+            "standfirst": "Raw Farm was also linked to 2024 salmonella outbreak that sickened 165 people and deaths of two cats from bird fluA California raw milk dairy that was previously linked to a fatal outbreak of bird flu in cats has now been linked to an E coli outbreak involving cheddar cheese, affecting nine people in three states.The US Food and Drug Administration (FDA) said in an alert that more than half of the people sickened so far are children under age five. Three people have been hospitalized after contracting a dangerous strain of E coli – O157:H7 – with one developing hemolytic uremic syndrome, a condition that can lead to kidney failure. Continue reading...",
+            "content": "Raw Farm was also linked to 2024 salmonella outbreak that sickened 165 people and deaths of two cats from bird fluA California raw milk dairy that was previously linked to a fatal outbreak of bird flu in cats has now been linked to an E coli outbreak involving cheddar cheese, affecting nine people in three states.The US Food and Drug Administration (FDA) said in an alert that more than half of the people sickened so far are children under age five. Three people have been hospitalized after contracting a dangerous strain of E coli – O157:H7 – with one developing hemolytic uremic syndrome, a condition that can lead to kidney failure. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "E coli outbreak linked to raw cheese",
+          "Nine people are affected, mostly children",
+          "Raw Farm is the source of the outbreak",
+          "FDA issues alert for contaminated cheese",
+          "E coli strain is O157:H7, a dangerous strain"
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Sat, 28 Mar 2026 14:15:29 GMT",
+        "title": "I tried HigherDose’s $1,400 PEMF mat to help me relax. I got weird dreams and disappointment",
+        "neutral_headline": "HigherDose PEMF Mat Review",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/thefilter-us/2026/mar/28/higherdose-infrared-pemf-pro-mat-review",
+            "published_at": "Sat, 28 Mar 2026 14:15:29 GMT",
+            "title": "I tried HigherDose’s $1,400 PEMF mat to help me relax. I got weird dreams and disappointment",
+            "standfirst": "This pricey infrared therapy mat claims to help mood, sleep and muscle recovery. It felt more like a glorified heating padPlastic-free cutting boards and $17 bike lights: 11 things you loved in MarchSign up for the Filter US newsletter, your weekly guide to buying fewer, better thingsI have a $1,400 mat stashed under my pink velvet couch.It’s my roommate’s PEMF and infrared therapy mat, and yes, it costs nearly as much as my monthly rent. Measuring 6ft in length, made of vegan leather, layered with bright-blue amethyst and obsidian crystals and weighing as much as a Siberian husky, the HigherDose mat makes my basic yoga mat feel like a flimsy slab of cardboard. Continue reading...",
+            "content": "This pricey infrared therapy mat claims to help mood, sleep and muscle recovery. It felt more like a glorified heating padPlastic-free cutting boards and $17 bike lights: 11 things you loved in MarchSign up for the Filter US newsletter, your weekly guide to buying fewer, better thingsI have a $1,400 mat stashed under my pink velvet couch.It’s my roommate’s PEMF and infrared therapy mat, and yes, it costs nearly as much as my monthly rent. Measuring 6ft in length, made of vegan leather, layered with bright-blue amethyst and obsidian crystals and weighing as much as a Siberian husky, the HigherDose mat makes my basic yoga mat feel like a flimsy slab of cardboard. Continue reading...",
+            "feed_position": 1
+          }
+        ],
+        "ai_summary": [
+          "HigherDose PEMF mat costs $1,400",
+          "Mat claims to help with mood and sleep",
+          "Reviewer found mat to be disappointing",
+          "Mat felt like a glorified heating pad",
+          "Reviewer experienced weird dreams"
+        ]
+      },
+      {
+        "id": "cluster_4",
+        "coverage": 1,
         "updated_at": "Sat, 28 Mar 2026 08:08:42 GMT",
         "title": "Ultrasound delays putting pregnant women and cancer patients at risk, sonographers say",
-        "neutral_headline": "Ultrasound delays put patients at risk",
+        "neutral_headline": "Ultrasound Delays Put Patients At Risk",
         "items": [
           {
             "source": "BBC Health",
@@ -112,19 +216,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/194c/live/be4c7f50-29e5-11f1-81d4-f1e3c77fafb4.jpg",
         "ai_summary": [
-          "Ultrasound delays affect pregnant women and cancer patients",
-          "Sonographers warn of increased demand and low training",
-          "Few people are being trained for sonography jobs",
-          "Delays can lead to poor health outcomes",
-          "Increased training is needed to meet demand"
+          "Ultrasound delays put pregnant women at risk",
+          "Cancer patients are also affected",
+          "Demand for ultrasound has increased",
+          "Too few sonographers are being trained",
+          "Delays can have serious health consequences"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sat, 28 Mar 2026 07:13:53 GMT",
         "title": "Exclusion zone set up to protect endangered birds",
-        "neutral_headline": "Endangered birds protected by exclusion zone",
+        "neutral_headline": "Exclusion Zone Set Up For Birds",
         "items": [
           {
             "source": "BBC Science",
@@ -133,25 +237,25 @@
             "title": "Exclusion zone set up to protect endangered birds",
             "standfirst": "An area for nesting birds on the Isle of Man has been cordoned off to protect endangered species.",
             "content": "An area for nesting birds on the Isle of Man has been cordoned off to protect endangered species.",
-            "feed_position": 6,
+            "feed_position": 7,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f07/live/68277b00-2901-11f1-be8b-2136d1c912ba.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f07/live/68277b00-2901-11f1-be8b-2136d1c912ba.jpg",
         "ai_summary": [
-          "Exclusion zone set up on Isle of Man for nesting birds",
-          "Zone aims to protect endangered bird species",
-          "Birds are vulnerable to human disturbance",
-          "Exclusion zone will help reduce disturbance",
+          "Exclusion zone set up to protect birds",
+          "Zone is on the Isle of Man",
+          "Endangered species are nesting in the area",
+          "Zone will protect birds from human disturbance",
           "Conservation efforts are in place to protect birds"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sat, 28 Mar 2026 00:15:07 GMT",
         "title": "Are UK students at risk of more deadly meningitis outbreaks?",
-        "neutral_headline": "Meningitis outbreaks pose risk to UK students",
+        "neutral_headline": "UK Students At Risk Of Meningitis Outbreaks",
         "items": [
           {
             "source": "BBC Health",
@@ -166,19 +270,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7c8/live/632d9f00-2a3a-11f1-8e06-4f542a88d870.jpg",
         "ai_summary": [
-          "Meningitis outbreaks have occurred in UK universities",
-          "Questions remain about outbreak causes and prevention",
-          "Students are at risk of meningitis infection",
-          "Vaccination is available to prevent meningitis",
-          "Outbreaks can have serious health consequences"
+          "Meningitis outbreaks affect UK students",
+          "Questions remain about the cause",
+          "Risk of future outbreaks is possible",
+          "Students are warned to be cautious",
+          "Health officials are investigating"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 18:15:51 GMT",
         "title": "Screen time for under-fives should be limited to one hour a day, parents told",
-        "neutral_headline": "Screen time limited for under-fives",
+        "neutral_headline": "Screen Time Limited For Under Fives",
         "items": [
           {
             "source": "BBC Health",
@@ -193,19 +297,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2173/live/dfb962c0-29a4-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "Children under five should limit screen time to one hour",
-          "Government guidance advises against solo screen time",
-          "Excessive screen time can harm child development",
-          "Parents should monitor and limit screen time",
-          "Screen time guidelines are in place for child health"
+          "Under fives should limit screen time",
+          "One hour of screen time is recommended",
+          "Children under two should not watch alone",
+          "New government guidance is released",
+          "Parents are advised to follow guidelines"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 17:37:19 GMT",
         "title": "Conversations about infertility are hard, but essential | Letters",
-        "neutral_headline": "Conversations about infertility are essential",
+        "neutral_headline": "Conversations About Infertility Are Hard",
         "items": [
           {
             "source": "Guardian Health",
@@ -214,23 +318,23 @@
             "title": "Conversations about infertility are hard, but essential | Letters",
             "standfirst": "Dr Louise Goddard-Crawley emphasises the importance of being able to tolerate discomfort, both in yourself and in someone else, while Claire Nixon reflects on her own experiencePerhaps one of the reasons that conversations about infertility are so difficult is that people are often encountering the experience for the first time without a shared language (Infertility: at a time when we need the right words, some are unable to find them, 21 March). In many ways, what people need is not just support, but a vocabulary for what they are going through. When someone loses a loved one, we have a go-to phrase: “I’m so sorry for your loss”. It’s not enough, but it’s something. With infertility, we don’t even have that.When people don’t know what to say, they often reach for reassurance or positivity. This is usually well-intentioned, but it tends to reflect the discomfort of the person speaking rather than the needs of the person going through it. Continue reading...",
             "content": "Dr Louise Goddard-Crawley emphasises the importance of being able to tolerate discomfort, both in yourself and in someone else, while Claire Nixon reflects on her own experiencePerhaps one of the reasons that conversations about infertility are so difficult is that people are often encountering the experience for the first time without a shared language (Infertility: at a time when we need the right words, some are unable to find them, 21 March). In many ways, what people need is not just support, but a vocabulary for what they are going through. When someone loses a loved one, we have a go-to phrase: “I’m so sorry for your loss”. It’s not enough, but it’s something. With infertility, we don’t even have that.When people don’t know what to say, they often reach for reassurance or positivity. This is usually well-intentioned, but it tends to reflect the discomfort of the person speaking rather than the needs of the person going through it. Continue reading...",
-            "feed_position": 0
+            "feed_position": 2
           }
         ],
         "ai_summary": [
-          "Infertility conversations can be difficult and uncomfortable",
-          "People need support and vocabulary to discuss infertility",
-          "Infertility affects many individuals and couples",
-          "Conversations can help raise awareness and understanding",
-          "Support is available for those experiencing infertility"
+          "Infertility conversations are difficult",
+          "People need a vocabulary to discuss",
+          "Support and understanding are necessary",
+          "Infertility affects many individuals",
+          "Open discussions can help raise awareness"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 16:29:38 GMT",
         "title": "Polio virus detected in London days before ministers cut global eradication funding",
-        "neutral_headline": "Polio virus detected in London",
+        "neutral_headline": "Polio Virus Detected In London",
         "items": [
           {
             "source": "Guardian Health",
@@ -239,23 +343,23 @@
             "title": "Polio virus detected in London days before ministers cut global eradication funding",
             "standfirst": "Campaigner criticises ‘shortsighted and self-defeating’ decision and says it increases risk to the UK publicThe polio virus was detected in London sewage for the second time this year, days before ministers withdrew funding for global polio eradication efforts.Its detection reveals the spending cuts to be “shortsighted and self-defeating”, campaigners said. Polio is an extremely infectious viral disease, which typically affects young children under five. It can cause paralysis by damaging nerves in the spine and base of the brain, and can be life-threatening if it affects muscles used for breathing. Continue reading...",
             "content": "Campaigner criticises ‘shortsighted and self-defeating’ decision and says it increases risk to the UK publicThe polio virus was detected in London sewage for the second time this year, days before ministers withdrew funding for global polio eradication efforts.Its detection reveals the spending cuts to be “shortsighted and self-defeating”, campaigners said. Polio is an extremely infectious viral disease, which typically affects young children under five. It can cause paralysis by damaging nerves in the spine and base of the brain, and can be life-threatening if it affects muscles used for breathing. Continue reading...",
-            "feed_position": 1
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "Polio virus found in London sewage for second time",
-          "Detection reveals risk to UK public health",
-          "Funding cuts may increase polio risk",
-          "Polio is a highly infectious and potentially life-threatening disease",
-          "Global eradication efforts are necessary to prevent polio"
+          "Polio virus is detected in London sewage",
+          "Global eradication funding is cut",
+          "Campaigners criticize the decision",
+          "Polio is an infectious viral disease",
+          "Funding cuts may increase public risk"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 12:38:08 GMT",
         "title": "The first colour photo of Earth from the Moon",
-        "neutral_headline": "First colour photo of Earth from Moon",
+        "neutral_headline": "First Colour Photo Of Earth",
         "items": [
           {
             "source": "BBC Science",
@@ -270,19 +374,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9540/live/b5ded7a0-29d1-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "Apollo 8 mission took first colour photo of Earth",
-          "Photo was taken in 1968 from the Moon's surface",
-          "Mission marked a historic moment in space exploration",
-          "Photo showed Earth as a single, unified entity",
-          "Apollo 8 mission paved the way for future space travel"
+          "First colour photo of Earth taken",
+          "Apollo 8 mission captured the image",
+          "Witness History tells the story",
+          "The photo is a historic moment",
+          "Earth's image is seen from the Moon"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 09:45:38 GMT",
         "title": "How Cornwall is helping Nasa's deep space mission",
-        "neutral_headline": "Cornwall helps Nasa's deep space mission",
+        "neutral_headline": "Cornwall Helps Nasa Deep Space Mission",
         "items": [
           {
             "source": "BBC Science",
@@ -297,19 +401,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3a4/live/70167570-2918-11f1-babf-516204a6f1ce.jpg",
         "ai_summary": [
-          "Goonhilly Earth Station in Cornwall tracks Nasa missions",
-          "Station will track Artemis II mission in April",
-          "Mission aims to return humans to the Moon",
-          "Cornwall's location makes it ideal for space tracking",
-          "Nasa relies on international partnerships for space exploration"
+          "Cornwall helps Nasa's deep space mission",
+          "Goonhilly Earth Station tracks the mission",
+          "Artemis II mission is set to launch",
+          "Nasa collaborates with Cornwall",
+          "The mission aims to explore deep space"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 06:20:54 GMT",
         "title": "Released beavers settle after year of ups and downs",
-        "neutral_headline": "Released beavers settle in nature reserve",
+        "neutral_headline": "Released Beavers Settle In Dorset",
         "items": [
           {
             "source": "BBC Science",
@@ -318,25 +422,25 @@
             "title": "Released beavers settle after year of ups and downs",
             "standfirst": "The BBC speaks to conservationists a year after beavers were released at a nature reserve in Dorset.",
             "content": "The BBC speaks to conservationists a year after beavers were released at a nature reserve in Dorset.",
-            "feed_position": 7,
+            "feed_position": 8,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27ff/live/16b38df0-2865-11f1-b297-95b0a0a8331e.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27ff/live/16b38df0-2865-11f1-b297-95b0a0a8331e.jpg",
         "ai_summary": [
-          "Beavers released in Dorset nature reserve last year",
-          "Beavers are adapting to their new environment",
-          "Conservationists monitor beaver activity and health",
-          "Beavers play a crucial role in ecosystem engineering",
-          "Nature reserve provides a safe habitat for beavers"
+          "Beavers are released in Dorset nature reserve",
+          "Conservationists monitor their progress",
+          "Beavers settle after a year",
+          "The release aims to conserve the species",
+          "Beavers adapt to their new environment"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 27 Mar 2026 06:04:08 GMT",
         "title": "Our daughter battled Meningitis B despite being vaccinated in 'very rare' case",
-        "neutral_headline": "Vaccinated child battles Meningitis B",
+        "neutral_headline": "Daughter Battles Meningitis B",
         "items": [
           {
             "source": "BBC Health",
@@ -351,19 +455,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3792/live/505bec90-29bf-11f1-952c-77491ff53aff.jpg",
         "ai_summary": [
-          "Four-year-old girl contracted Meningitis B despite vaccination",
-          "Case is considered very rare and unusual",
-          "Girl spent two weeks in hospital recovering",
-          "Vaccination is still effective in preventing Meningitis B",
-          "Rare cases can still occur despite vaccination"
+          "Noa-Rose battles Meningitis B",
+          "She was vaccinated but still infected",
+          "The case is very rare",
+          "Noa-Rose spent two weeks in hospital",
+          "Her condition is a rare exception"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 22:38:33 GMT",
         "title": "Trump’s Maha agenda stalled as top CDC and surgeon general roles sit empty",
-        "neutral_headline": "Trump's health agenda stalled",
+        "neutral_headline": "Trump’s Maha Agenda Stalled",
         "items": [
           {
             "source": "Guardian Health",
@@ -372,23 +476,23 @@
             "title": "Trump’s Maha agenda stalled as top CDC and surgeon general roles sit empty",
             "standfirst": "Trump has yet to nominate a permanent CDC director and the Senate confirmation of his pick for top doctor is in limboSign up for the Breaking News US email to get newsletter alerts in your inboxThe Trump administration’s “Make America healthy again” (Maha) agenda appears to be stalled as two of the government’s most influential public health positions sit empty.Donald Trump has yet to nominate a permanent director for the Centers for Disease Control and Prevention (CDC), leaving an agency that has been plagued by turmoil for the past year without a leader. At the same time, the president’s controversial pick for surgeon general, Casey Means, remains in limbo as her nomination stalls in the Senate. Continue reading...",
             "content": "Trump has yet to nominate a permanent CDC director and the Senate confirmation of his pick for top doctor is in limboSign up for the Breaking News US email to get newsletter alerts in your inboxThe Trump administration’s “Make America healthy again” (Maha) agenda appears to be stalled as two of the government’s most influential public health positions sit empty.Donald Trump has yet to nominate a permanent director for the Centers for Disease Control and Prevention (CDC), leaving an agency that has been plagued by turmoil for the past year without a leader. At the same time, the president’s controversial pick for surgeon general, Casey Means, remains in limbo as her nomination stalls in the Senate. Continue reading...",
-            "feed_position": 2
+            "feed_position": 4
           }
         ],
         "ai_summary": [
-          "CDC director and surgeon general roles remain empty",
-          "Trump's \"Make America healthy again\" agenda is stalled",
-          "CDC and surgeon general play key roles in public health",
-          "Empty positions can hinder public health efforts",
-          "Nominations and confirmations are necessary to fill roles"
+          "Trump's Maha agenda is stalled",
+          "CDC director and surgeon general roles empty",
+          "Trump has not nominated a director",
+          "The Senate confirmation is in limbo",
+          "The agenda aims to improve public health"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 21:00:00 GMT",
         "title": "BBC Inside Science",
-        "neutral_headline": "Nuclear-powered spacecraft promises deep space travel",
+        "neutral_headline": "Nuclear Powered Spacecraft Promises",
         "items": [
           {
             "source": "BBC Science",
@@ -403,19 +507,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
         "ai_summary": [
-          "Nuclear-powered spacecraft can travel deeper into space",
-          "Spacecraft can explore more of the solar system",
-          "Nuclear power provides a reliable energy source",
-          "Spacecraft can carry more cargo and equipment",
-          "Nuclear-powered spacecraft can expand space exploration"
+          "Nuclear powered spacecraft is developed",
+          "The spacecraft promises deeper space travel",
+          "It aims to explore space more efficiently",
+          "The technology is innovative",
+          "Space travel may become more accessible"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 26 Mar 2026 20:14:20 GMT",
         "title": "NHS bosses say resident doctors’ strike will cause ‘maximum harm’",
-        "neutral_headline": "Resident doctors' strike to cause harm",
+        "neutral_headline": "NHS Bosses Say Resident Doctors’ Strike Will Cause ‘Maximum Harm’",
         "items": [
           {
             "source": "Guardian Health",
@@ -424,202 +528,21 @@
             "title": "NHS bosses say resident doctors’ strike will cause ‘maximum harm’",
             "standfirst": "BMA’s decision to withdraw from talks with government and NHS chiefs has sparked a war of wordsNHS bosses have accused resident doctors of seeking to cause “maximum harm” to patients by striking for six days next month over pay and jobs.Wes Streeting has given resident – formerly junior – doctors in England until 2 April to reconsider their rejection on Wednesday of his “generous” offer to end the dispute. It would have given them £700m in extra pay over the next three years. Continue reading...",
             "content": "BMA’s decision to withdraw from talks with government and NHS chiefs has sparked a war of wordsNHS bosses have accused resident doctors of seeking to cause “maximum harm” to patients by striking for six days next month over pay and jobs.Wes Streeting has given resident – formerly junior – doctors in England until 2 April to reconsider their rejection on Wednesday of his “generous” offer to end the dispute. It would have given them £700m in extra pay over the next three years. Continue reading...",
-            "feed_position": 3
-          }
-        ],
-        "ai_summary": [
-          "Resident doctors plan to strike for six days",
-          "Strike is over pay and job disputes",
-          "NHS bosses warn of maximum harm to patients",
-          "Strike can lead to delayed or cancelled procedures",
-          "Negotiations are necessary to resolve disputes"
-        ]
-      },
-      {
-        "id": "cluster_13",
-        "coverage": 1,
-        "updated_at": "Thu, 26 Mar 2026 18:50:38 GMT",
-        "title": "The Guardian view on a recovering NHS: public confidence has risen, but not enough | Editorial",
-        "neutral_headline": "The Guardian view on a recovering NHS",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/commentisfree/2026/mar/26/the-guardian-view-on-a-recovering-nhs-public-confidence-has-risen-but-not-enough",
-            "published_at": "Thu, 26 Mar 2026 18:50:38 GMT",
-            "title": "The Guardian view on a recovering NHS: public confidence has risen, but not enough | Editorial",
-            "standfirst": "Wes Streeting pronounced the UK’s health system ‘broken’. An upbeat survey does not mean that it is fixedFor the government, news that public satisfaction with the NHS has increased for the first time since 2019 came as a huge relief. After 20 difficult months in office, ministers can point to proof that one public service at least is getting better, in spite of doctors’ strikes. The annual survey also found that the proportion of people who are dissatisfied with social care provided by councils has fallen, although the change here is less marked.Given the low base from which this boost has been measured, and ongoing problems in multiple areas, the health secretary, Wes Streeting, was careful to temper his evident glee in a speech on Wednesday, with pledges of further improvement. Since the NHS is widely regarded as his party’s proudest achievement, and the UK’s most cherished institution, a figure of 26% declaring themselves to be satisfied, compared with 51% who are dissatisfied, sounds more like a cause for concern than celebration.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "content": "Wes Streeting pronounced the UK’s health system ‘broken’. An upbeat survey does not mean that it is fixedFor the government, news that public satisfaction with the NHS has increased for the first time since 2019 came as a huge relief. After 20 difficult months in office, ministers can point to proof that one public service at least is getting better, in spite of doctors’ strikes. The annual survey also found that the proportion of people who are dissatisfied with social care provided by councils has fallen, although the change here is less marked.Given the low base from which this boost has been measured, and ongoing problems in multiple areas, the health secretary, Wes Streeting, was careful to temper his evident glee in a speech on Wednesday, with pledges of further improvement. Since the NHS is widely regarded as his party’s proudest achievement, and the UK’s most cherished institution, a figure of 26% declaring themselves to be satisfied, compared with 51% who are dissatisfied, sounds more like a cause for concern than celebration.Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "feed_position": 4
-          }
-        ],
-        "ai_summary": [
-          "Public satisfaction with NHS has increased",
-          "Survey shows improvement in social care satisfaction",
-          "Health secretary pledges further improvement",
-          "NHS still faces challenges and problems",
-          "Ongoing efforts are needed to improve NHS services"
-        ]
-      },
-      {
-        "id": "cluster_14",
-        "coverage": 1,
-        "updated_at": "Thu, 26 Mar 2026 18:35:38 GMT",
-        "title": "Weekly quiz: What sneaky snack was this bird of prey seen carrying?",
-        "neutral_headline": "Bird of prey seen carrying sneaky snack",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cm291jz0321o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 26 Mar 2026 18:35:38 GMT",
-            "title": "Weekly quiz: What sneaky snack was this bird of prey seen carrying?",
-            "standfirst": "How much attention did you pay to what happened in the world over the past seven days?",
-            "content": "How much attention did you pay to what happened in the world over the past seven days?",
-            "feed_position": 8,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf4c/live/e9b9d650-2932-11f1-a79a-77e93010d956.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf4c/live/e9b9d650-2932-11f1-a79a-77e93010d956.jpg",
-        "ai_summary": [
-          "Bird of prey spotted with unusual food",
-          "Type of food not specified in the report",
-          "Bird of prey species not identified",
-          "Incident occurred in the past week",
-          "No further details provided"
-        ]
-      },
-      {
-        "id": "cluster_15",
-        "coverage": 1,
-        "updated_at": "Thu, 26 Mar 2026 18:03:09 GMT",
-        "title": "Owner blocks 'Rainham volcano' fix, council says",
-        "neutral_headline": "Owner blocks Rainham volcano fix",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cy41mnxxmnlo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 26 Mar 2026 18:03:09 GMT",
-            "title": "Owner blocks 'Rainham volcano' fix, council says",
-            "standfirst": "Repeated fires at Arnolds Field in Launders Lane, Rainham, have plagued residents for years.",
-            "content": "Repeated fires at Arnolds Field in Launders Lane, Rainham, have plagued residents for years.",
-            "feed_position": 9,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b8c/live/16bce050-f2fd-11f0-b385-5f48925de19a.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b8c/live/16bce050-f2fd-11f0-b385-5f48925de19a.jpg",
-        "ai_summary": [
-          "Repeated fires occur at Arnolds Field",
-          "Location is in Launders Lane, Rainham",
-          "Residents have been plagued for years",
-          "Council is involved in the situation",
-          "No solution has been implemented yet"
-        ]
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Thu, 26 Mar 2026 18:00:48 GMT",
-        "title": "UK politics: Trump says UK’s aircraft carriers are just ‘toys’ – as it happened",
-        "neutral_headline": "UK politics: Trump says UK’s aircraft carriers are just ‘toys’ – as it happened",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/politics/live/2026/mar/26/keir-starmer-ukraine-iran-social-media-ban-councils-pensions-latest-news-updates",
-            "published_at": "Thu, 26 Mar 2026 18:00:48 GMT",
-            "title": "UK politics: Trump says UK’s aircraft carriers are just ‘toys’ – as it happened",
-            "standfirst": "The comments were part of a broader address in which he condemned Nato alliesYesterday the Conservative party said that it wanted to ban political parties from distributing campaign literature in a foreign language. Announcing a plan to propose an amendement to the representation of the people bill to make this law, the shadow communities minister Paul Holmes said:Campaigning in a foreign language as the Greens did in Gorton and Denton only fosters greater division. A coherent national culture relies on shared values, and an inclusive electoral process relies on a common tongue.I think it’s for political parties to choose how they campaign and communicate with British voters. If they’re using British money that is funding their campaigns and they’re speaking to people who have the right to vote, then why would you not show those voters the respect of communication?What fuels division is Nick Timothy standing up and singling out Muslim forms of worship for a ban when he’s not applying that to forms of worship that other religions are talking about.It just doesn’t compute, does it? I worked in Number 10. Briefly, I had a Number 10 phone. There was a paranoia about devices like that falling into other people’s hands.And so whether it was the Met Police, whether it was Morgan McSweeney, and what sounds like pretty evasive set of reporting, even when you look at that transcript, or whether it was the Number 10 security team following up something that at the time they could not have been sure had not been taken by a state actor, a phone with all sorts of government secrets potentially in it, that’s precisely why people in government have two separate phones.I don’t believe McSwindle had his iPhone stolenHonest believe, Matt. It’s smacks of the liar Johnson defence of ‘lost all my WhatsApp messages’. We mustn’t take the public for fools. And I am afraid this smacks of too convenient by far. I won’t do it. I will say what I actually think. And I don’t believe it. End of!I believe the report was made. McSwindle didn’t mention that he was the chief of staff to the PM. A significant omission of he’d wanted the police to prioritise the offence. Continue reading...",
-            "content": "The comments were part of a broader address in which he condemned Nato alliesYesterday the Conservative party said that it wanted to ban political parties from distributing campaign literature in a foreign language. Announcing a plan to propose an amendement to the representation of the people bill to make this law, the shadow communities minister Paul Holmes said:Campaigning in a foreign language as the Greens did in Gorton and Denton only fosters greater division. A coherent national culture relies on shared values, and an inclusive electoral process relies on a common tongue.I think it’s for political parties to choose how they campaign and communicate with British voters. If they’re using British money that is funding their campaigns and they’re speaking to people who have the right to vote, then why would you not show those voters the respect of communication?What fuels division is Nick Timothy standing up and singling out Muslim forms of worship for a ban when he’s not applying that to forms of worship that other religions are talking about.It just doesn’t compute, does it? I worked in Number 10. Briefly, I had a Number 10 phone. There was a paranoia about devices like that falling into other people’s hands.And so whether it was the Met Police, whether it was Morgan McSweeney, and what sounds like pretty evasive set of reporting, even when you look at that transcript, or whether it was the Number 10 security team following up something that at the time they could not have been sure had not been taken by a state actor, a phone with all sorts of government secrets potentially in it, that’s precisely why people in government have two separate phones.I don’t believe McSwindle had his iPhone stolenHonest believe, Matt. It’s smacks of the liar Johnson defence of ‘lost all my WhatsApp messages’. We mustn’t take the public for fools. And I am afraid this smacks of too convenient by far. I won’t do it. I will say what I actually think. And I don’t believe it. End of!I believe the report was made. McSwindle didn’t mention that he was the chief of staff to the PM. A significant omission of he’d wanted the police to prioritise the offence. Continue reading...",
             "feed_position": 5
           }
         ],
         "ai_summary": [
-          "Trump commented on UK aircraft carriers",
-          "Comments were part of a broader address",
-          "Trump condemned Nato allies in speech",
-          "Conservative party proposes new law",
-          "Law would ban foreign language campaign materials"
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Thu, 26 Mar 2026 16:48:44 GMT",
-        "title": "When family ties become a dreadful burden | Letters",
-        "neutral_headline": "Family ties become a dreadful burden",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/science/2026/mar/26/when-family-ties-become-a-dreadful-burden",
-            "published_at": "Thu, 26 Mar 2026 16:48:44 GMT",
-            "title": "When family ties become a dreadful burden | Letters",
-            "standfirst": "Readers respond to an article on having to care for parents if you had a complicated relationship with themStephanie Woods is right to draw attention to how hard it can be to care for someone who didn’t care for you (The impossible task of caring for ageing parents who did not care for you, 20 March). While some carers find it a privilege to look after someone they’ve had a loving relationship with, others feel trapped by a sense of duty, or by societal expectations, to care for someone they aren’t close to or who doesn’t value them.Changes to how social care support is funded and provided cannot come soon enough for anyone who feels that they have no choice but to care. In reality, if unpaid family carers stopped providing daily practical and emotional support to people living with dementia, there would be chaos. There are simply not enough professional home-based carers, care home places, or hospital beds, to manage the consequences of thousands of vulnerable people left alone and at risk in their own homes. Continue reading...",
-            "content": "Readers respond to an article on having to care for parents if you had a complicated relationship with themStephanie Woods is right to draw attention to how hard it can be to care for someone who didn’t care for you (The impossible task of caring for ageing parents who did not care for you, 20 March). While some carers find it a privilege to look after someone they’ve had a loving relationship with, others feel trapped by a sense of duty, or by societal expectations, to care for someone they aren’t close to or who doesn’t value them.Changes to how social care support is funded and provided cannot come soon enough for anyone who feels that they have no choice but to care. In reality, if unpaid family carers stopped providing daily practical and emotional support to people living with dementia, there would be chaos. There are simply not enough professional home-based carers, care home places, or hospital beds, to manage the consequences of thousands of vulnerable people left alone and at risk in their own homes. Continue reading...",
-            "feed_position": 6
-          }
-        ],
-        "ai_summary": [
-          "Caring for parents can be challenging",
-          "Complicated relationships add to burden",
-          "Social care support funding needs change",
-          "Unpaid family carers provide daily support",
-          "Professional care options are insufficient"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Thu, 26 Mar 2026 16:48:25 GMT",
-        "title": "Coming across a terrible dilemma | Brief letters",
-        "neutral_headline": "Coming across a terrible dilemma",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/mar/26/coming-across-a-terrible-dilemma",
-            "published_at": "Thu, 26 Mar 2026 16:48:25 GMT",
-            "title": "Coming across a terrible dilemma | Brief letters",
-            "standfirst": "Ejaculation v sleep | Night-time stress | Brabazon legacy | Learning from mistakes | Pint or pony of porterI was struck by two adjacent headlines: “More frequent ejaculations may boost men’s fertility” and “Extra 11 minutes’ sleep each night can reduce heart attack risk”. What a terrible dilemma.Prof Gareth WilliamsRockhampton, Gloucestershire• Given the impact of stress on the risk of heart attacks, I wonder how the worry about not sleeping for an extra 11 minutes is going to help me.Richard BarnardWivenhoe, Essex Continue reading...",
-            "content": "Ejaculation v sleep | Night-time stress | Brabazon legacy | Learning from mistakes | Pint or pony of porterI was struck by two adjacent headlines: “More frequent ejaculations may boost men’s fertility” and “Extra 11 minutes’ sleep each night can reduce heart attack risk”. What a terrible dilemma.Prof Gareth WilliamsRockhampton, Gloucestershire• Given the impact of stress on the risk of heart attacks, I wonder how the worry about not sleeping for an extra 11 minutes is going to help me.Richard BarnardWivenhoe, Essex Continue reading...",
-            "feed_position": 7
-          }
-        ],
-        "ai_summary": [
-          "Frequent ejaculations may boost fertility",
-          "Extra sleep can reduce heart attack risk",
-          "Readers share concerns about stress impact",
-          "Sleep and ejaculation have opposing benefits",
-          "No clear solution to the dilemma exists"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 26 Mar 2026 15:00:14 GMT",
-        "title": "Trail hunt ban moves closer as consultation begins",
-        "neutral_headline": "Trail hunt ban moves closer",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/ckger0kxy75o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 26 Mar 2026 15:00:14 GMT",
-            "title": "Trail hunt ban moves closer as consultation begins",
-            "standfirst": "Animal welfare campaigners welcome a \"pivotal moment\" in the move towards a ban on trail hunting.",
-            "content": "Animal welfare campaigners welcome a \"pivotal moment\" in the move towards a ban on trail hunting.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9e1/live/51be9ad0-2904-11f1-8d7b-c7ea0e92917e.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9e1/live/51be9ad0-2904-11f1-8d7b-c7ea0e92917e.jpg",
-        "ai_summary": [
-          "Consultation on trail hunt ban begins",
-          "Animal welfare campaigners welcome move",
-          "Ban on trail hunting is a pivotal moment",
-          "Campaigners push for animal welfare laws",
-          "Outcome of the consultation is pending"
+          "Resident doctors plan to strike",
+          "NHS bosses accuse them of causing harm",
+          "The strike is over pay and jobs",
+          "Resident doctors reject the government offer",
+          "The dispute may affect patient care"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-28T11:28:54.297Z",
+    "updated_at": "2026-03-28T19:29:58.689Z",
     "clusters": []
   }
 }
