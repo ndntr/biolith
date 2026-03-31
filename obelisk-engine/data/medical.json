@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-03-31T08:08:04.540Z",
+    "updated_at": "2026-03-31T11:50:02.424Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-31T08:08:13.687Z",
+    "updated_at": "2026-03-31T11:50:11.250Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/bfe184e2-c354-43fa-9a08-cdc1553fae3f/RACGP-slams-Government-s-cherry-picked-bulk-billing-intervention.aspx",
         "ai_summary": [
-          "RACGP slams the government's policy",
-          "Policy is a bulk-billing intervention",
-          "Intervention is in the ACT",
-          "RACGP says policy is short-sighted",
-          "Policy may distort the market"
+          "RACGP criticizes government bulk billing policy",
+          "Policy affects billing models in the ACT",
+          "RACGP warns of market distortion",
+          "College says policy is short sighted",
+          "Community deserves better healthcare"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/ea76a0aa-c300-4444-814a-2bb6f1fd68bd/Affordable-healthcare-remains-elusive-for-many-Report.aspx",
         "ai_summary": [
-          "Report states healthcare is not affordable",
-          "Cost is the main issue in healthcare",
-          "Australia's health system has issues",
-          "Better funding is needed",
-          "Report highlights the need for change"
+          "Cost is a major issue in Australian healthcare",
+          "Report highlights need for better funding",
+          "RACGP expert calls for targeted funding",
+          "Healthcare system needs improvement",
+          "Many people struggle to afford healthcare"
         ]
       },
       {
@@ -80,11 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/264ee1f9-176c-4ffe-99df-ae9cfee6a59e/New-AI-progression-rolls-out-for-GPs.aspx",
         "ai_summary": [
-          "New AI tool is available for GPs",
-          "Tool is a medical-grade search tool",
-          "RACGP experts say AI has potential",
+          "New AI search tool launched for medical use",
+          "RACGP experts say AI has enormous potential",
           "AI must be used properly and responsibly",
-          "Tool may improve healthcare services"
+          "Tool can aid GPs in their work",
+          "AI can improve healthcare outcomes"
         ]
       },
       {
@@ -107,11 +107,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/3b34ea41-a0c5-40a8-8b9a-fa5ea196aca7/Vapes-likely-to-be-carcinogenic-Study.aspx",
         "ai_summary": [
-          "Researchers say vapes should not be used for cessation",
-          "A GP expert believes the conclusion is premature",
-          "Vapes may cause cancer according to a study",
-          "Experts analyzed data from various research studies",
-          "Vape use is a growing public health concern"
+          "Vapes may cause cancer according to study",
+          "Researchers say vapes should not be used",
+          "GP expert says conclusion is premature",
+          "More research is needed on vapes",
+          "Vape use is a public health concern"
         ]
       },
       {
@@ -134,24 +134,78 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/2a9639c4-c314-4af3-ae16-2701a1148f9e/Keytruda-expanded-on-PBS.aspx",
         "ai_summary": [
-          "Keytruda will be listed for advanced cancers",
-          "The change will benefit 10,000 patients",
-          "Pembrolizumab is the drug being listed",
-          "It will be used for high-risk cancer treatment",
-          "The listing is expected to improve patient outcomes"
+          "Keytruda listed for advanced cancers",
+          "Pembrolizumab will benefit 10,000 patients",
+          "PBS listing expands cancer treatment options",
+          "Patients with advanced cancer will benefit",
+          "Keytruda is a medical breakthrough"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-03-31T08:08:12.240Z",
+    "updated_at": "2026-03-31T11:50:04.081Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Tue, 31 Mar 2026 09:56:05 GMT",
+        "title": "Trump sees 'America First' opportunity in Nasa mission to Moon",
+        "neutral_headline": "Nasa Mission To Moon Seeks Competitive Edge",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cyv1q59py4go?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 31 Mar 2026 09:56:05 GMT",
+            "title": "Trump sees 'America First' opportunity in Nasa mission to Moon",
+            "standfirst": "A competitive edge with China and a possible lunar gold rush are twin goals behind Artemis II, experts tell the BBC.",
+            "content": "A competitive edge with China and a possible lunar gold rush are twin goals behind Artemis II, experts tell the BBC.",
+            "feed_position": 12,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22da/live/cb2bd460-2ceb-11f1-bdf5-ddbf94ae98c3.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22da/live/cb2bd460-2ceb-11f1-bdf5-ddbf94ae98c3.jpg",
+        "ai_summary": [
+          "Nasa mission to moon is competitive",
+          "Artemis II aims to establish lunar presence",
+          "China is also pursuing lunar goals",
+          "Lunar resources are a potential prize",
+          "Mission aims to create new opportunities"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Tue, 31 Mar 2026 09:00:00 GMT",
+        "title": "Inside Health",
+        "neutral_headline": "New Treatment For Hot Flushes Explored",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/sounds/play/m002tbkd?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 31 Mar 2026 09:00:00 GMT",
+            "title": "Inside Health",
+            "standfirst": "James Gallagher finds out how a hot flush feels - and delves into a new treatment.",
+            "content": "James Gallagher finds out how a hot flush feels - and delves into a new treatment.",
+            "feed_position": 60,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg",
+        "ai_summary": [
+          "Hot flushes are a common health issue",
+          "New treatment options are being explored",
+          "Researchers are investigating solutions",
+          "Treatment aims to alleviate symptoms",
+          "Health experts are working on a cure"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 06:50:04 GMT",
         "title": "Starmer gives doctors 48 hours to cancel strike or lose new jobs package",
-        "neutral_headline": "Doctors given 48 hours to cancel strike",
+        "neutral_headline": "Doctors Given 48 Hours To Cancel Strike",
         "items": [
           {
             "source": "BBC Health",
@@ -176,19 +230,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e75c/live/9511a3e0-2cb5-11f1-8207-2f9bcae878ce.jpg",
         "ai_summary": [
-          "The NHS may lose 1,000 extra training places",
-          "The strike is scheduled to last six days",
-          "The prime minister set a deadline for cancellation",
-          "Resident doctors are planning to go on strike",
-          "The strike may affect patient care and services"
+          "Doctors strike may be cancelled",
+          "Prime minister sets deadline for cancellation",
+          "NHS may lose training places",
+          "Strike could have significant consequences",
+          "Doctors union must make a decision"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 05:41:53 GMT",
         "title": "30,000 trees planted to create temperate rainforest",
-        "neutral_headline": "30,000 trees planted for rainforest",
+        "neutral_headline": "Temperate Rainforest Created With Trees",
         "items": [
           {
             "source": "BBC Science",
@@ -203,19 +257,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c310/live/34377210-2c2f-11f1-8c91-adb683bff3f3.jpg",
         "ai_summary": [
-          "The trees were planted two years ahead of schedule",
-          "The site will become a temperate rainforest",
-          "Mixed-native trees were used for the planting",
-          "The project aims to create a new ecosystem",
-          "The rainforest will support local wildlife"
+          "30,000 trees planted to create rainforest",
+          "Project aims to restore natural habitat",
+          "Trees were planted ahead of schedule",
+          "Rainforest will support local wildlife",
+          "Project is an environmental success"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 04:54:51 GMT",
         "title": "'Something wasn't right': Wrong sperm given to UK families by IVF clinics in northern Cyprus",
-        "neutral_headline": "Wrong sperm given to UK families",
+        "neutral_headline": "Wrong Sperm Given To UK Families",
         "items": [
           {
             "source": "BBC Health",
@@ -224,25 +278,25 @@
             "title": "'Something wasn't right': Wrong sperm given to UK families by IVF clinics in northern Cyprus",
             "standfirst": "Families of seven children believe the wrong sperm or egg donors were used in their IVF treatment.",
             "content": "Families of seven children believe the wrong sperm or egg donors were used in their IVF treatment.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eabf/live/36bef6c0-278e-11f1-a79a-77e93010d956.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eabf/live/36bef6c0-278e-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "Families of seven children were affected",
-          "The wrong sperm or egg donors were used",
-          "The incident occurred at IVF clinics",
-          "The families are seeking answers and support",
-          "An investigation into the incident is needed"
+          "Wrong sperm used in IVF treatment",
+          "Families affected by mistake",
+          "IVF clinics in northern Cyprus involved",
+          "Mistake has serious consequences",
+          "Families are seeking answers"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 03:46:22 GMT",
         "title": "The personal items the Artemis II crew are taking to the Moon",
-        "neutral_headline": "Artemis II crew takes personal items",
+        "neutral_headline": "Artemis II Crew Takes Personal Items To Moon",
         "items": [
           {
             "source": "BBC Science",
@@ -257,19 +311,46 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4da/live/9aa7fb10-26a7-11f1-9a4b-834c9ce445e3.jpg",
         "ai_summary": [
-          "The crew are accomplished pilots and scientists",
-          "They will take personal items to the Moon",
-          "The items hold sentimental value",
-          "The crew will embark on a historic mission",
-          "The mission aims to explore the Moon's surface"
+          "Artemis II crew prepares for mission",
+          "Crew members take personal items",
+          "Items hold sentimental value",
+          "Crew is accomplished and experienced",
+          "Mission is a historic opportunity"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
+        "coverage": 1,
+        "updated_at": "Mon, 30 Mar 2026 23:09:50 GMT",
+        "title": "Why the benefit used by more than 8 million people may not be fit for the future",
+        "neutral_headline": "Universal Credit System Under Review",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c3r3w0w1gepo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 30 Mar 2026 23:09:50 GMT",
+            "title": "Why the benefit used by more than 8 million people may not be fit for the future",
+            "standfirst": "Can Universal Credit and the work and benefits system more generally reshape itself to meet a new reality?",
+            "content": "Can Universal Credit and the work and benefits system more generally reshape itself to meet a new reality?",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b58/live/df366ef0-2c48-11f1-934f-036468834728.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b58/live/df366ef0-2c48-11f1-934f-036468834728.jpg",
+        "ai_summary": [
+          "Universal Credit system is being reviewed",
+          "System may not be fit for the future",
+          "Changes may be needed to improve system",
+          "System affects over 8 million people",
+          "Review aims to create a better system"
+        ]
+      },
+      {
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 30 Mar 2026 22:07:41 GMT",
         "title": "Behind the scenes: Astronaut training for Nasa’s moon mission",
-        "neutral_headline": "Astronaut training for moon mission",
+        "neutral_headline": "Astronaut Training For Nasa Moon Mission",
         "items": [
           {
             "source": "BBC Science",
@@ -278,25 +359,25 @@
             "title": "Behind the scenes: Astronaut training for Nasa’s moon mission",
             "standfirst": "Training for the Artemis II flight took place at the Johnson Space Center in Texas, and began soon after the crew was named in 2023.",
             "content": "Training for the Artemis II flight took place at the Johnson Space Center in Texas, and began soon after the crew was named in 2023.",
-            "feed_position": 13,
+            "feed_position": 14,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b62b/live/ef3b5a50-2c56-11f1-b297-95b0a0a8331e.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b62b/live/ef3b5a50-2c56-11f1-b297-95b0a0a8331e.jpg",
         "ai_summary": [
-          "Training took place at the Johnson Space Center",
-          "The crew was named in 2023",
-          "The training prepared the crew for launch",
-          "The mission will mark a new era in space travel",
-          "The crew will face challenges in space"
+          "Astronauts train for Artemis II mission",
+          "Training takes place at Johnson Space Center",
+          "Crew prepares for lunar flight",
+          "Training is rigorous and challenging",
+          "Mission requires skilled astronauts"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Mon, 30 Mar 2026 21:11:44 GMT",
         "title": "Vaping likely to cause lung and oral cancer, Australian researchers find in new review of evidence",
-        "neutral_headline": "Vaping likely to cause lung cancer",
+        "neutral_headline": "Vaping Likely To Cause Lung And Oral Cancer",
         "items": [
           {
             "source": "Guardian Health",
@@ -309,19 +390,19 @@
           }
         ],
         "ai_summary": [
-          "Researchers analyzed evidence from studies",
-          "Vaping alters cells and tissues in the mouth",
-          "The risk of cancer is a major concern",
-          "Regulators are urged to take action",
-          "The study findings are based on scientific evidence"
+          "Vaping may cause lung and oral cancer",
+          "Researchers analyze evidence from studies",
+          "Nicotine e-cigarettes pose health risk",
+          "Regulators urged to take action",
+          "Cancer risk is a major concern"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 30 Mar 2026 16:48:41 GMT",
         "title": "Never mind leading the free world, if Donald Trump were your ageing father, when would you take away his car keys?",
-        "neutral_headline": "Donald Trump's cognitive skills questioned",
+        "neutral_headline": "Donald Trump's Cognitive Skills Are Amazing",
         "items": [
           {
             "source": "Guardian Health",
@@ -334,19 +415,19 @@
           }
         ],
         "ai_summary": [
-          "Trump's mental state is a subject of debate",
-          "He has made confusing statements in public",
-          "His cognitive skills have been tested",
-          "The test results are not publicly available",
-          "Trump's behavior has raised concerns"
+          "Donald Trump boasts about his cognitive skills",
+          "Trump claims to have aced a screening tool for mild cognitive impairment",
+          "The 79-year-old leader has made several confusing statements",
+          "Trump's mental state has raised concerns among experts",
+          "Trump's behavior has been questioned by the public"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 30 Mar 2026 15:48:53 GMT",
         "title": "Inside Nasa's moon spacesuit lab ahead of Artemis launch",
-        "neutral_headline": "Nasa's moon spacesuit lab",
+        "neutral_headline": "Nasa Moon Spacesuit Lab Prepares For Artemis Launch",
         "items": [
           {
             "source": "BBC Science",
@@ -355,25 +436,25 @@
             "title": "Inside Nasa's moon spacesuit lab ahead of Artemis launch",
             "standfirst": "The Artemis II spacesuits are designed to protect the astronauts during launch and landing, as well as possible emergency scenarios.",
             "content": "The Artemis II spacesuits are designed to protect the astronauts during launch and landing, as well as possible emergency scenarios.",
-            "feed_position": 14,
+            "feed_position": 15,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae4a/live/5dbb71c0-2c4f-11f1-b297-95b0a0a8331e.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae4a/live/5dbb71c0-2c4f-11f1-b297-95b0a0a8331e.jpg",
         "ai_summary": [
-          "The spacesuits are designed for protection",
-          "The suits will be used during launch and landing",
-          "The lab is working on emergency scenarios",
-          "The spacesuits are crucial for astronaut safety",
-          "The lab is preparing for the Artemis launch"
+          "Nasa's Artemis II spacesuits are designed for launch and landing",
+          "The spacesuits will protect astronauts during emergency scenarios",
+          "The Artemis mission aims to return humans to the moon",
+          "The spacesuits are being tested and prepared for launch",
+          "Nasa's moon mission is scheduled to launch soon"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 30 Mar 2026 13:59:44 GMT",
         "title": "When is Nasa's Moon mission launch and what will Artemis do?",
-        "neutral_headline": "Nasa's Moon mission launch",
+        "neutral_headline": "Nasa's Moon Mission Launch Scheduled For April",
         "items": [
           {
             "source": "BBC Science",
@@ -382,25 +463,25 @@
             "title": "When is Nasa's Moon mission launch and what will Artemis do?",
             "standfirst": "The first crewed Moon mission in 50 years could launch in April, ahead of a future lunar landing.",
             "content": "The first crewed Moon mission in 50 years could launch in April, ahead of a future lunar landing.",
-            "feed_position": 15,
+            "feed_position": 16,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a00/live/e35f0660-ed44-11f0-8cc8-8329494b82ad.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a00/live/e35f0660-ed44-11f0-8cc8-8329494b82ad.png",
         "ai_summary": [
-          "The mission will launch in April",
-          "The crew will embark on a historic journey",
-          "The mission aims to explore the Moon",
-          "The launch will mark a new era in space travel",
-          "The crew will face challenges in space"
+          "Nasa's Artemis mission will launch in April",
+          "The mission will be the first crewed moon mission in 50 years",
+          "The Artemis mission aims to establish a lunar presence",
+          "The mission will include a lunar landing and return",
+          "Nasa is preparing for the historic launch"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 30 Mar 2026 13:10:26 GMT",
         "title": "New hope for children with severe epilepsy",
-        "neutral_headline": "New hope for children with epilepsy",
+        "neutral_headline": "New Hope For Children With Severe Epilepsy",
         "items": [
           {
             "source": "BBC Health",
@@ -409,25 +490,25 @@
             "title": "New hope for children with severe epilepsy",
             "standfirst": "Researchers says millions of people globally could be carriers of the faulty gene behind the disorder.",
             "content": "Researchers says millions of people globally could be carriers of the faulty gene behind the disorder.",
-            "feed_position": 4,
+            "feed_position": 5,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abe9/live/979754e0-2c27-11f1-8768-1105331460e6.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abe9/live/979754e0-2c27-11f1-8768-1105331460e6.jpg",
         "ai_summary": [
-          "Researchers found a faulty gene behind disorder",
-          "Millions of people may be carriers of the gene",
-          "The discovery brings new hope for treatment",
-          "The research aims to improve patient outcomes",
-          "The study findings are based on scientific evidence"
+          "Researchers have found a faulty gene behind epilepsy",
+          "Millions of people may be carriers of the faulty gene",
+          "The discovery brings new hope for children with epilepsy",
+          "Researchers are working on a treatment for the disorder",
+          "The faulty gene is a significant breakthrough in epilepsy research"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 30 Mar 2026 11:59:02 GMT",
         "title": "Gary Woodland wins Houston Open after brain surgery and PTSD struggles: ‘Today was a good day’",
-        "neutral_headline": "Gary Woodland wins Houston Open",
+        "neutral_headline": "Gary Woodland wins Houston Open after brain surgery and PTSD struggles",
         "items": [
           {
             "source": "Guardian Health",
@@ -440,19 +521,19 @@
           }
         ],
         "ai_summary": [
-          "Woodland won the tournament after brain surgery",
-          "He struggled with PTSD and career setbacks",
-          "Woodland sealed his first win since 2019",
-          "He closed with a three-under 67",
-          "The win is a significant comeback for Woodland"
+          "Gary Woodland won the Houston Open after brain surgery",
+          "Woodland struggled with PTSD and brain lesions",
+          "He closed with a three-under 67 to win the tournament",
+          "Woodland's win was his first since the 2019 US Open",
+          "The victory was a significant comeback for Woodland"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Mon, 30 Mar 2026 10:00:07 GMT",
         "title": "Kent’s meningitis outbreak taught me that post-Covid Britain is not as divided as many feared | Devi Sridhar",
-        "neutral_headline": "Kent's meningitis outbreak response",
+        "neutral_headline": "Kent’s meningitis outbreak taught me that post-Covid Britain is not as divided as many feared",
         "items": [
           {
             "source": "Guardian Health",
@@ -465,19 +546,19 @@
           }
         ],
         "ai_summary": [
-          "The government's plan was clear and effective",
-          "Communities followed the guidance",
-          "Young people led the way in response",
-          "The outbreak highlighted public health concerns",
-          "The response showed a united community effort"
+          "A meningitis outbreak occurred in Kent",
+          "The government's response was clear and effective",
+          "Communities followed the guidance and responded well",
+          "Young people led the way in responding to the outbreak",
+          "The outbreak showed that Britain can respond to health crises"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 30 Mar 2026 10:00:07 GMT",
         "title": "Positive thinking helps you age better? That’s the worst thing I’ve heard all month | Emma Beddington",
-        "neutral_headline": "Positive thinking helps with aging",
+        "neutral_headline": "Positive thinking helps you age better",
         "items": [
           {
             "source": "Guardian Health",
@@ -490,19 +571,19 @@
           }
         ],
         "ai_summary": [
-          "Research found a link between mindset and aging",
-          "Positive beliefs about aging improve function",
+          "Research found that positive thinking helps with aging",
+          "A positive mindset can improve physical and cognitive function",
           "The study followed over-65s for up to 12 years",
-          "The findings suggest a positive mindset is beneficial",
-          "The research has implications for healthy aging"
+          "The results showed that positive thinking can lead to better aging",
+          "Nearly half of the participants showed improved functioning"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Mon, 30 Mar 2026 09:54:32 GMT",
         "title": "Concerns over £166k cost of rehoming bats",
-        "neutral_headline": "Bats Rehoming Costs Raise Concerns",
+        "neutral_headline": "Concerns Over Cost Of Rehoming Bats",
         "items": [
           {
             "source": "BBC Science",
@@ -518,18 +599,18 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7663/live/c939c310-2c14-11f1-8242-19ce04bc18ce.jpg",
         "ai_summary": [
           "Two bat houses are being built next to the M5",
-          "The cost of the project is £166k",
-          "Concerns have been raised over the expense",
-          "The bat houses are intended for rehoming bats",
-          "The project's cost is being questioned by locals"
+          "The cost of the bat houses is £166k",
+          "Concerns have been raised about the expense",
+          "The bat houses are being built to rehome bats",
+          "The cost is being questioned by local authorities"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Mon, 30 Mar 2026 09:48:00 GMT",
         "title": "BBC Inside Science",
-        "neutral_headline": "Humans Returning To The Moon",
+        "neutral_headline": "Humans Are Returning To The Moon",
         "items": [
           {
             "source": "BBC Science",
@@ -544,19 +625,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0n1lmv8.jpg",
         "ai_summary": [
-          "The BBC has a space podcast called 13 Minutes",
-          "The podcast discusses human return to the Moon",
-          "The Moon mission is a significant space event",
-          "The podcast provides updates on space news",
-          "The BBC covers space-related topics and news"
+          "The BBC's space podcast discusses the moon mission",
+          "The mission will return humans to the moon",
+          "The podcast explores the details of the mission",
+          "The mission is a significant step in space exploration",
+          "The podcast provides updates on the mission"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Mon, 30 Mar 2026 09:34:20 GMT",
         "title": "Mounjaro maker wants NHS drug price rises in return for more investment in UK",
-        "neutral_headline": "Mounjaro Maker Wants NHS Drug Price Rises In Return For More Investment In UK",
+        "neutral_headline": "Mounjaro Maker Wants NHS Drug Price Rises",
         "items": [
           {
             "source": "Guardian Health",
@@ -569,19 +650,19 @@
           }
         ],
         "ai_summary": [
-          "Eli Lilly wants NHS drug price increases",
-          "The company wants to end a rebate scheme",
-          "Eli Lilly is in talks with UK ministers",
-          "The company is optimistic about reaching an agreement",
-          "The agreement may lead to more investment in the UK"
+          "Eli Lilly wants the NHS to increase drug prices",
+          "The company is pushing for an end to the rebate scheme",
+          "The company is in talks with UK ministers",
+          "The company wants to invest more in the UK",
+          "The negotiations are ongoing and uncertain"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Mon, 30 Mar 2026 07:00:20 GMT",
         "title": "Is it true that … you can never eat too much fibre?",
-        "neutral_headline": "Eating Too Much Fibre Has Negative Effects",
+        "neutral_headline": "Is It True That You Can Never Eat Too Much Fibre",
         "items": [
           {
             "source": "Guardian Health",
@@ -594,94 +675,17 @@
           }
         ],
         "ai_summary": [
-          "Fibre has health benefits but excess is harmful",
-          "Most people should eat more roughage",
-          "Overloading on fibre can harm the gut",
-          "Ancestors may have eaten up to 100g of fibre daily",
-          "Modern guts may not tolerate high fibre intake"
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Mon, 30 Mar 2026 06:00:19 GMT",
-        "title": "The pet I’ll never forget: Merlin the therapy sheep",
-        "neutral_headline": "The Pet I Will Never Forget Merlin The Therapy Sheep",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/mar/30/the-pet-ill-never-forget-merlin-the-therapy-sheep",
-            "published_at": "Mon, 30 Mar 2026 06:00:19 GMT",
-            "title": "The pet I’ll never forget: Merlin the therapy sheep",
-            "standfirst": "When Merlin came to live with me, his only job was to clear the weeds from my fields. But his calm, affectionate nature has made him a vital part of my therapy practiceMerlin the sheep came to me by chance four years ago. A friend of mine had a lamb she was bottle-feeding, but she couldn’t look after it any more so she asked me if I could take care of it. I live in Moortown, Leeds, and rent about three hectares (seven acres) of land in Eccup, a small village nearby, where I’ve kept horses for about 13 years. I needed some help clearing the weeds that the horses wouldn’t eat and sheep seemed like the best solution because they’ll eat anything – so I said yes.The lamb was called Bambi and when I came to collect her, my friend offered me another lamb, Merlin. Shortly after, Bambi died and it was just Merlin left. It wasn’t long until he started to show his special powers. Continue reading...",
-            "content": "When Merlin came to live with me, his only job was to clear the weeds from my fields. But his calm, affectionate nature has made him a vital part of my therapy practiceMerlin the sheep came to me by chance four years ago. A friend of mine had a lamb she was bottle-feeding, but she couldn’t look after it any more so she asked me if I could take care of it. I live in Moortown, Leeds, and rent about three hectares (seven acres) of land in Eccup, a small village nearby, where I’ve kept horses for about 13 years. I needed some help clearing the weeds that the horses wouldn’t eat and sheep seemed like the best solution because they’ll eat anything – so I said yes.The lamb was called Bambi and when I came to collect her, my friend offered me another lamb, Merlin. Shortly after, Bambi died and it was just Merlin left. It wasn’t long until he started to show his special powers. Continue reading...",
-            "feed_position": 7
-          }
-        ],
-        "ai_summary": [
-          "Merlin is a therapy sheep with a calm nature",
-          "The sheep helps with therapy and weed clearance",
-          "Merlin was acquired by chance four years ago",
-          "The sheep has become a vital part of therapy practice",
-          "Merlin's story is a heartwarming account of animal therapy"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Mon, 30 Mar 2026 05:44:42 GMT",
-        "title": "Monday briefing: ​Has the single-use vape ban made any difference to our health or our environment?",
-        "neutral_headline": "Monday Briefing Has The Single Use Vape Ban Made Any Difference To Our Health Or Our Environment",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/world/2026/mar/30/monday-briefing-has-the-single-use-vape-ban-made-any-difference-to-our-health-or-our-environment",
-            "published_at": "Mon, 30 Mar 2026 05:44:42 GMT",
-            "title": "Monday briefing: ​Has the single-use vape ban made any difference to our health or our environment?",
-            "standfirst": "In today’s newsletter: Nearly a year after ​disposable vapes​ were outlawed, new figures suggest the policy has delivered only modest gains while creating new challengesGood morning. They seemed to come from nowhere: millions of multicoloured plastic contraptions, each producing a plume of sweet-smelling steam. Love them or loathe them, vapes are now an inescapable part of life in the UK – 5.4 million adults are now vaping daily or occasionally in Great Britain, according to ONS figures.To advocates, vapes and e-cigarettes contribute a massive public health benefit by helping people to avoid the toxins and tar that come with tobacco smoking, a major cause of cancer and other health conditions. But detractors caution that they can be equally as addictive, with long-term health outcomes still being studied. Vapes have also been an environmental mess – with millions of single-use devices made from plastic and cheap lithium-ion batteries thrown into landfill.Middle East | Iran has warned the US that it is prepared to confront any ground assault, accusing Washington of secretly planning a land attack while publicly seeking talks.Politics | Keir Starmer will launch Labour’s local elections campaign by saying that a vote for Reform UK will put at risk progress his government is making on the cost of living, arguing that Britain’s values are being tested in a volatile world.UK news | A man has been arrested on suspicion of attempted murder after a car struck several pedestrians on one of Derby’s busiest streets.Religion | Pope Leo has said God ignores the prayers of leaders who wage war and have “hands full of blood”, in an apparent rebuke to the Trump administration.UK news | The NHS is set to miss key targets to shorten waiting times for help at A&E, cancer care and planned hospital treatment, leaving millions of patients facing persistently long delays. Continue reading...",
-            "content": "In today’s newsletter: Nearly a year after ​disposable vapes​ were outlawed, new figures suggest the policy has delivered only modest gains while creating new challengesGood morning. They seemed to come from nowhere: millions of multicoloured plastic contraptions, each producing a plume of sweet-smelling steam. Love them or loathe them, vapes are now an inescapable part of life in the UK – 5.4 million adults are now vaping daily or occasionally in Great Britain, according to ONS figures.To advocates, vapes and e-cigarettes contribute a massive public health benefit by helping people to avoid the toxins and tar that come with tobacco smoking, a major cause of cancer and other health conditions. But detractors caution that they can be equally as addictive, with long-term health outcomes still being studied. Vapes have also been an environmental mess – with millions of single-use devices made from plastic and cheap lithium-ion batteries thrown into landfill.Middle East | Iran has warned the US that it is prepared to confront any ground assault, accusing Washington of secretly planning a land attack while publicly seeking talks.Politics | Keir Starmer will launch Labour’s local elections campaign by saying that a vote for Reform UK will put at risk progress his government is making on the cost of living, arguing that Britain’s values are being tested in a volatile world.UK news | A man has been arrested on suspicion of attempted murder after a car struck several pedestrians on one of Derby’s busiest streets.Religion | Pope Leo has said God ignores the prayers of leaders who wage war and have “hands full of blood”, in an apparent rebuke to the Trump administration.UK news | The NHS is set to miss key targets to shorten waiting times for help at A&E, cancer care and planned hospital treatment, leaving millions of patients facing persistently long delays. Continue reading...",
-            "feed_position": 8
-          }
-        ],
-        "ai_summary": [
-          "Disposable vapes were outlawed nearly a year ago",
-          "The policy has delivered modest health gains",
-          "New challenges have arisen from the ban",
-          "Vapes contribute to public health benefits and risks",
-          "The environmental impact of vapes is still a concern"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Mon, 30 Mar 2026 05:07:55 GMT",
-        "title": "Man fears stroke or heart attack due to aspirin shortage",
-        "neutral_headline": "Man Fears Stroke Or Heart Attack Due To Aspirin Shortage",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c5ylgv14geno?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 30 Mar 2026 05:07:55 GMT",
-            "title": "Man fears stroke or heart attack due to aspirin shortage",
-            "standfirst": "David Slater, 72, says ministers need to step up and sort out issues with the medication.",
-            "content": "David Slater, 72, says ministers need to step up and sort out issues with the medication.",
-            "feed_position": 3,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8439/live/1c1176b0-284f-11f1-937e-1d8f354c3b9a.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8439/live/1c1176b0-284f-11f1-937e-1d8f354c3b9a.jpg",
-        "ai_summary": [
-          "David Slater is concerned about aspirin shortage",
-          "The shortage may lead to health risks for him",
-          "Ministers are being urged to address the issue",
-          "Aspirin is essential for Slater's health needs",
-          "The shortage is causing concern among patients"
+          "Fibre is being promoted as a health benefit",
+          "Some people are urging others to eat as much fibre as possible",
+          "However, eating too much fibre can be harmful",
+          "The recommended daily intake of fibre is not excessive",
+          "Eating excessive fibre can cause digestive issues"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-31T08:08:13.687Z",
+    "updated_at": "2026-03-31T11:50:11.251Z",
     "clusters": []
   }
 }
