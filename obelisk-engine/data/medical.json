@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-03-31T23:34:35.384Z",
+    "updated_at": "2026-04-01T05:24:57.382Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-03-31T23:34:48.510Z",
+    "updated_at": "2026-04-01T05:25:10.511Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -27,10 +27,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/bfe184e2-c354-43fa-9a08-cdc1553fae3f/RACGP-slams-Government-s-cherry-picked-bulk-billing-intervention.aspx",
         "ai_summary": [
           "RACGP criticizes government intervention",
-          "Intervention is cherry picked",
-          "Bulk billing models are affected",
-          "Policy is short sighted",
-          "Community deserves better"
+          "Intervention affects bulk-billing models",
+          "RACGP warns of short-sighted policy",
+          "Policy may distort market",
+          "Community may be negatively affected"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/ea76a0aa-c300-4444-814a-2bb6f1fd68bd/Affordable-healthcare-remains-elusive-for-many-Report.aspx",
         "ai_summary": [
-          "Affordable healthcare is elusive",
-          "Cost is a major issue",
-          "Health system has a fault line",
-          "Better funding is needed",
-          "Report highlights the issue"
+          "Report highlights healthcare affordability issues",
+          "Cost is major factor in healthcare access",
+          "RACGP expert calls for targeted funding",
+          "Better funding needed for healthcare",
+          "Healthcare system has significant flaws"
         ]
       },
       {
@@ -80,11 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/264ee1f9-176c-4ffe-99df-ae9cfee6a59e/New-AI-progression-rolls-out-for-GPs.aspx",
         "ai_summary": [
-          "New AI tool for GPs is launched",
-          "AI has enormous potential",
-          "Tool must be used responsibly",
-          "Medical grade AI is available",
-          "GPs can benefit from AI"
+          "New AI tool launched for medical use",
+          "RACGP experts praise AI potential",
+          "AI can be useful for GPs",
+          "Proper use of AI is essential",
+          "AI can improve medical outcomes"
         ]
       },
       {
@@ -107,51 +107,130 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/3b34ea41-a0c5-40a8-8b9a-fa5ea196aca7/Vapes-likely-to-be-carcinogenic-Study.aspx",
         "ai_summary": [
-          "Vapes are likely carcinogenic",
-          "Study finds health risks",
-          "Vapes should not be used",
-          "GPs have different opinions",
-          "More research is needed"
-        ]
-      },
-      {
-        "id": "cluster_4",
-        "coverage": 1,
-        "updated_at": "Mon, 30 Mar 2026 04:46:37 GMT",
-        "title": "Keytruda expanded on PBS",
-        "neutral_headline": "Keytruda expanded on PBS",
-        "items": [
-          {
-            "source": "newsGP",
-            "url": "https://www1.racgp.org.au/newsgp/clinical/keytruda-expanded-on-pbs?feed=RACGPnewsGPArticles",
-            "published_at": "Mon, 30 Mar 2026 04:46:37 GMT",
-            "title": "Keytruda expanded on PBS",
-            "standfirst": "In a change expected to benefit 10,000 patients, pembrolizumab will be listed for those with several advanced and high-risk cancers.",
-            "content": "In a change expected to benefit 10,000 patients, pembrolizumab will be listed for those with several advanced and high-risk cancers.",
-            "feed_position": 4,
-            "image_url": "https://www1.racgp.org.au/getattachment/2a9639c4-c314-4af3-ae16-2701a1148f9e/Keytruda-expanded-on-PBS.aspx"
-          }
-        ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/2a9639c4-c314-4af3-ae16-2701a1148f9e/Keytruda-expanded-on-PBS.aspx",
-        "ai_summary": [
-          "Keytruda is now on PBS",
-          "Patients with cancer benefit",
-          "Pembrolizumab is listed",
-          "10,000 patients are affected",
-          "Change is expected to help"
+          "Study suggests vapes may be carcinogenic",
+          "Researchers warn against vape use",
+          "RACGP expert disagrees with conclusion",
+          "More research needed on vape safety",
+          "Vape use is a public health concern"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-03-31T23:34:41.368Z",
+    "updated_at": "2026-04-01T05:24:59.978Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Wed, 01 Apr 2026 05:13:05 GMT",
+        "title": "Project to bring rare butterfly back to Yorkshire",
+        "neutral_headline": "Project aims to bring back rare butterfly",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cly081kmrnlo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 01 Apr 2026 05:13:05 GMT",
+            "title": "Project to bring rare butterfly back to Yorkshire",
+            "standfirst": "The UK's largest native butterfly has not been seen in the region for more than a century.",
+            "content": "The UK's largest native butterfly has not been seen in the region for more than a century.",
+            "feed_position": 7,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f71e/live/382e4790-2c57-11f1-862e-73ba828c2693.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f71e/live/382e4790-2c57-11f1-862e-73ba828c2693.jpg",
+        "ai_summary": [
+          "Project targets rare butterfly species",
+          "Butterfly not seen in Yorkshire for century",
+          "Conservation efforts are underway",
+          "Project aims to restore butterfly habitat",
+          "Rare butterfly is native to UK"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Wed, 01 Apr 2026 05:03:08 GMT",
+        "title": "Museum gets grant for Bradford astronomer project",
+        "neutral_headline": "Museum gets grant for astronomer project",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c17vr0w020go?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 01 Apr 2026 05:03:08 GMT",
+            "title": "Museum gets grant for Bradford astronomer project",
+            "standfirst": "The project at Bolling Hall Museum will focus on Bradford-born astronomer Abraham Sharp.",
+            "content": "The project at Bolling Hall Museum will focus on Bradford-born astronomer Abraham Sharp.",
+            "feed_position": 12,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a827/live/76e10fa0-2d0a-11f1-903b-c7d082edabea.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a827/live/76e10fa0-2d0a-11f1-903b-c7d082edabea.jpg",
+        "ai_summary": [
+          "Museum receives grant for project",
+          "Project focuses on Bradford astronomer",
+          "Abraham Sharp was a notable astronomer",
+          "Project will highlight Sharp's contributions",
+          "Museum will showcase astronomer's work"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Wed, 01 Apr 2026 04:00:37 GMT",
+        "title": "NHS England to offer weight-loss drugs to 1.2m people to reduce risk of heart attacks and strokes",
+        "neutral_headline": "NHS to offer weight-loss drugs to 1 million",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/science/2026/apr/01/nhs-england-weight-loss-drugs-reduce-risk-heart-attacks-strokes-semaglutide-wegovy",
+            "published_at": "Wed, 01 Apr 2026 04:00:37 GMT",
+            "title": "NHS England to offer weight-loss drugs to 1.2m people to reduce risk of heart attacks and strokes",
+            "standfirst": "People who are not obese but overweight and at risk of serious cardiovascular events eligible for weekly jabsThe NHS in England is to offer more than 1 million people weight-loss drugs to reduce their risk of heart attacks and strokes.Semaglutide (Wegovy) is already available on the health service for some people living with obesity, and also offered under the brand name Ozempic to treat type 2 diabetes. Continue reading...",
+            "content": "People who are not obese but overweight and at risk of serious cardiovascular events eligible for weekly jabsThe NHS in England is to offer more than 1 million people weight-loss drugs to reduce their risk of heart attacks and strokes.Semaglutide (Wegovy) is already available on the health service for some people living with obesity, and also offered under the brand name Ozempic to treat type 2 diabetes. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "NHS will offer weight-loss drugs",
+          "Drugs aim to reduce heart attack risk",
+          "1 million people eligible for treatment",
+          "Semaglutide is already used for obesity",
+          "Weekly jabs will be administered"
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Wed, 01 Apr 2026 00:00:18 GMT",
+        "title": "What it's like to be on Florida's Space Coast ahead of Artemis launch",
+        "neutral_headline": "Crowds gather for Artemis launch",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 01 Apr 2026 00:00:18 GMT",
+            "title": "What it's like to be on Florida's Space Coast ahead of Artemis launch",
+            "standfirst": "Huge crowds are gathering around the Kennedy Space Centre to see the launch of the historic moon mission.",
+            "content": "Huge crowds are gathering around the Kennedy Space Centre to see the launch of the historic moon mission.",
+            "feed_position": 13,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64e5/live/975ac590-2d2e-11f1-b297-95b0a0a8331e.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64e5/live/975ac590-2d2e-11f1-b297-95b0a0a8331e.jpg",
+        "ai_summary": [
+          "Crowds gather at Kennedy Space Centre",
+          "Artemis launch is highly anticipated",
+          "Mission marks historic moon return",
+          "NASA team is preparing for launch",
+          "Launch is scheduled for this week"
+        ]
+      },
+      {
+        "id": "cluster_4",
+        "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 23:15:05 GMT",
         "title": "Almost half of primary teachers in England see pupils with eating disorders, survey finds",
-        "neutral_headline": "Primary Teachers See Pupils With Eating Disorders",
+        "neutral_headline": "Teachers see pupils with eating disorders",
         "items": [
           {
             "source": "Guardian Health",
@@ -160,23 +239,23 @@
             "title": "Almost half of primary teachers in England see pupils with eating disorders, survey finds",
             "standfirst": "Poll of 10,000 teachers also finds ‘overwhelming’ exam anxiety and rising absenteeism linked to poor mental healthAlmost half of primary school teachers are seeing pupils with eating disorders “at least occasionally”, rising to four in five at secondary level, according to a survey by the UK’s largest education union.The findings emerged in a poll of 10,000 teachers in English state schools about pupils’ mental health, which also revealed “overwhelming” exam anxiety in secondaries and dwindling numbers of counsellors to support students. Continue reading...",
             "content": "Poll of 10,000 teachers also finds ‘overwhelming’ exam anxiety and rising absenteeism linked to poor mental healthAlmost half of primary school teachers are seeing pupils with eating disorders “at least occasionally”, rising to four in five at secondary level, according to a survey by the UK’s largest education union.The findings emerged in a poll of 10,000 teachers in English state schools about pupils’ mental health, which also revealed “overwhelming” exam anxiety in secondaries and dwindling numbers of counsellors to support students. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ],
         "ai_summary": [
-          "Teachers see pupils with eating disorders",
-          "Almost half of teachers see cases",
-          "Exam anxiety is overwhelming",
-          "Mental health is a concern",
-          "Counsellors are in short supply"
+          "Teachers report pupils with eating disorders",
+          "Survey finds significant mental health issues",
+          "Exam anxiety is a major concern",
+          "Counsellors are needed to support students",
+          "Mental health is a growing issue"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 18:51:48 GMT",
         "title": "'God squad' waives animal protections to expand oil drilling",
-        "neutral_headline": "Animal Protections Waived For Oil Drilling",
+        "neutral_headline": "Animal protections waived for oil drilling",
         "items": [
           {
             "source": "BBC Science",
@@ -185,25 +264,25 @@
             "title": "'God squad' waives animal protections to expand oil drilling",
             "standfirst": "Secretary of Defence Pete Hegseth said exempting oil drilling was a matter of national security.",
             "content": "Secretary of Defence Pete Hegseth said exempting oil drilling was a matter of national security.",
-            "feed_position": 7,
+            "feed_position": 8,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/385b/live/7bed8e20-2d22-11f1-a36a-2bc3523bb833.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/385b/live/7bed8e20-2d22-11f1-a36a-2bc3523bb833.jpg",
         "ai_summary": [
-          "Animal protections are waived",
-          "Oil drilling is exempt",
-          "National security is cited",
-          "Secretary of Defence makes decision",
+          "Animal protections waived for drilling",
+          "Decision made due to national security",
+          "Secretary of Defence supports exemption",
+          "Exemption allows for expanded drilling",
           "Environmental concerns are raised"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 18:11:22 GMT",
         "title": "Head of NHS England ‘really worried’ about medicine supplies",
-        "neutral_headline": "NHS England Head Worried About Medicine Supplies",
+        "neutral_headline": "NHS England head worried about medicine supplies",
         "items": [
           {
             "source": "Guardian Health",
@@ -212,23 +291,23 @@
             "title": "Head of NHS England ‘really worried’ about medicine supplies",
             "standfirst": "Jim Mackey responds to concerns about cost implications and supply disruption link to war against IranMiddle East crisis – live updatesThe head of the NHS in England has said he is “really worried” about medicine supply issues.A number of experts have raised concerns about cost implications and supply disruption linked to the war in Iran. Continue reading...",
             "content": "Jim Mackey responds to concerns about cost implications and supply disruption link to war against IranMiddle East crisis – live updatesThe head of the NHS in England has said he is “really worried” about medicine supply issues.A number of experts have raised concerns about cost implications and supply disruption linked to the war in Iran. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ],
         "ai_summary": [
-          "NHS England head is worried",
-          "Medicine supplies are a concern",
-          "Cost implications are a factor",
-          "Supply disruption is possible",
-          "War in Iran is a factor"
+          "NHS England head expresses concern",
+          "Medicine supply issues are a worry",
+          "War in Iran may affect supplies",
+          "Cost implications are a concern",
+          "NHS is preparing for potential shortages"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 17:30:16 GMT",
         "title": "How will the Artemis astronauts go to the toilet in space?",
-        "neutral_headline": "Artemis Astronauts Have New Toilet System",
+        "neutral_headline": "Astronauts to use new space toilet system",
         "items": [
           {
             "source": "BBC Science",
@@ -237,25 +316,25 @@
             "title": "How will the Artemis astronauts go to the toilet in space?",
             "standfirst": "For the ten day mission, Nasa scientists have developed a new 'universal waste management system', which is basically a space loo.",
             "content": "For the ten day mission, Nasa scientists have developed a new 'universal waste management system', which is basically a space loo.",
-            "feed_position": 12,
+            "feed_position": 14,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b90/live/859ffd00-2c95-11f1-a79a-77e93010d956.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b90/live/859ffd00-2c95-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "Astronauts have new toilet system",
-          "System is for space missions",
-          "NASA develops universal waste system",
-          "Toilet is for ten day mission",
-          "System is a new development"
+          "NASA develops new space toilet system",
+          "System is designed for Artemis mission",
+          "Toilet system is universal and efficient",
+          "Astronauts will use system for ten days",
+          "System is a significant technological advance"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 16:19:54 GMT",
         "title": "What are the new bin rules in England?",
-        "neutral_headline": "New Bin Rules In England",
+        "neutral_headline": "New Bin Rules In England Start",
         "items": [
           {
             "source": "BBC Science",
@@ -264,25 +343,25 @@
             "title": "What are the new bin rules in England?",
             "standfirst": "New rules requiring weekly food waste collections for all homes in England have come into force.",
             "content": "New rules requiring weekly food waste collections for all homes in England have come into force.",
-            "feed_position": 8,
+            "feed_position": 9,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e679/live/1e934c20-2d1c-11f1-934f-036468834728.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e679/live/1e934c20-2d1c-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "New bin rules are in force",
-          "Weekly food waste collections required",
-          "Rules apply to all homes",
-          "England has new waste rules",
-          "Collections are now mandatory"
+          "New rules require weekly food waste collections",
+          "All homes in England are affected by the rules",
+          "Collections will help reduce waste and increase recycling",
+          "The rules aim to improve environmental sustainability",
+          "Weekly collections will be mandatory for all households"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 14:57:26 GMT",
         "title": "‘Should never have been prescribed’: private UK cannabis clinics face call for tighter regulation",
-        "neutral_headline": "Private UK Cannabis Clinics Face Regulation Call",
+        "neutral_headline": "‘Should never have been prescribed’: private UK cannabis clinics face call for tighter regulation",
         "items": [
           {
             "source": "Guardian Health",
@@ -291,23 +370,23 @@
             "title": "‘Should never have been prescribed’: private UK cannabis clinics face call for tighter regulation",
             "standfirst": "Family pushing for greater controls after inquest finds Oliver Robinson’s prescription was ‘obstacle’ to proper careOliver Robinson felt he had exhausted conventional therapies when he left the Priory, a private mental health facility where he was treated for depression and addiction between 2019 and 2022. Initially he found relief from a new kind of prescription elsewhere. But by the time he took his own life in November 2023, aged 34, his family believe his medicine was making him worse.In January, an inquest concluded that Robinson’s prescription for medicinal cannabis had “probably contributed to his death”. Catherine McKenna, the coroner for Manchester North, also ruled that his continued use of the prescription, first issued to him in May 2022 by Curaleaf Clinic, a private cannabis provider, “acted as an obstacle” to him receiving appropriate psychiatric and addiction care. His family understand this to be the first ruling of its kind. Continue reading...",
             "content": "Family pushing for greater controls after inquest finds Oliver Robinson’s prescription was ‘obstacle’ to proper careOliver Robinson felt he had exhausted conventional therapies when he left the Priory, a private mental health facility where he was treated for depression and addiction between 2019 and 2022. Initially he found relief from a new kind of prescription elsewhere. But by the time he took his own life in November 2023, aged 34, his family believe his medicine was making him worse.In January, an inquest concluded that Robinson’s prescription for medicinal cannabis had “probably contributed to his death”. Catherine McKenna, the coroner for Manchester North, also ruled that his continued use of the prescription, first issued to him in May 2022 by Curaleaf Clinic, a private cannabis provider, “acted as an obstacle” to him receiving appropriate psychiatric and addiction care. His family understand this to be the first ruling of its kind. Continue reading...",
-            "feed_position": 2
+            "feed_position": 3
           }
         ],
         "ai_summary": [
-          "Private cannabis clinics face regulation",
-          "Call for tighter controls",
-          "Inquest finds prescription was obstacle",
-          "Family pushes for greater controls",
-          "Medicinal cannabis is a concern"
+          "Oliver Robinson was prescribed medicinal cannabis in 2019",
+          "An inquest found the prescription contributed to his death",
+          "The coroner ruled the prescription hindered proper care",
+          "Robinson's family is pushing for greater regulation",
+          "The inquest's findings are believed to be the first of their kind"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 13:56:28 GMT",
         "title": "Could weather conditions stop Artemis II Moon launch?",
-        "neutral_headline": "NASA Artemis II Moon Launch Delayed",
+        "neutral_headline": "Weather Conditions May Delay Moon Launch",
         "items": [
           {
             "source": "BBC Science",
@@ -316,79 +395,25 @@
             "title": "Could weather conditions stop Artemis II Moon launch?",
             "standfirst": "Nasa hopes to launch the first crewed mission around the Moon in more than 50 years, but weather may decide if the astronauts take off this week.",
             "content": "Nasa hopes to launch the first crewed mission around the Moon in more than 50 years, but weather may decide if the astronauts take off this week.",
-            "feed_position": 13,
+            "feed_position": 15,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9396/live/ca4b1d10-2d06-11f1-a79a-77e93010d956.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9396/live/ca4b1d10-2d06-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "NASA hopes to launch Artemis II Moon mission",
-          "Weather conditions may delay the launch",
-          "First crewed mission around the Moon in 50 years",
-          "Astronauts prepare for historic space journey",
-          "Launch window depends on favorable weather"
+          "NASA plans to launch the Artemis II mission",
+          "Weather conditions may affect the launch schedule",
+          "The mission will be the first crewed Moon launch in 50 years",
+          "Astronauts will orbit the Moon during the mission",
+          "NASA is monitoring weather conditions closely"
         ]
       },
       {
-        "id": "cluster_7",
-        "coverage": 1,
-        "updated_at": "Tue, 31 Mar 2026 12:51:52 GMT",
-        "title": "Nasa Apollo missions: Stories of the last Moon men",
-        "neutral_headline": "NASA Apollo Missions Remembered",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c4g9yde95yyo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 31 Mar 2026 12:51:52 GMT",
-            "title": "Nasa Apollo missions: Stories of the last Moon men",
-            "standfirst": "Of the 24 Nasa astronauts who travelled to the Moon in the Apollo missions of the 1960s and 1970s, just five remain.",
-            "content": "Of the 24 Nasa astronauts who travelled to the Moon in the Apollo missions of the 1960s and 1970s, just five remain.",
-            "feed_position": 14,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8894/live/d1b29b80-74a3-11f0-8071-1788c7e8ae0e.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8894/live/d1b29b80-74a3-11f0-8071-1788c7e8ae0e.jpg",
-        "ai_summary": [
-          "24 astronauts traveled to the Moon in Apollo missions",
-          "Only five astronauts from Apollo missions remain",
-          "NASA reflects on historic Moon landings",
-          "Apollo missions marked significant achievements",
-          "Astronauts share stories of their space experiences"
-        ]
-      },
-      {
-        "id": "cluster_8",
-        "coverage": 1,
-        "updated_at": "Tue, 31 Mar 2026 09:56:05 GMT",
-        "title": "Trump sees 'America First' opportunity in Nasa mission to Moon",
-        "neutral_headline": "Trump Sees Opportunity in NASA Mission",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cyv1q59py4go?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 31 Mar 2026 09:56:05 GMT",
-            "title": "Trump sees 'America First' opportunity in Nasa mission to Moon",
-            "standfirst": "A competitive edge with China and a possible lunar gold rush are twin goals behind Artemis II, experts tell the BBC.",
-            "content": "A competitive edge with China and a possible lunar gold rush are twin goals behind Artemis II, experts tell the BBC.",
-            "feed_position": 15,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22da/live/cb2bd460-2ceb-11f1-bdf5-ddbf94ae98c3.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22da/live/cb2bd460-2ceb-11f1-bdf5-ddbf94ae98c3.jpg",
-        "ai_summary": [
-          "Trump administration supports NASA Artemis II",
-          "Competitive edge with China is a key goal",
-          "Lunar gold rush is a potential opportunity",
-          "Experts discuss implications of NASA mission",
-          "Artemis II aims to establish US presence on Moon"
-        ]
-      },
-      {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 09:00:00 GMT",
         "title": "Inside Health",
-        "neutral_headline": "New Treatment for Hot Flushes Explored",
+        "neutral_headline": "New Treatment For Hot Flushes Explored",
         "items": [
           {
             "source": "BBC Health",
@@ -403,19 +428,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg",
         "ai_summary": [
-          "Researchers investigate hot flush treatment",
-          "New approach aims to alleviate symptoms",
-          "Study examines causes of hot flushes",
-          "Treatment options are being developed",
-          "Scientists seek to improve women's health"
+          "A new treatment for hot flushes is being researched",
+          "The treatment aims to alleviate menopause symptoms",
+          "Researchers are investigating the treatment's effectiveness",
+          "Hot flushes are a common menopause symptom",
+          "The treatment may provide relief for affected women"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 06:50:04 GMT",
         "title": "Starmer gives doctors 48 hours to cancel strike or lose new jobs package",
-        "neutral_headline": "Starmer Gives Doctors 48 Hours to Cancel Strike",
+        "neutral_headline": "Doctors Given 48 Hours To Cancel Strike",
         "items": [
           {
             "source": "BBC Health",
@@ -440,19 +465,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c369/live/4677e490-2cf8-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "Prime Minister sets deadline for doctors to cancel strike",
-          "NHS may lose 1000 training places if strike occurs",
-          "Doctors' union considers next steps",
-          "Strike could impact healthcare services",
-          "Government seeks to resolve dispute quickly"
+          "The prime minister has given doctors an ultimatum",
+          "Doctors must cancel their strike within 48 hours",
+          "The strike is scheduled to last for six days",
+          "The NHS may lose 1000 training places if the strike proceeds",
+          "The prime minister is trying to avoid the strike"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 05:41:53 GMT",
         "title": "30,000 trees planted to create temperate rainforest",
-        "neutral_headline": "Temperate Rainforest Project Completes",
+        "neutral_headline": "Temperate Rainforest Created With 30000 Trees",
         "items": [
           {
             "source": "BBC Science",
@@ -461,25 +486,25 @@
             "title": "30,000 trees planted to create temperate rainforest",
             "standfirst": "The site sees the last of 30,000 mixed-native trees go into the ground two years ahead of schedule.",
             "content": "The site sees the last of 30,000 mixed-native trees go into the ground two years ahead of schedule.",
-            "feed_position": 9,
+            "feed_position": 10,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c310/live/34377210-2c2f-11f1-8c91-adb683bff3f3.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c310/live/34377210-2c2f-11f1-8c91-adb683bff3f3.jpg",
         "ai_summary": [
-          "30000 trees planted in temperate rainforest project",
-          "Project completed two years ahead of schedule",
-          "Mixed-native trees used in the project",
-          "Site will become a temperate rainforest",
-          "Environmental benefits are expected"
+          "30000 trees have been planted in a new rainforest",
+          "The rainforest is a temperate ecosystem",
+          "The trees were planted two years ahead of schedule",
+          "The rainforest will help improve biodiversity",
+          "The project aims to create a sustainable ecosystem"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 05:25:38 GMT",
         "title": "The man who wants to bring human composting to the UK",
-        "neutral_headline": "Human Composting Considered in UK",
+        "neutral_headline": "Human Composting Considered As Funeral Option",
         "items": [
           {
             "source": "BBC Health",
@@ -494,19 +519,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b9/live/ad6a61d0-2ce1-11f1-b297-95b0a0a8331e.png",
         "ai_summary": [
-          "Human composting is a new funeral option",
-          "Process involves body turning into soil",
-          "Organic matter is used in the process",
-          "Environmental benefits are being explored",
-          "UK considers adopting human composting"
+          "Human composting is a new funeral method",
+          "The method involves turning bodies into soil",
+          "The process uses organic matter to break down bodies",
+          "Human composting is not yet available in the UK",
+          "The method may become a sustainable funeral option"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 04:54:51 GMT",
         "title": "'Something wasn't right': Wrong sperm given to UK families by IVF clinics in northern Cyprus",
-        "neutral_headline": "Wrong Sperm Given to UK Families",
+        "neutral_headline": "Wrong Sperm Donors Used In IVF Treatments",
         "items": [
           {
             "source": "BBC Health",
@@ -521,19 +546,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eabf/live/36bef6c0-278e-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "Families receive wrong sperm from IVF clinics",
-          "Seven families affected by the mistake",
-          "Investigation into the incident is ongoing",
-          "Families seek answers and compensation",
-          "IVF clinics face scrutiny over the error"
+          "Seven families received wrong sperm donors in IVF",
+          "The error occurred in clinics in northern Cyprus",
+          "The families are seeking answers and compensation",
+          "The mistake has caused emotional distress for the families",
+          "An investigation into the error is underway"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 03:46:22 GMT",
         "title": "The personal items the Artemis II crew are taking to the Moon",
-        "neutral_headline": "Artemis II Crew Prepare for Moon Mission",
+        "neutral_headline": "Artemis II Crew Takes Personal Items To Moon",
         "items": [
           {
             "source": "BBC Science",
@@ -548,19 +573,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4da/live/9aa7fb10-26a7-11f1-9a4b-834c9ce445e3.jpg",
         "ai_summary": [
-          "Artemis II crew reveal personal items for Moon trip",
-          "Crew members are accomplished pilots and scientists",
-          "Family sacrifices are made for the mission",
-          "Crew prepares for historic space journey",
-          "NASA supports the astronauts' families"
+          "The Artemis II crew is taking personal items to the Moon",
+          "The items hold sentimental value for the astronauts",
+          "The crew includes pilots, engineers, and scientists",
+          "The astronauts have made family sacrifices for the mission",
+          "The personal items will be a reminder of home"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Mon, 30 Mar 2026 23:09:50 GMT",
         "title": "Why the benefit used by more than 8 million people may not be fit for the future",
-        "neutral_headline": "Universal Credit System Faces Challenges",
+        "neutral_headline": "Universal Credit System May Need Reform",
         "items": [
           {
             "source": "BBC Health",
@@ -575,19 +600,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b58/live/df366ef0-2c48-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "Universal Credit system needs to adapt",
-          "Changing work and benefits landscape",
-          "System faces challenges in meeting new reality",
-          "Government considers reforms to the system",
-          "Experts discuss potential solutions"
+          "The Universal Credit system may require reform",
+          "The system is used by over 8 million people",
+          "The system aims to support people in need",
+          "Reform may be necessary to improve the system",
+          "The government is considering changes to the system"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Mon, 30 Mar 2026 21:11:44 GMT",
         "title": "Vaping likely to cause lung and oral cancer, Australian researchers find in new review of evidence",
-        "neutral_headline": "Vaping likely to cause lung and oral cancer, Australian researchers find in new review of evidence",
+        "neutral_headline": "Vaping Likely To Cause Lung And Oral Cancer",
         "items": [
           {
             "source": "Guardian Health",
@@ -596,19 +621,19 @@
             "title": "Vaping likely to cause lung and oral cancer, Australian researchers find in new review of evidence",
             "standfirst": "‘There is no doubt that the cells and tissues of the oral cavity, the mouth and the lungs are altered by inhalation from e-cigarettes,’ academic saysFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastVaping is likely to cause lung and oral cancer, researchers have found, as they urged regulators to act now rather than wait decades for a definitive level of risk.Cancer researchers led by the University of New South Wales in Sydney analysed reviews of evidence from animal studies, human case reports and laboratory research published between 2017 and 2025, in one of the most detailed assessments to date of whether nicotine e-cigarettes could cause cancer. Continue reading...",
             "content": "‘There is no doubt that the cells and tissues of the oral cavity, the mouth and the lungs are altered by inhalation from e-cigarettes,’ academic saysFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastVaping is likely to cause lung and oral cancer, researchers have found, as they urged regulators to act now rather than wait decades for a definitive level of risk.Cancer researchers led by the University of New South Wales in Sydney analysed reviews of evidence from animal studies, human case reports and laboratory research published between 2017 and 2025, in one of the most detailed assessments to date of whether nicotine e-cigarettes could cause cancer. Continue reading...",
-            "feed_position": 3
+            "feed_position": 4
           }
         ],
         "ai_summary": [
-          "Vaping linked to lung and oral cancer risk",
-          "Australian researchers analyze evidence from studies",
-          "Nicotine e-cigarettes pose health risks",
-          "Regulators urged to take action on vaping",
-          "Cancer risk from vaping is a growing concern"
+          "Vaping has been linked to lung and oral cancer",
+          "Researchers analyzed evidence from animal studies",
+          "The findings suggest a strong link between vaping and cancer",
+          "Regulators are being urged to take action",
+          "The research is one of the most detailed assessments to date"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Mon, 30 Mar 2026 16:48:41 GMT",
         "title": "Never mind leading the free world, if Donald Trump were your ageing father, when would you take away his car keys?",
@@ -621,73 +646,21 @@
             "title": "Never mind leading the free world, if Donald Trump were your ageing father, when would you take away his car keys?",
             "standfirst": "Presidential decisions can mean life or death for millions around the world, that’s why constitutional safeguards exist. But do they work in practice?Donald Trump’s cognitive skills are amazing. So amazing! So great! So much better than any other dumb presidential contender you could mention, at least according to Trump himself, who bragged once again last week of how he had repeatedly aced what he calls “a very hard test for a lot of people”. (It’s thought he means a screening tool for mild cognitive impairment in elderly people.)Sure, the 79-year-old leader of the free world recently interrupted a cabinet meeting in the middle of a war to ramble on at length about a conversation he supposedly had with the head of the Sharpie pen company over supplying bespoke presidential felt-tips, of which the firm said it could find no record. And made a baffling joke about Pearl Harbor during a press conference in front of an alarmed-looking Japanese prime minister. And called the strait of Hormuz the “strait of Trump”, before adding that that was absolutely deliberate because “there are no accidents with me”. But anyway, to be clear, his mental state is great. The greatest!Gaby Hinsliff is a Guardian columnistDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
             "content": "Presidential decisions can mean life or death for millions around the world, that’s why constitutional safeguards exist. But do they work in practice?Donald Trump’s cognitive skills are amazing. So amazing! So great! So much better than any other dumb presidential contender you could mention, at least according to Trump himself, who bragged once again last week of how he had repeatedly aced what he calls “a very hard test for a lot of people”. (It’s thought he means a screening tool for mild cognitive impairment in elderly people.)Sure, the 79-year-old leader of the free world recently interrupted a cabinet meeting in the middle of a war to ramble on at length about a conversation he supposedly had with the head of the Sharpie pen company over supplying bespoke presidential felt-tips, of which the firm said it could find no record. And made a baffling joke about Pearl Harbor during a press conference in front of an alarmed-looking Japanese prime minister. And called the strait of Hormuz the “strait of Trump”, before adding that that was absolutely deliberate because “there are no accidents with me”. But anyway, to be clear, his mental state is great. The greatest!Gaby Hinsliff is a Guardian columnistDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "feed_position": 4
-          }
-        ],
-        "ai_summary": [
-          "Donald Trump's cognitive skills are questioned",
-          "Presidential decisions have significant implications",
-          "Concerns about Trump's mental state are raised",
-          "Experts discuss cognitive impairment in elderly",
-          "Trump's behavior sparks debate and concern"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Mon, 30 Mar 2026 13:10:26 GMT",
-        "title": "New hope for children with severe epilepsy",
-        "neutral_headline": "New Hope for Children with Severe Epilepsy",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/clyx10g4qw7o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 30 Mar 2026 13:10:26 GMT",
-            "title": "New hope for children with severe epilepsy",
-            "standfirst": "Researchers says millions of people globally could be carriers of the faulty gene behind the disorder.",
-            "content": "Researchers says millions of people globally could be carriers of the faulty gene behind the disorder.",
-            "feed_position": 5,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abe9/live/979754e0-2c27-11f1-8768-1105331460e6.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abe9/live/979754e0-2c27-11f1-8768-1105331460e6.jpg",
-        "ai_summary": [
-          "Researchers discover new hope for epilepsy treatment",
-          "Faulty gene behind the disorder is identified",
-          "Millions of people may be carriers of the gene",
-          "New treatment options are being explored",
-          "Scientists seek to improve epilepsy care"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Mon, 30 Mar 2026 11:59:02 GMT",
-        "title": "Gary Woodland wins Houston Open after brain surgery and PTSD struggles: ‘Today was a good day’",
-        "neutral_headline": "Gary Woodland wins Houston Open after brain surgery and PTSD struggles",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/sport/2026/mar/30/gary-woodland-wins-houston-open-after-brain-surgery-and-ptsd-struggles-today-was-a-good-day",
-            "published_at": "Mon, 30 Mar 2026 11:59:02 GMT",
-            "title": "Gary Woodland wins Houston Open after brain surgery and PTSD struggles: ‘Today was a good day’",
-            "standfirst": "41-year-old seals first PGA Tour win since 2019 US OpenBrain lesion derailed American’s careerGary Woodland won the Houston Open on Sunday, a moment that seemed improbable 30 months ago when he had brain surgery, and even two weeks ago when he opened up about his struggles with post-traumatic stress disorder.Woodland looked close to his best at Memorial Park, coasting home to a trophy that felt as important as his US Open title at Pebble Beach in 2019. He closed with a three-under 67 to win by five shots over Nicolai Hojgaard. The gallery chanted Woodland’s name before falling silent so he could roll in the winning putt. Continue reading...",
-            "content": "41-year-old seals first PGA Tour win since 2019 US OpenBrain lesion derailed American’s careerGary Woodland won the Houston Open on Sunday, a moment that seemed improbable 30 months ago when he had brain surgery, and even two weeks ago when he opened up about his struggles with post-traumatic stress disorder.Woodland looked close to his best at Memorial Park, coasting home to a trophy that felt as important as his US Open title at Pebble Beach in 2019. He closed with a three-under 67 to win by five shots over Nicolai Hojgaard. The gallery chanted Woodland’s name before falling silent so he could roll in the winning putt. Continue reading...",
             "feed_position": 5
           }
         ],
         "ai_summary": [
-          "Gary Woodland wins Houston Open golf tournament",
-          "Woodland overcomes brain surgery and PTSD",
-          "American golfer seals first PGA Tour win since 2019",
-          "Woodland's victory is a significant achievement",
-          "Golfer's struggles and triumph are an inspiration"
+          "Donald Trump's cognitive skills have been questioned",
+          "Trump has made confusing statements in public",
+          "The president's mental state is a concern",
+          "Trump has boasted about his cognitive abilities",
+          "The issue raises questions about presidential decision-making"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-03-31T23:34:48.510Z",
+    "updated_at": "2026-04-01T05:25:10.512Z",
     "clusters": []
   }
 }
