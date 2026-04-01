@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-04-01T08:15:26.133Z",
+    "updated_at": "2026-04-01T11:53:07.544Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-04-01T08:15:35.392Z",
+    "updated_at": "2026-04-01T11:53:16.331Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/1d294443-ff73-48c9-ba85-84ebde190ee0/Wegovy-approved-to-treat-severe-fatty-liver-disease.aspx",
         "ai_summary": [
-          "Wegovy is approved for liver disease treatment",
-          "The treatment can help slow disease progression",
+          "Wegovy is approved for fatty liver disease",
+          "The treatment can slow disease progression",
           "Experts support the new indication",
-          "The approval is a significant development",
-          "The treatment can be used with other strategies"
+          "The approval is provisional",
+          "The treatment is part of early intervention"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/690c242c-80ed-4986-bfc5-0a4428e0edd1/What-impact-will-new-Medicare-telehealth-therapy-have.aspx",
         "ai_summary": [
-          "Patients can access free telehealth service",
-          "No GP referral is required for the service",
-          "The service is a new development in healthcare",
-          "There are queries about the service's implementation",
-          "The service may improve access to healthcare"
+          "New Medicare telehealth service is available",
+          "Patients can access the service for free",
+          "No GP referral is required",
+          "The service is part of a new initiative",
+          "The impact on healthcare is being assessed"
         ]
       },
       {
@@ -80,11 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/6738b942-b397-4226-92ff-a7fed0ddd674/Real-sense-of-excitement-at-Perth-ADHD-symposium.aspx",
         "ai_summary": [
-          "The symposium was attended by GPs and experts",
-          "The event focused on ADHD treatment",
-          "There is a new era for ADHD treatment",
-          "The symposium was a significant event",
-          "Experts shared knowledge and ideas"
+          "The Perth ADHD symposium was successful",
+          "GPs and experts shared knowledge",
+          "The event was part of a new era",
+          "ADHD treatment is being reevaluated",
+          "The symposium sparked excitement and interest"
         ]
       },
       {
@@ -107,11 +107,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/dab3edfd-3b92-4ef1-a795-610cddef93f0/Record-number-of-future-GPs-start-training-in-Victoria.aspx",
         "ai_summary": [
-          "Over 360 doctors started training in Victoria",
-          "30% of doctors chose rural and regional locations",
-          "The training program is a significant development",
-          "The doctors will learn about general practice",
-          "The program will help address healthcare needs"
+          "A record number of GPs start training",
+          "Over 360 doctors begin their training",
+          "30% choose to train in rural areas",
+          "The increase is a positive trend",
+          "The training will help address healthcare needs"
         ]
       },
       {
@@ -134,24 +134,24 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/bfe184e2-c354-43fa-9a08-cdc1553fae3f/RACGP-slams-Government-s-cherry-picked-bulk-billing-intervention.aspx",
         "ai_summary": [
-          "The RACGP criticized the Government's policy",
-          "The policy is a bulk-billing intervention",
-          "The college warned about the policy's impact",
-          "The policy may distort the market",
-          "The RACGP is concerned about the policy"
+          "RACGP criticizes the Government's policy",
+          "The policy is seen as short-sighted",
+          "The intervention may distort the market",
+          "The RACGP warns against the policy",
+          "The policy may have negative consequences"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-04-01T08:15:35.145Z",
+    "updated_at": "2026-04-01T11:53:09.817Z",
     "clusters": [
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 2,
         "updated_at": "Wed, 01 Apr 2026 04:00:37 GMT",
         "title": "NHS England to offer weight-loss drugs to 1.2m people to reduce risk of heart attacks and strokes",
-        "neutral_headline": "NHS England to offer weight-loss drugs to people",
+        "neutral_headline": "NHS To Offer Weight Loss Drugs",
         "items": [
           {
             "source": "Guardian Health",
@@ -175,19 +175,83 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/c9c009f0-2d9c-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "NHS England will offer weight-loss drugs",
-          "The drugs will be offered to 1.2m people",
-          "The treatment can reduce risk of heart attacks",
-          "The drugs are already available for obesity",
-          "The treatment will be offered to people at risk"
+          "NHS will offer weight loss drugs",
+          "1.2 million people are eligible",
+          "The drugs reduce heart attack risk",
+          "Semaglutide is already available",
+          "The treatment is for overweight individuals"
         ]
       },
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Wed, 01 Apr 2026 11:37:38 GMT",
+        "title": "Warning to patients ahead of next doctors' strike",
+        "neutral_headline": "Doctors Strike Warning Issued",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c9wqgndrz84o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 01 Apr 2026 11:37:38 GMT",
+            "title": "Warning to patients ahead of next doctors' strike",
+            "standfirst": "The industrial action is due to start on 7 April and there is likely to be disruption to services.",
+            "content": "The industrial action is due to start on 7 April and there is likely to be disruption to services.",
+            "feed_position": 55,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ccf/live/10e248e0-db2a-11f0-9089-5fe5b3125085.jpg"
+          },
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c393xp78dg4o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 01 Apr 2026 11:14:46 GMT",
+            "title": "Warning to patients ahead of next doctors' strike",
+            "standfirst": "The industrial action is due to start on 7 April and there is likely to be disruption to services.",
+            "content": "The industrial action is due to start on 7 April and there is likely to be disruption to services.",
+            "feed_position": 56,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ccf/live/10e248e0-db2a-11f0-9089-5fe5b3125085.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ccf/live/10e248e0-db2a-11f0-9089-5fe5b3125085.jpg",
+        "ai_summary": [
+          "A doctors' strike is scheduled",
+          "The strike will start on April 7",
+          "Patients are warned of disruption",
+          "Services will be affected",
+          "The strike is part of industrial action"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Wed, 01 Apr 2026 08:59:23 GMT",
+        "title": "When is Nasa's Moon mission launch and what will Artemis do?",
+        "neutral_headline": "NASA Moon Mission Launch Approaches",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 01 Apr 2026 08:59:23 GMT",
+            "title": "When is Nasa's Moon mission launch and what will Artemis do?",
+            "standfirst": "The first crewed Moon mission in 50 years could launch in April, ahead of a future lunar landing.",
+            "content": "The first crewed Moon mission in 50 years could launch in April, ahead of a future lunar landing.",
+            "feed_position": 15,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50dc/live/8ebfb300-2d1f-11f1-b297-95b0a0a8331e.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50dc/live/8ebfb300-2d1f-11f1-b297-95b0a0a8331e.jpg",
+        "ai_summary": [
+          "NASA's Moon mission is launching soon",
+          "The mission is crewed",
+          "The launch is scheduled for April",
+          "The mission is a significant step",
+          "NASA is working towards a lunar landing"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
         "updated_at": "Wed, 01 Apr 2026 06:37:23 GMT",
         "title": "'It's phenomenal!': Excitement in Florida ahead of Artemis launch",
-        "neutral_headline": "Excitement in Florida ahead of Artemis launch",
+        "neutral_headline": "Artemis Launch Excitement Builds",
         "items": [
           {
             "source": "BBC Science",
@@ -196,25 +260,25 @@
             "title": "'It's phenomenal!': Excitement in Florida ahead of Artemis launch",
             "standfirst": "BBC’s Leyla Khodabakhshi speaks to locals and visitors in Florida ahead of the Artemis II mission blast off.",
             "content": "BBC’s Leyla Khodabakhshi speaks to locals and visitors in Florida ahead of the Artemis II mission blast off.",
-            "feed_position": 12,
+            "feed_position": 16,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bd4/live/89232e70-2d94-11f1-934f-036468834728.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bd4/live/89232e70-2d94-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "The Artemis II mission is about to launch",
-          "Locals and visitors are excited about the launch",
-          "The launch is a significant event",
-          "The mission is a major step forward",
-          "The launch will be a phenomenal experience"
+          "Excitement builds for Artemis launch",
+          "The launch is scheduled soon",
+          "Locals and visitors are eager",
+          "The mission is a significant event",
+          "NASA is preparing for the launch"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Wed, 01 Apr 2026 05:26:08 GMT",
         "title": "Zoo welcomes 'vulnerable' giant anteater pup",
-        "neutral_headline": "Zoo welcomes vulnerable giant anteater pup",
+        "neutral_headline": "Zoo Welcomes Giant Anteater Pup",
         "items": [
           {
             "source": "BBC Science",
@@ -223,25 +287,25 @@
             "title": "Zoo welcomes 'vulnerable' giant anteater pup",
             "standfirst": "The anteater pup's gender is not yet known as it \"prefers the safety of mum\" for now, the zoo says.",
             "content": "The anteater pup's gender is not yet known as it \"prefers the safety of mum\" for now, the zoo says.",
-            "feed_position": 7,
+            "feed_position": 10,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e1e/live/9604bc30-2d12-11f1-b297-95b0a0a8331e.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e1e/live/9604bc30-2d12-11f1-b297-95b0a0a8331e.jpg",
         "ai_summary": [
-          "The zoo has a new giant anteater pup",
-          "The pup's gender is not yet known",
-          "The pup is vulnerable and needs care",
-          "The zoo is providing a safe environment",
-          "The pup is an important addition to the zoo"
+          "A giant anteater pup is born",
+          "The pup's gender is not known",
+          "The pup is vulnerable",
+          "The zoo is caring for the pup",
+          "The birth is a significant event"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Wed, 01 Apr 2026 05:18:45 GMT",
         "title": "My daughter has childhood dementia and may not live past 16",
-        "neutral_headline": "Daughter Diagnosed With Childhood Dementia",
+        "neutral_headline": "Childhood Dementia Affects Young Girl",
         "items": [
           {
             "source": "BBC Health",
@@ -256,19 +320,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bbc/live/3e58e000-2d0e-11f1-9005-cf873f959530.jpg",
         "ai_summary": [
-          "Sophia diagnosed at age four",
-          "Now 15 years old and cannot speak",
-          "Cannot walk unaided due to condition",
-          "Diagnosed with childhood dementia",
-          "Life expectancy may not exceed 16"
+          "A young girl has childhood dementia",
+          "She was diagnosed at age four",
+          "She can no longer speak",
+          "She cannot walk unaided",
+          "Her condition is severe"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Wed, 01 Apr 2026 05:13:05 GMT",
         "title": "Project to bring rare butterfly back to Yorkshire",
-        "neutral_headline": "Rare Butterfly Returns To Yorkshire",
+        "neutral_headline": "Project Aims To Bring Back Rare Butterfly",
         "items": [
           {
             "source": "BBC Science",
@@ -277,25 +341,25 @@
             "title": "Project to bring rare butterfly back to Yorkshire",
             "standfirst": "The UK's largest native butterfly has not been seen in the region for more than a century.",
             "content": "The UK's largest native butterfly has not been seen in the region for more than a century.",
-            "feed_position": 8,
+            "feed_position": 11,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f71e/live/382e4790-2c57-11f1-862e-73ba828c2693.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f71e/live/382e4790-2c57-11f1-862e-73ba828c2693.jpg",
         "ai_summary": [
-          "Project aims to bring back butterfly",
-          "Butterfly not seen in region for century",
-          "UK's largest native butterfly species",
-          "Conservation efforts are underway",
-          "Yorkshire region is target area"
+          "A project aims to bring back a butterfly",
+          "The butterfly is rare and native",
+          "It has not been seen in Yorkshire",
+          "The project is conservation efforts",
+          "The goal is to reintroduce the species"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Wed, 01 Apr 2026 05:03:08 GMT",
         "title": "Museum gets grant for Bradford astronomer project",
-        "neutral_headline": "Museum Receives Grant For Astronomer Project",
+        "neutral_headline": "Museum gets grant for astronomer project",
         "items": [
           {
             "source": "BBC Science",
@@ -304,25 +368,25 @@
             "title": "Museum gets grant for Bradford astronomer project",
             "standfirst": "The project at Bolling Hall Museum will focus on Bradford-born astronomer Abraham Sharp.",
             "content": "The project at Bolling Hall Museum will focus on Bradford-born astronomer Abraham Sharp.",
-            "feed_position": 13,
+            "feed_position": 17,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a827/live/76e10fa0-2d0a-11f1-903b-c7d082edabea.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a827/live/76e10fa0-2d0a-11f1-903b-c7d082edabea.jpg",
         "ai_summary": [
-          "Bolling Hall Museum receives grant",
-          "Project focuses on Abraham Sharp",
-          "Bradford-born astronomer featured",
-          "Grant will support project development",
-          "Museum will showcase astronomer"
+          "Bolling Hall Museum receives grant for project",
+          "Project focuses on Bradford-born astronomer Abraham Sharp",
+          "Grant will support museum initiatives",
+          "Abraham Sharp was a notable astronomer",
+          "Project aims to promote astronomy education"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Wed, 01 Apr 2026 00:00:18 GMT",
         "title": "What it's like to be on Florida's Space Coast ahead of Artemis launch",
-        "neutral_headline": "Artemis Launch Attracts Large Crowds",
+        "neutral_headline": "Space Coast prepares for Artemis launch",
         "items": [
           {
             "source": "BBC Science",
@@ -331,25 +395,25 @@
             "title": "What it's like to be on Florida's Space Coast ahead of Artemis launch",
             "standfirst": "Huge crowds are gathering around the Kennedy Space Centre to see the launch of the historic moon mission.",
             "content": "Huge crowds are gathering around the Kennedy Space Centre to see the launch of the historic moon mission.",
-            "feed_position": 14,
+            "feed_position": 0,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64e5/live/975ac590-2d2e-11f1-b297-95b0a0a8331e.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64e5/live/975ac590-2d2e-11f1-b297-95b0a0a8331e.jpg",
         "ai_summary": [
-          "Crowds gather for Artemis launch",
-          "Kennedy Space Centre is location",
-          "Historic moon mission is underway",
-          "Launch is highly anticipated event",
-          "Space enthusiasts are in attendance"
+          "Huge crowds gather for Artemis launch",
+          "Launch will take place at Kennedy Space Centre",
+          "Artemis mission is a historic moon mission",
+          "Crowds are gathering around the space centre",
+          "Launch is a significant event for space exploration"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 23:15:05 GMT",
         "title": "Almost half of primary teachers in England see pupils with eating disorders, survey finds",
-        "neutral_headline": "Almost Half Of Primary Teachers See Pupils With Eating Disorders",
+        "neutral_headline": "Almost half of primary teachers see pupils with eating disorders",
         "items": [
           {
             "source": "Guardian Health",
@@ -362,46 +426,46 @@
           }
         ],
         "ai_summary": [
-          "Survey finds eating disorders common",
-          "Primary school teachers see disorders",
-          "Exam anxiety is also prevalent",
-          "Poor mental health is rising concern",
-          "Teachers report overwhelming issues"
+          "Survey finds eating disorders in primary schools",
+          "Almost half of primary teachers see eating disorders",
+          "Exam anxiety is overwhelming in secondary schools",
+          "Poor mental health is linked to absenteeism",
+          "Teachers report rising concerns about pupil mental health"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 18:51:48 GMT",
-        "title": "'God squad' waives animal protections to expand oil drilling",
-        "neutral_headline": "Animal Protections Waived For Oil Drilling",
+        "title": "'God squad' waives animal protections to expand oil drilling in Gulf of Mexico",
+        "neutral_headline": "Animal protections waived for oil drilling",
         "items": [
           {
             "source": "BBC Science",
             "url": "https://www.bbc.com/news/articles/cre19zrg5dxo?at_medium=RSS&at_campaign=rss",
             "published_at": "Tue, 31 Mar 2026 18:51:48 GMT",
-            "title": "'God squad' waives animal protections to expand oil drilling",
+            "title": "'God squad' waives animal protections to expand oil drilling in Gulf of Mexico",
             "standfirst": "Secretary of Defence Pete Hegseth said exempting oil drilling was a matter of national security.",
             "content": "Secretary of Defence Pete Hegseth said exempting oil drilling was a matter of national security.",
-            "feed_position": 9,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/385b/live/7bed8e20-2d22-11f1-a36a-2bc3523bb833.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/385b/live/7bed8e20-2d22-11f1-a36a-2bc3523bb833.jpg",
         "ai_summary": [
-          "Animal protections are waived",
-          "Oil drilling is exempt from rules",
-          "National security is cited reason",
-          "Secretary of Defence makes statement",
-          "Exemption is controversial decision"
+          "Oil drilling exemptions are granted in Gulf of Mexico",
+          "Secretary of Defence cites national security concerns",
+          "Exemptions waive animal protections for drilling",
+          "Drilling expansion is a controversial issue",
+          "National security is cited as the reason for exemptions"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 18:11:22 GMT",
         "title": "Head of NHS England ‘really worried’ about medicine supplies",
-        "neutral_headline": "NHS England Head Worried About Medicine Supplies",
+        "neutral_headline": "Head of NHS England really worried about medicine supplies",
         "items": [
           {
             "source": "Guardian Health",
@@ -414,19 +478,19 @@
           }
         ],
         "ai_summary": [
-          "Medicine supply issues are concern",
-          "NHS England head expresses worry",
-          "Cost implications are potential issue",
-          "Supply disruption is possible risk",
-          "War in Iran may impact supplies"
+          "NHS England head expresses concern about medicine supplies",
+          "Medicine supply issues are linked to war in Iran",
+          "Cost implications and supply disruption are concerns",
+          "Experts raise concerns about medicine availability",
+          "NHS England head is worried about supply issues"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 17:30:16 GMT",
         "title": "How will the Artemis astronauts go to the toilet in space?",
-        "neutral_headline": "Artemis Astronauts Use New Toilet System",
+        "neutral_headline": "Artemis astronauts to use new toilet system",
         "items": [
           {
             "source": "BBC Science",
@@ -435,25 +499,25 @@
             "title": "How will the Artemis astronauts go to the toilet in space?",
             "standfirst": "For the ten day mission, Nasa scientists have developed a new 'universal waste management system', which is basically a space loo.",
             "content": "For the ten day mission, Nasa scientists have developed a new 'universal waste management system', which is basically a space loo.",
-            "feed_position": 15,
+            "feed_position": 19,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b90/live/859ffd00-2c95-11f1-a79a-77e93010d956.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b90/live/859ffd00-2c95-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "New toilet system is developed",
-          "Artemis astronauts will use system",
-          "System is for ten day mission",
-          "NASA scientists created the system",
-          "System is for waste management"
+          "Nasa develops new toilet system for space",
+          "System is called universal waste management system",
+          "Astronauts will use new system on Artemis mission",
+          "System is designed for ten-day mission",
+          "New system will facilitate waste management in space"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 16:19:54 GMT",
         "title": "What are the new bin rules in England?",
-        "neutral_headline": "New Bin Rules Implemented In England",
+        "neutral_headline": "New bin rules in England implemented",
         "items": [
           {
             "source": "BBC Science",
@@ -462,25 +526,25 @@
             "title": "What are the new bin rules in England?",
             "standfirst": "New rules requiring weekly food waste collections for all homes in England have come into force.",
             "content": "New rules requiring weekly food waste collections for all homes in England have come into force.",
-            "feed_position": 10,
+            "feed_position": 13,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e679/live/1e934c20-2d1c-11f1-934f-036468834728.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e679/live/1e934c20-2d1c-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "New bin rules are implemented",
-          "Weekly food waste collections required",
-          "All homes in England are affected",
-          "New rules are for environmental purpose",
-          "Collections will be done weekly"
+          "New rules require weekly food waste collections",
+          "Rules apply to all homes in England",
+          "Food waste collections will be mandatory",
+          "New rules aim to reduce waste and increase recycling",
+          "Weekly collections will be implemented nationwide"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 14:57:26 GMT",
         "title": "‘Should never have been prescribed’: private UK cannabis clinics face call for tighter regulation",
-        "neutral_headline": "‘Should Never Have Been Prescribed’",
+        "neutral_headline": "‘Should never have been prescribed’: private UK cannabis clinics face call for tighter regulation",
         "items": [
           {
             "source": "Guardian Health",
@@ -493,19 +557,19 @@
           }
         ],
         "ai_summary": [
+          "Inquest finds medicinal cannabis prescription contributed to death",
+          "Family calls for tighter regulation of cannabis clinics",
+          "Coroner rules prescription was obstacle to proper care",
           "Private cannabis clinics face scrutiny",
-          "Prescription contributed to death",
-          "Inquest finds prescription was obstacle",
-          "Family pushes for greater regulation",
-          "Coroner rules prescription was issue"
+          "Regulation of cannabis clinics is a concern"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 09:00:00 GMT",
         "title": "Inside Health",
-        "neutral_headline": "New Treatment For Hot Flushes",
+        "neutral_headline": "New treatment for hot flushes explored",
         "items": [
           {
             "source": "BBC Health",
@@ -520,19 +584,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg",
         "ai_summary": [
-          "New treatment is being developed",
-          "Hot flushes are being studied",
-          "James Gallagher is investigating",
-          "Treatment is for specific condition",
-          "Research is ongoing for solution"
+          "New treatment for hot flushes is being developed",
+          "Hot flushes are a common symptom",
+          "Treatment aims to alleviate hot flush symptoms",
+          "Researchers are investigating new treatment options",
+          "Hot flushes can be debilitating for some individuals"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 06:50:04 GMT",
         "title": "Starmer gives doctors 48 hours to cancel strike or lose new jobs package",
-        "neutral_headline": "Doctors Given 48 Hours To Cancel Strike",
+        "neutral_headline": "Doctors given 48 hours to cancel strike",
         "items": [
           {
             "source": "BBC Health",
@@ -551,25 +615,25 @@
             "title": "PM gives BMA 48 hours to call-off strike or lose 1,000 training posts",
             "standfirst": "Starmer sets deadline for doctors' union to call off six-day walkout due to begin after Easter.",
             "content": "Starmer sets deadline for doctors' union to call off six-day walkout due to begin after Easter.",
-            "feed_position": 55,
+            "feed_position": 57,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2468/live/66f971b0-2c77-11f1-a75a-f95187682629.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c369/live/4677e490-2cf8-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "Doctors given deadline to cancel strike",
-          "Strike may impact new jobs package",
-          "Prime Minister sets 48 hour deadline",
-          "NHS could lose training places",
-          "Doctors union must make decision"
+          "Prime minister sets deadline for doctors to cancel strike",
+          "NHS could lose 1000 extra training places",
+          "Strike is scheduled to take place next week",
+          "Doctors are being asked to call off the strike",
+          "Training places are at risk if strike goes ahead"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 05:41:53 GMT",
         "title": "30,000 trees planted to create temperate rainforest",
-        "neutral_headline": "Temperate Rainforest Created With Trees",
+        "neutral_headline": "Temperate rainforest created with 30000 trees",
         "items": [
           {
             "source": "BBC Science",
@@ -578,25 +642,25 @@
             "title": "30,000 trees planted to create temperate rainforest",
             "standfirst": "The site sees the last of 30,000 mixed-native trees go into the ground two years ahead of schedule.",
             "content": "The site sees the last of 30,000 mixed-native trees go into the ground two years ahead of schedule.",
-            "feed_position": 11,
+            "feed_position": 14,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c310/live/34377210-2c2f-11f1-8c91-adb683bff3f3.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c310/live/34377210-2c2f-11f1-8c91-adb683bff3f3.jpg",
         "ai_summary": [
-          "30,000 trees are planted",
-          "Temperate rainforest is created",
-          "Site is completed ahead of schedule",
-          "Mixed-native trees are used",
-          "Project is environmental effort"
+          "30000 trees planted to create temperate rainforest",
+          "Project is completed two years ahead of schedule",
+          "Mixed-native trees are used for the project",
+          "Rainforest will provide ecosystem benefits",
+          "Project aims to promote biodiversity"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 05:25:38 GMT",
         "title": "The man who wants to bring human composting to the UK",
-        "neutral_headline": "Human Composting Comes To UK",
+        "neutral_headline": "Human composting proposed for the UK",
         "items": [
           {
             "source": "BBC Health",
@@ -611,19 +675,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b9/live/ad6a61d0-2ce1-11f1-b297-95b0a0a8331e.png",
         "ai_summary": [
-          "Human composting is proposed",
-          "Body is turned into soil naturally",
-          "Sealed vessel is used for process",
-          "Organic matter is used for compost",
-          "Process is alternative to burial"
+          "Human composting is a new funeral option",
+          "Body is turned into soil through composting process",
+          "Process involves placing body in sealed vessel",
+          "Human composting is an alternative to traditional funerals",
+          "Composting process has environmental benefits"
         ]
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Tue, 31 Mar 2026 04:54:51 GMT",
         "title": "'Something wasn't right': Wrong sperm given to UK families by IVF clinics in northern Cyprus",
-        "neutral_headline": "Wrong Sperm Given To UK Families",
+        "neutral_headline": "Wrong sperm given to UK families by IVF clinics",
         "items": [
           {
             "source": "BBC Health",
@@ -638,71 +702,17 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eabf/live/36bef6c0-278e-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "Wrong sperm or egg donors used",
-          "Families of seven children affected",
-          "IVF clinics in northern Cyprus involved",
-          "Families believe wrong donors were used",
-          "Investigation into incident is needed"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Tue, 31 Mar 2026 03:46:22 GMT",
-        "title": "The personal items the Artemis II crew are taking to the Moon",
-        "neutral_headline": "Artemis II crew takes personal items to Moon",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cdj7e11pw10o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Tue, 31 Mar 2026 03:46:22 GMT",
-            "title": "The personal items the Artemis II crew are taking to the Moon",
-            "standfirst": "The crew, who are accomplished pilots, engineers and scientists, reveal their hopes, fears and family sacrifices.",
-            "content": "The crew, who are accomplished pilots, engineers and scientists, reveal their hopes, fears and family sacrifices.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4da/live/9aa7fb10-26a7-11f1-9a4b-834c9ce445e3.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4da/live/9aa7fb10-26a7-11f1-9a4b-834c9ce445e3.jpg",
-        "ai_summary": [
-          "Artemis II crew are accomplished pilots and engineers",
-          "Crew members reveal hopes and fears for mission",
-          "Family sacrifices made by crew members noted",
-          "Personal items taken to Moon for comfort",
-          "Crew scientists contribute to mission objectives"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Mon, 30 Mar 2026 23:09:50 GMT",
-        "title": "Why the benefit used by more than 8 million people may not be fit for the future",
-        "neutral_headline": "Why the benefit used by more than 8 million people may not be fit for the future",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c3r3w0w1gepo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 30 Mar 2026 23:09:50 GMT",
-            "title": "Why the benefit used by more than 8 million people may not be fit for the future",
-            "standfirst": "Can Universal Credit and the work and benefits system more generally reshape itself to meet a new reality?",
-            "content": "Can Universal Credit and the work and benefits system more generally reshape itself to meet a new reality?",
-            "feed_position": 3,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b58/live/df366ef0-2c48-11f1-934f-036468834728.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b58/live/df366ef0-2c48-11f1-934f-036468834728.jpg",
-        "ai_summary": [
-          "Universal Credit used by over 8 million people",
-          "Benefit system faces challenges in meeting needs",
-          "Work and benefits system requires reshaping",
-          "New reality demands changes to credit system",
-          "Over 8 million people rely on the benefit system"
+          "IVF clinics in northern Cyprus used wrong sperm",
+          "Families of seven children are affected",
+          "Wrong sperm or egg donors were used in IVF treatment",
+          "Families are seeking answers and support",
+          "Incident raises concerns about IVF clinic practices"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-04-01T08:15:35.392Z",
+    "updated_at": "2026-04-01T11:53:16.331Z",
     "clusters": []
   }
 }
