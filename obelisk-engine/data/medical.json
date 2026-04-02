@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-04-01T23:36:25.765Z",
+    "updated_at": "2026-04-02T05:02:51.733Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-04-01T23:36:39.479Z",
+    "updated_at": "2026-04-02T05:03:05.609Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/1d294443-ff73-48c9-ba85-84ebde190ee0/Wegovy-approved-to-treat-severe-fatty-liver-disease.aspx",
         "ai_summary": [
-          "Wegovy is approved to treat fatty liver disease",
-          "The approval is provisional from the TGA",
-          "The treatment can help slow disease progression",
-          "Early intervention is key to effective treatment",
-          "Experts welcome the new treatment option"
+          "Wegovy is approved for liver disease",
+          "Experts say it can slow disease progression",
+          "The TGA approved the new indication",
+          "Early intervention strategies are recommended",
+          "Wegovy is a new treatment option"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/690c242c-80ed-4986-bfc5-0a4428e0edd1/What-impact-will-new-Medicare-telehealth-therapy-have.aspx",
         "ai_summary": [
-          "New Medicare telehealth therapy is available",
-          "Patients can access the service for free",
-          "No GP referral is required for the service",
-          "The service is part of a new government initiative",
-          "The impact of the service is still uncertain"
+          "New Medicare telehealth service is available",
+          "Patients can access it without GP referral",
+          "The service is free for patients",
+          "There are queries about the service",
+          "The impact of the service is unknown"
         ]
       },
       {
@@ -80,11 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/6738b942-b397-4226-92ff-a7fed0ddd674/Real-sense-of-excitement-at-Perth-ADHD-symposium.aspx",
         "ai_summary": [
-          "The Perth ADHD symposium was a success",
+          "Perth ADHD symposium was held",
           "GPs and paediatricians attended the event",
-          "The event was hosted by the RACGP",
-          "The symposium focused on ADHD treatment",
-          "The event was well received by attendees"
+          "Politicians were also in attendance",
+          "The event was for knowledge sharing",
+          "A new era for ADHD treatment is beginning"
         ]
       },
       {
@@ -107,11 +107,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/dab3edfd-3b92-4ef1-a795-610cddef93f0/Record-number-of-future-GPs-start-training-in-Victoria.aspx",
         "ai_summary": [
-          "A record number of GPs are training in Victoria",
-          "Over 360 doctors have started their training",
-          "30% of trainees are in rural and regional areas",
-          "The training program is part of a government initiative",
-          "The increase in trainees is a positive trend"
+          "Record number of GPs started training",
+          "Over 360 doctors began their training",
+          "30% chose to train in rural areas",
+          "The training is for future GPs",
+          "Victoria has a high number of trainees"
         ]
       },
       {
@@ -134,24 +134,24 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/bfe184e2-c354-43fa-9a08-cdc1553fae3f/RACGP-slams-Government-s-cherry-picked-bulk-billing-intervention.aspx",
         "ai_summary": [
-          "The RACGP criticizes the government's intervention",
-          "The intervention is a bulk-billing policy",
-          "The policy is seen as short-sighted and distorting",
-          "The RACGP warns of negative consequences",
-          "The policy is part of a larger healthcare reform"
+          "RACGP is criticizing the Government",
+          "The bulk-billing intervention is disputed",
+          "The college warns of market distortion",
+          "The policy is considered short-sighted",
+          "The RACGP is speaking out against it"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-04-01T23:36:33.169Z",
+    "updated_at": "2026-04-02T05:03:04.984Z",
     "clusters": [
       {
-        "id": "cluster_20",
+        "id": "cluster_19",
         "coverage": 2,
         "updated_at": "Wed, 01 Apr 2026 04:00:37 GMT",
         "title": "NHS England to offer weight-loss drugs to 1.2m people to reduce risk of heart attacks and strokes",
-        "neutral_headline": "NHS England Offers Weight Loss Drugs",
+        "neutral_headline": "NHS England To Offer Weight Loss Drugs",
         "items": [
           {
             "source": "Guardian Health",
@@ -175,137 +175,154 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/c9c009f0-2d9c-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "NHS England to offer weight loss drugs to 1.2m people",
-          "Semaglutide already available for obesity and type 2 diabetes",
-          "Weekly jabs to reduce risk of heart attacks and strokes",
-          "Eligible individuals are overweight and at risk",
-          "Treatment aims to improve cardiovascular health"
+          "NHS England is offering weight loss drugs",
+          "1.2m people are eligible for the drugs",
+          "Semaglutide is the drug being offered",
+          "The drug reduces risk of heart attacks",
+          "The NHS is providing the treatment option"
         ]
       },
       {
         "id": "cluster_0",
         "coverage": 1,
-        "updated_at": "Wed, 01 Apr 2026 23:00:39 GMT",
-        "title": "Watch the moment Artemis II blasts into space on historic mission",
-        "neutral_headline": "Artemis II Blasts Into Space",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 01 Apr 2026 23:00:39 GMT",
-            "title": "Watch the moment Artemis II blasts into space on historic mission",
-            "standfirst": "After delays and technical issues, the first crewed Moon mission in 50 years finally takes off from the Kennedy Space Center in Florida.",
-            "content": "After delays and technical issues, the first crewed Moon mission in 50 years finally takes off from the Kennedy Space Center in Florida.",
-            "feed_position": 16,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7476/live/1e100920-2e1e-11f1-b297-95b0a0a8331e.jpg"
-          },
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 01 Apr 2026 00:00:18 GMT",
-            "title": "What it's like to be on Florida's Space Coast ahead of Artemis launch",
-            "standfirst": "Huge crowds are gathering around the Kennedy Space Centre to see the launch of the historic moon mission.",
-            "content": "Huge crowds are gathering around the Kennedy Space Centre to see the launch of the historic moon mission.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64e5/live/975ac590-2d2e-11f1-b297-95b0a0a8331e.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7476/live/1e100920-2e1e-11f1-b297-95b0a0a8331e.jpg",
-        "ai_summary": [
-          "Artemis II launches from Kennedy Space Center",
-          "First crewed Moon mission in 50 years",
-          "Huge crowds gather to witness the launch",
-          "Mission aims to circle the Moon",
-          "Astronauts will travel further from Earth"
-        ]
-      },
-      {
-        "id": "cluster_1",
-        "coverage": 1,
-        "updated_at": "Wed, 01 Apr 2026 22:50:23 GMT",
-        "title": "Everything you need to know about Nasa's Artemis II mission",
-        "neutral_headline": "Nasa Artemis II Mission",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 01 Apr 2026 22:50:23 GMT",
-            "title": "Everything you need to know about Nasa's Artemis II mission",
-            "standfirst": "The first crewed Moon mission in 50 years plans to circle the moon and take astronauts further from Earth than anyone has ever been before.",
-            "content": "The first crewed Moon mission in 50 years plans to circle the moon and take astronauts further from Earth than anyone has ever been before.",
-            "feed_position": 17,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50dc/live/8ebfb300-2d1f-11f1-b297-95b0a0a8331e.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50dc/live/8ebfb300-2d1f-11f1-b297-95b0a0a8331e.jpg",
-        "ai_summary": [
-          "Artemis II is the first crewed Moon mission",
-          "Mission plans to circle the Moon",
-          "Astronauts will travel further from Earth",
-          "Nasa aims to expand space exploration",
-          "Mission will last for 10 days"
-        ]
-      },
-      {
-        "id": "cluster_2",
-        "coverage": 1,
-        "updated_at": "Wed, 01 Apr 2026 22:35:23 GMT",
-        "title": "Elon Musk's SpaceX moves to become a publicly traded company",
-        "neutral_headline": "SpaceX To Become Publicly Traded",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 01 Apr 2026 22:35:23 GMT",
-            "title": "Elon Musk's SpaceX moves to become a publicly traded company",
-            "standfirst": "The company’s public stock debut is set to be one of the most valuable in history, and could make Musk the world's first trillionaire.",
-            "content": "The company’s public stock debut is set to be one of the most valuable in history, and could make Musk the world's first trillionaire.",
-            "feed_position": 18,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e61/live/48c01ef0-2a1b-11f1-a79a-77e93010d956.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e61/live/48c01ef0-2a1b-11f1-a79a-77e93010d956.jpg",
-        "ai_summary": [
-          "SpaceX to become a publicly traded company",
-          "Public stock debut will be highly valuable",
-          "Elon Musk may become the world's first trillionaire",
-          "Company valuation will be very high",
-          "SpaceX will expand its operations"
-        ]
-      },
-      {
-        "id": "cluster_3",
-        "coverage": 1,
-        "updated_at": "Wed, 01 Apr 2026 22:20:11 GMT",
-        "title": "World's oldest known tortoise, Jonathan, dies aged 193",
-        "neutral_headline": "Worlds Oldest Tortoise Dies",
+        "updated_at": "Thu, 02 Apr 2026 03:45:16 GMT",
+        "title": "World's oldest known tortoise, Jonathan, still alive despite reports of death",
+        "neutral_headline": "Worlds oldest tortoise still alive despite death reports",
         "items": [
           {
             "source": "BBC Science",
             "url": "https://www.bbc.com/news/articles/c393xmpzjwko?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 01 Apr 2026 22:20:11 GMT",
-            "title": "World's oldest known tortoise, Jonathan, dies aged 193",
-            "standfirst": "The vet who cared for the giant tortoise said he had left behind a \"legacy of resilience and longevity\".",
-            "content": "The vet who cared for the giant tortoise said he had left behind a \"legacy of resilience and longevity\".",
-            "feed_position": 11,
+            "published_at": "Thu, 02 Apr 2026 03:45:16 GMT",
+            "title": "World's oldest known tortoise, Jonathan, still alive despite reports of death",
+            "standfirst": "A widely circulated social media post purporting to belong to the tortoise's vet has been revealed to be a hoax.",
+            "content": "A widely circulated social media post purporting to belong to the tortoise's vet has been revealed to be a hoax.",
+            "feed_position": 7,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e36d/live/5b0027c0-2e0f-11f1-a61b-8f128a2b274b.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e36d/live/5b0027c0-2e0f-11f1-a61b-8f128a2b274b.jpg",
         "ai_summary": [
-          "Jonathan the tortoise dies at 193 years old",
-          "He was the world's oldest known tortoise",
-          "Jonathan lived a legacy of resilience",
-          "He was a giant tortoise",
-          "His death is a significant loss"
+          "Jonathan the tortoise is still alive",
+          "A social media post about his death was a hoax",
+          "The post was revealed to be fake",
+          "Jonathan is currently living on an island",
+          "His age is a record for tortoises"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Thu, 02 Apr 2026 03:09:08 GMT",
+        "title": "'We go for all humanity' - emotional moment as Artemis II blasts off",
+        "neutral_headline": "Artemis II blasts off from Kennedy Space Center",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cz90yp7w104o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 02 Apr 2026 03:09:08 GMT",
+            "title": "'We go for all humanity' - emotional moment as Artemis II blasts off",
+            "standfirst": "There was giddy euphoria at the Kennedy Space Center after the launch, writes the BBC's Pallab Ghosh.",
+            "content": "There was giddy euphoria at the Kennedy Space Center after the launch, writes the BBC's Pallab Ghosh.",
+            "feed_position": 6,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6872/live/4620b5a0-2e31-11f1-b297-95b0a0a8331e.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6872/live/4620b5a0-2e31-11f1-b297-95b0a0a8331e.jpg",
+        "ai_summary": [
+          "Artemis II launched from Kennedy Space Center",
+          "The launch was successful after delays",
+          "The mission is the first crewed Moon trip",
+          "Astronauts will circle the Moon and return",
+          "The mission is a major step for space travel"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Thu, 02 Apr 2026 00:16:43 GMT",
+        "title": "Everything you need to know about Nasa's Artemis II mission",
+        "neutral_headline": "Nasa Artemis II mission to circle Moon",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 02 Apr 2026 00:16:43 GMT",
+            "title": "Everything you need to know about Nasa's Artemis II mission",
+            "standfirst": "The first crewed Moon mission in 50 years plans to circle the moon and take astronauts further from Earth than anyone has ever been before.",
+            "content": "The first crewed Moon mission in 50 years plans to circle the moon and take astronauts further from Earth than anyone has ever been before.",
+            "feed_position": 13,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50dc/live/8ebfb300-2d1f-11f1-b297-95b0a0a8331e.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50dc/live/8ebfb300-2d1f-11f1-b297-95b0a0a8331e.jpg",
+        "ai_summary": [
+          "Artemis II is a crewed Moon mission",
+          "The mission will circle the Moon and return",
+          "Astronauts will travel further than before",
+          "The mission is a major step for space travel",
+          "Nasa is leading the mission"
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Wed, 01 Apr 2026 23:36:55 GMT",
+        "title": "'Spectacular!' - BBC journalist's emotional reaction to Artemis II launch",
+        "neutral_headline": "BBC journalist reacts to Artemis II launch",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/videos/c8r4e7jpkz6o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 01 Apr 2026 23:36:55 GMT",
+            "title": "'Spectacular!' - BBC journalist's emotional reaction to Artemis II launch",
+            "standfirst": "Science editor Rebecca Morelle watched from just three miles away as the most powerful rocket ever built blasted off from Florida.",
+            "content": "Science editor Rebecca Morelle watched from just three miles away as the most powerful rocket ever built blasted off from Florida.",
+            "feed_position": 14,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b5b/live/2229bdd0-2e23-11f1-b297-95b0a0a8331e.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b5b/live/2229bdd0-2e23-11f1-b297-95b0a0a8331e.jpg",
+        "ai_summary": [
+          "A BBC journalist watched the launch",
+          "The journalist was emotional about the launch",
+          "The launch was successful after delays",
+          "The mission is a major step for space travel",
+          "The journalist was close to the launch site"
         ]
       },
       {
         "id": "cluster_4",
         "coverage": 1,
+        "updated_at": "Wed, 01 Apr 2026 23:00:39 GMT",
+        "title": "Watch the moment Artemis II blasts into space",
+        "neutral_headline": "Artemis II blasts into space after delays",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 01 Apr 2026 23:00:39 GMT",
+            "title": "Watch the moment Artemis II blasts into space",
+            "standfirst": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit.",
+            "content": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7476/live/1e100920-2e1e-11f1-b297-95b0a0a8331e.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7476/live/1e100920-2e1e-11f1-b297-95b0a0a8331e.jpg",
+        "ai_summary": [
+          "Artemis II launched from Kennedy Space Center",
+          "The launch was successful after delays",
+          "The mission is the first crewed Moon trip",
+          "Astronauts will circle the Moon and return",
+          "The spacecraft is in Earth orbit"
+        ]
+      },
+      {
+        "id": "cluster_5",
+        "coverage": 1,
         "updated_at": "Wed, 01 Apr 2026 19:54:44 GMT",
         "title": "Suited up and ready to go: Watch the Artemis crew's journey to launch",
-        "neutral_headline": "Artemis Crew Prepares For Launch",
+        "neutral_headline": "Artemis crew prepares for launch",
         "items": [
           {
             "source": "BBC Science",
@@ -314,25 +331,25 @@
             "title": "Suited up and ready to go: Watch the Artemis crew's journey to launch",
             "standfirst": "From spacesuit fitting to final communications checks in the rocket, the crew prepared for liftoff to begin their 10-day mission.",
             "content": "From spacesuit fitting to final communications checks in the rocket, the crew prepared for liftoff to begin their 10-day mission.",
-            "feed_position": 7,
+            "feed_position": 16,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f80/live/14a6f930-2e04-11f1-a79a-77e93010d956.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f80/live/14a6f930-2e04-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "Artemis crew prepares for 10-day mission",
-          "Crew undergoes spacesuit fitting and checks",
-          "Final communications checks are completed",
-          "Launch preparations are underway",
-          "Mission will be historic"
+          "The Artemis crew prepared for launch",
+          "The crew wore spacesuits for the launch",
+          "The crew checked the spacecraft systems",
+          "The launch was successful after delays",
+          "The mission is a major step for space travel"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Wed, 01 Apr 2026 19:16:45 GMT",
         "title": "Resident doctors accuse Keir Starmer of sabotaging talks to end pay and jobs dispute",
-        "neutral_headline": "Resident Doctors Accuse Keir Starmer",
+        "neutral_headline": "Resident doctors accuse Keir Starmer of sabotaging talks to end pay and jobs dispute",
         "items": [
           {
             "source": "Guardian Health",
@@ -345,19 +362,19 @@
           }
         ],
         "ai_summary": [
-          "Resident doctors accuse Keir Starmer of sabotage",
-          "British Medical Association leaders make claim",
-          "Threat to cut 1000 new jobs is made",
-          "Strike action is more likely",
-          "Doctors are unhappy with government offer"
+          "Resident doctors accused Keir Starmer",
+          "The accusation is about pay and jobs dispute",
+          "The doctors say Starmer is damaging talks",
+          "The dispute is about NHS jobs and pay",
+          "The doctors are considering strike action"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Wed, 01 Apr 2026 17:20:15 GMT",
         "title": "Newly qualified paramedics told to apply for jobs abroad due to hire freeze",
-        "neutral_headline": "Newly Qualified Paramedics Face Hire Freeze",
+        "neutral_headline": "Welsh Ambulance Service freezes paramedic jobs",
         "items": [
           {
             "source": "BBC Health",
@@ -372,38 +389,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e728/live/eab371d0-2dc2-11f1-b45a-13c2fd78bbe1.jpg",
         "ai_summary": [
-          "Newly qualified paramedics face hire freeze",
-          "Welsh Ambulance Service cites financial issues",
-          "No new roles will be offered this year",
-          "Paramedics are affected by the freeze",
-          "Service is experiencing operational issues"
-        ]
-      },
-      {
-        "id": "cluster_7",
-        "coverage": 1,
-        "updated_at": "Wed, 01 Apr 2026 17:04:28 GMT",
-        "title": "Students eye high-tech plan for Nasa launch watch party",
-        "neutral_headline": "Students Track Artemis Mission",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cy51e1x3plvo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 01 Apr 2026 17:04:28 GMT",
-            "title": "Students eye high-tech plan for Nasa launch watch party",
-            "standfirst": "The PhD students will have the edge when it comes to tracking the Artemis mission to the Moon.",
-            "content": "The PhD students will have the edge when it comes to tracking the Artemis mission to the Moon.",
-            "feed_position": 20,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e43/live/773c3070-2de5-11f1-ae65-97b179e2f0f5.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e43/live/773c3070-2de5-11f1-ae65-97b179e2f0f5.jpg",
-        "ai_summary": [
-          "PhD students track Artemis mission",
-          "Students use high-tech equipment",
-          "Mission tracking is a complex task",
-          "Students are excited about the mission",
-          "Tracking will provide valuable data"
+          "The Welsh Ambulance Service froze jobs",
+          "Newly qualified paramedics are affected",
+          "The freeze is due to financial issues",
+          "The service is facing operational challenges",
+          "Paramedics are looking for jobs abroad"
         ]
       },
       {
@@ -411,7 +401,7 @@
         "coverage": 1,
         "updated_at": "Wed, 01 Apr 2026 16:51:01 GMT",
         "title": "Unregulated chatbots are putting lives at risk | Letters",
-        "neutral_headline": "Unregulated Chatbots Pose Risk",
+        "neutral_headline": "Unregulated chatbots put lives at risk",
         "items": [
           {
             "source": "Guardian Health",
@@ -424,9 +414,9 @@
           }
         ],
         "ai_summary": [
-          "Unregulated chatbots put lives at risk",
-          "AI tools can cause delusional thinking",
-          "Gap in training and safeguards exists",
+          "Unregulated chatbots are a health risk",
+          "The risk is due to lack of screening",
+          "Chatbots can cause delusional thinking",
           "Patients are vulnerable to harm",
           "Screening tools can help prevent harm"
         ]
@@ -436,7 +426,7 @@
         "coverage": 1,
         "updated_at": "Wed, 01 Apr 2026 16:50:43 GMT",
         "title": "Starmer’s threat to resident doctors is a grave mistake | Letters",
-        "neutral_headline": "Starmer Threat To Resident Doctors",
+        "neutral_headline": "Starmer’s threat to resident doctors is a grave mistake",
         "items": [
           {
             "source": "Guardian Health",
@@ -449,11 +439,11 @@
           }
         ],
         "ai_summary": [
-          "Keir Starmer threatens resident doctors",
-          "Doctors are warned to call off strike",
-          "Threat to cut training posts is made",
-          "Doctors are unhappy with government offer",
-          "Strike action is more likely"
+          "Keir Starmer threatened resident doctors",
+          "The threat is about training posts",
+          "Doctors say the threat is harmful",
+          "The NHS is already understaffed",
+          "The threat may harm patient care"
         ]
       },
       {
@@ -461,7 +451,7 @@
         "coverage": 1,
         "updated_at": "Wed, 01 Apr 2026 15:53:56 GMT",
         "title": "‘The manosphere is dead and no one cares about Andrew Tate any more’: the poet taking on toxic masculinity",
-        "neutral_headline": "Poet Takes On Toxic Masculinity",
+        "neutral_headline": "Poet takes on toxic masculinity",
         "items": [
           {
             "source": "Guardian Health",
@@ -474,11 +464,11 @@
           }
         ],
         "ai_summary": [
-          "Poet Sam Browne takes on toxic masculinity",
-          "Browne uses poetry to address issues",
-          "He talks about mental health and healing",
-          "Poetry is a powerful tool for change",
-          "Browne's work is gaining attention"
+          "A poet is speaking out on masculinity",
+          "The poet is using performance art",
+          "The poet talks about mental health",
+          "The poet is a viral sensation",
+          "The poet is addressing toxic culture"
         ]
       },
       {
@@ -486,7 +476,7 @@
         "coverage": 1,
         "updated_at": "Wed, 01 Apr 2026 15:50:20 GMT",
         "title": "How dads are bonding over learning to braid hair",
-        "neutral_headline": "Dads Learn To Braid Hair",
+        "neutral_headline": "Dads learn to braid hair together",
         "items": [
           {
             "source": "BBC Health",
@@ -501,11 +491,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e65/live/b4acb390-2ddf-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "Dads learn to braid hair in social club",
-          "Secret Life of Dads provides a safe space",
-          "Dads bond with each other and learn skills",
-          "Club aims to support dads at home",
-          "Hair braiding is a new skill for dads"
+          "A social club is teaching dads to braid",
+          "The club is for dads to bond and learn",
+          "The club provides a safe space",
+          "Dads are learning new skills",
+          "The club is helping dads connect"
         ]
       },
       {
@@ -513,7 +503,7 @@
         "coverage": 1,
         "updated_at": "Wed, 01 Apr 2026 15:07:54 GMT",
         "title": "Project to bring rare butterfly back to Yorkshire",
-        "neutral_headline": "Rare Butterfly To Return",
+        "neutral_headline": "Project to bring back rare butterfly",
         "items": [
           {
             "source": "BBC Science",
@@ -522,17 +512,17 @@
             "title": "Project to bring rare butterfly back to Yorkshire",
             "standfirst": "The UK's largest native butterfly has not been seen in the region for more than a century.",
             "content": "The UK's largest native butterfly has not been seen in the region for more than a century.",
-            "feed_position": 12,
+            "feed_position": 8,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d172/live/444b4c40-2dd7-11f1-a186-bdbec3fa8607.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d172/live/444b4c40-2dd7-11f1-a186-bdbec3fa8607.jpg",
         "ai_summary": [
-          "Project aims to bring back rare butterfly",
-          "Butterfly has not been seen in Yorkshire",
-          "Conservation efforts are underway",
-          "Project aims to restore habitat",
-          "Butterfly is the UK's largest native species"
+          "A project is bringing back a butterfly",
+          "The butterfly is rare and native",
+          "The project is in Yorkshire",
+          "The butterfly has not been seen in years",
+          "Conservation efforts are underway"
         ]
       },
       {
@@ -540,7 +530,7 @@
         "coverage": 1,
         "updated_at": "Wed, 01 Apr 2026 12:55:06 GMT",
         "title": "MP rejects Palantir’s claims that criticism of NHS England deal is ‘ideologically motivated’",
-        "neutral_headline": "MP Rejects Palantir Claims",
+        "neutral_headline": "MP rejects Palantir claims on NHS deal",
         "items": [
           {
             "source": "Guardian Health",
@@ -553,11 +543,11 @@
           }
         ],
         "ai_summary": [
-          "MP rejects Palantir's claims of ideology",
-          "Concerns over NHS contract are valid",
-          "Government seeks guidance on contract",
-          "Break clause is being considered",
-          "MP supports government's actions"
+          "An MP rejected Palantir claims",
+          "The claims are about an NHS contract",
+          "The MP says the concerns are valid",
+          "The government is seeking guidance",
+          "The contract is worth millions"
         ]
       },
       {
@@ -565,7 +555,7 @@
         "coverage": 1,
         "updated_at": "Wed, 01 Apr 2026 12:53:15 GMT",
         "title": "'Would I have made it to 60 if my cancer symptoms weren't detected?'",
-        "neutral_headline": "Marie McGrath Diagnosed With Bowel Cancer",
+        "neutral_headline": "Cancer symptoms detected in woman",
         "items": [
           {
             "source": "BBC Health",
@@ -580,11 +570,11 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cabb/live/9da070d0-2dc9-11f1-934f-036468834728.jpg",
         "ai_summary": [
-          "Marie McGrath diagnosed with bowel cancer",
-          "Diagnosed at the start of 2026",
-          "Bowel cancer symptoms detected",
-          "McGrath reflects on cancer diagnosis",
-          "Cancer diagnosis at young age"
+          "A woman was diagnosed with cancer",
+          "The cancer was detected in her bowel",
+          "The diagnosis was made in 2026",
+          "The woman is reflecting on her health",
+          "Early detection is important for treatment"
         ]
       },
       {
@@ -592,7 +582,7 @@
         "coverage": 1,
         "updated_at": "Wed, 01 Apr 2026 12:17:11 GMT",
         "title": "Less meat, more plants: top US heart body’s diet advice at odds with Maha",
-        "neutral_headline": "American Heart Association Diet Advice",
+        "neutral_headline": "American Heart Association Gives Diet Advice",
         "items": [
           {
             "source": "Guardian Health",
@@ -605,11 +595,11 @@
           }
         ],
         "ai_summary": [
-          "American Heart Association releases guidance",
-          "Prioritizes plant-based protein over meat",
-          "Limits sugar and salt intake",
-          "Replaces full fat dairy with low-fat",
-          "Emphasizes whole grains and vegetables"
+          "American Heart Association releases new nutrition guidance",
+          "Prioritizes plant-based protein over meat consumption",
+          "Emphasizes whole grains and vegetable rich diet",
+          "Limits sugar and salt intake recommended",
+          "Ultra-processed foods should be limited"
         ]
       },
       {
@@ -617,7 +607,7 @@
         "coverage": 1,
         "updated_at": "Wed, 01 Apr 2026 11:37:38 GMT",
         "title": "Warning to patients ahead of next doctors' strike",
-        "neutral_headline": "Doctors Strike Warning To Patients",
+        "neutral_headline": "Doctors Strike To Start On April 7",
         "items": [
           {
             "source": "BBC Health",
@@ -642,42 +632,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ccf/live/10e248e0-db2a-11f0-9089-5fe5b3125085.jpg",
         "ai_summary": [
-          "Doctors strike to start on 7 April",
-          "Disruption to services is likely",
-          "Industrial action affects patients",
-          "Warning issued to patients ahead",
-          "Strike to impact medical services"
+          "Industrial action to start on April 7",
+          "Disruption to services is likely expected",
+          "Patients warned ahead of doctors strike",
+          "Strike to affect medical services nationwide",
+          "Dates of strike action have been confirmed"
         ]
       },
       {
         "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Wed, 01 Apr 2026 09:22:22 GMT",
-        "title": "Weather looks favourable for Artemis launch despite cloud",
-        "neutral_headline": "Artemis Launch Weather Conditions",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/weather/articles/cj6w4p106klo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 01 Apr 2026 09:22:22 GMT",
-            "title": "Weather looks favourable for Artemis launch despite cloud",
-            "standfirst": "Artemis II is close to launch - Simon King explains the critical importance of the weather to its success.",
-            "content": "Artemis II is close to launch - Simon King explains the critical importance of the weather to its success.",
-            "feed_position": 10,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe20/live/40414aa0-2db4-11f1-a79a-77e93010d956.png"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe20/live/40414aa0-2db4-11f1-a79a-77e93010d956.png",
-        "ai_summary": [
-          "Artemis II launch weather favourable",
-          "Cloud may affect launch success",
-          "Weather critical to launch success",
-          "Simon King explains weather importance",
-          "Launch success depends on weather"
-        ]
-      },
-      {
-        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Wed, 01 Apr 2026 05:26:08 GMT",
         "title": "Zoo welcomes 'vulnerable' giant anteater pup",
@@ -690,23 +653,50 @@
             "title": "Zoo welcomes 'vulnerable' giant anteater pup",
             "standfirst": "The anteater pup's gender is not yet known as it \"prefers the safety of mum\" for now, the zoo says.",
             "content": "The anteater pup's gender is not yet known as it \"prefers the safety of mum\" for now, the zoo says.",
-            "feed_position": 13,
+            "feed_position": 9,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e1e/live/9604bc30-2d12-11f1-b297-95b0a0a8331e.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e1e/live/9604bc30-2d12-11f1-b297-95b0a0a8331e.jpg",
         "ai_summary": [
-          "Zoo welcomes vulnerable anteater pup",
-          "Anteater pup gender not yet known",
-          "Pup prefers safety of mother",
-          "Zoo announces new anteater birth",
-          "Anteater pup considered vulnerable"
+          "Giant anteater pup born at the zoo",
+          "Pup's gender not yet known publicly",
+          "Anteater pup stays close to its mother",
+          "Zoo announces arrival of new anteater",
+          "Pup's vulnerability noted by zoo staff"
+        ]
+      },
+      {
+        "id": "cluster_18",
+        "coverage": 1,
+        "updated_at": "Wed, 01 Apr 2026 05:18:45 GMT",
+        "title": "My daughter has childhood dementia and may not live past 16",
+        "neutral_headline": "My daughter has childhood dementia and may not live past 16",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c5yj634ml71o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Wed, 01 Apr 2026 05:18:45 GMT",
+            "title": "My daughter has childhood dementia and may not live past 16",
+            "standfirst": "Diagnosed just before her fourth birthday, Sophia, now 15, can no longer speak and cannot walk unaided.",
+            "content": "Diagnosed just before her fourth birthday, Sophia, now 15, can no longer speak and cannot walk unaided.",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bbc/live/3e58e000-2d0e-11f1-9005-cf873f959530.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bbc/live/3e58e000-2d0e-11f1-9005-cf873f959530.jpg",
+        "ai_summary": [
+          "Sophia diagnosed with childhood dementia",
+          "Diagnosed just before her fourth birthday",
+          "Sophia now 15 years old and unable",
+          "Cannot walk unaided due to condition",
+          "Sophia can no longer speak due illness"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-04-01T23:36:39.479Z",
+    "updated_at": "2026-04-02T05:03:05.609Z",
     "clusters": []
   }
 }

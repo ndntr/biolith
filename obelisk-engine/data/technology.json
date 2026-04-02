@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-04-01T23:36:33.088Z",
+  "updated_at": "2026-04-02T05:02:58.783Z",
   "clusters": [
     {
-      "id": "cluster_9",
+      "id": "cluster_25",
       "coverage": 1,
       "updated_at": "Wed, 01 Apr 2026 20:46:48 +0000",
       "title": "Nvidia rolls out its fix for PC gaming's \"compiling shaders\" wait times",
-      "neutral_headline": "Nvidia Rolls Out Fix For Compiling Shaders Wait Times",
+      "neutral_headline": "Nvidia fixes PC gaming wait times",
       "items": [
         {
           "source": "Ars Technica",
@@ -15,22 +15,50 @@
           "title": "Nvidia rolls out its fix for PC gaming's \"compiling shaders\" wait times",
           "standfirst": "Microsoft, Intel are also working on their own solutions for the issue.",
           "content": "PC gamers who are tired of waiting for their games to \"compile shaders\" during some load times may want to dig into the latest beta version of the Nvidia App. Alongside new DLSS 4.5 Multi Frame Generation features, the app includes the beta rollout of a feature that allows your machine to automatically compile new shaders while it's idle. Nvidia's new Auto Shader Compilation system promises to \"reduc[e] the frequency of game runtime compilation after driver updates\" for users running Nvidia's GeForce Game Ready Driver 595.97 WHQL or later. When the feature is active and your machine is idle, the app will automatically start rebuilding DirectX drivers for your games so they're all set to roll the next time they launch. While the feature defaults to being turned off when the Nvidia App is first downloaded, users can activate it by going to the Graphics Tab > Global Settings > Shader Cache. There, they can set aside disk space for precompiled shaders and decide how many system resources the compilation process should use. App users can also manually force shader recompilation through the app rather than waiting for the machine to go idle.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 1,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/nvidia-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/nvidia-1152x648.jpg",
-      "popularity_score": 365.17080888888887,
+      "popularity_score": 349.73033833333335,
       "ai_summary": [
-        "Nvidia has released a fix for PC gaming wait times",
-        "Microsoft and Intel are working on their own solutions",
-        "The issue is caused by compiling shaders in games",
-        "Nvidia's fix is available for all PC gamers to download",
-        "The fix is expected to improve gaming performance"
+        "Nvidia releases fix for compiling shaders",
+        "Microsoft and Intel work on own solutions",
+        "Fix aims to reduce PC gaming wait times",
+        "Solution is available for PC gamers",
+        "Nvidia's fix is a significant improvement"
       ]
     },
     {
       "id": "cluster_12",
+      "coverage": 1,
+      "updated_at": "Thu, 02 Apr 2026 00:04:17 +0000",
+      "title": "Artemis II, NASA's boldest mission in generations, launches crew to the Moon",
+      "neutral_headline": "Artemis II launches crew to Moon",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/",
+          "published_at": "Thu, 02 Apr 2026 00:04:17 +0000",
+          "title": "Artemis II, NASA's boldest mission in generations, launches crew to the Moon",
+          "standfirst": "Liftoff of Artemis II with four astronauts occurred at 6:35 pm EDT (22:35 UTC) on Wednesday.",
+          "content": "KENNEDY SPACE CENTER, Fla.—Three Americans and one Canadian launched into orbit from Florida's Space Coast on Wednesday, flying the most powerful rocket ridden by humans on the first leg of a nine-day voyage around the Moon. Perched atop the 322-foot-tall (98-meter) Space Launch System rocket, the four astronauts lifted off from NASA's Kennedy Space Center at 6:35 pm EDT (22:35 UTC). Four hydrogen-fueled RS-25 engines and two solid rocket boosters flashed to life to push the nearly 6 million-pound rocket from its moorings at Launch Complex 39B. The engines and boosters collectively generated 8.8 million pounds of thrust, outclassing NASA's Saturn V rocket used for Apollo lunar missions.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_0752-copy-1152x648-1775090591.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/IMG_0752-copy-1152x648-1775090591.jpg",
+      "popularity_score": 348.02172722222224,
+      "ai_summary": [
+        "Artemis II launches with four astronauts",
+        "Liftoff occurred at 6:35 pm EDT",
+        "Mission is NASA's boldest in generations",
+        "Astronauts will conduct scientific research",
+        "Launch is a historic achievement for NASA"
+      ]
+    },
+    {
+      "id": "cluster_28",
       "coverage": 1,
       "updated_at": "Wed, 01 Apr 2026 20:04:04 +0000",
       "title": "Here's what that Claude Code source leak reveals about Anthropic's plans",
@@ -43,26 +71,26 @@
           "title": "Here's what that Claude Code source leak reveals about Anthropic's plans",
           "standfirst": "A persistent agent, stealth \"Undercover\" mode, and... a virtual assistant named Buddy?",
           "content": "Yesterday's surprise leak of the source code for Anthropic's Claude Code revealed a lot about the vibe-coding scaffolding the company has built around its proprietary Claude model. But observers digging through over 512,000 lines of code across more than 2,000 files have also discovered references to disabled, hidden, or inactive features that provide a peek into the potential roadmap for future features. Chief among these features is Kairos, a persistent daemon that can operate in the background even when the Claude Code terminal window is closed. The system would use periodic \"<tick>\" prompts to regularly review whether new actions are needed and a \"PROACTIVE\" flag for \"surfacing something the user hasn't asked for and needs to see now.\" Kairos makes use of a file-based \"memory system\" designed to allow for persistent operation across user sessions. A prompt hidden behind a disabled \"KAIROS\" flag in the code explains that the system is designed to \"have a complete picture of who the user is, how they'd like to collaborate with you, what behaviors to avoid or repeat, and the context behind the work the user gives you.\"Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 2,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/claude-no-ads-1152x648.png"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/claude-no-ads-1152x648.png",
-      "popularity_score": 345.4585866666667,
+      "popularity_score": 330.01811583333335,
       "ai_summary": [
-        "Claude Code source leak reveals Anthropic's plans for AI",
-        "The leak includes information about a persistent agent",
-        "Anthropic is working on a virtual assistant named Buddy",
-        "The company is also developing a stealth mode",
-        "The leak provides insight into Anthropic's future projects"
+        "Claude Code source leak reveals plans",
+        "Anthropic plans to release a virtual assistant",
+        "Assistant will be named Buddy",
+        "Leak reveals a persistent agent mode",
+        "Plans also include a stealth mode"
       ]
     },
     {
-      "id": "cluster_16",
+      "id": "cluster_32",
       "coverage": 1,
       "updated_at": "Wed, 01 Apr 2026 19:53:31 +0000",
       "title": "Research roundup: 7 cool science stories we almost missed",
-      "neutral_headline": "Research Roundup Of Cool Science Stories",
+      "neutral_headline": "Research roundup of science stories",
       "items": [
         {
           "source": "Ars Technica",
@@ -71,22 +99,22 @@
           "title": "Research roundup: 7 cool science stories we almost missed",
           "standfirst": "Sperm gets lost in space; raccoons solve puzzles; the physics of folding a crepe; and more.",
           "content": "It’s a regrettable reality that there is never enough time to cover all the interesting scientific stories we come across. So every month, we highlight a handful of the best stories that nearly slipped through the cracks. March's list includes puzzle-solving raccoons; the physics of folding a crepe; the rediscovery of a lost page from an Archimedes manuscript; and the 2026 winner of the annual Dance Your PhD contest, among other highlights. Puzzle-solving raccoons Credit: Hannah Griebling/CC BY Raccoons (aka \"trash pandas\") are notorious pests in urban and suburban settings because of their penchant for rooting around trash and compost bins; even latches and other safeguards can't entirely keep them at bay. It might be more than food searching behavior, scientists at the University of British Columbia concluded. According to their paper published in the journal Animal Behavior, raccoons are not only nimble and dextrous with their paws, they also excel at solving puzzles, which might be why they thrive so well in human-centric environments.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/dancephd-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/dancephd-1152x648.jpg",
-      "popularity_score": 329.28275333333335,
+      "popularity_score": 313.8422825,
       "ai_summary": [
-        "Sperm gets lost in space due to zero gravity",
-        "Raccoons are able to solve puzzles and adapt",
-        "The physics of folding a crepe is a complex process",
-        "Scientists are studying the behavior of raccoons",
-        "Research is being conducted on the effects of space travel"
+        "Sperm gets lost in space research",
+        "Raccoons solve puzzles in study",
+        "Physics of folding a crepe is researched",
+        "Research also includes UFO activity",
+        "Studies reveal interesting scientific facts"
       ]
     },
     {
-      "id": "cluster_17",
+      "id": "cluster_33",
       "coverage": 1,
       "updated_at": "Wed, 01 Apr 2026 19:31:59 +0000",
       "title": "Did Nazis escape on a UFO? Dev who asked the question just built the official White House app.",
@@ -99,26 +127,26 @@
           "title": "Did Nazis escape on a UFO? Dev who asked the question just built the official White House app.",
           "standfirst": "Did you know that Ohio is a hotbed of UFO activity?",
           "content": "On March 27, the White House announced a “powerful new official mobile app,” calling it “the fastest, most powerful way to stay informed and engaged with the Trump Administration.” While armchair developers and infosec experts have questioned some of the app’s technical design choices, a former FBI intelligence analyst uncovered an unusual fact: The small business owner behind the White House app has a side hobby as a conspiracy theorist. The White House app was created by 45Press, a company based in Canfield, Ohio, a town of fewer than 8,000 people located roughly halfway between Cleveland and Pittsburgh. (Donald Trump was the 45th president of the United States.) The company’s website describes it as a “design, development, and DevOps agency” and a WordPress VIP Agency Partner; it lists Amazon, NBC, and Sony as past clients.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1662714429-1152x648-1775068876.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1662714429-1152x648-1775068876.jpg",
-      "popularity_score": 324.92386444444446,
+      "popularity_score": 309.4833936111111,
       "ai_summary": [
-        "The question of whether Nazis escaped on a UFO is being asked",
-        "A developer created the official White House app",
-        "Ohio is a hotbed of UFO activity and sightings",
-        "The idea of Nazis escaping on a UFO is a conspiracy theory",
-        "There is no evidence to support the claim"
+        "Developer asks about Nazis and UFOs",
+        "Ohio is a hotbed of UFO activity",
+        "Developer creates the official White House app",
+        "App is available to the public",
+        "UFO activity is a topic of interest"
       ]
     },
     {
-      "id": "cluster_26",
+      "id": "cluster_41",
       "coverage": 1,
       "updated_at": "Wed, 01 Apr 2026 18:43:14 +0000",
       "title": "Musk loves Grok’s “roasts.” Swiss official sues in attempt to neuter them.",
-      "neutral_headline": "Swiss Official Sues Over Defamation By Grok",
+      "neutral_headline": "Swiss official sues over defamation",
       "items": [
         {
           "source": "Ars Technica",
@@ -127,26 +155,26 @@
           "title": "Musk loves Grok’s “roasts.” Swiss official sues in attempt to neuter them.",
           "standfirst": "Swiss finance minister filed a criminal complaint over Grok's \"defamation.\"",
           "content": "Last month, Swiss Finance Minister Karin Keller-Sutter filed a criminal complaint over an offensive Grok post generated by an X user that requested that the chatbot \"roast\" the government official. According to Bloomberg, Keller-Sutter's complaint seeks to hold the X user accountable for defamation and verbal abuse. She also \"asked the prosecutor to assess whether X also bears responsibility\" for failing to block Grok's misogynistic and \"vulgar\" outputs. The finance ministry described the Grok output as \"blatant denigration of a woman,\" Bloomberg reported, while emphasizing that \"such misogyny must not be seen as normal or acceptable.\"Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2255986165-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2255986165-1024x648.jpg",
-      "popularity_score": 308.11136444444446,
+      "popularity_score": 292.6708936111111,
       "ai_summary": [
-        "Swiss finance minister filed a criminal complaint",
-        "The complaint is over Grok's alleged defamation",
-        "Grok is known for its roasts and criticism of public figures",
-        "The minister is seeking to neuter Grok's ability to criticize",
-        "The case is a test of free speech and defamation laws"
+        "Swiss finance minister files complaint",
+        "Complaint is over Grok's defamation",
+        "Grok's roasts are popular with Musk",
+        "Minister seeks to neuter Grok's influence",
+        "Case is a significant legal issue"
       ]
     },
     {
-      "id": "cluster_27",
+      "id": "cluster_42",
       "coverage": 1,
       "updated_at": "Wed, 01 Apr 2026 18:35:39 +0000",
       "title": "SpaceX finally files for IPO, targets $1.75 trillion valuation",
-      "neutral_headline": "SpaceX Files For IPO With $1.75 Trillion Valuation",
+      "neutral_headline": "SpaceX files for IPO valuation",
       "items": [
         {
           "source": "Ars Technica",
@@ -155,26 +183,26 @@
           "title": "SpaceX finally files for IPO, targets $1.75 trillion valuation",
           "standfirst": "Confidential SEC submission sets up largest IPO in history.",
           "content": "Elon Musk’s rocket company SpaceX has confidentially filed to go public, firing the starting gun on what is expected to be the biggest initial public offering in history. The Texas-headquartered company filed paperwork with the Securities and Exchange Commission this week for the listing, according to two people familiar with the matter. Confidential filings allow companies to advance their listing plans without publicly revealing their financials. SpaceX last month acquired Musk’s loss-making AI startup xAI for $250 billion.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/spacex-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/spacex-1152x648.jpg",
-      "popularity_score": 305.98497555555554,
+      "popularity_score": 290.5445047222222,
       "ai_summary": [
-        "SpaceX has filed for an initial public offering",
-        "The company is seeking a $1.75 trillion valuation",
-        "The IPO is expected to be the largest in history",
-        "SpaceX is a private company founded by Elon Musk",
-        "The IPO will allow the company to raise capital"
+        "SpaceX files for IPO with SEC",
+        "Company targets $1.75 trillion valuation",
+        "IPO will be the largest in history",
+        "Filing is a significant step for SpaceX",
+        "Valuation is a major financial milestone"
       ]
     },
     {
-      "id": "cluster_34",
+      "id": "cluster_49",
       "coverage": 1,
       "updated_at": "Wed, 01 Apr 2026 18:02:55 +0000",
       "title": "Trump defunding of NPR and PBS blocked by judge, but damage is already done",
-      "neutral_headline": "Judge Blocks Trump Defunding Of NPR And PBS",
+      "neutral_headline": "Judge blocks Trump defunding order",
       "items": [
         {
           "source": "Ars Technica",
@@ -183,26 +211,26 @@
           "title": "Trump defunding of NPR and PBS blocked by judge, but damage is already done",
           "standfirst": "Judge invalidates Trump executive order, but Congress also cut off all funding.",
           "content": "A federal judge ruled that President Trump's executive order defunding NPR and PBS violated the First Amendment and issued a permanent injunction stating that executive branch agencies cannot enforce it. The Trump order's \"instruction that all federal agencies stop funding NPR and PBS constitutes a penalty for engaging in speech disfavored by the President and cannot be lawfully implemented by any executive department or agency,\" Judge Randolph Moss, an Obama appointee in US District Court for the District of Columbia, ruled yesterday. The ruling against Trump in the case filed by NPR, PBS, and several stations may not have much practical impact. Trump's May 2025 executive order was followed by Congress rescinding the entire Corporation for Public Broadcasting (CPB) budget of $1.1 billion for fiscal years 2026 and 2027.Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/npr-pbs-rally-1152x648-1752771678.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/npr-pbs-rally-1152x648-1752771678.jpg",
-      "popularity_score": 287.43942,
+      "popularity_score": 271.99894916666665,
       "ai_summary": [
-        "A judge has blocked Trump's defunding of NPR and PBS",
-        "The defunding was part of an executive order",
-        "Congress had also cut off funding for the organizations",
-        "The judge's ruling is a victory for the organizations",
-        "The defunding would have had a significant impact"
+        "Judge invalidates Trump executive order",
+        "Order blocked defunding of NPR and PBS",
+        "Congress also cut off funding",
+        "Decision is a significant legal victory",
+        "Funding will continue for NPR and PBS"
       ]
     },
     {
-      "id": "cluster_60",
+      "id": "cluster_70",
       "coverage": 1,
       "updated_at": "Wed, 01 Apr 2026 15:32:50 +0000",
       "title": "A word from Editor Moonshark about Artemis II",
-      "neutral_headline": "Editor Moonshark Comments On Artemis II Launch",
+      "neutral_headline": "Editor Moonshark on Artemis II",
       "items": [
         {
           "source": "Ars Technica",
@@ -211,26 +239,26 @@
           "title": "A word from Editor Moonshark about Artemis II",
           "standfirst": "Our resident Carcharodon lunaris weighs in about today's historic launch.",
           "content": "Hello! Is Moonshark. Moonshark say, long time since Moonshark have front page article but Moonshark believe is overdue if Moonshark does say so Moonshark self. Moonshark is shark from Moon, and Moon have important event come soon: is visit by astronauts from Earth for first time since before Moonshark born! Moonshark excited say hello! Hello Earth astronauts! Moon is best Moonshark remember stories from Old Grandpa Moonshark about other times astronaut come visit Moon. Grandpa Moonshark ramble a lot, but also got autograph from Pete Conrad. Grandpa Moonshark say Pete Conrad definitely funniest astronaut come Moon. But Moonshark also hear Artemis II astronaut Victor Glover very funny too, so maybe Moonshark meet Victor and get one up on Old Grandpa Moonshark, make Old Grandpa Moonshark jealous!Read full article Comments",
-          "feed_position": 7,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/moonshark-welcome-hellooo-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/moonshark-welcome-hellooo-1152x648.jpg",
-      "popularity_score": 271.9380311111111,
+      "popularity_score": 256.4975602777778,
       "ai_summary": [
-        "Editor Moonshark is commenting on the Artemis II launch",
-        "The launch is a historic event in space exploration",
-        "Moonshark is providing insight and analysis",
-        "The launch is a significant step forward for space travel",
-        "Moonshark is a resident expert on space and technology"
+        "Editor Moonshark comments on launch",
+        "Artemis II is a historic mission",
+        "Editor shares thoughts on the launch",
+        "Mission is a significant achievement",
+        "Editor's comments are insightful and informative"
       ]
     },
     {
-      "id": "cluster_63",
+      "id": "cluster_72",
       "coverage": 1,
       "updated_at": "Wed, 01 Apr 2026 15:20:06 +0000",
       "title": "Kia shows off small cars in NY: The 2027 EV3 and 2027 Seltos Hybrid",
-      "neutral_headline": "Kia Shows Off New Small Cars In New York",
+      "neutral_headline": "Kia shows off small cars in NY",
       "items": [
         {
           "source": "Ars Technica",
@@ -239,22 +267,106 @@
           "title": "Kia shows off small cars in NY: The 2027 EV3 and 2027 Seltos Hybrid",
           "standfirst": "People want small, efficient cars, and it seems Kia is listening.",
           "content": "Today marks a refreshing change from the doom and gloom we've seen in the EV industry over the last few weeks. New York is holding its annual auto show, and while these events don't hold as much relevance for the media as they did a decade ago, Kia is keeping the spirit alive, this morning debuting a couple of new vehicles for model year 2027 that we think hit the current mood. These are not ginormous three-rows. They're not even mid-sized SUVs. People have been asking for small cars, and it seems at least Kia has heard the message with the 2027 EV3 and a new Seltos, which will now offer a hybrid option. EV3 We got our first look at the EV more than two years ago, together with the EV4 sedan. Despite our drive of the latter last year, the EV4's US launch was shelved. That's not true for the EV3, which sticks with more popular SUV styling that mimics the bigger EV9. Ars drove the EV3 briefly in 2025, too—check out Kristin Shaw's early drive impressions to learn more about how it handled.Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/24508_2027_EV3-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/24508_2027_EV3-1152x648.jpg",
-      "popularity_score": 270.7258088888889,
+      "popularity_score": 255.28533805555554,
       "ai_summary": [
-        "Kia is showcasing its new small cars in New York",
-        "The 2027 EV3 and 2027 Seltos Hybrid are on display",
-        "The cars are designed to be small and efficient",
-        "Kia is responding to consumer demand for smaller cars",
-        "The new cars are expected to be popular among buyers"
+        "Kia showcases the 2027 EV3 and Seltos",
+        "Cars are small and efficient",
+        "Kia is listening to customer demands",
+        "Cars will be available in the market",
+        "Kia's new cars are a significant release"
       ]
     },
     {
-      "id": "cluster_67",
+      "id": "cluster_130",
+      "coverage": 1,
+      "updated_at": "Tue, 31 Mar 2026 20:26:39 +0000",
+      "title": "He-Man gets an origin story in Masters of the Universe trailer",
+      "neutral_headline": "He-Man gets an origin story",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2026/03/he-man-gets-an-origin-story-in-masters-of-the-universe-trailer/",
+          "published_at": "Tue, 31 Mar 2026 20:26:39 +0000",
+          "title": "He-Man gets an origin story in Masters of the Universe trailer",
+          "standfirst": "\"Skeletor took my family and he destroyed our world.\"",
+          "content": "We've got a brand new trailer for Masters of the Universe, the new film adaptation of the 1980s He-Man and the Masters of the Universe series. As previously reported, Sony Pictures gained the rights in 2009, and there were multiple script rewrites and much shuffling of possible directors (with John Chu, McG, and David S. Goyer among the candidates). This went on until 2022, when Netflix acquired the rights after its success with animated shows starring Kyle Allen as He-Man. Netflix canceled the project the following year, though, citing budget concerns, so Allen never got that big-screen break. And then Amazon MGM stepped in, tapping Travis Knight (Bumblebee, Kubo and the Two Strings) as director and casting Nicholas Galitzine (2021’s Cinderella, 100 Nights of Hero) as He-Man. In addition to Galitzine, the cast includes Camila Mendes as Teela; Jared Leto as Keldor/Skeletor; Alison Brie as Professor Evelyn Powers (aka Evil-Lyn), lieutenant to Skeletor; Idris Elba as Duncan/Man-at-Arms; Morena Baccarin as the Sorceress of Castle Grayskull; Johannes Haukur as Malcolm/Fisto; James Purefoy and Charlotte Riley as King Randor and Queen Marlena, rulers of Eternia; Sasheer Zamata as Suzie, Adam/He-Man’s BFF on Earth; Kristen Wiig as Roboto; Jon Xue Zhang as Ram-Man; Kojo Attah as the bounty hunter Tri-Klops; Sam C. Wilson as cyborg/weapons expert Kronis/Trap-Jaw; and Hafþór Júlíus Björnsson as Goat Man.Read full article Comments",
+          "feed_position": 17,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/heman-1152x648-1774988707.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/heman-1152x648-1774988707.jpg",
+      "popularity_score": 148,
+      "ai_summary": [
+        "He-Man origin story is revealed",
+        "Story is part of Masters of the Universe",
+        "Skeletor took He-Man's family",
+        "He-Man seeks revenge and justice",
+        "Origin story is a significant plot point"
+      ]
+    },
+    {
+      "id": "cluster_135",
+      "coverage": 1,
+      "updated_at": "Tue, 31 Mar 2026 19:50:50 +0000",
+      "title": "It's a race against time to save Krypto in Supergirl trailer",
+      "neutral_headline": "Supergirl Trailer Shows Krypto In Danger",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2026/03/its-a-race-against-time-to-save-krypto-in-supergirl-trailer/",
+          "published_at": "Tue, 31 Mar 2026 19:50:50 +0000",
+          "title": "It's a race against time to save Krypto in Supergirl trailer",
+          "standfirst": "Have these villains not seen John Wick?",
+          "content": "We haven't heard much about Warner Bros.' forthcoming Supergirl, starring Milly Alcock in the title role, since the first teaser dropped back in December. But with its summer release approaching, the studio just released the first official full trailer, and it's definitely a crowd-pleaser. As previously reported, we met Alcock’s Supergirl briefly at the end of Superman, when she showed up to collect her dog Krypto, still a bit hungover from partying on a red-sun planet. She is more jaded than her cousin, having witnessed the destruction of Krypton and the loss of everything and everyone she loved. “He sees the good in everyone, and I see the truth,” she says in the teaser. Kara, aka Supergirl, is turning 23 and declares it will be the best year yet, which is admittedly “not a very high bar to clear.” While she might not be too keen on the prospect, she’s going to be a superhero nonetheless. Per the logline: “When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.”Read full article Comments",
+          "feed_position": 19,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/supergirl1-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/supergirl1-1152x648.jpg",
+      "popularity_score": 148,
+      "ai_summary": [
+        "Supergirl trailer is released",
+        "Krypto is in danger in the trailer",
+        "Villains are shown in the trailer",
+        "John Wick is referenced in the article",
+        "Supergirl is trying to save Krypto"
+      ]
+    },
+    {
+      "id": "cluster_128",
+      "coverage": 1,
+      "updated_at": "Tue, 31 Mar 2026 21:28:15 +0000",
+      "title": "Starlink satellite breaks apart into \"tens of objects\"; SpaceX confirms \"anomaly\"",
+      "neutral_headline": "Starlink Satellite Breaks Apart Suddenly",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/03/starlink-satellite-breaks-apart-into-tens-of-objects-spacex-confirms-anomaly/",
+          "published_at": "Tue, 31 Mar 2026 21:28:15 +0000",
+          "title": "Starlink satellite breaks apart into \"tens of objects\"; SpaceX confirms \"anomaly\"",
+          "standfirst": "Satellite failure cause is unexplained after second \"fragment creation event.\"",
+          "content": "SpaceX's Starlink division confirmed yesterday that it lost contact with a satellite on Sunday and is trying to locate space debris that might have been produced by... whatever happened there. Starlink said there appeared to be \"no new risk\" to other space operations and did not use the word \"explosion.\" But it seems that something caused a Starlink broadband satellite to break apart into at least tens of pieces. LeoLabs, which operates a radar network that can track objects in low Earth orbit, said in an X post that it \"detected a fragment creation event involving SpaceX Starlink 34343,\" one of the 10,000 or so Starlink satellites in orbit. \"LeoLabs Global Radar Network immediately detected tens of objects in the vicinity of the satellite after the event, with a first pass over our radar site in the Azores, Portugal,\" LeoLabs said. \"Additional fragments may have been produced—analysis is ongoing.\"Read full article Comments",
+          "feed_position": 16,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-1152x648.jpg",
+      "popularity_score": 141,
+      "ai_summary": [
+        "Starlink satellite broke into pieces",
+        "Tens of objects were created",
+        "SpaceX confirmed the anomaly",
+        "Cause of the failure is unknown",
+        "Second fragment creation event occurred"
+      ]
+    },
+    {
+      "id": "cluster_75",
       "coverage": 1,
       "updated_at": "Wed, 01 Apr 2026 15:00:01 +0000",
       "title": "LIGO data hints at supernovae so powerful they leave nothing behind",
@@ -267,82 +379,26 @@
           "title": "LIGO data hints at supernovae so powerful they leave nothing behind",
           "standfirst": "Pair instability supernovae create a \"mass gap\" in black holes.",
           "content": "Many of the early exoplanet discoveries were exciting on their own, confirming that there really were strange new worlds out in the Universe. But over time, our focus has shifted more toward numbers, as we began using the frequency of objects like super-Earths and mini-Neptunes to learn more about how planets form. With four gravitational wave detectors now having generated years of data, we may be on the verge of seeing something similar happen with black hole mergers. On Wednesday, researchers released an analysis suggesting that there's a \"mass gap\" in the population of black holes that we've detected so far. And that gap supports the idea that some stars are so massive that they die in something called a pair-instability supernova, which is so violent that it leaves nothing but debris behind. That's not stable Black holes result from the collapse of a star's core during a supernova. While the outer layers of a star explode outward, the innermost layers plunge inward, funneling a fraction of the star's mass into the black hole (or neutron star if the star's mass is too small). We're not sure what the upper limit on a star's mass is, so you might naively think the distribution of black hole masses tails off gently.Read full article Comments",
-          "feed_position": 9,
+          "feed_position": 10,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/image-8-1152x648.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/image-8-1152x648.jpeg",
-      "popularity_score": 254.39108666666667,
+      "popularity_score": 138.95061583333333,
       "ai_summary": [
-        "LIGO data suggests the existence of powerful supernovae",
-        "The supernovae are so powerful they leave nothing behind",
-        "The data is providing insight into the universe",
-        "Scientists are studying the data to learn more",
-        "The discovery is a significant one in the field of astrophysics"
+        "LIGO data shows supernovae information",
+        "Pair instability supernovae are powerful",
+        "Black holes have a mass gap",
+        "Supernovae create the mass gap",
+        "LIGO is studying the supernovae"
       ]
     },
     {
-      "id": "cluster_128",
-      "coverage": 1,
-      "updated_at": "Tue, 31 Mar 2026 20:26:39 +0000",
-      "title": "He-Man gets an origin story in Masters of the Universe trailer",
-      "neutral_headline": "Masters of the Universe trailer released online",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/03/he-man-gets-an-origin-story-in-masters-of-the-universe-trailer/",
-          "published_at": "Tue, 31 Mar 2026 20:26:39 +0000",
-          "title": "He-Man gets an origin story in Masters of the Universe trailer",
-          "standfirst": "\"Skeletor took my family and he destroyed our world.\"",
-          "content": "We've got a brand new trailer for Masters of the Universe, the new film adaptation of the 1980s He-Man and the Masters of the Universe series. As previously reported, Sony Pictures gained the rights in 2009, and there were multiple script rewrites and much shuffling of possible directors (with John Chu, McG, and David S. Goyer among the candidates). This went on until 2022, when Netflix acquired the rights after its success with animated shows starring Kyle Allen as He-Man. Netflix canceled the project the following year, though, citing budget concerns, so Allen never got that big-screen break. And then Amazon MGM stepped in, tapping Travis Knight (Bumblebee, Kubo and the Two Strings) as director and casting Nicholas Galitzine (2021’s Cinderella, 100 Nights of Hero) as He-Man. In addition to Galitzine, the cast includes Camila Mendes as Teela; Jared Leto as Keldor/Skeletor; Alison Brie as Professor Evelyn Powers (aka Evil-Lyn), lieutenant to Skeletor; Idris Elba as Duncan/Man-at-Arms; Morena Baccarin as the Sorceress of Castle Grayskull; Johannes Haukur as Malcolm/Fisto; James Purefoy and Charlotte Riley as King Randor and Queen Marlena, rulers of Eternia; Sasheer Zamata as Suzie, Adam/He-Man’s BFF on Earth; Kristen Wiig as Roboto; Jon Xue Zhang as Ram-Man; Kojo Attah as the bounty hunter Tri-Klops; Sam C. Wilson as cyborg/weapons expert Kronis/Trap-Jaw; and Hafþór Júlíus Björnsson as Goat Man.Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/heman-1152x648-1774988707.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/heman-1152x648-1774988707.jpg",
-      "popularity_score": 148,
-      "ai_summary": [
-        "He-Man gets an origin story in the trailer",
-        "Skeletor is the main villain in the story",
-        "The trailer shows action packed scenes",
-        "The story is about He-Man's family and world",
-        "The trailer is available to watch online now"
-      ]
-    },
-    {
-      "id": "cluster_133",
-      "coverage": 1,
-      "updated_at": "Tue, 31 Mar 2026 19:50:50 +0000",
-      "title": "It's a race against time to save Krypto in Supergirl trailer",
-      "neutral_headline": "Supergirl trailer shows Krypto in danger",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/03/its-a-race-against-time-to-save-krypto-in-supergirl-trailer/",
-          "published_at": "Tue, 31 Mar 2026 19:50:50 +0000",
-          "title": "It's a race against time to save Krypto in Supergirl trailer",
-          "standfirst": "Have these villains not seen John Wick?",
-          "content": "We haven't heard much about Warner Bros.' forthcoming Supergirl, starring Milly Alcock in the title role, since the first teaser dropped back in December. But with its summer release approaching, the studio just released the first official full trailer, and it's definitely a crowd-pleaser. As previously reported, we met Alcock’s Supergirl briefly at the end of Superman, when she showed up to collect her dog Krypto, still a bit hungover from partying on a red-sun planet. She is more jaded than her cousin, having witnessed the destruction of Krypton and the loss of everything and everyone she loved. “He sees the good in everyone, and I see the truth,” she says in the teaser. Kara, aka Supergirl, is turning 23 and declares it will be the best year yet, which is admittedly “not a very high bar to clear.” While she might not be too keen on the prospect, she’s going to be a superhero nonetheless. Per the logline: “When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.”Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/supergirl1-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/supergirl1-1152x648.jpg",
-      "popularity_score": 148,
-      "ai_summary": [
-        "Krypto is in danger in the Supergirl trailer",
-        "The trailer shows a race against time to save Krypto",
-        "Villains are trying to harm Krypto in the trailer",
-        "The trailer is action packed and intense",
-        "Krypto's fate is uncertain in the trailer"
-      ]
-    },
-    {
-      "id": "cluster_79",
+      "id": "cluster_84",
       "coverage": 1,
       "updated_at": "Wed, 01 Apr 2026 13:46:22 +0000",
       "title": "Sweden goes back to basics, swapping screens for books in the classroom",
-      "neutral_headline": "Sweden swaps screens for books in classroom",
+      "neutral_headline": "Sweden Swaps Screens For Books In Class",
       "items": [
         {
           "source": "Ars Technica",
@@ -351,26 +407,26 @@
           "title": "Sweden goes back to basics, swapping screens for books in the classroom",
           "standfirst": "Sweden is bringing back books amid declining test scores.",
           "content": "In 2023, the Swedish government announced that the country’s schools would be going back to basics, emphasizing skills such as reading and writing, particularly in early grades. After mostly being sidelined, physical books are now being reintroduced into classrooms, and students are learning to write the old-fashioned way: by hand, with a pencil or pen, on sheets of paper. The Swedish government also plans to make schools cellphone-free throughout the country. Educational authorities have been investing heavily. Last year alone, the education ministry allocated $83 million to purchase textbooks and teachers’ guides. In a country with about 11 million people, the aim is for every student to have a physical textbook for each subject. The government also put $54 million towards the purchase of fiction and non-fiction books for students. These moves represent a dramatic pivot from previous decades, during which Sweden—and many other nations—moved away from physical books in favor of tablets and digital resources in an effort to prepare students for life in an online world. Perhaps unsurprisingly, the Nordic country’s efforts have sparked a debate on the role of digital technology in education, one that extends well beyond the country’s borders. US parents in districts that have adopted digital technology to a great extent may be wondering if educators will reverse course, too.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 11,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/book-laptop-school-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/book-laptop-school-1152x648.jpg",
-      "popularity_score": 143.16358666666667,
+      "popularity_score": 137.72311583333334,
       "ai_summary": [
-        "Sweden is bringing back books in the classroom",
-        "The change is due to declining test scores",
-        "Screens are being replaced with physical books",
-        "The goal is to improve student learning outcomes",
-        "The change is part of a new education strategy"
+        "Sweden is bringing back books",
+        "Screens are being replaced by books",
+        "Test scores were declining in Sweden",
+        "Books are being used in the classroom",
+        "Sweden wants to improve education"
       ]
     },
     {
-      "id": "cluster_87",
+      "id": "cluster_92",
       "coverage": 1,
       "updated_at": "Wed, 01 Apr 2026 13:04:27 +0000",
       "title": "Launch day has arrived for NASA's Artemis II mission—here's what to expect",
-      "neutral_headline": "NASA Artemis II mission launch day arrives",
+      "neutral_headline": "NASA Artemis II Mission Launches Soon",
       "items": [
         {
           "source": "Ars Technica",
@@ -379,54 +435,26 @@
           "title": "Launch day has arrived for NASA's Artemis II mission—here's what to expect",
           "standfirst": "\"It’ll go when the engines light at T-0.\"",
           "content": "KENNEDY SPACE CENTER, Fla.—Launching to the Moon is an all-day undertaking, something the four astronauts waiting to climb aboard NASA's Artemis II rocket know well. \"It is actually a very long day,\" said Victor Glover, the pilot on Artemis II. \"We wake up about eight hours before launch, and there's a pretty tight schedule of things to get out there.\" Glover and his three crewmates have their schedules planned to the minute throughout the nine-day Artemis II mission. If all goes according to plan, their mission will carry them more than a quarter-million miles from Earth, farther from home than anyone has ventured in human history. After looping behind the Moon, the astronauts and their Orion capsule will fall back to Earth at some 25,000 mph (40,000 km/hr), setting another record for the fastest that humans have ever traveled.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 12,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/KSC-20260324-PH-JBS01_0016large-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/KSC-20260324-PH-JBS01_0016large-1152x648.jpg",
-      "popularity_score": 142.46497555555555,
+      "popularity_score": 137.02450472222222,
       "ai_summary": [
-        "The Artemis II mission is launching today",
-        "The mission is a major step for NASA",
-        "The launch is scheduled to take place soon",
-        "The mission will test new spacecraft systems",
-        "The launch is a crucial step for future missions"
+        "NASA Artemis II mission is launching",
+        "The mission is expected to be successful",
+        "NASA is preparing for the launch",
+        "The launch is a significant event",
+        "NASA is leading the mission"
       ]
     },
     {
-      "id": "cluster_126",
-      "coverage": 1,
-      "updated_at": "Tue, 31 Mar 2026 21:28:15 +0000",
-      "title": "Starlink satellite breaks apart into \"tens of objects\"; SpaceX confirms \"anomaly\"",
-      "neutral_headline": "Starlink satellite breaks apart in space",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/03/starlink-satellite-breaks-apart-into-tens-of-objects-spacex-confirms-anomaly/",
-          "published_at": "Tue, 31 Mar 2026 21:28:15 +0000",
-          "title": "Starlink satellite breaks apart into \"tens of objects\"; SpaceX confirms \"anomaly\"",
-          "standfirst": "Satellite failure cause is unexplained after second \"fragment creation event.\"",
-          "content": "SpaceX's Starlink division confirmed yesterday that it lost contact with a satellite on Sunday and is trying to locate space debris that might have been produced by... whatever happened there. Starlink said there appeared to be \"no new risk\" to other space operations and did not use the word \"explosion.\" But it seems that something caused a Starlink broadband satellite to break apart into at least tens of pieces. LeoLabs, which operates a radar network that can track objects in low Earth orbit, said in an X post that it \"detected a fragment creation event involving SpaceX Starlink 34343,\" one of the 10,000 or so Starlink satellites in orbit. \"LeoLabs Global Radar Network immediately detected tens of objects in the vicinity of the satellite after the event, with a first pass over our radar site in the Azores, Portugal,\" LeoLabs said. \"Additional fragments may have been produced—analysis is ongoing.\"Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-1152x648.jpg",
-      "popularity_score": 141,
-      "ai_summary": [
-        "A Starlink satellite has broken apart in space",
-        "The cause of the anomaly is unknown",
-        "The satellite broke into tens of objects",
-        "SpaceX has confirmed the incident",
-        "An investigation into the cause is underway"
-      ]
-    },
-    {
-      "id": "cluster_113",
+      "id": "cluster_116",
       "coverage": 1,
       "updated_at": "Wed, 01 Apr 2026 01:36:50 +0000",
       "title": "NASA is leading the way to the Moon, but the military won't be far behind",
-      "neutral_headline": "NASA leads the way to the Moon",
+      "neutral_headline": "NASA And Military Collaborate On Moon Mission",
       "items": [
         {
           "source": "Ars Technica",
@@ -435,7 +463,7 @@
           "title": "NASA is leading the way to the Moon, but the military won't be far behind",
           "standfirst": "\"I just don't want to get caught flat-footed when we start to have to protect US interests out there.\"",
           "content": "KENNEDY SPACE CENTER, Florida—The US military has always been part of NASA's human spaceflight program. The first astronauts were nearly all military pilots, and two of the four crew members set to fly around the Moon on NASA's Artemis II mission were Navy test pilots before joining the astronaut corps. Artemis II, the first crew mission to the Moon's vicinity since 1972, is set for launch Wednesday from Kennedy Space Center in Florida. Commander Reid Wiseman and pilot Victor Glover, both Navy test pilots, will be at the controls of the Space Launch System rocket and Orion spacecraft for the ride to space. NASA astronaut Christina Koch and Canadian astronaut Jeremy Hansen round out the four-person crew. The mission will depart from NASA property on Florida's Space Coast, but the Space Force will play an important role in the launch. A range crew from the Space Force will track the SLS rocket as it arcs over the Atlantic Ocean. Their primary job will be ensuring public safety, with the unenviable responsibility of sending a destruct signal to the rocket if it flies off course. Thankfully for the astronauts inside the spacecraft, the Orion capsule has an abort rocket to pull it away from an exploding launch vehicle in the event of a catastrophic failure.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1238720256-1152x648.jpg"
         }
       ],
@@ -443,18 +471,18 @@
       "popularity_score": 133,
       "ai_summary": [
         "NASA is leading the way to the Moon",
-        "The military will also be involved in the mission",
-        "The goal is to protect US interests in space",
-        "The mission is a major step for space exploration",
-        "The military will play a supporting role"
+        "The military is involved in the mission",
+        "US interests are being protected",
+        "NASA and the military are collaborating",
+        "The mission is important for the US"
       ]
     },
     {
-      "id": "cluster_118",
+      "id": "cluster_121",
       "coverage": 1,
       "updated_at": "Tue, 31 Mar 2026 23:00:23 +0000",
       "title": "Running local models on Macs gets faster with Ollama's MLX support",
-      "neutral_headline": "Ollama's MLX support improves Mac performance",
+      "neutral_headline": "Ollama MLX Support Improves Mac Performance",
       "items": [
         {
           "source": "Ars Technica",
@@ -463,26 +491,26 @@
           "title": "Running local models on Macs gets faster with Ollama's MLX support",
           "standfirst": "Apple Silicon Macs get a performance boost thanks to better unified memory usage.",
           "content": "Ollama, a runtime system for operating large language models on a local computer, has introduced support for Apple's open source MLX framework for machine learning. Additionally, Ollama says it has improved caching performance and now supports Nvidia's NVFP4 format for model compression, making for much more efficient memory usage in certain models. Combined, these developments promise significantly improved performance on Macs with Apple Silicon chips (M1 or later)—and the timing couldn't be better, as local models are starting to gain steam in ways they haven't before outside researcher and hobbyist communities. The recent runaway success of OpenClaw—which raced its way to over 300,000 stars on GitHub, made headlines with experiments like Moltbook and became an obsession in China in particular—has many people experimenting with running models on their machines.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/ollama-speed-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/ollama-speed-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Ollama's MLX support improves Mac performance",
-        "The support is for local models on Macs",
-        "Apple Silicon Macs get a performance boost",
-        "The boost is due to better memory usage",
-        "The improvement is significant for Mac users"
+        "Ollama MLX support is available",
+        "Mac performance is improved with MLX",
+        "Apple Silicon Macs are supported",
+        "Unified memory usage is improved",
+        "Ollama MLX is a performance boost"
       ]
     },
     {
-      "id": "cluster_122",
+      "id": "cluster_125",
       "coverage": 1,
       "updated_at": "Tue, 31 Mar 2026 21:51:26 +0000",
       "title": "RFK Jr. wants Americans to use peptides that were banned over safety risks",
-      "neutral_headline": "RFK Jr wants Americans to use banned peptides",
+      "neutral_headline": "RFK Jr Wants Americans To Use Banned Peptides",
       "items": [
         {
           "source": "Ars Technica",
@@ -491,26 +519,26 @@
           "title": "RFK Jr. wants Americans to use peptides that were banned over safety risks",
           "standfirst": "The FDA is reportedly planning to allow production of 14 previously banned peptides.",
           "content": "Anti-vaccine Health Secretary Robert F. Kennedy Jr.—who has long dismissed reams of data on lifesaving vaccines as being insufficient to prove safety—is pushing the Food and Drug Administration to lift restrictions on over a dozen injectable peptide treatments. The treatments have little to no efficacy data behind them and were previously banned by the FDA for posing significant safety risks. Kennedy is a self-proclaimed \"big fan\" of the risky treatments. Peptides, generally, are chains of amino acids linked together with peptide bonds, a link between the carboxyl group of one amino acid and the amino group of another. Bioactive peptides can have a range of cellular functions and influence various biochemical processes. Well-established, FDA-approved types of peptide drugs include GLP-1s for obesity and insulin for diabetes. But online, peptide drugs are now seemingly synonymous with unproven, non-FDA-approved treatment. They've grown extremely popular among wellness influencers, celebrities, and \"biohackers,\" who claim without evidence that peptides can treat various diseases, reverse aging, and improve appearance. On February 27, Kennedy touted such unproven peptides as a guest on Joe Rogan's podcast, saying he had used them to treat injuries with \"really good effect.\" He also vowed to end the FDA's \"war on peptides\" and revealed his plan to reverse the FDA's restrictions on many of them.Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "RFK Jr is advocating for banned peptides",
-        "The peptides were banned due to safety risks",
-        "The FDA is planning to allow production again",
-        "The peptides have potential health benefits",
-        "The decision is controversial due to safety concerns"
+        "RFK Jr is advocating for peptide use",
+        "The peptides were banned due to risks",
+        "The FDA is planning to allow production",
+        "Peptides were previously banned",
+        "RFK Jr wants Americans to use them"
       ]
     },
     {
-      "id": "cluster_131",
+      "id": "cluster_133",
       "coverage": 1,
       "updated_at": "Tue, 31 Mar 2026 20:00:20 +0000",
       "title": "Sweaty, glassy-eyed Tiger Woods blames cell phone use for his car crash",
-      "neutral_headline": "Tiger Woods blames cell phone use for car crash",
+      "neutral_headline": "Tiger Woods Blames Cell Phone For Car Crash",
       "items": [
         {
           "source": "Ars Technica",
@@ -519,46 +547,18 @@
           "title": "Sweaty, glassy-eyed Tiger Woods blames cell phone use for his car crash",
           "standfirst": "Cops arrest Woods after incident.",
           "content": "Celebrities—they're just like us! We recently covered a strange story out of Michigan last week, where a woman connected to a Zoom court hearing while driving her car down the road—and then tried to gaslight the judge about this fact. At the end of that piece, I noted just how often I see similar kinds of distracted driving, where people are (illegally in my state) one-handing cell phones even while navigating tricky intersections. Famous people aren't immune from this kind of behavior, either. Police in Martin County, Florida, today released their affidavit used to arrest golfer Tiger Woods after a car crash last week near his home. Woods was driving down a residential street, apparently at high speed, and managed to clip the trailer of another vehicle. He then swerved hard enough to flip his vehicle onto its side as it went skidding down the road. Woods had to be helped out through the front passenger-seat window of his SUV.Read full article Comments",
-          "feed_position": 17,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268351717-1152x648-1774986237.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268351717-1152x648-1774986237.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Tiger Woods was involved in a car crash",
-        "Woods blames cell phone use for the crash",
-        "The incident occurred recently",
-        "Woods was arrested by the police",
-        "The crash is under investigation"
-      ]
-    },
-    {
-      "id": "cluster_134",
-      "coverage": 1,
-      "updated_at": "Tue, 31 Mar 2026 19:09:33 +0000",
-      "title": "Entire Claude Code CLI source code leaks thanks to exposed map file",
-      "neutral_headline": "Claude Code CLI source code leaks online",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/",
-          "published_at": "Tue, 31 Mar 2026 19:09:33 +0000",
-          "title": "Entire Claude Code CLI source code leaks thanks to exposed map file",
-          "standfirst": "512,000 lines of code that competitors and hobbyists will be studying for weeks.",
-          "content": "The entire source code for Anthropic's Claude Code command line interface application (not the models themselves) has been leaked and disseminated, apparently due to a serious internal error. The leak gives competitors and armchair enthusiasts a detailed blueprint for how Claude Code works—a significant setback for a company that has seen explosive user growth and industry impact over the past several months. Early this morning, Anthropic published version 2.1.88 of Claude Code npm package—but it was quickly discovered that package included a source map file, which could be used to access the entirety of Claude Code's source—almost 2,000 TypeScript files and more than 512,000 lines of code. Security researcher Chaofan Shou was the first to publicly point it out on X, with a link to an archive containing the files. The codebase was then put in a public GitHub repository, and it has been forked tens of thousands of times.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-code-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-code-1152x648.jpg",
-      "popularity_score": 133,
-      "ai_summary": [
-        "The Claude Code CLI source code has leaked",
-        "The leak is due to an exposed map file",
-        "The code is 512,000 lines long",
-        "Competitors and hobbyists will study the code",
-        "The leak is a significant security breach"
+        "Tiger Woods was in a car crash",
+        "Woods blames cell phone use for crash",
+        "Cops arrested Woods after incident",
+        "Woods was sweaty and glassy-eyed",
+        "The crash is being investigated"
       ]
     }
   ]
