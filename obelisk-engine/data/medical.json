@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-04-02T11:45:27.284Z",
+    "updated_at": "2026-04-02T19:50:22.907Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-04-02T11:45:35.440Z",
+    "updated_at": "2026-04-02T19:50:35.723Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/ede5a842-bb43-4c41-acd4-05e9dd4aa795/GPs-role-widened-following-gynaecologist-allegations.aspx",
         "ai_summary": [
-          "GPs may face questions from patients",
-          "Allegations against Dr Simon Gordon are made",
-          "A new support package is launched",
-          "GPs are taking on a wider role",
-          "Patients may seek guidance from GPs"
+          "GPs can expect questions from patients",
+          "A new support package has been launched",
+          "Allegations have been made against Dr Simon Gordon",
+          "GPs will play a wider role",
+          "The support package is available"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/d31af0e2-c7ad-4e73-a1d2-5a487906602f/PBAC-weighs-up-expansion-of-meningococcal-B-vaccine.aspx",
         "ai_summary": [
-          "PBAC considers expanding vaccine program",
-          "Meningococcal B vaccine is being reviewed",
-          "The committee is weighing up options",
-          "Expansion of vaccine program is possible",
-          "The decision will impact public health"
+          "PBAC is considering vaccine expansion",
+          "The expansion is for the meningococcal B vaccine",
+          "Bexsero is the vaccine being considered",
+          "The vaccine is on the National Immunisation Program",
+          "The committee is weighing up the decision"
         ]
       },
       {
@@ -80,11 +80,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/0286afba-b0d4-4a6b-a528-2c0846e52d89/Medical-Costs-overhaul-creates-substantial-uncertainty-for-GPs.aspx",
         "ai_summary": [
-          "Medical costs overhaul creates uncertainty",
-          "GPs may face changes to billing practices",
-          "The overhaul may impact practice sustainability",
-          "Individual GP fees may be published",
-          "The changes may influence billing behavior"
+          "RACGP says plan to publish individual GP fees could create misleading comparisons",
+          "Influence billing behaviour and impact practice sustainability",
+          "Plan may affect general practice in vaccine uptake",
+          "Resources available for MPs to share in local communities",
+          "RACGP expresses concerns over potential outcomes"
         ]
       },
       {
@@ -107,11 +107,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/0f79dc28-a1e9-482b-b68b-511270b22c73/In-Practice-RACGP-flu-vaccination-campaign.aspx",
         "ai_summary": [
-          "RACGP launches flu vaccination campaign",
-          "The campaign promotes vaccine uptake",
-          "General practice is central to vaccine efforts",
-          "Resources are available for MPs to share",
-          "The campaign aims to improve public health"
+          "Reinforcing central role of general practice in vaccine uptake",
+          "Includes resources for MPs to share in local communities",
+          "Campaign aims to increase vaccine awareness",
+          "General practice plays key role in vaccine distribution",
+          "RACGP supports vaccine uptake efforts"
         ]
       },
       {
@@ -135,23 +135,23 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/1d294443-ff73-48c9-ba85-84ebde190ee0/Wegovy-approved-to-treat-severe-fatty-liver-disease.aspx",
         "ai_summary": [
           "TGA grants provisional approval for new indication",
-          "Experts say it could slow disease progression",
-          "Used alongside other early intervention strategies",
-          "Targets severe fatty liver disease treatment",
-          "Could help patients with limited options"
+          "Experts say approval could help slow disease progression",
+          "Early intervention strategies also recommended",
+          "Wegovy already used to treat type 2 diabetes",
+          "Approval may improve treatment options for patients"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-04-02T11:45:29.829Z",
+    "updated_at": "2026-04-02T19:50:24.928Z",
     "clusters": [
       {
-        "id": "cluster_25",
+        "id": "cluster_34",
         "coverage": 2,
         "updated_at": "Wed, 01 Apr 2026 04:00:37 GMT",
         "title": "NHS England to offer weight-loss drugs to 1.2m people to reduce risk of heart attacks and strokes",
-        "neutral_headline": "NHS Offers Weight Loss Drugs",
+        "neutral_headline": "NHS to offer weight loss drugs to people at risk",
         "items": [
           {
             "source": "Guardian Health",
@@ -160,7 +160,7 @@
             "title": "NHS England to offer weight-loss drugs to 1.2m people to reduce risk of heart attacks and strokes",
             "standfirst": "People who are not obese but overweight and at risk of serious cardiovascular events eligible for weekly jabsThe NHS in England is to offer more than 1 million people weight-loss drugs to reduce their risk of heart attacks and strokes.Semaglutide (Wegovy) is already available on the health service for some people living with obesity, and also offered under the brand name Ozempic to treat type 2 diabetes. Continue reading...",
             "content": "People who are not obese but overweight and at risk of serious cardiovascular events eligible for weekly jabsThe NHS in England is to offer more than 1 million people weight-loss drugs to reduce their risk of heart attacks and strokes.Semaglutide (Wegovy) is already available on the health service for some people living with obesity, and also offered under the brand name Ozempic to treat type 2 diabetes. Continue reading...",
-            "feed_position": 6
+            "feed_position": 10
           },
           {
             "source": "BBC Health",
@@ -169,25 +169,422 @@
             "title": "Weight-loss jabs will be offered on NHS for people at risk of further heart attacks",
             "standfirst": "More than a million people in England will start being offered the anti-obesity jab for better heart health and to avoid strokes.",
             "content": "More than a million people in England will start being offered the anti-obesity jab for better heart health and to avoid strokes.",
-            "feed_position": 2,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/c9c009f0-2d9c-11f1-a79a-77e93010d956.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/c9c009f0-2d9c-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "NHS England to offer weight loss drugs",
-          "1.2 million people eligible for treatment",
-          "Semaglutide already available for obesity",
-          "Reduces risk of heart attacks and strokes",
-          "Weekly jabs to be administered"
+          "Over 1 million people in England eligible for treatment",
+          "Semaglutide already available for obesity and diabetes",
+          "Weekly jabs aim to reduce heart attack and stroke risk",
+          "NHS expands treatment options for cardiovascular health",
+          "Eligibility criteria based on weight and health risk"
         ]
       },
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Thu, 02 Apr 2026 19:27:18 GMT",
+        "title": "UK drug exports to US spared tariffs under deal critics say will cost NHS billions",
+        "neutral_headline": "UK US deal spares drug exports from tariffs",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/apr/02/uk-drug-exports-to-us-spared-tariffs-under-deal-critics-say-will-cost-nhs-billions",
+            "published_at": "Thu, 02 Apr 2026 19:27:18 GMT",
+            "title": "UK drug exports to US spared tariffs under deal critics say will cost NHS billions",
+            "standfirst": "‘Partnership’ on drug pricing also gives patients in Britain greater access to potentially life-extending treatments British drug exports to the US will escape tariffs imposed by Donald Trump as part of a controversial UK-US medicines deal that critics fear will mean less money for the NHS.The deal will also give patients in Britain greater access to potentially life-extending drugs because the rules have been relaxed to allow the NHS to pay more for particular treatments. Continue reading...",
+            "content": "‘Partnership’ on drug pricing also gives patients in Britain greater access to potentially life-extending treatments British drug exports to the US will escape tariffs imposed by Donald Trump as part of a controversial UK-US medicines deal that critics fear will mean less money for the NHS.The deal will also give patients in Britain greater access to potentially life-extending drugs because the rules have been relaxed to allow the NHS to pay more for particular treatments. Continue reading...",
+            "feed_position": 0
+          }
+        ],
+        "ai_summary": [
+          "Partnership on drug pricing relaxes rules for NHS",
+          "Patients in Britain gain access to life extending treatments",
+          "Critics fear deal may cost NHS billions",
+          "Agreement aims to increase access to medications",
+          "UK drug exports to US will not face tariffs"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Thu, 02 Apr 2026 19:02:15 GMT",
+        "title": "Why isn't Artemis II landing on the Moon?",
+        "neutral_headline": "Artemis II mission aims for lunar surface",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/videos/c3w344wyxg5o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 02 Apr 2026 19:02:15 GMT",
+            "title": "Why isn't Artemis II landing on the Moon?",
+            "standfirst": "The US is aiming to be the first country to land humans on the lunar surface again by 2028 - so what's this mission for?",
+            "content": "The US is aiming to be the first country to land humans on the lunar surface again by 2028 - so what's this mission for?",
+            "feed_position": 6,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d72/live/93cb1130-2ec5-11f1-b297-95b0a0a8331e.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d72/live/93cb1130-2ec5-11f1-b297-95b0a0a8331e.jpg",
+        "ai_summary": [
+          "US targets 2028 for human lunar landing",
+          "Artemis II crewed mission prepares for launch",
+          "Mission objectives include testing equipment and procedures",
+          "NASA plans for future lunar exploration",
+          "Artemis II is a crucial step towards lunar landing"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Thu, 02 Apr 2026 17:52:28 GMT",
+        "title": "CDC temporarily halts testing for several infectious diseases amid staffing shortages",
+        "neutral_headline": "CDC halts testing for infectious diseases",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2026/apr/02/cdc-infectious-diseases-testing",
+            "published_at": "Thu, 02 Apr 2026 17:52:28 GMT",
+            "title": "CDC temporarily halts testing for several infectious diseases amid staffing shortages",
+            "standfirst": "Federal agency, which normally supports state and local public health labs, has been hobbled by staff departuresSign up for the Breaking News US email to get newsletter alerts in your inboxThe US federal agency responsible for monitoring diseases has temporarily halted certain diagnostic testing, including those for rabies, human herpesvirus and several other infectious illnesses.The Centers for Disease Control and Prevention (CDC) released a list on Monday showing that more than two dozen types of testing are now unavailable. Continue reading...",
+            "content": "Federal agency, which normally supports state and local public health labs, has been hobbled by staff departuresSign up for the Breaking News US email to get newsletter alerts in your inboxThe US federal agency responsible for monitoring diseases has temporarily halted certain diagnostic testing, including those for rabies, human herpesvirus and several other infectious illnesses.The Centers for Disease Control and Prevention (CDC) released a list on Monday showing that more than two dozen types of testing are now unavailable. Continue reading...",
+            "feed_position": 1
+          }
+        ],
+        "ai_summary": [
+          "Staffing shortages affect CDC testing capabilities",
+          "Over two dozen types of testing are unavailable",
+          "CDC normally supports state and local public health labs",
+          "Agency releases list of unavailable tests",
+          "Staff departures contribute to testing halt"
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Thu, 02 Apr 2026 16:00:00 GMT",
+        "title": "BBC Inside Science",
+        "neutral_headline": "Science questions answered on BBC show",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 02 Apr 2026 16:00:00 GMT",
+            "title": "BBC Inside Science",
+            "standfirst": "Why men have nipples and how gravity slingshots work; your science questions answered.",
+            "content": "Why men have nipples and how gravity slingshots work; your science questions answered.",
+            "feed_position": 25,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
+        "ai_summary": [
+          "Experts discuss various science topics",
+          "Questions about human biology and space exploration",
+          "Gravity slingshots and men having nipples explained",
+          "Show aims to educate and inform audience",
+          "Science questions answered in an engaging manner"
+        ]
+      },
+      {
+        "id": "cluster_4",
+        "coverage": 1,
+        "updated_at": "Thu, 02 Apr 2026 15:54:27 GMT",
+        "title": "Screen time guidance does not go far enough | Letters",
+        "neutral_headline": "Screen time guidance for under fives",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/apr/02/screen-time-guidance-does-not-go-far-enough",
+            "published_at": "Thu, 02 Apr 2026 15:54:27 GMT",
+            "title": "Screen time guidance does not go far enough | Letters",
+            "standfirst": "Readers respond to new government advice to limit screen time to under an hour for under-fives, and restrict it to ‘slow-paced’ media contentWhile I fully support the government’s guidance to parents of under-fives to keep screen time to under an hour a day (Keep under-fives’ screen time to no more than an hour a day, UK advice says, 27 March), this does not go far enough. Children do not only experience screens at home; they also encounter them in early childhood settings and schools.Contrary to the advice given in the new guidance for parents, the government requires all children to complete a screen-based test within their first six weeks at primary school. The Reception Baseline Assessment takes up 20 minutes of their daily screen time. Teachers are not able to interact with the child while doing the test as they must follow a script. This contradicts the advice for parents, which suggests that the best form of screen use involves adults interacting with their children while using screens. Continue reading...",
+            "content": "Readers respond to new government advice to limit screen time to under an hour for under-fives, and restrict it to ‘slow-paced’ media contentWhile I fully support the government’s guidance to parents of under-fives to keep screen time to under an hour a day (Keep under-fives’ screen time to no more than an hour a day, UK advice says, 27 March), this does not go far enough. Children do not only experience screens at home; they also encounter them in early childhood settings and schools.Contrary to the advice given in the new guidance for parents, the government requires all children to complete a screen-based test within their first six weeks at primary school. The Reception Baseline Assessment takes up 20 minutes of their daily screen time. Teachers are not able to interact with the child while doing the test as they must follow a script. This contradicts the advice for parents, which suggests that the best form of screen use involves adults interacting with their children while using screens. Continue reading...",
+            "feed_position": 2
+          }
+        ],
+        "ai_summary": [
+          "Government advises limiting screen time to under hour",
+          "Restrict screen time to slow paced media content",
+          "Readers respond to new guidance with concerns",
+          "Screen time encountered in early childhood settings",
+          "Guidance aims to promote healthy screen use habits"
+        ]
+      },
+      {
+        "id": "cluster_5",
+        "coverage": 1,
+        "updated_at": "Thu, 02 Apr 2026 15:53:47 GMT",
+        "title": "Prince William praises £20m milestone for Bowelbabe fund",
+        "neutral_headline": "Prince William praises Bowelbabe fund milestone",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c4gvd994x15o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 02 Apr 2026 15:53:47 GMT",
+            "title": "Prince William praises £20m milestone for Bowelbabe fund",
+            "standfirst": "The Bowelbabe fund, set up by Dame Deborah James in 2022, helps to support Cancer Research UK.",
+            "content": "The Bowelbabe fund, set up by Dame Deborah James in 2022, helps to support Cancer Research UK.",
+            "feed_position": 2,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbda/live/ae6bd910-2e9e-11f1-90b9-6ffcd881a7dc.png"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbda/live/ae6bd910-2e9e-11f1-90b9-6ffcd881a7dc.png",
+        "ai_summary": [
+          "Bowelbabe fund supports Cancer Research UK",
+          "Prince William praises £20m milestone achievement",
+          "Fund helps raise awareness and funds for cancer research",
+          "Dame Deborah James established the fund in 2022",
+          "Milestone marks significant progress in cancer research"
+        ]
+      },
+      {
+        "id": "cluster_6",
+        "coverage": 1,
+        "updated_at": "Thu, 02 Apr 2026 15:51:27 GMT",
+        "title": "Overthinking is rarely an advantage | Letter",
+        "neutral_headline": "Overthinking is rarely an advantage",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/apr/02/overthinking-is-rarely-an-advantage",
+            "published_at": "Thu, 02 Apr 2026 15:51:27 GMT",
+            "title": "Overthinking is rarely an advantage | Letter",
+            "standfirst": "Tracy Marshall describes how the worrying natter of her internal world, thankfully, fell silentI was delighted to read Polly Hudson’s article on overthinkers like me (Faithful, sensitive, forgiving: overthinkers like me make the best partners, 29 March). I am 51 now and have spent most of my life at the mercy of my ability to “turn even the most pleasant, benign interaction into a horrifying encounter that definitely caused offence”.Someone once described me as a sentinel – forever observing and analysing myself and, as a result, never actually living in the moment and enjoying the freedom from guilt and shame and self-loathing that the under- and perfect-level thinkers around me appeared to achieved without effort. Continue reading...",
+            "content": "Tracy Marshall describes how the worrying natter of her internal world, thankfully, fell silentI was delighted to read Polly Hudson’s article on overthinkers like me (Faithful, sensitive, forgiving: overthinkers like me make the best partners, 29 March). I am 51 now and have spent most of my life at the mercy of my ability to “turn even the most pleasant, benign interaction into a horrifying encounter that definitely caused offence”.Someone once described me as a sentinel – forever observing and analysing myself and, as a result, never actually living in the moment and enjoying the freedom from guilt and shame and self-loathing that the under- and perfect-level thinkers around me appeared to achieved without effort. Continue reading...",
+            "feed_position": 3
+          }
+        ],
+        "ai_summary": [
+          "Letter writer describes experience with overthinking",
+          "Article discusses benefits and drawbacks of overthinking",
+          "Overthinkers may make best partners due to traits",
+          "Letter writer shares personal story of self analysis",
+          "Article sparks discussion on the effects of overthinking"
+        ]
+      },
+      {
+        "id": "cluster_7",
+        "coverage": 1,
+        "updated_at": "Thu, 02 Apr 2026 15:46:42 GMT",
+        "title": "Review finds 250 patients need repeat bone scans",
+        "neutral_headline": "Review finds patients need repeat bone scans",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c30r89e634eo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 02 Apr 2026 15:46:42 GMT",
+            "title": "Review finds 250 patients need repeat bone scans",
+            "standfirst": "Review finds care for some patients was \"below the level that would have been expected\".",
+            "content": "Review finds care for some patients was \"below the level that would have been expected\".",
+            "feed_position": 4,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9dc/live/64be9270-fbd9-11ee-b213-6be513e08689.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9dc/live/64be9270-fbd9-11ee-b213-6be513e08689.jpg",
+        "ai_summary": [
+          "Review identifies 250 patients needing repeat scans",
+          "Care for some patients was below expected level",
+          "Review aims to improve patient care and outcomes",
+          "Repeat scans necessary for accurate diagnosis",
+          "Healthcare providers take steps to address issues"
+        ]
+      },
+      {
+        "id": "cluster_8",
+        "coverage": 1,
+        "updated_at": "Thu, 02 Apr 2026 15:31:32 GMT",
+        "title": "Scientists excited to receive first Artemis signal",
+        "neutral_headline": "Scientists receive first Artemis signal",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cy01w9jx974o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 02 Apr 2026 15:31:32 GMT",
+            "title": "Scientists excited to receive first Artemis signal",
+            "standfirst": "The station in Cornwall is helping to track Artemis II in its crewed mission to the Moon.",
+            "content": "The station in Cornwall is helping to track Artemis II in its crewed mission to the Moon.",
+            "feed_position": 16,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e0a/live/63715140-2e78-11f1-8dc4-7bd9501845f2.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e0a/live/63715140-2e78-11f1-8dc4-7bd9501845f2.jpg",
+        "ai_summary": [
+          "Station in Cornwall tracks Artemis II mission",
+          "Signal reception marks important milestone",
+          "Artemis II crew prepares for lunar mission",
+          "Scientists excited to receive and analyze data",
+          "Signal reception confirms successful launch"
+        ]
+      },
+      {
+        "id": "cluster_9",
+        "coverage": 1,
+        "updated_at": "Thu, 02 Apr 2026 14:22:07 GMT",
+        "title": "High above Earth, Artemis II crew prepare to thrust on to the Moon",
+        "neutral_headline": "Artemis II crew prepares for engine burn",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c75kr702z75o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 02 Apr 2026 14:22:07 GMT",
+            "title": "High above Earth, Artemis II crew prepare to thrust on to the Moon",
+            "standfirst": "After a spectacular launch the astronauts are preparing for a high-stakes engine burn out of Earth's orbit.",
+            "content": "After a spectacular launch the astronauts are preparing for a high-stakes engine burn out of Earth's orbit.",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a118/live/39b6bd20-2e98-11f1-b297-95b0a0a8331e.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a118/live/39b6bd20-2e98-11f1-b297-95b0a0a8331e.jpg",
+        "ai_summary": [
+          "Astronauts prepare for high stakes engine burn",
+          "Mission aims to send crew to the Moon",
+          "Engine burn necessary for lunar trajectory",
+          "Crew conducts final tests and checks",
+          "Mission is a crucial step towards lunar exploration"
+        ]
+      },
+      {
+        "id": "cluster_10",
+        "coverage": 1,
+        "updated_at": "Thu, 02 Apr 2026 14:04:57 GMT",
+        "title": "What nearly went wrong on Nasa's space mission - and what still could",
+        "neutral_headline": "What nearly went wrong on Nasa space mission",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c36rxe9w97zo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 02 Apr 2026 14:04:57 GMT",
+            "title": "What nearly went wrong on Nasa's space mission - and what still could",
+            "standfirst": "The Artemis II crew are now hurtling around the Earth's orbit, carrying out final tests and checks before they head towards the Moon.",
+            "content": "The Artemis II crew are now hurtling around the Earth's orbit, carrying out final tests and checks before they head towards the Moon.",
+            "feed_position": 7,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb25/live/aab26e00-2eb3-11f1-a79a-77e93010d956.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb25/live/aab26e00-2eb3-11f1-a79a-77e93010d956.jpg",
+        "ai_summary": [
+          "Artemis II crew faces challenges and risks",
+          "Mission control addresses potential issues",
+          "Crew prepares for engine burn and lunar mission",
+          "NASA takes steps to mitigate risks and ensure success",
+          "Mission is a complex and high stakes endeavor"
+        ]
+      },
+      {
+        "id": "cluster_11",
+        "coverage": 1,
+        "updated_at": "Thu, 02 Apr 2026 13:36:41 GMT",
+        "title": "Water and wildlife return to farmland ponds",
+        "neutral_headline": "Water and wildlife return to farmland ponds",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/ckge5r66npxo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 02 Apr 2026 13:36:41 GMT",
+            "title": "Water and wildlife return to farmland ponds",
+            "standfirst": "Two restored ponds on the Hertfordshire-Essex border see recovery, including breeding newts.",
+            "content": "Two restored ponds on the Hertfordshire-Essex border see recovery, including breeding newts.",
+            "feed_position": 10,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9552/live/faebd7f0-2e8e-11f1-bf7c-65962cff9746.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9552/live/faebd7f0-2e8e-11f1-bf7c-65962cff9746.jpg",
+        "ai_summary": [
+          "Two ponds restored on Hertfordshire-Essex border",
+          "Breeding newts found in restored ponds",
+          "Wildlife returns to farmland ponds area",
+          "Restoration project shows positive results",
+          "Newts and other species thrive again"
+        ]
+      },
+      {
+        "id": "cluster_12",
+        "coverage": 1,
+        "updated_at": "Thu, 02 Apr 2026 13:01:43 GMT",
+        "title": "Swinney softens stance on North Sea drilling as oil prices soar",
+        "neutral_headline": "Swinney softens stance on North Sea drilling",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c937kqxyy5wo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 02 Apr 2026 13:01:43 GMT",
+            "title": "Swinney softens stance on North Sea drilling as oil prices soar",
+            "standfirst": "The first minister said energy security should be a primary concern when making decisions on oil and gas projects.",
+            "content": "The first minister said energy security should be a primary concern when making decisions on oil and gas projects.",
+            "feed_position": 20,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f240/live/47fed5c0-2e84-11f1-b297-95b0a0a8331e.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f240/live/47fed5c0-2e84-11f1-b297-95b0a0a8331e.jpg",
+        "ai_summary": [
+          "Oil prices soar and drilling stance changes",
+          "Energy security is primary concern now",
+          "North Sea drilling decisions to be made",
+          "Oil and gas projects to be reconsidered",
+          "Energy security takes top priority"
+        ]
+      },
+      {
+        "id": "cluster_13",
+        "coverage": 1,
+        "updated_at": "Thu, 02 Apr 2026 12:31:52 GMT",
+        "title": "First live view of Artemis II crew since arriving in space",
+        "neutral_headline": "First live view of Artemis II crew",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/videos/cwy3rp5ekrxo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 02 Apr 2026 12:31:52 GMT",
+            "title": "First live view of Artemis II crew since arriving in space",
+            "standfirst": "Nasa astronauts conducted a number of different tests on board the Orion spacecraft - including practising manoeuvring the capsule.",
+            "content": "Nasa astronauts conducted a number of different tests on board the Orion spacecraft - including practising manoeuvring the capsule.",
+            "feed_position": 19,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c875/live/90645ad0-2eaa-11f1-b297-95b0a0a8331e.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c875/live/90645ad0-2eaa-11f1-b297-95b0a0a8331e.jpg",
+        "ai_summary": [
+          "Nasa astronauts conduct tests onboard",
+          "Orion spacecraft manoeuvring practised",
+          "Astronauts perform various space tests",
+          "Crew adjusts to space environment",
+          "Spacecraft systems are thoroughly checked"
+        ]
+      },
+      {
+        "id": "cluster_14",
+        "coverage": 1,
+        "updated_at": "Thu, 02 Apr 2026 12:20:34 GMT",
+        "title": "Artemis II is in orbit - what happens next?",
+        "neutral_headline": "Artemis II is in orbit what happens",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c7vqre914pzo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Thu, 02 Apr 2026 12:20:34 GMT",
+            "title": "Artemis II is in orbit - what happens next?",
+            "standfirst": "What are the mission's four astronauts doing and when will they go to the Moon?",
+            "content": "What are the mission's four astronauts doing and when will they go to the Moon?",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cc4/live/28761840-2e9c-11f1-90b9-6ffcd881a7dc.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cc4/live/28761840-2e9c-11f1-90b9-6ffcd881a7dc.jpg",
+        "ai_summary": [
+          "Four astronauts on board the spacecraft",
+          "Mission objectives and timeline outlined",
+          "Astronauts prepare for Moon journey",
+          "Spacecraft orbit and systems monitored",
+          "Next steps in the mission to be taken"
+        ]
+      },
+      {
+        "id": "cluster_15",
+        "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 11:08:13 GMT",
         "title": "Fewer heat-related deaths in 2025 despite warmest summer",
-        "neutral_headline": "Fewer Heat Related Deaths",
+        "neutral_headline": "Fewer heat related deaths in 2025",
         "items": [
           {
             "source": "BBC Health",
@@ -202,73 +599,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f3/live/ee980650-2e83-11f1-98e7-6b639170d418.png",
         "ai_summary": [
-          "Fewer heat related deaths in 2025",
-          "Warmest summer on record in UK",
-          "Four heatwaves occurred in 2025",
-          "Mean temperature was 16.1C",
-          "Top temperature nearly reached 38C"
+          "Summer 2025 was the warmest on record",
+          "Four heatwaves occurred in the summer",
+          "Mean temperature was 16.1 degrees Celsius",
+          "Top temperature nearly reached 38 Celsius",
+          "Heat related deaths decreased despite heat"
         ]
       },
       {
-        "id": "cluster_1",
-        "coverage": 1,
-        "updated_at": "Thu, 02 Apr 2026 10:08:34 GMT",
-        "title": "Everything you need to know about Nasa's Artemis II mission",
-        "neutral_headline": "Nasa Artemis II Mission",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 02 Apr 2026 10:08:34 GMT",
-            "title": "Everything you need to know about Nasa's Artemis II mission",
-            "standfirst": "The Artemis II mission is planned to last about 10 days and take its astronauts further into space than anyone has been before.",
-            "content": "The Artemis II mission is planned to last about 10 days and take its astronauts further into space than anyone has been before.",
-            "feed_position": 6,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50dc/live/8ebfb300-2d1f-11f1-b297-95b0a0a8331e.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50dc/live/8ebfb300-2d1f-11f1-b297-95b0a0a8331e.jpg",
-        "ai_summary": [
-          "Artemis II mission to last 10 days",
-          "Astronauts to travel further into space",
-          "Mission to take astronauts to Moon",
-          "Nasa plans to send crewed mission",
-          "Artemis II to orbit Earth first"
-        ]
-      },
-      {
-        "id": "cluster_2",
-        "coverage": 1,
-        "updated_at": "Thu, 02 Apr 2026 09:55:58 GMT",
-        "title": "Nasa Apollo missions: Stories of the last Moon men",
-        "neutral_headline": "Nasa Apollo Missions",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c4g9yde95yyo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 02 Apr 2026 09:55:58 GMT",
-            "title": "Nasa Apollo missions: Stories of the last Moon men",
-            "standfirst": "Of the 24 Nasa astronauts who travelled to the Moon in the Apollo missions of the 1960s and 1970s, just five remain.",
-            "content": "Of the 24 Nasa astronauts who travelled to the Moon in the Apollo missions of the 1960s and 1970s, just five remain.",
-            "feed_position": 15,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8894/live/d1b29b80-74a3-11f0-8071-1788c7e8ae0e.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8894/live/d1b29b80-74a3-11f0-8071-1788c7e8ae0e.jpg",
-        "ai_summary": [
-          "24 astronauts traveled to Moon",
-          "Only five astronauts remain",
-          "Apollo missions occurred in 1960s",
-          "Astronauts were part of historic missions",
-          "Missions marked significant achievement"
-        ]
-      },
-      {
-        "id": "cluster_3",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 09:28:23 GMT",
         "title": "How a chance meeting shaped Canadian Jeremy Hansen's mission to the Moon",
-        "neutral_headline": "Canadian Astronaut Jeremy Hansen",
+        "neutral_headline": "Canadian Jeremy Hansen's mission to Moon",
         "items": [
           {
             "source": "BBC Science",
@@ -277,52 +620,25 @@
             "title": "How a chance meeting shaped Canadian Jeremy Hansen's mission to the Moon",
             "standfirst": "Inspired by a picture of Neil Armstrong, the Ontario-born astronaut has dreamed of space since he was a child.",
             "content": "Inspired by a picture of Neil Armstrong, the Ontario-born astronaut has dreamed of space since he was a child.",
-            "feed_position": 16,
+            "feed_position": 9,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4c3/live/aff22930-2e15-11f1-a79a-77e93010d956.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4c3/live/aff22930-2e15-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
           "Jeremy Hansen inspired by Neil Armstrong",
-          "Hansen dreamed of space as child",
-          "Ontario born astronaut to go to Moon",
+          "Ontario born astronaut dreams of space",
           "Chance meeting shaped his mission",
-          "Hansen to be part of historic mission"
+          "Hansen trains for the Moon mission",
+          "Astronaut prepares for the historic journey"
         ]
       },
       {
-        "id": "cluster_4",
-        "coverage": 1,
-        "updated_at": "Thu, 02 Apr 2026 08:40:55 GMT",
-        "title": "'Spectacular!': BBC science editor reacts to Artemis II launch",
-        "neutral_headline": "Artemis II Launch",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/videos/c05d6pprdleo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 02 Apr 2026 08:40:55 GMT",
-            "title": "'Spectacular!': BBC science editor reacts to Artemis II launch",
-            "standfirst": "Nasa's Artemis II has blasted off and is now orbiting Earth, before continuing on to circle the Moon.",
-            "content": "Nasa's Artemis II has blasted off and is now orbiting Earth, before continuing on to circle the Moon.",
-            "feed_position": 17,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55fd/live/8f0248b0-2e7c-11f1-934f-036468834728.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55fd/live/8f0248b0-2e7c-11f1-934f-036468834728.jpg",
-        "ai_summary": [
-          "Artemis II has blasted off",
-          "Orbiting Earth before circling Moon",
-          "Nasa's first crewed mission in 50 years",
-          "Mission to make history",
-          "Astronauts on board for journey"
-        ]
-      },
-      {
-        "id": "cluster_5",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 08:03:32 GMT",
         "title": "World's oldest known tortoise still alive, as reports of death revealed as hoax",
-        "neutral_headline": "Worlds Oldest Tortoise",
+        "neutral_headline": "World's oldest known tortoise still alive",
         "items": [
           {
             "source": "BBC Science",
@@ -331,79 +647,25 @@
             "title": "World's oldest known tortoise still alive, as reports of death revealed as hoax",
             "standfirst": "A widely circulated social media post purporting to belong to the tortoise's vet has been revealed to be a hoax.",
             "content": "A widely circulated social media post purporting to belong to the tortoise's vet has been revealed to be a hoax.",
-            "feed_position": 9,
+            "feed_position": 11,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e36d/live/5b0027c0-2e0f-11f1-a61b-8f128a2b274b.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e36d/live/5b0027c0-2e0f-11f1-a61b-8f128a2b274b.jpg",
         "ai_summary": [
-          "Worlds oldest tortoise still alive",
-          "Reports of death revealed as hoax",
-          "Social media post was false",
-          "Tortoise still living",
-          "Hoax was widely circulated"
+          "Reports of tortoise death revealed as hoax",
+          "Social media post was false information",
+          "Tortoise is still alive and well",
+          "Vet's statement was misinterpreted online",
+          "Tortoise's actual status is confirmed alive"
         ]
       },
       {
-        "id": "cluster_6",
-        "coverage": 1,
-        "updated_at": "Thu, 02 Apr 2026 06:40:43 GMT",
-        "title": "Review finds 250 patients need repeat bone scans",
-        "neutral_headline": "Repeat Bone Scans Needed",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c30r89e634eo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 02 Apr 2026 06:40:43 GMT",
-            "title": "Review finds 250 patients need repeat bone scans",
-            "standfirst": "Review finds care for some patients was \"below the level that would have been expected\".",
-            "content": "Review finds care for some patients was \"below the level that would have been expected\".",
-            "feed_position": 3,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9dc/live/64be9270-fbd9-11ee-b213-6be513e08689.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9dc/live/64be9270-fbd9-11ee-b213-6be513e08689.jpg",
-        "ai_summary": [
-          "250 patients need repeat bone scans",
-          "Review finds care was below expected",
-          "Patients to undergo additional scans",
-          "Scans to ensure proper care",
-          "Review highlights need for improvement"
-        ]
-      },
-      {
-        "id": "cluster_7",
-        "coverage": 1,
-        "updated_at": "Thu, 02 Apr 2026 05:28:57 GMT",
-        "title": "Passengers watch Artemis II blast off from commercial plane",
-        "neutral_headline": "Artemis II Blast Off",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/videos/c1mkz9pe49eo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 02 Apr 2026 05:28:57 GMT",
-            "title": "Passengers watch Artemis II blast off from commercial plane",
-            "standfirst": "People on a commercial flight were treated to a rare view of the launch of Nasa's first crewed mission to the Moon in half a century.",
-            "content": "People on a commercial flight were treated to a rare view of the launch of Nasa's first crewed mission to the Moon in half a century.",
-            "feed_position": 18,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abc6/live/15992a50-2e65-11f1-934f-036468834728.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abc6/live/15992a50-2e65-11f1-934f-036468834728.jpg",
-        "ai_summary": [
-          "Passengers watch Artemis II launch",
-          "Commercial plane passengers saw launch",
-          "Rare view of historic mission",
-          "Launch marked significant moment",
-          "Passengers witnessed blast off"
-        ]
-      },
-      {
-        "id": "cluster_8",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 05:14:33 GMT",
         "title": "Sewing group helping women in period poverty",
-        "neutral_headline": "Sewing Group Helps Women",
+        "neutral_headline": "Sewing group helps women in period poverty",
         "items": [
           {
             "source": "BBC Health",
@@ -412,285 +674,23 @@
             "title": "Sewing group helping women in period poverty",
             "standfirst": "Debi Angell says the kits they make help women and girls who can not afford period products.",
             "content": "Debi Angell says the kits they make help women and girls who can not afford period products.",
-            "feed_position": 40,
+            "feed_position": 42,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c44/live/8bb05640-2dc6-11f1-b5b8-bdb2c7a76bf2.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c44/live/8bb05640-2dc6-11f1-b5b8-bdb2c7a76bf2.png",
         "ai_summary": [
-          "Sewing group makes period kits",
-          "Kits help women in period poverty",
-          "Group helps women and girls",
-          "Kits provide essential products",
-          "Group makes difference in community"
-        ]
-      },
-      {
-        "id": "cluster_9",
-        "coverage": 1,
-        "updated_at": "Thu, 02 Apr 2026 03:09:08 GMT",
-        "title": "'We go for all humanity' - emotional moment as Artemis II blasts off",
-        "neutral_headline": "Artemis II Emotional Moment",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cz90yp7w104o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 02 Apr 2026 03:09:08 GMT",
-            "title": "'We go for all humanity' - emotional moment as Artemis II blasts off",
-            "standfirst": "There was giddy euphoria at the Kennedy Space Center after the launch, writes the BBC's Pallab Ghosh.",
-            "content": "There was giddy euphoria at the Kennedy Space Center after the launch, writes the BBC's Pallab Ghosh.",
-            "feed_position": 7,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5256/live/8553c3f0-2e65-11f1-a79a-77e93010d956.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5256/live/8553c3f0-2e65-11f1-a79a-77e93010d956.jpg",
-        "ai_summary": [
-          "Emotional moment as Artemis II blasts",
-          "Kennedy Space Center erupts",
-          "Giddy euphoria at launch",
-          "Moment marked historic occasion",
-          "Astronauts on board for journey"
-        ]
-      },
-      {
-        "id": "cluster_10",
-        "coverage": 1,
-        "updated_at": "Wed, 01 Apr 2026 23:29:39 GMT",
-        "title": "Doctors lose new jobs package as strike to go ahead",
-        "neutral_headline": "Doctors Lose Jobs Package",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/cwyj7dwwlq9o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 01 Apr 2026 23:29:39 GMT",
-            "title": "Doctors lose new jobs package as strike to go ahead",
-            "standfirst": "The offer of 1,000 more training posts has been withdrawn after the union refused to scrap the planned six-day strike.",
-            "content": "The offer of 1,000 more training posts has been withdrawn after the union refused to scrap the planned six-day strike.",
-            "feed_position": 1,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce9/live/55ede900-2e5c-11f1-934f-036468834728.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce9/live/55ede900-2e5c-11f1-934f-036468834728.jpg",
-        "ai_summary": [
-          "Doctors lose new jobs package",
-          "Strike to go ahead as planned",
-          "1000 training posts withdrawn",
-          "Union refused to scrap strike",
-          "Doctors to proceed with strike action"
-        ]
-      },
-      {
-        "id": "cluster_11",
-        "coverage": 1,
-        "updated_at": "Wed, 01 Apr 2026 23:00:39 GMT",
-        "title": "Watch the moment Artemis II blasts into space",
-        "neutral_headline": "Artemis II Launch Moment",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 01 Apr 2026 23:00:39 GMT",
-            "title": "Watch the moment Artemis II blasts into space",
-            "standfirst": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit.",
-            "content": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3734/live/c0ee5f80-2e68-11f1-934f-036468834728.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3734/live/c0ee5f80-2e68-11f1-934f-036468834728.jpg",
-        "ai_summary": [
-          "Artemis II blasts into space",
-          "Delays and issues resolved",
-          "First crewed Moon mission in 50 years",
-          "Mission to make history",
-          "Astronauts on board for journey"
-        ]
-      },
-      {
-        "id": "cluster_12",
-        "coverage": 1,
-        "updated_at": "Wed, 01 Apr 2026 19:16:45 GMT",
-        "title": "Resident doctors accuse Keir Starmer of sabotaging talks to end pay and jobs dispute",
-        "neutral_headline": "Resident Doctors Accuse Keir Starmer",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/apr/01/resident-doctors-accuse-keir-starmer-of-sabotaging-talks-to-end-pay-and-jobs-dispute",
-            "published_at": "Wed, 01 Apr 2026 19:16:45 GMT",
-            "title": "Resident doctors accuse Keir Starmer of sabotaging talks to end pay and jobs dispute",
-            "standfirst": "British Medical Association leaders say PM’s threat to cut 1,000 new roles makes next week’s strike action more likelyResident doctors have accused Keir Starmer of damaging the prospects of a deal to end their pay and jobs dispute by threatening to cut 1,000 new jobs for medics in the NHS.The claim from the British Medical Association leaders came just before the Thursday deadline given by the prime minister for the union to accept the government’s final offer. Continue reading...",
-            "content": "British Medical Association leaders say PM’s threat to cut 1,000 new roles makes next week’s strike action more likelyResident doctors have accused Keir Starmer of damaging the prospects of a deal to end their pay and jobs dispute by threatening to cut 1,000 new jobs for medics in the NHS.The claim from the British Medical Association leaders came just before the Thursday deadline given by the prime minister for the union to accept the government’s final offer. Continue reading...",
-            "feed_position": 0
-          }
-        ],
-        "ai_summary": [
-          "Resident doctors accuse Keir Starmer",
-          "Sabotaging talks to end dispute",
-          "Threat to cut 1000 new roles",
-          "Strike action more likely",
-          "British Medical Association leaders claim"
-        ]
-      },
-      {
-        "id": "cluster_13",
-        "coverage": 1,
-        "updated_at": "Wed, 01 Apr 2026 17:20:15 GMT",
-        "title": "Newly qualified paramedics told to apply for jobs abroad due to hire freeze",
-        "neutral_headline": "Welsh Ambulance Service Freezes Paramedic Hiring",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c70dnkqjyvlo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 01 Apr 2026 17:20:15 GMT",
-            "title": "Newly qualified paramedics told to apply for jobs abroad due to hire freeze",
-            "standfirst": "The Welsh Ambulance Service said newly qualified paramedics would not be offered roles this year due to \"financial and operational issues\".",
-            "content": "The Welsh Ambulance Service said newly qualified paramedics would not be offered roles this year due to \"financial and operational issues\".",
-            "feed_position": 5,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e728/live/eab371d0-2dc2-11f1-b45a-13c2fd78bbe1.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e728/live/eab371d0-2dc2-11f1-b45a-13c2fd78bbe1.jpg",
-        "ai_summary": [
-          "Welsh Ambulance Service has a hire freeze",
-          "Newly qualified paramedics are not being offered roles",
-          "Financial and operational issues are the cause",
-          "Paramedics are being told to apply abroad",
-          "The freeze will last for this year"
-        ]
-      },
-      {
-        "id": "cluster_14",
-        "coverage": 1,
-        "updated_at": "Wed, 01 Apr 2026 16:51:01 GMT",
-        "title": "Unregulated chatbots are putting lives at risk | Letters",
-        "neutral_headline": "Unregulated chatbots are putting lives at risk",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/technology/2026/apr/01/unregulated-chatbots-are-putting-lives-at-risk",
-            "published_at": "Wed, 01 Apr 2026 16:51:01 GMT",
-            "title": "Unregulated chatbots are putting lives at risk | Letters",
-            "standfirst": "Readers respond to an article about people whose lives were wrecked by delusional thinking after they used AI toolsYour coverage of AI-associated delusions exposes a gap that training-level guardrails cannot close (Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion, 26 March). As someone who has worked in health systems across fragile and low-income contexts, I find it striking that AI companies have failed to adopt a safeguard that even the most underresourced clinic in the world already uses: screening patients before exposing them to risk.The Patient Health Questionnaire-9 for depression and the Columbia Suicide Severity Rating Scale are administered daily in settings with no electricity, limited staff, and patients who may never have seen a doctor. These tools take minutes. They are validated across dozens of languages and cultural contexts. They create a human checkpoint between vulnerability and harm. Continue reading...",
-            "content": "Readers respond to an article about people whose lives were wrecked by delusional thinking after they used AI toolsYour coverage of AI-associated delusions exposes a gap that training-level guardrails cannot close (Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion, 26 March). As someone who has worked in health systems across fragile and low-income contexts, I find it striking that AI companies have failed to adopt a safeguard that even the most underresourced clinic in the world already uses: screening patients before exposing them to risk.The Patient Health Questionnaire-9 for depression and the Columbia Suicide Severity Rating Scale are administered daily in settings with no electricity, limited staff, and patients who may never have seen a doctor. These tools take minutes. They are validated across dozens of languages and cultural contexts. They create a human checkpoint between vulnerability and harm. Continue reading...",
-            "feed_position": 1
-          }
-        ],
-        "ai_summary": [
-          "Unregulated chatbots pose a risk to people's lives",
-          "AI tools can cause delusional thinking",
-          "Readers respond to an article about AI risks",
-          "Screening patients can help prevent harm",
-          "Simple tools can create a human checkpoint"
-        ]
-      },
-      {
-        "id": "cluster_15",
-        "coverage": 1,
-        "updated_at": "Wed, 01 Apr 2026 16:50:43 GMT",
-        "title": "Starmer’s threat to resident doctors is a grave mistake | Letters",
-        "neutral_headline": "Starmer’s threat to resident doctors is a grave mistake",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/apr/01/starmers-threat-to-resident-doctors-is-a-grave-mistake",
-            "published_at": "Wed, 01 Apr 2026 16:50:43 GMT",
-            "title": "Starmer’s threat to resident doctors is a grave mistake | Letters",
-            "standfirst": "Dr Mussaddaq Iqbal responds to the news that the prime minister has warned medics to call off their strike or lose a training offerWhile I totally disapprove, as I did last time, of the doctors’ strike but completely support their demands and grievances, it is the prime minister’s response which has made me write this letter (Keir Starmer gives resident doctors 48 hours to call off strike or lose training offer, 31 March). His threat of not creating extra training posts is shocking, inappropriate and impulsive. Though on the face of it it sounds like an innocuous response showing irritation, it is probably the most convincing evidence so far of his unfitness to govern among the litany of his other missteps.It has laid bare his government’s lack of strategy and lack of sincerity. Does he understand that, by not creating training posts, he is not only going to harm doctors’ careers, spoil thousands of young doctors’ lives and deter others from adopting this noble and vital profession, but also harm the NHS, and thus patient care? The NHS is desperately understaffed. This shows that he never had any plan to increase the number of posts and it was agreed under pressure. He is clearly not a statesman, and if he is only capable of responding in this childlike manner, he could have threatened to freeze their pay or any such lowly response, but not one that is harmful. Continue reading...",
-            "content": "Dr Mussaddaq Iqbal responds to the news that the prime minister has warned medics to call off their strike or lose a training offerWhile I totally disapprove, as I did last time, of the doctors’ strike but completely support their demands and grievances, it is the prime minister’s response which has made me write this letter (Keir Starmer gives resident doctors 48 hours to call off strike or lose training offer, 31 March). His threat of not creating extra training posts is shocking, inappropriate and impulsive. Though on the face of it it sounds like an innocuous response showing irritation, it is probably the most convincing evidence so far of his unfitness to govern among the litany of his other missteps.It has laid bare his government’s lack of strategy and lack of sincerity. Does he understand that, by not creating training posts, he is not only going to harm doctors’ careers, spoil thousands of young doctors’ lives and deter others from adopting this noble and vital profession, but also harm the NHS, and thus patient care? The NHS is desperately understaffed. This shows that he never had any plan to increase the number of posts and it was agreed under pressure. He is clearly not a statesman, and if he is only capable of responding in this childlike manner, he could have threatened to freeze their pay or any such lowly response, but not one that is harmful. Continue reading...",
-            "feed_position": 2
-          }
-        ],
-        "ai_summary": [
-          "Prime Minister Keir Starmer warned resident doctors",
-          "Doctors were given 48 hours to call off strike",
-          "Threat of not creating training posts was made",
-          "The move is seen as harmful to doctors and NHS",
-          "The NHS is already desperately understaffed"
-        ]
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Wed, 01 Apr 2026 15:53:56 GMT",
-        "title": "‘The manosphere is dead and no one cares about Andrew Tate any more’: the poet taking on toxic masculinity",
-        "neutral_headline": "Poet Sam Browne Takes On Toxic Masculinity",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/apr/01/the-manosphere-is-dead-and-no-one-cares-about-andrew-tate-any-more-the-poet-taking-on-toxic-masculinity",
-            "published_at": "Wed, 01 Apr 2026 15:53:56 GMT",
-            "title": "‘The manosphere is dead and no one cares about Andrew Tate any more’: the poet taking on toxic masculinity",
-            "standfirst": "Sam Browne’s blend of brutal honesty and droll observation has made him a viral sensation. He talks about growing up in Southend, mental health and the healing power of poetryOn a cold night in east London, 21-year-old performance poet Sam Browne is telling a packed room of strangers about his second bout of psychosis. “I was in Morocco at 18, completely alone, and I started to feel that things weren’t real,” he says. “It got so bad that one day I turned to a random person and told him I was thinking of killing myself. He just said back to me: ‘Don’t do that – you’ll miss the sunset.’”The room falls quiet and Browne breaks the tension by launching into a poem inspired by his Moroccan breakdown, You’ll Miss the Sunset. “The world is so beautiful, the least you could do is stick around to watch it,” he says with the hint of a smirk. “But it’s all shit, all of it, isn’t it?” Continue reading...",
-            "content": "Sam Browne’s blend of brutal honesty and droll observation has made him a viral sensation. He talks about growing up in Southend, mental health and the healing power of poetryOn a cold night in east London, 21-year-old performance poet Sam Browne is telling a packed room of strangers about his second bout of psychosis. “I was in Morocco at 18, completely alone, and I started to feel that things weren’t real,” he says. “It got so bad that one day I turned to a random person and told him I was thinking of killing myself. He just said back to me: ‘Don’t do that – you’ll miss the sunset.’”The room falls quiet and Browne breaks the tension by launching into a poem inspired by his Moroccan breakdown, You’ll Miss the Sunset. “The world is so beautiful, the least you could do is stick around to watch it,” he says with the hint of a smirk. “But it’s all shit, all of it, isn’t it?” Continue reading...",
-            "feed_position": 3
-          }
-        ],
-        "ai_summary": [
-          "Sam Browne is a 21-year-old performance poet",
-          "He talks about his experiences with mental health",
-          "Browne's poetry is a viral sensation",
-          "He performs about his second bout of psychosis",
-          "His work addresses toxic masculinity"
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Wed, 01 Apr 2026 15:50:20 GMT",
-        "title": "How dads are bonding over learning to braid hair",
-        "neutral_headline": "Dads Learn To Braid Hair In Social Club",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/videos/cy81n2gpprgo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 01 Apr 2026 15:50:20 GMT",
-            "title": "How dads are bonding over learning to braid hair",
-            "standfirst": "Social club the Secret Life of Dads aims to provide a safe space for dads to bond with each other, and to learn skills to help them at home.",
-            "content": "Social club the Secret Life of Dads aims to provide a safe space for dads to bond with each other, and to learn skills to help them at home.",
-            "feed_position": 64,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e65/live/b4acb390-2ddf-11f1-934f-036468834728.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e65/live/b4acb390-2ddf-11f1-934f-036468834728.jpg",
-        "ai_summary": [
-          "The Secret Life of Dads is a social club",
-          "Dads learn to braid hair and bond with each other",
-          "The club provides a safe space for dads",
-          "Dads learn skills to help them at home",
-          "The club aims to support dads in their roles"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Wed, 01 Apr 2026 15:07:54 GMT",
-        "title": "Project to bring rare butterfly back to Yorkshire",
-        "neutral_headline": "Project Aims To Bring Rare Butterfly Back",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cly081kmrnlo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Wed, 01 Apr 2026 15:07:54 GMT",
-            "title": "Project to bring rare butterfly back to Yorkshire",
-            "standfirst": "The UK's largest native butterfly has not been seen in the region for more than a century.",
-            "content": "The UK's largest native butterfly has not been seen in the region for more than a century.",
-            "feed_position": 10,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d172/live/444b4c40-2dd7-11f1-a186-bdbec3fa8607.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d172/live/444b4c40-2dd7-11f1-a186-bdbec3fa8607.jpg",
-        "ai_summary": [
-          "A project aims to bring a rare butterfly back",
-          "The butterfly has not been seen in Yorkshire",
-          "The region has not had the butterfly for over 100 years",
-          "The project aims to reintroduce the species",
-          "The butterfly is the UK's largest native species"
+          "Debi Angell leads the sewing group effort",
+          "Kits made to help women and girls",
+          "Period products are made available",
+          "Women in need receive essential items",
+          "Group's efforts combat period poverty issues"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-04-02T11:45:35.440Z",
+    "updated_at": "2026-04-02T19:50:35.723Z",
     "clusters": []
   }
 }
