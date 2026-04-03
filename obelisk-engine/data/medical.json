@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-04-03T05:04:57.157Z",
+    "updated_at": "2026-04-03T08:01:58.568Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-04-03T05:05:11.039Z",
+    "updated_at": "2026-04-03T08:02:06.719Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/ede5a842-bb43-4c41-acd4-05e9dd4aa795/GPs-role-widened-following-gynaecologist-allegations.aspx",
         "ai_summary": [
-          "GPs to answer patient questions",
-          "New support package is launched",
-          "Allegations against Dr Simon Gordon",
-          "GPs play key role in patient support",
-          "Patients may seek guidance from GPs"
+          "New support package launched for patients",
+          "GPs to expect patient questions about allegations",
+          "Allegations made against Dr Simon Gordon",
+          "GPs role widened in patient support",
+          "Support package aims to help patients affected"
         ]
       },
       {
@@ -54,10 +54,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/d31af0e2-c7ad-4e73-a1d2-5a487906602f/PBAC-weighs-up-expansion-of-meningococcal-B-vaccine.aspx",
         "ai_summary": [
           "PBAC considers vaccine expansion",
-          "Expansion may include Bexsero vaccine",
-          "National Immunisation Program impacted",
-          "Vaccine expansion aims to prevent disease",
-          "Committee weighs up vaccine benefits"
+          "Expansion of Bexsero on National Immunisation Program",
+          "Vaccine protects against meningococcal B",
+          "Committee weighs up vaccine benefits",
+          "Expansion aims to increase vaccine coverage"
         ]
       },
       {
@@ -81,10 +81,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/0286afba-b0d4-4a6b-a528-2c0846e52d89/Medical-Costs-overhaul-creates-substantial-uncertainty-for-GPs.aspx",
         "ai_summary": [
           "Medical costs overhaul creates uncertainty",
-          "RACGP expresses concerns over plan",
-          "Plan may impact GP billing behavior",
-          "Practice sustainability is at risk",
-          "GPs may face financial challenges"
+          "RACGP says plan may create misleading comparisons",
+          "Plan may influence GP billing behaviour",
+          "Overhaul may impact practice sustainability",
+          "GPs concerned about potential changes"
         ]
       },
       {
@@ -108,50 +108,185 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/0f79dc28-a1e9-482b-b68b-511270b22c73/In-Practice-RACGP-flu-vaccination-campaign.aspx",
         "ai_summary": [
           "RACGP launches flu vaccination campaign",
-          "Campaign promotes general practice role",
-          "Resources available for local communities",
-          "MPs can share resources with public",
-          "Campaign aims to increase vaccine uptake"
-        ]
-      },
-      {
-        "id": "cluster_4",
-        "coverage": 1,
-        "updated_at": "Wed, 01 Apr 2026 06:44:48 GMT",
-        "title": "Wegovy approved to treat severe fatty liver disease",
-        "neutral_headline": "Wegovy approved to treat severe fatty liver disease",
-        "items": [
-          {
-            "source": "newsGP",
-            "url": "https://www1.racgp.org.au/newsgp/clinical/wegovy-approved-to-treat-severe-fatty-liver-diseas?feed=RACGPnewsGPArticles",
-            "published_at": "Wed, 01 Apr 2026 06:44:48 GMT",
-            "title": "Wegovy approved to treat severe fatty liver disease",
-            "standfirst": "Experts say the TGA&rsquo;s provisional approval of the new indication could help slow disease progression, alongside other early intervention strategies.",
-            "content": "Experts say the TGA&rsquo;s provisional approval of the new indication could help slow disease progression, alongside other early intervention strategies.",
-            "feed_position": 4,
-            "image_url": "https://www1.racgp.org.au/getattachment/1d294443-ff73-48c9-ba85-84ebde190ee0/Wegovy-approved-to-treat-severe-fatty-liver-disease.aspx"
-          }
-        ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/1d294443-ff73-48c9-ba85-84ebde190ee0/Wegovy-approved-to-treat-severe-fatty-liver-disease.aspx",
-        "ai_summary": [
-          "Wegovy approved for new indication",
-          "TGA grants provisional approval",
-          "Treatment aims to slow disease progression",
-          "Early intervention strategies are key",
-          "Experts welcome new treatment option"
+          "Campaign aims to increase vaccine uptake",
+          "Resources available for MPs to share",
+          "Campaign targets local communities",
+          "RACGP promotes central role of general practice"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-04-03T05:05:05.989Z",
+    "updated_at": "2026-04-03T08:02:00.120Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Fri, 03 Apr 2026 07:46:57 GMT",
+        "title": "Artemis II crew share first words from space",
+        "neutral_headline": "Artemis II crew reaches space",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cdrm3251xzeo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 03 Apr 2026 07:46:57 GMT",
+            "title": "Artemis II crew share first words from space",
+            "standfirst": "The team completes a critical engine burn that will propel the spacecraft to the far side of the Moon.",
+            "content": "The team completes a critical engine burn that will propel the spacecraft to the far side of the Moon.",
+            "feed_position": 14,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/130d/live/7e667bd0-2f2f-11f1-a79a-77e93010d956.png"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/130d/live/7e667bd0-2f2f-11f1-a79a-77e93010d956.png",
+        "ai_summary": [
+          "Artemis II crew completes engine burn",
+          "Spacecraft heads to far side of Moon",
+          "Crew shares first words from space",
+          "Mission marks critical milestone",
+          "Artemis II aims to propel humans further"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Fri, 03 Apr 2026 07:07:48 GMT",
+        "title": "'Trust us, you look amazing': Artemis II astronauts speak from space",
+        "neutral_headline": "Artemis II astronauts speak from space",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 03 Apr 2026 07:07:48 GMT",
+            "title": "'Trust us, you look amazing': Artemis II astronauts speak from space",
+            "standfirst": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far.",
+            "content": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far.",
+            "feed_position": 6,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee93/live/962c62b0-2f26-11f1-934f-036468834728.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee93/live/962c62b0-2f26-11f1-934f-036468834728.jpg",
+        "ai_summary": [
+          "Astronauts speak via video link",
+          "Crew shares messages for families",
+          "Astronauts describe experiences in space",
+          "Mission aims to inspire new generation",
+          "Artemis II crew shares updates from space"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Fri, 03 Apr 2026 06:35:09 GMT",
+        "title": "Jersey scraps phase-out of petrol and diesel cars",
+        "neutral_headline": "Jersey scraps petrol car phase out",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cn9qyv20gz5o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 03 Apr 2026 06:35:09 GMT",
+            "title": "Jersey scraps phase-out of petrol and diesel cars",
+            "standfirst": "Environment Minister Steve Luce says the plan did not have public backing.",
+            "content": "Environment Minister Steve Luce says the plan did not have public backing.",
+            "feed_position": 9,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d774/live/26b88030-2e90-11f1-bf7c-65962cff9746.png"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d774/live/26b88030-2e90-11f1-bf7c-65962cff9746.png",
+        "ai_summary": [
+          "Jersey scraps phase-out plan",
+          "Plan lacked public backing",
+          "Environment Minister Steve Luce announces change",
+          "Decision aims to address public concerns",
+          "Petrol and diesel cars remain in use"
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Fri, 03 Apr 2026 06:34:10 GMT",
+        "title": "Students learn more about nature in new programme",
+        "neutral_headline": "Students learn about nature",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cz0ede7314ro?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 03 Apr 2026 06:34:10 GMT",
+            "title": "Students learn more about nature in new programme",
+            "standfirst": "Children from Le Rocquier are working with GROW Jersey to see how they can protect the environment.",
+            "content": "Children from Le Rocquier are working with GROW Jersey to see how they can protect the environment.",
+            "feed_position": 10,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50ab/live/657f6ba0-2dc6-11f1-b5b8-bdb2c7a76bf2.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50ab/live/657f6ba0-2dc6-11f1-b5b8-bdb2c7a76bf2.jpg",
+        "ai_summary": [
+          "Students work with GROW Jersey",
+          "Programme aims to protect environment",
+          "Children learn about nature conservation",
+          "Project promotes environmental awareness",
+          "Students engage in hands-on learning"
+        ]
+      },
+      {
+        "id": "cluster_4",
+        "coverage": 1,
+        "updated_at": "Fri, 03 Apr 2026 06:31:59 GMT",
+        "title": "Project prevents Guernsey extinction of rare flower",
+        "neutral_headline": "Guernsey saves rare flower",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cgj08py6142o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 03 Apr 2026 06:31:59 GMT",
+            "title": "Project prevents Guernsey extinction of rare flower",
+            "standfirst": "A project has successfully propagated the rare flower from the island's last wild population.",
+            "content": "A project has successfully propagated the rare flower from the island's last wild population.",
+            "feed_position": 11,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1896/live/096e4ed0-2de9-11f1-934f-036468834728.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1896/live/096e4ed0-2de9-11f1-934f-036468834728.jpg",
+        "ai_summary": [
+          "Project saves rare flower from extinction",
+          "Flower propagated from last wild population",
+          "Conservation efforts prove successful",
+          "Rare flower preserved for future generations",
+          "Project aims to protect Guernsey's environment"
+        ]
+      },
+      {
+        "id": "cluster_5",
+        "coverage": 1,
+        "updated_at": "Fri, 03 Apr 2026 05:25:00 GMT",
+        "title": "Men's group hopes to ease strain on NHS services",
+        "neutral_headline": "Men's group supports NHS",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cn43z87dw3po?at_medium=RSS&at_campaign=rss",
+            "published_at": "Fri, 03 Apr 2026 05:25:00 GMT",
+            "title": "Men's group hopes to ease strain on NHS services",
+            "standfirst": "\"I want to tackle loneliness and we feel like this group can do that,\" the organisation's founder says.",
+            "content": "\"I want to tackle loneliness and we feel like this group can do that,\" the organisation's founder says.",
+            "feed_position": 47,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cec7/live/6b9a1540-293d-11f1-a79a-77e93010d956.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cec7/live/6b9a1540-293d-11f1-a79a-77e93010d956.jpg",
+        "ai_summary": [
+          "Men's group aims to ease NHS strain",
+          "Organisation tackles loneliness",
+          "Founder wants to support mental health",
+          "Group provides community support",
+          "Initiative aims to reduce NHS workload"
+        ]
+      },
+      {
+        "id": "cluster_6",
+        "coverage": 1,
         "updated_at": "Fri, 03 Apr 2026 04:00:43 GMT",
         "title": "NHS rehabilitation care staff shortage fails stroke patients, say health leaders",
-        "neutral_headline": "NHS Rehabilitation Care Staff Shortage",
+        "neutral_headline": "NHS rehabilitation care staff shortage",
         "items": [
           {
             "source": "Guardian Health",
@@ -166,17 +301,17 @@
         "ai_summary": [
           "NHS faces rehabilitation care staff shortage",
           "Stroke patients receive limited rehab",
-          "Physiotherapists are in short supply",
-          "Patients' recovery chances are limited",
-          "Health leaders express concern over shortage"
+          "Health leaders express concerns",
+          "Shortage limits patient recovery chances",
+          "NHS struggles to provide adequate care"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Fri, 03 Apr 2026 03:35:28 GMT",
         "title": "Artemis II blasts ever closer to the far side of the Moon",
-        "neutral_headline": "Artemis II Space Mission",
+        "neutral_headline": "Artemis II approaches Moon",
         "items": [
           {
             "source": "BBC Science",
@@ -185,25 +320,25 @@
             "title": "Artemis II blasts ever closer to the far side of the Moon",
             "standfirst": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
             "content": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
-            "feed_position": 15,
+            "feed_position": 16,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7508/live/8e8b1a70-2f0c-11f1-ba11-cba8df57c4f4.jpg",
         "ai_summary": [
-          "Artemis II blasts off to Moon",
-          "Mission takes humans out of orbit",
-          "Last big push on lunar journey",
-          "Mission marks historic achievement",
-          "Humans return to Moon's vicinity"
+          "Artemis II blasts towards Moon",
+          "Mission takes humans out of Earth's orbit",
+          "Spacecraft marks last big push",
+          "Artemis II aims to reach lunar surface",
+          "Mission makes historic progress"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 20:00:00 GMT",
         "title": "BBC Inside Science",
-        "neutral_headline": "BBC Science Questions Answered",
+        "neutral_headline": "Science questions answered",
         "items": [
           {
             "source": "BBC Science",
@@ -212,25 +347,25 @@
             "title": "BBC Inside Science",
             "standfirst": "Why men have nipples and how gravity slingshots work; your science questions answered.",
             "content": "Why men have nipples and how gravity slingshots work; your science questions answered.",
-            "feed_position": 25,
+            "feed_position": 24,
             "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
         "ai_summary": [
-          "BBC answers science questions",
-          "Topics include men's nipples",
-          "Gravity slingshots are explained",
-          "Listeners' questions are addressed",
-          "Science topics are explored in depth"
+          "BBC Inside Science answers questions",
+          "Topics include men having nipples",
+          "Gravity slingshots explained",
+          "Science questions addressed",
+          "Programme provides educational content"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 19:27:18 GMT",
         "title": "UK drug exports to US spared tariffs under deal critics say will cost NHS billions",
-        "neutral_headline": "UK US Drug Export Deal",
+        "neutral_headline": "UK US drug export deal",
         "items": [
           {
             "source": "Guardian Health",
@@ -244,18 +379,18 @@
         ],
         "ai_summary": [
           "UK US deal spares drug exports tariffs",
-          "NHS may face financial challenges",
-          "Patients gain access to new treatments",
-          "Deal relaxes rules on drug pricing",
-          "Critics express concerns over deal"
+          "Deal allows NHS to pay more for treatments",
+          "Critics fear deal will cost NHS billions",
+          "Deal aims to increase patient access",
+          "UK and US collaborate on drug pricing"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 19:02:15 GMT",
         "title": "Why isn't Artemis II landing on the Moon?",
-        "neutral_headline": "Artemis II Mission Objective",
+        "neutral_headline": "Artemis II mission goals",
         "items": [
           {
             "source": "BBC Science",
@@ -264,25 +399,25 @@
             "title": "Why isn't Artemis II landing on the Moon?",
             "standfirst": "The US is aiming to be the first country to land humans on the lunar surface again by 2028 - so what's this mission for?",
             "content": "The US is aiming to be the first country to land humans on the lunar surface again by 2028 - so what's this mission for?",
-            "feed_position": 6,
+            "feed_position": 8,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d72/live/93cb1130-2ec5-11f1-b297-95b0a0a8331e.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d72/live/93cb1130-2ec5-11f1-b297-95b0a0a8331e.jpg",
         "ai_summary": [
-          "Artemis II does not land on Moon",
-          "Mission aims to prepare for landing",
-          "US plans to land humans by 2028",
-          "Artemis II is a stepping stone",
-          "Mission tests equipment and crew"
+          "Artemis II aims to land humans on Moon",
+          "Mission does not include lunar landing",
+          "US targets 2028 for lunar landing",
+          "Artemis II marks step towards goal",
+          "Mission focuses on lunar surface preparation"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 17:52:28 GMT",
         "title": "CDC temporarily halts testing for several infectious diseases amid staffing shortages",
-        "neutral_headline": "CDC Halts Diagnostic Testing",
+        "neutral_headline": "CDC Halts Testing For Several Infectious Diseases",
         "items": [
           {
             "source": "Guardian Health",
@@ -295,19 +430,19 @@
           }
         ],
         "ai_summary": [
-          "CDC halts diagnostic testing",
-          "Staffing shortages cause testing halt",
-          "Over two dozen tests are unavailable",
-          "CDC normally supports public health",
-          "Testing halt may impact disease monitoring"
+          "CDC stops testing for rabies and human herpesvirus",
+          "Over two dozen types of testing are now unavailable",
+          "Staffing shortages cause temporary halt",
+          "Federal agency normally supports state labs",
+          "Diagnostic testing for infectious diseases affected"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 15:54:27 GMT",
         "title": "Screen time guidance does not go far enough | Letters",
-        "neutral_headline": "Screen Time Guidance",
+        "neutral_headline": "Screen Time Guidance For Under Fives Released",
         "items": [
           {
             "source": "Guardian Health",
@@ -320,19 +455,19 @@
           }
         ],
         "ai_summary": [
-          "Screen time guidance is released",
-          "Guidance advises under an hour daily",
-          "Screen use in schools is contradictory",
-          "Government requires screen-based tests",
-          "Guidance aims to limit screen time"
+          "New guidance limits screen time to under an hour",
+          "Restrictions apply to slow paced media content",
+          "Children encounter screens in schools and settings",
+          "Government advice contradicts school testing methods",
+          "Adults should interact with children during screen use"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 15:53:47 GMT",
         "title": "Prince William praises £20m milestone for Bowelbabe fund",
-        "neutral_headline": "Bowelbabe Fund Milestone",
+        "neutral_headline": "Prince William Praises £20m Milestone For Bowelbabe Fund",
         "items": [
           {
             "source": "BBC Health",
@@ -347,19 +482,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbda/live/ae6bd910-2e9e-11f1-90b9-6ffcd881a7dc.png",
         "ai_summary": [
-          "Bowelbabe fund reaches £20m milestone",
-          "Prince William praises fundraising effort",
-          "Fund supports Cancer Research UK",
-          "Dame Deborah James founded the fund",
-          "Fundraising effort is highly successful"
+          "Bowelbabe fund supports Cancer Research UK",
+          "Dame Deborah James set up the fund in 2022",
+          "Prince William praises the fundraising milestone",
+          "The fund helps support cancer research efforts",
+          "Cancer Research UK benefits from the donations"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 15:51:27 GMT",
         "title": "Overthinking is rarely an advantage | Letter",
-        "neutral_headline": "Overthinking is Rarely Advantage",
+        "neutral_headline": "Overthinking Is Rarely An Advantage",
         "items": [
           {
             "source": "Guardian Health",
@@ -372,19 +507,19 @@
           }
         ],
         "ai_summary": [
-          "Overthinking can be a disadvantage",
-          "Internal world can be worrying",
-          "Overthinkers may analyze interactions",
-          "Freedom from guilt is hard to achieve",
-          "Self-awareness can be a challenge"
+          "Overthinking can cause anxiety and stress",
+          "Internal world of worries can be silent",
+          "Observing and analyzing oneself constantly",
+          "Freedom from guilt and shame is achievable",
+          "Self awareness can help overcome overthinking"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 15:46:42 GMT",
         "title": "Review finds 250 patients need repeat bone scans",
-        "neutral_headline": "Review Finds Patients Need Repeat Bone Scans",
+        "neutral_headline": "Review Finds 250 Patients Need Repeat Bone Scans",
         "items": [
           {
             "source": "BBC Health",
@@ -399,15 +534,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9dc/live/64be9270-fbd9-11ee-b213-6be513e08689.jpg",
         "ai_summary": [
+          "Review finds care for patients was below expected",
           "250 patients require repeat bone scans",
-          "Care for some patients was below expected",
-          "Review examines patient care quality",
-          "Patients affected by subpar care",
-          "Repeat scans to ensure accuracy"
+          "Medical care standards were not met",
+          "Patients received inadequate treatment",
+          "Review highlights need for improved care"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 15:31:32 GMT",
         "title": "Scientists excited to receive first Artemis signal",
@@ -420,25 +555,25 @@
             "title": "Scientists excited to receive first Artemis signal",
             "standfirst": "The station in Cornwall is helping to track Artemis II in its crewed mission to the Moon.",
             "content": "The station in Cornwall is helping to track Artemis II in its crewed mission to the Moon.",
-            "feed_position": 17,
+            "feed_position": 18,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e0a/live/63715140-2e78-11f1-8dc4-7bd9501845f2.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e0a/live/63715140-2e78-11f1-8dc4-7bd9501845f2.jpg",
         "ai_summary": [
-          "Artemis II sends first signal",
-          "Signal received in Cornwall station",
-          "Crewed mission to the Moon",
-          "Scientists track Artemis II progress",
-          "Mission marks new space milestone"
+          "Artemis II crewed mission to the Moon",
+          "Station in Cornwall tracks the mission",
+          "Scientists receive the first signal",
+          "Mission is a significant step forward",
+          "Tracking the mission is crucial for success"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 14:22:07 GMT",
         "title": "High above Earth, Artemis II crew prepare to thrust on to the Moon",
-        "neutral_headline": "Artemis II Crew Prepares For Moon Thrust",
+        "neutral_headline": "Artemis II Crew Prepare For Engine Burn",
         "items": [
           {
             "source": "BBC Science",
@@ -453,19 +588,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a118/live/39b6bd20-2e98-11f1-b297-95b0a0a8331e.jpg",
         "ai_summary": [
-          "Artemis II crew prepares for engine burn",
-          "Engine burn to leave Earth orbit",
-          "Crewed mission to the Moon",
-          "Astronauts conduct final checks",
-          "High-stakes engine burn ahead"
+          "Artemis II crew prepares for high stakes burn",
+          "Engine burn will take them out of orbit",
+          "Astronauts are carrying out final tests",
+          "Mission is a significant step for space travel",
+          "Crew is preparing for the challenging burn"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 14:04:57 GMT",
         "title": "What nearly went wrong on Nasa's space mission - and what still could",
-        "neutral_headline": "Challenges On Nasa Space Mission",
+        "neutral_headline": "What Nearly Went Wrong On Nasa's Space Mission",
         "items": [
           {
             "source": "BBC Science",
@@ -480,19 +615,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb25/live/aab26e00-2eb3-11f1-a79a-77e93010d956.jpg",
         "ai_summary": [
-          "Artemis II crew faces challenges",
-          "Crew tests and checks systems",
-          "Mission to the Moon ahead",
-          "Potential risks and obstacles",
-          "Astronauts prepare for Moon journey"
+          "Artemis II crew faces challenges on mission",
+          "Final tests and checks are being carried out",
+          "Mission is a significant step for space travel",
+          "Crew is preparing for the challenging journey",
+          "Nasa's space mission is a complex endeavor"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Thu, 02 Apr 2026 13:36:41 GMT",
         "title": "Water and wildlife return to farmland ponds",
-        "neutral_headline": "Water And Wildlife Return To Ponds",
+        "neutral_headline": "Water And Wildlife Return To Farmland Ponds",
         "items": [
           {
             "source": "BBC Science",
@@ -501,185 +636,23 @@
             "title": "Water and wildlife return to farmland ponds",
             "standfirst": "Two restored ponds on the Hertfordshire-Essex border see recovery, including breeding newts.",
             "content": "Two restored ponds on the Hertfordshire-Essex border see recovery, including breeding newts.",
-            "feed_position": 10,
+            "feed_position": 12,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9552/live/faebd7f0-2e8e-11f1-bf7c-65962cff9746.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9552/live/faebd7f0-2e8e-11f1-bf7c-65962cff9746.jpg",
         "ai_summary": [
-          "Restored ponds see wildlife return",
-          "Newts breed in restored ponds",
-          "Ponds on Hertfordshire-Essex border",
-          "Farmland ponds restored successfully",
-          "Biodiversity increases in area"
-        ]
-      },
-      {
-        "id": "cluster_14",
-        "coverage": 1,
-        "updated_at": "Thu, 02 Apr 2026 13:01:43 GMT",
-        "title": "Swinney softens stance on North Sea drilling as oil prices soar",
-        "neutral_headline": "Stance On North Sea Drilling Softens",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c937kqxyy5wo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 02 Apr 2026 13:01:43 GMT",
-            "title": "Swinney softens stance on North Sea drilling as oil prices soar",
-            "standfirst": "The first minister said energy security should be a primary concern when making decisions on oil and gas projects.",
-            "content": "The first minister said energy security should be a primary concern when making decisions on oil and gas projects.",
-            "feed_position": 20,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f240/live/47fed5c0-2e84-11f1-b297-95b0a0a8331e.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f240/live/47fed5c0-2e84-11f1-b297-95b0a0a8331e.jpg",
-        "ai_summary": [
-          "Swinney softens stance on drilling",
-          "Energy security a primary concern",
-          "Oil prices soar and impact decisions",
-          "North Sea drilling considered",
-          "Energy needs and environmental impact"
-        ]
-      },
-      {
-        "id": "cluster_15",
-        "coverage": 1,
-        "updated_at": "Thu, 02 Apr 2026 12:20:34 GMT",
-        "title": "Artemis II is in orbit - what happens next?",
-        "neutral_headline": "Artemis II In Orbit Next Steps",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c7vqre914pzo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 02 Apr 2026 12:20:34 GMT",
-            "title": "Artemis II is in orbit - what happens next?",
-            "standfirst": "What are the mission's four astronauts doing and when will they go to the Moon?",
-            "content": "What are the mission's four astronauts doing and when will they go to the Moon?",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cc4/live/28761840-2e9c-11f1-90b9-6ffcd881a7dc.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cc4/live/28761840-2e9c-11f1-90b9-6ffcd881a7dc.jpg",
-        "ai_summary": [
-          "Artemis II crew in Earth orbit",
-          "Astronauts prepare for Moon journey",
-          "Mission schedule and timeline",
-          "Crew conducts final checks",
-          "Artemis II to leave Earth orbit"
-        ]
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Thu, 02 Apr 2026 11:08:13 GMT",
-        "title": "Fewer heat-related deaths in 2025 despite warmest summer",
-        "neutral_headline": "Fewer Heat Related Deaths In 2025",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/cy91xqxn2jdo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 02 Apr 2026 11:08:13 GMT",
-            "title": "Fewer heat-related deaths in 2025 despite warmest summer",
-            "standfirst": "Summer 2025 was the warmest UK summer on record, with four heatwaves, a top temperature of nearly 38C and a mean temperature of 16.1C",
-            "content": "Summer 2025 was the warmest UK summer on record, with four heatwaves, a top temperature of nearly 38C and a mean temperature of 16.1C",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f3/live/ee980650-2e83-11f1-98e7-6b639170d418.png"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f3/live/ee980650-2e83-11f1-98e7-6b639170d418.png",
-        "ai_summary": [
-          "Fewer heat-related deaths in 2025",
-          "Warmest UK summer on record",
-          "Four heatwaves in summer 2025",
-          "Mean temperature reaches 16.1C",
-          "Top temperature nearly 38C recorded"
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Thu, 02 Apr 2026 09:28:23 GMT",
-        "title": "How a chance meeting shaped Canadian Jeremy Hansen's mission to the Moon",
-        "neutral_headline": "Canadian Astronaut Jeremy Hansen",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cy81n289739o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 02 Apr 2026 09:28:23 GMT",
-            "title": "How a chance meeting shaped Canadian Jeremy Hansen's mission to the Moon",
-            "standfirst": "Inspired by a picture of Neil Armstrong, the Ontario-born astronaut has dreamed of space since he was a child.",
-            "content": "Inspired by a picture of Neil Armstrong, the Ontario-born astronaut has dreamed of space since he was a child.",
-            "feed_position": 9,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4c3/live/aff22930-2e15-11f1-a79a-77e93010d956.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4c3/live/aff22930-2e15-11f1-a79a-77e93010d956.jpg",
-        "ai_summary": [
-          "Jeremy Hansen inspired by Neil Armstrong",
-          "Hansen dreams of space since childhood",
-          "Canadian astronaut on Moon mission",
-          "Chance meeting shapes Hansen's mission",
-          "Hansen's journey to the Moon"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Thu, 02 Apr 2026 08:03:32 GMT",
-        "title": "World's oldest known tortoise still alive, as reports of death revealed as hoax",
-        "neutral_headline": "World's Oldest Tortoise Still Alive",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/c393xmpzjwko?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 02 Apr 2026 08:03:32 GMT",
-            "title": "World's oldest known tortoise still alive, as reports of death revealed as hoax",
-            "standfirst": "A widely circulated social media post purporting to belong to the tortoise's vet has been revealed to be a hoax.",
-            "content": "A widely circulated social media post purporting to belong to the tortoise's vet has been revealed to be a hoax.",
-            "feed_position": 11,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e36d/live/5b0027c0-2e0f-11f1-a61b-8f128a2b274b.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e36d/live/5b0027c0-2e0f-11f1-a61b-8f128a2b274b.jpg",
-        "ai_summary": [
-          "Oldest tortoise still alive and well",
-          "Reports of death revealed as hoax",
-          "Social media post spreads false news",
-          "Tortoise's vet denies death reports",
-          "Tortoise's actual status confirmed"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Thu, 02 Apr 2026 05:14:33 GMT",
-        "title": "Sewing group helping women in period poverty",
-        "neutral_headline": "Sewing Group Helps Women In Need",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/c239m94e27go?at_medium=RSS&at_campaign=rss",
-            "published_at": "Thu, 02 Apr 2026 05:14:33 GMT",
-            "title": "Sewing group helping women in period poverty",
-            "standfirst": "Debi Angell says the kits they make help women and girls who can not afford period products.",
-            "content": "Debi Angell says the kits they make help women and girls who can not afford period products.",
-            "feed_position": 42,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c44/live/8bb05640-2dc6-11f1-b5b8-bdb2c7a76bf2.png"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c44/live/8bb05640-2dc6-11f1-b5b8-bdb2c7a76bf2.png",
-        "ai_summary": [
-          "Sewing group makes period kits",
-          "Kits help women in period poverty",
-          "Debi Angell leads sewing group",
-          "Group helps women and girls",
-          "Period products made available"
+          "Two restored ponds see recovery and growth",
+          "Breeding newts are found in the ponds",
+          "Wildlife returns to the restored ponds",
+          "Farmland ponds are being restored successfully",
+          "Restoration efforts are beneficial for wildlife"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-04-03T05:05:11.039Z",
+    "updated_at": "2026-04-03T08:02:06.719Z",
     "clusters": []
   }
 }
