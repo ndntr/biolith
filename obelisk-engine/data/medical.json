@@ -1,17 +1,579 @@
 {
   "clinical": {
-    "updated_at": "2026-05-03T19:54:10.556Z",
+    "updated_at": "2026-05-04T20:14:38.319Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-05-03T19:54:15.814Z",
-    "clusters": []
-  },
-  "patient_signals": {
-    "updated_at": "2026-05-03T19:54:12.518Z",
+    "updated_at": "2026-05-04T20:14:41.381Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 06:26:55 GMT",
+        "title": "Government hands extra $1.8b to UCCs",
+        "neutral_headline": "Government hands extra $1.8b to UCCs",
+        "items": [
+          {
+            "source": "newsGP",
+            "url": "https://www1.racgp.org.au/newsgp/professional/government-hands-extra-1-8b-to-uccs?feed=RACGPnewsGPArticles",
+            "published_at": "Mon, 04 May 2026 06:26:55 GMT",
+            "title": "Government hands extra $1.8b to UCCs",
+            "standfirst": "The investment has cemented the controversial primary care providers in the healthcare system, before the release of a final report on their effectiveness.",
+            "content": "The investment has cemented the controversial primary care providers in the healthcare system, before the release of a final report on their effectiveness.",
+            "feed_position": 0,
+            "image_url": "https://www1.racgp.org.au/getattachment/b7f9c6ef-237e-4a3f-b268-45b727b3c060/Government-hands-extra-1.8b-to-UCCs.aspx"
+          }
+        ],
+        "featured_image": "https://www1.racgp.org.au/getattachment/b7f9c6ef-237e-4a3f-b268-45b727b3c060/Government-hands-extra-1.8b-to-UCCs.aspx",
+        "ai_summary": [
+          "Government invests $1.8 billion in UCCs",
+          "Primary care providers receive funding",
+          "Investment before final report on effectiveness",
+          "Controversy surrounds primary care providers",
+          "Funding may impact healthcare system"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 05:58:59 GMT",
+        "title": "Colorectal cancer drug gets PBS listing",
+        "neutral_headline": "Colorectal cancer drug gets PBS listing",
+        "items": [
+          {
+            "source": "newsGP",
+            "url": "https://www1.racgp.org.au/newsgp/clinical/colorectal-cancer-drug-gets-pbs-listing?feed=RACGPnewsGPArticles",
+            "published_at": "Mon, 04 May 2026 05:58:59 GMT",
+            "title": "Colorectal cancer drug gets PBS listing",
+            "standfirst": "Fruquintinib (sold as Fruzaqla) will be listed for the first time for the treatment of stage 4 or metastatic colorectal cancer.",
+            "content": "Fruquintinib (sold as Fruzaqla) will be listed for the first time for the treatment of stage 4 or metastatic colorectal cancer.",
+            "feed_position": 1,
+            "image_url": "https://www1.racgp.org.au/getattachment/1fb85b9f-f24c-4d57-80e9-acfabdeae18a/Colorectal-cancer-drug-gets-PBS-listing.aspx"
+          }
+        ],
+        "featured_image": "https://www1.racgp.org.au/getattachment/1fb85b9f-f24c-4d57-80e9-acfabdeae18a/Colorectal-cancer-drug-gets-PBS-listing.aspx",
+        "ai_summary": [
+          "Fruquintinib listed for colorectal cancer",
+          "Treatment for stage 4 or metastatic cancer",
+          "PBS listing makes drug more accessible",
+          "Helps patients with limited treatment options",
+          "Improves cancer treatment in Australia"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 05:38:27 GMT",
+        "title": "‘Serious transparency problem’ in aged care’s VAD access",
+        "neutral_headline": "‘Serious transparency problem’ in aged care’s VAD access",
+        "items": [
+          {
+            "source": "newsGP",
+            "url": "https://www1.racgp.org.au/newsgp/clinical/serious-transparency-problem-in-aged-care-s-vad-ac?feed=RACGPnewsGPArticles",
+            "published_at": "Mon, 04 May 2026 05:38:27 GMT",
+            "title": "‘Serious transparency problem’ in aged care’s VAD access",
+            "standfirst": "A report found most facilities do not provide information on or access to VAD, with a GP expert saying the gap &lsquo;warrants attention&rsquo;.",
+            "content": "A report found most facilities do not provide information on or access to VAD, with a GP expert saying the gap &lsquo;warrants attention&rsquo;.",
+            "feed_position": 2,
+            "image_url": "https://www1.racgp.org.au/getattachment/2a629c61-ec22-44ad-915c-932777be3b9b/Serious-transparency-problem-in-aged-care-s-VAD-access.aspx"
+          }
+        ],
+        "featured_image": "https://www1.racgp.org.au/getattachment/2a629c61-ec22-44ad-915c-932777be3b9b/Serious-transparency-problem-in-aged-care-s-VAD-access.aspx",
+        "ai_summary": [
+          "Report finds transparency issue in VAD access",
+          "Most facilities lack information on VAD",
+          "GP expert says gap warrants attention",
+          "Aged care facilities need to improve access",
+          "VAD access is a critical healthcare issue"
+        ]
+      }
+    ]
+  },
+  "patient_signals": {
+    "updated_at": "2026-05-04T20:14:44.473Z",
+    "clusters": [
+      {
+        "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 19:46:49 GMT",
+        "title": "US appeals court blocks mail-order access to abortion drugs",
+        "neutral_headline": "US appeals court blocks mail-order access to abortion drugs",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/world/2026/may/01/us-court-blocks-mail-order-abortion-drugs-mifepristone",
+            "published_at": "Mon, 04 May 2026 19:46:49 GMT",
+            "title": "US appeals court blocks mail-order access to abortion drugs",
+            "standfirst": "Abortion rights supporters say ruling is most sweeping threat to access since supreme court overturned Roe in 2022Access to mifepristone, the FDA-approved medication used to end pregnancy, could become severely limited following a ruling from a US appeals court on Friday, which temporarily blocked the drug from being dispensed through the mail.The decision is for now the most sweeping threat to abortion access since the supreme court rolled back abortion rights in 2022, said Kelly Baden, vice-president at the Guttmacher Institute, an abortion rights advocacy group. Continue reading...",
+            "content": "Abortion rights supporters say ruling is most sweeping threat to access since supreme court overturned Roe in 2022Access to mifepristone, the FDA-approved medication used to end pregnancy, could become severely limited following a ruling from a US appeals court on Friday, which temporarily blocked the drug from being dispensed through the mail.The decision is for now the most sweeping threat to abortion access since the supreme court rolled back abortion rights in 2022, said Kelly Baden, vice-president at the Guttmacher Institute, an abortion rights advocacy group. Continue reading...",
+            "feed_position": 0
+          },
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2026/may/04/mifepristone-abortion-pill-supreme-court",
+            "published_at": "Mon, 04 May 2026 16:33:08 GMT",
+            "title": "US supreme court temporarily restores access to mail-order abortion pills",
+            "standfirst": "Order signed by Samuel Alito blocks ruling that prevented providers from prescribing mifepristone through the mailThe US supreme court has temporarily reinstated nationwide access to mifepristone, blocking a ruling that threatened to upend accessibility of an abortion pill involved in nearly two-thirds of pregnancy terminations across the country.On Monday, justice Samuel Alito signed an order pausing a fifth US circuit court of appeals ruling that had imposed new limits on the drug. That decision, issued on Friday, called on preventing abortion providers from prescribing mifepristone through the mail. Continue reading...",
+            "content": "Order signed by Samuel Alito blocks ruling that prevented providers from prescribing mifepristone through the mailThe US supreme court has temporarily reinstated nationwide access to mifepristone, blocking a ruling that threatened to upend accessibility of an abortion pill involved in nearly two-thirds of pregnancy terminations across the country.On Monday, justice Samuel Alito signed an order pausing a fifth US circuit court of appeals ruling that had imposed new limits on the drug. That decision, issued on Friday, called on preventing abortion providers from prescribing mifepristone through the mail. Continue reading...",
+            "feed_position": 1
+          },
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/world/2026/may/02/abortion-pill-emergency-appeal-supreme-court",
+            "published_at": "Sat, 02 May 2026 20:33:56 GMT",
+            "title": "Abortion pill maker asks US supreme court to halt ban on mail-order access",
+            "standfirst": "Danco Laboratories files emergency appeal after lower court blocks telemedicine providers from prescribingA manufacturer of the abortion pill mifepristone, Danco Laboratories, filed an emergency appeal to the US supreme court on Saturday asking it to halt a court decision that would require an in‑person exam before the medication can be prescribed.The request came hours after the fifth US circuit court of appeals temporarily reinstated the requirement blocking telemedicine health providers from prescribing it to patients by mail in response to a challenge from Louisiana. Continue reading...",
+            "content": "Danco Laboratories files emergency appeal after lower court blocks telemedicine providers from prescribingA manufacturer of the abortion pill mifepristone, Danco Laboratories, filed an emergency appeal to the US supreme court on Saturday asking it to halt a court decision that would require an in‑person exam before the medication can be prescribed.The request came hours after the fifth US circuit court of appeals temporarily reinstated the requirement blocking telemedicine health providers from prescribing it to patients by mail in response to a challenge from Louisiana. Continue reading...",
+            "feed_position": 18
+          }
+        ],
+        "ai_summary": [
+          "US appeals court blocks abortion drug access",
+          "Ruling limits access to mifepristone",
+          "Abortion rights supporters express concern",
+          "Decision may impact abortion access nationwide",
+          "Supreme court may review the ruling"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 15:56:51 GMT",
+        "title": "Parliament must heed public opinion on assisted dying | Letters",
+        "neutral_headline": "Parliament Must Consider Public Opinion",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/may/04/parliament-must-heed-public-opinion-on-assisted-dying",
+            "published_at": "Mon, 04 May 2026 15:56:51 GMT",
+            "title": "Parliament must heed public opinion on assisted dying | Letters",
+            "standfirst": "Danielle Hamm on the important perspectives that emerged from England’s first citizens’ jury. Plus letters from Libby Sallnow and Richard Smith, and Dr Pamela FisherThe Nuffield Council on Bioethics is an independent research and policy centre that aims to put ethics at the centre of decision-making about bioscience and health so that we all benefit. We agree that public views should be central to the debate on assisted dying (Editorial, 29 April). This is why we commissioned England’s first citizens’ jury on assisted dying in 2024, which produced rich and independent evidence about what the English public think about assisted dying, and the ethical, social and practical considerations that underpin their views.Over eight weeks, 30 jurors – who were reflective of the demographic makeup of the English population – spent a total of 24 hours hearing evidence from experts, engaging with perspectives from all sides of the debate, and deliberating in groups. Continue reading...",
+            "content": "Danielle Hamm on the important perspectives that emerged from England’s first citizens’ jury. Plus letters from Libby Sallnow and Richard Smith, and Dr Pamela FisherThe Nuffield Council on Bioethics is an independent research and policy centre that aims to put ethics at the centre of decision-making about bioscience and health so that we all benefit. We agree that public views should be central to the debate on assisted dying (Editorial, 29 April). This is why we commissioned England’s first citizens’ jury on assisted dying in 2024, which produced rich and independent evidence about what the English public think about assisted dying, and the ethical, social and practical considerations that underpin their views.Over eight weeks, 30 jurors – who were reflective of the demographic makeup of the English population – spent a total of 24 hours hearing evidence from experts, engaging with perspectives from all sides of the debate, and deliberating in groups. Continue reading...",
+            "feed_position": 2
+          }
+        ],
+        "ai_summary": [
+          "Citizens' jury provides insights on assisted dying",
+          "Public views should inform policy decisions",
+          "Assisted dying debate requires careful consideration",
+          "Ethical and social factors must be weighed",
+          "Policy makers should prioritize public opinion"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 15:55:18 GMT",
+        "title": "Women with perinatal OCD are still being failed | Letter",
+        "neutral_headline": "Women With Perinatal OCD Need Better Support",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/may/04/women-with-perinatal-ocd-are-still-being-failed",
+            "published_at": "Mon, 04 May 2026 15:55:18 GMT",
+            "title": "Women with perinatal OCD are still being failed | Letter",
+            "standfirst": "Screening at the six-week check and signposting to services could prevent suffering and save lives, write Fiona Challacombe, Diana Wilson and Maria BavettaWe were glad that the story of Kimberley Nixon was highlighted in your article and commend her openness about the devastating nature of perinatal OCD (‘This is so taboo’: Kimberley Nixon on the hell of perinatal OCD – and how she survived it, 28 April). Experiencing vivid unwanted intrusive thoughts, images and urges of accidentally or deliberately harming your infant can be hugely distressing, isolating and often misunderstood. Intrusions and compulsions can take, or indeed steal, hours a day, and can make women feel as if they are the worst mothers possible.In severe cases, women can feel that ending their lives is the only course of action. We have been activists and researchers in perinatal OCD for 20 years and are aware of the issues of lack of recognition, misdiagnosis, inappropriate safeguarding procedures being activated and difficulties in accessing effective therapy. Continue reading...",
+            "content": "Screening at the six-week check and signposting to services could prevent suffering and save lives, write Fiona Challacombe, Diana Wilson and Maria BavettaWe were glad that the story of Kimberley Nixon was highlighted in your article and commend her openness about the devastating nature of perinatal OCD (‘This is so taboo’: Kimberley Nixon on the hell of perinatal OCD – and how she survived it, 28 April). Experiencing vivid unwanted intrusive thoughts, images and urges of accidentally or deliberately harming your infant can be hugely distressing, isolating and often misunderstood. Intrusions and compulsions can take, or indeed steal, hours a day, and can make women feel as if they are the worst mothers possible.In severe cases, women can feel that ending their lives is the only course of action. We have been activists and researchers in perinatal OCD for 20 years and are aware of the issues of lack of recognition, misdiagnosis, inappropriate safeguarding procedures being activated and difficulties in accessing effective therapy. Continue reading...",
+            "feed_position": 3
+          }
+        ],
+        "ai_summary": [
+          "Perinatal OCD is a devastating condition",
+          "Women need better screening and support",
+          "Six-week check can help identify issues",
+          "Signposting to services is crucial",
+          "Raising awareness can help reduce stigma"
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 15:00:27 GMT",
+        "title": "Sometimes less is more. Next time you see your doctor ask about ‘de-prescribing’ | Ranjana Srivastava",
+        "neutral_headline": "De-Prescribing Can Improve Healthcare",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/commentisfree/2026/may/04/gp-doctor-medication-de-prescribing",
+            "published_at": "Mon, 04 May 2026 15:00:27 GMT",
+            "title": "Sometimes less is more. Next time you see your doctor ask about ‘de-prescribing’ | Ranjana Srivastava",
+            "standfirst": "A supervised process of stopping medications that are no longer needed is something everyone should know about“I thought I was never supposed to come off these tablets!” my patient exclaims.“Except when you no longer need them,” I say. Continue reading...",
+            "content": "A supervised process of stopping medications that are no longer needed is something everyone should know about“I thought I was never supposed to come off these tablets!” my patient exclaims.“Except when you no longer need them,” I say. Continue reading...",
+            "feed_position": 4
+          }
+        ],
+        "ai_summary": [
+          "De-prescribing is a supervised process",
+          "Stopping unnecessary medications is beneficial",
+          "Patients should ask about de-prescribing options",
+          "Reduces risk of medication side effects",
+          "Improves overall healthcare and well-being"
+        ]
+      },
+      {
+        "id": "cluster_4",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 14:00:24 GMT",
+        "title": "Man produces sperm from testicular tissue frozen as a child in breakthrough trial",
+        "neutral_headline": "Breakthrough Trial Restores Sperm Production",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/may/04/man-produces-sperm-from-testicular-tissue-frozen-as-a-child-in-breakthrough-trial",
+            "published_at": "Mon, 04 May 2026 14:00:24 GMT",
+            "title": "Man produces sperm from testicular tissue frozen as a child in breakthrough trial",
+            "standfirst": "Exclusive: Sperm re-transplant offers hope that boys left infertile by chemotherapy could have biological children one dayIn a groundbreaking fertility trial, a man whose testicular tissue was frozen before he underwent chemotherapy as a child to be re-transplanted 16 years later has been able to produce sperm.It is the first time a transplant of cryopreserved prepubertal testicular tissue has been demonstrated to restore sperm production in an adult patient. The 27-year-old man had the sample frozen when he was 10, before undergoing potent chemotherapy as part of treatment for sickle cell disease. Continue reading...",
+            "content": "Exclusive: Sperm re-transplant offers hope that boys left infertile by chemotherapy could have biological children one dayIn a groundbreaking fertility trial, a man whose testicular tissue was frozen before he underwent chemotherapy as a child to be re-transplanted 16 years later has been able to produce sperm.It is the first time a transplant of cryopreserved prepubertal testicular tissue has been demonstrated to restore sperm production in an adult patient. The 27-year-old man had the sample frozen when he was 10, before undergoing potent chemotherapy as part of treatment for sickle cell disease. Continue reading...",
+            "feed_position": 5
+          }
+        ],
+        "ai_summary": [
+          "Man produces sperm from frozen tissue",
+          "Testicular tissue frozen as a child",
+          "Re-transplant restores sperm production",
+          "Offers hope for infertility treatment",
+          "Groundbreaking trial with promising results"
+        ]
+      },
+      {
+        "id": "cluster_5",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 13:00:24 GMT",
+        "title": "Kirsty, 11, seeks more Kirstys to help raise money for brain tumour research",
+        "neutral_headline": "Schoolgirl Raises Money For Brain Tumour Research",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/uk-news/2026/may/04/kirsty-cancer-fundraising-kent-paediatric-brain-tumour",
+            "published_at": "Mon, 04 May 2026 13:00:24 GMT",
+            "title": "Kirsty, 11, seeks more Kirstys to help raise money for brain tumour research",
+            "standfirst": "Kent schoolgirl tracks down 10,000 namesakes as part of campaign – but non-Kirstys are welcome to donate tooCalling all Kirstys! A schoolgirl from Tunbridge Wells in Kent is seeking people who share her name to help raise money for research into paediatric brain tumours like the one for which she is being treated.Kirsty Waugh, who turns 12 on Monday, has already persuaded more than 10,000 Kirstys, Kirsties, Kersties and assorted other variants to plot their locations on a map that shows Kirstys can be found everywhere from Colombia to Malaysia, and even at the Rothera research station in Antarctica. Continue reading...",
+            "content": "Kent schoolgirl tracks down 10,000 namesakes as part of campaign – but non-Kirstys are welcome to donate tooCalling all Kirstys! A schoolgirl from Tunbridge Wells in Kent is seeking people who share her name to help raise money for research into paediatric brain tumours like the one for which she is being treated.Kirsty Waugh, who turns 12 on Monday, has already persuaded more than 10,000 Kirstys, Kirsties, Kersties and assorted other variants to plot their locations on a map that shows Kirstys can be found everywhere from Colombia to Malaysia, and even at the Rothera research station in Antarctica. Continue reading...",
+            "feed_position": 6
+          }
+        ],
+        "ai_summary": [
+          "Kirsty seeks namesakes to raise funds",
+          "Campaign supports pediatric brain tumour research",
+          "Over 10,000 Kirstys participate worldwide",
+          "Non-Kirstys can also donate to the cause",
+          "Fundraising effort raises awareness and support"
+        ]
+      },
+      {
+        "id": "cluster_6",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 12:33:03 GMT",
+        "title": "Should you worry about napping?",
+        "neutral_headline": "Napping May Indicate Underlying Health Issues",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/videos/cq8pqn9yllyo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 04 May 2026 12:33:03 GMT",
+            "title": "Should you worry about napping?",
+            "standfirst": "Dr Aziza explains why napping could be a sign of a bigger issue",
+            "content": "Dr Aziza explains why napping could be a sign of a bigger issue",
+            "feed_position": 47
+          }
+        ],
+        "ai_summary": [
+          "Napping can be a sign of health problems",
+          "Dr Aziza explains potential underlying causes",
+          "Napping may indicate sleep disorders",
+          "Can be related to mental health issues",
+          "Excessive napping requires medical attention"
+        ]
+      },
+      {
+        "id": "cluster_7",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 12:11:23 GMT",
+        "title": "How to see the Eta Aquariid meteor shower",
+        "neutral_headline": "Eta Aquariid Meteor Shower Visible",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/videos/c4g9p39wq91o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 04 May 2026 12:11:23 GMT",
+            "title": "How to see the Eta Aquariid meteor shower",
+            "standfirst": "How to see the Eta Aquariid meteor shower",
+            "content": "How to see the Eta Aquariid meteor shower",
+            "feed_position": 18,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c23/live/690a15e0-4568-11f1-b55d-0f258dce1735.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c23/live/690a15e0-4568-11f1-b55d-0f258dce1735.jpg",
+        "ai_summary": [
+          "Eta Aquariid meteor shower occurs annually",
+          "Meteor shower visible in May",
+          "Best viewing time is before dawn",
+          "Shower originates from Halley's Comet",
+          "Peak activity expected on May 5"
+        ]
+      },
+      {
+        "id": "cluster_8",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 11:00:21 GMT",
+        "title": "Who is Nicole Saphier, Trump’s new nominee for US surgeon general?",
+        "neutral_headline": "Who is Nicole Saphier, Trump’s new nominee for US surgeon general?",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2026/may/04/who-is-nicole-saphier-trump-surgeon-general-nomination",
+            "published_at": "Mon, 04 May 2026 11:00:21 GMT",
+            "title": "Who is Nicole Saphier, Trump’s new nominee for US surgeon general?",
+            "standfirst": "Trump’s third pick for role is a radiologist and Fox News medical contributor who experts say is ‘almost a lock’The new nominee for US surgeon general is an “effective communicator” who appears to be “mainstream enough” to pass confirmation before the US Senate, experts say.But she has questioned routine childhood vaccines and other public health measures, and she is a progenitor of the “Make America healthy again” movement. Continue reading...",
+            "content": "Trump’s third pick for role is a radiologist and Fox News medical contributor who experts say is ‘almost a lock’The new nominee for US surgeon general is an “effective communicator” who appears to be “mainstream enough” to pass confirmation before the US Senate, experts say.But she has questioned routine childhood vaccines and other public health measures, and she is a progenitor of the “Make America healthy again” movement. Continue reading...",
+            "feed_position": 7
+          }
+        ],
+        "ai_summary": [
+          "Nicole Saphier is Trump's new nominee",
+          "She is a radiologist and Fox News contributor",
+          "Saphier has questioned routine vaccines",
+          "She is a proponent of the health movement",
+          "Her nomination is expected to pass Senate"
+        ]
+      },
+      {
+        "id": "cluster_9",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 10:55:37 GMT",
+        "title": "How can you improve your balance?",
+        "neutral_headline": "Improving Balance With Physiotherapy",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/videos/cvgznyzzn32o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 04 May 2026 10:55:37 GMT",
+            "title": "How can you improve your balance?",
+            "standfirst": "Chris and Xand continue their conversation with physiotherapist and vestibular rehabilitation specialist, Maggie Stacey.",
+            "content": "Chris and Xand continue their conversation with physiotherapist and vestibular rehabilitation specialist, Maggie Stacey.",
+            "feed_position": 48,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c894/live/a5a082f0-47a2-11f1-ac78-2112837ce2aa.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c894/live/a5a082f0-47a2-11f1-ac78-2112837ce2aa.jpg",
+        "ai_summary": [
+          "Physiotherapist Maggie Stacey discusses balance",
+          "Vestibular rehabilitation is a key aspect",
+          "Exercises can help improve balance",
+          "Physiotherapy can reduce fall risk",
+          "Balance issues can be addressed with therapy"
+        ]
+      },
+      {
+        "id": "cluster_10",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 10:54:41 GMT",
+        "title": "How a hurricane created a 'precious saltmarsh'",
+        "neutral_headline": "Hurricane Creates Saltmarsh In Porlock",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c5y74l61j29o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 04 May 2026 10:54:41 GMT",
+            "title": "How a hurricane created a 'precious saltmarsh'",
+            "standfirst": "This year marks 30 years since a storm breached sea defenses in Porlock.",
+            "content": "This year marks 30 years since a storm breached sea defenses in Porlock.",
+            "feed_position": 13,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f7/live/9482b710-47a0-11f1-970b-c9a1b7950074.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55f7/live/9482b710-47a0-11f1-970b-c9a1b7950074.jpg",
+        "ai_summary": [
+          "A hurricane breached sea defenses in 1993",
+          "The breach created a new saltmarsh area",
+          "The area has become a valuable habitat",
+          "Porlock saltmarsh is now 30 years old",
+          "The site is home to various wildlife species"
+        ]
+      },
+      {
+        "id": "cluster_11",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 08:00:17 GMT",
+        "title": "London schools trialling VR to relieve pupils’ stress",
+        "neutral_headline": "London Schools Use VR For Stress Relief",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/society/2026/may/04/london-schools-trialling-vr-to-relieve-pupils-stress",
+            "published_at": "Mon, 04 May 2026 08:00:17 GMT",
+            "title": "London schools trialling VR to relieve pupils’ stress",
+            "standfirst": "Phase Space pilot programme with NHS mental health trust used to calm anxiety around exams, ADHD and home troublesSchools have begun deploying virtual reality to help pupils cope with stress caused by impending exams, attention deficit hyperactivity disorder or difficult home lives.All 15 secondary schools in the London borough of Sutton are using VR headsets made by tech firm Phase Space in a pilot in conjunction with the local NHS mental health trust. Continue reading...",
+            "content": "Phase Space pilot programme with NHS mental health trust used to calm anxiety around exams, ADHD and home troublesSchools have begun deploying virtual reality to help pupils cope with stress caused by impending exams, attention deficit hyperactivity disorder or difficult home lives.All 15 secondary schools in the London borough of Sutton are using VR headsets made by tech firm Phase Space in a pilot in conjunction with the local NHS mental health trust. Continue reading...",
+            "feed_position": 8
+          }
+        ],
+        "ai_summary": [
+          "London schools are using VR for stress relief",
+          "The program is in conjunction with NHS trust",
+          "VR headsets are used to calm anxiety",
+          "The program aims to help pupils with exams",
+          "The pilot program is being used in 15 schools"
+        ]
+      },
+      {
+        "id": "cluster_12",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 07:00:17 GMT",
+        "title": "Is it true that … your lungs regenerate when you quit smoking?",
+        "neutral_headline": "Is it true that your lungs regenerate when you quit smoking?",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/may/04/is-it-true-that-your-lungs-regenerate-when-you-quit-smoking",
+            "published_at": "Mon, 04 May 2026 07:00:17 GMT",
+            "title": "Is it true that … your lungs regenerate when you quit smoking?",
+            "standfirst": "Our lungs have evolved to heal from damage, but some smokers will suffer irreversible effects It used to be thought that the lungs couldn’t regenerate,” says Dr Charlotte Dean, head of the lung development and disease group at Imperial College London. “But we know now that’s not the case. Broadly speaking, they can repair when you quit smoking.”Smoking is in effect damaging your lungs, Dean says, and the lungs have a substantial capacity to heal themselves. They have evolved to cope with pollution or getting infected by bacteria or viruses. “Because they’re so vital – you can’t survive without your lungs – they needed to have this capacity,” she says. Continue reading...",
+            "content": "Our lungs have evolved to heal from damage, but some smokers will suffer irreversible effects It used to be thought that the lungs couldn’t regenerate,” says Dr Charlotte Dean, head of the lung development and disease group at Imperial College London. “But we know now that’s not the case. Broadly speaking, they can repair when you quit smoking.”Smoking is in effect damaging your lungs, Dean says, and the lungs have a substantial capacity to heal themselves. They have evolved to cope with pollution or getting infected by bacteria or viruses. “Because they’re so vital – you can’t survive without your lungs – they needed to have this capacity,” she says. Continue reading...",
+            "feed_position": 9
+          }
+        ],
+        "ai_summary": [
+          "Lungs have a capacity to heal from damage",
+          "Quitting smoking can help lung regeneration",
+          "Some smokers may experience irreversible effects",
+          "Lung development expert Dr Charlotte Dean comments",
+          "Lungs can repair damage caused by smoking"
+        ]
+      },
+      {
+        "id": "cluster_13",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 06:15:44 GMT",
+        "title": "Calls for Reformer Pilates regulation amid boom",
+        "neutral_headline": "Reformer Pilates Businesses Increase In UK",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cp9p5m00nxgo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 04 May 2026 06:15:44 GMT",
+            "title": "Calls for Reformer Pilates regulation amid boom",
+            "standfirst": "Reformer Pilates businesses in the UK rose nearly ten-fold between 2024 and 2025.",
+            "content": "Reformer Pilates businesses in the UK rose nearly ten-fold between 2024 and 2025.",
+            "feed_position": 28,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7657/live/382b7450-44b4-11f1-ac78-2112837ce2aa.png"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7657/live/382b7450-44b4-11f1-ac78-2112837ce2aa.png",
+        "ai_summary": [
+          "Reformer Pilates businesses have increased",
+          "The number of businesses rose nearly ten-fold",
+          "The increase occurred between 2024 and 2025",
+          "There are calls for regulation in the industry",
+          "The industry has experienced rapid growth"
+        ]
+      },
+      {
+        "id": "cluster_14",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 06:13:01 GMT",
+        "title": "Pine marten kit receives round-the-clock care after siblings died",
+        "neutral_headline": "Pine Marten Kit Receives Round The Clock Care",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/videos/c8d8j51epe4o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 04 May 2026 06:13:01 GMT",
+            "title": "Pine marten kit receives round-the-clock care after siblings died",
+            "standfirst": "The kit was rescued from a bin in Wales and is now being looked after at Vale Wildlife Hospital.",
+            "content": "The kit was rescued from a bin in Wales and is now being looked after at Vale Wildlife Hospital.",
+            "feed_position": 14,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe68/live/789721f0-44a1-11f1-ac78-2112837ce2aa.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe68/live/789721f0-44a1-11f1-ac78-2112837ce2aa.jpg",
+        "ai_summary": [
+          "A pine marten kit was rescued from a bin",
+          "The kit is being cared for at Vale Hospital",
+          "The kit's siblings did not survive",
+          "The kit is receiving round-the-clock care",
+          "The hospital is providing specialized care"
+        ]
+      },
+      {
+        "id": "cluster_15",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 06:00:16 GMT",
+        "title": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest",
+        "neutral_headline": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
+            "published_at": "Mon, 04 May 2026 06:00:16 GMT",
+            "title": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest",
+            "standfirst": "Exclusive: amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has found An AI system used to predict how much Kenyans can afford to pay for access to healthcare, has systemically driven up costs for the poor, an investigation has found.The healthcare system being rolled out across the country, a key electoral promise of President William Ruto, was launched in October 2024 and intended to replace Kenya’s decades-old national insurance system. Continue reading...",
+            "content": "Exclusive: amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has found An AI system used to predict how much Kenyans can afford to pay for access to healthcare, has systemically driven up costs for the poor, an investigation has found.The healthcare system being rolled out across the country, a key electoral promise of President William Ruto, was launched in October 2024 and intended to replace Kenya’s decades-old national insurance system. Continue reading...",
+            "feed_position": 10
+          }
+        ],
+        "ai_summary": [
+          "Kenya's AI-driven health reforms are flawed",
+          "The system favors the rich over the poor",
+          "The algorithm drives up costs for the poor",
+          "The healthcare system was launched in 2024",
+          "The reforms are a key electoral promise"
+        ]
+      },
+      {
+        "id": "cluster_16",
+        "coverage": 1,
+        "updated_at": "Mon, 04 May 2026 05:12:06 GMT",
+        "title": "What is hantavirus, the infection thought to have killed three on cruise ship?",
+        "neutral_headline": "What is hantavirus, the infection thought to have killed three on cruise ship?",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/science/2026/may/04/what-is-hantavirus-the-infection-that-has-killed-three-people-on-a-cruise-ship",
+            "published_at": "Mon, 04 May 2026 05:12:06 GMT",
+            "title": "What is hantavirus, the infection thought to have killed three on cruise ship?",
+            "standfirst": "Rodent-carried disease is not usually contagious between humans and outbreaks are rare. What are the symptoms and treatment?Three passengers on a cruise ship in the Atlantic Ocean have died after a suspected hantavirus outbreak, according to the World Health Organization (WHO).The outbreak was reported on the polar cruise ship MV Hondius, which was travelling between Argentina and Cape Verde. Continue reading...",
+            "content": "Rodent-carried disease is not usually contagious between humans and outbreaks are rare. What are the symptoms and treatment?Three passengers on a cruise ship in the Atlantic Ocean have died after a suspected hantavirus outbreak, according to the World Health Organization (WHO).The outbreak was reported on the polar cruise ship MV Hondius, which was travelling between Argentina and Cape Verde. Continue reading...",
+            "feed_position": 11
+          }
+        ],
+        "ai_summary": [
+          "Hantavirus is a rodent-carried disease",
+          "The disease is not usually contagious between humans",
+          "Three passengers died on a cruise ship",
+          "The outbreak occurred on the MV Hondius ship",
+          "The World Health Organization is investigating"
+        ]
+      },
+      {
+        "id": "cluster_17",
+        "coverage": 1,
+        "updated_at": "Sun, 03 May 2026 23:10:56 GMT",
+        "title": "NHS cancer jab could save patients hours in hospital",
+        "neutral_headline": "NHS Cancer Jab Could Save Patients Time",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cx214vld41ko?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 03 May 2026 23:10:56 GMT",
+            "title": "NHS cancer jab could save patients hours in hospital",
+            "standfirst": "Thousands of patients will be offered a new injectable form of an immunotherapy drug that takes minutes.",
+            "content": "Thousands of patients will be offered a new injectable form of an immunotherapy drug that takes minutes.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afd2/live/a296b0b0-44b5-11f1-b55d-0f258dce1735.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afd2/live/a296b0b0-44b5-11f1-b55d-0f258dce1735.jpg",
+        "ai_summary": [
+          "A new cancer jab is being offered to patients",
+          "The jab is an injectable form of immunotherapy",
+          "The treatment takes minutes to administer",
+          "Thousands of patients will be offered the jab",
+          "The jab could save patients hours in hospital"
+        ]
+      },
+      {
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sun, 03 May 2026 16:41:24 GMT",
         "title": "Lorraine Ribbons obituary",
@@ -24,19 +586,19 @@
             "title": "Lorraine Ribbons obituary",
             "standfirst": "My wife, Lorraine Ribbons, who has died aged 72, worked for many years as a volunteer for the Association of Children with Heart Disorders (ACHD), visiting young people with heart conditions in hospitals, arranging for them to go on holidays and providing support.Two of her three children were born with heart conditions and that led her into volunteering from the late 1970s onwards, befriending and counselling other families in the same situation. Continue reading...",
             "content": "My wife, Lorraine Ribbons, who has died aged 72, worked for many years as a volunteer for the Association of Children with Heart Disorders (ACHD), visiting young people with heart conditions in hospitals, arranging for them to go on holidays and providing support.Two of her three children were born with heart conditions and that led her into volunteering from the late 1970s onwards, befriending and counselling other families in the same situation. Continue reading...",
-            "feed_position": 0
+            "feed_position": 12
           }
         ],
         "ai_summary": [
-          "Lorraine Ribbons worked with children with heart disorders",
-          "She volunteered for the Association of Children with Heart Disorders",
+          "Lorraine Ribbons worked with heart disorder patients",
+          "She volunteered for the ACHD organization",
           "Ribbons helped families with heart conditions",
-          "She arranged holidays and provided support",
-          "Ribbons made a positive impact on many lives"
+          "She arranged holidays for young patients",
+          "Ribbons died at the age of 72"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sun, 03 May 2026 16:36:28 GMT",
         "title": "The Guardian view on unhealthy Britain: from housing to junk food, there are solutions | Editorial",
@@ -49,462 +611,21 @@
             "title": "The Guardian view on unhealthy Britain: from housing to junk food, there are solutions | Editorial",
             "standfirst": "People are living with sickness or disability younger than a decade ago. That should shock the country and prompt actionThe two-year decline in healthy life expectancy in Britain, set out in new analysis from the Health Foundation thinktank, is devastating. In a wealthy country like the UK, at a time of rapid advances in the treatment of illnesses including obesity and cancer, people should not be living with sickness or disability earlier than they were a decade ago.The report draws on a survey that relies on self-reporting, so is less objective than statistics based on births and deaths. Worsening mental health among younger adults is the area of sharpest deterioration and in some age groups, physical health was reported as having improved. But healthy life expectancy is a useful measure of quality of life and the findings have serious implications for public services. When, in 2028, the retirement age rises to 67, the average person will be in poor health more than six years before they are due to stop work. The researchers state that the decline cannot be put down to the pandemic. Northern Ireland was excluded due to a lack of data. Continue reading...",
             "content": "People are living with sickness or disability younger than a decade ago. That should shock the country and prompt actionThe two-year decline in healthy life expectancy in Britain, set out in new analysis from the Health Foundation thinktank, is devastating. In a wealthy country like the UK, at a time of rapid advances in the treatment of illnesses including obesity and cancer, people should not be living with sickness or disability earlier than they were a decade ago.The report draws on a survey that relies on self-reporting, so is less objective than statistics based on births and deaths. Worsening mental health among younger adults is the area of sharpest deterioration and in some age groups, physical health was reported as having improved. But healthy life expectancy is a useful measure of quality of life and the findings have serious implications for public services. When, in 2028, the retirement age rises to 67, the average person will be in poor health more than six years before they are due to stop work. The researchers state that the decline cannot be put down to the pandemic. Northern Ireland was excluded due to a lack of data. Continue reading...",
-            "feed_position": 1
+            "feed_position": 13
           }
         ],
         "ai_summary": [
           "Britain's healthy life expectancy is declining",
-          "The decline is caused by various factors",
-          "Housing and junk food are contributing factors",
-          "Mental health is a major concern",
-          "The government needs to take action to address the issue"
-        ]
-      },
-      {
-        "id": "cluster_2",
-        "coverage": 1,
-        "updated_at": "Sun, 03 May 2026 13:00:03 GMT",
-        "title": "‘Christofascism’ is here: inside the slow demolition of US public health | Adrienne Matei",
-        "neutral_headline": "‘Christofascism’ is here",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/03/christofascism-rfk-jr-health",
-            "published_at": "Sun, 03 May 2026 13:00:03 GMT",
-            "title": "‘Christofascism’ is here: inside the slow demolition of US public health | Adrienne Matei",
-            "standfirst": "From prescribing spiritual warfare to demonizing health experts, RFK Jr’s health empire has become a dangerous vehicle for a Christian nationalist worldviewIn February 2025, Robert F Kennedy Jr began his tenure as secretary of the Department of Health and Human Services (HHS) with an unusual message for the federal department responsible for protecting public health.America’s greatest challenge, he said, was not just chronic disease but a “spiritual malaise”, a kind of soul-sickness derived from America’s moral decline. Continue reading...",
-            "content": "From prescribing spiritual warfare to demonizing health experts, RFK Jr’s health empire has become a dangerous vehicle for a Christian nationalist worldviewIn February 2025, Robert F Kennedy Jr began his tenure as secretary of the Department of Health and Human Services (HHS) with an unusual message for the federal department responsible for protecting public health.America’s greatest challenge, he said, was not just chronic disease but a “spiritual malaise”, a kind of soul-sickness derived from America’s moral decline. Continue reading...",
-            "feed_position": 2
-          }
-        ],
-        "ai_summary": [
-          "Robert F Kennedy Jr leads a health empire",
-          "The empire promotes a Christian nationalist worldview",
-          "Kennedy Jr focuses on spiritual malaise",
-          "The approach is controversial and unorthodox",
-          "Critics argue it undermines public health efforts"
-        ]
-      },
-      {
-        "id": "cluster_3",
-        "coverage": 1,
-        "updated_at": "Sun, 03 May 2026 11:00:53 GMT",
-        "title": "‘I was mortally offended’: writers on the throwaway comments that changed their lives",
-        "neutral_headline": "Writers Share Life Changing Comments",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/may/03/sentence-comment-changed-my-life-yomi-adegoke-matt-haig-bella-mackie-megan-nolan-nikesh-shukla",
-            "published_at": "Sun, 03 May 2026 11:00:53 GMT",
-            "title": "‘I was mortally offended’: writers on the throwaway comments that changed their lives",
-            "standfirst": "Can a sentence affect the course of your life? Five authors reveal the interactions that transformed the way they saw themselves – and the worldWhen I was 14, I had to start a new school. I wasn’t great at starting new schools, even though I had done so quite a few times – once for my dad’s work, once because I wasn’t fitting in at my primary school and once because my parents didn’t like the teachers. Of course, 14 is possibly the most awkward of all the ages to start a new anything. Anyway, it was halfway through the first term at the new school in Newark, Nottinghamshire, and I was taken aside by my history teacher, Mr Philips, at the end of a lesson. He didn’t like me very much. To be fair, I was probably hard to like, from a teacher’s perspective. I had trouble concentrating, I stared out of windows, I clowned around. However, it is difficult to explain the shock to my self-conscious teenage soul when he told me, “I think it would be a good idea for you to join a special needs class.” Now, for context, the year was 1989, and in my state comprehensive at that time the idea of being “special needs” was akin to being given a leprosy bell or being marked with a cross for the plague. It was a binary system. You were either “normal” or you were “special needs”. To make matters worse, I was told that another teacher – my art teacher – had come to a similar assessment. Continue reading...",
-            "content": "Can a sentence affect the course of your life? Five authors reveal the interactions that transformed the way they saw themselves – and the worldWhen I was 14, I had to start a new school. I wasn’t great at starting new schools, even though I had done so quite a few times – once for my dad’s work, once because I wasn’t fitting in at my primary school and once because my parents didn’t like the teachers. Of course, 14 is possibly the most awkward of all the ages to start a new anything. Anyway, it was halfway through the first term at the new school in Newark, Nottinghamshire, and I was taken aside by my history teacher, Mr Philips, at the end of a lesson. He didn’t like me very much. To be fair, I was probably hard to like, from a teacher’s perspective. I had trouble concentrating, I stared out of windows, I clowned around. However, it is difficult to explain the shock to my self-conscious teenage soul when he told me, “I think it would be a good idea for you to join a special needs class.” Now, for context, the year was 1989, and in my state comprehensive at that time the idea of being “special needs” was akin to being given a leprosy bell or being marked with a cross for the plague. It was a binary system. You were either “normal” or you were “special needs”. To make matters worse, I was told that another teacher – my art teacher – had come to a similar assessment. Continue reading...",
-            "feed_position": 3
-          }
-        ],
-        "ai_summary": [
-          "Writers share comments that changed their lives",
-          "A teacher's comment affected a writer's self-esteem",
-          "The comment led to a special needs assessment",
-          "The writer found the experience shocking and hurtful",
-          "The comment had a lasting impact on the writer"
-        ]
-      },
-      {
-        "id": "cluster_4",
-        "coverage": 1,
-        "updated_at": "Sun, 03 May 2026 11:00:53 GMT",
-        "title": "US ‘drowning in misinformation’ under RFK Jr, autism advocates say",
-        "neutral_headline": "US ‘drowning in misinformation’ under RFK Jr",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/us-news/2026/may/03/trump-administration-rfk-autism-misinformation",
-            "published_at": "Sun, 03 May 2026 11:00:53 GMT",
-            "title": "US ‘drowning in misinformation’ under RFK Jr, autism advocates say",
-            "standfirst": "Health officials in Trump administration were accused of fueling ‘crisis of public trust’ over autism and vaccinesMisinformation from top health officials in the Trump administration has created a “crisis of public trust” – and Congress should conduct oversight hearings and possibly impeach officials such as Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS), according to a recently released report.Experts say that officials in the past year have focused intently on both vaccines and autism, including efforts to connect autism to the use of acetaminophen (frequently sold as Tylenol) during pregnancy, despite growing evidence of no link, and replacing all members of the federal autism committee with advisers who have anti-vaccine and pseudoscientific histories. Continue reading...",
-            "content": "Health officials in Trump administration were accused of fueling ‘crisis of public trust’ over autism and vaccinesMisinformation from top health officials in the Trump administration has created a “crisis of public trust” – and Congress should conduct oversight hearings and possibly impeach officials such as Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS), according to a recently released report.Experts say that officials in the past year have focused intently on both vaccines and autism, including efforts to connect autism to the use of acetaminophen (frequently sold as Tylenol) during pregnancy, despite growing evidence of no link, and replacing all members of the federal autism committee with advisers who have anti-vaccine and pseudoscientific histories. Continue reading...",
-            "feed_position": 4
-          }
-        ],
-        "ai_summary": [
-          "Robert F Kennedy Jr spreads misinformation",
-          "The misinformation affects public trust in health",
-          "Autism advocates criticize Kennedy Jr's approach",
-          "The approach connects autism to vaccines and acetaminophen",
-          "Experts argue there is no link between autism and vaccines"
-        ]
-      },
-      {
-        "id": "cluster_5",
-        "coverage": 1,
-        "updated_at": "Sun, 03 May 2026 08:14:19 GMT",
-        "title": "Nature haven 'trashed' after four-year wait for protection decision",
-        "neutral_headline": "Nature Haven Awaits Protection Decision",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cvgzl329lqlo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 03 May 2026 08:14:19 GMT",
-            "title": "Nature haven 'trashed' after four-year wait for protection decision",
-            "standfirst": "Activists claim developers are damaging the area while NatureScot considers whether or not to designate it a protected site.",
-            "content": "Activists claim developers are damaging the area while NatureScot considers whether or not to designate it a protected site.",
-            "feed_position": 13,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de26/live/07e5bf70-4555-11f1-b55d-0f258dce1735.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de26/live/07e5bf70-4555-11f1-b55d-0f258dce1735.jpg",
-        "ai_summary": [
-          "A nature haven is waiting for protection",
-          "Activists claim developers are damaging the area",
-          "NatureScot is considering protection status",
-          "The area is home to unique and endangered species",
-          "The decision will impact the area's conservation"
-        ]
-      },
-      {
-        "id": "cluster_6",
-        "coverage": 1,
-        "updated_at": "Sun, 03 May 2026 06:15:12 GMT",
-        "title": "No ban on over-the-counter pet flea treatments in Jersey",
-        "neutral_headline": "No Ban On Pet Flea Treatments",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cjdp50xn5kro?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 03 May 2026 06:15:12 GMT",
-            "title": "No ban on over-the-counter pet flea treatments in Jersey",
-            "standfirst": "It comes as the UK looks to restrict the products to vet visits.",
-            "content": "It comes as the UK looks to restrict the products to vet visits.",
-            "feed_position": 14,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9042/live/cb27a900-4481-11f1-86c2-d17d046f16a4.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9042/live/cb27a900-4481-11f1-86c2-d17d046f16a4.jpg",
-        "ai_summary": [
-          "Jersey will not ban over-the-counter pet flea treatments",
-          "The UK is considering restricting the products",
-          "The treatments can harm pets and humans",
-          "The decision will impact pet owners and veterinarians",
-          "Alternative treatments are available"
-        ]
-      },
-      {
-        "id": "cluster_7",
-        "coverage": 1,
-        "updated_at": "Sun, 03 May 2026 05:23:06 GMT",
-        "title": "'Mournes could take centuries to recover from wildfires'",
-        "neutral_headline": "Mournes Wildfires Cause Long Term Damage",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cevpy8r2e22o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sun, 03 May 2026 05:23:06 GMT",
-            "title": "'Mournes could take centuries to recover from wildfires'",
-            "standfirst": "One conservation expert says repeated fires in The Mournes are like \"death by a thousand cuts\".",
-            "content": "One conservation expert says repeated fires in The Mournes are like \"death by a thousand cuts\".",
-            "feed_position": 15,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/870e/live/2ee262e0-4573-11f1-b442-c37a8b277356.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/870e/live/2ee262e0-4573-11f1-b442-c37a8b277356.jpg",
-        "ai_summary": [
-          "The Mournes wildfires cause long-term damage",
-          "Repeated fires affect the area's ecosystem",
-          "Conservation experts warn of irreversible damage",
-          "The fires are like \"death by a thousand cuts\"",
-          "The area needs protection and conservation efforts"
-        ]
-      },
-      {
-        "id": "cluster_8",
-        "coverage": 1,
-        "updated_at": "Sun, 03 May 2026 05:00:45 GMT",
-        "title": "My mother is addicted to gaming and emotionally unavailable. What should I do? | Ask Annalisa Barbieri",
-        "neutral_headline": "Mother Addicted To Gaming",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/may/03/elderly-mother-addicted-gaming-shut-off-emotionally-annalisa-barbieri",
-            "published_at": "Sun, 03 May 2026 05:00:45 GMT",
-            "title": "My mother is addicted to gaming and emotionally unavailable. What should I do? | Ask Annalisa Barbieri",
-            "standfirst": "Her actions may be numbing pain she feels in other areas of her life, so you must approach the issue thoughtfullyMy mother is in her 70s and addicted to playing video games such as Tetris, many different versions of solitaire and slot machine gambling games.In the 1990s my parents bought a desktop computer and my mum started to play mostly card games on it for hours. As technology has progressed, she moved to a laptop and now a smartphone. When my sisters and I were younger, we used to joke about her gaming, but we’ve come to realise it has affected our relationships as she has never been emotionally available. When I’m with Mum now, she always has her phone in her hand and will be playing a game even when I’m talking to her. I never feel I have her full attention. She is like this with other family members too and it’s become a bit of a family joke. Continue reading...",
-            "content": "Her actions may be numbing pain she feels in other areas of her life, so you must approach the issue thoughtfullyMy mother is in her 70s and addicted to playing video games such as Tetris, many different versions of solitaire and slot machine gambling games.In the 1990s my parents bought a desktop computer and my mum started to play mostly card games on it for hours. As technology has progressed, she moved to a laptop and now a smartphone. When my sisters and I were younger, we used to joke about her gaming, but we’ve come to realise it has affected our relationships as she has never been emotionally available. When I’m with Mum now, she always has her phone in her hand and will be playing a game even when I’m talking to her. I never feel I have her full attention. She is like this with other family members too and it’s become a bit of a family joke. Continue reading...",
-            "feed_position": 5
-          }
-        ],
-        "ai_summary": [
-          "A mother is addicted to gaming and emotionally unavailable",
-          "The addiction affects her relationships with family",
-          "The mother plays games for hours every day",
-          "The family is concerned about her addiction",
-          "The mother's actions may be numbing pain in other areas"
-        ]
-      },
-      {
-        "id": "cluster_9",
-        "coverage": 1,
-        "updated_at": "Sat, 02 May 2026 23:10:38 GMT",
-        "title": "What death doulas can teach us about dying",
-        "neutral_headline": "Death Doulas Teach About Dying",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/articles/cp9vp0ld1leo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sat, 02 May 2026 23:10:38 GMT",
-            "title": "What death doulas can teach us about dying",
-            "standfirst": "Death doulas or soul midwives have increased in popularity in recent years. What do they do?",
-            "content": "Death doulas or soul midwives have increased in popularity in recent years. What do they do?",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27ff/live/edf82250-4578-11f1-bd52-e755d604ece4.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27ff/live/edf82250-4578-11f1-bd52-e755d604ece4.jpg",
-        "ai_summary": [
-          "Death doulas or soul midwives support the dying",
-          "They provide emotional and spiritual support",
-          "Death doulas are increasingly popular",
-          "They help people prepare for death and dying",
-          "Death doulas offer a unique and valuable service"
-        ]
-      },
-      {
-        "id": "cluster_10",
-        "coverage": 1,
-        "updated_at": "Sat, 02 May 2026 22:13:11 GMT",
-        "title": "Dragonflies in distress: Scientists sound alarm in India's ecological hotspot",
-        "neutral_headline": "Dragonflies In Distress In India",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cx2107kzyreo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sat, 02 May 2026 22:13:11 GMT",
-            "title": "Dragonflies in distress: Scientists sound alarm in India's ecological hotspot",
-            "standfirst": "A new study reveals a decline in dragonfly and damselfly species in India's Western Ghats.",
-            "content": "A new study reveals a decline in dragonfly and damselfly species in India's Western Ghats.",
-            "feed_position": 16,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/977d/live/56375760-4500-11f1-ac10-efe18ee947fe.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/977d/live/56375760-4500-11f1-ac10-efe18ee947fe.jpg",
-        "ai_summary": [
-          "Dragonfly and damselfly species decline in India",
-          "The Western Ghats is an ecological hotspot",
-          "Scientists sound the alarm about the decline",
-          "The decline affects the ecosystem and biodiversity",
-          "Conservation efforts are needed to protect the species"
-        ]
-      },
-      {
-        "id": "cluster_11",
-        "coverage": 1,
-        "updated_at": "Sat, 02 May 2026 20:33:56 GMT",
-        "title": "Abortion pill maker asks US supreme court to halt ban on mail-order access",
-        "neutral_headline": "Abortion pill maker asks US supreme court to halt ban",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/world/2026/may/02/abortion-pill-emergency-appeal-supreme-court",
-            "published_at": "Sat, 02 May 2026 20:33:56 GMT",
-            "title": "Abortion pill maker asks US supreme court to halt ban on mail-order access",
-            "standfirst": "Danco Laboratories files emergency appeal after lower court blocks telemedicine providers from prescribingA manufacturer of the abortion pill mifepristone, Danco Laboratories, filed an emergency appeal to the US supreme court on Saturday asking it to halt a court decision that would require an in‑person exam before the medication can be prescribed.The request came hours after the fifth US circuit court of appeals temporarily reinstated the requirement blocking telemedicine health providers from prescribing to patients by mail in response to a challenge from Louisiana. Continue reading...",
-            "content": "Danco Laboratories files emergency appeal after lower court blocks telemedicine providers from prescribingA manufacturer of the abortion pill mifepristone, Danco Laboratories, filed an emergency appeal to the US supreme court on Saturday asking it to halt a court decision that would require an in‑person exam before the medication can be prescribed.The request came hours after the fifth US circuit court of appeals temporarily reinstated the requirement blocking telemedicine health providers from prescribing to patients by mail in response to a challenge from Louisiana. Continue reading...",
-            "feed_position": 6
-          }
-        ],
-        "ai_summary": [
-          "Danco Laboratories files emergency appeal to US supreme court",
-          "Lower court blocks telemedicine providers from prescribing medication",
-          "Requirement for in-person exam before prescription reinstated",
-          "Appeal filed after fifth US circuit court of appeals decision",
-          "Decision affects mail-order access to abortion medication"
-        ]
-      },
-      {
-        "id": "cluster_12",
-        "coverage": 1,
-        "updated_at": "Sat, 02 May 2026 20:00:35 GMT",
-        "title": "‘The happiest time of life is as you get older’: can positive thinking help you age better?",
-        "neutral_headline": "Positive thinking helps with aging process",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/science/2026/may/03/getting-older-ageing-happiest-time-of-life",
-            "published_at": "Sat, 02 May 2026 20:00:35 GMT",
-            "title": "‘The happiest time of life is as you get older’: can positive thinking help you age better?",
-            "standfirst": "Doing more trips around the sun does not mean inevitable decline, new research suggests – and having a optimistic outlook can even bring improvementsGet our weekend culture and lifestyle emailBy most standards, Prof Velandai Srikanth is at the peak of his career. He is the director of the National Centre for Healthy Ageing; his decades of highly regarded research have led to work being published in leading scientific journals; and he has been awarded funding from some of the world’s biggest scientific funding bodies.He has also turned 60 and says that, as soon as he did, “somebody said ‘so when are you going to retire?’” The comment shocked him – he realised this was the stigma of ageing, and it was coming for him. Continue reading...",
-            "content": "Doing more trips around the sun does not mean inevitable decline, new research suggests – and having a optimistic outlook can even bring improvementsGet our weekend culture and lifestyle emailBy most standards, Prof Velandai Srikanth is at the peak of his career. He is the director of the National Centre for Healthy Ageing; his decades of highly regarded research have led to work being published in leading scientific journals; and he has been awarded funding from some of the world’s biggest scientific funding bodies.He has also turned 60 and says that, as soon as he did, “somebody said ‘so when are you going to retire?’” The comment shocked him – he realised this was the stigma of ageing, and it was coming for him. Continue reading...",
-            "feed_position": 7
-          }
-        ],
-        "ai_summary": [
-          "Research suggests optimistic outlook improves aging",
-          "Having positive thoughts can bring health improvements",
-          "Stigma of aging affects people's perceptions of aging",
-          "Professor Velandai Srikanth researches healthy aging",
-          "Aging does not mean inevitable decline in health"
-        ]
-      },
-      {
-        "id": "cluster_13",
-        "coverage": 1,
-        "updated_at": "Sat, 02 May 2026 10:46:54 GMT",
-        "title": "Sewage and agricultural pollution having 'alarming' impact on UK's underwater forests",
-        "neutral_headline": "Sewage affects UK underwater forests",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cn0pl9j88gno?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sat, 02 May 2026 10:46:54 GMT",
-            "title": "Sewage and agricultural pollution having 'alarming' impact on UK's underwater forests",
-            "standfirst": "Scientists found seagrass meadows affected by sewage had far fewer small invertebrates, like crabs.",
-            "content": "Scientists found seagrass meadows affected by sewage had far fewer small invertebrates, like crabs.",
-            "feed_position": 23,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83e1/live/5a09a100-4540-11f1-be1a-bdd45fc37339.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83e1/live/5a09a100-4540-11f1-be1a-bdd45fc37339.jpg",
-        "ai_summary": [
-          "Sewage and agricultural pollution harm seagrass meadows",
-          "Pollution reduces small invertebrate populations",
-          "Scientists study impact of pollution on underwater ecosystems",
-          "Seagrass meadows provide important marine habitats",
-          "Pollution has alarming impact on UK's marine environment"
-        ]
-      },
-      {
-        "id": "cluster_14",
-        "coverage": 1,
-        "updated_at": "Sat, 02 May 2026 09:00:22 GMT",
-        "title": "The Devil Wears Prada is back – and oh, those fat jokes are wearing thin | Chloe Mac Donnell",
-        "neutral_headline": "The Devil Wears Prada sequel lacks body diversity",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/commentisfree/2026/may/02/devil-wears-prada-2-fat-jokes-body-diversity",
-            "published_at": "Sat, 02 May 2026 09:00:22 GMT",
-            "title": "The Devil Wears Prada is back – and oh, those fat jokes are wearing thin | Chloe Mac Donnell",
-            "standfirst": "There has been much talk of the long-awaited sequel making the most of body diversity. The reality seems to be one plus-size actor and gags worthy of the 00sDuring the two-month endurance test that was The Devil Wears Prada 2’s global press tour, Meryl Streep and Anne Hathaway hinted that the long-awaited sequel to the 2006 hit would champion body diversity. In interviews, both actors explained that while attending Milan fashion week they were surprised by how “alarmingly thin the models were”. As a result, Hathaway made “a beeline to the producers”, Streep said, to ensure that “skeletal” models wouldn’t feature in the film. At one premiere, Hathaway said she “thought the scene would be so much more enjoyable for the audience if we had just a wider range of bodies on display”.Spoiler alert: only 15 minutes into the sequel the first weight gag lands, and it becomes clear that all the chatter around size inclusivity was, in fact, just simple size-washing. That means there’s just enough for the producers to tick the inclusivity box – mainly in the casting of the comedian Caleb Hearon as Miranda Priestly’s second assistant, and a quick glimpse of a couple of plus-size models including Ashley Graham in a catwalk montage – but not enough for any actual credibility. Then there are several wisecracks about weight, although remarkably only one reference to the weight-loss drug Ozempic. Now, that is groundbreaking!Chloe Mac Donnell is the Guardian’s deputy fashion and lifestyle editorDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "content": "There has been much talk of the long-awaited sequel making the most of body diversity. The reality seems to be one plus-size actor and gags worthy of the 00sDuring the two-month endurance test that was The Devil Wears Prada 2’s global press tour, Meryl Streep and Anne Hathaway hinted that the long-awaited sequel to the 2006 hit would champion body diversity. In interviews, both actors explained that while attending Milan fashion week they were surprised by how “alarmingly thin the models were”. As a result, Hathaway made “a beeline to the producers”, Streep said, to ensure that “skeletal” models wouldn’t feature in the film. At one premiere, Hathaway said she “thought the scene would be so much more enjoyable for the audience if we had just a wider range of bodies on display”.Spoiler alert: only 15 minutes into the sequel the first weight gag lands, and it becomes clear that all the chatter around size inclusivity was, in fact, just simple size-washing. That means there’s just enough for the producers to tick the inclusivity box – mainly in the casting of the comedian Caleb Hearon as Miranda Priestly’s second assistant, and a quick glimpse of a couple of plus-size models including Ashley Graham in a catwalk montage – but not enough for any actual credibility. Then there are several wisecracks about weight, although remarkably only one reference to the weight-loss drug Ozempic. Now, that is groundbreaking!Chloe Mac Donnell is the Guardian’s deputy fashion and lifestyle editorDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
-            "feed_position": 8
-          }
-        ],
-        "ai_summary": [
-          "Sequel features few plus-size actors and models",
-          "Film includes weight-related jokes and gags",
-          "Actors discussed importance of body diversity",
-          "Film's portrayal of body diversity is criticized",
-          "Only one plus-size actor has significant role in film"
-        ]
-      },
-      {
-        "id": "cluster_15",
-        "coverage": 1,
-        "updated_at": "Sat, 02 May 2026 07:26:33 GMT",
-        "title": "Thousands of trees creating habitat 'powerhouses'",
-        "neutral_headline": "Trees create habitat powerhouses",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cdxprr5p18wo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sat, 02 May 2026 07:26:33 GMT",
-            "title": "Thousands of trees creating habitat 'powerhouses'",
-            "standfirst": "Friends of the Lake District say the hedgerows will create new habitats and boost biodiversity.",
-            "content": "Friends of the Lake District say the hedgerows will create new habitats and boost biodiversity.",
-            "feed_position": 17,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea99/live/889a4b90-43de-11f1-a133-a9dbeae5d5f3.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea99/live/889a4b90-43de-11f1-a133-a9dbeae5d5f3.jpg",
-        "ai_summary": [
-          "Thousands of trees create new habitats",
-          "Hedgerows boost biodiversity and wildlife populations",
-          "Friends of the Lake District support tree planting",
-          "Tree planting helps create ecosystem balance",
-          "New habitats support various plant and animal species"
-        ]
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Sat, 02 May 2026 06:00:18 GMT",
-        "title": "First malaria drug for babies is approved in ‘major public health milestone’",
-        "neutral_headline": "First malaria drug for babies approved",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment",
-            "published_at": "Sat, 02 May 2026 06:00:18 GMT",
-            "title": "First malaria drug for babies is approved in ‘major public health milestone’",
-            "standfirst": "WHO prequalification of Coartem Baby means newborns can be safely treated rather than using medication for older childrenThe first malaria treatment for babies has been approved by the World Health Organization, opening the door to widespread use around the globe.In parts of Africa, up to 18% of children under six months will be infected with malaria, but there has historically been no safe treatment for the smallest of them. There were 610,000 deaths from malaria in 2024, about three quarters of which were under-fives in Africa. Continue reading...",
-            "content": "WHO prequalification of Coartem Baby means newborns can be safely treated rather than using medication for older childrenThe first malaria treatment for babies has been approved by the World Health Organization, opening the door to widespread use around the globe.In parts of Africa, up to 18% of children under six months will be infected with malaria, but there has historically been no safe treatment for the smallest of them. There were 610,000 deaths from malaria in 2024, about three quarters of which were under-fives in Africa. Continue reading...",
-            "feed_position": 9
-          }
-        ],
-        "ai_summary": [
-          "WHO approves Coartem Baby for malaria treatment",
-          "New drug safely treats malaria in newborns",
-          "Malaria affects many children under six months",
-          "Previous treatments were not safe for young babies",
-          "New drug is major public health milestone"
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Sat, 02 May 2026 01:12:39 GMT",
-        "title": "US appeals court blocks mail-order access to abortion drugs",
-        "neutral_headline": "US appeals court blocks mail-order abortion access",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/world/2026/may/01/us-court-blocks-mail-order-abortion-drugs-mifepristone",
-            "published_at": "Sat, 02 May 2026 01:12:39 GMT",
-            "title": "US appeals court blocks mail-order access to abortion drugs",
-            "standfirst": "Abortion rights supporters say ruling is most sweeping threat to access since supreme court overturned Roe in 2022Access to mifepristone, the FDA-approved medication used to end pregnancy, could become severely limited following a ruling from a US appeals court on Friday, which temporarily blocked the drug from being dispensed through the mail.The decision is for now the most sweeping threat to abortion access since the supreme court rolled back abortion rights in 2022, said Kelly Baden, vice-president at the Guttmacher Institute, an abortion rights advocacy group. Continue reading...",
-            "content": "Abortion rights supporters say ruling is most sweeping threat to access since supreme court overturned Roe in 2022Access to mifepristone, the FDA-approved medication used to end pregnancy, could become severely limited following a ruling from a US appeals court on Friday, which temporarily blocked the drug from being dispensed through the mail.The decision is for now the most sweeping threat to abortion access since the supreme court rolled back abortion rights in 2022, said Kelly Baden, vice-president at the Guttmacher Institute, an abortion rights advocacy group. Continue reading...",
-            "feed_position": 10
-          }
-        ],
-        "ai_summary": [
-          "US appeals court temporarily blocks mail-order access",
-          "Decision limits access to abortion medication",
-          "Ruling is significant threat to abortion access",
-          "Abortion rights supporters criticize court decision",
-          "Decision affects access to FDA-approved medication"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Fri, 01 May 2026 23:01:44 GMT",
-        "title": "Is this the real face of Anne Boleyn?",
-        "neutral_headline": "Is this the real face of Anne Boleyn",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cp9pz53e891o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 01 May 2026 23:01:44 GMT",
-            "title": "Is this the real face of Anne Boleyn?",
-            "standfirst": "A computer science team believes they have discovered a previously unknown sketch of King Henry VIII's second wife - but not everyone is convinced.",
-            "content": "A computer science team believes they have discovered a previously unknown sketch of King Henry VIII's second wife - but not everyone is convinced.",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15ee/live/a5e63610-4603-11f1-ac78-2112837ce2aa.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15ee/live/a5e63610-4603-11f1-ac78-2112837ce2aa.jpg",
-        "ai_summary": [
-          "Computer science team discovers unknown sketch",
-          "Sketch may be previously unknown portrait of Anne Boleyn",
-          "Team uses computer science to analyze sketch",
-          "Not all experts are convinced of sketch's authenticity",
-          "Sketch may provide new insight into Anne Boleyn's appearance"
+          "People are living with sickness or disability",
+          "The decline is not due to the pandemic",
+          "Mental health is a major area of concern",
+          "The findings have implications for public services"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-05-03T19:54:15.814Z",
+    "updated_at": "2026-05-04T20:14:44.473Z",
     "clusters": []
   }
 }
