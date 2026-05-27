@@ -1,6 +1,181 @@
 {
-  "updated_at": "2026-05-26T00:13:21.480Z",
+  "updated_at": "2026-05-27T00:15:53.026Z",
   "articles": [
+    {
+      "id": "e8ae8dd88f9e",
+      "title": "Multi-ancestry polygenic risk scores for the prediction of type 2 diabetes and complications in diverse ancestries.",
+      "journal": "Lancet Diabetes Endocrinol",
+      "score": "4/7",
+      "tags": [
+        "Family Medicine (FM)/General Practice (GP)",
+        "Genetics"
+      ],
+      "evidenceAlertsUrl": "https://plus.mcmaster.ca/EvidenceAlerts/LFE/Article/ce4e8711-d28c-49a6-8652-021a3edd4e7e/51435683/119558",
+      "abstract": "Polygenic risk scores (PRSs) improve prediction of the development of type 2 diabetes over the use of clinical risk factors alone; however, they perform poorly in populations of non-European ancestry, limiting their global clinical utility. We aimed to deliver comprehensive and rigorously tested multi-ancestry PRSs for prediction in type 2 diabetes. We conducted meta-analyses using data from type 2 diabetes genome-wide association studies (GWAS) across cohorts from five major global ancestries: European, African or African American, Admixed American, South Asian, and East Asian. We used summary statistics from the GWAS to construct single-ancestry PRSs (using the continuous-shrinkage PRS-CS method) and multi-ancestry PRSs (using the PRS-CSx method), and constructed ancestry-specific linkage disequilibrium panels to model pairwise correlations between single-nucleotide polymorphisms in GWAS during PRS construction. Models were validated for association with type 2 diabetes in at least four independent cohorts per ancestry. The effect sizes of PRSs were estimated as the odds ratio (OR) per SD of the PRS, and ORs for individuals at the 90th, 95th, and 97·5th PRS percentiles were compared with the IQR as a reference. We also tested our PRS models for prediction of diabetes incidence with or without additional clinical factors, as well as microvascular complications and comorbidities. Our analysis used data from 409 959 individuals with type 2 diabetes and 1 983 345 controls: respectively, 359 819 and 1 825 729 indivduals were included in the GWAS dataset, with 10 992 and 31 792 individuals in the training dataset and 39 148 and 125 824 individuals in the validation dataset. The best predictive performance for the single-ancestry PRSs was in European (incremental AUC 0·07-0·14) and East Asian (0·02-0·16) ancestries, whereas prediction was poorer for African or African American (0·02-0·03), Admixed American (0·02-0·04), and South Asian (0·02-0·04) ancestries, correlating with sample sizes in the GWAS. Compared with single-ancestry PRSs, our multi-ancestry PRSs showed higher effect sizes and smaller 95% CIs across all ancestries: OR per SD 1·73 (95% CI 1·67-1·80) in African or African American, 2·82 (2·67-2·97) in Admixed American, 2·45 (2·36-2·54) in East Asian, 2·36 (2·32-2·41) in European, and 2·23 (2·05-2·42) in South Asian ancestries. Individuals in the 97·5th PRS percentile had a 3-7 times increased risk of type 2 diabetes compared with those in the IQR (OR 3·43 [95% CI 2·80-4·21] in African or African American, 7·47 [5·64-9·89] in Admixed American, 6·62 [5·58-7·85] in East Asian, 6·25 [5·72-6·82] in European, and 4·50 [2·70-7·53] in South Asian ancestries). These PRSs were also associated with earlier onset of type 2 diabetes, higher risk of developing microvascular complications, and provide additional predictive value beyond clinical factors. In individuals with type 2 diabetes, the association between multi-ancestry PRSs and risk of microvascular complications and comorbidity was studied in populations of African, Admixed American, and European ancestries and was significant in all three ancestry groups for diabetic retinopathy (ORs per SD 1·28-1·57), diabetic nephropathy (1·25-1·58), proliferative diabetic retinopathy (1·39-2·08), and end-stage diabetic nephropathy (1·44-1·87); PRS was associated with coronary artery disease in the Admixed American ancestry group only (1·16 [95% CI 1·08-1·25]). These validated, publicly available PRSs can improve risk stratification for type 2 diabetes onset and complications across diverse ancestries, supporting their further evaluation in clinical settings. The National Human Genome Research Institute of the US National Institutes of Health.",
+      "structuredAbstract": [
+        {
+          "label": "BACKGROUND",
+          "text": "Polygenic risk scores (PRSs) improve prediction of the development of type 2 diabetes over the use of clinical risk factors alone; however, they perform poorly in populations of non-European ancestry, limiting their global clinical utility. We aimed to deliver comprehensive and rigorously tested multi-ancestry PRSs for prediction in type 2 diabetes."
+        },
+        {
+          "label": "METHODS",
+          "text": "We conducted meta-analyses using data from type 2 diabetes genome-wide association studies (GWAS) across cohorts from five major global ancestries: European, African or African American, Admixed American, South Asian, and East Asian. We used summary statistics from the GWAS to construct single-ancestry PRSs (using the continuous-shrinkage PRS-CS method) and multi-ancestry PRSs (using the PRS-CSx method), and constructed ancestry-specific linkage disequilibrium panels to model pairwise correlations between single-nucleotide polymorphisms in GWAS during PRS construction. Models were validated for association with type 2 diabetes in at least four independent cohorts per ancestry. The effect sizes of PRSs were estimated as the odds ratio (OR) per SD of the PRS, and ORs for individuals at the 90th, 95th, and 97·5th PRS percentiles were compared with the IQR as a reference. We also tested our PRS models for prediction of diabetes incidence with or without additional clinical factors, as well as microvascular complications and comorbidities."
+        },
+        {
+          "label": "FINDINGS",
+          "text": "Our analysis used data from 409 959 individuals with type 2 diabetes and 1 983 345 controls: respectively, 359 819 and 1 825 729 indivduals were included in the GWAS dataset, with 10 992 and 31 792 individuals in the training dataset and 39 148 and 125 824 individuals in the validation dataset. The best predictive performance for the single-ancestry PRSs was in European (incremental AUC 0·07-0·14) and East Asian (0·02-0·16) ancestries, whereas prediction was poorer for African or African American (0·02-0·03), Admixed American (0·02-0·04), and South Asian (0·02-0·04) ancestries, correlating with sample sizes in the GWAS. Compared with single-ancestry PRSs, our multi-ancestry PRSs showed higher effect sizes and smaller 95% CIs across all ancestries: OR per SD 1·73 (95% CI 1·67-1·80) in African or African American, 2·82 (2·67-2·97) in Admixed American, 2·45 (2·36-2·54) in East Asian, 2·36 (2·32-2·41) in European, and 2·23 (2·05-2·42) in South Asian ancestries. Individuals in the 97·5th PRS percentile had a 3-7 times increased risk of type 2 diabetes compared with those in the IQR (OR 3·43 [95% CI 2·80-4·21] in African or African American, 7·47 [5·64-9·89] in Admixed American, 6·62 [5·58-7·85] in East Asian, 6·25 [5·72-6·82] in European, and 4·50 [2·70-7·53] in South Asian ancestries). These PRSs were also associated with earlier onset of type 2 diabetes, higher risk of developing microvascular complications, and provide additional predictive value beyond clinical factors. In individuals with type 2 diabetes, the association between multi-ancestry PRSs and risk of microvascular complications and comorbidity was studied in populations of African, Admixed American, and European ancestries and was significant in all three ancestry groups for diabetic retinopathy (ORs per SD 1·28-1·57), diabetic nephropathy (1·25-1·58), proliferative diabetic retinopathy (1·39-2·08), and end-stage diabetic nephropathy (1·44-1·87); PRS was associated with coronary artery disease in the Admixed American ancestry group only (1·16 [95% CI 1·08-1·25])."
+        },
+        {
+          "label": "INTERPRETATION",
+          "text": "These validated, publicly available PRSs can improve risk stratification for type 2 diabetes onset and complications across diverse ancestries, supporting their further evaluation in clinical settings."
+        },
+        {
+          "label": "FUNDING",
+          "text": "The National Human Genome Research Institute of the US National Institutes of Health."
+        }
+      ],
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42061389/",
+      "pubDate": "2026 Apr 27",
+      "doi": "10.1016/S2213-8587(25)00405-X",
+      "dateReceived": "2026-05-27T00:15:40.857Z",
+      "isNew": true,
+      "summary": "Multi-."
+    },
+    {
+      "id": "e510288248f2",
+      "title": "Benzodiazepine or Z-hypnotic use during pregnancy and risk of psychiatric disorders in children: population based cohort study.",
+      "journal": "BMJ",
+      "score": "6/7",
+      "tags": [
+        "Obstetrics"
+      ],
+      "evidenceAlertsUrl": "https://plus.mcmaster.ca/EvidenceAlerts/LFE/Article/ce4e8711-d28c-49a6-8652-021a3edd4e7e/51435683/119473",
+      "abstract": "To examine the association between prenatal exposure to benzodiazepines or Z-hypnotics and a spectrum of psychiatric disorders in children. Population based cohort study with sibling controlled analysis. National Health Information Database of South Korea, 2009-23. All liveborn children between 2010 and 2022 were followed until 2023. Pregnancies exposed to benzodiazepines or Z-hypnotics were compared with unexposed pregnancies and with pregnancies in women with previous use of these drugs (past users). Overall and 12 specific psychiatric disorders in offspring. Propensity score overlap weighting was applied to balance covariates, and hazard ratios with 95% confidence intervals were estimated using Cox proportional hazards models. Sibling controlled analyses were conducted to account for shared familial factors. Among 3 809 949 liveborn children, 94 482 (2.5%) were exposed to benzodiazepines or Z-hypnotics during pregnancy, 3 715 467 were unexposed, and 147 307 were born to past users. During the follow-up period, a total of 10 060, 311 997, and 15 645 events occurred in the exposed, unexposed, and past user groups, respectively. Prenatal exposure was associated with a higher risk of psychiatric disorders compared with unexposed pregnancies and past users; however, this association was attenuated in the sibling controlled analysis (hazard ratio 0.99, 95% confidence interval 0.94 to 1.04). No increased risk was observed for individual psychiatric disorders. In subgroup analyses, modestly elevated hazard ratios were observed for exposure during the second half of pregnancy (sibling controlled hazard ratios: 1.27 (0.95 to 1.71) for benzodiazepine; 1.81 (0.57 to 5.74) for Z-hypnotic), during both the first and second half of pregnancy (sibling controlled hazard ratios: 1.35 (0.93 to 1.96) for benzodiazepine; 1.44 (0.93 to 2.21) for Z-hypnotic), and for 30 or more days of Z-hypnotic exposure (sibling controlled hazard ratio 1.31, 0.96 to 1.78), although the confidence intervals in sibling analyses were wide and included the null. In this large population based cohort, prenatal exposure to benzodiazepines or Z-hypnotics was not associated with an increased risk of psychiatric disorders in offspring after familial factors were accounted for. However, given the modest elevations in point estimates observed in certain subgroups-particularly with benzodiazepine and Z-hypnotic exposure during the latter half of pregnancy, as well as with exposure in both early and late pregnancy, and with longer durations of Z-hypnotic use-the potential for a slightly increased risk in these specific contexts could not be ruled out.",
+      "structuredAbstract": [
+        {
+          "label": "OBJECTIVE",
+          "text": "To examine the association between prenatal exposure to benzodiazepines or Z-hypnotics and a spectrum of psychiatric disorders in children."
+        },
+        {
+          "label": "DESIGN",
+          "text": "Population based cohort study with sibling controlled analysis."
+        },
+        {
+          "label": "SETTING",
+          "text": "National Health Information Database of South Korea, 2009-23."
+        },
+        {
+          "label": "PARTICIPANTS",
+          "text": "All liveborn children between 2010 and 2022 were followed until 2023. Pregnancies exposed to benzodiazepines or Z-hypnotics were compared with unexposed pregnancies and with pregnancies in women with previous use of these drugs (past users)."
+        },
+        {
+          "label": "MAIN OUTCOME MEASURES",
+          "text": "Overall and 12 specific psychiatric disorders in offspring. Propensity score overlap weighting was applied to balance covariates, and hazard ratios with 95% confidence intervals were estimated using Cox proportional hazards models. Sibling controlled analyses were conducted to account for shared familial factors."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Among 3 809 949 liveborn children, 94 482 (2.5%) were exposed to benzodiazepines or Z-hypnotics during pregnancy, 3 715 467 were unexposed, and 147 307 were born to past users. During the follow-up period, a total of 10 060, 311 997, and 15 645 events occurred in the exposed, unexposed, and past user groups, respectively. Prenatal exposure was associated with a higher risk of psychiatric disorders compared with unexposed pregnancies and past users; however, this association was attenuated in the sibling controlled analysis (hazard ratio 0.99, 95% confidence interval 0.94 to 1.04). No increased risk was observed for individual psychiatric disorders. In subgroup analyses, modestly elevated hazard ratios were observed for exposure during the second half of pregnancy (sibling controlled hazard ratios: 1.27 (0.95 to 1.71) for benzodiazepine; 1.81 (0.57 to 5.74) for Z-hypnotic), during both the first and second half of pregnancy (sibling controlled hazard ratios: 1.35 (0.93 to 1.96) for benzodiazepine; 1.44 (0.93 to 2.21) for Z-hypnotic), and for 30 or more days of Z-hypnotic exposure (sibling controlled hazard ratio 1.31, 0.96 to 1.78), although the confidence intervals in sibling analyses were wide and included the null."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "In this large population based cohort, prenatal exposure to benzodiazepines or Z-hypnotics was not associated with an increased risk of psychiatric disorders in offspring after familial factors were accounted for. However, given the modest elevations in point estimates observed in certain subgroups-particularly with benzodiazepine and Z-hypnotic exposure during the latter half of pregnancy, as well as with exposure in both early and late pregnancy, and with longer durations of Z-hypnotic use-the potential for a slightly increased risk in these specific contexts could not be ruled out."
+        }
+      ],
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42055584/",
+      "pubDate": "2026 Apr 29",
+      "doi": "10.1136/bmj-2025-088671",
+      "dateReceived": "2026-05-27T00:15:40.857Z",
+      "isNew": true,
+      "summary": "Prenatal exposure to."
+    },
+    {
+      "id": "d65c8511fc9a",
+      "title": "Endovascular thrombectomy for patients with large-core ischaemic stroke presenting up to 24 h after onset (ATLAS): a systematic review and individual patient data meta-analysis with central imaging adjudication.",
+      "journal": "Lancet",
+      "score": "6/7",
+      "tags": [
+        "Emergency Medicine",
+        "Neurology"
+      ],
+      "evidenceAlertsUrl": "https://plus.mcmaster.ca/EvidenceAlerts/LFE/Article/ce4e8711-d28c-49a6-8652-021a3edd4e7e/51324203/119546",
+      "dateReceived": "2026-05-27T00:15:40.857Z",
+      "isNew": true
+    },
+    {
+      "id": "3e782928196a",
+      "title": "Crisugabalin Combined with Acetyl-Levo-Carnitine for Diabetic Peripheral Neuropathic Pain: A Phase 2 Randomized Controlled Trial.",
+      "journal": "J Pain Res",
+      "score": "6/7",
+      "tags": [
+        "Family Medicine (FM)/General Practice (GP)",
+        "Special Interest - Pain -- Physician"
+      ],
+      "evidenceAlertsUrl": "https://plus.mcmaster.ca/EvidenceAlerts/LFE/Article/ce4e8711-d28c-49a6-8652-021a3edd4e7e/51324203/119510",
+      "abstract": "To investigate the efficacy and safety of Crisugabalin combined with Acetyl-Levo-Carnitine (ALC) for treating Diabetic Peripheral Neuropathic Pain (DPNP) in Chinese adults. This 16-week, multicenter, randomized, positive-controlled phase 2 trial was conducted from June 21, 2023, through February 22, 2024, employing a non-inferiority design with the non-inferiority limit set at 0.3 for the difference in Average Daily Pain Score (ADPS) change. A total of 137 Chinese adults with DPNP for at least 6 months were randomized to receive Crisugabalin with ALC or Alpha Lipoic Acid (ALA) with ALC. The primary endpoint was the change in ADPS from baseline at week 12. Secondary outcomes included sleep interference and quality of life measures. The Crisugabalin group showed a statistically significant reduction in ADPS compared to the ALA group (<0.0001). Specifically, the least square mean (LSM) change from baseline in the Crisugabalin group was -4.0 (95% CI: -4.405, -3.620), while in the ALA group it was -2.1 (95% CI: -2.505, -1.706). Secondary outcomes also demonstrated significant improvements in the Crisugabalin group. The treatment in the Crisugabalin group was well-tolerated, with adverse events primarily mild to moderate, and no serious related adverse events were reported. Crisugabalin combined with ALC is a promising therapeutic option for DPNP, offering pain relief, improved sleep, and enhanced quality of life. This combination therapy may be more effective than standard ALA treatment. (Trial registration: ClinicalTrials.gov identifier, NCT06122012).",
+      "structuredAbstract": [
+        {
+          "label": "PURPOSE",
+          "text": "To investigate the efficacy and safety of Crisugabalin combined with Acetyl-Levo-Carnitine (ALC) for treating Diabetic Peripheral Neuropathic Pain (DPNP) in Chinese adults."
+        },
+        {
+          "label": "METHODS",
+          "text": "This 16-week, multicenter, randomized, positive-controlled phase 2 trial was conducted from June 21, 2023, through February 22, 2024, employing a non-inferiority design with the non-inferiority limit set at 0.3 for the difference in Average Daily Pain Score (ADPS) change. A total of 137 Chinese adults with DPNP for at least 6 months were randomized to receive Crisugabalin with ALC or Alpha Lipoic Acid (ALA) with ALC. The primary endpoint was the change in ADPS from baseline at week 12. Secondary outcomes included sleep interference and quality of life measures."
+        },
+        {
+          "label": "RESULTS",
+          "text": "The Crisugabalin group showed a statistically significant reduction in ADPS compared to the ALA group (<0.0001). Specifically, the least square mean (LSM) change from baseline in the Crisugabalin group was -4.0 (95% CI: -4.405, -3.620), while in the ALA group it was -2.1 (95% CI: -2.505, -1.706). Secondary outcomes also demonstrated significant improvements in the Crisugabalin group. The treatment in the Crisugabalin group was well-tolerated, with adverse events primarily mild to moderate, and no serious related adverse events were reported."
+        },
+        {
+          "label": "CONCLUSION",
+          "text": "Crisugabalin combined with ALC is a promising therapeutic option for DPNP, offering pain relief, improved sleep, and enhanced quality of life. This combination therapy may be more effective than standard ALA treatment. (Trial registration: ClinicalTrials.gov identifier, NCT06122012)."
+        }
+      ],
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42039234/",
+      "pubDate": "2026",
+      "doi": "10.2147/JPR.S588472",
+      "dateReceived": "2026-05-27T00:15:40.857Z",
+      "isNew": true
+    },
+    {
+      "id": "c9493b799515",
+      "title": "Sitagliptin, Metformin and Glimepiride Fixed-Dose Combination Compared to Co-Administration of Metformin and High-Dose Glimepiride in Indian Patients With Type 2 Diabetes: A Randomised, Double-Blind, Double-Dummy, Phase 3 Clinical Study.",
+      "journal": "Diabetes Obes Metab",
+      "score": "4/7",
+      "tags": [
+        "Endocrine",
+        "Family Medicine (FM)/General Practice (GP)"
+      ],
+      "evidenceAlertsUrl": "https://plus.mcmaster.ca/EvidenceAlerts/LFE/Article/ce4e8711-d28c-49a6-8652-021a3edd4e7e/51435683/119562",
+      "abstract": "This study assessed the efficacy and safety of a triple fixed-dose combination (FDC) of sitagliptin, metformin, and glimepiride versus co-administered metformin and glimepiride in Indian patients with uncontrolled Type 2 diabetes (T2D). In this Phase 3, randomised, double-blind, double-dummy study, adult patients with T2D and glycated haemoglobin (HbA) of 8%-11%, despite treatment with metformin and glimepiride, were randomised 1:1 to triple FDC of sitagliptin 50 mg, metformin 1000 mg and glimepiride 1 mg (SITA + MET + GLIM group) or metformin 1000 mg and glimepiride 2 mg (Co-administration group) for 16 weeks. Patients assigned to the SITA + MET + GLIM group could continue treatment for a 12-week open-label period. The primary endpoint was the change in HbA from baseline to Week 16. Overall, 190 patients were randomised to the SITA + MET + GLIM group and 202 to the Co-administration group. The least squares mean (standard error) change from baseline in HbA at Week 16 was -1.79 (0.07%) in the SITA + MET + GLIM group and -1.27 (0.06%) in the co-administration group (estimated treatment difference -0.51; 95% confidence interval [CI] -0.69 to -0.33; p < 0.0001). The proportion of patients with HbA below 7% at Week 16 was 32.1% in the SITA + MET + GLIM group and 12.6% in the Co-administration group (p < 0.0001). Adverse events occurred in 25 patients (13.2%) in the SITA + MET + GLIM group and 30 patients (14.9%) in the Co-administration group. The triple FDC was superior to co-administered metformin and high-dose glimepiride for achieving glycaemic control and was well tolerated in Indian patients with T2D. Clinical Trials Registry-India identifier: CTRI/2021/11/038169 (registered on 22 November 2021); URL: https://www.ctri.nic.in/Clinicaltrials/pmaindet2.php?EncHid=NjI1Mjk=&Enc=&userName=.",
+      "structuredAbstract": [
+        {
+          "label": "AIMS",
+          "text": "This study assessed the efficacy and safety of a triple fixed-dose combination (FDC) of sitagliptin, metformin, and glimepiride versus co-administered metformin and glimepiride in Indian patients with uncontrolled Type 2 diabetes (T2D)."
+        },
+        {
+          "label": "MATERIALS AND METHODS",
+          "text": "In this Phase 3, randomised, double-blind, double-dummy study, adult patients with T2D and glycated haemoglobin (HbA) of 8%-11%, despite treatment with metformin and glimepiride, were randomised 1:1 to triple FDC of sitagliptin 50 mg, metformin 1000 mg and glimepiride 1 mg (SITA + MET + GLIM group) or metformin 1000 mg and glimepiride 2 mg (Co-administration group) for 16 weeks. Patients assigned to the SITA + MET + GLIM group could continue treatment for a 12-week open-label period. The primary endpoint was the change in HbA from baseline to Week 16."
+        },
+        {
+          "label": "RESULTS",
+          "text": "Overall, 190 patients were randomised to the SITA + MET + GLIM group and 202 to the Co-administration group. The least squares mean (standard error) change from baseline in HbA at Week 16 was -1.79 (0.07%) in the SITA + MET + GLIM group and -1.27 (0.06%) in the co-administration group (estimated treatment difference -0.51; 95% confidence interval [CI] -0.69 to -0.33; p < 0.0001). The proportion of patients with HbA below 7% at Week 16 was 32.1% in the SITA + MET + GLIM group and 12.6% in the Co-administration group (p < 0.0001). Adverse events occurred in 25 patients (13.2%) in the SITA + MET + GLIM group and 30 patients (14.9%) in the Co-administration group."
+        },
+        {
+          "label": "CONCLUSIONS",
+          "text": "The triple FDC was superior to co-administered metformin and high-dose glimepiride for achieving glycaemic control and was well tolerated in Indian patients with T2D."
+        },
+        {
+          "label": "TRIAL REGISTRATION",
+          "text": "Clinical Trials Registry-India identifier: CTRI/2021/11/038169 (registered on 22 November 2021); URL: https://www.ctri.nic.in/Clinicaltrials/pmaindet2.php?EncHid=NjI1Mjk=&Enc=&userName=."
+        }
+      ],
+      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42070788/",
+      "pubDate": "2026 May 03",
+      "doi": "10.1111/dom.70778",
+      "dateReceived": "2026-05-27T00:15:40.856Z",
+      "isNew": true,
+      "summary": "The triple."
+    },
     {
       "id": "38d7ef634a1c",
       "title": "Effectiveness and Safety of Early Rhythm Control in Patients With Atrial Fibrillation and Chronic Kidney Disease.",
@@ -39,7 +214,7 @@
       "pubDate": "2026 May 13",
       "doi": "10.1016/j.jacc.2026.03.087",
       "dateReceived": "2026-05-26T00:13:07.453Z",
-      "isNew": true,
+      "isNew": false,
       "summary": "Early rhythm control effectively."
     },
     {
@@ -109,7 +284,7 @@
       "pubDate": "2026 May 13",
       "doi": "10.1002/14651858.CD015986",
       "dateReceived": "2026-05-26T00:13:07.452Z",
-      "isNew": true,
+      "isNew": false,
       "summary": "Pharmac."
     },
     {
@@ -1592,125 +1767,6 @@
       "dateReceived": "2026-05-21T00:13:59.051Z",
       "isNew": false,
       "summary": "Telit."
-    },
-    {
-      "id": "7e2ac2c23169",
-      "title": "Efficacy and safety of co-administered cagrilintide and semaglutide versus semaglutide alone in adults with overweight or obesity with or without type 2 diabetes in Japan and Taiwan (REDEFINE 5): a multicentre, randomised, active-controlled, phase 3a trial.",
-      "journal": "Lancet Diabetes Endocrinol",
-      "score": "5/7",
-      "tags": [
-        "Endocrine",
-        "Family Medicine (FM)/General Practice (GP)",
-        "Special Interest - Obesity -- Physician"
-      ],
-      "evidenceAlertsUrl": "https://plus.mcmaster.ca/EvidenceAlerts/LFE/Article/ce4e8711-d28c-49a6-8652-021a3edd4e7e/51247304/119450",
-      "abstract": "Worldwide, approximately half of the general population is actively attempting to lose weight. However, weight loss is typically followed by substantial weight regain, often leading to repeated cycles of loss and gain of bodyweight. Weight cycling has been suggested to be metabolically harmful, in that it could lead to greater rebounds in fat mass and smaller regains in lean (muscle) mass, thereby promoting sarcopenia, lowering metabolic rate, and exacerbating obesity and its metabolic complications (eg, glucose intolerance). In this Personal view, we critically evaluate evidence from studies in humans and animals investigating whether weight cycling has adverse effects on bodyweight, body composition, energy metabolism, and metabolic function. We also briefly discuss potential strategies to mitigate weight regain and its consequences. Overall, the current evidence does not support a causal link between weight cycling per se and clinical harm in people with obesity. Most of the adverse effects reported are likely circumstantial, possibly because of ageing, unintentional weight loss, reverse causality, earlier onset of obesity, repeated obesogenic exposures, or longer cumulative exposure to obesity. Available evidence suggests that the benefits of intermittent weight reduction-such as improved metabolic markers, cardiovascular health, and quality of life-outweigh the potential risks associated with weight fluctuation.",
-      "structuredAbstract": null,
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42134367/",
-      "pubDate": "2026 May 14",
-      "doi": "10.1016/S2213-8587(26)00037-9",
-      "dateReceived": "2026-05-20T00:14:27.715Z",
-      "isNew": false
-    },
-    {
-      "id": "e1a771929f0b",
-      "title": "Impact of Different Antihypertensive Drug Classes on Incident Dementia in Older Adults: A Systematic Review and Meta-Analysis.",
-      "journal": "J Am Med Dir Assoc",
-      "score": "5/7",
-      "tags": [
-        "Family Medicine (FM)/General Practice (GP)",
-        "Geriatrics"
-      ],
-      "evidenceAlertsUrl": "https://plus.mcmaster.ca/EvidenceAlerts/LFE/Article/ce4e8711-d28c-49a6-8652-021a3edd4e7e/51230210/119459",
-      "abstract": "To evaluate the association between different classes of antihypertensive medications (AHMs) and dementia risk in older adults through systematic review and meta-analysis. Systematic review and exploratory network meta-analysis (NMA) following PRISMA-MOOSE guidelines. For traditional meta-analysis, random-effects models (DerSimonian-Laird method) were used for dichotomous outcomes, and fixed-effects models for continuous outcomes. Exploratory NMA employed a frequentist fixed-effects model (Stata 18 network package), as the sparse network precluded Bayesian estimation. Four multicenter randomized controlled trials [Syst-Eur, Perindopril Protection Against Recurrent Stroke Study (PROGRESS), SCOPE, HYVET-COG] comprising 16,823 hypertensive older adults without dementia at baseline, with follow-up durations of 2.0-3.9 years. Literature searches were conducted in PubMed, Cochrane Library, Web of Science, and Embase from inception to December 31, 2025. Risk of bias was assessed using Cochrane RoB 2, and evidence certainty was evaluated using GRADE. Random-effects models pooled dichotomous outcomes [odds ratios (OR)] and fixed-effects models analyzed continuous outcomes [standardized mean differences (SMDs)]. Antihypertensive treatment significantly improved cognitive function scores (SMD, 0.06; 95% CI, 0.03-0.09; P < .001, GRADE moderate certainty) and showed a nonsignificant trend toward reduced dementia incidence (OR, 0.89; 95% CI, 0.76-1.05; P = .172, GRADE low certainty). Exploratory NMA suggested calcium channel blockers ranked highest for dementia prevention [surface under the cumulative ranking curve (SUCRA) = 94.7%], while diuretic ± angiotensin-converting enzyme inhibitor combinations ranked highest for cognitive improvement (SUCRA = 95.3%); however, rankings were highly uncertain due to network sparsity (one study per node). Antihypertensive therapy significantly improves cognitive function with moderate certainty evidence, supporting its use for cognitive protection in older adults with hypertension. The trend toward dementia risk reduction, although uncertain, suggests potential long-term benefits warranting further investigation. These findings support optimizing antihypertensive regimens for dementia prevention in high-risk populations, with drug class selection informed by specific treatment goals (dementia prevention vs cognitive maintenance). Current evidence is limited by few studies and short follow-up; large-scale randomized controlled trials with dementia as a primary endpoint, head-to-head drug class comparisons, and inclusion of long-term care residents-who bear the highest disease burden yet are underrepresented in trials-are urgently needed to inform precision prescribing guidelines.",
-      "structuredAbstract": [
-        {
-          "label": "OBJECTIVES",
-          "text": "To evaluate the association between different classes of antihypertensive medications (AHMs) and dementia risk in older adults through systematic review and meta-analysis."
-        },
-        {
-          "label": "DESIGN",
-          "text": "Systematic review and exploratory network meta-analysis (NMA) following PRISMA-MOOSE guidelines. For traditional meta-analysis, random-effects models (DerSimonian-Laird method) were used for dichotomous outcomes, and fixed-effects models for continuous outcomes. Exploratory NMA employed a frequentist fixed-effects model (Stata 18 network package), as the sparse network precluded Bayesian estimation."
-        },
-        {
-          "label": "SETTING AND PARTICIPANTS",
-          "text": "Four multicenter randomized controlled trials [Syst-Eur, Perindopril Protection Against Recurrent Stroke Study (PROGRESS), SCOPE, HYVET-COG] comprising 16,823 hypertensive older adults without dementia at baseline, with follow-up durations of 2.0-3.9 years."
-        },
-        {
-          "label": "METHODS",
-          "text": "Literature searches were conducted in PubMed, Cochrane Library, Web of Science, and Embase from inception to December 31, 2025. Risk of bias was assessed using Cochrane RoB 2, and evidence certainty was evaluated using GRADE. Random-effects models pooled dichotomous outcomes [odds ratios (OR)] and fixed-effects models analyzed continuous outcomes [standardized mean differences (SMDs)]."
-        },
-        {
-          "label": "RESULTS",
-          "text": "Antihypertensive treatment significantly improved cognitive function scores (SMD, 0.06; 95% CI, 0.03-0.09; P < .001, GRADE moderate certainty) and showed a nonsignificant trend toward reduced dementia incidence (OR, 0.89; 95% CI, 0.76-1.05; P = .172, GRADE low certainty). Exploratory NMA suggested calcium channel blockers ranked highest for dementia prevention [surface under the cumulative ranking curve (SUCRA) = 94.7%], while diuretic ± angiotensin-converting enzyme inhibitor combinations ranked highest for cognitive improvement (SUCRA = 95.3%); however, rankings were highly uncertain due to network sparsity (one study per node)."
-        },
-        {
-          "label": "CONCLUSIONS AND IMPLICATIONS",
-          "text": "Antihypertensive therapy significantly improves cognitive function with moderate certainty evidence, supporting its use for cognitive protection in older adults with hypertension. The trend toward dementia risk reduction, although uncertain, suggests potential long-term benefits warranting further investigation."
-        },
-        {
-          "label": "CLINICAL IMPLICATIONS",
-          "text": "These findings support optimizing antihypertensive regimens for dementia prevention in high-risk populations, with drug class selection informed by specific treatment goals (dementia prevention vs cognitive maintenance)."
-        },
-        {
-          "label": "POLICY AND RESEARCH IMPLICATIONS",
-          "text": "Current evidence is limited by few studies and short follow-up; large-scale randomized controlled trials with dementia as a primary endpoint, head-to-head drug class comparisons, and inclusion of long-term care residents-who bear the highest disease burden yet are underrepresented in trials-are urgently needed to inform precision prescribing guidelines."
-        }
-      ],
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/41962914/",
-      "pubDate": "2026 Apr 21",
-      "doi": "10.1016/j.jamda.2026.106185",
-      "dateReceived": "2026-05-19T00:14:28.940Z",
-      "isNew": false
-    },
-    {
-      "id": "d65c8511fc9a",
-      "title": "Endovascular thrombectomy for patients with large-core ischaemic stroke presenting up to 24 h after onset (ATLAS): a systematic review and individual patient data meta-analysis with central imaging adjudication.",
-      "journal": "Lancet",
-      "score": "6/7",
-      "tags": [
-        "Emergency Medicine",
-        "Neurology"
-      ],
-      "evidenceAlertsUrl": "https://plus.mcmaster.ca/EvidenceAlerts/LFE/Article/ce4e8711-d28c-49a6-8652-021a3edd4e7e/51324203/119546",
-      "dateReceived": "2026-05-19T00:14:28.939Z",
-      "isNew": false
-    },
-    {
-      "id": "3e782928196a",
-      "title": "Crisugabalin Combined with Acetyl-Levo-Carnitine for Diabetic Peripheral Neuropathic Pain: A Phase 2 Randomized Controlled Trial.",
-      "journal": "J Pain Res",
-      "score": "6/7",
-      "tags": [
-        "Family Medicine (FM)/General Practice (GP)",
-        "Special Interest - Pain -- Physician"
-      ],
-      "evidenceAlertsUrl": "https://plus.mcmaster.ca/EvidenceAlerts/LFE/Article/ce4e8711-d28c-49a6-8652-021a3edd4e7e/51324203/119510",
-      "abstract": "To investigate the efficacy and safety of Crisugabalin combined with Acetyl-Levo-Carnitine (ALC) for treating Diabetic Peripheral Neuropathic Pain (DPNP) in Chinese adults. This 16-week, multicenter, randomized, positive-controlled phase 2 trial was conducted from June 21, 2023, through February 22, 2024, employing a non-inferiority design with the non-inferiority limit set at 0.3 for the difference in Average Daily Pain Score (ADPS) change. A total of 137 Chinese adults with DPNP for at least 6 months were randomized to receive Crisugabalin with ALC or Alpha Lipoic Acid (ALA) with ALC. The primary endpoint was the change in ADPS from baseline at week 12. Secondary outcomes included sleep interference and quality of life measures. The Crisugabalin group showed a statistically significant reduction in ADPS compared to the ALA group (<0.0001). Specifically, the least square mean (LSM) change from baseline in the Crisugabalin group was -4.0 (95% CI: -4.405, -3.620), while in the ALA group it was -2.1 (95% CI: -2.505, -1.706). Secondary outcomes also demonstrated significant improvements in the Crisugabalin group. The treatment in the Crisugabalin group was well-tolerated, with adverse events primarily mild to moderate, and no serious related adverse events were reported. Crisugabalin combined with ALC is a promising therapeutic option for DPNP, offering pain relief, improved sleep, and enhanced quality of life. This combination therapy may be more effective than standard ALA treatment. (Trial registration: ClinicalTrials.gov identifier, NCT06122012).",
-      "structuredAbstract": [
-        {
-          "label": "PURPOSE",
-          "text": "To investigate the efficacy and safety of Crisugabalin combined with Acetyl-Levo-Carnitine (ALC) for treating Diabetic Peripheral Neuropathic Pain (DPNP) in Chinese adults."
-        },
-        {
-          "label": "METHODS",
-          "text": "This 16-week, multicenter, randomized, positive-controlled phase 2 trial was conducted from June 21, 2023, through February 22, 2024, employing a non-inferiority design with the non-inferiority limit set at 0.3 for the difference in Average Daily Pain Score (ADPS) change. A total of 137 Chinese adults with DPNP for at least 6 months were randomized to receive Crisugabalin with ALC or Alpha Lipoic Acid (ALA) with ALC. The primary endpoint was the change in ADPS from baseline at week 12. Secondary outcomes included sleep interference and quality of life measures."
-        },
-        {
-          "label": "RESULTS",
-          "text": "The Crisugabalin group showed a statistically significant reduction in ADPS compared to the ALA group (<0.0001). Specifically, the least square mean (LSM) change from baseline in the Crisugabalin group was -4.0 (95% CI: -4.405, -3.620), while in the ALA group it was -2.1 (95% CI: -2.505, -1.706). Secondary outcomes also demonstrated significant improvements in the Crisugabalin group. The treatment in the Crisugabalin group was well-tolerated, with adverse events primarily mild to moderate, and no serious related adverse events were reported."
-        },
-        {
-          "label": "CONCLUSION",
-          "text": "Crisugabalin combined with ALC is a promising therapeutic option for DPNP, offering pain relief, improved sleep, and enhanced quality of life. This combination therapy may be more effective than standard ALA treatment. (Trial registration: ClinicalTrials.gov identifier, NCT06122012)."
-        }
-      ],
-      "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/42039234/",
-      "pubDate": "2026",
-      "doi": "10.2147/JPR.S588472",
-      "dateReceived": "2026-05-19T00:14:28.939Z",
-      "isNew": false,
-      "summary": "Crisugabalin."
     }
   ]
 }
