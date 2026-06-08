@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-06-08T08:10:03.833Z",
+    "updated_at": "2026-06-08T14:48:12.306Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-06-08T08:10:07.803Z",
+    "updated_at": "2026-06-08T14:48:14.404Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -27,10 +27,10 @@
         "featured_image": "https://www1.racgp.org.au/getattachment/3543b116-d52d-4bd5-8b85-fb4d20664a61/The-GP-who-made-ripples-around-the-world.aspx",
         "ai_summary": [
           "Geoff Taylor was a British-born doctor",
-          "Taylor chose Australia for medicine and scuba diving",
-          "Taylor accomplished much in his career",
-          "Taylor's work had global impact",
-          "Taylor's legacy remembered fondly"
+          "Taylor chose Australia for scuba diving",
+          "Doctor accomplished much in his career",
+          "Taylor made significant contributions to medicine",
+          "His legacy extends beyond medical field"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/9a4ca829-8b31-45fb-8ba8-cbe94c9ad4fe/Low-dose-Zoladex-to-be-pulled-from-shelves.aspx",
         "ai_summary": [
-          "AstraZeneca pulls 3.6 mg implant from Australian markets",
-          "Move affects gender equity in Australia",
-          "Implant to be pulled in November",
-          "Affects patients using the implant",
-          "Alternative treatments to be considered"
+          "AstraZeneca to pull 3.6 mg implant",
+          "Move labelled a backwards step in equity",
+          "Implant to be removed from Australian markets",
+          "Decision affects patients using Zoladex",
+          "AstraZeneca cites reasons for withdrawal"
         ]
       },
       {
@@ -80,24 +80,78 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/92760638-e631-405e-97a2-4f49bc43decb/GPs-outstanding-community-contributions-honoured.aspx",
         "ai_summary": [
-          "GPs recognized for service in King's Birthday Honours",
-          "More than a dozen GPs celebrated",
-          "Honours for outstanding community contributions",
-          "GPs honored for dedication and service",
-          "Recognition for their hard work and commitment"
+          "GPs recognised for their service",
+          "More than a dozen GPs honoured",
+          "Awards part of 2026 King’s Birthday Honours",
+          "GPs celebrated for their contributions",
+          "Honours reflect GPs dedication to community"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-06-08T08:10:06.581Z",
+    "updated_at": "2026-06-08T14:48:13.556Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Mon, 08 Jun 2026 14:42:58 GMT",
+        "title": "How Eriksen's heart device kicked into action",
+        "neutral_headline": "Eriksen Heart Device Kicked Into Action",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cewq1g7z4qzo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 08 Jun 2026 14:42:58 GMT",
+            "title": "How Eriksen's heart device kicked into action",
+            "standfirst": "Denmark's team doctor said an ICD implanted into the footballer's chest responded as it should after he collapsed on Sunday.",
+            "content": "Denmark's team doctor said an ICD implanted into the footballer's chest responded as it should after he collapsed on Sunday.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94c9/live/0b6417e0-633d-11f1-81a3-11c500fa26e7.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94c9/live/0b6417e0-633d-11f1-81a3-11c500fa26e7.jpg",
+        "ai_summary": [
+          "Eriksen's ICD responded to heart issue",
+          "Device implanted in footballer's chest",
+          "ICD worked as intended during collapse",
+          "Doctor confirmed device functioned correctly",
+          "Eriksen's health stable after incident"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Mon, 08 Jun 2026 13:35:00 GMT",
+        "title": "What in the World",
+        "neutral_headline": "Efforts To Combat Disease Carrying Bugs",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/sounds/play/w3ct98xj?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 08 Jun 2026 13:35:00 GMT",
+            "title": "What in the World",
+            "standfirst": "It’s an effort to combat disease-carrying bugs",
+            "content": "It’s an effort to combat disease-carrying bugs",
+            "feed_position": 47,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0g0gjs2.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0g0gjs2.jpg",
+        "ai_summary": [
+          "Initiative aims to combat disease bugs",
+          "Efforts focus on preventing bug spread",
+          "Program targets disease carrying insects",
+          "Researchers study bug behavior",
+          "Initiative seeks to reduce disease transmission"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
         "updated_at": "Mon, 08 Jun 2026 08:00:13 GMT",
         "title": "Top five-a-day foods new study says your heart needs",
-        "neutral_headline": "Top five a day foods for heart health",
+        "neutral_headline": "Top Five A Day Foods For Heart Health",
         "items": [
           {
             "source": "BBC Health",
@@ -106,25 +160,25 @@
             "title": "Top five-a-day foods new study says your heart needs",
             "standfirst": "Not all fruit and veg is equal for getting nutrients called flavanols, say researchers.",
             "content": "Not all fruit and veg is equal for getting nutrients called flavanols, say researchers.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c352/live/966dc9e0-60e9-11f1-92fe-5faf9b4f0321.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c352/live/966dc9e0-60e9-11f1-92fe-5faf9b4f0321.jpg",
         "ai_summary": [
-          "New study on flavanol nutrients in food",
-          "Researchers identify key foods for heart health",
-          "Flavanols found in certain fruits and vegetables",
-          "Foods high in flavanols support heart health",
-          "Study highlights importance of nutrient-rich diet"
+          "Researchers identify key foods for heart",
+          "Not all fruits and veggies are equal",
+          "Flavanol nutrients important for heart",
+          "Study finds specific foods beneficial",
+          "Heart health linked to certain nutrients"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Mon, 08 Jun 2026 06:09:53 GMT",
         "title": "Rare footage captured of Great White shark in Mediterranean Sea",
-        "neutral_headline": "Rare Great White shark footage captured",
+        "neutral_headline": "Rare Footage Of Great White Shark",
         "items": [
           {
             "source": "BBC Science",
@@ -139,19 +193,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/506c/live/b30cebe0-6309-11f1-89a3-d1f559421220.jpg",
         "ai_summary": [
-          "Volunteer diver films Great White shark encounter",
-          "Shark spotted in Mediterranean Sea",
-          "Encounter occurred between Tunisia and Sicily",
-          "Diver describes shaking during the encounter",
-          "Footage provides rare glimpse of shark behavior"
+          "Great White shark spotted in Mediterranean",
+          "Rare footage captured by volunteer diver",
+          "Shark filmed between Tunisia and Sicily",
+          "Encounter described as intense experience",
+          "Shark conservation efforts highlighted"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 08 Jun 2026 06:00:20 GMT",
         "title": "More than 1,300 deaths a month in England due to long A&E waits, figures suggest",
-        "neutral_headline": "Long A&E waits cause over 1300 deaths monthly",
+        "neutral_headline": "Long A And E Waits Cause Over 1300 Deaths",
         "items": [
           {
             "source": "Guardian Health",
@@ -164,19 +218,19 @@
           }
         ],
         "ai_summary": [
-          "Long A&E waits linked to excess deaths in England",
-          "Over 1300 deaths per month due to long waits",
-          "Figures suggest tenfold increase in decade",
+          "Long A&E waits linked to over 1300 deaths",
           "Senior medical staff call for solutions",
-          "Analysis by Royal College of Emergency Medicine"
+          "Excess deaths increased tenfold in decade",
+          "Figures suggest need for urgent action",
+          "Royal College of Emergency Medicine analyzes data"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Mon, 08 Jun 2026 05:46:34 GMT",
         "title": "Monday briefing: Are we any closer to a cure for cancer?",
-        "neutral_headline": "Cancer research and treatment progress",
+        "neutral_headline": "Israel Launches Airstrikes On Iran",
         "items": [
           {
             "source": "Guardian Health",
@@ -189,19 +243,19 @@
           }
         ],
         "ai_summary": [
-          "Cancer survival chances improve in recent decades",
-          "Better drugs and care contribute to progress",
-          "Over 50 million people alive after cancer diagnosis",
-          "Cancer mortality rates decrease in UK",
-          "Research and treatment advancements continue"
+          "Israel launches airstrikes on central Iran",
+          "Attacks follow missile strikes from Iran",
+          "Middle East peace talks may be derailed",
+          "Cancer research shows improved survival rates",
+          "UK cancer mortality rates decrease by 23%"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Mon, 08 Jun 2026 01:33:25 GMT",
         "title": "Richard Scolyer, cancer researcher and former Australian of the year, dies aged 59",
-        "neutral_headline": "Richard Scolyer, cancer researcher, dies aged 59",
+        "neutral_headline": "Richard Scolyer Cancer Researcher Dies Aged 59",
         "items": [
           {
             "source": "Guardian Health",
@@ -223,19 +277,19 @@
           }
         ],
         "ai_summary": [
-          "Richard Scolyer passes away at 59 years old",
+          "Richard Scolyer dies at 59 years old",
           "Scolyer was a renowned cancer researcher",
-          "He worked on pioneering immunotherapy research",
+          "He worked on pioneering immunotherapy",
           "Scolyer was diagnosed with inoperable brain cancer",
-          "He shared his final farewell in an open letter"
+          "He wrote an open letter to Australians before death"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sun, 07 Jun 2026 18:39:38 GMT",
         "title": "Record number of people waiting for NHS diagnostic tests in England",
-        "neutral_headline": "Record number waiting for NHS diagnostic tests",
+        "neutral_headline": "Record Number Waiting For NHS Diagnostic Tests",
         "items": [
           {
             "source": "Guardian Health",
@@ -248,19 +302,19 @@
           }
         ],
         "ai_summary": [
-          "Over 1.9 million patients wait for diagnostic tests",
+          "1.92 million patients wait for NHS tests",
           "One in five patients wait longer than six weeks",
-          "Delays may endanger patients' health",
           "Diagnostic waiting list grows by 500,000",
-          "List expected to hit 2 million in March 2027"
+          "List is 83% higher than pre-Covid levels",
+          "Waiting list may hit 2 million by 2027"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sun, 07 Jun 2026 16:25:02 GMT",
         "title": "The Guardian view on cancer treatments: new hope for patients now and in the future | Editorial",
-        "neutral_headline": "New hope for cancer patients with promising treatments",
+        "neutral_headline": "New Hope For Cancer Patients With Promising Treatments",
         "items": [
           {
             "source": "Guardian Health",
@@ -274,18 +328,18 @@
         ],
         "ai_summary": [
           "New drug shows promise for pancreatic cancer",
-          "Immunotherapy could spare bladder cancer patients",
-          "Treatment breakthroughs emerge at oncology meeting",
-          "Daraxonrasib doubles survival time for pancreatic cancer",
-          "Researchers make progress in cancer treatment"
+          "Immunotherapy could spare bladder cancer surgery",
+          "Breakthroughs emerge at oncology meeting",
+          "Progress made in small victories against cancer",
+          "Governments frame cancer research as a war"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sun, 07 Jun 2026 15:54:40 GMT",
         "title": "Factors leading to failures in NHS maternity care | Letters",
-        "neutral_headline": "Failures in NHS maternity care attributed to factors",
+        "neutral_headline": "Factors Leading To Failures In NHS Maternity Care",
         "items": [
           {
             "source": "Guardian Health",
@@ -298,19 +352,19 @@
           }
         ],
         "ai_summary": [
-          "Failings in maternity services at Nottingham trust",
-          "Austerity affects maternity care",
-          "Understaffing and arrogance contribute to issues",
-          "Patients and families affected by failings",
-          "Need for improved care and accountability"
+          "Readers respond to article on NHS maternity care",
+          "Austerity affects maternity services",
+          "Understaffing and arrogance contribute to failings",
+          "Midwives and doctors fail to conduct routine care",
+          "Patients endure repeated failings in care"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sun, 07 Jun 2026 14:12:49 GMT",
         "title": "NHS hospitals adopt faster, more accurate at-home bladder cancer test",
-        "neutral_headline": "NHS hospitals adopt faster bladder cancer test",
+        "neutral_headline": "NHS Hospitals Adopt Faster Bladder Cancer Test",
         "items": [
           {
             "source": "Guardian Health",
@@ -323,19 +377,19 @@
           }
         ],
         "ai_summary": [
-          "New urine test for bladder cancer diagnosis",
-          "Test is faster and more accurate than existing method",
-          "Five hospitals in England and Wales adopt the test",
-          "Test reduces need for invasive hospital procedures",
-          "Patients benefit from more convenient testing"
+          "NHS hospitals use new at-home bladder test",
+          "Test is faster and more accurate than existing test",
+          "Five hospitals in England and Wales adopt test",
+          "Test involves urine sample taken at home",
+          "Invasive hospital procedure is no longer needed"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sun, 07 Jun 2026 12:07:17 GMT",
         "title": "Residents' health fears over plan to burn more waste",
-        "neutral_headline": "Health concerns over increased waste burning",
+        "neutral_headline": "Residents Fear Health Impact Of Increased Waste Burning",
         "items": [
           {
             "source": "BBC Science",
@@ -351,18 +405,18 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0e1/live/0b410df0-83fe-11f0-a3f8-9b56bf5c3841.jpg",
         "ai_summary": [
           "Environment Agency permits more waste burning",
-          "Residents fear health impacts from increased burning",
-          "Beddington incinerator to burn extra 10% of waste",
-          "Concerns over air quality and health effects",
-          "Need for alternative waste management solutions"
+          "Residents fear health impact of increased burning",
+          "Beddington incinerator to burn extra 10% waste",
+          "Health concerns raised over air pollution",
+          "Residents worry about long-term health effects"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sun, 07 Jun 2026 09:16:06 GMT",
         "title": "Triple-action diabetes jab shown to reduce blood sugar and body weight",
-        "neutral_headline": "Triple action diabetes jab shows promising results",
+        "neutral_headline": "Triple Action Diabetes Jab Shows Promising Results",
         "items": [
           {
             "source": "Guardian Health",
@@ -375,19 +429,19 @@
           }
         ],
         "ai_summary": [
-          "Retatrutide jab reduces blood sugar and body weight",
-          "Phase 3 trial results show significant improvements",
-          "Jab mimics three gut hormones for appetite control",
-          "Patients lose more weight than those on placebo",
-          "Treatment may offer new hope for type 2 diabetes"
+          "Retatrutide jab reduces blood sugar and weight",
+          "Patients lose four times more weight than placebo",
+          "Jab controls appetite and increases energy",
+          "Trial results show significant reduction in HbA1c",
+          "Retatrutide engages glucagon receptor for energy"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sun, 07 Jun 2026 07:17:45 GMT",
         "title": "Ecologist calls for plastics ban in cemetery",
-        "neutral_headline": "Ecologist calls for plastics ban in cemetery",
+        "neutral_headline": "Ecologist Calls For Plastics Ban In Cemetery",
         "items": [
           {
             "source": "BBC Science",
@@ -402,19 +456,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b0/live/57801e90-5f2c-11f1-9b94-1bf27e494d9e.jpg",
         "ai_summary": [
-          "Alison Fure advocates for phasing out plastics",
-          "Plastic decorative items to be phased out",
-          "Cemetery to reduce plastic waste and pollution",
-          "Ecologist promotes sustainable and eco-friendly practices",
-          "Initiative aims to protect the environment"
+          "Ecologist Alison Fure calls for plastics ban",
+          "Ban targets decorative items in cemetery",
+          "Council to consider phasing out plastic items",
+          "Move aims to reduce plastic waste and pollution",
+          "Cemetery to promote more sustainable practices"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sun, 07 Jun 2026 06:15:04 GMT",
         "title": "Village solar system model shows planets and stars",
-        "neutral_headline": "Village creates scale model of solar system",
+        "neutral_headline": "Village Creates Scale Model Of Solar System",
         "items": [
           {
             "source": "BBC Science",
@@ -429,19 +483,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5617/live/22dbe790-603b-11f1-9ce7-1953d6a1a733.jpg",
         "ai_summary": [
-          "Kent village builds scale model of solar system",
-          "Model helps people understand space and planets",
-          "Project aims to educate and raise awareness",
-          "Model shows planets and stars in proportion",
-          "Initiative promotes interest in astronomy and science"
+          "Kent village creates solar system model",
+          "Model shows planets and stars in scale",
+          "Project aims to educate people about space",
+          "Model is a unique and interactive exhibit",
+          "Village promotes interest in astronomy and science"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Sat, 06 Jun 2026 23:06:33 GMT",
         "title": "Cosmeticorexia: How girls are falling down a skincare rabbit hole",
-        "neutral_headline": "Girls Falling Into Skincare Rabbit Hole",
+        "neutral_headline": "Cosmeticorexia Affects Young Girls Through Social Media",
         "items": [
           {
             "source": "BBC Health",
@@ -450,25 +504,25 @@
             "title": "Cosmeticorexia: How girls are falling down a skincare rabbit hole",
             "standfirst": "Fuelled by social media, the market for children's skincare is booming. Experts fear for the long-term impact on girls",
             "content": "Fuelled by social media, the market for children's skincare is booming. Experts fear for the long-term impact on girls",
-            "feed_position": 13,
+            "feed_position": 14,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36a1/live/95f7c8d0-60e4-11f1-89a3-d1f559421220.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36a1/live/95f7c8d0-60e4-11f1-89a3-d1f559421220.jpg",
         "ai_summary": [
-          "Social media fuels children's skincare market",
-          "Experts fear long-term impact on girls",
-          "Skincare products target young girls",
+          "Cosmeticorexia affects young girls on social media",
           "Market for children's skincare is booming",
-          "Experts warn of potential health risks"
+          "Experts fear long-term impact on girls' health",
+          "Social media fuels unrealistic beauty standards",
+          "Girls fall into skincare rabbit hole of products"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sat, 06 Jun 2026 20:00:15 GMT",
         "title": "If we are to counter medical misogyny, women can no longer be treated as unreliable witnesses of their own experience | Alison Downham Moore",
-        "neutral_headline": "If we are to counter medical misogyny, women can no longer be treated as unreliable witnesses of their own experience",
+        "neutral_headline": "If We Are To Counter Medical Misogyny Women Can No Longer Be Treated As Unreliable Witnesses Of Their Own Experience",
         "items": [
           {
             "source": "Guardian Health",
@@ -481,42 +535,17 @@
           }
         ],
         "ai_summary": [
-          "Women face medical misogyny in healthcare",
+          "Medical misogyny affects women's healthcare",
+          "Women's experiences are often dismissed or ignored",
           "Polyendocrine metabolic ovarian syndrome misunderstood",
-          "Patients with endometriosis struggle for care",
-          "Hormonal and reproductive healthcare inaccessible",
-          "Patients report despair in accessing care"
-        ]
-      },
-      {
-        "id": "cluster_15",
-        "coverage": 1,
-        "updated_at": "Sat, 06 Jun 2026 12:00:03 GMT",
-        "title": "New study casts doubt on reliability of mental health diagnosis interviews",
-        "neutral_headline": "New Study Casts Doubt On Mental Health Diagnosis",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/jun/06/mental-health-disorders-interview-diagnosis-study",
-            "published_at": "Sat, 06 Jun 2026 12:00:03 GMT",
-            "title": "New study casts doubt on reliability of mental health diagnosis interviews",
-            "standfirst": "Diagnostic interviews seen as ‘gold standard’ vary in reliability from condition to condition, study saysDiagnostic interviews – the most common way to diagnose substance use and mental disorders including depression, anxiety, bipolar and personality disorders – vary in reliability from condition to condition, according to a new study in Jama Network Open.Laura Duncan, a psychiatry professor at McMaster University in Ontario, Canada, and one of the study’s authors, said diagnostic interviews are “often treated as a ‘gold standard’ for assessing mental disorders in both clinical settings and research”, but pointed out that these interviews fall short of providing a “definitive benchmark that demonstrates excellent validity and reliability”. Continue reading...",
-            "content": "Diagnostic interviews seen as ‘gold standard’ vary in reliability from condition to condition, study saysDiagnostic interviews – the most common way to diagnose substance use and mental disorders including depression, anxiety, bipolar and personality disorders – vary in reliability from condition to condition, according to a new study in Jama Network Open.Laura Duncan, a psychiatry professor at McMaster University in Ontario, Canada, and one of the study’s authors, said diagnostic interviews are “often treated as a ‘gold standard’ for assessing mental disorders in both clinical settings and research”, but pointed out that these interviews fall short of providing a “definitive benchmark that demonstrates excellent validity and reliability”. Continue reading...",
-            "feed_position": 10
-          }
-        ],
-        "ai_summary": [
-          "Diagnostic interviews vary in reliability",
-          "Study finds flaws in mental health diagnosis",
-          "Interviews used for depression and anxiety",
-          "Reliability differs from condition to condition",
-          "Researchers question diagnostic interview validity"
+          "Endometriosis patients struggle to access care",
+          "Women's hormonal and reproductive healthcare is neglected"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-06-08T08:10:07.803Z",
+    "updated_at": "2026-06-08T14:48:14.404Z",
     "clusters": []
   }
 }
