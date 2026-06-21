@@ -1,21 +1,48 @@
 {
   "clinical": {
-    "updated_at": "2026-06-21T08:00:14.121Z",
+    "updated_at": "2026-06-21T13:05:37.582Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-06-21T08:00:20.326Z",
+    "updated_at": "2026-06-21T13:05:43.205Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-06-21T08:00:15.627Z",
+    "updated_at": "2026-06-21T13:05:43.232Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Sun, 21 Jun 2026 10:52:44 GMT",
+        "title": "More trees and nature spaces in council green plan",
+        "neutral_headline": "Bradford Council Plans To Increase Tree Canopy Cover",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/c4gy26l0gemo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 21 Jun 2026 10:52:44 GMT",
+            "title": "More trees and nature spaces in council green plan",
+            "standfirst": "Bradford Council set out plans to increase tree canopy cover and create more nature reserves.",
+            "content": "Bradford Council set out plans to increase tree canopy cover and create more nature reserves.",
+            "feed_position": 13,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2abf/live/5c67d970-6ae9-11f1-a111-df8047375d8f.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2abf/live/5c67d970-6ae9-11f1-a111-df8047375d8f.jpg",
+        "ai_summary": [
+          "Bradford Council sets out green plan",
+          "Increase tree canopy cover goal",
+          "Create more nature reserves planned",
+          "Council aims to improve environment",
+          "Green spaces to be expanded"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
         "updated_at": "Sun, 21 Jun 2026 07:10:01 GMT",
         "title": "The tiny highway helping the capital's hedgehogs",
-        "neutral_headline": "Hedgehog Highway Helps Urban Wildlife",
+        "neutral_headline": "Hedgehog Highway Helps Capital Hedgehogs",
         "items": [
           {
             "source": "BBC Science",
@@ -24,25 +51,25 @@
             "title": "The tiny highway helping the capital's hedgehogs",
             "standfirst": "A hedgehog highway is a network of small holes and gaps that allows hedgehogs to move freely.",
             "content": "A hedgehog highway is a network of small holes and gaps that allows hedgehogs to move freely.",
-            "feed_position": 13,
+            "feed_position": 14,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d70/live/32bd1d60-6bc5-11f1-a417-cba5aab91344.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d70/live/32bd1d60-6bc5-11f1-a417-cba5aab91344.jpg",
         "ai_summary": [
           "Hedgehog highway is a network",
-          "Of small holes and gaps",
+          "Small holes and gaps for hedgehogs",
           "Allows hedgehogs to move freely",
-          "Helps urban wildlife thrive",
-          "Network of holes and gaps"
+          "Helps hedgehogs thrive in city",
+          "Conservation effort for hedgehogs"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sun, 21 Jun 2026 06:11:42 GMT",
         "title": "‘A genuine wildlife emergency’: everything you need to know about the arrival of H5 bird flu in Australia",
-        "neutral_headline": "H5 Bird Flu Arrives In Australia",
+        "neutral_headline": "‘A genuine wildlife emergency’: everything you need to know about the arrival of H5 bird flu in Australia",
         "items": [
           {
             "source": "Guardian Health",
@@ -55,15 +82,42 @@
           }
         ],
         "ai_summary": [
-          "H5 bird flu has arrived on the Australian mainland",
-          "A brown skua died from the H5N1 virus in Western Australia",
-          "The federal agriculture minister confirmed the diagnosis",
-          "The skua is a wild migratory bird",
-          "Experts answer questions about the virus and its risks"
+          "H5 bird flu arrives in Australia",
+          "Virus found in wild migratory bird",
+          "Federal agriculture minister confirms",
+          "Virus poses risk to humans and wildlife",
+          "Agricultural sector affected"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Sun, 21 Jun 2026 05:23:36 GMT",
+        "title": "How can we help our fathers live longer?",
+        "neutral_headline": "Helping Fathers Live Longer Is Goal",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/c8e26n07j09o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 21 Jun 2026 05:23:36 GMT",
+            "title": "How can we help our fathers live longer?",
+            "standfirst": "One in five men dies before the age of 65 but getting help sooner could save lives.",
+            "content": "One in five men dies before the age of 65 but getting help sooner could save lives.",
+            "feed_position": 12,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aae0/live/012271c0-6c64-11f1-bc31-29d932e7ad26.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aae0/live/012271c0-6c64-11f1-bc31-29d932e7ad26.jpg",
+        "ai_summary": [
+          "One in five men dies before 65",
+          "Getting help sooner can save lives",
+          "Health issues affect men's lifespan",
+          "Early intervention is crucial",
+          "Men's health needs more attention"
+        ]
+      },
+      {
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sun, 21 Jun 2026 01:48:33 GMT",
         "title": "Jeremy Clarkson in remission from prostate cancer",
@@ -82,19 +136,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c89/live/f4659520-6d08-11f1-ac3a-fd1dab35209e.jpg",
         "ai_summary": [
-          "Jeremy Clarkson shared his cancer diagnosis on Clarkson's Farm",
-          "The presenter has been diagnosed with aggressive prostate cancer",
-          "Clarkson announced he is in remission",
-          "The news was shared on an episode of his show",
-          "Clarkson's health update has been made public"
+          "Jeremy Clarkson has prostate cancer",
+          "Cancer diagnosis was aggressive",
+          "Clarkson's Farm episode shares news",
+          "Prostate cancer affects many men",
+          "Remission is positive outcome"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sat, 20 Jun 2026 20:00:13 GMT",
         "title": "‘A child goes to bed and doesn’t wake up’: the families left in shock after the sudden death of their healthy children",
-        "neutral_headline": "Sudden Cardiac Arrest Affects Healthy Children",
+        "neutral_headline": "‘A child goes to bed and doesn’t wake up’: the families left in shock after the sudden death of their healthy children",
         "items": [
           {
             "source": "Guardian Health",
@@ -107,19 +161,19 @@
           }
         ],
         "ai_summary": [
-          "Sudden cardiac arrest is a rare but leading cause of death",
-          "Families often have no idea of the risk until it's too late",
-          "Healthy children can be affected by sudden cardiac arrest",
-          "The condition can occur without warning signs",
-          "Families are left in shock after sudden deaths"
+          "Sudden cardiac arrest affects children",
+          "Healthy children can be at risk",
+          "Families often unaware of risk",
+          "Cardiac arrest is rare but deadly",
+          "Families left in shock and grief"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sat, 20 Jun 2026 11:05:56 GMT",
         "title": "Exhibition explores moths' ability to adapt",
-        "neutral_headline": "Exhibition Explores Moths Ability To Adapt",
+        "neutral_headline": "Moths Adaptation To Environment Explored",
         "items": [
           {
             "source": "BBC Science",
@@ -128,25 +182,25 @@
             "title": "Exhibition explores moths' ability to adapt",
             "standfirst": "An exhibition examining how moths adapt to environmental changes has opened in Kestle Barton.",
             "content": "An exhibition examining how moths adapt to environmental changes has opened in Kestle Barton.",
-            "feed_position": 14,
+            "feed_position": 15,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ae5/live/d13caf60-689f-11f1-b9ac-e71b9be292bd.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ae5/live/d13caf60-689f-11f1-b9ac-e71b9be292bd.jpg",
         "ai_summary": [
-          "An exhibition examines how moths adapt to environmental changes",
-          "The exhibition has opened in Kestle Barton",
-          "Moths have unique abilities to adapt to their surroundings",
-          "The exhibition showcases moths' adaptability",
-          "Environmental changes affect moths' behavior"
+          "Exhibition on moths' adaptation",
+          "Environmental changes affect moths",
+          "Moths have unique adaptation skills",
+          "Exhibition showcases moths' abilities",
+          "Moths' adaptability is fascinating"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sat, 20 Jun 2026 11:00:05 GMT",
         "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine",
-        "neutral_headline": "It's Not Science It's Coercion Health Experts Decry Rfk Jr Order",
+        "neutral_headline": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine",
         "items": [
           {
             "source": "Guardian Health",
@@ -159,19 +213,19 @@
           }
         ],
         "ai_summary": [
-          "Health experts criticize RFK Jr's order on hantavirus quarantine",
-          "The order overrides CDC guidance on self-quarantine",
-          "Experts say the measure is authoritarian and unconstitutional",
-          "The quarantine measure lacks scientific evidence",
-          "Health law experts express concern over the order"
+          "RFK Jr orders hantavirus quarantine",
+          "Health experts criticize the order",
+          "Quarantine measures are questioned",
+          "Hantavirus poses risk to humans",
+          "Experts decry lack of scientific evidence"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Fri, 19 Jun 2026 16:45:24 GMT",
         "title": "How to keep children cool in the heat",
-        "neutral_headline": "How To Keep Children Cool In Heat",
+        "neutral_headline": "Keeping Children Cool In Heat Is Important",
         "items": [
           {
             "source": "BBC Health",
@@ -186,19 +240,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95cd/live/c0e3e150-6bf7-11f1-8e1d-bbbb1017d210.jpg",
         "ai_summary": [
-          "Keeping children cool in heat is crucial for their health",
-          "Simple measures can help keep children cool",
-          "Staying hydrated is essential for children in heat",
-          "Cooling measures can prevent heat-related illnesses",
-          "Parents should take precautions to keep children cool"
+          "Children need to stay cool in heat",
+          "Heat can be dangerous for kids",
+          "Parents must take precautions",
+          "Cooling methods can help children",
+          "Heat safety is crucial for kids"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 19 Jun 2026 16:18:49 GMT",
         "title": "Minimum age of 11 set for UK puberty blocker trial",
-        "neutral_headline": "Minimum Age Of 11 Set For Uk Puberty Blocker Trial",
+        "neutral_headline": "Minimum Age Set For Puberty Blocker Trial",
         "items": [
           {
             "source": "BBC Health",
@@ -213,19 +267,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e381/live/993b9060-6be0-11f1-95c7-b58617a2924f.jpg",
         "ai_summary": [
-          "A minimum age of 11 is set for UK puberty blocker trial",
-          "The trial involves gender-questioning children",
-          "Participants must be at least 11 years old",
-          "The trial aims to study puberty-blocking drugs",
-          "The minimum age requirement is now in place"
+          "Puberty blocker trial has age limit",
+          "Children must be at least 11 years",
+          "Trial aims to help gender-questioning",
+          "Puberty blockers have effects",
+          "Age limit is set for safety reasons"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 19 Jun 2026 15:57:12 GMT",
         "title": "The real reason a hantavirus disaster was averted | Letters",
-        "neutral_headline": "The Real Reason A Hantavirus Disaster Was Averted",
+        "neutral_headline": "The real reason a hantavirus disaster was averted | Letters",
         "items": [
           {
             "source": "Guardian Health",
@@ -238,19 +292,19 @@
           }
         ],
         "ai_summary": [
-          "A hantavirus disaster was averted due to teamwork",
-          "The UK Overseas Territories program supported health services",
-          "Close communication helped prevent the disaster",
-          "Health services in UKOTs were strengthened",
-          "The program's success lies in its effective communication"
+          "Hantavirus disaster was averted",
+          "Global public health responses helped",
+          "Teamwork across continents was key",
+          "Hantavirus poses risk to humans",
+          "Disaster was averted due to efforts"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 19 Jun 2026 15:53:57 GMT",
         "title": "Emergency medicine is in crisis – why is this allowed to continue? | Letters",
-        "neutral_headline": "Emergency Medicine Is In Crisis",
+        "neutral_headline": "Emergency medicine is in crisis – why is this allowed to continue? | Letters",
         "items": [
           {
             "source": "Guardian Health",
@@ -263,19 +317,19 @@
           }
         ],
         "ai_summary": [
-          "Emergency medicine is in crisis in the UK",
-          "Patients are dying in A&E corridors due to lack of space",
-          "The government is criticized for inaction",
-          "Emergency department staff are raising the alarm",
-          "The crisis is causing avoidable deaths"
+          "Emergency medicine is in crisis",
+          "Patients are dying in A&E corridors",
+          "Lack of space and beds is issue",
+          "Government is criticized for inaction",
+          "Emergency medicine needs reform"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 19 Jun 2026 14:10:25 GMT",
         "title": "Microplastics in over 75% of pet food, study finds",
-        "neutral_headline": "Microplastics Found In Over 75 Percent Of Pet Food",
+        "neutral_headline": "Microplastics Found In Pet Food",
         "items": [
           {
             "source": "BBC Science",
@@ -284,25 +338,25 @@
             "title": "Microplastics in over 75% of pet food, study finds",
             "standfirst": "Researchers say certain brands and kinds of cat and dog food have more microplastics than others.",
             "content": "Researchers say certain brands and kinds of cat and dog food have more microplastics than others.",
-            "feed_position": 15,
+            "feed_position": 16,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc60/live/ccb6e3b0-6b11-11f1-ad9f-addb423b1b6c.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc60/live/ccb6e3b0-6b11-11f1-ad9f-addb423b1b6c.jpg",
         "ai_summary": [
-          "Microplastics are found in over 75% of pet food",
-          "Certain brands and kinds of pet food have more microplastics",
-          "Researchers studied the presence of microplastics in pet food",
-          "The findings are a concern for pet owners",
-          "Microplastics can affect pet health"
+          "Microplastics are in pet food",
+          "Certain brands have more microplastics",
+          "Cat and dog food are affected",
+          "Microplastics pose risk to pets",
+          "Study finds high levels of microplastics"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 19 Jun 2026 13:51:17 GMT",
         "title": "Can sunlight make you sneeze?",
-        "neutral_headline": "Can Sunlight Make You Sneeze",
+        "neutral_headline": "Sunlight Can Cause Sneezing",
         "items": [
           {
             "source": "BBC Health",
@@ -317,19 +371,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cea/live/3068bd70-6b12-11f1-8e1d-bbbb1017d210.jpg",
         "ai_summary": [
-          "Some people suffer from Achoo syndrome",
-          "Achoo syndrome is a condition where sunlight triggers sneezing",
-          "The condition is also known as photic sneezing",
-          "Sunlight can cause sneezing in affected individuals",
-          "The condition is relatively rare"
+          "Sunlight can make people sneeze",
+          "Achoo syndrome is a real condition",
+          "Sneezing can be caused by sunlight",
+          "Condition is unusual but real",
+          "Sunlight sensitivity is rare"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 19 Jun 2026 13:42:25 GMT",
         "title": "Kidney cancer rates near Pfas factory in Lancashire a ‘major source of concern’",
-        "neutral_headline": "Kidney Cancer Rates Near Pfas Factory A Major Concern",
+        "neutral_headline": "Kidney cancer rates near Pfas factory in Lancashire a ‘major source of concern’",
         "items": [
           {
             "source": "Guardian Health",
@@ -342,144 +396,17 @@
           }
         ],
         "ai_summary": [
-          "Kidney cancer rates are high near a Pfas factory",
-          "The factory emitted forever chemicals near Blackpool",
-          "Experts cast doubt on a government-funded study",
-          "The study's conclusions are questioned",
-          "The factory's emissions are a concern for public health"
-        ]
-      },
-      {
-        "id": "cluster_13",
-        "coverage": 1,
-        "updated_at": "Fri, 19 Jun 2026 12:30:32 GMT",
-        "title": "Midwives on frontline of childbirth deaths crisis denied visas for key summit",
-        "neutral_headline": "Midwives On Frontline Of Childbirth Deaths Crisis Denied Visas",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/global-development/2026/jun/19/midwives-africa-asia-mother-baby-childbirth-deaths-crisis-denied-visas-summit-portugal",
-            "published_at": "Fri, 19 Jun 2026 12:30:32 GMT",
-            "title": "Midwives on frontline of childbirth deaths crisis denied visas for key summit",
-            "standfirst": "Outcry as experts from African and Asian countries – where mortality is highest – prevented from attending Portugal conference on preventionVisa rejections have threatened progress on mother and baby health after experts from struggling countries were barred from talks, global midwife leaders have said.Politicians, donors and UN agencies convened this week at the International Confederation of Midwives (ICM) congress in Lisbon, Portugal, a key conference to discuss the millions of avoidable mother and baby deaths every year.Emily Maclean is a midwife Continue reading...",
-            "content": "Outcry as experts from African and Asian countries – where mortality is highest – prevented from attending Portugal conference on preventionVisa rejections have threatened progress on mother and baby health after experts from struggling countries were barred from talks, global midwife leaders have said.Politicians, donors and UN agencies convened this week at the International Confederation of Midwives (ICM) congress in Lisbon, Portugal, a key conference to discuss the millions of avoidable mother and baby deaths every year.Emily Maclean is a midwife Continue reading...",
-            "feed_position": 6
-          }
-        ],
-        "ai_summary": [
-          "Midwives from African and Asian countries were denied visas",
-          "The midwives were prevented from attending a conference",
-          "The conference aimed to discuss childbirth deaths",
-          "The visa rejections threaten progress on mother and baby health",
-          "Global midwife leaders express concern over the rejections"
-        ]
-      },
-      {
-        "id": "cluster_14",
-        "coverage": 1,
-        "updated_at": "Fri, 19 Jun 2026 12:00:31 GMT",
-        "title": "New research links prenatal exposure to Pfas to later development of PMOS",
-        "neutral_headline": "Prenatal Exposure To Pfas Linked To Pmos",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/environment/2026/jun/19/prenatal-exposure-pfas-pmos-development-study",
-            "published_at": "Fri, 19 Jun 2026 12:00:31 GMT",
-            "title": "New research links prenatal exposure to Pfas to later development of PMOS",
-            "standfirst": "Study suggests exposure to ‘forever chemicals’ may be a main driver of disease, formerly called PCOS, authors sayNew research for the first time links prenatal exposure to Pfas “forever chemicals” with the development of polyendocrine metabolic ovarian syndrome (PMOS) later in life.PMOS, formerly known as polycystic ovary syndrome (PCOS), is estimated to impact about 13% of women. Many cases are undiagnosed, and the disease’s cause largely remains a mystery. Continue reading...",
-            "content": "Study suggests exposure to ‘forever chemicals’ may be a main driver of disease, formerly called PCOS, authors sayNew research for the first time links prenatal exposure to Pfas “forever chemicals” with the development of polyendocrine metabolic ovarian syndrome (PMOS) later in life.PMOS, formerly known as polycystic ovary syndrome (PCOS), is estimated to impact about 13% of women. Many cases are undiagnosed, and the disease’s cause largely remains a mystery. Continue reading...",
-            "feed_position": 7
-          }
-        ],
-        "ai_summary": [
-          "Prenatal exposure to Pfas is linked to PMOS",
-          "PMOS is a disease affecting women's health",
-          "The study suggests Pfas exposure may drive the disease",
-          "Pfas are forever chemicals with harmful effects",
-          "The findings are a concern for women's health"
-        ]
-      },
-      {
-        "id": "cluster_15",
-        "coverage": 1,
-        "updated_at": "Fri, 19 Jun 2026 11:58:38 GMT",
-        "title": "Elizabeth Greenhall obituary",
-        "neutral_headline": "Elizabeth Greenhall Obituary",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/society/2026/jun/19/elizabeth-greenhall-obituary",
-            "published_at": "Fri, 19 Jun 2026 11:58:38 GMT",
-            "title": "Elizabeth Greenhall obituary",
-            "standfirst": "My friend Liz Greenhall, who has died aged 83, was a public health consultant who was responsible for family planning services in Oxfordshire. Her work broke new ground in the provision of healthcare for young women and marginalised groups, and included the institution of “Bodyzone” clinics in schools, where pupils had direct access to advice on a range of health issues including providing contraception.In 2000 the Faculty of Family Planning and Reproductive Healthcare (now known as the College of Sexual and Reproductive Healthcare) recognised her work with the grant of the David Bromham memorial award. Continue reading...",
-            "content": "My friend Liz Greenhall, who has died aged 83, was a public health consultant who was responsible for family planning services in Oxfordshire. Her work broke new ground in the provision of healthcare for young women and marginalised groups, and included the institution of “Bodyzone” clinics in schools, where pupils had direct access to advice on a range of health issues including providing contraception.In 2000 the Faculty of Family Planning and Reproductive Healthcare (now known as the College of Sexual and Reproductive Healthcare) recognised her work with the grant of the David Bromham memorial award. Continue reading...",
-            "feed_position": 8
-          }
-        ],
-        "ai_summary": [
-          "Elizabeth Greenhall was a public health consultant",
-          "She worked on family planning services in Oxfordshire",
-          "Greenhall's work broke new ground in healthcare",
-          "She established Bodyzone clinics in schools",
-          "Greenhall received the David Bromham memorial award"
-        ]
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Fri, 19 Jun 2026 11:00:31 GMT",
-        "title": "I’m a critical care doctor. I’ve never seen the US harm its children this deliberately | Robert B Shpiner",
-        "neutral_headline": "US Government Withdraws Child Protections",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/commentisfree/2026/jun/19/trump-administration-healthcare-for-kids",
-            "published_at": "Fri, 19 Jun 2026 11:00:31 GMT",
-            "title": "I’m a critical care doctor. I’ve never seen the US harm its children this deliberately | Robert B Shpiner",
-            "standfirst": "At every stage of childhood, the Trump administration is withdrawing a protection. It is also dismantling the tools that would measure the harmA newborn’s first hours in a US hospital used to carry a quiet set of guarantees. A vitamin K injection against catastrophic bleeding. A hepatitis B vaccination. The assumption that whatever a family could afford, the country had already decided this child was worth protecting. I have spent more than 40 years in pulmonary and critical care medicine. I have seen children harmed by disease, poverty, by bad luck. I had not, until now, seen them harmed so methodically by their own government.Read the headlines one at a time and the pattern disappears. A vaccine rule one week, a food program the next, the reorganization of an agency most people could not name. Each change arrives wrapped in a reasonable rationale: fiscal discipline, local control, parental choice. But arrange them in the order a child actually grows, and the rationales stop mattering. What you see instead is a sequence. Continue reading...",
-            "content": "At every stage of childhood, the Trump administration is withdrawing a protection. It is also dismantling the tools that would measure the harmA newborn’s first hours in a US hospital used to carry a quiet set of guarantees. A vitamin K injection against catastrophic bleeding. A hepatitis B vaccination. The assumption that whatever a family could afford, the country had already decided this child was worth protecting. I have spent more than 40 years in pulmonary and critical care medicine. I have seen children harmed by disease, poverty, by bad luck. I had not, until now, seen them harmed so methodically by their own government.Read the headlines one at a time and the pattern disappears. A vaccine rule one week, a food program the next, the reorganization of an agency most people could not name. Each change arrives wrapped in a reasonable rationale: fiscal discipline, local control, parental choice. But arrange them in the order a child actually grows, and the rationales stop mattering. What you see instead is a sequence. Continue reading...",
-            "feed_position": 9
-          }
-        ],
-        "ai_summary": [
-          "Vitamin K injections no longer guaranteed",
-          "Hepatitis B vaccinations at risk",
-          "Food programs being reorganized",
-          "Agency reorganization affects children",
-          "Parental choice rationale is given"
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Fri, 19 Jun 2026 10:31:52 GMT",
-        "title": "New cancer care centres set to be built",
-        "neutral_headline": "New Cancer Care Centres To Be Built",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.com/news/videos/cqj17v8kwg5o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 19 Jun 2026 10:31:52 GMT",
-            "title": "New cancer care centres set to be built",
-            "standfirst": "The centres run by charity Maggie's will open in Coventry and Birmingham within the next two years.",
-            "content": "The centres run by charity Maggie's will open in Coventry and Birmingham within the next two years.",
-            "feed_position": 48,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c8/live/616dc210-6b1e-11f1-8546-8f19e4fe30f4.png"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c8/live/616dc210-6b1e-11f1-8546-8f19e4fe30f4.png",
-        "ai_summary": [
-          "Maggie's charity runs the centres",
-          "Centres will open in Coventry",
-          "Birmingham will also have centre",
-          "Opening within the next years",
-          "Centres will provide cancer care"
+          "Kidney cancer rates are high near factory",
+          "Pfas factory emits forever chemicals",
+          "Chemicals pose risk to human health",
+          "Study raises concerns about cancer",
+          "Factory's emissions are questioned"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-06-21T08:00:20.326Z",
+    "updated_at": "2026-06-21T13:05:43.232Z",
     "clusters": []
   }
 }
