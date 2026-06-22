@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-06-22T09:09:42.507Z",
+    "updated_at": "2026-06-22T15:51:05.530Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-06-22T09:09:48.570Z",
+    "updated_at": "2026-06-22T15:51:06.989Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -26,11 +26,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/0649b405-d08b-4331-9255-214000d5067a/SafeScript-prompts-sustained-decline-in-multiple-prescribers.aspx",
         "ai_summary": [
-          "SafeScript use led to decline in prescribers",
-          "Monitoring program affects prescription rates",
-          "Study found 15% drop in multiple prescribers",
+          "SafeScript use leads to decline in multiple prescribers",
+          "Monitoring program reduces patient risk",
+          "15 percent drop in patients seeing multiple prescribers",
           "GPs emphasize importance of clinical acumen",
-          "SafeScript is a monitoring program"
+          "Program aims to improve patient safety and care"
         ]
       },
       {
@@ -53,11 +53,11 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/47207eff-82e7-43ce-869b-76dfaeb3166b/Report-pinpoints-electorates-most-likely-to-bulk-bill.aspx",
         "ai_summary": [
-          "Report identifies areas with high bulk billing",
-          "One city dominates the list of electorates",
+          "Report identifies areas with high bulk billing rates",
+          "One city dominates list of bulk billing areas",
           "Gap fees increase for privately billed patients",
-          "Bulk billing rates vary by electorate",
-          "Report provides insights into billing practices"
+          "Bulk billing rates vary across different areas",
+          "Report analyzes bulk billing trends and patterns"
         ]
       },
       {
@@ -80,24 +80,24 @@
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/4b08380c-345d-4673-8255-0ee6797e3aaa/Illegal-peptide-warnings-intensify-amid-acute-liver-toxicity.aspx",
         "ai_summary": [
-          "Six Victorian cases linked to unapproved drugs",
-          "Australia's CMO sounds alarm on escalating health threat",
-          "Unapproved peptides cause acute liver toxicity",
-          "Victorian government issues warning to public",
-          "Patients advised to seek medical attention immediately"
+          "Illegal peptide use linked to liver toxicity cases",
+          "Six cases reported in Victoria due to peptide use",
+          "Australia's CMO warns of escalating health threat",
+          "Unapproved drugs pose significant health risks",
+          "Authorities intensify warnings against peptide use"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-06-22T09:09:44.673Z",
+    "updated_at": "2026-06-22T15:51:06.315Z",
     "clusters": [
       {
-        "id": "cluster_6",
+        "id": "cluster_11",
         "coverage": 2,
         "updated_at": "Mon, 22 Jun 2026 01:43:53 GMT",
         "title": "Jeremy Clarkson says he’s in remission from prostate cancer: ‘The doctors caught it early’",
-        "neutral_headline": "Jeremy Clarkson in remission from prostate cancer",
+        "neutral_headline": "Jeremy Clarkson says he’s in remission from prostate cancer",
         "items": [
           {
             "source": "Guardian Health",
@@ -121,19 +121,161 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c89/live/f4659520-6d08-11f1-ac3a-fd1dab35209e.jpg",
         "ai_summary": [
-          "Jeremy Clarkson diagnosed with aggressive prostate cancer",
-          "Former Top Gear host urges others to get tested",
-          "Clarkson's Farm episode reveals cancer diagnosis",
-          "Doctors caught cancer early due to regular checkups",
-          "Clarkson considers himself the world's luckiest man"
+          "Jeremy Clarkson announces prostate cancer remission",
+          "Doctors caught cancer early through testing",
+          "Clarkson urges others to get tested for cancer",
+          "Prostate cancer diagnosis and treatment discussed",
+          "Clarkson's health update shared with public"
         ]
       },
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Mon, 22 Jun 2026 15:00:17 GMT",
+        "title": "Brown skuas and giant petrels rarely make landfall. When they were found in WA, scientists feared ‘bad news’ for wildlife",
+        "neutral_headline": "Bird Flu Arrives In Australia",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/environment/2026/jun/23/brown-skuas-giant-petrels-wa-h5n1-bird-flu",
+            "published_at": "Mon, 22 Jun 2026 15:00:17 GMT",
+            "title": "Brown skuas and giant petrels rarely make landfall. When they were found in WA, scientists feared ‘bad news’ for wildlife",
+            "standfirst": "Experts thought H5N1 bird flu would more likely reach Australia’s north. But an arrival from Antarctica had always been possibleGet our breaking news email, free app or daily news podcastBrown skuas and giant petrels are a common sight offshore in southern Australian waters in the winter months, but they will rarely risk venturing on to land.So when two of these birds were discovered sick – on beaches a few kilometres apart on Western Australia’s southern coastline – it was a sign something might be wrong. Continue reading...",
+            "content": "Experts thought H5N1 bird flu would more likely reach Australia’s north. But an arrival from Antarctica had always been possibleGet our breaking news email, free app or daily news podcastBrown skuas and giant petrels are a common sight offshore in southern Australian waters in the winter months, but they will rarely risk venturing on to land.So when two of these birds were discovered sick – on beaches a few kilometres apart on Western Australia’s southern coastline – it was a sign something might be wrong. Continue reading...",
+            "feed_position": 0
+          },
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/environment/2026/jun/21/h5-bird-flu-australia-wildlife-emergency-explainer-h5n1",
+            "published_at": "Sun, 21 Jun 2026 06:11:42 GMT",
+            "title": "‘A genuine wildlife emergency’: everything you need to know about the arrival of H5 bird flu in Australia",
+            "standfirst": "What is the virus? Where did it come from? Are humans at risk? What does it mean for the agricultural sector and wildlife? Experts answer your questionsGet our breaking news email, free app or daily news podcastA deadly strain of bird flu, known as H5 bird flu, has arrived on the Australian mainland.The federal agriculture minister, Julie Collins, this weekend confirmed that a brown skua – that had been found sick in Western Australia – had died from the H5N1 virus. The skua is a wild migratory bird. Continue reading...",
+            "content": "What is the virus? Where did it come from? Are humans at risk? What does it mean for the agricultural sector and wildlife? Experts answer your questionsGet our breaking news email, free app or daily news podcastA deadly strain of bird flu, known as H5 bird flu, has arrived on the Australian mainland.The federal agriculture minister, Julie Collins, this weekend confirmed that a brown skua – that had been found sick in Western Australia – had died from the H5N1 virus. The skua is a wild migratory bird. Continue reading...",
+            "feed_position": 9
+          }
+        ],
+        "ai_summary": [
+          "H5 bird flu strain arrives in Western Australia",
+          "Brown skua and giant petrels found with virus",
+          "Experts fear wildlife and agricultural impacts",
+          "Virus origin and transmission routes studied",
+          "Authorities respond to bird flu outbreak"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Mon, 22 Jun 2026 13:48:18 GMT",
+        "title": "What does hot weather do to the body?",
+        "neutral_headline": "Hot Weather Affects Human Body",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/cy7n6m7y6yvo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 22 Jun 2026 13:48:18 GMT",
+            "title": "What does hot weather do to the body?",
+            "standfirst": "Hot weather during the summer can affect anyone, but some people run a greater risk of serious harm.",
+            "content": "Hot weather during the summer can affect anyone, but some people run a greater risk of serious harm.",
+            "feed_position": 17,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/006e/live/59868860-5ab7-11f1-89a3-d1f559421220.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/006e/live/59868860-5ab7-11f1-89a3-d1f559421220.jpg",
+        "ai_summary": [
+          "Hot weather poses health risks to humans",
+          "Certain groups more vulnerable to heat effects",
+          "Body temperature regulation affected by heat",
+          "Heat-related illnesses and symptoms discussed",
+          "Precautions and prevention measures outlined"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Mon, 22 Jun 2026 13:43:26 GMT",
+        "title": "What are UV levels and how can you protect yourself?",
+        "neutral_headline": "UV Levels And Protection",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/ckmg1572e8ko?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 22 Jun 2026 13:43:26 GMT",
+            "title": "What are UV levels and how can you protect yourself?",
+            "standfirst": "Some UV exposure is essential for our wellbeing, but too much is damaging and can cause skin cancer.",
+            "content": "Some UV exposure is essential for our wellbeing, but too much is damaging and can cause skin cancer.",
+            "feed_position": 18,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8a0/live/1f4e29c0-58e4-11f1-aa85-913b08133db5.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8a0/live/1f4e29c0-58e4-11f1-aa85-913b08133db5.jpg",
+        "ai_summary": [
+          "UV exposure essential for human wellbeing",
+          "Excessive UV exposure causes skin damage",
+          "UV levels and protection methods discussed",
+          "Skin cancer risks associated with UV exposure",
+          "Prevention and protection measures recommended"
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
+        "updated_at": "Mon, 22 Jun 2026 11:13:44 GMT",
+        "title": "Six ways to keep your home and yourself cool in hot weather",
+        "neutral_headline": "Keeping Home And Self Cool",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.com/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 22 Jun 2026 11:13:44 GMT",
+            "title": "Six ways to keep your home and yourself cool in hot weather",
+            "standfirst": "Six simple things you can do to help keep your house cool when temperatures rise.",
+            "content": "Six simple things you can do to help keep your house cool when temperatures rise.",
+            "feed_position": 4,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e24c/live/6818c2b0-4cff-11f0-9d3e-6149fb67e70c.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e24c/live/6818c2b0-4cff-11f0-9d3e-6149fb67e70c.jpg",
+        "ai_summary": [
+          "Simple methods to keep home cool in heat",
+          "Cooling techniques to reduce heat stress",
+          "Home cooling tips and tricks shared",
+          "Personal cooling methods for hot weather",
+          "Energy-efficient cooling solutions discussed"
+        ]
+      },
+      {
+        "id": "cluster_4",
+        "coverage": 1,
+        "updated_at": "Mon, 22 Jun 2026 11:05:28 GMT",
+        "title": "What to do if you think someone has heat exhaustion or heatstroke",
+        "neutral_headline": "Heat Exhaustion And Heatstroke Response",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.com/news/articles/ckgl51jjp3jo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Mon, 22 Jun 2026 11:05:28 GMT",
+            "title": "What to do if you think someone has heat exhaustion or heatstroke",
+            "standfirst": "Know the signs and what to do if someone is unwell in hot weather.",
+            "content": "Know the signs and what to do if someone is unwell in hot weather.",
+            "feed_position": 19,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe17/live/a3996890-4b8c-11f0-8efc-193ffd471116.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe17/live/a3996890-4b8c-11f0-8efc-193ffd471116.jpg",
+        "ai_summary": [
+          "Signs and symptoms of heat exhaustion and heatstroke",
+          "Response and treatment for heat-related illnesses",
+          "Importance of prompt medical attention stressed",
+          "Prevention and precaution measures outlined",
+          "Heat-related illness risks and consequences discussed"
+        ]
+      },
+      {
+        "id": "cluster_5",
+        "coverage": 1,
         "updated_at": "Mon, 22 Jun 2026 07:00:03 GMT",
         "title": "‘Truly horrific’: the stories of five people affected by the NHS maternity scandal",
-        "neutral_headline": "NHS maternity scandal report to be published",
+        "neutral_headline": "NHS Maternity Scandal Report Reveals Failings",
         "items": [
           {
             "source": "Guardian Health",
@@ -147,18 +289,18 @@
         ],
         "ai_summary": [
           "Nottingham University Hospitals NHS trust investigated",
-          "Stillbirths and neonatal deaths among cases examined",
-          "Senior midwife Donna Ockenden leads inquiry",
-          "Report to reveal findings on maternity failures",
-          "Families of affected patients await report's release"
+          "2500 families affected by maternity failures",
+          "Stillbirths and neonatal deaths examined",
+          "Maternal deaths and brain damage cases reviewed",
+          "Report led by senior midwife Donna Ockenden"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Mon, 22 Jun 2026 07:00:02 GMT",
         "title": "Is it true that … beards are unhygienic?",
-        "neutral_headline": "Beards are not unhygienic according to science",
+        "neutral_headline": "Beards Are Not Unhygienic",
         "items": [
           {
             "source": "Guardian Health",
@@ -171,19 +313,19 @@
           }
         ],
         "ai_summary": [
-          "Research shows beards are not dirtier than clean-shaven faces",
-          "Study finds unwashed clean-shaven faces have most bacteria",
-          "Bearded men perceived as less hygienic by some",
-          "Science does not support notion that beards are unhygienic",
-          "Facial hair does not increase risk of illness"
+          "Research debunks beard hygiene myths",
+          "Bacteria found on clean-shaven faces too",
+          "Study compared washed and unwashed faces",
+          "Bearded faces had less bacteria than unwashed",
+          "Perception of beards as unhygienic is incorrect"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Mon, 22 Jun 2026 07:00:01 GMT",
         "title": "Report on Nottingham NHS maternity scandal to reveal ‘horrendous’ failings",
-        "neutral_headline": "Nottingham NHS maternity scandal report reveals racism",
+        "neutral_headline": "Report on Nottingham NHS Maternity Scandal to Reveal Horrendous Failings",
         "items": [
           {
             "source": "Guardian Health",
@@ -196,19 +338,19 @@
           }
         ],
         "ai_summary": [
-          "Report outlines horrendous failings in maternity care",
-          "Racism towards mothers among appalling behaviors found",
-          "Staff at Nottingham hospitals accused of misconduct",
-          "Inquiry led by senior midwife Donna Ockenden",
-          "Findings to be made public in upcoming report"
+          "Ockenden inquiry uncovers appalling behavior",
+          "Racism towards mothers reported at hospitals",
+          "Queen's Medical Centre and Nottingham City hospital",
+          "Failings in care provided to women revealed",
+          "Report to outline horrendous mistakes made"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Mon, 22 Jun 2026 05:14:16 GMT",
         "title": "Woman finds rare pink grasshoppers in garden",
-        "neutral_headline": "Rare pink grasshoppers found in garden",
+        "neutral_headline": "Rare Pink Grasshoppers Found",
         "items": [
           {
             "source": "BBC Science",
@@ -223,19 +365,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f77/live/6da33740-6b1e-11f1-be36-65d2d6d55e70.jpg",
         "ai_summary": [
-          "Woman discovers rare pink grasshoppers in her garden",
-          "Pink grasshoppers usually eaten by birds due to visibility",
-          "Rare sight due to grasshoppers' inability to camouflage",
-          "Grasshoppers found in garden are unusual color variation",
-          "Pink grasshoppers are not commonly seen in nature"
+          "Woman discovers rare pink grasshoppers",
+          "Grasshoppers usually eaten by birds quickly",
+          "Rare sight due to lack of camouflage",
+          "Pink grasshoppers found in garden",
+          "Rare genetic variation causes color"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Mon, 22 Jun 2026 05:08:04 GMT",
         "title": "Swim club calls for more school water safety lessons",
-        "neutral_headline": "Swim club calls for more water safety lessons",
+        "neutral_headline": "Swim Club Calls for Water Safety Lessons",
         "items": [
           {
             "source": "BBC Health",
@@ -250,19 +392,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c202/live/39380980-6e0d-11f1-9110-95eb626f214e.jpg",
         "ai_summary": [
-          "New Water Safety Forum to be introduced in schools",
-          "Primary and secondary schools to receive water safety lessons",
-          "Swim club advocates for increased water safety education",
-          "Lessons aim to reduce risk of water-related accidents",
-          "Forum to promote water safety awareness among students"
+          "New Water Safety Forum introduced",
+          "Primary and secondary schools to participate",
+          "Autumn launch for water safety program",
+          "Swim club advocates for more safety lessons",
+          "Water safety education to be promoted"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Mon, 22 Jun 2026 05:00:50 GMT",
         "title": "I disagree with Andy Burnham’s politics. But as former health secretaries, we both know the NHS needs to be fixed | Jeremy Hunt",
-        "neutral_headline": "NHS needs to be fixed according to former health secretary",
+        "neutral_headline": "NHS Needs to Be Fixed",
         "items": [
           {
             "source": "Guardian Health",
@@ -275,19 +417,19 @@
           }
         ],
         "ai_summary": [
-          "Jeremy Hunt says NHS needs to be fixed and innovated",
-          "Former health secretary calls for increased productivity",
-          "NHS spending has increased but activity has not",
-          "Waiting lists remain high due to lack of progress",
-          "Hunt suggests new approaches to improve NHS services"
+          "Former health secretary Jeremy Hunt speaks",
+          "NHS spending as proportion of GDP high",
+          "Staff numbers increased by 20 percent",
+          "Activity increase of only 10 percent",
+          "Waiting lists remain stubbornly high"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Sun, 21 Jun 2026 16:25:35 GMT",
         "title": "The Guardian view on nicotine: we shouldn’t buy the idea of addiction without harm | Editorial",
-        "neutral_headline": "Nicotine regulation to be reviewed by UN",
+        "neutral_headline": "Nicotine Regulation Debated",
         "items": [
           {
             "source": "Guardian Health",
@@ -300,19 +442,19 @@
           }
         ],
         "ai_summary": [
-          "UN to review legal status of nicotine in 2028",
-          "Nicotine products such as vapes and pouches under scrutiny",
-          "Regulation of nicotine products has been slow",
-          "Health case for banning cigarettes is well established",
-          "Nicotine addiction and dependence to be reevaluated"
+          "UN to review legal status of nicotine",
+          "Outright ban considered but not decided",
+          "Nicotine addiction and harm debated",
+          "Regulation of tobacco-free products discussed",
+          "WHO expert committee to review nicotine"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Sun, 21 Jun 2026 16:00:34 GMT",
         "title": "How much preventive health screening should I be getting?",
-        "neutral_headline": "Preventive health screening guidelines to be clarified",
+        "neutral_headline": "Preventive Health Screenings",
         "items": [
           {
             "source": "Guardian Health",
@@ -325,19 +467,19 @@
           }
         ],
         "ai_summary": [
-          "Screenings can find treatable conditions before damage",
-          "Overscreening can cause harm and unnecessary testing",
-          "Line between helpful screening and unnecessary testing blurred",
-          "Medical technology has become more powerful and marketable",
-          "Clinicians to provide guidance on recommended screenings"
+          "Screenings can find treatable conditions",
+          "Overscreening can cause harm and waste",
+          "Line between helpful and unnecessary blurred",
+          "Medical technology advances rapidly",
+          "Clinicians must recommend screenings carefully"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Sun, 21 Jun 2026 15:06:40 GMT",
         "title": "Lives are being ruined by undiagnosed hypermobility and lack of treatment | Letter",
-        "neutral_headline": "Hypermobile Ehlers-Danlos syndrome diagnosis delayed",
+        "neutral_headline": "Hypermobile Ehlers-Danlos Syndrome",
         "items": [
           {
             "source": "Guardian Health",
@@ -346,23 +488,50 @@
             "title": "Lives are being ruined by undiagnosed hypermobility and lack of treatment | Letter",
             "standfirst": "Ignorance around hypermobile Ehlers-Danlos syndrome is a public health catastrophe, say readers in response to an article on how sufferers have to wait 21 years for a diagnosisYour coverage of hypermobile Ehlers-Danlos syndrome (hEDS) is a vital start to addressing a systemic public health catastrophe (UK hypermobility sufferers wait up to 21 years for diagnosis, study suggests, 15 June). I am 34 and a former drama student who is unable to build any career as hEDS dismantled my life. The condition has made friendships and relationships very difficult.My decline began at 19 with surgeries; by 24, I was diagnosed with thyroid cancer and Hashimoto’s, and had a Beighton score, which is used to assess hypermobility, of 9/9. My life has been defined by chronic pain and fatigue. For eight years, my nervous system has been so unstable that I have frequently been unable to read, watch TV or tolerate light. At my lowest, I could not spell basic words or speak in coherent sentences. Continue reading...",
             "content": "Ignorance around hypermobile Ehlers-Danlos syndrome is a public health catastrophe, say readers in response to an article on how sufferers have to wait 21 years for a diagnosisYour coverage of hypermobile Ehlers-Danlos syndrome (hEDS) is a vital start to addressing a systemic public health catastrophe (UK hypermobility sufferers wait up to 21 years for diagnosis, study suggests, 15 June). I am 34 and a former drama student who is unable to build any career as hEDS dismantled my life. The condition has made friendships and relationships very difficult.My decline began at 19 with surgeries; by 24, I was diagnosed with thyroid cancer and Hashimoto’s, and had a Beighton score, which is used to assess hypermobility, of 9/9. My life has been defined by chronic pain and fatigue. For eight years, my nervous system has been so unstable that I have frequently been unable to read, watch TV or tolerate light. At my lowest, I could not spell basic words or speak in coherent sentences. Continue reading...",
-            "feed_position": 0
+            "feed_position": 8
           }
         ],
         "ai_summary": [
-          "Hypermobile Ehlers-Danlos syndrome often undiagnosed",
-          "Sufferers wait up to 21 years for diagnosis and treatment",
+          "Hypermobile Ehlers-Danlos syndrome affects",
+          "Sufferers wait up to 21 years for diagnosis",
           "Condition causes chronic pain and fatigue",
-          "Lack of awareness and understanding of hEDS exists",
-          "Patients call for increased awareness and support"
+          "Readers respond to article on hEDS",
+          "Public health catastrophe due to ignorance"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_15",
+        "coverage": 1,
+        "updated_at": "Sun, 21 Jun 2026 13:00:00 GMT",
+        "title": "The Climate Question",
+        "neutral_headline": "Rising Night-Time Temperatures",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/sounds/play/w3ct99hm?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sun, 21 Jun 2026 13:00:00 GMT",
+            "title": "The Climate Question",
+            "standfirst": "How the rise in night-time temperatures is starting to disrupt our sleep and health",
+            "content": "How the rise in night-time temperatures is starting to disrupt our sleep and health",
+            "feed_position": 46,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0nsrnlt.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0nsrnlt.jpg",
+        "ai_summary": [
+          "Night-time temperatures disrupt sleep",
+          "Sleep disruption affects health and well-being",
+          "Climate change contributes to temperature",
+          "Rising temperatures impact mental health",
+          "Disrupted sleep patterns a growing concern"
+        ]
+      },
+      {
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Sun, 21 Jun 2026 10:52:44 GMT",
         "title": "More trees and nature spaces in council green plan",
-        "neutral_headline": "Bradford Council green plan to increase tree canopy",
+        "neutral_headline": "Bradford Council Green Plan",
         "items": [
           {
             "source": "BBC Science",
@@ -377,19 +546,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2abf/live/5c67d970-6ae9-11f1-a111-df8047375d8f.jpg",
         "ai_summary": [
-          "Bradford Council to increase tree canopy cover",
-          "Plan aims to create more nature reserves and green spaces",
-          "Council sets out to improve environmental sustainability",
-          "Tree planting to help reduce carbon emissions",
-          "Green plan to promote biodiversity and wildlife conservation"
+          "Bradford Council sets out green plan",
+          "Tree canopy cover to be increased",
+          "Nature reserves to be created",
+          "Green spaces to be expanded and improved",
+          "Council aims to enhance local environment"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Sun, 21 Jun 2026 07:10:01 GMT",
         "title": "The tiny highway helping the capital's hedgehogs",
-        "neutral_headline": "Hedgehog highway to help urban wildlife",
+        "neutral_headline": "Hedgehog Highway",
         "items": [
           {
             "source": "BBC Science",
@@ -404,44 +573,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d70/live/32bd1d60-6bc5-11f1-a417-cba5aab91344.jpg",
         "ai_summary": [
-          "Hedgehog highway is network of small holes and gaps",
-          "Allows hedgehogs to move freely through urban areas",
-          "Helps to promote hedgehog conservation and safety",
-          "Hedgehogs can roam and forage without obstruction",
-          "Highway to reduce risk of hedgehog accidents and injuries"
+          "Hedgehog highway helps urban hedgehogs",
+          "Network of small holes and gaps created",
+          "Hedgehogs can move freely through highway",
+          "Conservation effort to protect hedgehogs",
+          "Urban planning incorporates hedgehog needs"
         ]
       },
       {
-        "id": "cluster_12",
-        "coverage": 1,
-        "updated_at": "Sun, 21 Jun 2026 06:11:42 GMT",
-        "title": "‘A genuine wildlife emergency’: everything you need to know about the arrival of H5 bird flu in Australia",
-        "neutral_headline": "H5 bird flu arrives in Australia",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/environment/2026/jun/21/h5-bird-flu-australia-wildlife-emergency-explainer-h5n1",
-            "published_at": "Sun, 21 Jun 2026 06:11:42 GMT",
-            "title": "‘A genuine wildlife emergency’: everything you need to know about the arrival of H5 bird flu in Australia",
-            "standfirst": "What is the virus? Where did it come from? Are humans at risk? What does it mean for the agricultural sector and wildlife? Experts answer your questionsGet our breaking news email, free app or daily news podcastA deadly strain of bird flu, known as H5 bird flu, has arrived on the Australian mainland.The federal agriculture minister, Julie Collins, this weekend confirmed that a brown skua – that had been found sick in Western Australia – had died from the H5N1 virus. The skua is a wild migratory bird. Continue reading...",
-            "content": "What is the virus? Where did it come from? Are humans at risk? What does it mean for the agricultural sector and wildlife? Experts answer your questionsGet our breaking news email, free app or daily news podcastA deadly strain of bird flu, known as H5 bird flu, has arrived on the Australian mainland.The federal agriculture minister, Julie Collins, this weekend confirmed that a brown skua – that had been found sick in Western Australia – had died from the H5N1 virus. The skua is a wild migratory bird. Continue reading...",
-            "feed_position": 8
-          }
-        ],
-        "ai_summary": [
-          "Deadly H5 bird flu strain found in Australian bird",
-          "Brown skua bird died from H5N1 virus in Western Australia",
-          "Federal agriculture minister confirms outbreak",
-          "H5 bird flu poses risk to human health and agriculture",
-          "Experts to monitor situation and provide updates"
-        ]
-      },
-      {
-        "id": "cluster_13",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Sun, 21 Jun 2026 05:23:36 GMT",
         "title": "How can we help our fathers live longer?",
-        "neutral_headline": "How to help fathers live longer",
+        "neutral_headline": "Helping Fathers Live Longer",
         "items": [
           {
             "source": "BBC Health",
@@ -456,19 +600,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aae0/live/012271c0-6c64-11f1-bc31-29d932e7ad26.jpg",
         "ai_summary": [
-          "One in five men dies before age 65",
-          "Getting help sooner can save lives and improve health",
-          "Regular checkups and screenings are essential",
-          "Healthy lifestyle and diet can reduce risk of illness",
-          "Early intervention and treatment can improve outcomes"
+          "One in five men dies before 65 years",
+          "Getting help sooner can save lives",
+          "Health education and awareness important",
+          "Men's health issues often overlooked",
+          "Early intervention can improve health outcomes"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Sat, 20 Jun 2026 20:00:13 GMT",
         "title": "‘A child goes to bed and doesn’t wake up’: the families left in shock after the sudden death of their healthy children",
-        "neutral_headline": "Sudden Cardiac Arrest Affects Healthy Children",
+        "neutral_headline": "Sudden Cardiac Arrest in Children",
         "items": [
           {
             "source": "Guardian Health",
@@ -477,73 +621,21 @@
             "title": "‘A child goes to bed and doesn’t wake up’: the families left in shock after the sudden death of their healthy children",
             "standfirst": "Sudden cardiac arrest is statistically rare but among the leading causes of death for children and young people. And families often have no idea of the risk until it’s too lateBefore Alexandra Thoms goes to sleep, she puts together a flat-pack dining table with her father, Gordon. She needs the table for her otherwise sparse two-bedroom Melbourne apartment which she has moved into just weeks earlier.At 23, Alexandra has met the milestones of an ambitious life at lightning speed. She is well travelled, has earned a double university degree and a graduate job at Deloitte. She is healthy; an avid skier and gymgoer. Now, she is also a homeowner. She didn’t have a formal housewarming, though, as most of her friends still live at home. Continue reading...",
             "content": "Sudden cardiac arrest is statistically rare but among the leading causes of death for children and young people. And families often have no idea of the risk until it’s too lateBefore Alexandra Thoms goes to sleep, she puts together a flat-pack dining table with her father, Gordon. She needs the table for her otherwise sparse two-bedroom Melbourne apartment which she has moved into just weeks earlier.At 23, Alexandra has met the milestones of an ambitious life at lightning speed. She is well travelled, has earned a double university degree and a graduate job at Deloitte. She is healthy; an avid skier and gymgoer. Now, she is also a homeowner. She didn’t have a formal housewarming, though, as most of her friends still live at home. Continue reading...",
-            "feed_position": 9
-          }
-        ],
-        "ai_summary": [
-          "Sudden cardiac arrest is a rare cause of death",
-          "It affects children and young people statistically",
-          "Families often have no idea of the risk",
-          "Healthy children can be affected by cardiac arrest",
-          "Cardiac arrest is among leading causes of death"
-        ]
-      },
-      {
-        "id": "cluster_15",
-        "coverage": 1,
-        "updated_at": "Sat, 20 Jun 2026 11:05:56 GMT",
-        "title": "Exhibition explores moths' ability to adapt",
-        "neutral_headline": "Moths Adaptation Exhibition Opens",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.com/news/articles/cly7281n405o?at_medium=RSS&at_campaign=rss",
-            "published_at": "Sat, 20 Jun 2026 11:05:56 GMT",
-            "title": "Exhibition explores moths' ability to adapt",
-            "standfirst": "An exhibition examining how moths adapt to environmental changes has opened in Kestle Barton.",
-            "content": "An exhibition examining how moths adapt to environmental changes has opened in Kestle Barton.",
-            "feed_position": 16,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ae5/live/d13caf60-689f-11f1-b9ac-e71b9be292bd.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ae5/live/d13caf60-689f-11f1-b9ac-e71b9be292bd.jpg",
-        "ai_summary": [
-          "Exhibition explores moths adaptation ability",
-          "Environmental changes affect moths greatly",
-          "Moths have unique adaptation mechanisms",
-          "Exhibition opened in Kestle Barton location",
-          "Moths are highly adaptable creatures naturally"
-        ]
-      },
-      {
-        "id": "cluster_16",
-        "coverage": 1,
-        "updated_at": "Sat, 20 Jun 2026 11:00:05 GMT",
-        "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine",
-        "neutral_headline": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/world/2026/jun/20/rfk-jr-hantavirus-quarantine",
-            "published_at": "Sat, 20 Jun 2026 11:00:05 GMT",
-            "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine",
-            "standfirst": "Kennedy overrides CDC order saying American who came into contact with hantavirus can self-quarantineThe Trump administration is employing “authoritarian” and “unconstitutional” quarantine measures for at least one person who came into contact with a hantavirus patient, health law experts say.The mandatory quarantine, reimposed without an offering scientific evidence, reveals how the US might approach future cases of Ebola and other pathogens in the US – and sets a precedent for detaining Americans with no scientific rationale. Continue reading...",
-            "content": "Kennedy overrides CDC order saying American who came into contact with hantavirus can self-quarantineThe Trump administration is employing “authoritarian” and “unconstitutional” quarantine measures for at least one person who came into contact with a hantavirus patient, health law experts say.The mandatory quarantine, reimposed without an offering scientific evidence, reveals how the US might approach future cases of Ebola and other pathogens in the US – and sets a precedent for detaining Americans with no scientific rationale. Continue reading...",
             "feed_position": 10
           }
         ],
         "ai_summary": [
-          "RFK Jr overrides CDC quarantine order",
-          "American who contacted hantavirus can self-quarantine",
-          "Health experts call measures authoritarian",
-          "Quarantine lacks scientific evidence basis",
-          "Experts warn of precedent for detaining Americans"
+          "Sudden cardiac arrest rare but deadly",
+          "Families often unaware of risk factors",
+          "Healthy children can be affected suddenly",
+          "Cardiac arrest a leading cause of death",
+          "Awareness and education are crucial for prevention"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-06-22T09:09:48.571Z",
+    "updated_at": "2026-06-22T15:51:06.989Z",
     "clusters": []
   }
 }
