@@ -1,13 +1,94 @@
 {
   "clinical": {
-    "updated_at": "2026-07-07T06:46:45.828Z",
+    "updated_at": "2026-07-07T13:20:31.300Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-07-07T06:46:52.758Z",
+    "updated_at": "2026-07-07T13:20:38.144Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Tue, 07 Jul 2026 06:49:44 GMT",
+        "title": "Alarm over ‘quick prescriptions’ for GLP-1s online",
+        "neutral_headline": "Alarm over ‘quick prescriptions’ for GLP-1s online",
+        "items": [
+          {
+            "source": "newsGP",
+            "url": "https://www1.racgp.org.au/newsgp/clinical/alarm-over-quick-prescriptions-for-glp-1s-online?feed=RACGPnewsGPArticles",
+            "published_at": "Tue, 07 Jul 2026 06:49:44 GMT",
+            "title": "Alarm over ‘quick prescriptions’ for GLP-1s online",
+            "standfirst": "Australian GPs are speaking out after a US secret shopper study revealed how easy it is for patients to get a GLP-1 prescription.",
+            "content": "Australian GPs are speaking out after a US secret shopper study revealed how easy it is for patients to get a GLP-1 prescription.",
+            "feed_position": 0,
+            "image_url": "https://www1.racgp.org.au/getattachment/0fdd669a-c252-4516-a0d7-bdcdad3df7b8/Alarm-over-quick-prescriptions-for-GLP-1s-online.aspx"
+          }
+        ],
+        "featured_image": "https://www1.racgp.org.au/getattachment/0fdd669a-c252-4516-a0d7-bdcdad3df7b8/Alarm-over-quick-prescriptions-for-GLP-1s-online.aspx",
+        "ai_summary": [
+          "Australian GPs are speaking out about prescriptions",
+          "A US secret shopper study revealed easy access",
+          "Patients can easily get GLP-1 prescriptions online",
+          "GPs are concerned about patient safety",
+          "The study highlights a significant issue"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Tue, 07 Jul 2026 06:47:33 GMT",
+        "title": "Diabetes patients benefit from GP-led CGM access: Study",
+        "neutral_headline": "Diabetes patients benefit from GP-led CGM access: Study",
+        "items": [
+          {
+            "source": "newsGP",
+            "url": "https://www1.racgp.org.au/newsgp/clinical/diabetes-patients-benefit-from-gp-led-cgm-access-s?feed=RACGPnewsGPArticles",
+            "published_at": "Tue, 07 Jul 2026 06:47:33 GMT",
+            "title": "Diabetes patients benefit from GP-led CGM access: Study",
+            "standfirst": "Less hospital visits and improved HBA1c levels were seen in patients with continuous glucose monitoring managed by GPs.",
+            "content": "Less hospital visits and improved HBA1c levels were seen in patients with continuous glucose monitoring managed by GPs.",
+            "feed_position": 1,
+            "image_url": "https://www1.racgp.org.au/getattachment/dcc96fe0-7e1b-4117-be28-2e7b92a3e473/Diabetes-patients-benefit-from-GP-led-CGM-access-Study.aspx"
+          }
+        ],
+        "featured_image": "https://www1.racgp.org.au/getattachment/dcc96fe0-7e1b-4117-be28-2e7b92a3e473/Diabetes-patients-benefit-from-GP-led-CGM-access-Study.aspx",
+        "ai_summary": [
+          "Diabetes patients benefit from GP-led CGM access",
+          "The study shows less hospital visits",
+          "Patients have improved HBA1c levels",
+          "GPs manage continuous glucose monitoring",
+          "The study highlights the benefits of GP-led care"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Tue, 07 Jul 2026 06:30:33 GMT",
+        "title": "GPs lose PBS adrenaline prescribing exemption",
+        "neutral_headline": "GPs lose PBS adrenaline prescribing exemption",
+        "items": [
+          {
+            "source": "newsGP",
+            "url": "https://www1.racgp.org.au/newsgp/clinical/gps-lose-pbs-adrenaline-prescribing-exemption?feed=RACGPnewsGPArticles",
+            "published_at": "Tue, 07 Jul 2026 06:30:33 GMT",
+            "title": "GPs lose PBS adrenaline prescribing exemption",
+            "standfirst": "Doctors have been left fearing for their patients&rsquo; safety following the surprise removal of the exemption for some GPs to initiate anaphylaxis medication.",
+            "content": "Doctors have been left fearing for their patients&rsquo; safety following the surprise removal of the exemption for some GPs to initiate anaphylaxis medication.",
+            "feed_position": 2,
+            "image_url": "https://www1.racgp.org.au/getattachment/f4f3efb9-4d70-49b4-b98b-2669310e1155/GPs-lose-PBS-adrenaline-prescribing-exemption.aspx"
+          }
+        ],
+        "featured_image": "https://www1.racgp.org.au/getattachment/f4f3efb9-4d70-49b4-b98b-2669310e1155/GPs-lose-PBS-adrenaline-prescribing-exemption.aspx",
+        "ai_summary": [
+          "GPs have lost their PBS adrenaline exemption",
+          "Doctors are concerned about patient safety",
+          "The exemption removal was a surprise",
+          "GPs are worried about anaphylaxis medication",
+          "The removal affects some GPs' prescribing abilities"
+        ]
+      },
+      {
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Mon, 06 Jul 2026 06:24:56 GMT",
         "title": "Review exposes ‘weak’ evidence for pharmacy prescribing",
@@ -20,21 +101,21 @@
             "title": "Review exposes ‘weak’ evidence for pharmacy prescribing",
             "standfirst": "An RACGP-commissioned report found much of the rollout is built on &lsquo;insufficient&rsquo; evidence, raising fresh concerns about patient safety and lack of rigorous evaluation.",
             "content": "An RACGP-commissioned report found much of the rollout is built on &lsquo;insufficient&rsquo; evidence, raising fresh concerns about patient safety and lack of rigorous evaluation.",
-            "feed_position": 0,
+            "feed_position": 3,
             "image_url": "https://www1.racgp.org.au/getattachment/431d59cc-106a-480e-a325-94f5fcf93d65/Review-exposes-weak-evidence-for-pharmacy-prescribing.aspx"
           }
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/431d59cc-106a-480e-a325-94f5fcf93d65/Review-exposes-weak-evidence-for-pharmacy-prescribing.aspx",
         "ai_summary": [
-          "Report finds weak evidence for pharmacy prescribing",
-          "RACGP-commissioned report raises concerns",
-          "Patient safety concerns raised",
-          "Lack of rigorous evaluation noted",
-          "Pharmacy prescribing evidence questioned"
+          "A review found weak evidence for pharmacy prescribing",
+          "The rollout is built on insufficient evidence",
+          "Patient safety is a concern",
+          "The review was commissioned by the RACGP",
+          "The findings raise concerns about pharmacy prescribing"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Mon, 06 Jul 2026 06:24:00 GMT",
         "title": "Endorsed registered nurses to prescribe PBS medicines",
@@ -47,57 +128,111 @@
             "title": "Endorsed registered nurses to prescribe PBS medicines",
             "standfirst": "The decision follows &lsquo;long consultation and proper consideration&rsquo;, with the PBAC now considering which medicines will be available.",
             "content": "The decision follows &lsquo;long consultation and proper consideration&rsquo;, with the PBAC now considering which medicines will be available.",
-            "feed_position": 1,
+            "feed_position": 4,
             "image_url": "https://www1.racgp.org.au/getattachment/66d7d05a-19f4-4c4c-a6f3-2199c8662bdf/Endorsed-registered-nurses-to-prescribe-PBS-medicines.aspx"
           }
         ],
         "featured_image": "https://www1.racgp.org.au/getattachment/66d7d05a-19f4-4c4c-a6f3-2199c8662bdf/Endorsed-registered-nurses-to-prescribe-PBS-medicines.aspx",
         "ai_summary": [
-          "Registered nurses to prescribe PBS medicines",
-          "Decision follows long consultation",
-          "PBAC to consider available medicines",
-          "Patient safety concerns addressed",
-          "Registered nurses' prescribing powers expanded"
-        ]
-      },
-      {
-        "id": "cluster_2",
-        "coverage": 1,
-        "updated_at": "Mon, 06 Jul 2026 06:02:30 GMT",
-        "title": "Boost for JCTS cultural safety training program",
-        "neutral_headline": "Boost for JCTS cultural safety training program",
-        "items": [
-          {
-            "source": "newsGP",
-            "url": "https://www1.racgp.org.au/newsgp/racgp/boost-for-jcts-cultural-safety-training-program?feed=RACGPnewsGPArticles",
-            "published_at": "Mon, 06 Jul 2026 06:02:30 GMT",
-            "title": "Boost for JCTS cultural safety training program",
-            "standfirst": "In a NAIDOC Week announcement, funding will allow more registrars to learn directly from Aboriginal and Torres Strait Islander educators.",
-            "content": "In a NAIDOC Week announcement, funding will allow more registrars to learn directly from Aboriginal and Torres Strait Islander educators.",
-            "feed_position": 2,
-            "image_url": "https://www1.racgp.org.au/getattachment/6d1df96f-1fc9-42f4-9870-cf894f4295ed/Boost-for-JCTS-cultural-safety-training-program.aspx"
-          }
-        ],
-        "featured_image": "https://www1.racgp.org.au/getattachment/6d1df96f-1fc9-42f4-9870-cf894f4295ed/Boost-for-JCTS-cultural-safety-training-program.aspx",
-        "ai_summary": [
-          "Funding announced for JCTS cultural safety training",
-          "Registrars to learn from Aboriginal educators",
-          "Program expansion during NAIDOC Week",
-          "Increased opportunities for cultural learning",
-          "Improved cultural safety in healthcare"
+          "Endorsed registered nurses can prescribe PBS medicines",
+          "The decision follows long consultation",
+          "The PBAC will consider which medicines are available",
+          "The change affects the prescribing process",
+          "Registered nurses have new prescribing abilities"
         ]
       }
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-07-07T06:46:47.241Z",
+    "updated_at": "2026-07-07T13:20:36.988Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
+        "updated_at": "Tue, 07 Jul 2026 11:05:01 GMT",
+        "title": "Public to be asked who should pay for social care as part of major review",
+        "neutral_headline": "Public To Be Asked About Social Care Funding",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/news/articles/cvg49lq1jw6o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 07 Jul 2026 11:05:01 GMT",
+            "title": "Public to be asked who should pay for social care as part of major review",
+            "standfirst": "Baroness Louise Casey, who is leading the review, has called the current system \"impossible\".",
+            "content": "Baroness Louise Casey, who is leading the review, has called the current system \"impossible\".",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9464/live/e2b5a220-c96c-11ef-b3a3-454067b77f03.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9464/live/e2b5a220-c96c-11ef-b3a3-454067b77f03.jpg",
+        "ai_summary": [
+          "The public will be asked about social care funding",
+          "A major review is being conducted",
+          "Baroness Louise Casey is leading the review",
+          "The current system is considered impossible",
+          "The review will consider funding options"
+        ]
+      },
+      {
+        "id": "cluster_1",
+        "coverage": 1,
+        "updated_at": "Tue, 07 Jul 2026 09:16:09 GMT",
+        "title": "Two tests GPs can soon offer to help spot endometriosis",
+        "neutral_headline": "Two tests GPs can soon offer to help spot endometriosis",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/news/articles/c4gyy8jdn3eo?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 07 Jul 2026 09:16:09 GMT",
+            "title": "Two tests GPs can soon offer to help spot endometriosis",
+            "standfirst": "Experts hope they will be a game-changer and cut the nine-year or longer diagnosis waits patients can currently face.",
+            "content": "Experts hope they will be a game-changer and cut the nine-year or longer diagnosis waits patients can currently face.",
+            "feed_position": 1,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd6/live/77afef50-79e0-11f1-a400-b302bc872d47.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd6/live/77afef50-79e0-11f1-a400-b302bc872d47.jpg",
+        "ai_summary": [
+          "GPs will soon offer two new tests",
+          "The tests can help spot endometriosis",
+          "Experts hope the tests will be a game-changer",
+          "Diagnosis waits can be nine years or longer",
+          "The tests will help reduce diagnosis time"
+        ]
+      },
+      {
+        "id": "cluster_2",
+        "coverage": 1,
+        "updated_at": "Tue, 07 Jul 2026 09:00:00 GMT",
+        "title": "Inside Health",
+        "neutral_headline": "Mosquitos Bite Earlier And Sperm Health",
+        "items": [
+          {
+            "source": "BBC Health",
+            "url": "https://www.bbc.co.uk/sounds/play/m002ym1k?at_medium=RSS&at_campaign=rss",
+            "published_at": "Tue, 07 Jul 2026 09:00:00 GMT",
+            "title": "Inside Health",
+            "standfirst": "Are mosquitos biting earlier and how to optimise sperm.",
+            "content": "Are mosquitos biting earlier and how to optimise sperm.",
+            "feed_position": 42,
+            "image_url": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg",
+        "ai_summary": [
+          "Mosquitos biting earlier due to climate change",
+          "Sperm health affected by environmental factors",
+          "Experts discuss optimal sperm health conditions",
+          "Mosquito bites increase risk of diseases",
+          "Sperm quality declining in many men"
+        ]
+      },
+      {
+        "id": "cluster_3",
+        "coverage": 1,
         "updated_at": "Tue, 07 Jul 2026 05:15:59 GMT",
         "title": "Endometriosis could be diagnosed by blood test, research suggests",
-        "neutral_headline": "Endometriosis Blood Test Research",
+        "neutral_headline": "Endometriosis Could Be Diagnosed By Blood Test",
         "items": [
           {
             "source": "BBC Health",
@@ -112,19 +247,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a852/live/6c3989f0-4462-11f1-ac78-2112837ce2aa.jpg",
         "ai_summary": [
-          "Scientists research endometriosis blood test",
-          "Distinct hormone patterns found in patients",
-          "University of Edinburgh conducts study",
-          "Potential for earlier diagnosis",
-          "Improved treatment options possible"
+          "Researchers find distinct hormone pattern in endometriosis",
+          "Blood test may diagnose endometriosis earlier",
+          "Endometriosis affects one in ten women",
+          "Symptoms include painful periods and bowel movements",
+          "New diagnosis method could improve treatment"
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Tue, 07 Jul 2026 05:12:12 GMT",
         "title": "Slug sleuths on the trail of gorging gastropods",
-        "neutral_headline": "Slug Behaviour Helps Farmers",
+        "neutral_headline": "Slug Behaviour Helps Farmers And Crops",
         "items": [
           {
             "source": "BBC Science",
@@ -139,19 +274,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ab2/live/ec8b79e0-7934-11f1-b976-0b9c15b0ccfc.jpg",
         "ai_summary": [
-          "Slug behaviour prediction helps farmers",
-          "Gastropod habits studied for crop protection",
-          "Farmers reduce crop damage",
-          "New methods for slug control developed",
-          "Environmental benefits from reduced pesticides"
+          "Scientists study slug behaviour to predict damage",
+          "Farmers use slug predictions to protect crops",
+          "Slug damage costs farmers millions annually",
+          "New methods help reduce slug populations",
+          "Farmers benefit from slug behaviour research"
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Tue, 07 Jul 2026 05:11:35 GMT",
         "title": "Nature campaigners take on football club",
-        "neutral_headline": "Nature Campaigners Oppose Football Club",
+        "neutral_headline": "Nature Campaigners Oppose Football Club Plans",
         "items": [
           {
             "source": "BBC Science",
@@ -166,19 +301,19 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff40/live/775c7330-7953-11f1-a7ee-cf9ace21fa85.jpg",
         "ai_summary": [
-          "Campaigners oppose football club expansion",
-          "Green belt land at risk of development",
-          "Kidderminster Harriers propose new pitches",
-          "Environmental concerns raised",
-          "Community debates football club plans"
+          "Football club plans to build on green belt land",
+          "Nature campaigners oppose the development",
+          "Green belt land provides habitat for wildlife",
+          "Football club plans threaten local ecosystem",
+          "Campaigners fight to protect natural areas"
         ]
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Tue, 07 Jul 2026 05:04:26 GMT",
         "title": "Unmasked: The autistic women authoring a better future",
-        "neutral_headline": "Autistic Women Authoring Change",
+        "neutral_headline": "Autistic Women Authoring A Better Future",
         "items": [
           {
             "source": "BBC Health",
@@ -193,44 +328,44 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/690b/live/2f3e67d0-70b0-11f1-88b6-991d05fc2cf9.jpg",
         "ai_summary": [
-          "Autistic women share their experiences",
-          "Late diagnosis and knowledge gaps addressed",
-          "Women advocate for better understanding",
-          "Increased awareness of autism in women",
-          "Community support for autistic women"
+          "Autistic women share their experiences and knowledge",
+          "Late diagnosis affects autistic women's lives",
+          "Autistic women work to fill knowledge gaps",
+          "Women authors promote autism awareness",
+          "Autistic women create a better future for themselves"
         ]
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Tue, 07 Jul 2026 05:00:31 GMT",
         "title": "People keep asking me why I’m choosing to have a caesarean – here are my reasons | Sharon Gaffka",
-        "neutral_headline": "Choosing Caesarean Section",
+        "neutral_headline": "People keep asking me why I’m choosing to have a caesarean – here are my reasons",
         "items": [
           {
             "source": "Guardian Health",
             "url": "https://www.theguardian.com/commentisfree/2026/jul/07/chosen-caesarean-ockenden-amos-reports",
             "published_at": "Tue, 07 Jul 2026 05:00:31 GMT",
             "title": "People keep asking me why I’m choosing to have a caesarean – here are my reasons | Sharon Gaffka",
-            "standfirst": "This isn’t an argument against vaginal birth, and caesareans aren’t without risk. But in the context of failing maternity services, it gives me the greatest sense of calmSharon Gaffka is a reality TV star and political activistOne thing nobody really prepares you for when you’re pregnant is how interested everyone suddenly becomes in your body. People ask if you’re planning on breastfeeding. Whether you’ll have an epidural. If you’re hoping for a water birth. Whether you’ll “try naturally”.I’ve chosen to have a caesarean, and now that I’m getting closer to my due date, the question I get asked most is: “why?” The answer is because I want to.Sharon Gaffka is a reality TV star and political activist Continue reading...",
-            "content": "This isn’t an argument against vaginal birth, and caesareans aren’t without risk. But in the context of failing maternity services, it gives me the greatest sense of calmSharon Gaffka is a reality TV star and political activistOne thing nobody really prepares you for when you’re pregnant is how interested everyone suddenly becomes in your body. People ask if you’re planning on breastfeeding. Whether you’ll have an epidural. If you’re hoping for a water birth. Whether you’ll “try naturally”.I’ve chosen to have a caesarean, and now that I’m getting closer to my due date, the question I get asked most is: “why?” The answer is because I want to.Sharon Gaffka is a reality TV star and political activist Continue reading...",
+            "standfirst": "This isn’t an argument against vaginal birth, and caesareans aren’t without risk. But in the context of failing maternity services, it gives me the greatest sense of calmSharon Gaffka is a reality TV star and political activistOne thing nobody really prepares you for when you’re pregnant is how interested everyone suddenly becomes in your body. People ask if you’re planning on breastfeeding. Whether you’ll have an epidural. If you’re hoping for a water birth. Whether you’ll “try naturally”.I’ve chosen to have a caesarean, and now that I’m getting closer to my due date, the question I get asked most is: “why?” The answer is because I want to.Sharon Gaffka is a reality TV star and political activistDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
+            "content": "This isn’t an argument against vaginal birth, and caesareans aren’t without risk. But in the context of failing maternity services, it gives me the greatest sense of calmSharon Gaffka is a reality TV star and political activistOne thing nobody really prepares you for when you’re pregnant is how interested everyone suddenly becomes in your body. People ask if you’re planning on breastfeeding. Whether you’ll have an epidural. If you’re hoping for a water birth. Whether you’ll “try naturally”.I’ve chosen to have a caesarean, and now that I’m getting closer to my due date, the question I get asked most is: “why?” The answer is because I want to.Sharon Gaffka is a reality TV star and political activistDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
             "feed_position": 1
           }
         ],
         "ai_summary": [
-          "Caesarean section chosen for birth",
-          "Personal reasons for the decision",
-          "Maternity services and safety concerns",
-          "Epidural and breastfeeding options considered",
-          "Individual choices in childbirth"
+          "Reality TV star chooses caesarean birth",
+          "Caesarean birth provides sense of calm",
+          "Maternity services affect birth choices",
+          "Caesarean birth has risks and benefits",
+          "Women have different birth preferences"
         ]
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Tue, 07 Jul 2026 05:00:30 GMT",
         "title": "June heatwave in UK led to ‘mass sleep deprivation’, poll suggests",
-        "neutral_headline": "June Heatwave Causes Sleep Deprivation",
+        "neutral_headline": "June Heatwave Causes Mass Sleep Deprivation",
         "items": [
           {
             "source": "Guardian Health",
@@ -244,18 +379,18 @@
         ],
         "ai_summary": [
           "Record temperatures cause sleep deprivation",
-          "Mass sleep deprivation affects the UK",
-          "Climate crisis linked to heatwaves",
-          "Homes too hot for comfortable sleep",
-          "Health impacts from lack of sleep"
+          "Heatwave affects sleep patterns and health",
+          "Climate crisis contributes to heatwaves",
+          "Sleep deprivation affects daily life",
+          "Heatwaves have severe health consequences"
         ]
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Tue, 07 Jul 2026 04:01:28 GMT",
         "title": "Rapid endometriosis tests to be made available on NHS in England and Wales",
-        "neutral_headline": "Rapid Endometriosis Tests Available",
+        "neutral_headline": "Rapid Endometriosis Tests To Be Made Available On NHS",
         "items": [
           {
             "source": "Guardian Health",
@@ -268,19 +403,19 @@
           }
         ],
         "ai_summary": [
-          "Rapid endometriosis tests on NHS",
+          "New tests diagnose endometriosis quickly",
           "Saliva and gut sensor-based tests available",
-          "Diagnosis time significantly reduced",
-          "Millions of women to benefit from tests",
-          "Improved treatment options for patients"
+          "Endometriosis diagnosis takes years currently",
+          "New tests improve diagnosis and treatment",
+          "NHS provides new endometriosis tests"
         ]
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Tue, 07 Jul 2026 00:49:08 GMT",
         "title": "Why some African nations are turning down Trump aid money",
-        "neutral_headline": "African Nations Decline Trump Aid",
+        "neutral_headline": "African Nations Turn Down Trump Aid Money",
         "items": [
           {
             "source": "BBC Health",
@@ -296,18 +431,18 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/934d/live/e2f21850-763f-11f1-b976-0b9c15b0ccfc.jpg",
         "ai_summary": [
           "African nations decline US aid money",
-          "Transactional aid not seen as fair trade",
-          "Trump administration aid policy questioned",
-          "Alternative aid options considered",
-          "International aid relationships reevaluated"
+          "Aid money has transactional conditions",
+          "Nations prefer non-conditional aid",
+          "US aid policy affects international relations",
+          "African nations make independent decisions"
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Mon, 06 Jul 2026 23:33:47 GMT",
         "title": "Women hit fertility tipping point at 49 - even with young donor eggs",
-        "neutral_headline": "Women Reach Fertility Tipping Point",
+        "neutral_headline": "Women Hit Fertility Tipping Point At 49",
         "items": [
           {
             "source": "BBC Health",
@@ -316,25 +451,25 @@
             "title": "Women hit fertility tipping point at 49 - even with young donor eggs",
             "standfirst": "Age-related changes in the womb lining may be the cause and could be treatable in the future, say experts.",
             "content": "Age-related changes in the womb lining may be the cause and could be treatable in the future, say experts.",
-            "feed_position": 0,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b739/live/c6187610-7627-11f1-ac11-19a4319081d7.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b739/live/c6187610-7627-11f1-ac11-19a4319081d7.jpg",
         "ai_summary": [
-          "Women reach fertility tipping point at 49",
+          "Women's fertility declines at 49 years old",
           "Age-related changes affect womb lining",
-          "Donor eggs and fertility treatment options",
-          "Treatable causes of age-related infertility",
-          "Fertility research and expert insights"
+          "Donor eggs do not guarantee fertility",
+          "Fertility treatment options are available",
+          "Women's fertility declines with age"
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Mon, 06 Jul 2026 23:01:23 GMT",
         "title": "Air pollution linked to DNA changes in sperm, research shows",
-        "neutral_headline": "Air Pollution Affects Sperm DNA",
+        "neutral_headline": "Air Pollution Linked To DNA Changes In Sperm",
         "items": [
           {
             "source": "Guardian Health",
@@ -347,19 +482,19 @@
           }
         ],
         "ai_summary": [
-          "Air pollution linked to sperm DNA changes",
-          "Epigenetic changes from pollutant exposure",
-          "Male fertility affected by air quality",
-          "Research identifies pollution impacts",
-          "Health concerns from air pollution exposure"
+          "Air pollution affects sperm DNA and fertility",
+          "Epigenetic changes occur in sperm genes",
+          "Outdoor pollutants contribute to DNA changes",
+          "Air pollution has severe health consequences",
+          "Sperm DNA changes affect fertility and health"
         ]
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Mon, 06 Jul 2026 18:58:33 GMT",
         "title": "The weight loss pill that you can now buy in the UK",
-        "neutral_headline": "Weight Loss Pill Available in UK",
+        "neutral_headline": "Weight Loss Pill Available In UK",
         "items": [
           {
             "source": "BBC Health",
@@ -378,25 +513,25 @@
             "title": "Wegovy weight loss pill now available in UK - here's what you need to know",
             "standfirst": "The once-a-day pill, from the makers of the Wegovy weight-loss jab, can now be bought privately in UK pharmacies.",
             "content": "The once-a-day pill, from the makers of the Wegovy weight-loss jab, can now be bought privately in UK pharmacies.",
-            "feed_position": 3,
+            "feed_position": 5,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74c8/live/8cfeae00-790e-11f1-b976-0b9c15b0ccfc.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d3/live/9e7d6120-7969-11f1-b976-0b9c15b0ccfc.jpg",
         "ai_summary": [
-          "Weight loss pill Wegovy available in UK",
-          "Private purchase options in pharmacies",
-          "Once-a-day pill for weight loss",
-          "Makers of Wegovy weight-loss jab",
-          "UK availability of weight loss treatment"
+          "Weight loss pill available in UK pharmacies",
+          "Pill helps with weight loss and management",
+          "Weight loss pill has benefits and risks",
+          "Pill available for private purchase",
+          "Weight loss treatment options are available"
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Mon, 06 Jul 2026 18:46:54 GMT",
         "title": "Consultant doctors in England vote for NHS strikes over pay and working week",
-        "neutral_headline": "Consultant Doctors Vote for NHS Strikes",
+        "neutral_headline": "Consultant Doctors Vote For NHS Strikes",
         "items": [
           {
             "source": "Guardian Health",
@@ -409,19 +544,19 @@
           }
         ],
         "ai_summary": [
-          "Consultant doctors vote for NHS strikes",
-          "Pay and working week concerns addressed",
-          "Year-long mandate for strike action",
-          "Fears of disruption in NHS services",
-          "Doctors seek multi-year pay deal"
+          "Consultant doctors vote for strike action",
+          "Doctors demand higher pay and shorter weeks",
+          "NHS strikes may cause disruption",
+          "Doctors' pay has decreased in value",
+          "Strike action may affect patient care"
         ]
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Mon, 06 Jul 2026 18:27:25 GMT",
         "title": "Consultants in England vote in favour of NHS strikes",
-        "neutral_headline": "Consultants Vote for Strike Action",
+        "neutral_headline": "Consultants In England Vote In Favour Of NHS Strikes",
         "items": [
           {
             "source": "BBC Health",
@@ -430,25 +565,25 @@
             "title": "Consultants in England vote in favour of NHS strikes",
             "standfirst": "The senior doctors in England now have a mandate for strike action over the next 12 months.",
             "content": "The senior doctors in England now have a mandate for strike action over the next 12 months.",
-            "feed_position": 1,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a03/live/7f2263d0-7954-11f1-9988-0351319ba973.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a03/live/7f2263d0-7954-11f1-9988-0351319ba973.jpg",
         "ai_summary": [
-          "Consultants in England vote for strikes",
-          "NHS strike action over pay and hours",
-          "Senior doctors seek better working conditions",
-          "Strike mandate for next 12 months",
-          "Potential disruption to NHS services"
+          "Consultant doctors vote for strike action",
+          "Doctors demand better pay and conditions",
+          "NHS strikes may cause disruption",
+          "Doctors' pay has decreased in value",
+          "Strike action may affect patient care"
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Mon, 06 Jul 2026 18:08:23 GMT",
         "title": "Will this heatwave feel as hot and sticky as the last one?",
-        "neutral_headline": "UK Heatwave Comparison",
+        "neutral_headline": "Heatwave To Feel Hot And Sticky",
         "items": [
           {
             "source": "BBC Science",
@@ -463,15 +598,15 @@
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5e/live/87548a20-795d-11f1-b976-0b9c15b0ccfc.jpg",
         "ai_summary": [
-          "UK heatwave comparison to previous one",
-          "Temperature and humidity levels assessed",
-          "Heatwave duration and intensity",
-          "Weather forecast for upcoming heatwave",
-          "Potential health impacts from heatwave"
+          "Heatwave expected to feel hot and sticky",
+          "Climate change contributes to heatwaves",
+          "Heatwaves have severe health consequences",
+          "Heatwave conditions affect daily life",
+          "Weather forecast predicts hot temperatures"
         ]
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Mon, 06 Jul 2026 16:44:54 GMT",
         "title": "Super Typhoon Bavi strikes US Pacific islands with pummeling winds",
@@ -491,14 +626,14 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b57b/live/5de56ea0-7914-11f1-9510-1546718f668b.jpg",
         "ai_summary": [
           "Super Typhoon Bavi strikes Mariana Islands",
-          "Storm brings pummeling winds to the area",
+          "Storm hits Rota with strong winds",
           "Emergency warnings issued on Guam",
-          "Rota hit by the typhoon's strong winds",
-          "Residents advised to take necessary precautions"
+          "Pummeling winds cause damage",
+          "Storm affects US Pacific islands"
         ]
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Mon, 06 Jul 2026 16:17:11 GMT",
         "title": "How US-UK drug deal will benefit patients | Letters",
@@ -515,15 +650,15 @@
           }
         ],
         "ai_summary": [
-          "New medicines reach NHS patients through reformed pricing",
-          "Treatments for cancers and blood disorders included",
-          "Autoimmune condition treatments also available",
-          "National Institute for Health threshold increased",
-          "New treatments previously withheld or delayed now available"
+          "New medicines reach NHS patients quickly",
+          "Reformed pricing arrangements are beneficial",
+          "Treatments for cancers are now available",
+          "Blood disorders and autoimmune treatments",
+          "NHS access to new treatments has improved"
         ]
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Mon, 06 Jul 2026 16:15:55 GMT",
         "title": "Taking a walk down memory lane | Letters",
@@ -540,98 +675,17 @@
           }
         ],
         "ai_summary": [
-          "Readers respond to letters about mental capacity testing",
-          "A doctor tests mental capacity with a writing task",
-          "The task requires a sentence with subject and object",
-          "A reader shares a personal experience with the test",
-          "The test's fairness is questioned by the reader"
-        ]
-      },
-      {
-        "id": "cluster_17",
-        "coverage": 1,
-        "updated_at": "Mon, 06 Jul 2026 15:32:59 GMT",
-        "title": "How often do you get up from your desk?",
-        "neutral_headline": "Short Walks Boost Mood And Lower Fatigue",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.co.uk/news/videos/cy8www7pv5wo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 06 Jul 2026 15:32:59 GMT",
-            "title": "How often do you get up from your desk?",
-            "standfirst": "A study found that even a five-minute walk boosts your mood and lowers fatigue.",
-            "content": "A study found that even a five-minute walk boosts your mood and lowers fatigue.",
-            "feed_position": 2,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613b/live/034612d0-794e-11f1-b976-0b9c15b0ccfc.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613b/live/034612d0-794e-11f1-b976-0b9c15b0ccfc.jpg",
-        "ai_summary": [
-          "A five-minute walk improves mood and health",
-          "Study finds short walks have significant benefits",
-          "Regular walking reduces fatigue and stress",
-          "Short breaks from desks are highly recommended",
-          "Walking boosts overall physical and mental well-being"
-        ]
-      },
-      {
-        "id": "cluster_18",
-        "coverage": 1,
-        "updated_at": "Mon, 06 Jul 2026 15:26:56 GMT",
-        "title": "Farmers 'vindicated' after judge's ruling on pylon firm accessing land",
-        "neutral_headline": "Farmers Vindicated After Judge Rules On Pylon Access",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/c4gyy08zg2no?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 06 Jul 2026 15:26:56 GMT",
-            "title": "Farmers 'vindicated' after judge's ruling on pylon firm accessing land",
-            "standfirst": "Groups representing landowners claimed they were \"frightened\" by agents turning up on their farms.",
-            "content": "Groups representing landowners claimed they were \"frightened\" by agents turning up on their farms.",
-            "feed_position": 2,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c71/live/1a6b7bd0-3d6c-11f1-ac78-2112837ce2aa.jpg"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c71/live/1a6b7bd0-3d6c-11f1-ac78-2112837ce2aa.jpg",
-        "ai_summary": [
-          "Judge rules on pylon firm accessing land",
-          "Landowners claim they were frightened by agents",
-          "Groups representing farmers feel vindicated",
-          "The ruling affects how agents interact with farmers",
-          "Farmers' rights and concerns are being addressed"
-        ]
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Mon, 06 Jul 2026 13:17:29 GMT",
-        "title": "Restoration of river bank saltmarshes begins",
-        "neutral_headline": "River Bank Saltmarshes Restoration Begins",
-        "items": [
-          {
-            "source": "BBC Science",
-            "url": "https://www.bbc.co.uk/news/articles/cx23367pnydo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Mon, 06 Jul 2026 13:17:29 GMT",
-            "title": "Restoration of river bank saltmarshes begins",
-            "standfirst": "Groundwork North East and Cumbria says the scheme will improve water quality and biodiversity",
-            "content": "Groundwork North East and Cumbria says the scheme will improve water quality and biodiversity",
-            "feed_position": 15,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ab/live/9b1ff100-7937-11f1-a8cf-13bdb1aa2cdd.png"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ab/live/9b1ff100-7937-11f1-a8cf-13bdb1aa2cdd.png",
-        "ai_summary": [
-          "Groundwork North East and Cumbria leads restoration",
-          "Scheme aims to improve water quality and biodiversity",
-          "River bank saltmarshes are being restored",
-          "The project will have environmental benefits",
-          "Restoration work is currently underway in the area"
+          "Reader shares mother's hospital experience",
+          "Mother was confused and stressed",
+          "Doctor tests mother's mental capacity",
+          "Mother responds with a complete sentence",
+          "Reader criticizes mental capacity test method"
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-07-07T06:46:52.758Z",
+    "updated_at": "2026-07-07T13:20:38.144Z",
     "clusters": []
   }
 }

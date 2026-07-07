@@ -1,12 +1,96 @@
 {
-  "updated_at": "2026-07-07T06:46:52.756Z",
+  "updated_at": "2026-07-07T13:20:38.131Z",
   "clusters": [
     {
-      "id": "cluster_33",
+      "id": "cluster_0",
+      "coverage": 1,
+      "updated_at": "Tue, 07 Jul 2026 13:15:49 +0000",
+      "title": "New virus catalog reveals which pathogens pose the greatest threat",
+      "neutral_headline": "New Virus Catalog Reveals Pathogen Threats",
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/health/2026/07/new-virus-catalog-reveals-which-pathogens-pose-the-greatest-threat/",
+          "published_at": "Tue, 07 Jul 2026 13:15:49 +0000",
+          "title": "New virus catalog reveals which pathogens pose the greatest threat",
+          "standfirst": "The data can help predict what a future pandemic virus might look like.",
+          "content": "In a typical year, scientists discover two or three viruses that have never been seen in people before. The number fluctuates, but the trend has been fairly steady since the 1960s. Most of these viruses attract little attention, and my colleagues and I have often had to search through old medical papers to find any mention of them. Some viruses disappear entirely and are all but forgotten. At the other extreme, the discovery of HIV-1 in 1983 and Sars-CoV-2 in 2020 presaged the AIDS and COVID pandemics, respectively. Both have killed tens of millions. The next time a scientist finds an unusual or unknown virus in a patient—probably in the next few months—how will they know whether it could lead to a public health emergency on the same scale as AIDS or COVID? My team at the University of Edinburgh has been using the lessons of virus history to help answer this question. Pandemics come in many forms, but in recent times the biggest culprits have been viruses with genomes made from RNA (rather than the more familiar DNA). Thousands of RNA virus species have been identified, and there may be millions, but only 239 infect humans. We recently published a catalog that helps pinpoint the riskiest ones. The type and severity of disease are important indicators, but there will be no pandemic unless the virus can spread between people. That could involve physical contact, or inhaling airborne particles, or exposure to blood or feces, or the bite of a mosquito or tick. For two-thirds of the viruses on our list, an infected person is highly unlikely to pass their infection on. These are known as zoonotic viruses, meaning people usually catch them from animals rather than other people. Rabies is one example. That sounds reassuring, but viruses evolve quickly and there is an understandable concern that a zoonotic virus might acquire the ability to spread among humans. That’s why scientists are so worried about bird flu. But there is no documented example of an RNA virus doing that. Rabies hasn’t, even though there are tens of thousands of human cases every year. A much greater threat comes from viruses that already have the ability to spread from person to person. They might become even more transmissible—as did a series of SARS-CoV-2 variants—but they crossed over from animals already able to spread among people. In the distant past, that was the likely origin of measles, mumps, and rubella, along with dozens of viruses associated with colds and gastrointestinal infections. Then there are viruses that are capable of spreading among humans but, so far, have caused only limited outbreaks. That’s because their R number (how many people, on average, one infected person goes on to infect) is too low and chains of infection eventually die out of their own accord. But R numbers can change; for example, when a virus previously confined to remote villages reaches a city. That happened with Zaire ebolavirus in west Africa in 2014. There have only ever been a few dozen names on our list of outbreak viruses, but it’s a powerful predictor of public health emergencies. Zaire ebolavirus, the insect-borne Chikungunya, Zika and Oropouche viruses, and mpox (a DNA virus) were original entrants, and all have gone on to cause major epidemics. Some rarer viruses on our list have become more familiar, too. One is Andes hantavirus, responsible for a recent outbreak on a cruise ship. Another is the Bundibugyo ebolavirus, which is currently spreading in central Africa. The next pandemic virus Our data can also help predict what a future pandemic virus—sometimes called disease X—might look like. COVID is a good illustration. In 2019, my team showed that highly transmissible viruses tend to be closely related to other viruses that spread between humans, but they emerge separately from animals. That turned out to be a perfect description of SARS-CoV-2, very similar to the original SARS coronavirus but independently (and perhaps indirectly) acquired from bats. The year before, the World Health Organization had proposed a SARS-like coronavirus as a candidate for disease X. That’s why scientists were alarmed about COVID from the outset—it was exactly what they had been looking for. By contrast, neither Andes nor Bundibugyo virus have the right profile to start a global pandemic. But if it were, for example, a novel virus related to measles then it would be a different story. In that scenario, there would be a real possibility of a worldwide emergency much worse than COVID. Andes and Bundibugyo do reinforce one important lesson, though: Both had been spreading for weeks before they were picked up. So had COVID. Finding and understanding new viruses faster would deny the next pandemic the same head start, and could make a huge difference to the eventual toll on lives and livelihoods. Mark Woolhouse is a professor of infectious disease epidemiology at the University of Edinburgh. This article is republished from The Conversation under a Creative Commons license. Read the original article. Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1230363263-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1230363263-1152x648.jpg",
+      "popularity_score": 363.91968583333335,
+      "ai_summary": [
+        "A new virus catalog identifies potential pandemic threats",
+        "The data helps predict future pandemic viruses",
+        "The catalog reveals which pathogens pose the greatest threat",
+        "The information can inform public health decisions",
+        "The catalog is a valuable resource for researchers"
+      ]
+    },
+    {
+      "id": "cluster_24",
+      "coverage": 1,
+      "updated_at": "Tue, 07 Jul 2026 11:00:18 +0000",
+      "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
+      "neutral_headline": "AI Enables Autonomous Robot Workers",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+          "published_at": "Tue, 07 Jul 2026 11:00:18 +0000",
+          "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
+          "standfirst": "Top robotics researchers and founders explain how robot autonomy is evolving.",
+          "content": "In a world where self-driving robotaxis glide through major city streets without drivers behind the wheel and delivery drones autonomously fly through the skies to drop off orders at customers’ homes, the idea of general-purpose robots helping humans with various tasks in workplaces or even homes may not seem far-fetched. But that future hinges on developing increasingly autonomous robots powered by modern artificial intelligence—an ambitious vision that has motivated many researchers to become startup founders while also attracting billions of dollars in investment. “When I started maybe about 15 years ago, I led a project team that was focused on autonomy, but in that era, the goal of that team was to just get a robot to navigate from point A to point B,” said Matt Malchano, vice president of software at the robotics company Boston Dynamics based in Waltham, Massachusetts. “And now, when we think of autonomy, we think of this huge space of tasks and things that we can imagine a robot doing on its own.”Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Agility_Digit_06-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Agility_Digit_06-1152x648.jpg",
+      "popularity_score": 355.6610747222222,
+      "ai_summary": [
+        "AI can enable autonomous robot workers in workplaces",
+        "Top robotics researchers explain robot autonomy evolution",
+        "Autonomous robots can work in workplaces and homes",
+        "AI enables robots to make decisions and adapt",
+        "Autonomous robots can improve efficiency and productivity"
+      ]
+    },
+    {
+      "id": "cluster_21",
+      "coverage": 1,
+      "updated_at": "Tue, 07 Jul 2026 11:15:15 +0000",
+      "title": "ULA's last six Atlas Vs can't launch anything besides Boeing's Starliner",
+      "neutral_headline": "ULA's Last Six Atlas Vs Limited To Starliner",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/",
+          "published_at": "Tue, 07 Jul 2026 11:15:15 +0000",
+          "title": "ULA's last six Atlas Vs can't launch anything besides Boeing's Starliner",
+          "standfirst": "Amazon says it has enough satellites in orbit to begin initial broadband service at mid-latitudes later this year.",
+          "content": "The final flight of United Launch Alliance's Atlas V rocket is still several years off, but an important era for the once-dominant launch company came to a close last week. The final flight of an Atlas V for the Amazon Leo broadband constellation lifted off from Cape Canaveral Space Force Station in Florida at 12:30 am EDT (04:30 UTC) last Thursday, sending 29 satellites to orbit to move the network closer to providing initial services. All 29 spacecraft deployed from the Atlas V rocket less than an hour after launch. They will use onboard propulsion to raise their orbits from an altitude of approximately 289 miles (465 kilometers) to their final operating positions at 392 miles (630 kilometers) above the Earth.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/55370181785_141924edbe_4k-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/55370181785_141924edbe_4k-1152x648.jpg",
+      "popularity_score": 350.9102413888889,
+      "ai_summary": [
+        "ULA's last six Atlas Vs can only launch Starliner",
+        "Amazon has enough satellites for initial broadband service",
+        "The Atlas V rockets have limited launch capabilities",
+        "Boeing's Starliner is the only compatible spacecraft",
+        "ULA's Atlas V rockets will be retired soon"
+      ]
+    },
+    {
+      "id": "cluster_73",
       "coverage": 1,
       "updated_at": "Mon, 06 Jul 2026 21:13:37 +0000",
       "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
-      "neutral_headline": "FCC to end Biden-era rule that forces ISPs to list all their fees",
+      "neutral_headline": "FCC Ends Biden Era Rule On ISP Fees",
       "items": [
         {
           "source": "Ars Technica",
@@ -15,22 +99,22 @@
           "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
           "standfirst": "FCC to let ISPs stop listing all passthrough fees, give single \"up to\" price.",
           "content": "The Federal Communications Commission will vote to eliminate a rule that requires Internet service providers to list all of their so-called \"passthrough\" fees on an easily accessible broadband price label. The FCC vote could also make the price labels themselves a bit harder for consumers to find. ISPs routinely advertise prices much lower than those actually charged to consumers on their monthly bills. One method of raising monthly bill prices above advertised rates is to tack on fees that, ISPs claim, are used to offset charges imposed by local governments. ISPs would be well within their rights to advertise accurate monthly prices and charge those exact prices on monthly bills. But because ISPs rarely do that, the FCC has required them to make specific price disclosures to consumers for the past decade.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 2,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/online-bill-1152x648-1783369462.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/online-bill-1152x648-1783369462.jpg",
-      "popularity_score": 343.44562333333334,
+      "popularity_score": 316.88301916666666,
       "ai_summary": [
-        "FCC to let ISPs stop listing all passthrough fees",
-        "ISPs will provide single \"up to\" price to customers",
-        "Change to rule expected to affect consumer transparency",
-        "ISPs will no longer be required to itemize fees",
-        "FCC decision may impact consumer understanding of internet costs"
+        "The FCC is ending a rule that forces ISPs to list fees",
+        "ISPs will no longer have to list all passthrough fees",
+        "The FCC will allow ISPs to give a single price",
+        "The rule change may affect consumer transparency",
+        "ISPs will have more flexibility in pricing and fees"
       ]
     },
     {
-      "id": "cluster_44",
+      "id": "cluster_80",
       "coverage": 1,
       "updated_at": "Mon, 06 Jul 2026 19:57:56 +0000",
       "title": "What is the oldest American object ever launched into space?",
@@ -43,22 +127,22 @@
           "title": "What is the oldest American object ever launched into space?",
           "standfirst": "From a Revolutionary War flag to the Statue of Liberty...",
           "content": "Did you know that the space shuttle once launched the Statue of Liberty into space? In fact, there were two \"Lady Liberties\" on board Discovery when it lifted off on its fourth flight in April 1985. To be fair, each statue was only 15 inches tall (38.1 centimeters), but they were also each made of copper that was removed from the full-size statue during its then-still-ongoing restoration. After the weeklong STS-51D mission was over, one of the space-flown statues was placed on display, and the other was melted down to create copper seals, which were then sold to the public by the Statue of Liberty Ellis Island Centennial Commission.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/news-070326a-lg-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/news-070326a-lg-1152x648.jpg",
-      "popularity_score": 336.1842344444444,
+      "popularity_score": 309.6216302777778,
       "ai_summary": [
-        "Revolutionary War flag launched into space",
-        "Statue of Liberty related object in space",
-        "Oldest American space object identified",
-        "Space launch details revealed",
-        "Historical space objects examined"
+        "The oldest American object in space is unknown",
+        "A Revolutionary War flag may be the oldest object",
+        "The Statue of Liberty is not the oldest object",
+        "The oldest object is likely a historical artifact",
+        "The identity of the oldest object is still a mystery"
       ]
     },
     {
-      "id": "cluster_35",
+      "id": "cluster_75",
       "coverage": 1,
       "updated_at": "Mon, 06 Jul 2026 20:52:42 +0000",
       "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
@@ -71,26 +155,26 @@
           "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
           "standfirst": "Drone intruders that possibly flew from Russian ships showed Europe isn’t ready.",
           "content": "Mysterious drone flights that disrupted major European airports and flew over NATO member military bases hosting US nuclear weapons may be the work of a coordinated Kremlin campaign launched from Russian-linked commercial ships. That recent assessment from the UK-based International Institute for Strategic Studies used automatic identification system (AIS) maritime tracking data and other publicly available data to show how Russian-linked ships and “shadow fleet” vessels that transport sanctioned Russian oil were often located nearby during various drone incidents. The report suggests that the drone incidents—which impacted a dozen NATO member countries and Ireland between August 2024 and February 2026—also revealed the vulnerability of European air defenses against surveillance and harassment incursions by low-cost drones. The IISS report identified 144 drone sightings over Europe during that time period that were unlikely to involve hobbyist recreational drones or drone activity related to the war in Ukraine. About 48 percent of the sightings took place over military bases, 26 percent happened over critical infrastructure such as ports and energy or industrial facilities, and 18 percent occurred over civilian airports. Most occurred at night or in the early morning hours before sunrise, and the drones themselves were typically described in media reports as resembling “professional” or “military-style” drones.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238288864-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238288864-1152x648.jpg",
-      "popularity_score": 333.09701222222225,
+      "popularity_score": 306.53440805555556,
       "ai_summary": [
-        "Russian drones spotted over Europe",
-        "Drone intruders possibly flew from ships",
-        "Europe not ready for drone threats",
-        "Russian shadow fleet suspected",
-        "Drone security concerns raised"
+        "The Kremlin is suspected of flying drones over Europe",
+        "The drones may have flown from Russian ships",
+        "Europe is not prepared for drone intruders",
+        "The incident highlights European security vulnerabilities",
+        "The Kremlin's involvement is still unconfirmed"
       ]
     },
     {
-      "id": "cluster_54",
+      "id": "cluster_90",
       "coverage": 1,
       "updated_at": "Mon, 06 Jul 2026 17:48:45 +0000",
       "title": "NRC is (sort of) getting rid of \"as low as reasonably achievable\" standard",
-      "neutral_headline": "NRC Revises Nuclear Safety Standards",
+      "neutral_headline": "NRC Gets Rid Of As Low As Reasonably Achievable Standard",
       "items": [
         {
           "source": "Ars Technica",
@@ -99,26 +183,26 @@
           "title": "NRC is (sort of) getting rid of \"as low as reasonably achievable\" standard",
           "standfirst": "Its issues with current nuclear safety standards are termed semantic, not physical.",
           "content": "Last week, just before the US started its break for the July Fourth holiday, the Nuclear Regulatory Commission (NRC) proposed a new rule that would change how it regulated exposure to radiation. The Trump administration has been pushing to restart construction of nuclear power plants in the US, and many pro-nuclear advocates have been complaining about the US's existing regulations, portraying them as the main barrier to the flourishing of the industry. So, it had seemed likely that major revisions were coming. Instead, the NRC's proposed new rules endorse the science behind its current rules and suggest that any problems are largely in the vagueness of the terminology that it has been using. So, instead, it's endorsing standards that are meant to accomplish the same thing, but avoid using some of the language it had relied on. Probably the clearest indication of the evolutionary change at play is that the NRC estimates the changing rules will save industry—not just power, but also medical and research applications—only about $9.5 million a year. LNT and ALARA There are two technical abbreviations at the center of US nuclear regulations. The first is LNT, which stands for \"linear non-threshold.\" It's in reference to the issue of whether there's any level of radiation that is so low that it no longer produces harmful biological effects—the \"threshold\" in LNT. The \"non-threshold\" implies that it doesn't, and that's in keeping with biology, which has demonstrated that even single particles or photons of radiation can damage DNA and that the mechanisms cells have for repairing that damage are inherently error-prone. The \"linear\" in LNT simply describes how the impact of radiation scales directly with the dose.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283985401-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283985401-1024x648.jpg",
-      "popularity_score": 316.0311788888889,
+      "popularity_score": 289.46857472222223,
       "ai_summary": [
-        "NRC changes nuclear safety standards",
-        "Current standards termed semantic issues",
-        "Nuclear safety standards revised",
-        "New standards to be implemented",
-        "NRC revises safety protocols"
+        "The NRC is changing its nuclear safety standards",
+        "The current standard is deemed semantic, not physical",
+        "The change may affect nuclear safety and regulation",
+        "The NRC is revising its approach to nuclear safety",
+        "The new standard will have implications for the industry"
       ]
     },
     {
-      "id": "cluster_57",
+      "id": "cluster_92",
       "coverage": 1,
       "updated_at": "Mon, 06 Jul 2026 17:14:09 +0000",
       "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
-      "neutral_headline": "Katalyst Satellite Rescue Mission Underway",
+      "neutral_headline": "Katalyst Pursues NASA Satellite Mission",
       "items": [
         {
           "source": "Ars Technica",
@@ -127,22 +211,22 @@
           "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
           "standfirst": "It will take several weeks for the Link spacecraft to rendezvous with NASA's Swift observatory.",
           "content": "High above the remote Pacific Ocean, about halfway between Hawaii and the northernmost part of Australia, an air-launched rocket fired into space on Independence Day weekend to kick off a weekslong pursuit of a NASA astronomy satellite perilously close to falling out of orbit. The endeavor to rescue NASA's Swift satellite is the first mission of its kind. NASA put out a call for commercial companies less than a year ago to propose how they could rapidly build and launch a small satellite to latch onto the Swift spacecraft and boost its altitude so that it doesn't come down in a few months. Katalyst Space Technologies responded with the best offer. NASA awarded the company a contract last September to build and launch a mission to rescue Swift. A little more than nine months later, Katalyst's nearly half-ton Link satellite is safely in orbit. For anyone who follows the space industry, building, testing, and launching a functioning first-of-its-kind satellite of that size in less than a year is a remarkable achievement; it would usually take several years.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Pegasus-Image-2-resized-1000x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Pegasus-Image-2-resized-1000x648.jpg",
-      "popularity_score": 299.4545122222222,
+      "popularity_score": 273,
       "ai_summary": [
-        "Katalyst pursues NASA's Swift spacecraft",
-        "Link spacecraft to rendezvous with Swift",
-        "Rescue mission to take several weeks",
-        "NASA's Swift observatory targeted",
-        "Spacecraft rescue details revealed"
+        "Katalyst's Link spacecraft will rendezvous with NASA's Swift",
+        "The mission will take several weeks to complete",
+        "NASA's Swift observatory is the target satellite",
+        "Katalyst's mission is a rescue operation",
+        "The Link spacecraft is designed for satellite rescue"
       ]
     },
     {
-      "id": "cluster_60",
+      "id": "cluster_95",
       "coverage": 1,
       "updated_at": "Mon, 06 Jul 2026 16:44:18 +0000",
       "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
@@ -155,22 +239,22 @@
           "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
           "standfirst": "Anthropic accused of spying on users; engineer says “experiment” is over.",
           "content": "Anthropic quickly removed a tracker secretly monitoring Claude Code users in China after a security researcher exposed the hidden code and condemned the spyware-like tracking as a “serious breach of user trust.” Last week, a web developer known as “Thereallo” was researching privacy issues in Claude Code and was shocked to find that the AI firm was using “prompt steganography” to hide code that tracks Chinese users “in plain sight.” This code wasn’t malicious, but it was sending information to Anthropic that most users wouldn’t detect, relying on shorthand markers to quietly flag users’ timezone, proxy, and potential connection to Chinese AI labs that Anthropic has accused of distillation attacks. On X, Anthropic engineer Thariq Shihipar confirmed that the tracker was added to Claude Code as an “experiment” in March. According to Shihipar, the code “was meant to prevent account abuse from unauthorized resellers and protect against distillation.” Regarding the former, The Washington Post found unauthorized retailers have sold access to free models for $1 a month, and pro subscriptions that can cost $100 monthly sell for \"as little as $12.\"Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277613277-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277613277-1024x648.jpg",
-      "popularity_score": 288.9570122222222,
+      "popularity_score": 263,
       "ai_summary": [
-        "Anthropic accused of user surveillance",
-        "Secret Claude tracker shocks users",
-        "Engineer claims experiment is over",
-        "User privacy concerns raised",
-        "Anthropic's anti-surveillance stance questioned"
+        "Anthropic faces accusations of spying on users",
+        "The company has an anti-surveillance stance",
+        "An engineer claims the spying was an experiment",
+        "Users are shocked by the secret tracking",
+        "Anthropic's actions are under scrutiny"
       ]
     },
     {
-      "id": "cluster_70",
+      "id": "cluster_103",
       "coverage": 1,
       "updated_at": "Mon, 06 Jul 2026 15:45:55 +0000",
       "title": "F1 in Britain: Automated software to blame for crushing expectations",
@@ -183,26 +267,26 @@
           "title": "F1 in Britain: Automated software to blame for crushing expectations",
           "standfirst": "Sometimes races finish behind a safety car, but it's not always satisfying.",
           "content": "Formula 1 returned to what is a home race for most of the teams on the grid this past weekend with the British Grand Prix. Yet again this season, we saw the fastest car not win the race, as reliability has been a problem. But racing giveth and racing taketh away, and the beneficiary of one driver's bad luck was another driver who really needed that win. Perhaps the bigger story, though, was the unfulfilled expectation that we'd see a late-race restart after the safety car came out on lap 48 of 52. An on-screen message told commentators and viewers this would be the case, but it was displayed in error, and what had been an entertaining race ended as something of a damp squib. Silverstone, like many of Britain's race circuits, was a World War II airbase before being demobbed, which means it's quite flat and can be rather windy. It's also pretty fast even in its current layout (which was changed in 2010), with corners that are among the best places in the world to watch an F1 car change direction. There were worries that the new cars would find their hybrid power units starved of energy part-way round the track, and in qualifying, the cars were limited to recovering and deploying just 6.5 MJ across a lap, compared to the 8 MJ per lap allowed in the sprint and main race. That energy limit in qualifying was about right—unlike at Suzuka in Japan, where we had the rather pathetic sight of cars slowing down before the fast 130R corner, drivers in qualifying looked to be at the limit through corners like Copse, Maggotts, and Becketts.Read full article Comments",
-          "feed_position": 7,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2284281371-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2284281371-1152x648.jpg",
-      "popularity_score": 282.98395666666664,
+      "popularity_score": 258,
       "ai_summary": [
-        "Automated software impacts F1 races",
-        "Safety car finishes due to software",
-        "Racing expectations not met",
-        "Software issues affect F1 outcomes",
-        "F1 racing experiences technical issues"
+        "Automated software is used in F1 racing",
+        "The software can affect the outcome of races",
+        "Sometimes races finish behind a safety car",
+        "The software is not always satisfying",
+        "F1 racing is impacted by technology"
       ]
     },
     {
-      "id": "cluster_68",
+      "id": "cluster_102",
       "coverage": 1,
       "updated_at": "Mon, 06 Jul 2026 16:01:54 +0000",
       "title": "The incredible shrinking Xbox: Five studios, 3,200 employees let go",
-      "neutral_headline": "Xbox Gaming Division Undergoes Changes",
+      "neutral_headline": "Xbox Gaming Division Undergoes Restructuring",
       "items": [
         {
           "source": "Ars Technica",
@@ -211,22 +295,22 @@
           "title": "The incredible shrinking Xbox: Five studios, 3,200 employees let go",
           "standfirst": "Move affects ~20% of the gaming division, which will refocus on its biggest franchises.",
           "content": "Last month, Xbox executives laid out some \"hard truths\" about Microsoft's struggling gaming division that they said would require a difficult \"Xbox reset.\" This morning, Microsoft revealed the brutal shape of that \"reset,\" announcing plans for 3,200 layoffs and the divestment of five smaller studios that the company has spent years acquiring and shepherding. Half of those 3,200 layoffs are effective today, new Xbox CEO Asha Sharma wrote, while the other half will come by the end of Microsoft's 2027 fiscal year (which runs through June 30, 2027). CNBC cites \"a person familiar with the matter\" in reporting that these cuts amount to roughly 20 percent of the Xbox division. When combined with 1,600 newly announced layoffs across the rest of Microsoft, the company as a whole is letting go of just over 2 percent of its workforce. But The Seattle Times reports that Microsoft's total headcount has remained relatively stable thanks to other hiring.Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/xbox-dominoes-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/xbox-dominoes-1152x648.jpg",
-      "popularity_score": 278.25034555555555,
+      "popularity_score": 253,
       "ai_summary": [
-        "Xbox lets go of five studios",
-        "3200 employees affected by changes",
-        "Gaming division to refocus",
-        "Biggest franchises to be prioritized",
-        "Xbox undergoes significant restructuring"
+        "The Xbox gaming division is restructuring",
+        "Five studios and 3200 employees are affected",
+        "The division will refocus on major franchises",
+        "The move affects about 20 percent of employees",
+        "Xbox is streamlining its gaming operations"
       ]
     },
     {
-      "id": "cluster_82",
+      "id": "cluster_113",
       "coverage": 1,
       "updated_at": "Mon, 06 Jul 2026 14:17:42 +0000",
       "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
@@ -239,54 +323,26 @@
           "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
           "standfirst": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.",
           "content": "Regulators are in an “arms race” to keep up with the use of artificial intelligence in financial services, a senior UK official has warned, with millions of people using the technology to help them make personal finance decisions. Sheldon Mills, an executive director at the Financial Conduct Authority, told the FT the watchdog would need greater powers to stay on top of the rapid growth of AI and urged UK authorities to review whether the use of ChatGPT, Claude, Gemini, and other large language models should be subject to their rules. Speaking ahead of the publication on Monday of an FCA-commissioned report he has written on the impact of AI in financial services, Mills said regulators in the area would have to embrace AI themselves to keep up with the “speed, pace, and scale of change” the technology is bringing to the sector and to help “monitor, detect, and tackle the risks.”Read full article Comments",
-          "feed_position": 9,
+          "feed_position": 11,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_90ad2b22-0222-4d93-ab0a-6c1af73b39fc-1-1152x648.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_90ad2b22-0222-4d93-ab0a-6c1af73b39fc-1-1152x648.jpeg",
-      "popularity_score": 261.5136788888889,
+      "popularity_score": 148,
       "ai_summary": [
-        "UK regulator warns of AI risks",
-        "Financial services use AI extensively",
-        "Regulator seeks greater powers",
-        "AI use in finance raises concerns",
-        "UK regulator calls for increased oversight"
+        "The UK regulator warns of an AI arms race",
+        "The FCA official calls for greater powers",
+        "Millions use AI for personal finance decisions",
+        "The regulator is concerned about AI use",
+        "Financial services are impacted by AI"
       ]
     },
     {
-      "id": "cluster_76",
-      "coverage": 1,
-      "updated_at": "Mon, 06 Jul 2026 15:15:30 +0000",
-      "title": "There were not one, but two asteroid encounters this weekend",
-      "neutral_headline": "Asteroid Encounters Occur Over Weekend",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/07/there-were-not-one-but-two-asteroid-encounters-this-weekend/",
-          "published_at": "Mon, 06 Jul 2026 15:15:30 +0000",
-          "title": "There were not one, but two asteroid encounters this weekend",
-          "standfirst": "The Torifune asteroid turns out to be shaped like a peanut.",
-          "content": "As the United States of America celebrated its 250th birthday on terra firma with fireworks displays this weekend, two Asian countries made some splashes of their own farther from Earth. On Sunday, an aging Japanese spacecraft named Hayabusa2, which completed its initial sample-return objective more than half a decade ago, found success with an extended mission that saw the vehicle fly by a peanut-shaped asteroid named Torifune. Hours later, the Chinese space agency released images from a spacecraft, Tianwen-2, arriving at its target asteroid following a journey of 1 billion km. At this small asteroid, the Chinese spacecraft will attempt to retrieve samples and return them to Earth late next year.Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/20260706-3-01-1152x648.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/20260706-3-01-1152x648.png",
-      "popularity_score": 257.47701222222224,
-      "ai_summary": [
-        "Two asteroid encounters happen",
-        "Torifune asteroid shaped like peanut",
-        "Asteroid details revealed",
-        "Space events occur over weekend",
-        "Asteroid encounters surprise scientists"
-      ]
-    },
-    {
-      "id": "cluster_97",
+      "id": "cluster_125",
       "coverage": 1,
       "updated_at": "Mon, 06 Jul 2026 11:30:38 +0000",
       "title": "Bentley teases its first EV, the Torcal",
-      "neutral_headline": "Bentley Teases First Electric Vehicle",
+      "neutral_headline": "Bentley Teases New Electric Vehicle",
       "items": [
         {
           "source": "Ars Technica",
@@ -295,26 +351,54 @@
           "title": "Bentley teases its first EV, the Torcal",
           "standfirst": "The new model will be officially unveiled in late September.",
           "content": "Bentley is preparing to add a fourth model to its rarified lineup, and today we know what it will be called: the Torcal. The carmaker has been working on its first electric vehicle for a while now; it was seen testing in the Arctic Circle late last year, giving us a sneak peek at the interior. A few weeks ago, another example was spotted at the Nürburgring. Speculation had been mounting over what Bently would call its first battery EV—although sleuths spotted a European and UK trademark filing for Torcal earlier this year, the absence of a related US trademark filing led Car and Driver to suggest the car might be badged the Bentley Barnato instead. This referenced Woolf Barnato, who raced Bentleys with great success in the pre-war period, including three wins at the 24 Hours of Le Mans (1928, 1929, and 1930). El Torcal de Antequera Nature Park in Andalusia, Spain. Credit: Matthias Balk/picture alliance via Getty Images Instead, Bentley continues a convention it has used for the Bentayga, Bacalar, and Batur, taking a name from a natural landmark—in this case, El Torcal de Antequera, a spectacular collection of limestone rock formations in Spain. When the automaker noted that the name is also derived from the Latin \"torquere\"—the root from which the modern word torque also traces back to—that seems to be a clue that the Torcal will use an electrified powertrain, as these provide immense amounts of effortless torque.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 12,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Bentley-Torcal-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Bentley-Torcal-1152x648.jpg",
-      "popularity_score": 136.72923444444444,
+      "popularity_score": 136,
       "ai_summary": [
-        "Bentley to unveil first EV",
-        "Torcal model to be revealed soon",
-        "Electric vehicle details teased",
-        "New model to be officially unveiled",
-        "Bentley enters electric vehicle market"
+        "Bentley is unveiling a new electric vehicle",
+        "The vehicle is called the Torcal",
+        "The Torcal will be officially unveiled soon",
+        "The new model is Bentley's first EV",
+        "The Torcal is a significant release for Bentley"
       ]
     },
     {
-      "id": "cluster_100",
+      "id": "cluster_109",
+      "coverage": 1,
+      "updated_at": "Mon, 06 Jul 2026 15:15:30 +0000",
+      "title": "There were not one, but two asteroid encounters this weekend",
+      "neutral_headline": "Two Asteroid Encounters Occur Over Weekend",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/07/there-were-not-one-but-two-asteroid-encounters-this-weekend/",
+          "published_at": "Mon, 06 Jul 2026 15:15:30 +0000",
+          "title": "There were not one, but two asteroid encounters this weekend",
+          "standfirst": "The Torifune asteroid turns out to be shaped like a peanut.",
+          "content": "As the United States of America celebrated its 250th birthday on terra firma with fireworks displays this weekend, two Asian countries made some splashes of their own farther from Earth. On Sunday, an aging Japanese spacecraft named Hayabusa2, which completed its initial sample-return objective more than half a decade ago, found success with an extended mission that saw the vehicle fly by a peanut-shaped asteroid named Torifune. Hours later, the Chinese space agency released images from a spacecraft, Tianwen-2, arriving at its target asteroid following a journey of 1 billion km. At this small asteroid, the Chinese spacecraft will attempt to retrieve samples and return them to Earth late next year.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/20260706-3-01-1152x648.png"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/20260706-3-01-1152x648.png",
+      "popularity_score": 133,
+      "ai_summary": [
+        "Two asteroid encounters occurred recently",
+        "The Torifune asteroid is shaped like a peanut",
+        "The asteroid encounters were notable events",
+        "The asteroids were tracked by scientists",
+        "The encounters provided new information"
+      ]
+    },
+    {
+      "id": "cluster_128",
       "coverage": 1,
       "updated_at": "Mon, 06 Jul 2026 11:00:14 +0000",
       "title": "The Czinger 21C might be the wildest car we drive all year",
-      "neutral_headline": "Czinger 21C Hybrid Car Revealed",
+      "neutral_headline": "Czinger 21C Is A High Performance Car",
       "items": [
         {
           "source": "Ars Technica",
@@ -323,74 +407,18 @@
           "title": "The Czinger 21C might be the wildest car we drive all year",
           "standfirst": "This hybrid V8 has organic-looking 3D-printed components and shatters lap records.",
           "content": "The temptation with a car like the Czinger 21C is to treat it as a collection of extreme specifications, and to be fair, it’s certainly not lacking in that department. At its most basic level, the carbon-fiber-bodied 21C is a hybrid hypercar built around a bespoke 2.88-liter twin-turbocharged flat-plane crank V8 that revs to a searing 11,000 rpm. This power plant is matched up with a three-motor electric system—one electric motor drives each front wheel while a third serves as a crank-driven starter-generator. Combined output is rated at 1,250 hp (932 kW) and 691 lb-ft (937 Nm) of torque. A seven-speed automated manual transaxle handles gear changes, chosen in part for its low mass and ability to tolerate high torque loads without the packaging penalties of a dual-clutch system. Tipping the scales at under 3,700 lbs (1,678 kg) with fluids, the 21C VMax is capable of hitting 60 mph (97 km/h) from rest in 1.92 seconds on its way to an 8.6 second quarter mile and a 253 mph (378 km/h) top speed, while the road course-focused 21C High Downforce model recently secured lap records at no less than five different California racetracks during a thousand-mile (1,600 km) road trip.Read full article Comments",
-          "feed_position": 11,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/DSC_8270-1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/DSC_8270-1-1152x648.jpg",
-      "popularity_score": 133.22256777777778,
-      "ai_summary": [
-        "Czinger 21C is a hybrid V8 car",
-        "Car has organic-looking components",
-        "Lap records shattered by Czinger 21C",
-        "Car details revealed",
-        "Czinger 21C is a high-performance vehicle"
-      ]
-    },
-    {
-      "id": "cluster_124",
-      "coverage": 1,
-      "updated_at": "Sun, 05 Jul 2026 11:05:22 +0000",
-      "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
-      "neutral_headline": "Chemical Accidents Increase Due To Safety Rule Changes",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
-          "published_at": "Sun, 05 Jul 2026 11:05:22 +0000",
-          "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
-          "standfirst": "Chemicals from accidents that injured or killed people increased by nearly 50 percent in recent years.",
-          "content": "Physicist Ronald Koopman appeared at a Southern California Air District meeting in 2018 to talk about what seemed like an arcane scientific topic: hydrofluoric acid dispersion and water mitigation testing. Hydrofluoric acid, also known as hydrogen fluoride or HF, is used to manufacture a range of materials, including refrigerants, gasoline, fluorine-based pesticides and fluoropolymers like those used to make Teflon. It’s also one of the most corrosive and dangerous chemicals known. Koopman conducted experiments with the chemical in the 1980s that warned about the potential of deadly accidents at facilities that use the hazardous materials. With the Trump administration poised to roll back rules intended to protect workers and communities from catastrophic industrial chemical releases, and a new analysis showing rising rates of chemical accidents, Koopman’s presentation on highly hazardous materials has taken on a new urgency.Read full article Comments",
-          "feed_position": 12,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238555391-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238555391-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Chemical accidents rise significantly",
-        "Safety rules to be weakened",
-        "Chemical accidents injure or kill people",
-        "Accident numbers increase by 50 percent",
-        "Safety rule changes spark concerns"
-      ]
-    },
-    {
-      "id": "cluster_127",
-      "coverage": 1,
-      "updated_at": "Sun, 05 Jul 2026 10:55:02 +0000",
-      "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
-      "neutral_headline": "Earth's First Crust Melted By Cosmic Bombardment",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/",
-          "published_at": "Sun, 05 Jul 2026 10:55:02 +0000",
-          "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
-          "standfirst": "The heat of the Hadean may have come from impacts as well as the interior.",
-          "content": "Earth is the only planet we know of with buoyant, silica-rich continents. But, despite decades of research, geologists still don't agree on how they formed. \"The continents started appearing around about four billion years ago—that's the oldest continental rock we know about,” said Tim Johnson, a geologist at Curtin University in Perth, Australia. “The Earth is four and a half billion years old, so why they started appearing then is unknown, as is the mechanism to make that continental crust.\" Johnson and his colleagues are now arguing that the formation of continents on Earth was caused largely by an intense, sustained barrage of asteroid impacts that kept the early crust hot and thin enough to make buoyant continents possible. In short, the lands we live on are here because of ancient bombardment from space. Plates and plumes The problem with studying the formation of continents is that the geological evidence of this process is almost gone. The oldest known continental-type rocks crystallized around 4.03 billion years ago, right at the end of the Hadean eon (the earliest era in Earth’s history, spanning the first 500 million years of its existence). Rare basaltic rocks date back about 4.2 billion years, and a handful of the oldest zircon crystals push the record back to 4.4 billion years. Beyond that, there's hardly anything else. So, scientists looking into the origin of continents had to rely largely on educated guesses. “There are huge debates about what was going on in the early Earth, because the data is so scarce,” Johnson said.Read full article Comments",
-          "feed_position": 13,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-1.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-1.jpeg",
-      "popularity_score": 133,
-      "ai_summary": [
-        "Earth's first crust melted by impacts",
-        "Cosmic bombardment caused melting",
-        "Hadean heat came from impacts",
-        "Earth's early history revealed",
-        "Cosmic events shaped Earth's crust"
+        "The Czinger 21C is a hybrid V8 car",
+        "The car has 3D-printed components",
+        "The Czinger 21C shatters lap records",
+        "The car is a notable release",
+        "The Czinger 21C is a high-performance vehicle"
       ]
     }
   ]
