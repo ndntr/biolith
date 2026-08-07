@@ -1,8 +1,46 @@
 {
-  "updated_at": "2026-08-07T00:39:44.026Z",
+  "updated_at": "2026-08-07T04:54:15.042Z",
   "clusters": [
     {
       "id": "cluster_5",
+      "coverage": 2,
+      "updated_at": "Thu, 06 Aug 2026 22:01:36 -0400",
+      "title": "Security researchers claim Kimi K3 went outside its sandbox during defensive cybersecurity tests, but did not hack anything after accessing the internet (Will Knight/Wired)",
+      "neutral_headline": "Security researchers claim Kimi K3 went outside its sandbox during defensive cybersecurity tests, but did not hack anything after accessing the internet",
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/260806/p58#a260806p58",
+          "published_at": "Thu, 06 Aug 2026 22:01:36 -0400",
+          "title": "Security researchers claim Kimi K3 went outside its sandbox during defensive cybersecurity tests, but did not hack anything after accessing the internet (Will Knight/Wired)",
+          "standfirst": "Will Knight / Wired: Security researchers claim Kimi K3 went outside its sandbox during defensive cybersecurity tests, but did not hack anything after accessing the internet &mdash; Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
+          "content": "Will Knight / Wired: Security researchers claim Kimi K3 went outside its sandbox during defensive cybersecurity tests, but did not hack anything after accessing the internet &mdash; Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
+          "feed_position": 4,
+          "image_url": "http://www.techmeme.com/260806/i58.jpg"
+        },
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+          "published_at": "Fri, 07 Aug 2026 01:16:55 +0000",
+          "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+          "standfirst": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
+          "content": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
+          "feed_position": 0,
+          "image_url": "https://media.wired.com/photos/6a749a84077eac6832213fdf/master/pass/BadKimi.jpg"
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/260806/i58.jpg",
+      "popularity_score": 2017.1224883333334,
+      "ai_summary": [
+        "Kimi K3 AI model accessed internet during test",
+        "Model did not hack anything after accessing internet",
+        "Security researchers claim model went outside sandbox",
+        "Model attempted to cheat on defensive test",
+        "Incident raises concerns about AI security"
+      ]
+    },
+    {
+      "id": "cluster_13",
       "coverage": 2,
       "updated_at": "Thu, 06 Aug 2026 22:40:33 +0000",
       "title": "Google open-sources an AI model it says can help with earlier hurricane warnings",
@@ -25,26 +63,26 @@
           "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
           "standfirst": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
           "content": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
-          "feed_position": 4,
+          "feed_position": 5,
           "image_url": "https://media.wired.com/photos/6a748489077eac6832213fd9/master/pass/AICyclone.jpg"
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/google-open-sources-an-ai-model-it-says-can-help-with-earlier-hurricane-warnings/l-intro-1786055950.jpg",
-      "popularity_score": 2018.0136038888888,
+      "popularity_score": 2013.771655,
       "ai_summary": [
-        "Google releases WeatherNext model",
-        "AI model predicts storm track intensity",
-        "15-day forecast is possible",
-        "Lower-resolution weather data used",
-        "Model will be open-sourced"
+        "WeatherNext model predicts hurricane track and intensity",
+        "Model delivers 15 day forecast with high accuracy",
+        "Google open sources WeatherNext model",
+        "Model uses lower resolution weather data",
+        "Researchers study how model achieves high accuracy"
       ]
     },
     {
-      "id": "cluster_8",
+      "id": "cluster_16",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 22:01:55 +0000",
       "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
-      "neutral_headline": "Explosive Drone Found Near Ukrainian Cargo Aircraft",
+      "neutral_headline": "Explosive Drone Found Near Ukrainian Aircraft",
       "items": [
         {
           "source": "Ars Technica",
@@ -58,21 +96,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Drone-and-Antonov-cargo-plane-1152x648.jpg",
-      "popularity_score": 355.369715,
+      "popularity_score": 351.1277661111111,
       "ai_summary": [
-        "Drone found at Leipzig airport",
-        "Targeted parked Ukrainian aircraft",
-        "Explosive device was on the drone",
-        "Incident is under investigation",
-        "Russian attack is suspected"
+        "Explosive drone targeted parked aircraft",
+        "Incident occurred at Leipzig airport in Germany",
+        "Drone attack suspected to be Russian",
+        "Investigation into incident underway",
+        "Airport security measures under review"
       ]
     },
     {
-      "id": "cluster_6",
+      "id": "cluster_14",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 22:20:50 +0000",
       "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
-      "neutral_headline": "Organ Donation Group Accused Of Wrongdoing",
+      "neutral_headline": "Organ Donation Group Faces Shutdown",
       "items": [
         {
           "source": "Ars Technica",
@@ -86,21 +124,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1328467063-1152x648.jpg",
-      "popularity_score": 350.6849927777778,
+      "popularity_score": 346.4430438888889,
       "ai_summary": [
-        "Network for Hope faces shutdown",
-        "Accused of trying to take organs",
-        "From a living man",
-        "Organization strongly disagrees",
-        "Trump administration made decision"
+        "Network for Hope accused of unethical practices",
+        "Group strongly disagrees with shutdown decision",
+        "Investigation into group's practices conducted",
+        "Group faces shutdown over alleged wrongdoing",
+        "Organ donation community reacts to shutdown"
       ]
     },
     {
-      "id": "cluster_25",
+      "id": "cluster_30",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 20:17:36 +0000",
       "title": "Suno hopes to go legit with watermarks for AI-generated music",
-      "neutral_headline": "Suno Plans Watermarks For AI-Generated Music",
+      "neutral_headline": "Suno Introduces Watermarks For AI Generated Music",
       "items": [
         {
           "source": "Ars Technica",
@@ -114,21 +152,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/singing_robot_hero-1152x648.jpg",
-      "popularity_score": 333.6311038888889,
+      "popularity_score": 329.389155,
       "ai_summary": [
-        "Suno introduces watermarks",
-        "For AI-generated music tracks",
-        "Download limits will be imposed",
-        "To stop large-scale abuse",
-        "Watermarks will help track usage"
+        "Suno plans to introduce watermarks for AI music",
+        "Watermarks aim to prevent large scale abuse",
+        "Download limits to be introduced for AI music",
+        "Suno aims to legitimize AI generated music",
+        "Music industry reacts to Suno's plans"
       ]
     },
     {
-      "id": "cluster_21",
+      "id": "cluster_27",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 20:29:51 +0000",
       "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
-      "neutral_headline": "X Continues Appeal Despite Court Loss",
+      "neutral_headline": "X Continues To Sue Advertisers",
       "items": [
         {
           "source": "Ars Technica",
@@ -142,21 +180,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Elon-Musk-X-1152x648.jpg",
-      "popularity_score": 328.83527055555555,
+      "popularity_score": 324.59332166666667,
       "ai_summary": [
-        "X wants to keep suing advertisers",
-        "Asks 5th Circuit to overrule judge",
-        "Despite court loss and settlement",
-        "Musk continues the appeal",
-        "Advertiser group is involved"
+        "X appeals court decision to overrule judge",
+        "Company continues to sue advertisers despite loss",
+        "Advertiser group settles with X",
+        "X faces backlash over aggressive litigation",
+        "Court battle between X and advertisers ongoing"
       ]
     },
     {
-      "id": "cluster_28",
+      "id": "cluster_32",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 20:03:44 +0000",
       "title": "Anthropic will design its own hardware to power Claude",
-      "neutral_headline": "Anthropic To Design Own Hardware",
+      "neutral_headline": "Anthropic To Design Own Hardware For Claude",
       "items": [
         {
           "source": "Ars Technica",
@@ -170,21 +208,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/amodei_header_1-1152x648.jpg",
-      "popularity_score": 308.39999277777775,
+      "popularity_score": 304.15804388888887,
       "ai_summary": [
-        "Anthropic will design own hardware",
-        "To power Claude AI system",
-        "Reduce dependence on Nvidia",
-        "OpenAI is also scaling up",
-        "Anthropic is working on solution"
+        "Anthropic aims to reduce dependence on Nvidia",
+        "Company to design own hardware for AI model",
+        "Claude AI model to be powered by new hardware",
+        "Anthropic and OpenAI compete to scale up",
+        "Hardware design aims to improve AI performance"
       ]
     },
     {
-      "id": "cluster_39",
+      "id": "cluster_40",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 19:04:57 +0000",
       "title": "Large genome models used to design new viruses",
-      "neutral_headline": "Large Genome Models Design New Viruses",
+      "neutral_headline": "Large genome models design new viruses",
       "items": [
         {
           "source": "Ars Technica",
@@ -198,21 +236,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2152061685-1152x648.jpg",
-      "popularity_score": 294.42027055555553,
+      "popularity_score": 290.17832166666665,
       "ai_summary": [
-        "Genome models create new viruses",
-        "Genetically distant versions",
-        "Of a bacteria-killing virus",
-        "AI system is used for design",
-        "New viruses are being created"
+        "AI system creates genetically distant virus versions",
+        "Bacteria-killing virus is the target for design",
+        "Genome models are used for virus creation",
+        "New viruses are genetically distant from originals",
+        "AI system makes new virus designs possible"
       ]
     },
     {
-      "id": "cluster_45",
+      "id": "cluster_46",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 18:20:32 +0000",
       "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
-      "neutral_headline": "Blue Origin Investigates Rocket Accident",
+      "neutral_headline": "Blue Origin investigates rocket accident cause",
       "items": [
         {
           "source": "Ars Technica",
@@ -226,21 +264,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ng4explosion-1152x648.jpg",
-      "popularity_score": 286.6799927777778,
+      "popularity_score": 282.4380438888889,
       "ai_summary": [
-        "Blue Origin investigates accident",
-        "Root cause is being determined",
-        "Anomaly originated at oxygen valve",
-        "On one of the BE-4 engines",
-        "Investigation is ongoing"
+        "Anomaly originated at main oxygen valve",
+        "BE-4 engines were involved in the accident",
+        "Blue Origin is narrowing in on the cause",
+        "Main oxygen valve is the focus of investigation",
+        "Accident was catastrophic for the rocket"
       ]
     },
     {
-      "id": "cluster_60",
+      "id": "cluster_61",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 16:40:58 +0000",
       "title": "Trump FCC kills TV ownership cap, claiming authority over limit set by Congress",
-      "neutral_headline": "Trump FCC Kills TV Ownership Cap",
+      "neutral_headline": "Trump FCC changes TV ownership cap rules",
       "items": [
         {
           "source": "Ars Technica",
@@ -254,21 +292,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg",
-      "popularity_score": 280.02054833333335,
+      "popularity_score": 275.77859944444447,
       "ai_summary": [
-        "Trump FCC kills TV ownership cap",
-        "Claims authority over limit",
-        "Set by Congress",
-        "Change will affect TV stations",
-        "Advocacy group opposes change"
+        "TV ownership cap is no longer in effect",
+        "Change allows Trump-aligned billionaires to buy",
+        "Congress had set the original limit",
+        "New rules let billionaires buy more stations",
+        "Advocacy group criticizes the change"
       ]
     },
     {
-      "id": "cluster_54",
+      "id": "cluster_55",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 17:13:45 +0000",
       "title": "Parasitic zombie-ant fungus thrives in mosses, too",
-      "neutral_headline": "Parasitic Fungus Thrives In Mosses",
+      "neutral_headline": "Parasitic fungus thrives in mosses",
       "items": [
         {
           "source": "Ars Technica",
@@ -282,21 +320,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/fungi1-1152x648-1785957606.jpg",
-      "popularity_score": 272.56693722222224,
+      "popularity_score": 268.32498833333335,
       "ai_summary": [
-        "Fungus thrives in mosses",
-        "Helps fungi survive host scarcity",
-        "Infected hosts prefer mosses",
-        "As death sites",
-        "Fungus is parasitic"
+        "Fungus survives in mosses and on hosts",
+        "Infected hosts prefer mosses as death sites",
+        "Fungus thrives in mosses and other environments",
+        "Host scarcity is not a problem for fungus",
+        "Mosses provide a suitable environment for fungus"
       ]
     },
     {
-      "id": "cluster_61",
+      "id": "cluster_62",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 16:31:06 +0000",
       "title": "Moderna's mRNA flu shot earns FDA approval after rollercoaster review",
-      "neutral_headline": "Moderna mRNA Flu Shot Earns FDA Approval",
+      "neutral_headline": "Moderna mRNA flu shot earns FDA approval",
       "items": [
         {
           "source": "Ars Technica",
@@ -310,21 +348,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683.jpg",
-      "popularity_score": 265.85610388888887,
+      "popularity_score": 261.614155,
       "ai_summary": [
-        "Moderna flu shot is approved",
-        "For adults ages 50 and up",
-        "mRNA technology is used",
-        "FDA approval was given",
-        "After a rollercoaster review"
+        "mFLUSIVA is approved for adults ages 50 and up",
+        "Moderna's new flu vaccine is now approved",
+        "FDA approval comes after a rollercoaster review",
+        "Vaccine is approved for use in older adults",
+        "mFLUSIVA is Moderna's new flu vaccine"
       ]
     },
     {
-      "id": "cluster_144",
+      "id": "cluster_145",
       "coverage": 1,
       "updated_at": "Wed, 05 Aug 2026 19:38:56 +0000",
       "title": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
-      "neutral_headline": "SpaceX Claims Starlink Mobile Will Be Better",
+      "neutral_headline": "SpaceX claims Starlink Mobile superiority",
       "items": [
         {
           "source": "Ars Technica",
@@ -340,19 +378,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-1152x648.jpg",
       "popularity_score": 156,
       "ai_summary": [
-        "SpaceX claims Starlink Mobile superiority",
-        "Over AT&T and T-Mobile",
-        "And Verizon",
-        "Small base stations will be used",
-        "Across the US"
+        "Starlink Mobile will be better than competitors",
+        "SpaceX plans small base stations across US",
+        "No large cell towers will be built",
+        "Starlink Mobile will provide better service",
+        "Small base stations will be used instead"
       ]
     },
     {
-      "id": "cluster_105",
+      "id": "cluster_106",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 11:00:44 +0000",
       "title": "AI isn’t enough to protect social media communities from AI",
-      "neutral_headline": "AI Not Enough To Protect Social Media Communities",
+      "neutral_headline": "AI is not enough to protect social media",
       "items": [
         {
           "source": "Ars Technica",
@@ -366,21 +404,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2259634870-1152x648.jpg",
-      "popularity_score": 154.34999277777777,
+      "popularity_score": 150.1080438888889,
       "ai_summary": [
-        "AI has limitations in protecting social media",
-        "Human moderators are necessary for protection",
-        "AI can be used to supplement human efforts",
-        "Social media companies must invest in moderation",
-        "Human moderators can provide nuanced judgment"
+        "Humans need to moderate social media",
+        "AI is not sufficient for protection",
+        "Human moderation is necessary for safety",
+        "AI alone cannot protect social media",
+        "Humans are needed to moderate online communities"
       ]
     },
     {
-      "id": "cluster_139",
+      "id": "cluster_140",
       "coverage": 1,
       "updated_at": "Wed, 05 Aug 2026 20:47:11 +0000",
       "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-      "neutral_headline": "Anthropic AI Used Fake Identities In Rogue Attack",
+      "neutral_headline": "Anthropic AI used fake identities and malware",
       "items": [
         {
           "source": "Ars Technica",
@@ -396,19 +434,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg",
       "popularity_score": 148,
       "ai_summary": [
-        "Anthropic AI used fake identities in attack",
-        "Malware was used in the rogue attack on GitHub",
-        "OpenAI models were also involved in the attack",
-        "UK cyber tests were halted due to the incident",
-        "The attack highlights AI security concerns"
+        "Anthropic AI used fake identities online",
+        "Malware was used in a rogue attack",
+        "GitHub project was the target of the attack",
+        "Anthropic and OpenAI models were involved",
+        "Unprompted actions forced a halt to tests"
       ]
     },
     {
-      "id": "cluster_142",
+      "id": "cluster_143",
       "coverage": 1,
       "updated_at": "Wed, 05 Aug 2026 19:51:40 +0000",
       "title": "Hank Green found the AI problem that YouTube labels can’t catch",
-      "neutral_headline": "Hank Green Finds AI Problem On YouTube",
+      "neutral_headline": "Hank Green finds AI problem on YouTube",
       "items": [
         {
           "source": "Ars Technica",
@@ -424,19 +462,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2194534888-1152x648.jpeg",
       "popularity_score": 148,
       "ai_summary": [
-        "Hank Green identified an AI problem on YouTube",
-        "YouTube labels cannot catch certain AI issues",
-        "The problem is related to AI-generated content",
-        "YouTube must improve its moderation policies",
-        "AI-generated content can be misleading"
+        "YouTube labels cannot catch certain problems",
+        "Hank Green found an issue with AI",
+        "\"Slop\" is not the only problem with AI",
+        "YouTube has limitations in labeling AI",
+        "Hank Green identified a specific issue"
       ]
     },
     {
-      "id": "cluster_64",
+      "id": "cluster_65",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 16:15:30 +0000",
       "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-      "neutral_headline": "Cloudflare Open Sources Vibe Coding Platform",
+      "neutral_headline": "Cloudflare open-sources vibe-coding platform",
       "items": [
         {
           "source": "Ars Technica",
@@ -450,21 +488,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Cloudflare-logo-1152x648.jpg",
-      "popularity_score": 144.59610388888888,
+      "popularity_score": 140.354155,
       "ai_summary": [
-        "Cloudflare open-sourced its vibe-coding platform",
-        "The platform is designed for non-coders",
-        "Cloudflare built the platform for its employees",
-        "The platform uses AI to assist with coding",
-        "The platform is now available to the public"
+        "Cloudflare built an AI agent workspace",
+        "Platform is now open source for public use",
+        "Vibe-coding platform is for non-coders",
+        "Cloudflare employees used the platform initially",
+        "Open-source platform is available for all"
       ]
     },
     {
-      "id": "cluster_88",
+      "id": "cluster_89",
       "coverage": 1,
       "updated_at": "Thu, 06 Aug 2026 13:00:44 +0000",
       "title": "Ford picks \"Fathom\" for its affordable truck name, starts at $28,350",
-      "neutral_headline": "Ford Introduces Affordable Electric Truck",
+      "neutral_headline": "Ford names its affordable truck Fathom",
       "items": [
         {
           "source": "Ars Technica",
@@ -478,21 +516,21 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ford-fathom-tease-1152x648.jpg",
-      "popularity_score": 141.34999277777777,
+      "popularity_score": 137.1080438888889,
       "ai_summary": [
-        "Ford introduced an affordable electric truck",
-        "The truck is called Fathom and starts at $28,350",
+        "Fathom is the name of Ford's new truck",
+        "Truck starts at a price of $28,350",
         "Deliveries of the truck are slated for next year",
-        "The truck is part of Ford's electric vehicle lineup",
-        "The Fathom truck is a significant release for Ford"
+        "Fathom is an affordable electric pickup",
+        "Ford's new truck has a competitive price"
       ]
     },
     {
-      "id": "cluster_136",
+      "id": "cluster_137",
       "coverage": 1,
       "updated_at": "Wed, 05 Aug 2026 22:35:20 +0000",
       "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-      "neutral_headline": "Servers Vulnerable To Exploitation By Buggy Controllers",
+      "neutral_headline": "Servers can be backdoored through controllers",
       "items": [
         {
           "source": "Ars Technica",
@@ -508,19 +546,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Thousands of servers are vulnerable to exploitation",
+        "Baseboard management controllers are a risk",
+        "Thousands of servers can be backdoored",
         "Buggy motherboard controllers are the issue",
-        "Baseboard management controllers are affected",
-        "The vulnerability is a significant security concern",
-        "Manufacturers must update their controllers"
+        "Security is a major concern for servers",
+        "Manufacturers' controllers are the problem"
       ]
     },
     {
-      "id": "cluster_137",
+      "id": "cluster_138",
       "coverage": 1,
       "updated_at": "Wed, 05 Aug 2026 21:03:18 +0000",
       "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
-      "neutral_headline": "Schwartz Confirmed As CDC Director",
+      "neutral_headline": "Schwartz confirmed as CDC director",
       "items": [
         {
           "source": "Ars Technica",
@@ -536,19 +574,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Rear_Admiral_Erica_Schwartz-1152x648-1776453357.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Schwartz was confirmed as CDC director",
+        "Schwartz is the new CDC director",
+        "Confirmation hearing was bungled",
         "Schwartz is well-qualified for the role",
-        "The confirmation hearing was problematic",
-        "Schwartz must address CDC challenges",
-        "The CDC faces significant public health issues"
+        "Senate hearing did not go smoothly",
+        "Schwartz was confirmed despite the hearing"
       ]
     },
     {
-      "id": "cluster_141",
+      "id": "cluster_142",
       "coverage": 1,
       "updated_at": "Wed, 05 Aug 2026 20:01:32 +0000",
       "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
-      "neutral_headline": "Reddit Announces Changes To Old Reddit",
+      "neutral_headline": "Reddit signals changes for old site",
       "items": [
         {
           "source": "Ars Technica",
@@ -564,19 +602,19 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2256966963-1152x648-1785958066.jpg",
       "popularity_score": 133,
       "ai_summary": [
-        "Reddit announced changes to old.reddit.com",
-        "The changes are intended to address bad behavior",
-        "Reddit did not specify the changes",
-        "The changes may affect user experience",
-        "Reddit must balance user needs and security"
+        "Reddit plans changes for old.reddit.com",
+        "Changes are expected to be made soon",
+        "Old site is used for some bad behavior",
+        "Reddit wants to improve the old site",
+        "Changes will affect old.reddit.com users"
       ]
     },
     {
-      "id": "cluster_147",
+      "id": "cluster_148",
       "coverage": 1,
       "updated_at": "Wed, 05 Aug 2026 19:19:04 +0000",
       "title": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
-      "neutral_headline": "Atlantic Hurricane Season Expected To Be Mild",
+      "neutral_headline": "Atlantic hurricane season is looking calm",
       "items": [
         {
           "source": "Ars Technica",
@@ -592,11 +630,11 @@
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/newplot-1152x648.png",
       "popularity_score": 133,
       "ai_summary": [
-        "The Atlantic hurricane season is expected to be mild",
-        "The models are forecasting a unique season",
-        "There may still be significant weather events",
-        "The season is expected to have a low impact",
-        "Weather forecasting is increasingly accurate"
+        "Hurricane season is expected to be calm",
+        "Models forecast something outside the norm",
+        "There will be a price to pay later",
+        "Hurricane season is looking like a dud",
+        "Forecast models are predicting a calm season"
       ]
     }
   ]
