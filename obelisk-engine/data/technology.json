@@ -1,70 +1,50 @@
 {
-  "updated_at": "2026-08-21T07:41:46.817Z",
+  "updated_at": "2026-08-21T11:25:14.797Z",
   "clusters": [
     {
-      "id": "cluster_101",
-      "coverage": 2,
-      "updated_at": "Thu, 20 Aug 2026 13:29:54 +0000",
-      "title": "Reverse-lookup service exposed millions of photos of people’s faces",
-      "neutral_headline": "Reverse-lookup service exposed millions of photos of people’s faces",
+      "id": "cluster_3",
+      "coverage": 1,
+      "updated_at": "Fri, 21 Aug 2026 11:00:53 +0000",
+      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
+      "neutral_headline": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
       "items": [
         {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
-          "published_at": "Thu, 20 Aug 2026 13:29:54 +0000",
-          "title": "Reverse-lookup service exposed millions of photos of people’s faces",
-          "standfirst": "People-search tool ClarityCheck left database containing more than 9M image files exposed.",
-          "content": "When someone uploads a photo to the people-search tool ClarityCheck, the website has a clear message: “Your reverse image search is private and secure.” New research, though, shows that the website left more than 9 million image files, including photographs of people’s faces, publicly exposed. And a second misconfiguration publicly exposed people’s email addresses and phone numbers. Overall, according to findings from independent security researcher Jeremiah Fowler, the exposed ClarityCheck database contained roughly 450 GB of images, including what appeared to be profile images, screenshots, and other photographs of adults, teenagers, and children. All of the images were stored in an unsecured Amazon S3 bucket, with files in folders named “faces” and “profiles,” which could be accessed by anyone online through a URL included in the company’s publicly available website code. ClarityCheck is one of a number of so-called people-finder tools that have appeared online in recent years. These websites broadly claim to be able to search the web, public records, and other databases to identify individuals. ClarityCheck’s website says it can run searches on phone numbers, email addresses, vehicle identification numbers, and names. Its photo-search page says it can help “identify anyone in a photo” and find social media profiles “in seconds.”Read full article Comments",
-          "feed_position": 6,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1047996096-1152x648.jpg"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/story/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
-          "published_at": "Wed, 19 Aug 2026 10:00:00 +0000",
-          "title": "Reverse-Lookup Service Exposed Millions of Photos of People’s Faces",
-          "standfirst": "The people-search tool ClarityCheck says its reverse image search service is “private and secure”—but it left a database containing more than 9 million image files exposed.",
-          "content": "The people-search tool ClarityCheck says its reverse image search service is “private and secure”—but it left a database containing more than 9 million image files exposed.",
-          "feed_position": 47,
-          "image_url": "https://media.wired.com/photos/6a43d616847560b1128c28ca/master/pass/Security_Data%20Broker%20Leak%20Exposes%208%20Million%20Photos%20of%20People%E2%80%99s%20Faces_v1.jpg"
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+          "published_at": "Fri, 21 Aug 2026 11:00:53 +0000",
+          "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
+          "standfirst": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
+          "content": "Can you tell when someone nearby is wearing Meta AI glasses? As millions of people buy into the smart glasses fad each year, the odds are increasing that you could be secretly recorded while simply going about your day. Meta is not the only smart glasses maker, but its AI glasses are by far the most popular. And as the devices become more common, some public places, including schools, courts, restaurants, and entertainment venues, have begun to ban them. Even tech lovers have rejected Meta glasses in certain settings. The hackers behind DEF CON 2026 reportedly banned smart glasses with no exceptions, reminding attendees with prescription pairs to “be sure to pack non-violating eyewear if you need them.”Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/zuckoff-glasshole-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1047996096-1152x648.jpg",
-      "popularity_score": 2001.8019952777777
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/zuckoff-glasshole-1152x648.jpg",
+      "popularity_score": 367.5939452777778
     },
     {
-      "id": "cluster_115",
-      "coverage": 2,
-      "updated_at": "Thu, 20 Aug 2026 10:01:48 +0000",
-      "title": "NASA calls off mission to rescue the falling Swift observatory",
-      "neutral_headline": "NASA calls off mission to rescue the falling Swift observatory",
+      "id": "cluster_5",
+      "coverage": 1,
+      "updated_at": "Fri, 21 Aug 2026 11:00:36 +0000",
+      "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
+      "neutral_headline": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
       "items": [
         {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2240611/nasa-calls-off-swift-rescue-mission/",
-          "published_at": "Thu, 20 Aug 2026 10:01:48 +0000",
-          "title": "NASA calls off mission to rescue the falling Swift observatory",
-          "standfirst": "The Swift observatory is expected to re-enter Earth's atmosphere this year, because NASA has aborted its rescue mission.",
-          "content": "The Swift observatory is expected to re-enter Earth's atmosphere this year, because NASA has aborted its rescue mission.",
-          "feed_position": 19,
-          "image_url": "https://www.engadget.com/img/gallery/nasa-calls-off-mission-to-rescue-the-falling-swift-observatory/l-intro-1787220032.jpg"
-        },
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
-          "published_at": "Thu, 20 Aug 2026 00:18:48 +0000",
-          "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
-          "standfirst": "Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year.",
-          "content": "NASA and Katalyst Space Technologies announced Wednesday they are giving up on a robotic mission to rescue the Swift gamma-ray telescope before it falls out of orbit. The rescue satellite, named Link, launched July 3 on a journey to fly up to NASA's Neil Gehrels Swift Observatory, capture it with three robotic arms, and boost its orbit high enough to escape a looming reentry. Link is about the size of a refrigerator, with two power-generating solar arrays and three xenon-fueled electric thrusters to send Swift into a safer, higher orbit. Katalyst, the startup leading the Swift rescue effort, said Wednesday that \"ongoing attitude control issues\" will prevent the Link satellite from completing its rescue mission. The spacecraft is still alive, and Katalyst said it will make the most of Link's remaining capacity, which may still allow it to get near enough to Swift for a demonstration of the satellite's close-in navigation system.Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1783980227655-1152x648.jpg"
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
+          "published_at": "Fri, 21 Aug 2026 11:00:36 +0000",
+          "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
+          "standfirst": "Taiwan's effort to develop its own satellite launcher hit a setback this week.",
+          "content": "Welcome to Edition 9.07 of the Rocket Report! China's workhorse Long March rocket family appears to be rebounding quickly from a rare launch failure August 10. Chinese officials have not publicly released any information on what may have caused the Long March 7A rocket to break apart less than 90 seconds after liftoff, but the rocket's use of YF-100 engines initially raised questions about the failure's impact on other Chinese rockets that use the same type of engines. But no biggie. YF-100 engines returned to flight six days later with the successful flight of a Long March 12 rocket, and the heavy-lift Long March 5—also with YF-100 engines—is set to launch in a few days with one of China's most important space missions of the decade: the Chang'e 7 lunar lander en route to the Moon's south pole. As always, we welcome reader submissions. If you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets, as well as a quick look ahead at the next three launches on the calendar. Trouble in Taiwan. A prototype for a future satellite launch vehicle developed by Taiwan's top weapons manufacturer veered off course shortly after liftoff Wednesday, Taiwan's Central News Agency reports. The \"trajectory anomaly\" prompted the activation of the rocket's self-destruct mechanism. The government agency responsible for the test flight, the National Chung-Shan Institute of Science and Technology (NCSIST), reported no injuries or property damage. Debris from rocket fell into a planned safety control zone near the southern tip of Taiwan.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/04_4panel_enlarge_2x-1152x648-1787265662.jpg"
         }
       ],
-      "featured_image": "https://www.engadget.com/img/gallery/nasa-calls-off-mission-to-rescue-the-falling-swift-observatory/l-intro-1787220032.jpg",
-      "popularity_score": 2000
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/04_4panel_enlarge_2x-1152x648-1787265662.jpg",
+      "popularity_score": 350.5892230555556
     },
     {
-      "id": "cluster_34",
+      "id": "cluster_56",
       "coverage": 1,
       "updated_at": "Thu, 20 Aug 2026 22:00:11 +0000",
       "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
@@ -82,10 +62,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc-1152x648.jpeg",
-      "popularity_score": 343.3067175
+      "popularity_score": 339.5822786111111
     },
     {
-      "id": "cluster_40",
+      "id": "cluster_62",
       "coverage": 1,
       "updated_at": "Thu, 20 Aug 2026 21:25:25 +0000",
       "title": "They survived 9/11; 25 years later, their bonds remain unbroken",
@@ -103,10 +83,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/reunited8-1152x648.jpg",
-      "popularity_score": 337.72727305555554
+      "popularity_score": 334.0028341666667
     },
     {
-      "id": "cluster_39",
+      "id": "cluster_61",
       "coverage": 1,
       "updated_at": "Thu, 20 Aug 2026 21:40:52 +0000",
       "title": "Europe cancels planned upgrades for Ariane 6 rocket",
@@ -124,10 +104,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GlYHDKoWQAAxQiG-1152x648.jpg",
-      "popularity_score": 332.98477305555554
+      "popularity_score": 329.26033416666667
     },
     {
-      "id": "cluster_78",
+      "id": "cluster_95",
       "coverage": 1,
       "updated_at": "Thu, 20 Aug 2026 17:14:08 +0000",
       "title": "Roblox must make changes after failing to block adults creeping on kids",
@@ -145,10 +125,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273992483-1024x648.jpg",
-      "popularity_score": 323.5392175
+      "popularity_score": 319.81477861111114
     },
     {
-      "id": "cluster_97",
+      "id": "cluster_112",
       "coverage": 1,
       "updated_at": "Thu, 20 Aug 2026 14:35:58 +0000",
       "title": "Genesis joins the giant electric SUV club with new GV90",
@@ -166,10 +146,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Original-6723-photo-3-gv90-exterior-1152x648.jpg",
-      "popularity_score": 301.9031063888889
+      "popularity_score": 299
     },
     {
-      "id": "cluster_100",
+      "id": "cluster_115",
       "coverage": 1,
       "updated_at": "Thu, 20 Aug 2026 13:59:50 +0000",
       "title": "SpaceX’s orbital data centers would create a new category of e-waste",
@@ -187,10 +167,31 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/yeetcycling-1152x648.jpg",
-      "popularity_score": 293.30088416666666
+      "popularity_score": 291
     },
     {
-      "id": "cluster_103",
+      "id": "cluster_116",
+      "coverage": 1,
+      "updated_at": "Thu, 20 Aug 2026 13:29:54 +0000",
+      "title": "Reverse-lookup service exposed millions of photos of people’s faces",
+      "neutral_headline": "Reverse-lookup service exposed millions of photos of people’s faces",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
+          "published_at": "Thu, 20 Aug 2026 13:29:54 +0000",
+          "title": "Reverse-lookup service exposed millions of photos of people’s faces",
+          "standfirst": "People-search tool ClarityCheck left database containing more than 9M image files exposed.",
+          "content": "When someone uploads a photo to the people-search tool ClarityCheck, the website has a clear message: “Your reverse image search is private and secure.” New research, though, shows that the website left more than 9 million image files, including photographs of people’s faces, publicly exposed. And a second misconfiguration publicly exposed people’s email addresses and phone numbers. Overall, according to findings from independent security researcher Jeremiah Fowler, the exposed ClarityCheck database contained roughly 450 GB of images, including what appeared to be profile images, screenshots, and other photographs of adults, teenagers, and children. All of the images were stored in an unsecured Amazon S3 bucket, with files in folders named “faces” and “profiles,” which could be accessed by anyone online through a URL included in the company’s publicly available website code. ClarityCheck is one of a number of so-called people-finder tools that have appeared online in recent years. These websites broadly claim to be able to search the web, public records, and other databases to identify individuals. ClarityCheck’s website says it can run searches on phone numbers, email addresses, vehicle identification numbers, and names. Its photo-search page says it can help “identify anyone in a photo” and find social media profiles “in seconds.”Read full article Comments",
+          "feed_position": 6,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1047996096-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1047996096-1152x648.jpg",
+      "popularity_score": 279
+    },
+    {
+      "id": "cluster_118",
       "coverage": 1,
       "updated_at": "Thu, 20 Aug 2026 13:00:35 +0000",
       "title": "Grok exfiltrates user data when malicious instructions are encrypted",
@@ -208,10 +209,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
-      "popularity_score": 264.31338416666665
+      "popularity_score": 263
     },
     {
-      "id": "cluster_133",
+      "id": "cluster_147",
       "coverage": 1,
       "updated_at": "Wed, 19 Aug 2026 22:02:38 +0000",
       "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
@@ -232,7 +233,28 @@
       "popularity_score": 258
     },
     {
-      "id": "cluster_147",
+      "id": "cluster_145",
+      "coverage": 1,
+      "updated_at": "Thu, 20 Aug 2026 00:18:48 +0000",
+      "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
+      "neutral_headline": "NASA calls off mission to rescue Swift gamma-ray observatory",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
+          "published_at": "Thu, 20 Aug 2026 00:18:48 +0000",
+          "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
+          "standfirst": "Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year.",
+          "content": "NASA and Katalyst Space Technologies announced Wednesday they are giving up on a robotic mission to rescue the Swift gamma-ray telescope before it falls out of orbit. The rescue satellite, named Link, launched July 3 on a journey to fly up to NASA's Neil Gehrels Swift Observatory, capture it with three robotic arms, and boost its orbit high enough to escape a looming reentry. Link is about the size of a refrigerator, with two power-generating solar arrays and three xenon-fueled electric thrusters to send Swift into a safer, higher orbit. Katalyst, the startup leading the Swift rescue effort, said Wednesday that \"ongoing attitude control issues\" will prevent the Link satellite from completing its rescue mission. The spacecraft is still alive, and Katalyst said it will make the most of Link's remaining capacity, which may still allow it to get near enough to Swift for a demonstration of the satellite's close-in navigation system.Read full article Comments",
+          "feed_position": 8,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1783980227655-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1783980227655-1152x648.jpg",
+      "popularity_score": 253
+    },
+    {
+      "id": "cluster_159",
       "coverage": 1,
       "updated_at": "Wed, 19 Aug 2026 16:11:30 +0000",
       "title": "Google Pixel 11 series review: Is the magic fading?",
@@ -253,7 +275,7 @@
       "popularity_score": 156
     },
     {
-      "id": "cluster_135",
+      "id": "cluster_149",
       "coverage": 1,
       "updated_at": "Wed, 19 Aug 2026 20:21:59 +0000",
       "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
@@ -274,7 +296,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_137",
+      "id": "cluster_151",
       "coverage": 1,
       "updated_at": "Wed, 19 Aug 2026 19:45:19 +0000",
       "title": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
@@ -295,7 +317,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_142",
+      "id": "cluster_155",
       "coverage": 1,
       "updated_at": "Wed, 19 Aug 2026 17:06:06 +0000",
       "title": "A fantastical journey unfolds in gorgeous Wildwood trailer",
@@ -316,7 +338,7 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_136",
+      "id": "cluster_150",
       "coverage": 1,
       "updated_at": "Wed, 19 Aug 2026 20:04:41 +0000",
       "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
@@ -337,7 +359,7 @@
       "popularity_score": 145
     },
     {
-      "id": "cluster_139",
+      "id": "cluster_153",
       "coverage": 1,
       "updated_at": "Wed, 19 Aug 2026 18:41:02 +0000",
       "title": "The floodgates are open after another Chinese company lands a reusable rocket",
@@ -358,7 +380,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_143",
+      "id": "cluster_156",
       "coverage": 1,
       "updated_at": "Wed, 19 Aug 2026 16:53:56 +0000",
       "title": "mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say",
@@ -379,7 +401,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_149",
+      "id": "cluster_161",
       "coverage": 1,
       "updated_at": "Wed, 19 Aug 2026 15:56:56 +0000",
       "title": "Scientists find closest star to the Milky Way's central black hole",
@@ -400,7 +422,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_150",
+      "id": "cluster_162",
       "coverage": 1,
       "updated_at": "Wed, 19 Aug 2026 15:45:29 +0000",
       "title": "Meta ran ads for an app promising to nudify female politicians",
@@ -421,7 +443,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_156",
+      "id": "cluster_168",
       "coverage": 1,
       "updated_at": "Wed, 19 Aug 2026 13:54:36 +0000",
       "title": "Trump expected to pick conservative policy wonk Heidi Overton to lead FDA",
