@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-30T21:50:15.327Z",
+  "updated_at": "2026-08-31T01:06:52.210Z",
   "clusters": [
     {
-      "id": "cluster_0",
+      "id": "cluster_7",
       "coverage": 1,
       "updated_at": "Sun, 30 Aug 2026 21:40:56 +0000",
       "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
       "neutral_headline": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
       "items": [
         {
-          "source": "Ars Technica Main",
+          "source": "Ars Technica",
           "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
           "published_at": "Sun, 30 Aug 2026 21:40:56 +0000",
           "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
@@ -20,10 +20,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teraweapon-1152x648-1788124932.jpg",
-      "popularity_score": 352.8446313888889
+      "popularity_score": 349.56771944444444
     },
     {
-      "id": "cluster_11",
+      "id": "cluster_17",
       "coverage": 1,
       "updated_at": "Sun, 30 Aug 2026 17:40:30 +0000",
       "title": "Why it matters that President Trump just dialed into a NASA news conference",
@@ -36,15 +36,15 @@
           "title": "Why it matters that President Trump just dialed into a NASA news conference",
           "standfirst": "With just one more major mission upcoming, NASA's science programs need a boost.",
           "content": "As is standard procedure for major NASA missions, the US space agency held a post-launch news conference on Sunday morning at Kennedy Space Center in Florida to provide information about how the Nancy Grace Roman Space Telescope was faring during its initial maneuvers. What was not standard, however, is what happened in the middle of the news conference. A little less than half an hour in, NASA Administrator Jared Isaacman looked down at his mobile phone, and then stood up and walked away from the dais where he had been seated behind a table along with other NASA officials. He briefly left the room. Isaacman returned about a minute later, phone in hand, apologizing for interrupting NASA's chief of science, Nicky Fox, as she was speaking about the mission. \"The President of the United States of America would like to address and congratulate everyone on this mission,\" Isaacman said, returning to his seat.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 1,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/NHQ20260828_admin_0045large-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/NHQ20260828_admin_0045large-1152x648.jpg",
-      "popularity_score": 348.83740916666665
+      "popularity_score": 335.56049722222224
     },
     {
-      "id": "cluster_38",
+      "id": "cluster_44",
       "coverage": 1,
       "updated_at": "Sun, 30 Aug 2026 11:03:47 +0000",
       "title": "Inside Meta’s push to put robots to work in data centers",
@@ -57,12 +57,31 @@
           "title": "Inside Meta’s push to put robots to work in data centers",
           "standfirst": "The company is testing robots on tasks that can performed by technicians.",
           "content": "Meta is testing robots that can plug in cables, reset servers, and handle other tasks inside its data centers, according to several current and former workers familiar with the projects. The ongoing effort, which has not been previously reported, may eventually allow Meta to operate its rapidly expanding data center footprint with fewer humans, keeping labor costs in check as its spending on AI infrastructure soars. Meta is using robots and related hardware from several different vendors, including Watney Robotics, Kinova, and ABB, according to the same workers, who asked to remain anonymous because they weren’t authorized to speak to the media. Kinova and ABB declined to comment. Watney didn’t respond to requests for comment. In one experiment, Meta is evaluating whether a Kinova Gen3 robotic arm could be used for power cycling or cutting off electricity to servers. The company is also testing a different robot to swap networking cables. One Meta data center worker estimates that if it’s successful, the bot could replace up to 80 percent of some people’s workloads. “We thought those of us performing the physical tasks were safe for a while, but not anymore,” says the worker. “It’s coming for us all, unfortunately.”Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 2,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
-      "popularity_score": 332.2254647222222
+      "popularity_score": 318.94855277777776
+    },
+    {
+      "id": "cluster_4",
+      "coverage": 1,
+      "updated_at": "2026-08-31T01:06:51.750Z",
+      "title": "Court rules Kalshi sports bets aren&#8217;t &#8220;swaps,&#8221; just gambling with a different name",
+      "neutral_headline": "Court rules Kalshi sports bets aren&#8217;t &#8220;swaps,&#8221; just gambling...",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
+          "published_at": "2026-08-31T01:06:51.750Z",
+          "title": "Court rules Kalshi sports bets aren&#8217;t &#8220;swaps,&#8221; just gambling with a different name",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 4
+        }
+      ],
+      "popularity_score": 309.9998722222222
     },
     {
       "id": "cluster_71",
@@ -78,33 +97,107 @@
           "title": "I asked 100 companies for my data. Some deleted it instead.",
           "standfirst": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
           "content": "I filed a request with McDonald’s earlier this month to access all of the personal data the fast food company collected about me, and I received a stunning 515-page report a few days later that detailed my app interactions in granular detail and predicted I would never stop eating there. Under the California Consumer Privacy Act, I have the legal right to request access to information from large companies that collect personal data. So I was curious what others might have on me, and I spent the next week filing more than 100 requests. The CCPA went into effect in 2020, and three of its key provisions are the right to opt out of the selling of personal information, the right to delete that info, and the right to request a copy for yourself.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/personaldata-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/personaldata-1024x648.jpg",
-      "popularity_score": 313
+      "popularity_score": 303
     },
     {
-      "id": "cluster_84",
+      "id": "cluster_5",
       "coverage": 1,
-      "updated_at": "Fri, 28 Aug 2026 22:14:52 +0000",
-      "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
-      "neutral_headline": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+      "updated_at": "2026-08-31T01:06:51.750Z",
+      "title": "Cities terminate Flock contracts at record pace in August",
+      "neutral_headline": "Cities terminate Flock contracts at record pace in August",
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
-          "published_at": "Fri, 28 Aug 2026 22:14:52 +0000",
-          "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
-          "standfirst": "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule.",
-          "content": "Kalshi today lost a major ruling over whether it can evade state gambling laws, as a federal appeals court found that Nevada can stop the prediction market from allowing sports bets. While the Trump administration is trying to help prediction markets avoid state regulation, a panel of three Trump-appointed judges unanimously ruled against Kalshi in today's decision from the US Court of Appeals for the 9th Circuit. The Nevada Gaming Control Board today said the 9th Circuit \"emphatically reject[ed] the view that the federal Commodity Exchange Act preempts application of Nevada’s gaming laws to sports-event contracts offered by Kalshi, Crypto.com, and Robinhood.\" Nevada Governor Joe Lombardo, a Republican, said that \"prediction markets offering sports-event contracts constitute gambling and must comply with Nevada’s gaming laws and regulatory framework.\" The judges affirmed a district court order that let Nevada enforce state laws against Kalshi’s sports-related event contracts.Read full article Comments",
-          "feed_position": 3,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg"
+          "url": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
+          "published_at": "2026-08-31T01:06:51.750Z",
+          "title": "Cities terminate Flock contracts at record pace in August",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 5
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg",
-      "popularity_score": 300
+      "popularity_score": 302.9998722222222
+    },
+    {
+      "id": "cluster_6",
+      "coverage": 1,
+      "updated_at": "2026-08-31T01:06:51.750Z",
+      "title": "&#8220;RFK Jr. has lied to the Senate&#8221;: Lawmakers call for criminal probe, ouster",
+      "neutral_headline": "&#8220;RFK Jr. has lied to the Senate&#8221;: Lawmakers call...",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/",
+          "published_at": "2026-08-31T01:06:51.750Z",
+          "title": "&#8220;RFK Jr. has lied to the Senate&#8221;: Lawmakers call for criminal probe, ouster",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 6
+        }
+      ],
+      "popularity_score": 292.9998722222222
+    },
+    {
+      "id": "cluster_7",
+      "coverage": 1,
+      "updated_at": "2026-08-31T01:06:51.750Z",
+      "title": "Trump blacklisting of &#8220;woke&#8221; Anthropic deemed illegal by federal judge",
+      "neutral_headline": "Trump blacklisting of &#8220;woke&#8221; Anthropic deemed illegal by federal judge",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+          "published_at": "2026-08-31T01:06:51.750Z",
+          "title": "Trump blacklisting of &#8220;woke&#8221; Anthropic deemed illegal by federal judge",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 7
+        }
+      ],
+      "popularity_score": 282.9998722222222
+    },
+    {
+      "id": "cluster_8",
+      "coverage": 1,
+      "updated_at": "2026-08-31T01:06:51.750Z",
+      "title": "Here&#8217;s what we know about the &#8220;space academy&#8221; Trump just announced",
+      "neutral_headline": "Here&#8217;s what we know about the &#8220;space academy&#8221; Trump just announced",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
+          "published_at": "2026-08-31T01:06:51.750Z",
+          "title": "Here&#8217;s what we know about the &#8220;space academy&#8221; Trump just announced",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 8
+        }
+      ],
+      "popularity_score": 280.9998722222222
+    },
+    {
+      "id": "cluster_9",
+      "coverage": 1,
+      "updated_at": "2026-08-31T01:06:51.750Z",
+      "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
+      "neutral_headline": "Apple One and Apple TV subscription prices increase by up to 20 percent",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
+          "published_at": "2026-08-31T01:06:51.750Z",
+          "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
+          "standfirst": "",
+          "content": "",
+          "feed_position": 9
+        }
+      ],
+      "popularity_score": 274.9998722222222
     }
   ]
 }
