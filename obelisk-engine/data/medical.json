@@ -1,17 +1,35 @@
 {
   "clinical": {
-    "updated_at": "2026-09-13T14:48:28.732Z",
+    "updated_at": "2026-09-13T21:15:06.942Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-09-13T14:48:33.800Z",
+    "updated_at": "2026-09-13T21:15:12.846Z",
     "clusters": []
   },
   "patient_signals": {
-    "updated_at": "2026-09-13T14:48:30.658Z",
+    "updated_at": "2026-09-13T21:15:12.461Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sun, 13 Sep 2026 17:46:12 GMT",
+        "title": "Pennsylvania reports apparent third measles-related death amid outbreak",
+        "neutral_headline": "Pennsylvania reports apparent third measles-related death amid outbreak",
+        "items": [
+          {
+            "source": "Guardian Health",
+            "url": "https://www.theguardian.com/us-news/2026/sep/13/pennsylvania-third-measles-death-outbreak",
+            "published_at": "Sun, 13 Sep 2026 17:46:12 GMT",
+            "title": "Pennsylvania reports apparent third measles-related death amid outbreak",
+            "standfirst": "Jefferson county coroner says 40-year-old woman died on Saturday, while two infants died with disease in AugustA coroner in Pennsylvania announced the death of a 40-year-old woman associated with the state’s ongoing measles outbreak. The death appears to mark the third in the US state’s ongoing outbreak.Two previous deaths in the state were in infant children. In one case, the infant was born with a genetic defect that made her vulnerable to infection. The second infant child was infected with measles, and died of a ruptured spleen. Continue reading...",
+            "content": "Jefferson county coroner says 40-year-old woman died on Saturday, while two infants died with disease in AugustA coroner in Pennsylvania announced the death of a 40-year-old woman associated with the state’s ongoing measles outbreak. The death appears to mark the third in the US state’s ongoing outbreak.Two previous deaths in the state were in infant children. In one case, the infant was born with a genetic defect that made her vulnerable to infection. The second infant child was infected with measles, and died of a ruptured spleen. Continue reading...",
+            "feed_position": 0
+          }
+        ]
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Sun, 13 Sep 2026 10:00:05 GMT",
         "title": "‘I’ve lost everything – my child, my house, my money’: how Israel’s war on Gaza has changed men",
@@ -24,12 +42,12 @@
             "title": "‘I’ve lost everything – my child, my house, my money’: how Israel’s war on Gaza has changed men",
             "standfirst": "The impact of the conflict on Palestinian men is a largely undiscussed topic. Four civilians talk about their lives and relationshipsBefore the war, Ahmed, 39, had a busy life. He was pursuing a PhD in factchecking and had three jobs: as a radio presenter, editor of a local factchecking website and researcher at an academic centre. He says he felt “happy” to be able to provide for his family while being intellectually stimulated. Continue reading...",
             "content": "The impact of the conflict on Palestinian men is a largely undiscussed topic. Four civilians talk about their lives and relationshipsBefore the war, Ahmed, 39, had a busy life. He was pursuing a PhD in factchecking and had three jobs: as a radio presenter, editor of a local factchecking website and researcher at an academic centre. He says he felt “happy” to be able to provide for his family while being intellectually stimulated. Continue reading...",
-            "feed_position": 0
+            "feed_position": 1
           }
         ]
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sun, 13 Sep 2026 08:54:47 GMT",
         "title": "Residents and officials meet on dredging concerns",
@@ -49,7 +67,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88a2/live/61816a90-af4d-11f1-99f7-0d91ad00290d.jpg"
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sun, 13 Sep 2026 06:12:26 GMT",
         "title": "Summer wildfires caused catastrophic hidden damage, scientists warn",
@@ -69,7 +87,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e504/live/f1f64000-af39-11f1-a540-61c3f7fc4e6c.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sun, 13 Sep 2026 05:55:19 GMT",
         "title": "Some dentists say more young people are grinding their teeth - are you one of them?",
@@ -89,7 +107,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c84/live/08ae0610-ad1f-11f1-826f-933990eae6f0.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sat, 12 Sep 2026 23:53:07 GMT",
         "title": "Five night sky events to look out for this autumn",
@@ -109,7 +127,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aff8/live/ce59c3a0-ad0f-11f1-a035-c91dffce51bf.jpg"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sat, 12 Sep 2026 19:36:50 GMT",
         "title": "Fire at nursing home in Chile kills 16 residents",
@@ -129,7 +147,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a76/live/dfbc28f0-aeda-11f1-91ea-91f4a2a08fa4.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sat, 12 Sep 2026 13:00:32 GMT",
         "title": "Record heatwaves in France set to make champagne stronger",
@@ -149,7 +167,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6fd/live/129bea30-aea9-11f1-8972-d5c52a82c3b8.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sat, 12 Sep 2026 11:00:34 GMT",
         "title": "We know how to prevent black lung, so why are workers still dying?",
@@ -162,12 +180,12 @@
             "title": "We know how to prevent black lung, so why are workers still dying?",
             "standfirst": "Silicosis sufferers are getting younger as Trump and the coal mining industry push back on protectionsSilicosis is one of the oldest workplace hazards and public health experts have known for decades how to prevent it. Yet a new wave of workers, from Appalachian coalminers to Latino countertop fabrication workers, are developing and dying from the disease as industry fights new protections and regulators fail to defend the rules that could protect them.John Robinson’s grandfather developed black lung back when coalminers could spend decades in the mines before being diagnosed with the disease, often dying in their 60s, 70s and 80s. But Robinson, who mined for coal in south-west Virginia, was diagnosed when he was 47. He’s part of a trend that has grown over the past two decades in central Appalachia, where more coalminers are developing black lung disease at younger ages. Continue reading...",
             "content": "Silicosis sufferers are getting younger as Trump and the coal mining industry push back on protectionsSilicosis is one of the oldest workplace hazards and public health experts have known for decades how to prevent it. Yet a new wave of workers, from Appalachian coalminers to Latino countertop fabrication workers, are developing and dying from the disease as industry fights new protections and regulators fail to defend the rules that could protect them.John Robinson’s grandfather developed black lung back when coalminers could spend decades in the mines before being diagnosed with the disease, often dying in their 60s, 70s and 80s. But Robinson, who mined for coal in south-west Virginia, was diagnosed when he was 47. He’s part of a trend that has grown over the past two decades in central Appalachia, where more coalminers are developing black lung disease at younger ages. Continue reading...",
-            "feed_position": 1
+            "feed_position": 2
           }
         ]
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Sat, 12 Sep 2026 06:27:18 GMT",
         "title": "The slow, muddy work of saving ancient bogs",
@@ -187,7 +205,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c8c/live/0caa1b40-ad11-11f1-826f-933990eae6f0.jpg"
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Sat, 12 Sep 2026 06:09:37 GMT",
         "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
@@ -207,7 +225,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead9/live/f1274f90-abbd-11f1-be3c-77d601a01c16.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Sat, 12 Sep 2026 05:24:06 GMT",
         "title": "Town gets in a flap over High Street pigeon mess",
@@ -227,7 +245,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f74e/live/85542060-adcd-11f1-82c1-5ff19bf7a2f2.png"
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 11 Sep 2026 22:17:25 GMT",
         "title": "Legionnaires’ disease outbreak kills one and infects others in the South Bronx",
@@ -240,70 +258,14 @@
             "title": "Legionnaires’ disease outbreak kills one and infects others in the South Bronx",
             "standfirst": "The disease is a form of pneumonia caused by Legionella bacteria, which can grow in warm water and spread through mist produced by cooling towersOne person has died from legionnaires’ disease, and four more have been sickened in New York City amid a new cluster of cases only weeks after local health officials had declared a separate deadly Manhattan outbreak of the illness over.On Thursday, New York City officials announced that their municipal health department launched an investigation into a community cluster in parts of Melrose and Morrisania in the South Bronx, including ZIP codes 10451 and 10456. Continue reading...",
             "content": "The disease is a form of pneumonia caused by Legionella bacteria, which can grow in warm water and spread through mist produced by cooling towersOne person has died from legionnaires’ disease, and four more have been sickened in New York City amid a new cluster of cases only weeks after local health officials had declared a separate deadly Manhattan outbreak of the illness over.On Thursday, New York City officials announced that their municipal health department launched an investigation into a community cluster in parts of Melrose and Morrisania in the South Bronx, including ZIP codes 10451 and 10456. Continue reading...",
-            "feed_position": 2
-          }
-        ]
-      },
-      {
-        "id": "cluster_12",
-        "coverage": 1,
-        "updated_at": "Fri, 11 Sep 2026 19:30:50 GMT",
-        "title": "‘They’re lifesavers’: the Birmingham clinic giving hope to traumatised asylum seekers",
-        "neutral_headline": "‘They’re lifesavers’: the Birmingham clinic giving hope to traumatised asylum seekers",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/uk-news/2026/sep/11/theyre-lifesavers-the-birmingham-clinic-giving-hope-to-traumatised-asylum-seekers",
-            "published_at": "Fri, 11 Sep 2026 19:30:50 GMT",
-            "title": "‘They’re lifesavers’: the Birmingham clinic giving hope to traumatised asylum seekers",
-            "standfirst": "MSF-run centre offering intensive psychological care has received more than 350 referrals since opening last year Azad*, an asylum seeker from Iran, recounts his story in a gentle and mild manner, seated in the stillness of a therapy room at a trauma clinic in Birmingham.The centre, which opened its doors in July last year to address the “unmet mental healthcare needs of those seeking sanctuary”, is run by Médecins Sans Frontières (MSF), or Doctors Without Borders. It provides specialised trauma-focused psychological care for refugees and asylum seekers in the city and surrounding areas. Continue reading...",
-            "content": "MSF-run centre offering intensive psychological care has received more than 350 referrals since opening last year Azad*, an asylum seeker from Iran, recounts his story in a gentle and mild manner, seated in the stillness of a therapy room at a trauma clinic in Birmingham.The centre, which opened its doors in July last year to address the “unmet mental healthcare needs of those seeking sanctuary”, is run by Médecins Sans Frontières (MSF), or Doctors Without Borders. It provides specialised trauma-focused psychological care for refugees and asylum seekers in the city and surrounding areas. Continue reading...",
             "feed_position": 3
-          }
-        ]
-      },
-      {
-        "id": "cluster_13",
-        "coverage": 1,
-        "updated_at": "Fri, 11 Sep 2026 17:45:14 GMT",
-        "title": "Running costs of vaccine damage scheme more than double amount paid to victims",
-        "neutral_headline": "Running costs of vaccine damage scheme more than double amount paid to victims",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.co.uk/news/articles/cj06762qegmo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 11 Sep 2026 17:45:14 GMT",
-            "title": "Running costs of vaccine damage scheme more than double amount paid to victims",
-            "standfirst": "The cost of administration and medical checks has now topped £83m, according to new figures.",
-            "content": "The cost of administration and medical checks has now topped £83m, according to new figures.",
-            "feed_position": 2,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1126/live/e1999d80-0b31-11f1-9972-d3f265c101c6.png"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1126/live/e1999d80-0b31-11f1-9972-d3f265c101c6.png"
-      },
-      {
-        "id": "cluster_14",
-        "coverage": 1,
-        "updated_at": "Fri, 11 Sep 2026 15:00:11 GMT",
-        "title": "Living with tinnitus can be distressing. So what can you do about it?",
-        "neutral_headline": "Living with tinnitus can be distressing. So what can you do about it",
-        "items": [
-          {
-            "source": "Guardian Health",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/sep/12/living-with-tinnitus-can-be-distressing-which-therapy-can-help",
-            "published_at": "Fri, 11 Sep 2026 15:00:11 GMT",
-            "title": "Living with tinnitus can be distressing. So what can you do about it?",
-            "standfirst": "Tinnitus affects millions of people and it can take many different forms. But there are therapies that can help make it more bearableFor some it’s a high-pitched mosquito whine; for others it’s a low bass hum. It might come and go with periods of stress, or it might be the permanent, irritating background track to daily life and nightly sleep.Whatever form it takes, tinnitus – hearing sounds like ringing, buzzing or hissing when no external noise is there – can be extremely distressing because it’s quite literally in your head; there is no escaping it. Given that at least one-quarter of the population report experiencing tinnitus at some stage in their life, it’s surprising how little is understood about why. Continue reading...",
-            "content": "Tinnitus affects millions of people and it can take many different forms. But there are therapies that can help make it more bearableFor some it’s a high-pitched mosquito whine; for others it’s a low bass hum. It might come and go with periods of stress, or it might be the permanent, irritating background track to daily life and nightly sleep.Whatever form it takes, tinnitus – hearing sounds like ringing, buzzing or hissing when no external noise is there – can be extremely distressing because it’s quite literally in your head; there is no escaping it. Given that at least one-quarter of the population report experiencing tinnitus at some stage in their life, it’s surprising how little is understood about why. Continue reading...",
-            "feed_position": 4
           }
         ]
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-09-13T14:48:33.800Z",
+    "updated_at": "2026-09-13T21:15:12.846Z",
     "clusters": []
   }
 }
