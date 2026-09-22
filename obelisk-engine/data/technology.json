@@ -1,8 +1,50 @@
 {
-  "updated_at": "2026-09-21T22:27:40.576Z",
+  "updated_at": "2026-09-22T01:27:08.765Z",
   "clusters": [
     {
-      "id": "cluster_35",
+      "id": "cluster_11",
+      "coverage": 1,
+      "updated_at": "Mon, 21 Sep 2026 22:24:38 +0000",
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "neutral_headline": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+          "published_at": "Mon, 21 Sep 2026 22:24:38 +0000",
+          "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+          "standfirst": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+          "content": "Meta founder and CEO Mark Zuckerberg has gone to great lengths to hype the security of its new AI assistant Muse, claiming it is “built from the ground up for privacy and security.” A zero-day vulnerability that gives locally run apps and terminal commands complete control of the agent raises serious doubts. Further raising questions, Amazon on Sunday began blocking Muse from its site. Meta introduced Muse a few weeks ago. The assistant “books appointments, fills out forms and handles customer service,” “proactively takes tasks off your plate,” and can “make purchases, generate images, create documents, and connect with your favorite apps and services.” The macOS app (curiously, there’s no Windows version) also works with a user’s WhatsApp, email, calendar, and social media accounts. When a task requires a tool that doesn’t exist, Muse creates one on the fly. Meta doth hype Muse security too much Of course, for Muse to do any of these things, users must first give it access to their accounts. This includes authenticating the assistant to each service and, because the app runs on macOS, giving it permissions to a broad range of operating system-restricted device resources like writing files to disk, accessing the mic and camera, and monitoring location and calendars. Apple has spent years developing these defenses to prevent installed apps or commands entered into the terminal from accessing these resources, clearly because the company considers them a security threat. Muse completely undoes these default measures.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+      "popularity_score": 364.95812083333334
+    },
+    {
+      "id": "cluster_16",
+      "coverage": 1,
+      "updated_at": "Mon, 21 Sep 2026 21:07:05 +0000",
+      "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
+      "neutral_headline": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
+          "published_at": "Mon, 21 Sep 2026 21:07:05 +0000",
+          "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
+          "standfirst": "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.",
+          "content": "In the world’s first clash of the drone boats, a Ukrainian naval drone destroyed a Russian explosive drone boat using a remote-controlled machine gun turret. This comes as the war in Ukraine has already seen widespread deployment of such uncrewed surface vessels in combat, along with swarms of flying attack drones and ground robots. The lopsided battle took place on September 12 when members of Ukraine’s Defense Intelligence detected the Russian uncrewed surface vessel (USV) in the Black Sea and directed a Ukrainian Navy drone boat to intercept. The Russian vessel was “positively identified” as an Orcan surface drone with a “jet ski type steerable water jet” designed to ram targets and explode, according to naval analyst HI Sutton in Naval News. Such Orcan drones have already been used to attack Ukrainian ports and ships. These often work in coordination with flying drones such as Russian Geran drones that provide aerial reconnaissance and can boost communication between drone operators and drone boats, Sutton explained.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Ukraine-drone-boat-machine-gun-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Ukraine-drone-boat-machine-gun-1152x648.jpg",
+      "popularity_score": 353.6656208333333
+    },
+    {
+      "id": "cluster_47",
       "coverage": 1,
       "updated_at": "Mon, 21 Sep 2026 16:57:26 +0000",
       "title": "Google confirms Gemini models hacked three companies in May 2026",
@@ -15,57 +57,36 @@
           "title": "Google confirms Gemini models hacked three companies in May 2026",
           "standfirst": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
           "content": "It has become increasingly common for AI firms to announce that their latest and most capable models engaged in unauthorized real-world hacking. Google, which has been slow to release frontier Gemini models in recent months, has been absent from the \"rogue AI\" conversation until now. Following a Wall Street Journal report, Google has confirmed that Gemini models hacked three companies during a May 2026 test, but the nature of the intrusion isn't as troubling (or impressive) as previous AI hacks. The hack took place during a test conducted by cybersecurity firm Irregular. A collection of Gemini models were taking part in a \"capture the flag\" exercise intended to test the AI's cybersecurity capabilities in a closed environment. The AI was instructed to retrieve information from a fake company (which shared a name with a real company) within this environment. Irregular was not supposed to allow the model to operate outside its servers, but due to a misconfiguration, Gemini was able to access the Internet. When Gemini started snooping around the web, it targeted real infrastructure instead of the fakes. For one of the three hacks, Gemini simply guessed passwords until it accessed a company's online services. In the other two instances, Gemini searched public software repositories until it found login credentials for companies that had been accidentally included.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
-      "popularity_score": 369.49595111111114
+      "popularity_score": 336.5047875
     },
     {
-      "id": "cluster_0",
+      "id": "cluster_17",
       "coverage": 1,
-      "updated_at": "Mon, 21 Sep 2026 22:24:38 +0000",
-      "title": "Muse, Meta&#039;s extraordinarily privileged AI assistant, has a serious 0-day",
-      "neutral_headline": "Muse, Meta&#039;s extraordinarily privileged AI assistant, has a serious 0-day",
+      "updated_at": "Mon, 21 Sep 2026 20:55:36 +0000",
+      "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
+      "neutral_headline": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
       "items": [
         {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-          "published_at": "Mon, 21 Sep 2026 22:24:38 +0000",
-          "title": "Muse, Meta&#039;s extraordinarily privileged AI assistant, has a serious 0-day",
-          "standfirst": "A simple ClickFix attack is only one way to completely hijack the new agent.",
-          "content": "Meta founder and CEO Mark Zuckerberg has gone to great lengths to hype the security of its new AI assistant Muse, claiming it is “built from the ground up for privacy and security.” A zero-day vulnerability that gives locally run apps and terminal commands complete control of the agent raises serious doubts. Further raising questions, Amazon on Sunday began blocking Muse from its site. Meta introduced Muse a few weeks ago. The assistant “books appointments, fills out forms and handles customer service,” “proactively takes tasks off your plate,” and can “make purchases, generate images, create documents, and connect with your favorite apps and services.” The macOS app (curiously, there’s no Windows version) also works with a user’s WhatsApp, email, calendar, and social media accounts. When a task requires a tool that doesn’t exist, Muse creates one on the fly. Meta doth hype Muse security too much Of course, for Muse to do any of these things, users must first give it access to their accounts. This includes authenticating the assistant to each service and, because the app runs on macOS, giving it permissions to a broad range of operating system-restricted device resources like writing files to disk, accessing the mic and camera, and monitoring location and calendars. Apple has spent years developing these defenses to prevent installed apps or commands entered into the terminal from accessing these resources, clearly because the company considers them a security threat. Muse completely undoes these default measures.Read full article Comments",
-          "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/",
+          "published_at": "Mon, 21 Sep 2026 20:55:36 +0000",
+          "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
+          "standfirst": "The new carmaker is a joint venture between the Saudi PIF and Foxconn.",
+          "content": "Ceer provided flights from Detroit to Riyadh, Saudi Arabia, and accommodation so Ars could visit the factory. Ars does not accept paid editorial content. KING ABDULLAH ECONOMIC CITY, Saudi Arabia—It may come as a surprise to some, but Saudi Arabia has never had a domestic automaker. That changes with Ceer. A joint venture between the country’s Public Investment Fund and Foxconn, it’s the Kingdom’s first home-grown automaker and a significant part of Saudi Arabia’s Vision 2030 plan to diversify its economy away from oil production and bring technological innovation locally by the end of the decade. Ceer in Arabic means to “drive forward,” and this forward-looking approach applies to the vehicle lineup. The flagship vehicles you see here—the Exobot sedan and SUV—are demonstrations of what the company is capable of and the vision it sees for future vehicles in the portfolio. It plans to have seven new cars in its portfolio by 2030—some of which will be hybrids—and while that doesn’t currently include sales outside the GCC (Gulf Cooperation Council) region, Ceer says it's building a competitive, world-class product and that if the demand is there, expansion is possible.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/WhatsApp_Image_2026-09-21_at_21.24.15-1152x648.jpeg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
-      "popularity_score": 367.94928444444446
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/WhatsApp_Image_2026-09-21_at_21.24.15-1152x648.jpeg",
+      "popularity_score": 334.47423194444445
     },
     {
-      "id": "cluster_4",
-      "coverage": 1,
-      "updated_at": "Mon, 21 Sep 2026 21:07:05 +0000",
-      "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
-      "neutral_headline": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
-          "published_at": "Mon, 21 Sep 2026 21:07:05 +0000",
-          "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
-          "standfirst": "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.",
-          "content": "In the world’s first clash of the drone boats, a Ukrainian naval drone destroyed a Russian explosive drone boat using a remote-controlled machine gun turret. This comes as the war in Ukraine has already seen widespread deployment of such uncrewed surface vessels in combat, along with swarms of flying attack drones and ground robots. The lopsided battle took place on September 12 when members of Ukraine’s Defense Intelligence detected the Russian uncrewed surface vessel (USV) in the Black Sea and directed a Ukrainian Navy drone boat to intercept. The Russian vessel was “positively identified” as an Orcan surface drone with a “jet ski type steerable water jet” designed to ram targets and explode, according to naval analyst HI Sutton in Naval News. Such Orcan drones have already been used to attack Ukrainian ports and ships. These often work in coordination with flying drones such as Russian Geran drones that provide aerial reconnaissance and can boost communication between drone operators and drone boats, Sutton explained.Read full article Comments",
-          "feed_position": 1,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Ukraine-drone-boat-machine-gun-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Ukraine-drone-boat-machine-gun-1152x648.jpg",
-      "popularity_score": 356.65678444444444
-    },
-    {
-      "id": "cluster_43",
+      "id": "cluster_55",
       "coverage": 1,
       "updated_at": "Mon, 21 Sep 2026 16:15:26 +0000",
       "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
@@ -78,36 +99,15 @@
           "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
           "standfirst": "State AGs had \"very strong\" case that merger is illegal, Lina Khan says.",
           "content": "California and Paramount Skydance have reportedly reached a settlement allowing the company to complete its $111 billion merger with Warner Bros. Discovery. The settlement, which will reportedly be announced later today, drew condemnation from Democrats and media advocates. \"The Paramount/Warner Brothers merger seems facially illegal, and the state AG lawsuit challenging it is very strong,\" Lina Khan, who chaired the Federal Trade Commission during the Biden administration, wrote yesterday. \"It’s troubling to hear that the states may now settle for behavioral remedies, allowing the deal to go through subject to various promises from the firms. Behavioral remedies routinely fail, and the stakes here are particularly high given that a strong democracy requires open markets for sound journalism and creative expression.\" After news of advanced settlement talks was reported over the weekend, Bloomberg reported today that Paramount reached an agreement with California and other states that sued to block the merger. \"Settlement talks came to fruition over the weekend after four states that had opposed terms of a deal outlined with California conceded,\" Bloomberg wrote, citing a person familiar with the matter.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-1152x648.jpg",
-      "popularity_score": 341.7959511111111
+      "popularity_score": 308.8047875
     },
     {
-      "id": "cluster_5",
-      "coverage": 1,
-      "updated_at": "Mon, 21 Sep 2026 20:55:36 +0000",
-      "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
-      "neutral_headline": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
-      "items": [
-        {
-          "source": "Ars Technica Main",
-          "url": "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/",
-          "published_at": "Mon, 21 Sep 2026 20:55:36 +0000",
-          "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
-          "standfirst": "The new carmaker is a joint venture between the Saudi PIF and Foxconn.",
-          "content": "Ceer provided flights from Detroit to Riyadh, Saudi Arabia, and accommodation so Ars could visit the factory. Ars does not accept paid editorial content. KING ABDULLAH ECONOMIC CITY, Saudi Arabia—It may come as a surprise to some, but Saudi Arabia has never had a domestic automaker. That changes with Ceer. A joint venture between the country’s Public Investment Fund and Foxconn, it’s the Kingdom’s first home-grown automaker and a significant part of Saudi Arabia’s Vision 2030 plan to diversify its economy away from oil production and bring technological innovation locally by the end of the decade. Ceer in Arabic means to “drive forward,” and this forward-looking approach applies to the vehicle lineup. The flagship vehicles you see here—the Exobot sedan and SUV—are demonstrations of what the company is capable of and the vision it sees for future vehicles in the portfolio. It plans to have seven new cars in its portfolio by 2030—some of which will be hybrids—and while that doesn’t currently include sales outside the GCC (Gulf Cooperation Council) region, Ceer says it's building a competitive, world-class product and that if the demand is there, expansion is possible.Read full article Comments",
-          "feed_position": 2,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/WhatsApp_Image_2026-09-21_at_21.24.15-1152x648.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/WhatsApp_Image_2026-09-21_at_21.24.15-1152x648.jpeg",
-      "popularity_score": 337.4653955555556
-    },
-    {
-      "id": "cluster_37",
+      "id": "cluster_49",
       "coverage": 1,
       "updated_at": "Mon, 21 Sep 2026 16:40:26 +0000",
       "title": "Russel Vought will reportedly be given veto power over all NIH grants",
@@ -120,15 +120,15 @@
           "title": "Russel Vought will reportedly be given veto power over all NIH grants",
           "standfirst": "Pending move comes over the objections of the NIH director.",
           "content": "On Friday, The Washington Post reported on a contentious White House meeting in which the director of the National Institutes of Health (NIH), Jay Bhattacharya, tried to fend off yet another effort to place funding decisions under political control. The move came from Russell Vought, head of the Office of Management and Budget (OMB), which has sought to limit and control research funds. The Post suggested that Bhattacharya ended up on the losing side of the fight. This initial leak has been confirmed and expanded on by outlets such as The New York Times and Politico. It now appears that the administration is drafting an executive order that would give Vought veto power over every individual grant awarded by the NIH. If at first you don't succeed The NIH is the largest funder of biomedical research on the planet, and its $47 billion budget is larger than that of the next 10 research funders combined. Its funding, distributed largely through grants to academic researchers at universities, supports everything from basic biological research to clinical trials and has helped the biotechnology industry flourish.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2287518863-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2287518863-1024x648.jpg",
-      "popularity_score": 337.2126177777778
+      "popularity_score": 304.22145416666666
     },
     {
-      "id": "cluster_49",
+      "id": "cluster_59",
       "coverage": 1,
       "updated_at": "Mon, 21 Sep 2026 15:37:56 +0000",
       "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
@@ -141,15 +141,15 @@
           "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
           "standfirst": "The president offered few details on what his proposed new AI Force would do.",
           "content": "Donald Trump has said that the US would appoint a new AI tsar and create an “AI Force” while offering a full-throated defense of the emerging industry in the face of a growing popular backlash. The US president’s announcement comes as leading industry figures have sounded the alarm that humans could lose control over the rapidly advancing technology without a slowdown in development. However, rather than announcing regulation as some have demanded, Trump has dismissed safety concerns as a “hoax.”Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-1152x648-1756146125.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-1152x648-1756146125.jpg",
-      "popularity_score": 331.1709511111111
+      "popularity_score": 298.1797875
     },
     {
-      "id": "cluster_68",
+      "id": "cluster_71",
       "coverage": 1,
       "updated_at": "Mon, 21 Sep 2026 13:00:24 +0000",
       "title": "Apple Mac mini review: The new M6 impresses, but the price hike is rough",
@@ -162,15 +162,15 @@
           "title": "Apple Mac mini review: The new M6 impresses, but the price hike is rough",
           "standfirst": "The M4 Mac mini was one of Apple's best values. The $899 M6 mini, not so much.",
           "content": "The new Mac mini is the kind of Mac upgrade Apple has done a million times. It’s the same design as before but with new guts. These play-it-safe updates aren’t very exciting, but they’re also usually all upside—you get a year or two's worth of technological improvements for the same price you would have paid for the older version yesterday. Unfortunately, 2026's unprecedented memory crunch has upended that standard operating procedure. The new Mac mini starts at $899 for a version with 16GB of RAM and 256GB of storage, a $300 increase for the same memory and storage specs you could get in the $599 M4 Mac mini in 2024.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_3731-1152x648.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_3731-1152x648.jpeg",
-      "popularity_score": 316.54539555555556
+      "popularity_score": 283.55423194444444
     },
     {
-      "id": "cluster_62",
+      "id": "cluster_67",
       "coverage": 1,
       "updated_at": "Mon, 21 Sep 2026 13:53:46 +0000",
       "title": "Review: Neagley is a worthy spinoff to megahit Reacher",
@@ -183,36 +183,15 @@
           "title": "Review: Neagley is a worthy spinoff to megahit Reacher",
           "standfirst": "It's a bit uneven in execution but still delivers as fast-paced, entertaining escapist fare.",
           "content": "Prime Video looks to have another hit on its hands with Neagley, a new spinoff series set in the same universe as the streaming platform’s critically acclaimed Reacher, now in its fourth season. Both shows are solidly addictive escapist fare, and while Neagley has some uneven elements, it mostly sticks to the successful formula while exploring new ground to give a very different main character her due. (Some spoilers below, but no major reveals.) Reacher fans will already be familiar with Frances Neagley, played to perfection by Maria Sten (Swamp Thing). She’s arguably the most diehard friend of former US Army military police officer turned drifter Jack Reacher (Alan Ritchson), coming to his aid again and again as he confronts a bevy of dangerous criminals over four hugely entertaining seasons. (Of course Ritchson’s Reacher makes an appearance in an opening scene, lending his muscle to rescue a kidnapped child.)Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/neagley-1152x648-1789589203.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/neagley-1152x648-1789589203.jpg",
-      "popularity_score": 315.43484
+      "popularity_score": 282.4436763888889
     },
     {
-      "id": "cluster_96",
-      "coverage": 1,
-      "updated_at": "Sun, 20 Sep 2026 11:07:00 +0000",
-      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-      "neutral_headline": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-          "published_at": "Sun, 20 Sep 2026 11:07:00 +0000",
-          "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-          "standfirst": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
-          "content": "Before two of its alleged members were arrested and charged in Australia last month, the hacker group known as TeamPCP carried out a hacking spree unlike any other in history. It tainted hundreds of open-source programs with its malware, stole developer accounts to perpetuate that software supply-chain hacking, and even released a Dune-themed self-spreading worm to automate the process, ultimately breaching more than a thousand companies. Now Google’s threat intelligence group has revealed that during a key moment of TeamPCP’s rampage, the company’s own undercover researcher had infiltrated the group—allowing Google to monitor the hacking spree from the inside, warn breach targets, and even help disrupt the group’s attempts to exploit those victims. In a talk at security firm SentinelOne's LABScon research conference today, Google Threat Intelligence Group researcher Austin Larsen will present details on the company’s investigation—and infiltration—of TeamPCP amidst the group’s unprecedented, chaotic supply-chain hacking campaign. According to Larsen, Google eventually followed a trail of operational security mistakes allegedly made by one of the two Australians now accused of being leading members of the hacker group and passed on key identifying details to law enforcement. The company also received intelligence from ShinyHunters, another infamous cybercriminal group that TeamPCP partnered with, but which later turned on the supply-chain hackers. And perhaps most surprisingly, Larsen says that Google’s security subsidiary Mandiant had an undercover analyst—not himself—within the group’s inner circle from almost the beginning of TeamPCP’s time in the spotlight.Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-1152x648.jpg",
-      "popularity_score": 300
-    },
-    {
-      "id": "cluster_69",
+      "id": "cluster_72",
       "coverage": 1,
       "updated_at": "Mon, 21 Sep 2026 13:00:11 +0000",
       "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
@@ -225,15 +204,36 @@
           "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
           "standfirst": "Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price.",
           "content": "Google is ready to take a swing at laptops... again. The company has had a lot of success in phones, but it has struggled to parlay that into an effective strategy for larger screens. Chromebooks have been fine as a budget option, but it seems like Google has accepted they'll never compete with macOS or Windows. That's where Googlebooks come in. These new Android-powered laptops are intended to be \"real\" computers, featuring premium hardware, on-device apps, and powerful development tools. After the Googlebook reveal at I/O this year, Google's partners are now ready to sell you one. The first Googlebooks are available from several OEMs that have been making Chromebooks over the years, but don't expect Chromebook pricing. There's only one model under a grand, and the rest are well above that. Familiar hardware The bulk of Chromebooks have been budget machines, and they looked the part. Googlebooks, however, feature bright OLED screens, metal builds, big haptic trackpads, and the Glowbar. All the machines have this illuminated bar on the lid, but it doesn't do much for now. It lights up when the device boots and can display battery level, but Google says it's going to release an API for developers to add more features.Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HP-Googlebook-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HP-Googlebook-1152x648.jpg",
-      "popularity_score": 295.54178444444443
+      "popularity_score": 262.5506208333333
     },
     {
-      "id": "cluster_101",
+      "id": "cluster_97",
+      "coverage": 1,
+      "updated_at": "Sun, 20 Sep 2026 11:07:00 +0000",
+      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "neutral_headline": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+          "published_at": "Sun, 20 Sep 2026 11:07:00 +0000",
+          "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+          "standfirst": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+          "content": "Before two of its alleged members were arrested and charged in Australia last month, the hacker group known as TeamPCP carried out a hacking spree unlike any other in history. It tainted hundreds of open-source programs with its malware, stole developer accounts to perpetuate that software supply-chain hacking, and even released a Dune-themed self-spreading worm to automate the process, ultimately breaching more than a thousand companies. Now Google’s threat intelligence group has revealed that during a key moment of TeamPCP’s rampage, the company’s own undercover researcher had infiltrated the group—allowing Google to monitor the hacking spree from the inside, warn breach targets, and even help disrupt the group’s attempts to exploit those victims. In a talk at security firm SentinelOne's LABScon research conference today, Google Threat Intelligence Group researcher Austin Larsen will present details on the company’s investigation—and infiltration—of TeamPCP amidst the group’s unprecedented, chaotic supply-chain hacking campaign. According to Larsen, Google eventually followed a trail of operational security mistakes allegedly made by one of the two Australians now accused of being leading members of the hacker group and passed on key identifying details to law enforcement. The company also received intelligence from ShinyHunters, another infamous cybercriminal group that TeamPCP partnered with, but which later turned on the supply-chain hackers. And perhaps most surprisingly, Larsen says that Google’s security subsidiary Mandiant had an undercover analyst—not himself—within the group’s inner circle from almost the beginning of TeamPCP’s time in the spotlight.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-1152x648.jpg",
+      "popularity_score": 170
+    },
+    {
+      "id": "cluster_102",
       "coverage": 1,
       "updated_at": "Sun, 20 Sep 2026 10:00:02 +0000",
       "title": "Don't call it an SUV: The Ferrari Purosangue review",
@@ -246,15 +246,15 @@
           "title": "Don't call it an SUV: The Ferrari Purosangue review",
           "standfirst": "Unlike previous Ferrari four-seaters, this one is better for humans than cargo.",
           "content": "Ferrari’s two-seat sports cars might be the brand’s identity, but the Italian automaker has always catered to customers who want to bring more than one passenger along for the ride. It started building cars with back seats in the 1960s with the 250 GT 2+2; as the name suggests, the second row was more for occasional use, something that was true all the way through to the 612 in the early 2000s. Ferrari followed with its first true four-seater, the all-wheel drive FF, which adopted \"Breadvan\" styling. Its first hatchback was still a three-door, though, and slightly more practical for carrying cargo rather than humans in the rear. That was true for the GTC4 that followed, too. But with the Purosangue, the rear passengers have been given something of an upgrade. For one thing, there is an extra pair of doors, rear-hinged ones that provide direct access to the pair of rear bucket seats. There’s still a rear hatch, so this is technically a five-door. But there’s an immovable firewall between the cargo area and the passenger cabin, and the rear seats do not fold flat. So unlike the 21st century breadvans we have previously reviewed, a Costco run in the Purosangue might be possible, but you’re probably going to want a roof rack if you plan to go skiing, cycling, or anything else that requires bulky equipment. It’s also probably accurate that Ferrari says the Purosangue is not an SUV but an FUV—a Ferrari Utility Vehicle. Underneath that long hood lives a 6.5 L naturally aspirated V12, but mounted back in the chassis such that this is technically a front-mid engined layout. That contributes to the 49:51 front-to-rear weight ratio, as does the use of a transaxle gearbox for the rear wheels (an eight-speed, dual-clutch box); a separate power transfer unit at the front of the engine drives the front wheels, for this is an all-wheel drive Ferrari. But make no mistake, it’s a substantial one, too, befitting that massive 715 hp (533 kW), 528 lb-ft (716 Nm) engine: 195.8 inches (4,973 mm) long, 79.8 inches (2,028 mm) wide, 62.6 inches (1,589 mm) tall, with a 118.1-inch (3,018 mm) wheelbase and a 4,784 lbs (2,170 kg) curb weight.Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 11,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Ferrari-Purosangue-1-of-15-1152x648-1789751602.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Ferrari-Purosangue-1-of-15-1152x648-1789751602.jpg",
-      "popularity_score": 264
+      "popularity_score": 144
     },
     {
-      "id": "cluster_106",
+      "id": "cluster_107",
       "coverage": 1,
       "updated_at": "Sun, 20 Sep 2026 09:00:11 +0000",
       "title": "T. rex teeth indicate it ran as warm as an elephant",
@@ -267,12 +267,12 @@
           "title": "T. rex teeth indicate it ran as warm as an elephant",
           "standfirst": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
           "content": "For most of the last century, T. rex was pictured as a sluggish, tail-dragging reptile that had to warm up in the sun before it could go anywhere. Then, further research changed that view, replacing it with the active, bird-like animal shown in the movie Jurassic Park. But whether T. rex used warm blood to power that activity remained a question. Now we might have gotten closer to an answer. A team of researchers led by Randon J. Flores and Robert A. Eagle, geochemists at the University of California, Los Angeles, has measured the T. rex body temperature by analyzing its teeth. This dental thermometer read about 36° Celsius—roughly the body temperature of a modern elephant. Dental thermometry Paleontologists have long argued about dinosaur physiology based on indirect evidence like bone microstructure, growth rates, and where fossils turn up on the map. Some studies suggested many dinosaurs were endotherms, generating their own body heat like birds and mammals. Others argued that each lineage may have had its own thermal strategy.Read full article Comments",
-          "feed_position": 9,
+          "feed_position": 12,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1485364132-1152x648-1789756447.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1485364132-1152x648-1789756447.jpg",
-      "popularity_score": 243
+      "popularity_score": 133
     }
   ]
 }
