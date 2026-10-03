@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-03T01:45:14.719Z",
+  "updated_at": "2026-10-03T08:54:13.705Z",
   "clusters": [
     {
-      "id": "cluster_6",
+      "id": "cluster_19",
       "coverage": 2,
       "updated_at": "Fri, 02 Oct 2026 19:20:01 -0400",
       "title": "Amazon says it has stopped using NDAs with county officials for data center projects and acknowledges community backlash is leading to data center moratoriums (Molly Taft/Wired)",
@@ -15,7 +15,7 @@
           "title": "Amazon says it has stopped using NDAs with county officials for data center projects and acknowledges community backlash is leading to data center moratoriums (Molly Taft/Wired)",
           "standfirst": "Molly Taft / Wired: Amazon says it has stopped using NDAs with county officials for data center projects and acknowledges community backlash is leading to data center moratoriums &mdash; In a blog post published Friday, CEO Matt Garman detailed the steps the company says it's already taking around data centers.",
           "content": "Molly Taft / Wired: Amazon says it has stopped using NDAs with county officials for data center projects and acknowledges community backlash is leading to data center moratoriums &mdash; In a blog post published Friday, CEO Matt Garman detailed the steps the company says it's already taking around data centers.",
-          "feed_position": 4,
+          "feed_position": 10,
           "image_url": "http://www.techmeme.com/261002/i27.jpg"
         },
         {
@@ -25,22 +25,22 @@
           "title": "Amazon Says It’s No Longer Using NDAs for Data Centers",
           "standfirst": "The company announced it has stopped using secret agreements with county officials and acknowledged that community backlash is leading to data center moratoriums across the country.",
           "content": "The company announced it has stopped using secret agreements with county officials and acknowledged that community backlash is leading to data center moratoriums across the country.",
-          "feed_position": 5,
+          "feed_position": 11,
           "image_url": "https://media.wired.com/photos/6abf96a21c08425a2aa5099d/master/pass/GettyImages-2286465910.jpg"
         }
       ],
       "featured_image": "http://www.techmeme.com/261002/i27.jpg",
-      "popularity_score": 2017.5795225
+      "popularity_score": 2010.4298041666666
     },
     {
-      "id": "cluster_7",
+      "id": "cluster_20",
       "coverage": 1,
       "updated_at": "Fri, 02 Oct 2026 23:03:16 +0000",
       "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
       "neutral_headline": "Apple changes full-disk access permissions to curb abuse from AI agents",
       "items": [
         {
-          "source": "Ars Technica Main",
+          "source": "Ars Technica",
           "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
           "published_at": "Fri, 02 Oct 2026 23:03:16 +0000",
           "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
@@ -51,10 +51,10 @@
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
-      "popularity_score": 377.30035583333336
+      "popularity_score": 370.1506375
     },
     {
-      "id": "cluster_20",
+      "id": "cluster_33",
       "coverage": 1,
       "updated_at": "Fri, 02 Oct 2026 20:07:59 +0000",
       "title": "Patient-zero drill put health facilities to the test—40% of them failed",
@@ -67,15 +67,15 @@
           "title": "Patient-zero drill put health facilities to the test—40% of them failed",
           "standfirst": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
           "content": "COVID-19 made the weaknesses in our pandemic preparedness at national and global levels painfully clear. But a new study highlights that even at the first, local steps of an outbreak with pandemic-potential, we are worryingly underprepared. Health officials in New York set up a regional test of healthcare facilities to identify and respond to a patient with a mystery infection that could pose a pandemic-level threat. But things didn't go well. Overall, responses were slow, appropriate use of personal protective equipment was spotty, and only 60 percent of facilities passed the basics of the test—an overall failing grade. \"These drills identified needs for health care workers and health care facility staff member training to achieve earlier identification, masking, and isolation of potentially infectious febrile patients,\" the officials wrote in the study, which was published in the Morbidity and Mortality Weekly Report.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1227666052-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1227666052-1152x648.jpg",
-      "popularity_score": 347.37896694444447
+      "popularity_score": 330.22924861111113
     },
     {
-      "id": "cluster_11",
+      "id": "cluster_24",
       "coverage": 1,
       "updated_at": "Fri, 02 Oct 2026 21:19:05 +0000",
       "title": "Someone got Doom in an SQL database",
@@ -88,15 +88,15 @@
           "title": "Someone got Doom in an SQL database",
           "standfirst": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
           "content": "\"Rendering Doom in a database is obviously a bad idea,\" Lukas Vogel writes in a lengthy blog post explaining how exactly he managed to render Doom using an SQL database. OK, that's not entirely accurate. The SQLDoom project uses a small Python client to handle input and output, drive the game's timing, and display each frame to the screen. Behind that, a series of CedarDB tables tracks the game geometry and state, while about 1,300 lines of SQL queries spread across 89 common table expressions implement the game logic and generate 35 bitmap framebuffers per second. In this, SQLDoom is a major improvement over Vogel's previous DoomQL project, which last year set out to build \"a multiplayer Doom-like shooter entirely in SQL.\" Unfortunately, that effort ended up with raycasting-based, grayscale ASCII graphics that were more akin to the simplistic 90-degree-angled maps of Wolfenstein 3D. The newer SQLDoom, on the other hand, generates full-color 640x480 frames that look like they could have come from the original Doom executable.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 1,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doomsql-1152x648-1790974550.png"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doomsql-1152x648-1790974550.png",
-      "popularity_score": 345.5639669444445
+      "popularity_score": 328.41424861111113
     },
     {
-      "id": "cluster_15",
+      "id": "cluster_28",
       "coverage": 1,
       "updated_at": "Fri, 02 Oct 2026 20:30:27 +0000",
       "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
@@ -109,15 +109,15 @@
           "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
           "standfirst": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
           "content": "On Friday, Amazon committed to donating more than $1 billion over the next five years to communities neighboring data centers. In a press release, Amazon Web Services’ CEO Matt Garman said that communities would decide how to prioritize funds across “education, job training, energy affordability, water, and energy preservation, and local priorities.” Laying out other community commitments, Amazon also promised to ensure data centers wouldn’t increase power bills or wipe out local water supplies. Regarding the latter, Amazon promised to be “water positive” by 2030, while claiming that 75 percent of projects have already met this goal.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 2,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2292181016.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2292181016.jpg",
-      "popularity_score": 337.7534113888889
+      "popularity_score": 320.60369305555554
     },
     {
-      "id": "cluster_30",
+      "id": "cluster_40",
       "coverage": 1,
       "updated_at": "Fri, 02 Oct 2026 19:09:49 +0000",
       "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
@@ -130,15 +130,15 @@
           "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
           "standfirst": "Critics say workers are still owed far more.",
           "content": "California’s attorney general and three city attorneys announced a $272.5 million settlement with Lyft after allegations that the company “committed wage theft by misclassifying drivers as independent contractors rather than employees” between 2016 and 2020, according to a Thursday statement. The case dates back to May 2020, when then-Attorney General Xavier Becerra, who is now the Democratic candidate for governor, sued both Uber and Lyft. That lawsuit said the ridehailing companies evaded state law when they declared that their drivers were not employees. Thursday’s settlement affects only Lyft, while the case against Uber continues.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2288109986-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2288109986-1152x648.jpg",
-      "popularity_score": 316.4095225
+      "popularity_score": 299.25980416666664
     },
     {
-      "id": "cluster_32",
+      "id": "cluster_42",
       "coverage": 1,
       "updated_at": "Fri, 02 Oct 2026 18:56:21 +0000",
       "title": "The 2008 economic crisis changed the US's relationship with energy",
@@ -151,15 +151,15 @@
           "title": "The 2008 economic crisis changed the US's relationship with energy",
           "standfirst": "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth.",
           "content": "One argument that often comes up about climate change is that fossil fuels are good because they powered economic growth that has left most people better off overall. And, to an extent, that has been true, but it's also an extremely limited perspective. It's pretty obvious now that the growth they powered has come with very high costs that we've only recently started to pay, in the form of damages and disruptions from extreme weather events. With things like sea level rise expected to continue for centuries even if we hit net zero, it's difficult to estimate how expensive that growth will eventually be. But that perspective is also limited: We now have better ways to power our growth—ways that are less environmentally damaging now and won't leave our descendants with a carbon debt that will be difficult to manage.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1487351817-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1487351817-1152x648.jpg",
-      "popularity_score": 306.18507805555555
+      "popularity_score": 289.0353597222222
     },
     {
-      "id": "cluster_35",
+      "id": "cluster_44",
       "coverage": 1,
       "updated_at": "Fri, 02 Oct 2026 18:39:36 +0000",
       "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
@@ -172,15 +172,15 @@
           "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
           "standfirst": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
           "content": "The US has arrested another suspect accused of smuggling high-end computer servers containing export-controlled Nvidia chips into China. In a press release on Thursday, the Department of Justice accused 38-year-old Greg Lui of using false paperwork to mask shipments of servers worth more than $300 million that he allegedly knew were ultimately destined for China. As the CEO of Earthmade Computer, Lui allegedly conspired with freight-forwarding firms in South Asian countries like Malaysia and Singapore to illegally divert chip shipments into China, including Nvidia’s A100 GPUs and H100 GPUs, the FBI’s indictment alleged. These are not Nvidia’s most advanced chips. However, the chips can process large amounts of data and train large language models, which the US fears could pose national security risks if China suddenly gets access to enough chips to drastically advance its AI or strengthen its military.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1258977050-2-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1258977050-2-1024x648.jpg",
-      "popularity_score": 295.9059113888889
+      "popularity_score": 278.75619305555557
     },
     {
-      "id": "cluster_39",
+      "id": "cluster_47",
       "coverage": 1,
       "updated_at": "Fri, 02 Oct 2026 18:17:27 +0000",
       "title": "Research roundup: 6 cool science stories we almost missed",
@@ -193,15 +193,15 @@
           "title": "Research roundup: 6 cool science stories we almost missed",
           "standfirst": "Also: Spooky action at the LHC, Ice Age psychoactive use, yeast for building homes on Mars, and more.",
           "content": "It’s a regrettable reality that there is never enough time to cover all the interesting scientific stories we come across. So every month, we highlight a handful of the best stories that nearly slipped through the cracks. September’s list includes a tantalizing hint of the elusive dark matter at the LUX-ZEPLIN detector; entangled Z bosons at the Large Hadron Collider; possible use of psychoactive substances in the Late Pleistocene; and an intriguing technical description of a telescope attributed to Galileo. A hint of dark matter? Physicists believe dark matter makes up roughly 85 percent of matter in our universe, with the strongest (but not only) candidate being so-called weakly interacting massive particles (WIMPs). But directly detecting WIMPs, or other alternative hypothetical dark matter particles, has eluded physicists for decades. We might have our first glimpse, however, courtesy of the LUX-ZEPLIN detector buried deep in a gold mine in South Dakota. Those potentially exciting results were presented in a scientific talk at the 2026 TeV Particle Astrophysics conference in Japan, with a preprint available on the arXiv. (It has been submitted to Physical Review Letters for peer review.) The announcement came with strong caveats: the signal is just a hint, well below the threshold needed to confirm discovery, and might just be a statistical fluke. Anyone who regularly follows dark matter news knows that past tantalizing anomalies evaporated as more data came in. But the LUX-ZEPLIN team was unable to account for this event and decided to report their result to the broader physics community. They are still collecting data, as is the XENONnT at the Gran Sasso National Laboratory in Italy. And China's PandaX detector is currently being built.Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/darkmatter-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/darkmatter-1152x648.jpg",
-      "popularity_score": 285.53674472222224
+      "popularity_score": 268.3870263888889
     },
     {
-      "id": "cluster_47",
+      "id": "cluster_53",
       "coverage": 1,
       "updated_at": "Fri, 02 Oct 2026 17:32:14 +0000",
       "title": "US military ends long-running program to spot nuclear missile launches",
@@ -214,15 +214,15 @@
           "title": "US military ends long-running program to spot nuclear missile launches",
           "standfirst": "A newer program has been operational since 2011, and the next generation could launch within 12 months.",
           "content": "In late 1970, a Titan IIIC rocket launched from Space Launch Complex 40 at what was then called Cape Canaveral Air Force Station. It carried a top-secret payload for the US military. Much has changed in spaceflight since then. The Titan IIIC would bow out in 1982 after dozens of launches. Various Titans continued launching from Space Launch Complex 40 until 2005, at which point the US Air Force—in a competitive process hotly opposed by United Launch Alliance—turned the pad over to a small, largely unknown startup called SpaceX. And Cape Canaveral is now a \"Space Force\" station. But those unspecified payloads? Until last month, some of them were still flying operationally.Read full article Comments",
-          "feed_position": 7,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/071110-D-1584B-011-1152x648.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/071110-D-1584B-011-1152x648.jpeg",
-      "popularity_score": 274.7831336111111
+      "popularity_score": 257.6334152777778
     },
     {
-      "id": "cluster_51",
+      "id": "cluster_57",
       "coverage": 1,
       "updated_at": "Fri, 02 Oct 2026 17:20:21 +0000",
       "title": "How I kept cool with NYC's free battery program for window AC units",
@@ -235,36 +235,15 @@
           "title": "How I kept cool with NYC's free battery program for window AC units",
           "standfirst": "Bonus: Every Electric’s batteries are beloved by household cats.",
           "content": "My family has spent four summers participating in demand response programs whereby utility companies pay customers to reduce energy use on the hottest summer days. Most summers have involved carefully precooling our New York City apartment before switching off the air conditioners and sweating it out during the designated demand response periods. But this year, we kept our window air conditioners running throughout a heat dome event that drove daytime temperatures into the triple digits and made the nights oppressively hot. The difference was that we powered the air conditioners through two household batteries tucked away unobtrusively in the corners of our living room and bedroom. We were among about 1,000 New York City households that took part in a free and growing program offered by the local startup Every Electric. The company’s proposition is simple: Get one or more batteries delivered to your home, plug the batteries into a standard wall electrical outlet, and then plug your window air conditioners into the batteries. Households can keep running air conditioners as usual during peak demand periods while also earning money through the local demand response program with the utility company Con Edison.Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image2-1152x648.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image2-1152x648.jpeg",
-      "popularity_score": 264.5850780555555
+      "popularity_score": 247.43535972222222
     },
     {
-      "id": "cluster_59",
-      "coverage": 1,
-      "updated_at": "Fri, 02 Oct 2026 16:05:26 +0000",
-      "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
-      "neutral_headline": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/",
-          "published_at": "Fri, 02 Oct 2026 16:05:26 +0000",
-          "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
-          "standfirst": "Tesla met analysts expectations as it sold fewer cars in Q3 2026 than Q3 2025.",
-          "content": "Tesla sold 486,532 electric vehicles during the third quarter of 2026. That’s a 2.1 percent decrease on the same quarter in 2025, when the company found homes for 497,099 EVs, and one might think that would be bad news for a company valued on the premise of near-constant growth. But Tesla stock is up this morning; the year-over-year numbers might look bad, but the company still exceeded analysts’ expectations of 456,600 cars, which would have been a larger 8 percent year-on-year decline Total production at Tesla actually increased year over year; it built 464,391 vehicles—a 3.7 percent increase—457,387 of which were Models 3 and Y (a 4.9 percent increase year over year). The remaining 7,004 were other models, mostly Cybertrucks, with presumably some Semis and Cybercabs, as the Models S and X are now retired; this category saw a 39.8 percent decrease year over year.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1415090444-2-1-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1415090444-2-1-1152x648.jpg",
-      "popularity_score": 259.33646694444445
-    },
-    {
-      "id": "cluster_113",
+      "id": "cluster_117",
       "coverage": 1,
       "updated_at": "Thu, 01 Oct 2026 20:11:55 +0000",
       "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
@@ -277,7 +256,7 @@
           "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
           "standfirst": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
           "content": "In a setback for publishers worried about the effects of AI search, a US federal judge has dismissed lawsuits filed by Chegg and Penske Media against Google. The companies accused Google of antitrust violations in products like AI overviews, which have led to decreasing traffic at numerous sites. However, US District Judge Amit Mehta has ruled that Google's conduct is not illegal under antitrust law. The lawsuits were filed in 2025, and Google requested a dismissal earlier this year. Chegg, an education and learning platform, claimed in its lawsuit that Google illegally scraped its educational content. This allowed Gemini models to essentially recreate that content and reduce the site's traffic. Penske, which owns publications like Rolling Stone and Variety, filed a similar case that alleged lost traffic. Specifically, the publisher claimed it was unfair that sites indexed for organic search would also have their content harvested for AI answers, with no way to opt out. These arguments did not sway the judge, who noted that Google's implicit agreement with websites is not legally relevant. \"Plaintiffs have pleaded only that they have an ‘expectation’ that Google will send them search ​traffic if they make their content available for free,\" wrote Mehta. \"But an expectation is not an agreement. It is simply how a general search engine works.\"Read full article Comments",
-          "feed_position": 16,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg"
         }
       ],
@@ -285,7 +264,7 @@
       "popularity_score": 160
     },
     {
-      "id": "cluster_72",
+      "id": "cluster_78",
       "coverage": 1,
       "updated_at": "Fri, 02 Oct 2026 14:52:16 +0000",
       "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
@@ -298,36 +277,15 @@
           "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
           "standfirst": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
           "content": "The era of generative AI has upended technology supply chains, and there is one ironclad rule in 2026: If it has memory or storage, it's getting more expensive. Even devices with years-old tech inside are still apparently subject to that unwritten rule. Nvidia has just announced that the Shield TV Pro is getting $100 more expensive, effective immediately. The most recent version of the Shield streaming box debuted in 2019, running Android TV with AI upscaling and hardware decoding for almost any type of media. While it ran an aging Tegra X1+ processor, that was (and still is) fast for a TV media streamer. The device launched at $199.99, with a non-Pro variant at $149.99. The non-Pro Shield has since been discontinued, but the Shield TV Pro lives on at the new $299.99 price. Nvidia has confirmed that you can blame AI for the higher Shield TV pricing. \"Starting October 2, SHIELD Pro will be priced at $299. The cost of components, including memory, has increased substantially across the industry,\" a spokesperson told Ars.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 11,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Shield-10-yrs-1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Shield-10-yrs-1-1152x648.jpg",
-      "popularity_score": 157.1170225
+      "popularity_score": 149.96730416666668
     },
     {
-      "id": "cluster_78",
-      "coverage": 1,
-      "updated_at": "Fri, 02 Oct 2026 13:54:34 +0000",
-      "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
-      "neutral_headline": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
-          "published_at": "Fri, 02 Oct 2026 13:54:34 +0000",
-          "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
-          "standfirst": "Blue Origin seeks FAA approval for up to 50 New Glenn launches and 50 booster landings per year.",
-          "content": "Welcome to Edition 9.13 of the Rocket Report! This week, SpaceX celebrated the first orbital launch of its new Starship rocket. I'm not sure many people, at least those outside of SpaceX, expected it to take 14 flights of Starship before it technically reached low-Earth orbit, but Monday morning's launch finally added that to SpaceX's list of accomplishments with its new super-heavy rocket. Starship had gone 99 percent of the way to orbit before, only held back by safety concerns around the possibility of stranding the huge rocket in space. What was most notable for SpaceX with this Starship flight was that it unlocked a massive growth potential for Starlink, with the first 26 of the network's new-generation Starlink V3 satellites successfully deployed Monday.Read full article Comments",
-          "feed_position": 11,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon9_falconheavy-1152x648-1790915768.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon9_falconheavy-1152x648-1790915768.jpg",
-      "popularity_score": 149.15535583333335
-    },
-    {
-      "id": "cluster_110",
+      "id": "cluster_114",
       "coverage": 1,
       "updated_at": "Thu, 01 Oct 2026 22:07:33 +0000",
       "title": "SpaceX describes surgical intervention before launch of latest crew mission",
@@ -340,7 +298,7 @@
           "title": "SpaceX describes surgical intervention before launch of latest crew mission",
           "standfirst": "With Crew-13, Jessica Watkins became the first Black woman to lead a mission into space.",
           "content": "A four-person crew rocketed into orbit Thursday from Cape Canaveral Space Force Station, Florida, heading for a six-month expedition on the International Space Station. Riding a Falcon 9 rocket and Dragon spacecraft, the four crew members departed from Space Launch Complex-40 at Cape Canaveral at 11:10 am EDT (15:10 UTC) Thursday. Nine minutes later, they were in orbit to begin closing in on the space station for docking Thursday evening. The launch was delayed from mid-September to replace a balky valve in the Dragon spacecraft's propulsion system, a task that involved cutting into a propellant line inside the ship to swap out a faulty component.Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/crewdragon1crew13-1152x648.jpg"
         }
       ],
@@ -348,7 +306,7 @@
       "popularity_score": 146
     },
     {
-      "id": "cluster_117",
+      "id": "cluster_120",
       "coverage": 1,
       "updated_at": "Thu, 01 Oct 2026 18:04:48 +0000",
       "title": "Marvel releases one last VisionQuest trailer",
@@ -361,7 +319,7 @@
           "title": "Marvel releases one last VisionQuest trailer",
           "standfirst": "\"This is a fight I likely won't win. We have said goodbye before. But remember, family is forever.\"",
           "content": "With its premiere just two weeks away, Marvel Studios has dropped one last trailer for the limited series, VisionQuest, which will complete the trilogy begun with WandaVision and Agatha All Along. (Spoilers for WandaVision and Agatha All Along below.) As previously reported, Marvel’s streaming TV portfolio has kind of been all over the place: a handful of hits, a few misses, and a bunch of middling offerings. One standout was WandaVision, followed by an excellent sequel (of sorts), Agatha All Along. VisionQuest will complete the trilogy. Vision (Paul Bettany) died in Infinity War, but WandaVision resurrected an all-white version whose memories were restored in the finale. We finally get to learn what happened afterward.Read full article Comments",
-          "feed_position": 18,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vision3-1152x638.jpg"
         }
       ],
@@ -369,7 +327,7 @@
       "popularity_score": 145
     },
     {
-      "id": "cluster_112",
+      "id": "cluster_116",
       "coverage": 1,
       "updated_at": "Thu, 01 Oct 2026 20:28:45 +0000",
       "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
@@ -382,7 +340,7 @@
           "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
           "standfirst": "It has been a bad month for federal government cybersecurity.",
           "content": "The Pentagon is informing more than 2 million current and former military members that their personnel records storing sensitive personal information were stolen over a monthslong compromise of one of its networks. The breach is the second one in recent months to expose sensitive government information. The records, according to one notification letter posted to Reddit, included Social Security numbers, names, addresses, sex, race, and occupational specialty. This last category could be particularly valuable to foreign adversaries because it could help their intelligence agencies in identifying high-value military personnel. Starting last October, hackers gained access to a system operated by the Defense Manpower Data Center, which collates Department of Defense personnel records. The Pentagon says that the breach compromised the records of 2.8 million living individuals. A potential boon The incident is the second time a major network breach in recent months has exposed sensitive US government personnel records that criminal groups or foreign adversaries could use. Last month, the ransomware group ShinyHunters claimed it hacked into FBI systems and stole records of thousands of the agency’s current or former employees. Reuters reported the job titles in the records included ones related to investigating China or Russia.Read full article Comments",
-          "feed_position": 15,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-1000x648.jpeg"
         }
       ],
@@ -390,7 +348,49 @@
       "popularity_score": 143
     },
     {
-      "id": "cluster_88",
+      "id": "cluster_65",
+      "coverage": 1,
+      "updated_at": "Fri, 02 Oct 2026 16:05:26 +0000",
+      "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
+      "neutral_headline": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/",
+          "published_at": "Fri, 02 Oct 2026 16:05:26 +0000",
+          "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3",
+          "standfirst": "Tesla met analysts expectations as it sold fewer cars in Q3 2026 than Q3 2025.",
+          "content": "Tesla sold 486,532 electric vehicles during the third quarter of 2026. That’s a 2.1 percent decrease on the same quarter in 2025, when the company found homes for 497,099 EVs, and one might think that would be bad news for a company valued on the premise of near-constant growth. But Tesla stock is up this morning; the year-over-year numbers might look bad, but the company still exceeded analysts’ expectations of 456,600 cars, which would have been a larger 8 percent year-on-year decline Total production at Tesla actually increased year over year; it built 464,391 vehicles—a 3.7 percent increase—457,387 of which were Models 3 and Y (a 4.9 percent increase year over year). The remaining 7,004 were other models, mostly Cybertrucks, with presumably some Semis and Cybercabs, as the Models S and X are now retired; this category saw a 39.8 percent decrease year over year.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1415090444-2-1-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1415090444-2-1-1152x648.jpg",
+      "popularity_score": 142.1867486111111
+    },
+    {
+      "id": "cluster_84",
+      "coverage": 1,
+      "updated_at": "Fri, 02 Oct 2026 13:54:34 +0000",
+      "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
+      "neutral_headline": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
+          "published_at": "Fri, 02 Oct 2026 13:54:34 +0000",
+          "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
+          "standfirst": "Blue Origin seeks FAA approval for up to 50 New Glenn launches and 50 booster landings per year.",
+          "content": "Welcome to Edition 9.13 of the Rocket Report! This week, SpaceX celebrated the first orbital launch of its new Starship rocket. I'm not sure many people, at least those outside of SpaceX, expected it to take 14 flights of Starship before it technically reached low-Earth orbit, but Monday morning's launch finally added that to SpaceX's list of accomplishments with its new super-heavy rocket. Starship had gone 99 percent of the way to orbit before, only held back by safety concerns around the possibility of stranding the huge rocket in space. What was most notable for SpaceX with this Starship flight was that it unlocked a massive growth potential for Starlink, with the first 26 of the network's new-generation Starlink V3 satellites successfully deployed Monday.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon9_falconheavy-1152x648-1790915768.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon9_falconheavy-1152x648-1790915768.jpg",
+      "popularity_score": 142.0056375
+    },
+    {
+      "id": "cluster_94",
       "coverage": 1,
       "updated_at": "Fri, 02 Oct 2026 10:30:11 +0000",
       "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
@@ -403,15 +403,15 @@
           "title": "TCL is right to question Samsung’s use of the term “Mini LED”",
           "standfirst": "Can it be Mini LED without a FALD backlight?",
           "content": "What makes a display a Mini LED display? It's a question that sounds like it should have a simple answer. But it's now at the center of a lawsuit between two of the biggest names in TVs, with TCL accusing its longtime competitor Samsung of falsely advertising budget LCD-LED TVs as Mini LED sets. TCL may have a point. Samsung's M-series TVs, which range from $300 for a 43-inch model to $2,300 for a 100-inch model, do raise some legitimate questions about what should qualify as Mini LED. More broadly, though, the dispute highlights a problem for shoppers: Without agreed-upon standards for what \"Mini LED\" actually means, manufacturers have plenty of room to define the technology for themselves.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026_Mini-LED_M80H_FRONT_WALL_Image-1-1024x683-1-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026_Mini-LED_M80H_FRONT_WALL_Image-1-1024x683-1-1024x648.jpg",
-      "popularity_score": 137.74896694444445
+      "popularity_score": 133
     },
     {
-      "id": "cluster_115",
+      "id": "cluster_119",
       "coverage": 1,
       "updated_at": "Thu, 01 Oct 2026 19:19:42 +0000",
       "title": "Can good design stop content creators from having sex in robotaxis?",
@@ -424,7 +424,7 @@
           "title": "Can good design stop content creators from having sex in robotaxis?",
           "standfirst": "Autonomous vehicle designers have to worry about riders getting frisky in public.",
           "content": "Humans can be a frisky bunch, and it wasn’t very long after Tesla Autopilot started letting drivers go hands-free before people decided to post footage of themselves having sex from the driver’s seat. Recently, The San Francisco Standard interviewed multiple people who claimed to have had sex in robotaxis belonging to General Motors’ now-defunct Cruise. “There’s no one to tell you, 'You can’t do that.' It gets to the point where you’re more and more and more comfortable, and if you’re with someone, like a more serious partner, it can escalate to other activities,” one man told SF Standard. “The interiors of vehicles has been sexualized and appropriated for sex since forever in popular culture. You can see it in movies, you can see it in lyrics, you can see it in photography,” said Alexandros Rouchitsas, a human factors/UX researcher and one of the organizers of a recent workshop, “Love in Traffic,” that brought researchers from academia and industry together in late September in Sweden to consider how design can help the problem. A growing problem? One difference between a robotaxi and a human-driven ride is the removal of the social obligation to interact with a human driver. There’s no need to make small talk, and you won’t have to listen to someone’s terrible opinion, which can lead to riders assuming far more privacy than the cameras and ridership terms and conditions provide. That's a lesson that a pair of teens who hired a Waymo, spent their ride getting drunk, and shot gel beads out the windows learned the hard way this summer.Read full article Comments",
-          "feed_position": 17,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-boink-taxi-1152x648.jpg"
         }
       ],
@@ -432,28 +432,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_119",
-      "coverage": 1,
-      "updated_at": "Thu, 01 Oct 2026 17:49:56 +0000",
-      "title": "Memory executives expect RAM shortage to continue through 2028",
-      "neutral_headline": "Memory executives expect RAM shortage to continue through 2028",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
-          "published_at": "Thu, 01 Oct 2026 17:49:56 +0000",
-          "title": "Memory executives expect RAM shortage to continue through 2028",
-          "standfirst": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
-          "content": "Micron and Samsung executives this week said the memory shortage will continue for at least the next couple of years. Micron CEO Sanjay Mehrotra expects demand for the firm’s memory to exceed its available supply over that period, he told investors last night. Micron no longer sells consumer RAM, and Mehrotra’s statements refer to Micron’s business-to-business sales of high-bandwidth memory (HBM) for AI and DRAM for servers. However, his comments also have implications for consumer devices. Manufacturing capacity is prioritizing memory for AI and servers, limiting the supply of memory manufactured for consumer devices.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_108",
+      "id": "cluster_112",
       "coverage": 1,
       "updated_at": "Thu, 01 Oct 2026 22:27:04 +0000",
       "title": "Venus' mysterious haze is actually cosmic dust",
@@ -466,7 +445,7 @@
           "title": "Venus' mysterious haze is actually cosmic dust",
           "standfirst": "A physical model show that iron dust and sulfuric acid create the right properties.",
           "content": "Venus is shrouded in a veil of mystery. The yellowish “lower haze” at the bottom of its atmosphere was discovered by the Venera and Pioneer Venus probes in the 1970s. These spacecraft were some of the first to successfully send images of the planet back to Earth, but the haze they saw went unexplained for decades. Now the mystery Venus was keeping has been unveiled. What nobody knew then was that the haze is an accumulation of particles from meteorites. “Shooting stars” that burn up in the atmosphere leave behind cosmic dust particles, and after sulfuric acid interacts with these particles, it leaves behind a haze. Planetary scientist Hiroki Karyu and his research team at Tohoku University in Sendai City, Japan, finally figured out how the haze formed using a microphysical model. This type of model involves microphysics—the micro-scale processes that create clouds and precipitation on Earth and other bodies. “The continuous influx of cosmic dust is sufficient to sustain this lower haze layer with the particle size distribution observed by the entry probes,” Karyu said in a study published in Nature Astronomy. “These haze particles of cosmic origin act as efficient condensation nuclei, promoting cloud formation in the main cloud deck even far from their initial source.”Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-1152x510.jpeg"
         }
       ],
