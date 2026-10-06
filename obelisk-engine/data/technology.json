@@ -1,68 +1,155 @@
 {
-  "updated_at": "2026-10-06T09:49:09.597Z",
+  "updated_at": "2026-10-06T17:02:51.310Z",
   "clusters": [
     {
-      "id": "cluster_33",
-      "coverage": 2,
-      "updated_at": "Mon, 05 Oct 2026 19:25:02 -0400",
-      "title": "Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B to $50B valuation, up from $21B after raising $700M in August (Marina Temkin/TechCrunch)",
-      "neutral_headline": "Etched fields funding offers at $40B+ valuation, sources say",
+      "id": "cluster_68",
+      "coverage": 1,
+      "updated_at": "Tue, 06 Oct 2026 12:21:53 +0000",
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "neutral_headline": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
       "items": [
         {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/261005/p34#a261005p34",
-          "published_at": "Mon, 05 Oct 2026 19:25:02 -0400",
-          "title": "Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B to $50B valuation, up from $21B after raising $700M in August (Marina Temkin/TechCrunch)",
-          "standfirst": "Marina Temkin / TechCrunch: Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B to $50B valuation, up from $21B after raising $700M in August &mdash; Although it's only been a couple of months since Etched raised $700 million at a $21 billion valuation, the AI chip startup is already &hellip;",
-          "content": "Marina Temkin / TechCrunch: Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B to $50B valuation, up from $21B after raising $700M in August &mdash; Although it's only been a couple of months since Etched raised $700 million at a $21 billion valuation, the AI chip startup is already &hellip;",
-          "feed_position": 8,
-          "image_url": "http://www.techmeme.com/261005/i34.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-          "published_at": "Mon, 05 Oct 2026 20:24:09 +0000",
-          "title": "Etched fields funding offers at $40B+ valuation, sources say",
-          "standfirst": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
-          "content": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
-          "feed_position": 2
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+          "published_at": "Tue, 06 Oct 2026 12:21:53 +0000",
+          "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+          "standfirst": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+          "content": "The publisher of Wikipedia said Monday that OpenAI agents attempted to hack a note-taking tool it hosts, made unauthorized edits, and sent millions of resource-intensive requests to its infrastructure, in the latest instance of OpenAI systems taking harmful and potentially dangerous actions. The objective of some of the OpenAI agents’ actions, the Wikimedia Foundation said, was to use Wikipedia as a proxy for fetching data from third-party sites. In one case, the agents posted “malicious edits” that were intended to repurpose a citation tool as a proxy. In another, the agents made unsuccessful attempts to compromise the Wikipedia Etherpad note-taking tool so it would serve the same purpose. The agents also made millions of automated API requests, crawled millions of pages, and made hundreds of thousands of queries to the Wikidata Query Service. The last action may have contributed to a partial shutdown of the query service in May, the publisher said.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/261005/i34.jpg",
-      "popularity_score": 2009.59789
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg",
+      "popularity_score": 358.3171361111111
     },
     {
-      "id": "cluster_48",
-      "coverage": 2,
-      "updated_at": "Mon, 05 Oct 2026 16:05:01 -0400",
-      "title": "TikTok debuts Shopping Assistant, a conversational AI agent that helps users find and buy products, and Buy Direct for one-click purchases from the For You feed (Aisha Malik/TechCrunch)",
-      "neutral_headline": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "id": "cluster_49",
+      "coverage": 1,
+      "updated_at": "Tue, 06 Oct 2026 13:29:46 +0000",
+      "title": "Big Oil asks Supreme Court to kill climate lawsuits before trial",
+      "neutral_headline": "Big Oil asks Supreme Court to kill climate lawsuits before trial",
       "items": [
         {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/261005/p31#a261005p31",
-          "published_at": "Mon, 05 Oct 2026 16:05:01 -0400",
-          "title": "TikTok debuts Shopping Assistant, a conversational AI agent that helps users find and buy products, and Buy Direct for one-click purchases from the For You feed (Aisha Malik/TechCrunch)",
-          "standfirst": "Aisha Malik / TechCrunch: TikTok debuts Shopping Assistant, a conversational AI agent that helps users find and buy products, and Buy Direct for one-click purchases from the For You feed &mdash; TikTok announced Monday that it's launching an AI shopping assistant and a new in-app checkout feature that lets users buy directly from brands.",
-          "content": "Aisha Malik / TechCrunch: TikTok debuts Shopping Assistant, a conversational AI agent that helps users find and buy products, and Buy Direct for one-click purchases from the For You feed &mdash; TikTok announced Monday that it's launching an AI shopping assistant and a new in-app checkout feature that lets users buy directly from brands.",
-          "feed_position": 11,
-          "image_url": "http://www.techmeme.com/261005/i31.jpg"
-        },
-        {
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-          "published_at": "Mon, 05 Oct 2026 18:29:00 +0000",
-          "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-          "standfirst": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-          "content": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-          "feed_position": 6
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/",
+          "published_at": "Tue, 06 Oct 2026 13:29:46 +0000",
+          "title": "Big Oil asks Supreme Court to kill climate lawsuits before trial",
+          "standfirst": "Oil companies say federal law should block state climate deception claims.",
+          "content": "The US Supreme Court heard arguments from oil companies on Monday that could help decide the fate of more than two dozen lawsuits accusing the industry of deceiving the public about climate change. The claims seek potentially billions of dollars in damages to help pay the costs imposed by climate-related extreme weather. Yet the questions before the court did not focus on the merits of these claims but instead on technical legal matters over whether they should proceed at all. The case being argued was brought in 2018 by the city and county of Boulder against ExxonMobil and Suncor Energy in Colorado state court. While the case and dozens like it have survived multiple appeals in state and federal courts, the oil companies are asking the Supreme Court to declare that federal law preempts state and local governments from bringing such claims.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/oilprotest-1152x648.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/261005/i31.jpg",
-      "popularity_score": 2006.2642788888888
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/oilprotest-1152x648.jpg",
+      "popularity_score": 357.448525
     },
     {
-      "id": "cluster_37",
+      "id": "cluster_12",
+      "coverage": 1,
+      "updated_at": "Tue, 06 Oct 2026 16:15:50 +0000",
+      "title": "Googlebook \"Better Together\" phone features don&#039;t work with Samsung at launch",
+      "neutral_headline": "Googlebook \"Better Together\" phone features don&#039;t work with Samsung at launch",
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/",
+          "published_at": "Tue, 06 Oct 2026 16:15:50 +0000",
+          "title": "Googlebook \"Better Together\" phone features don&#039;t work with Samsung at launch",
+          "standfirst": "Googlebooks require Android 17, but Samsung's Android 17 phones won't work yet.",
+          "content": "Googlebooks are Google's latest attempt to carve out a piece of the premium laptop market, and tight integration with Android phones is a key part of that effort. Now that Googlebooks are available, we're learning of some frustrating limitations of that plan. For now, Googlebooks will only play nicely with your phone if you have a Pixel. When Google announced the launch window for Googlebooks, it said the laptops were \"engineered to work with your Android phone right out of the box.\" But as with many things Google, the truth is more convoluted. We have since learned that you need Android 17 for any of the nifty integrations to work. With a compatible Android 17 phone, you can seamlessly stream apps to your laptop, access files on your phone, mirror notifications, and continue where you left off in certain apps when switching from phone to laptop. You might think that the latest Samsung phones, which shipped with Android 17, would be ready for this experience. You'd be wrong, though. Some early Googlebook adopters have complained that phones like the Z Fold 8 won't work with the laptops. While the devices appear to see each other, the phone doesn't stay connected. Google representatives have since confirmed that these \"Better Together\" features are not currently supported on even the latest Samsung phones. An update that brings support to Samsung phones will roll out in \"the coming weeks.\"Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Continue-On-Image-1-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Continue-On-Image-1-1152x648.jpg",
+      "popularity_score": 354.2163027777778
+    },
+    {
+      "id": "cluster_0",
+      "coverage": 1,
+      "updated_at": "Tue, 06 Oct 2026 16:53:17 +0000",
+      "title": "Neutrino physicist wins 2026 Nobel Physics Prize",
+      "neutral_headline": "Neutrino physicist wins 2026 Nobel Physics Prize",
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/",
+          "published_at": "Tue, 06 Oct 2026 16:53:17 +0000",
+          "title": "Neutrino physicist wins 2026 Nobel Physics Prize",
+          "standfirst": "Francis Halzen of University of Wisconsin-Madison led development of IceCube Neutrino Observatory.",
+          "content": "Francis Halzen, a physicist at the University of Wisconsin, Madison, has won the 2026 Nobel Prize in Physics \"for decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of astrophysical origin.” Halzen spearheaded the development and construction of the IceCube Neutrino Observatory in Antarctica, enabling physicists to capture high-energy neutrinos created in the distant universe. “It was a great surprise, and I obviously didn’t expect it,” Halzen said during a news conference in Stockholm, Sweden, speaking by phone from Italy. And while the Nobel was awarded to Halzen alone, he emphasized that his work was the result of a “large collaboration” with other researchers. “This reflects on the really courageous people who joined me in this project when really no respectable conservative physicist would have joined me. But many talented people did, and that’s why I’m here,” he said.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/icecube1-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/icecube1-1152x648.jpg",
+      "popularity_score": 349.84046944444447
+    },
+    {
+      "id": "cluster_16",
+      "coverage": 1,
+      "updated_at": "Tue, 06 Oct 2026 16:00:02 +0000",
+      "title": "Why is NASA bringing 7,500 contractors back to work as civil servants?",
+      "neutral_headline": "Why is NASA bringing 7,500 contractors back to work as civil servants",
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/space/2026/10/why-is-nasa-bringing-7500-contractors-back-to-work-as-civil-servants/",
+          "published_at": "Tue, 06 Oct 2026 16:00:02 +0000",
+          "title": "Why is NASA bringing 7,500 contractors back to work as civil servants?",
+          "standfirst": "\"The administrator's directive is a coherent and necessary vision for the future.\"",
+          "content": "As a flight director during NASA's Apollo missions, Gerry Griffin led several lunar landings. He helped bring the crew of Apollo 13 safely back to Earth. Later, he directed Johnson Space Center in Houston. Through these experiences, Griffin learned the value of teamwork in spaceflight—during the dynamic moments that can make or break a successful launch or landing, you absolutely have to trust your colleagues in the trenches. \"When lightning struck the rocket during Apollo 12, we had to react in a hurry,\" Griffin said in an interview. \"With people like John Aaron and Jerry Carr, the trust and communications came through. It made the difference.\"Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/NASA-AMes-1152x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/NASA-AMes-1152x648.jpeg",
+      "popularity_score": 331.9529694444444
+    },
+    {
+      "id": "cluster_71",
+      "coverage": 1,
+      "updated_at": "Tue, 06 Oct 2026 12:00:31 +0000",
+      "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+      "neutral_headline": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
+          "published_at": "Tue, 06 Oct 2026 12:00:31 +0000",
+          "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+          "standfirst": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
+          "content": "VMware customers face multiple obstacles as they rethink their virtualization strategy to reduce dependence on VMware. Today, Rimini Street published its “2026 IT Virtualization Survey – What’s Next for VMware Users.” The survey examined 300 organizations worldwide that use VMware. Notably, Rimini sells third-party support for VMware and other software, including Oracle and SAP. That means there’s an incentive for Rimini to portray VMware users as experiencing obstacles. However, the survey was also conducted by a third-party research company, Unisphere Research, and the results align with other recent reports about VMware customers.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
+      "popularity_score": 327.961025
+    },
+    {
+      "id": "cluster_24",
+      "coverage": 1,
+      "updated_at": "Tue, 06 Oct 2026 15:23:28 +0000",
+      "title": "All-electric camping gets a solar upgrade: The 2027 Pebble Flow",
+      "neutral_headline": "All-electric camping gets a solar upgrade: The 2027 Pebble Flow",
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/cars/2026/10/this-self-parking-electric-travel-trailer-gets-a-solar-upgrade-for-2027/",
+          "published_at": "Tue, 06 Oct 2026 15:23:28 +0000",
+          "title": "All-electric camping gets a solar upgrade: The 2027 Pebble Flow",
+          "standfirst": "The Pebble Flow has a 45 kWh LFP battery and can even charge an EV.",
+          "content": "There is, I think, a pent-up demand for bringing electrification to camping. Anyone who’s had their sleep disturbed by the sound of someone else’s generator running at night would probably agree. Certainly, any time we cover an electric van, comments are filled with people wondering if and when a camper conversion might appear. Kia showed off such a concept a couple of years ago, as did Winnebago, and Volkswagen is adding a camper trim to its electric ID. Buzz. And then there’s the world of trailers. Colorado Teardrop sadly didn’t make it, and some other electrified trailers remain in development. But for a couple of years, you’ve been able to buy the Pebble Flow. And for 2027, it’s getting an update. Introduced in 2025, the streamlined Flow is built atop a 45 kWh LFP battery pack that, for 2027, can be recharged by up to 4 kW of solar panels, which Flow says should be sufficient to generate more electricity than you’ll use in an average day of camping. Earlier Flows could be specced with an optional 1.1 kWh panel on the roof; the new kit adds another 2 kWh via four portable panels.Read full article Comments",
+          "feed_position": 3,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Pebble-Flow-01-a-l1022800-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Pebble-Flow-01-a-l1022800-1152x648.jpg",
+      "popularity_score": 327.343525
+    },
+    {
+      "id": "cluster_114",
       "coverage": 1,
       "updated_at": "Mon, 05 Oct 2026 22:26:35 +0000",
       "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
@@ -75,15 +162,15 @@
           "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
           "standfirst": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
           "content": "The adoption of AI agents in millions of organizations is creating new opportunities for attackers to make them take malicious actions, such as exfiltrating database contents and sensitive business and personal information. In the past five months, Google and four other organizations—with little in common except for their use of AI agents—have acknowledged vulnerabilities that exploit one agent inside a targeted network to spread harmful instructions to other internal agents. The technique is a special form of prompt injection that targets not the LLM but a particular agent, such as one for translation or data analysis. Guardrails inside such agents, if they exist at all, are often lax and will send the instructions to other agents down the chain. Because the latter agent explicitly trusts the first one, it follows the directions. Unexpected and hard to mitigate Independent researcher Syed Anas Mohiuddin tested agents from organizations including Google, JP Morgan Chase, Weviate, Rapid7, the French government's interministerial digital directorate, and the US federal government. His proof-of-concept attacks exploit trust gaps in MCP, short for Model Context Protocol. The standard is one way AI apps and agents communicate with each other inside an internal network. The illustration below shows a simplified MCP in action.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
-      "popularity_score": 347.62372305555556
+      "popularity_score": 310.3954694444444
     },
     {
-      "id": "cluster_43",
+      "id": "cluster_116",
       "coverage": 1,
       "updated_at": "Mon, 05 Oct 2026 20:47:48 +0000",
       "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
@@ -96,15 +183,15 @@
           "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
           "standfirst": "Cable industry to sue, says FCC can't repeal TV ownership limit set by Congress.",
           "content": "Cable lobby groups notified the Federal Communications Commission that they will sue the agency to block its controversial repeal of the National Television Ownership Rule, which limits the number of broadcast TV stations a single company may own. The cable groups said that larger broadcast TV station groups will have leverage to demand higher retransmission fees from TV providers, resulting in \"higher monthly TV bills for consumers.\" They said the FCC repeal order \"arbitrarily and capriciously ignores the harms that will surely follow from allowing broadcast station groups to exceed the National Cap.\" The cable lobby groups represent top providers Comcast, Charter, and various other cable operators. Top cable companies have also expanded through mergers. Charter completed a purchase of Cox in August after the FCC rejected protests by advocacy groups that said the cable deal \"would create unchecked gatekeeper power over Internet distribution\" and make it easier for the biggest cable companies to raise prices.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/brendan-carr-fcc-crest-1152x648-1771622570.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/brendan-carr-fcc-crest-1152x648-1771622570.jpg",
-      "popularity_score": 329.97733416666665
+      "popularity_score": 293
     },
     {
-      "id": "cluster_56",
+      "id": "cluster_121",
       "coverage": 1,
       "updated_at": "Mon, 05 Oct 2026 19:14:44 +0000",
       "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
@@ -117,15 +204,15 @@
           "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
           "standfirst": "The tool can free up over 12GB of storage.",
           "content": "A new tool is allowing Mac users the ability again to easily turn off Apple Intelligence with one click and free up to 12GB of storage. Unlike with previous versions of macOS, macOS 27 Golden Gate doesn’t have a toggle for turning off Apple Intelligence. That makes disabling AI features that you may not want more difficult. It also means that the AI models necessary for running Apple Intelligence will take up space on your disk, even if you don’t use them or if you go through your settings to individually find and disable AI capabilities. In response, a developer known as Om Lahore on GitHub last week created RemoveMacAI, a command-line tool that allows macOS 27 users to “turn off Apple Intelligence on macOS 27\" in a way that is “fully reversible,” per the GitHub page. They said that Apple's Intelligence models take up \"about 12GB,\" but the models can actually take up over 30GB, The Verge noted.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-10.30.27-AM-1152x648.jpeg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-10.30.27-AM-1152x648.jpeg",
-      "popularity_score": 320.42622305555557
+      "popularity_score": 285
     },
     {
-      "id": "cluster_46",
+      "id": "cluster_118",
       "coverage": 1,
       "updated_at": "Mon, 05 Oct 2026 20:31:12 +0000",
       "title": "Texas city demands $2M for public records on Flock usage",
@@ -138,15 +225,15 @@
           "title": "Texas city demands $2M for public records on Flock usage",
           "standfirst": "Prices of public records tracking cops' use of Flock go up as backlash swells.",
           "content": "As bipartisan backlash against Flock grows, some cities are asking anti-surveillance advocates and media outlets to pay eye-popping fees—including charging tens of thousands or even millions—to get information about how police departments are using and potentially abusing AI-enabled camera systems that track every vehicle that passes them. On Monday, the Texas Tribune reported that city officials in a Fort Worth suburb, North Richland Hills, asked one group to pay $2.3 million before it would fulfill a public records request for Flock data. To reach that high fee, officials claimed that searching “about a terabyte worth of communications about errors, misuse, and effectiveness of the Flock system” would take approximately 14 years of labor at a rate of $15 per hour. Phil Mynona, who filed the request using a pseudonym on behalf of his group, the Texas Privacy Coalition, told the Tribune that the fee seemed “ludicrous” and designed to stifle his public records searches.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2288945998-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2288945998-1024x648.jpg",
-      "popularity_score": 319.7006675
+      "popularity_score": 283
     },
     {
-      "id": "cluster_69",
+      "id": "cluster_123",
       "coverage": 1,
       "updated_at": "Mon, 05 Oct 2026 17:59:27 +0000",
       "title": "Controlling the brain with light earns a physiology Nobel",
@@ -159,15 +246,15 @@
           "title": "Controlling the brain with light earns a physiology Nobel",
           "standfirst": "The entire field of optogenetics traces back to light-seeking algae.",
           "content": "Over decades of research, scientists have built up a partial picture of what specialized cells within the brain and spinal cord do. By studying how the brain develops, they could identify genes that were active in different populations of neurons and where in the brain those neurons resided. In some cases, these genes could then be used to genetically delete the neurons, allowing us to get some indication of what they might be doing, building on the information we've obtained from studies of brains with damaged regions. But this approach has its limits. The brain is flexible enough to potentially adapt to the loss of some cells, and their loss early in development may alter the development of any neurons they would have normally formed connections with. It would be far more informative to activate and shut down the neurons in an otherwise intact brain. Today's Nobel Prize in Physiology or Medicine rewards three people—Karl Deisseroth, Peter Hegemann and Georg Nagel—who developed our ability to do precisely that. Starting from studies of single-celled algae that are attracted to light, these and many other researchers built an entire field of study that we now call optogenetics: using light to alter the behavior of nerve cells marked by the activity of individual genes.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2212760356-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2212760356-1152x648.jpg",
-      "popularity_score": 312.1715008333333
+      "popularity_score": 278
     },
     {
-      "id": "cluster_73",
+      "id": "cluster_124",
       "coverage": 1,
       "updated_at": "Mon, 05 Oct 2026 17:21:11 +0000",
       "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
@@ -180,15 +267,15 @@
           "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
           "standfirst": "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy.",
           "content": "A surge in Russian jet-powered drone strikes on Ukrainian data centers has increasingly disrupted mobile phone and Internet services for thousands of people. Now Ukraine President Volodymyr Zelenskyy and other government officials are warning of the need for more air defense capabilities, as such telecommunication outages could threaten Ukraine’s digital economy and undermine the country’s ongoing resistance to Russia’s invasion. The Russian attacks on Ukrainian telecommunication infrastructure have focused on Ukraine’s capital of Kyiv since September 23, according to the nonprofit Reporters Without Borders. Ukraine’s digital transformation ministry reported that 100,000 households in the Kyiv region were temporarily experiencing Internet outages from those initial strikes—and Russia has only intensified its strike campaign against major Ukrainian data centers and mobile phone networks in recent weeks. “Russian attacks on Ukraine’s telecommunication infrastructure are not new, with strikes and shelling previously damaging fiber optic lines, cell towers, and facilities belonging to mobile network companies,” said Tetiana Gaviuk, analyst for Europe at ACLED, in a post on October 1. “However, the recent concentrated attacks on Kyiv’s data centers and telecom networks stand out because multiple providers and facilities were hit within days, indicating Russia’s increased pressure on Ukraine’s digital infrastructure.”Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Ukraine-data-center-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Ukraine-data-center-1152x648.jpg",
-      "popularity_score": 301.5337230555556
+      "popularity_score": 268
     },
     {
-      "id": "cluster_79",
+      "id": "cluster_126",
       "coverage": 1,
       "updated_at": "Mon, 05 Oct 2026 16:09:07 +0000",
       "title": "F1 in Bahrain... in Malaysia: The race needed a software update to start",
@@ -201,78 +288,15 @@
           "title": "F1 in Bahrain... in Malaysia: The race needed a software update to start",
           "standfirst": "A software bug waylaid half the field and required a race reboot.",
           "content": "Well, it’s safe to say no Bahrain Grand Prix has been affected by torrential rain quite like the 2026 race. For one thing, it was held several thousand miles from Bahrain itself. The ongoing war with Iran ruled such things out, so the Sepang International Circuit in Malaysia stepped in to fill its spot. One of the best examples of a late-'90s “Tilke track”—named for its designer, Herman Tilke—it’s characterized by a couple of long straights and the always-brutal tropical weather that provides one of the toughest physical challenges on the calendar. And this weekend was no exception. Heavy rain arrived about half an hour before the start time, delaying things significantly. Although the sport has two different kinds of treaded tires for use in the rain, the full wet tire generates so much spray, and such slow lap times, that it's essentially only useful for circulating behind the safety car. If it’s wet enough to need it, it will be too wet to see where you’re going. The intermediate tire, by contrast, has much shallower grooves and is good for racing on damp but not soaked tracks, although it quickly overheats and degrades as the track dries.Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298078711-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298078711-1152x648.jpg",
-      "popularity_score": 290.33261194444447
-    },
-    {
-      "id": "cluster_84",
-      "coverage": 1,
-      "updated_at": "Mon, 05 Oct 2026 15:12:17 +0000",
-      "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
-      "neutral_headline": "Mass quarantine issued in Russia after unexplained death of plague researcher",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
-          "published_at": "Mon, 05 Oct 2026 15:12:17 +0000",
-          "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
-          "standfirst": "Unconfirmed reports have suggested there was a laboratory accident.",
-          "content": "Roughly 200 people are under medical observation, several hospitals are under quarantine, and dozens are in isolation in Russia following the unexplained death of an infectious disease researcher at the Irkutsk Anti-Plague Research Institute of Siberia, in the town of Shelekhov, according to early reports of the situation on Sunday and Monday. Researcher Darya Shipilova reportedly died last week from pneumonia of \"unknown\" cause, according to Rospotrebnadzor, a Russian public health agency. Unconfirmed information regarding her death has swirled. Some reports have claimed she accidentally broke a test tube containing the plague pathogen, Yersinia pestis, on September 25. She subsequently fell ill, was admitted to a hospital September 29 with severe pneumonia and died overnight between October 1 and October 2. The head of the Russian region that neighbors Irkutsk, Alexey Tsydenov, initially reported that she had died of plague but later altered his statement to say she \"possibly\" died of the disease.Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2199370602-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2199370602-1152x648.jpg",
-      "popularity_score": 279.3853897222222
-    },
-    {
-      "id": "cluster_94",
-      "coverage": 1,
-      "updated_at": "Mon, 05 Oct 2026 13:39:30 +0000",
-      "title": "AI glasses face their first major government crackdown",
-      "neutral_headline": "AI glasses face their first major government crackdown",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-          "published_at": "Mon, 05 Oct 2026 13:39:30 +0000",
-          "title": "AI glasses face their first major government crackdown",
-          "standfirst": "Norway wants time to write permanent rules for glasses that can record bystanders.",
-          "content": "Norway has become the first major country to propose a temporary ban on the use of AI glasses in selected public places amid growing privacy concerns over wearable technology. The rich Scandinavian country’s center-left government said on Monday that it would introduce a law to parliament soon on a temporary ban for places such as parks, beaches, schools, and kindergartens. It will also set up an expert group to propose permanent national rules. “I am concerned about the introduction of powerful new technology where people risk being photographed, filmed, or recorded without their knowledge,” said Torgeir Micaelsen, Norway’s digitalization minister. A temporary ban “will give us time to conduct a thorough assessment and hold an informed debate that can lay the foundation for permanent regulation,” he said.Read full article Comments",
-          "feed_position": 8,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
-      "popularity_score": 268
-    },
-    {
-      "id": "cluster_98",
-      "coverage": 1,
-      "updated_at": "Mon, 05 Oct 2026 11:00:41 +0000",
-      "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
-      "neutral_headline": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
-          "published_at": "Mon, 05 Oct 2026 11:00:41 +0000",
-          "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
-          "standfirst": "Ars Technica's guide to new keyboard sensing technologies.",
-          "content": "The mechanical keyboard isn't always so mechanical anymore. Over the past six years, keyboards with optical, Hall-effect, and other \"contactless\" switches have become increasingly common, often going for higher prices than traditional mechanical keyboards, which already command a premium over basic membrane boards. In return, they promise some theoretical advantages, particularly for gamers. In daily use, though, the differences can be pretty subtle. So what exactly are you paying for? In this guide, we break down how the newest switches work, why contactless designs are becoming more popular, and where their advantages—and disadvantages—really matter.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Varmilo-EC-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Varmilo-EC-1152x648.jpg",
       "popularity_score": 258
     },
     {
-      "id": "cluster_106",
+      "id": "cluster_138",
       "coverage": 1,
       "updated_at": "Mon, 05 Oct 2026 04:00:52 +0000",
       "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
@@ -285,7 +309,7 @@
           "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
           "standfirst": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls.",
           "content": "Egyptologists have long debated whether the earliest pharaohs of the First Dynasty were buried with various servants and officials to serve them in the afterlife—a form of human sacrifice. But there is very little archaeological evidence available, given that many of the earliest Egyptian tombs were plundered and/or hastily excavated. A new paper published in the journal Frontiers in Environmental Archaeology reassesses a collection of skulls excavated from tombs in the 1920s and concludes that over one-third show evidence of blunt force trauma. This suggests that they may have been victims of so-called \"retainer sacrifice.\" Author Roselyn Campbell is a bioarchaeologist at Purdue University who has long been fascinated with the history of human sacrifice. \"I'm interested in how we as human beings decide which types of violence are okay and which are not, and how we even define violence,\" Campbell told Ars. \"It's very context-specific. We have to be careful not to extend our own ideas about what violence is and how it's used into other cultures. With Egypt, we have such a long history of European and colonial archeology; they came in with very specific ideas about what this culture was. You really have to make an effort to contextualize the legacy data we have.\" Naturally she found the debate over whether ancient Egyptians practiced retainer sacrifice pertinent to her interests. \"People tend to fall into one of two camps,\" said Campbell. \"Either retainer sacrifice definitely happened, end of discussion, or it definitely didn't happen, end of discussion. But nobody's actually looked at the bones in a very long time.\" Forensic science has advanced considerably over the last century, so re-analysis could be useful. Complicating matters is the fact that older sets of remains are often incomplete and/or modified for preservation, destroying vital forensic information in the process.Read full article Comments",
-          "feed_position": 10,
+          "feed_position": 13,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/egypt1-1152x648-1791134921.jpg"
         }
       ],
@@ -293,46 +317,67 @@
       "popularity_score": 154
     },
     {
-      "id": "cluster_112",
+      "id": "cluster_127",
       "coverage": 1,
-      "updated_at": "Sun, 04 Oct 2026 11:05:53 +0000",
-      "title": "All hail electrification. But let’s talk about the hard part.",
-      "neutral_headline": "All hail electrification. But let’s talk about the hard part.",
+      "updated_at": "Mon, 05 Oct 2026 15:12:17 +0000",
+      "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
+      "neutral_headline": "Mass quarantine issued in Russia after unexplained death of plague researcher",
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
-          "published_at": "Sun, 04 Oct 2026 11:05:53 +0000",
-          "title": "All hail electrification. But let’s talk about the hard part.",
-          "standfirst": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
-          "content": "If one form of energy becomes the cheapest, most secure, and cleanest, you’d probably adjust your economy to use more of it, right? That’s one of the ideas underpinning a report the International Energy Agency issued last week about the global move toward electrification. Fatih Birol, head of the IEA, discussed some of the concepts from the report the following day at the United Nations. “Many, many years in the energy world, we had three choices in front of us. Shall I choose the most secure energy option? Shall I choose the most economic energy option? Or shall I choose the cleanest energy option?” he asked. “We have to make choices, we have to make trade-offs but when we look at the world today, for the first time in years, all of these three objectives are getting aligned.”Read full article Comments",
-          "feed_position": 12,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1463437040-1152x648.jpg"
+          "url": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
+          "published_at": "Mon, 05 Oct 2026 15:12:17 +0000",
+          "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
+          "standfirst": "Unconfirmed reports have suggested there was a laboratory accident.",
+          "content": "Roughly 200 people are under medical observation, several hospitals are under quarantine, and dozens are in isolation in Russia following the unexplained death of an infectious disease researcher at the Irkutsk Anti-Plague Research Institute of Siberia, in the town of Shelekhov, according to early reports of the situation on Sunday and Monday. Researcher Darya Shipilova reportedly died last week from pneumonia of \"unknown\" cause, according to Rospotrebnadzor, a Russian public health agency. Unconfirmed information regarding her death has swirled. Some reports have claimed she accidentally broke a test tube containing the plague pathogen, Yersinia pestis, on September 25. She subsequently fell ill, was admitted to a hospital September 29 with severe pneumonia and died overnight between October 1 and October 2. The head of the Russian region that neighbors Irkutsk, Alexey Tsydenov, initially reported that she had died of plague but later altered his statement to say she \"possibly\" died of the disease.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2199370602-1152x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1463437040-1152x648.jpg",
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2199370602-1152x648.jpg",
       "popularity_score": 148
     },
     {
-      "id": "cluster_109",
+      "id": "cluster_128",
       "coverage": 1,
-      "updated_at": "Sun, 04 Oct 2026 15:34:14 +0000",
-      "title": "Lions and cheetahs and chimps, oh my: A spotlight on Africa's diverse wildlife",
-      "neutral_headline": "Lions and cheetahs and chimps, oh my: A spotlight on Africa's diverse wildlife",
+      "updated_at": "Mon, 05 Oct 2026 13:39:30 +0000",
+      "title": "AI glasses face their first major government crackdown",
+      "neutral_headline": "AI glasses face their first major government crackdown",
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
-          "published_at": "Sun, 04 Oct 2026 15:34:14 +0000",
-          "title": "Lions and cheetahs and chimps, oh my: A spotlight on Africa's diverse wildlife",
-          "standfirst": "Wunmi Mosaku (Sinners, Loki) narrates NatGeo's new documentary Africa: Earth's Wild Home.",
-          "content": "Chimps fish for algae in a rare example of primate tool use. Credit: National Geographic A wild African black panther prowls for prey. An orphaned baby pangolin must learn how to climb on its own. And a green turtle struggles to make it back to the water after laying her eggs on a remote island, rescued by local humans who carry the exhausted turtle to the water's edge. These animals and many other species are featured in Africa: Earth's Wild Home, a new documentary series from National Geographic. It's meant to launch a new franchise, with separate series documenting the wildlife and environmental ecosystems of all seven continents in turn. The seven-episode documentary series took four years to complete, with filming taking place across nearly 30 different African countries. Each episode focuses on a specific ecosystem, from the jungle and the desert, to the plains, mountains, and islands of Africa, and closes by spotlighting the various scientists, photographers, and NatGeo explorers whose work made the series possible. The final episode focuses on the local conservation leaders and researchers working to preserve Africa's rich biodiversity for future generations. The producers found the perfect narrator in Wunmi Mosaku, who has delivered powerful performances in such works as Sinners, Loki, and Lovecraft Country. \"I was incredibly honored that they even know my name at Nat Geo,\" Mosaku told Ars. \"It was wonderful to be asked to narrate the series. It means so much to me. As someone who was born in Nigeria and raised in England, I'll take any opportunity I can to reconnect and celebrate this incredible continent where life is so diverse and so extreme and beautiful and relentless and peaceful. I wanted to be a part of that because it's a part of me.\"Read full article Comments",
+          "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+          "published_at": "Mon, 05 Oct 2026 13:39:30 +0000",
+          "title": "AI glasses face their first major government crackdown",
+          "standfirst": "Norway wants time to write permanent rules for glasses that can record bystanders.",
+          "content": "Norway has become the first major country to propose a temporary ban on the use of AI glasses in selected public places amid growing privacy concerns over wearable technology. The rich Scandinavian country’s center-left government said on Monday that it would introduce a law to parliament soon on a temporary ban for places such as parks, beaches, schools, and kindergartens. It will also set up an expert group to propose permanent national rules. “I am concerned about the introduction of powerful new technology where people risk being photographed, filmed, or recorded without their knowledge,” said Torgeir Micaelsen, Norway’s digitalization minister. A temporary ban “will give us time to conduct a thorough assessment and hold an informed debate that can lay the foundation for permanent regulation,” he said.Read full article Comments",
           "feed_position": 11,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/africa3-1152x648.jpg"
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/africa3-1152x648.jpg",
-      "popularity_score": 133
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
+      "popularity_score": 148
+    },
+    {
+      "id": "cluster_131",
+      "coverage": 1,
+      "updated_at": "Mon, 05 Oct 2026 11:00:41 +0000",
+      "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
+      "neutral_headline": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
+          "published_at": "Mon, 05 Oct 2026 11:00:41 +0000",
+          "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
+          "standfirst": "Ars Technica's guide to new keyboard sensing technologies.",
+          "content": "The mechanical keyboard isn't always so mechanical anymore. Over the past six years, keyboards with optical, Hall-effect, and other \"contactless\" switches have become increasingly common, often going for higher prices than traditional mechanical keyboards, which already command a premium over basic membrane boards. In return, they promise some theoretical advantages, particularly for gamers. In daily use, though, the differences can be pretty subtle. So what exactly are you paying for? In this guide, we break down how the newest switches work, why contactless designs are becoming more popular, and where their advantages—and disadvantages—really matter.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Varmilo-EC-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Varmilo-EC-1152x648.jpg",
+      "popularity_score": 148
     }
   ]
 }
