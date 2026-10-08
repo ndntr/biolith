@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-07T23:27:23.832Z",
+  "updated_at": "2026-10-08T10:06:16.546Z",
   "clusters": [
     {
-      "id": "cluster_82",
+      "id": "cluster_100",
       "coverage": 2,
       "updated_at": "Wed, 07 Oct 2026 14:36:23 +0000",
       "title": "Google experiments with an AI-powered gaming platform",
@@ -15,7 +15,7 @@
           "title": "Google experiments with an AI-powered gaming platform",
           "standfirst": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
           "content": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
-          "feed_position": 14
+          "feed_position": 16
         },
         {
           "source": "Engadget",
@@ -24,15 +24,15 @@
           "title": "Google's experimental Playground platform uses AI to create games for you",
           "standfirst": "Google launches an AI-powered game creation platform called Playground.",
           "content": "Google launches an AI-powered game creation platform called Playground.",
-          "feed_position": 16,
+          "feed_position": 18,
           "image_url": "https://www.engadget.com/img/gallery/googles-experimental-playground-platform-uses-ai-to-create-games-for-you/l-intro-1791372099.jpg"
         }
       ],
       "featured_image": "https://www.engadget.com/img/gallery/googles-experimental-playground-platform-uses-ai-to-create-games-for-you/l-intro-1791372099.jpg",
-      "popularity_score": 2011.149768888889
+      "popularity_score": 2000.5017927777778
     },
     {
-      "id": "cluster_89",
+      "id": "cluster_107",
       "coverage": 2,
       "updated_at": "Wed, 07 Oct 2026 14:00:08 +0000",
       "title": "Google rolls out improved SynthID AI content detector, now available globally",
@@ -45,7 +45,7 @@
           "title": "Google rolls out improved SynthID AI content detector, now available globally",
           "standfirst": "The new SynthID website can now identify AI content from Google, OpenAI, and more.",
           "content": "Every piece of AI content from Google's Gemini models has a hidden SynthID label, which makes it very difficult to pass the content off as authentic. SynthID has also gotten buy-in from other major AI players, but actually checking for those invisible watermarks has been a convoluted process. It's going to be a little easier going forward, though. Google has announced that its SynthID detector now supports watermarks from all its partners, and it's available for anyone to use on a new dedicated website. SynthID is an invisible signal encoded in the pixels of AI-generated images and videos, and in the waveform of AI audio. Google says Gemini alone has integrated SynthID with over 180 billion images and videos, plus 240,000 years of audio. Until now, the only way for those outside of Google's trusted tester program to check for SynthID was to ask Gemini. This is rather clunky, and the model's output could sometimes be confusing when you just wanted a simple \"yes\" or \"no.\" Now you can cut Gemini out of the loop. Starting today, you can go to the new SynthID.com website to check a piece of content for an AI watermark. A major limitation of Google's previous detector was that it only checked for Google's version of SynthID. Even though ChatGPT images, for example, have SynthID, they wouldn't be flagged in Google's detector. That's no longer a problem.Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 10,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/synthid-fingerprint-1152x648.jpg"
         },
         {
@@ -55,36 +55,57 @@
           "title": "Google's AI detection website is now available",
           "standfirst": "SynthID Detector will flag content created with AI tools from OpenAI, Google, Apple and other companies.",
           "content": "SynthID Detector will flag content created with AI tools from OpenAI, Google, Apple and other companies.",
-          "feed_position": 12,
+          "feed_position": 14,
           "image_url": "https://www.engadget.com/img/gallery/googles-ai-detection-website-is-now-available/l-intro-1791328862.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/synthid-fingerprint-1152x648.jpg",
-      "popularity_score": 2010.5456022222222
+      "popularity_score": 2000
     },
     {
-      "id": "cluster_8",
+      "id": "cluster_30",
+      "coverage": 1,
+      "updated_at": "Thu, 08 Oct 2026 00:00:24 +0000",
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "neutral_headline": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+          "published_at": "Thu, 08 Oct 2026 00:00:24 +0000",
+          "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+          "standfirst": "Get ready for more AI in your Windows and more AI on the desktop.",
+          "content": "In its first live event in two years, Microsoft today announced its newest Surface laptop, outlined a host of changes coming to Windows 11, and shared a vision of how local-AI and agentic workflows could reshape personal computing for those in the dev community as well as home enthusiasts. Surface Laptop Ultra Originally teased in May 2026, the new Surface Laptop Ultra will be Microsoft's first offering to take advantage of the new Nvidia RTX Spark SoC (system on a chip). The device has a starting price of $2,599, and comes in various SoC and memory configurations, with either a 5120-core or 6144-core Blackwell GPU and up to 128GB of LPDDR5x unified memory. It will begin shipping on October 16 and is available for pre-order now. While the new Ultra is clearly focused on the developer crowd, graphical performance was highlighted during the presentation to show off just how capable the laptop can be. By leaning on unified memory allocation rather than the physical VRAM limits of a traditional GPU, the laptop can assign its resources to handle modern gaming tasks as well as local AI development and deployment. The new Gears of War: E-Day was shown running on the system, meaning that even without a traditional gaming GPU, AAA titles are on the table.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Surface-Laptop-Ultra-Opened-1152x648.png"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Surface-Laptop-Ultra-Opened-1152x648.png",
+      "popularity_score": 375.90207055555555
+    },
+    {
+      "id": "cluster_38",
       "coverage": 1,
       "updated_at": "Wed, 07 Oct 2026 21:56:42 +0000",
       "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
       "neutral_headline": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
       "items": [
         {
-          "source": "Ars Technica Main",
+          "source": "Ars Technica",
           "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
           "published_at": "Wed, 07 Oct 2026 21:56:42 +0000",
           "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
           "standfirst": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
           "content": "For a while, those hoping to avoid the difficulty and expense of dealing with Adobe's Creative Suite have been able to use several free and/or open-source alternatives that replicate some or all of those capabilities. Now, one developer is using AI-powered reverse engineering to mimic the look, feel, and functionality of Adobe's well-known software with what he hopes will soon be perfect fidelity. Artcraft got its start last year as a \"controllable AI for artists\" that allows for precise post-generation editing of AI-crafted images and videos. Over the weekend, though, the brand debuted its pivot to a suite of seven open source apps recreating the user interface and tools found in Adobe's Photoshop, Illustrator, Premiere, Lightroom, After Effects, InDesign, and Acrobat Pro. In announcing those new apps on Reddit earlier this week, software developer Brandon Thomas said he used Anthropic's Claude Opus 5.5 to create \"clean-room replacements\" for Adobe's closed source software in Rust (with WebAssembly versions available for use in a browser). And while commenters on Hacker News and elsewhere have taken pains to point out the new software's many current shortcomings, Thomas make the grandiose promise that the current \"super early alpha\" state will soon lead to something just as functional as anything Adobe has ever put out.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 1,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/greatwave-1152x648.webp"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/greatwave-1152x648.webp",
-      "popularity_score": 372.48838
+      "popularity_score": 351.8404038888889
     },
     {
-      "id": "cluster_24",
+      "id": "cluster_52",
       "coverage": 1,
       "updated_at": "Wed, 07 Oct 2026 20:01:14 +0000",
       "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
@@ -97,15 +118,15 @@
           "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
           "standfirst": "Pennsylvania reported 1,066 outbreak-linked cases on Wednesday.",
           "content": "Pennsylvania's explosive measles outbreak is now the largest the US has seen since the highly infectious virus was declared eliminated in 2000. With well over 1,000 cases, it's the largest on record since 1991. Pennsylvania's health officials reported 1,078 measles cases in all of 2026 as of this afternoon. That includes 12 cases in January and March, with the remaining 1,066 cases since April, when the current outbreak began. The tally includes 145 cases recorded in the last seven days and 74 identified since the previous update on Monday. Health officials noted that 40 of the 74 cases added today were from more than two weeks ago and are just now being recorded. Among the cases, there have been 207 hospitalizations and five deaths—a newborn, a 6-week-old, an 18-year-old, a 20-year-old, and a 40-year-old. All of the deaths occurred during the current outbreak in people who were unvaccinated; the two infants were too young to have been vaccinated.Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 2,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/misinfoTOP-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/misinfoTOP-1152x648.jpg",
-      "popularity_score": 349.56393555555553
+      "popularity_score": 318.91595944444447
     },
     {
-      "id": "cluster_26",
+      "id": "cluster_54",
       "coverage": 1,
       "updated_at": "Wed, 07 Oct 2026 19:53:42 +0000",
       "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
@@ -118,15 +139,15 @@
           "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
           "standfirst": "TP-Link can't sell latest routers in US, still needs exemption from FCC ban.",
           "content": "TP-Link is facing more legal troubles in the US as Florida and three other states filed lawsuits alleging that it lied to consumers about its connections to China and the risks of its routers being exploited by Chinese state hackers. The lawsuits were filed yesterday, about six months after the Federal Communications Commission announced a sweeping ban on consumer-grade routers produced wholly or partly outside of the US. Numerous router makers have obtained exemptions to the ban, but the Trump administration so far has not granted one to TP-Link. Router makers that received exemptions include Netgear, Asus, Adtran, Amazon and its Eero subsidiary, Calix, Nokia, SpaceX's Starlink division, and others. For now, TP-Link is unable to sell its latest Wi-Fi 8 routers in the US, though models approved before the ban can still be sold.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 3,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/tp-link-routers-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/tp-link-routers-1152x648.jpg",
-      "popularity_score": 339.43838
+      "popularity_score": 308.7904038888889
     },
     {
-      "id": "cluster_39",
+      "id": "cluster_65",
       "coverage": 1,
       "updated_at": "Wed, 07 Oct 2026 18:48:18 +0000",
       "title": "Chemistry Nobel goes to reactions like those that gave life a hand",
@@ -139,15 +160,15 @@
           "title": "Chemistry Nobel goes to reactions like those that gave life a hand",
           "standfirst": "Altering molecular handedness has implications for the origins of life.",
           "content": "Life is remarkably selective. Life relies on many molecules with what is termed \"handedness\"—they're chemically identical but are mirror images of each other. Most chemical reactions will make a 50-50 mix of the left- and right-handed forms of a chemical, but life uses only one of them. In fact, because of the differences between left- and right-handed chemicals, most of the key enzymes used by organisms will fail to work if they're presented with chemicals that have the wrong handedness. That poses a bit of a challenge for origin-of-life research, as we're forced to explain how a world that may have started with an even mix of left- and right-handed chemicals produced organisms that only used one of them. Today's Nobel Prize in Chemistry goes to two individuals, Henri Kagan and Kenso Soai, who discovered chemical reactions could be biased, producing large excesses of one of the two forms of a chemical.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 4,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1337028378-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1337028378-1152x648.jpg",
-      "popularity_score": 328.34838
+      "popularity_score": 297.7004038888889
     },
     {
-      "id": "cluster_57",
+      "id": "cluster_78",
       "coverage": 1,
       "updated_at": "Wed, 07 Oct 2026 17:57:39 +0000",
       "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
@@ -160,15 +181,15 @@
           "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
           "standfirst": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties.",
           "content": "After pleading guilty, a 54-year-old North Carolina man, Michael Smith, was sentenced to 18 months in prison for using artificial intelligence to generate songs for a scheme that stole millions from music streaming platforms. In a press release Tuesday, the US Department of Justice said that Smith is the first American criminally charged with AI-assisted streaming fraud. First charged in 2024, Smith successfully ran the scheme for seven years without detection.Read full article Comments",
-          "feed_position": 4,
+          "feed_position": 6,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2297466143-1024x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2297466143-1024x648.jpg",
-      "popularity_score": 322.5042133333333
+      "popularity_score": 291.8562372222222
     },
     {
-      "id": "cluster_48",
+      "id": "cluster_72",
       "coverage": 1,
       "updated_at": "Wed, 07 Oct 2026 18:24:39 +0000",
       "title": "Pediatricians renew call to ban raw milk as anti-science rhetoric reigns",
@@ -181,15 +202,15 @@
           "title": "Pediatricians renew call to ban raw milk as anti-science rhetoric reigns",
           "standfirst": "In renewed policy, pediatricians review the benefits of heating milk to kill germs.",
           "content": "As many doctors are moving ahead with the latest advances of modern medicine—from powerful obesity drugs to breakthrough cancer treatments—pediatricians are being forced to turn back, fighting to maintain advances in children's health that were hard-won decades ago. With anti-vaccine advocate Robert F. Kennedy Jr. as health secretary, the American Academy of Pediatrics (AAP) has spent a considerable amount of time and resources in the past year fiercely defending lifesaving vaccinations—safe, routine shots that have saved the lives of millions of children over decades and thwarted untold suffering and disability. But just this week, The New York Times reported that Ken Paxton, the attorney general of Texas, has opened aggressive investigations against pediatricians simply because they vaccinated their patients. Paxton falsely claims vaccines are part of a \"multi-level, multi-industry scheme.\" But critics say his anti-vaccine campaign appears more aimed at currying favor with Kennedy, President Trump, and their supporters as Paxton runs for the US Senate.Read full article Comments",
-          "feed_position": 3,
+          "feed_position": 5,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-2176630363-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-2176630363-1152x648.jpg",
-      "popularity_score": 317.9542133333333
+      "popularity_score": 287.3062372222222
     },
     {
-      "id": "cluster_71",
+      "id": "cluster_89",
       "coverage": 1,
       "updated_at": "Wed, 07 Oct 2026 15:48:01 +0000",
       "title": "Jaguar Type 01 debuts; now, no one remembers the electric Ferrari",
@@ -202,15 +223,15 @@
           "title": "Jaguar Type 01 debuts; now, no one remembers the electric Ferrari",
           "standfirst": "Car design sure riles people up on the Internet these days. Goes double for EVs.",
           "content": "Does it feel like people are perhaps a little grumpier or more on edge these days? It’s not like it’s without reason. There are wars. The climate is going haywire. Someone just died of plague. Scientific research is under attack. Machines keep stealing humans’ work. The media is a mess. And just when it all starts to feel a little overwhelming, Jaguar goes and unveils a new car. The Type 01 is the first model to arrive from Jaguar’s rebirth. The British carmaker was an early entrant to the modern EV market with the 2017 I-Pace, which was fun to drive even if it was too small inside and perhaps completely unreliable. An all-electric sedan was supposed to be next, but a year from the showroom, it was abruptly canceled, leaving the automaker with nothing to sell as old models like the F-Pace ceased production. Instead, Jaguar got to work on an all-new electric vehicle platform called JEA, which will underpin an all-electric product line. An elevated ownership experience and a starting price of about double the brand’s previous $60,000 entry point was the idea, Jaguar boss Rawdon Glover told me in 2024. Then last year the brand started teasing its relaunch, and everyone got upset. Things got even worse when the first images of the slab-sided and pastel-shaded Type 00 coupe concept leaked.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 7,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Ext_Macro_Headlight_Blue-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Ext_Macro_Headlight_Blue-1152x648.jpg",
-      "popularity_score": 301.34365777777776
+      "popularity_score": 270.69568166666664
     },
     {
-      "id": "cluster_86",
+      "id": "cluster_104",
       "coverage": 1,
       "updated_at": "Wed, 07 Oct 2026 14:12:37 +0000",
       "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
@@ -223,15 +244,15 @@
           "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
           "standfirst": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
           "content": "As tensions mount over who gets access to top-end artificial intelligence, French company Mistral has released a new freely available model that it claims can compete with the very best from the US and China. The new 1 trillion-parameter model, Mistral Large 4—nicknamed Le Chonk—can be used and customized by anyone. It’s currently available in preview, with a final version to follow by the end of the month. Though Le Chonk is built to compete with leading general-purpose models, it’s optimized specifically for coding and cyberdefense, as well as tasks particular to manufacturing, finance, electrical engineering, and other niches. “There are a lot of areas where the other labs will not focus that much,” Guillaume Lample, cofounder and chief scientist at Mistral, tells WIRED. “There are so many domains in which you can improve models.”Read full article Comments",
-          "feed_position": 7,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/mistral_header_2-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/mistral_header_2-1152x648.jpg",
-      "popularity_score": 288.7536577777778
+      "popularity_score": 258.10568166666667
     },
     {
-      "id": "cluster_76",
+      "id": "cluster_94",
       "coverage": 1,
       "updated_at": "Wed, 07 Oct 2026 15:19:05 +0000",
       "title": "Trade group crunches numbers on Trump’s impossible push for 100% US-made tech",
@@ -244,36 +265,15 @@
           "title": "Trade group crunches numbers on Trump’s impossible push for 100% US-made tech",
           "standfirst": "Trump's aggressive reshoring push could cost tech firms $230 billion, CTA estimates.",
           "content": "One of Donald Trump’s biggest goals as president is to increase domestic manufacturing and reshore supply chains so that the most in-demand technologies in the world can be 100 percent made in the United States. By executive order last December, he launched his “Genesis Mission,” an ambitious plan seeking to leverage US dominance in AI to maintain or seize an edge in advanced robotics, biotechnology, semiconductors, and nuclear technologies. According to Trump, that plan works best with self-sustaining supply chains. Not even neighboring countries or longtime allies should be relied upon to manufacture a single component of any US product in his ideal world. The Consumer Technology Association (CTA) has long warned that Trump’s reshoring goals are not grounded in reality, but only recently has America’s largest technology trade association attempted to estimate what it would cost businesses and consumers to follow through on Trump’s plan.Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 8,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1030875166-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1030875166-1152x648.jpg",
-      "popularity_score": 284.86143555555554
+      "popularity_score": 254.21345944444445
     },
     {
-      "id": "cluster_95",
-      "coverage": 1,
-      "updated_at": "Wed, 07 Oct 2026 13:56:38 +0000",
-      "title": "AI/ML is becoming a performance factor in motorsport",
-      "neutral_headline": "AI/ML is becoming a performance factor in motorsport",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
-          "published_at": "Wed, 07 Oct 2026 13:56:38 +0000",
-          "title": "AI/ML is becoming a performance factor in motorsport",
-          "standfirst": "More than just a sponsor: OpenAI has been helping Ganassi with setups.",
-          "content": "There’s been something of a change in the world of motorsport over the past few years. It has to do with where the money comes from. In the old days, it was tobacco and, to a lesser extent, booze. Today such things are mostly banned, and when you look at a racecar covered in sponsor logos, you’re likely to see something crypto-, cyber-, or AI-related. This makes sense—an ever-larger share of our GDP is wrapped up in those segments. They’re the ones with all the money, and it takes money to go racing. So at the amateur level, we’ve seen tech CEOs replace dentists as the privateer of choice: This past weekend’s Petit Le Mans included co-founders of GitHub, CrowdStrike, Shopify, and the creator of Ruby on Rails, to name a few. But this is an instance where a sponsor can provide tangible benefits to their motorsports partner beyond a bank transfer, as Chip Ganassi Racing (CGR) and OpenAI have been showing in IndyCar this year.Read full article Comments",
-          "feed_position": 9,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ZSH01597-1545-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ZSH01597-1545-1152x648.jpg",
-      "popularity_score": 265.4872688888889
-    },
-    {
-      "id": "cluster_132",
+      "id": "cluster_140",
       "coverage": 1,
       "updated_at": "Tue, 06 Oct 2026 19:21:14 +0000",
       "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
@@ -286,7 +286,7 @@
           "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
           "standfirst": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
           "content": "Attackers hijacked three top-level domains and used their control to mint counterfeit TLS certificates for Google and other large organizations, Google said Tuesday. The attackers launched a series of attacks on the .gh, .sl, and .as country code top-level domains (ccTLDs) and then modified authoritative DNS records for selected domains within those namespaces. By controlling those DNS records, the attackers were able to pass automated domain control validation checks and obtain unauthorized certificates for “several Google domains” and “several leading global brands and widely used online services.” Google said it updated Chrome to block all certificates it identified as unauthorized, and worked with the issuing certification authorities to ensure the unauthorized certificates for Google properties were revoked. Certificate issuance: The weak link in the chain TLS certificates are the cryptographic credentials that underpin authentication and encryption protections for websites, mail servers, and other Internet infrastructure. These x.509 certificates use a digital signature to bind a domain name such as google.com to a public key. The public key is publicly available, while the private key is held only by the website operator. When a connection shows that the keys match, the visiting party knows it’s connected to the authentic site rather than an impostor. Possession of unauthorized certificates allows attackers to cryptographically impersonate the affected infrastructure.Read full article Comments",
-          "feed_position": 16,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg"
         }
       ],
@@ -294,49 +294,7 @@
       "popularity_score": 170
     },
     {
-      "id": "cluster_98",
-      "coverage": 1,
-      "updated_at": "Wed, 07 Oct 2026 13:01:28 +0000",
-      "title": "Review: Fine, let's talk about Digger",
-      "neutral_headline": "Review: Fine, let's talk about Digger",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/10/review-digger-is-both-frustrating-and-brilliant-by-design/",
-          "published_at": "Wed, 07 Oct 2026 13:01:28 +0000",
-          "title": "Review: Fine, let's talk about Digger",
-          "standfirst": "Its excesses may try one’s patience at times, but the film sticks the landing with a savagely moving finale.",
-          "content": "I found the trailer for Digger intriguing, starring a nearly unrecognizable Tom Cruise and giving off strong Dr. Strangelove vibes. Plus, it is four-time Oscar-winning director Alejandro G. Iñárritu’s (Birdman) first English-language film since 2015’s The Revenant. Those elements quickly moved it near the top of my \"must-see\" list even if details about the actual plot were lacking. Given Iñárritu’s pedigree, the film seemed poised to be prime Oscar bait. (Major spoilers appear below the gallery. We'll give you a heads-up when we get there.) By now it's clear that Digger is on track to be one of the biggest bombs of the year instead, racking up a mere $20 million globally its opening weekend, against a $125 million (possibly more) budget. It has sharply polarized critics and audiences alike, with some appreciating Iñárritu's bold, creative swings and others finding the film practically unwatchable.Read full article Comments",
-          "feed_position": 10,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/digger4-1152x648-1791232015.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/digger4-1152x648-1791232015.jpg",
-      "popularity_score": 150.56782444444445
-    },
-    {
-      "id": "cluster_106",
-      "coverage": 1,
-      "updated_at": "Wed, 07 Oct 2026 11:00:40 +0000",
-      "title": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
-      "neutral_headline": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/",
-          "published_at": "Wed, 07 Oct 2026 11:00:40 +0000",
-          "title": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
-          "standfirst": "\"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"",
-          "content": "It's no surprise that NASA's new tack toward foreign partnerships—good deals only, please—is challenging preconceived notions of international cooperation in space. Without a massive budget hike, the US space agency's emphasis on building a Moon Base and winning a competition for lunar real estate and resources with China will inevitably leave lesser priorities behind. Gone is the Lunar Gateway, a space station that was to be assembled in orbit around the Moon. For the United States, Gateway was an unnecessary distraction and expense as NASA goes all-in on placing a surface station near the Moon's south pole.Read full article Comments",
-          "feed_position": 11,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lisa-2arms-gws-red2-1152x648.webp"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lisa-2arms-gws-red2-1152x648.webp",
-      "popularity_score": 148.5544911111111
-    },
-    {
-      "id": "cluster_129",
+      "id": "cluster_137",
       "coverage": 1,
       "updated_at": "Tue, 06 Oct 2026 20:50:32 +0000",
       "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
@@ -349,7 +307,7 @@
           "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
           "standfirst": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
           "content": "OpenAI will begin automatically watermarking text generated with ChatGPT in the European Union, the company has announced. It will also offer the watermarking feature in other regions, but it will be off by default outside of the EU. The move in Europe is driven by a need to comply with the EU AI Act, which took effect in August. It requires marking content produced by AI models in a way that another tool can detect. Unfortunately, there is still no completely effective and reliable way to do that. A few standards already exist, like SynthID and the C2PA project, but they are relatively easy to circumvent for anyone with basic know-how. The same is likely true for OpenAI's watermark. Its method is proprietary; the company calls it textGrain, and has published a technical paper explaining how it works. But in general, it works like other LLM watermarking tools we've seen in the past: It puts patterns in the word choices that are not clear to a human reader and that don't meaningfully change the general quality of the output, but that someone with a key can use a specialized detector to find. OpenAI says it will be giving access to the detector to a limited number of researchers and organizations and providing a request-for-approval process for others to be added over time.Read full article Comments",
-          "feed_position": 13,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg"
         }
       ],
@@ -357,7 +315,70 @@
       "popularity_score": 148
     },
     {
-      "id": "cluster_126",
+      "id": "cluster_111",
+      "coverage": 1,
+      "updated_at": "Wed, 07 Oct 2026 13:56:38 +0000",
+      "title": "AI/ML is becoming a performance factor in motorsport",
+      "neutral_headline": "AI/ML is becoming a performance factor in motorsport",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
+          "published_at": "Wed, 07 Oct 2026 13:56:38 +0000",
+          "title": "AI/ML is becoming a performance factor in motorsport",
+          "standfirst": "More than just a sponsor: OpenAI has been helping Ganassi with setups.",
+          "content": "There’s been something of a change in the world of motorsport over the past few years. It has to do with where the money comes from. In the old days, it was tobacco and, to a lesser extent, booze. Today such things are mostly banned, and when you look at a racecar covered in sponsor logos, you’re likely to see something crypto-, cyber-, or AI-related. This makes sense—an ever-larger share of our GDP is wrapped up in those segments. They’re the ones with all the money, and it takes money to go racing. So at the amateur level, we’ve seen tech CEOs replace dentists as the privateer of choice: This past weekend’s Petit Le Mans included co-founders of GitHub, CrowdStrike, Shopify, and the creator of Ruby on Rails, to name a few. But this is an instance where a sponsor can provide tangible benefits to their motorsports partner beyond a bank transfer, as Chip Ganassi Racing (CGR) and OpenAI have been showing in IndyCar this year.Read full article Comments",
+          "feed_position": 11,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ZSH01597-1545-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ZSH01597-1545-1152x648.jpg",
+      "popularity_score": 145
+    },
+    {
+      "id": "cluster_114",
+      "coverage": 1,
+      "updated_at": "Wed, 07 Oct 2026 13:01:28 +0000",
+      "title": "Review: Fine, let's talk about Digger",
+      "neutral_headline": "Review: Fine, let's talk about Digger",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2026/10/review-digger-is-both-frustrating-and-brilliant-by-design/",
+          "published_at": "Wed, 07 Oct 2026 13:01:28 +0000",
+          "title": "Review: Fine, let's talk about Digger",
+          "standfirst": "Its excesses may try one’s patience at times, but the film sticks the landing with a savagely moving finale.",
+          "content": "I found the trailer for Digger intriguing, starring a nearly unrecognizable Tom Cruise and giving off strong Dr. Strangelove vibes. Plus, it is four-time Oscar-winning director Alejandro G. Iñárritu’s (Birdman) first English-language film since 2015’s The Revenant. Those elements quickly moved it near the top of my \"must-see\" list even if details about the actual plot were lacking. Given Iñárritu’s pedigree, the film seemed poised to be prime Oscar bait. (Major spoilers appear below the gallery. We'll give you a heads-up when we get there.) By now it's clear that Digger is on track to be one of the biggest bombs of the year instead, racking up a mere $20 million globally its opening weekend, against a $125 million (possibly more) budget. It has sharply polarized critics and audiences alike, with some appreciating Iñárritu's bold, creative swings and others finding the film practically unwatchable.Read full article Comments",
+          "feed_position": 12,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/digger4-1152x648-1791232015.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/digger4-1152x648-1791232015.jpg",
+      "popularity_score": 141
+    },
+    {
+      "id": "cluster_122",
+      "coverage": 1,
+      "updated_at": "Wed, 07 Oct 2026 11:00:40 +0000",
+      "title": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
+      "neutral_headline": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/",
+          "published_at": "Wed, 07 Oct 2026 11:00:40 +0000",
+          "title": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
+          "standfirst": "\"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"",
+          "content": "It's no surprise that NASA's new tack toward foreign partnerships—good deals only, please—is challenging preconceived notions of international cooperation in space. Without a massive budget hike, the US space agency's emphasis on building a Moon Base and winning a competition for lunar real estate and resources with China will inevitably leave lesser priorities behind. Gone is the Lunar Gateway, a space station that was to be assembled in orbit around the Moon. For the United States, Gateway was an unnecessary distraction and expense as NASA goes all-in on placing a surface station near the Moon's south pole.Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lisa-2arms-gws-red2-1152x648.webp"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lisa-2arms-gws-red2-1152x648.webp",
+      "popularity_score": 141
+    },
+    {
+      "id": "cluster_134",
       "coverage": 1,
       "updated_at": "Tue, 06 Oct 2026 21:31:10 +0000",
       "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
@@ -370,7 +391,7 @@
           "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
           "standfirst": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.",
           "content": "Drones sank two cargo ships and damaged a third in the exclusive economic zones of NATO member countries for the first time, killing at least two sailors. The attacks represent a notable escalation as Black Sea commercial shipping has increasingly come under attack during the Russian invasion of Ukraine, with Russia also being accused of carrying out “hybrid warfare” incidents across Europe. The Togo-flagged cargo ship Alfa Watan sank, and the Palau-flagged cargo ship Able was set ablaze after being attacked by multiple sea and aerial drones about 80 miles (128 kilometers) off the coast of Bulgaria on October 6, according to the Associated Press. In an interview, Bulgarian Prime Minister Rumen Radev described the incidents as “an unacceptable attack in Bulgaria’s exclusive economic zone” and “a blatant violation of international law and maritime law.” A Bulgarian ferry managed to evacuate the 18 crew members of the Able, with two severely injured mariners being flown to a hospital in the city of Varna.Read full article Comments",
-          "feed_position": 12,
+          "feed_position": 14,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Drone-strikes-on-grain-cargo-ships-near-Odesa-1152x648.jpg"
         }
       ],
@@ -378,7 +399,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_130",
+      "id": "cluster_138",
       "coverage": 1,
       "updated_at": "Tue, 06 Oct 2026 20:32:12 +0000",
       "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”",
@@ -391,7 +412,7 @@
           "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service”",
           "standfirst": "A combined service could lead to higher prices.",
           "content": "After months of industry and customer speculation, Paramount Skydance has shed some light on the future of the HBO Max and Paramount+ streaming services. Paramount Skydance completed its acquisition of Warner Bros. Discovery (WBD) today, ending a monthslong saga that began when Netflix last year announced its own plans to buy WBD. Netflix scrapped those plans in February. Skydance is the name of the company created from the $111 billion merger. In an announcement today, Skydance said that all of the direct-to-consumer streaming services it owns, including the Discovery+ service that Discovery Inc. (which merged with WarnerMedia in 2022 to create WBD) launched in 2021, “will unify into a single service over time.”Read full article Comments",
-          "feed_position": 14,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298278370-1024x648.jpg"
         }
       ],
@@ -399,7 +420,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_131",
+      "id": "cluster_139",
       "coverage": 1,
       "updated_at": "Tue, 06 Oct 2026 19:55:50 +0000",
       "title": "It looks like the Atlantic storm season may finally produce a hurricane",
@@ -412,7 +433,7 @@
           "title": "It looks like the Atlantic storm season may finally produce a hurricane",
           "standfirst": "To date, this Atlantic tropics year has been exceptionally quiet.",
           "content": "A low-pressure system in the western Gulf of Mexico should soon become a tropical storm, and based on the latest forecast modeling, it has a decent chance of becoming a hurricane. Normally, a hurricane forming in early October would not be particularly noteworthy. However, this year the development of a hurricane would be a big deal—because it has not happened yet. In the modern hurricane record—an era dating to about World War II when there has been aircraft reconnaissance and later continuous satellite coverage—there has never been an Atlantic season without a hurricane, and no season has gone this late without one forming.Read full article Comments",
-          "feed_position": 15,
+          "feed_position": 17,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/google-deepmind-1015x648.jpg"
         }
       ],
@@ -420,7 +441,7 @@
       "popularity_score": 133
     },
     {
-      "id": "cluster_141",
+      "id": "cluster_148",
       "coverage": 1,
       "updated_at": "Tue, 06 Oct 2026 17:33:44 +0000",
       "title": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
@@ -433,53 +454,11 @@
           "title": "Paramount completes $111B Warner merger, creating “Skydance” behemoth",
           "standfirst": "Paramount now owns Warner Bros. as last-ditch effort to stop $111B merger fails.",
           "content": "Paramount Skydance completed its $111 billion merger with Warner Bros. Discovery today, after a last-ditch effort to block the deal was rejected by Supreme Court Justice Elena Kagan. The post-merger company is called Skydance, taking the name of a firm that Paramount bought in a separate deal last year. The new Skydance combines two of the largest movie studios, streaming services Paramount+ and HBO Max, CBS, CNN, \"and a portfolio of live sports including CBS Sports and TNT Sports, as well as a deep programming library and expansive collection of brands and franchises,\" Skydance said today in a press release announcing completion of the deal. The merger was delayed a bit by a lawsuit filed by California and 11 other states. In July, US District Judge Araceli Martínez-Olguín in the Northern District of California ruled that the combination would likely reduce competition substantially and violate antitrust laws.Read full article Comments",
-          "feed_position": 17,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/david-ellison-1152x648-1791303833.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/david-ellison-1152x648-1791303833.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_143",
-      "coverage": 1,
-      "updated_at": "Tue, 06 Oct 2026 17:21:15 +0000",
-      "title": "Support Ars and get a better reading experience in return",
-      "neutral_headline": "Support Ars and get a better reading experience in return",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/staff/2026/10/make-ars-better-with-an-arspro-subscription/",
-          "published_at": "Tue, 06 Oct 2026 17:21:15 +0000",
-          "title": "Support Ars and get a better reading experience in return",
-          "standfirst": "ArsPro gives you more ways to read while directly supporting our journalism.",
-          "content": "When Ars launched in 1998, there was one way to read it: in a web browser on a PC (or Mac). Your screen of choice was either some massive CRT or a very expensive LCD monitor (or, in my case, the less-expensive grayscale, passive-matrix LCD on a PowerBook). Either way, it was butt in chair, chair at desk. One of the first perks we offered subscribers way back at the turn of the millennium allowed them to read Ars without a browser. Articles were available as formatted PDF files, so you could print out John Siracusa's Mac OS X Public Beta review and read it on the subway or build your own searchable archive of your curated Ars content. Another option was full-text RSS feeds—instead of getting a two-paragraph summary, subscribers could browse Ars in their favorite RSS reader. It's 2026, and while screens have proliferated in size and portability, ArsPro subscribers still get PDFs of every article and full-text RSS feeds, because sometimes the web isn't always the ideal place to read the web.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ars-subscriber-reading-modes-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ars-subscriber-reading-modes-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_144",
-      "coverage": 1,
-      "updated_at": "Tue, 06 Oct 2026 17:03:16 +0000",
-      "title": "Amazon kills Alexa’s ability to control Echo speakers' AUX input",
-      "neutral_headline": "Amazon kills Alexa’s ability to control Echo speakers' AUX input",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/amazon-bricks-alexas-ability-to-control-echo-speakers-aux-input/",
-          "published_at": "Tue, 06 Oct 2026 17:03:16 +0000",
-          "title": "Amazon kills Alexa’s ability to control Echo speakers' AUX input",
-          "standfirst": "Amazon hasn't made an Echo with a 3.5mm port in six years.",
-          "content": "Amazon has disabled Alexa control of devices plugged into the company's Echo smart speaker’s AUX port. Users have reported receiving an email from Amazon this week informing them of the change. “This is a reminder that as of today, voice commands to control your Echo device’s Aux input are no longer available. Requests like 'Alexa, play from line in” or “Alexa, set aux input' will no longer work,” an email that Amazon sent reads, according to a screenshot a Reddit user shared this week. An Amazon spokesperson confirmed the news to Ars Technica today.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2018/11/71I6oj6ZFBL._SL1000_-1000x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2018/11/71I6oj6ZFBL._SL1000_-1000x648.jpg",
       "popularity_score": 133
     }
   ]
