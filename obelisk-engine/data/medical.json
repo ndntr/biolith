@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-10-10T16:06:35.291Z",
+    "updated_at": "2026-10-10T22:14:41.193Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-10-10T16:06:41.182Z",
+    "updated_at": "2026-10-10T22:14:46.519Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -69,10 +69,30 @@
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-10-10T16:06:37.371Z",
+    "updated_at": "2026-10-10T22:14:42.492Z",
     "clusters": [
       {
         "id": "cluster_0",
+        "coverage": 1,
+        "updated_at": "Sat, 10 Oct 2026 22:02:07 GMT",
+        "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+        "neutral_headline": "Four dead and thousands without power after Hurricane Isaias lashes US",
+        "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 10 Oct 2026 22:02:07 GMT",
+            "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+            "standfirst": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+            "content": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+            "feed_position": 0,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a454/live/61dbc890-c4e3-11f1-a793-e9d00826e617.jpg"
+          }
+        ],
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a454/live/61dbc890-c4e3-11f1-a793-e9d00826e617.jpg"
+      },
+      {
+        "id": "cluster_1",
         "coverage": 1,
         "updated_at": "Sat, 10 Oct 2026 13:40:03 GMT",
         "title": "Hundreds protest over data centre plans",
@@ -85,14 +105,14 @@
             "title": "Hundreds protest over data centre plans",
             "standfirst": "Placard-waving opponents highlight concerns about a data centre development on the local landscape.",
             "content": "Placard-waving opponents highlight concerns about a data centre development on the local landscape.",
-            "feed_position": 0,
+            "feed_position": 1,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e776/live/7a3be9e0-c4a9-11f1-a64c-550be9e3c66b.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e776/live/7a3be9e0-c4a9-11f1-a64c-550be9e3c66b.png"
       },
       {
-        "id": "cluster_1",
+        "id": "cluster_2",
         "coverage": 1,
         "updated_at": "Sat, 10 Oct 2026 12:00:57 GMT",
         "title": "FDA may allow some toxic chemicals to be added to food without safety review. Experts are alarmed",
@@ -110,7 +130,7 @@
         ]
       },
       {
-        "id": "cluster_2",
+        "id": "cluster_3",
         "coverage": 1,
         "updated_at": "Sat, 10 Oct 2026 11:55:12 GMT",
         "title": "Hurricane Isaias downgraded after making landfall in Florida",
@@ -123,14 +143,14 @@
             "title": "Hurricane Isaias downgraded after making landfall in Florida",
             "standfirst": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
             "content": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
-            "feed_position": 1,
+            "feed_position": 2,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9eb/live/6c458470-c4a1-11f1-8fc0-0b58d7e26e4c.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9eb/live/6c458470-c4a1-11f1-8fc0-0b58d7e26e4c.jpg"
       },
       {
-        "id": "cluster_3",
+        "id": "cluster_4",
         "coverage": 1,
         "updated_at": "Sat, 10 Oct 2026 09:31:14 GMT",
         "title": "How drones are hunting fires hidden beneath the Cairngorms",
@@ -143,14 +163,14 @@
             "title": "How drones are hunting fires hidden beneath the Cairngorms",
             "standfirst": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
             "content": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
-            "feed_position": 2,
+            "feed_position": 3,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9e6/live/0f446750-c48d-11f1-a915-a1cdb09cbaf6.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9e6/live/0f446750-c48d-11f1-a915-a1cdb09cbaf6.jpg"
       },
       {
-        "id": "cluster_4",
+        "id": "cluster_5",
         "coverage": 1,
         "updated_at": "Sat, 10 Oct 2026 06:16:46 GMT",
         "title": "'What terminal cancer has taught me about life'",
@@ -170,7 +190,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d16/live/9ec7e820-c32a-11f1-9981-cf94ea240e40.png"
       },
       {
-        "id": "cluster_5",
+        "id": "cluster_6",
         "coverage": 1,
         "updated_at": "Sat, 10 Oct 2026 06:16:06 GMT",
         "title": "Asbestos mystery leaves beloved beach closed",
@@ -190,7 +210,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e12a/live/65919280-c24f-11f1-ab30-1f92d324dff9.jpg"
       },
       {
-        "id": "cluster_6",
+        "id": "cluster_7",
         "coverage": 1,
         "updated_at": "Sat, 10 Oct 2026 06:13:15 GMT",
         "title": "Chemicals at former fuel depot 'have been removed'",
@@ -210,7 +230,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fb1/live/d3d8ec30-be61-11f1-b36c-81ad410b221e.jpg"
       },
       {
-        "id": "cluster_7",
+        "id": "cluster_8",
         "coverage": 1,
         "updated_at": "Sat, 10 Oct 2026 05:45:31 GMT",
         "title": "What happens when you don't know your family medical history?",
@@ -230,7 +250,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b328/live/02fb5870-c3f0-11f1-bc2e-018d645d8d21.jpg"
       },
       {
-        "id": "cluster_8",
+        "id": "cluster_9",
         "coverage": 1,
         "updated_at": "Fri, 09 Oct 2026 21:36:18 GMT",
         "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
@@ -248,7 +268,7 @@
         ]
       },
       {
-        "id": "cluster_9",
+        "id": "cluster_10",
         "coverage": 1,
         "updated_at": "Fri, 09 Oct 2026 19:11:27 GMT",
         "title": "'People don't think recycling at work is part of their job description'",
@@ -261,14 +281,14 @@
             "title": "'People don't think recycling at work is part of their job description'",
             "standfirst": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue.",
             "content": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue.",
-            "feed_position": 3,
+            "feed_position": 4,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/ed655970-c3c2-11f1-8fc5-335d62f6730b.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/ed655970-c3c2-11f1-8fc5-335d62f6730b.jpg"
       },
       {
-        "id": "cluster_10",
+        "id": "cluster_11",
         "coverage": 1,
         "updated_at": "Fri, 09 Oct 2026 17:24:16 GMT",
         "title": "NHS faces exodus of ADHD and autism services staff to private clinics",
@@ -286,7 +306,7 @@
         ]
       },
       {
-        "id": "cluster_11",
+        "id": "cluster_12",
         "coverage": 1,
         "updated_at": "Fri, 09 Oct 2026 16:46:32 GMT",
         "title": "Isaias becomes major category three storm before landfall",
@@ -299,7 +319,7 @@
             "title": "Isaias becomes major category three storm before landfall",
             "standfirst": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
             "content": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
-            "feed_position": 4,
+            "feed_position": 5,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73f6/live/ed683ba0-c3ee-11f1-9a39-31b474234113.jpg"
           },
           {
@@ -309,14 +329,14 @@
             "title": "Hurricane Isaias strengthens to a major category three storm",
             "standfirst": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
             "content": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
-            "feed_position": 8,
+            "feed_position": 9,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11af/live/b7dc7730-c3b2-11f1-a0b5-7b6bc14012a9.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73f6/live/ed683ba0-c3ee-11f1-9a39-31b474234113.jpg"
       },
       {
-        "id": "cluster_12",
+        "id": "cluster_13",
         "coverage": 1,
         "updated_at": "Fri, 09 Oct 2026 16:13:09 GMT",
         "title": "Insurance model is no substitute for the NHS | Letter",
@@ -334,7 +354,7 @@
         ]
       },
       {
-        "id": "cluster_13",
+        "id": "cluster_14",
         "coverage": 1,
         "updated_at": "Fri, 09 Oct 2026 15:32:30 GMT",
         "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
@@ -347,14 +367,14 @@
             "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
             "standfirst": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
             "content": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
-            "feed_position": 5,
+            "feed_position": 6,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg"
       },
       {
-        "id": "cluster_14",
+        "id": "cluster_15",
         "coverage": 1,
         "updated_at": "Fri, 09 Oct 2026 14:59:16 GMT",
         "title": "Yes, hang-xiety is a real thing",
@@ -374,7 +394,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2204/live/b57543f0-c3ee-11f1-bc2e-018d645d8d21.jpg"
       },
       {
-        "id": "cluster_15",
+        "id": "cluster_16",
         "coverage": 1,
         "updated_at": "Fri, 09 Oct 2026 14:23:57 GMT",
         "title": "Hurricane Isaias strengthens as it heads towards land",
@@ -387,14 +407,14 @@
             "title": "Hurricane Isaias strengthens as it heads towards land",
             "standfirst": "Isaias will bring damaging winds, torrential rain and a storm surge with landfall expected late Friday.",
             "content": "Isaias will bring damaging winds, torrential rain and a storm surge with landfall expected late Friday.",
-            "feed_position": 6,
+            "feed_position": 7,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be69/live/8ac843e0-c3ea-11f1-bc2e-018d645d8d21.jpg"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be69/live/8ac843e0-c3ea-11f1-bc2e-018d645d8d21.jpg"
       },
       {
-        "id": "cluster_16",
+        "id": "cluster_17",
         "coverage": 1,
         "updated_at": "Fri, 09 Oct 2026 13:52:01 GMT",
         "title": "Report highlights flaws in ADHD and autism care",
@@ -414,7 +434,7 @@
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bf4/live/33c62720-c3e4-11f1-9a39-31b474234113.jpg"
       },
       {
-        "id": "cluster_17",
+        "id": "cluster_18",
         "coverage": 1,
         "updated_at": "Fri, 09 Oct 2026 13:26:54 GMT",
         "title": "Execution live stream could cause PTSD in viewers, say psychiatrists",
@@ -432,7 +452,7 @@
         ]
       },
       {
-        "id": "cluster_18",
+        "id": "cluster_19",
         "coverage": 1,
         "updated_at": "Fri, 09 Oct 2026 13:01:57 GMT",
         "title": "'Tropical jungle' of wallabies, porcupines and parrots must move after neighbours complain",
@@ -445,36 +465,16 @@
             "title": "'Tropical jungle' of wallabies, porcupines and parrots must move after neighbours complain",
             "standfirst": "James Wale moved to the site two years ago and keeps animals including wallabies and rare birds.",
             "content": "James Wale moved to the site two years ago and keeps animals including wallabies and rare birds.",
-            "feed_position": 7,
+            "feed_position": 8,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2854/live/9cb90da0-c3e0-11f1-95ba-dba767ffba7e.png"
           }
         ],
         "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2854/live/9cb90da0-c3e0-11f1-95ba-dba767ffba7e.png"
-      },
-      {
-        "id": "cluster_19",
-        "coverage": 1,
-        "updated_at": "Fri, 09 Oct 2026 12:16:11 GMT",
-        "title": "Autism, ADHD and mental health review: What you need to know",
-        "neutral_headline": "Autism, ADHD and mental health review: What you need to know",
-        "items": [
-          {
-            "source": "BBC Health",
-            "url": "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo?at_medium=RSS&at_campaign=rss",
-            "published_at": "Fri, 09 Oct 2026 12:16:11 GMT",
-            "title": "Autism, ADHD and mental health review: What you need to know",
-            "standfirst": "It contains big lessons for the NHS, welfare, education and employment policies. What are the key takeaways?",
-            "content": "It contains big lessons for the NHS, welfare, education and employment policies. What are the key takeaways?",
-            "feed_position": 0,
-            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4041/live/d819d250-c3d4-11f1-95ba-dba767ffba7e.png"
-          }
-        ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4041/live/d819d250-c3d4-11f1-95ba-dba767ffba7e.png"
       }
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-10-10T16:06:41.182Z",
+    "updated_at": "2026-10-10T22:14:46.519Z",
     "clusters": []
   }
 }
