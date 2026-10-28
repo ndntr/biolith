@@ -1,9 +1,101 @@
 {
-  "updated_at": "2026-10-28T17:00:01.390Z",
+  "updated_at": "2026-10-28T22:57:06.187Z",
   "clusters": [
     {
-      "id": "cluster_32",
-      "coverage": 3,
+      "id": "cluster_7",
+      "coverage": 2,
+      "updated_at": "Wed, 28 Oct 2026 18:10:05 -0400",
+      "title": "Filing: Microsoft recorded $10B in revenue from OpenAI in Q1, nearly 11% of its total quarterly revenue, and has $7.2B in outstanding receivables from OpenAI (Rebecca Bellan/TechCrunch)",
+      "neutral_headline": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "items": [
+        {
+          "source": "TechMeme",
+          "url": "https://www.techmeme.com/261028/p53#a261028p53",
+          "published_at": "Wed, 28 Oct 2026 18:10:05 -0400",
+          "title": "Filing: Microsoft recorded $10B in revenue from OpenAI in Q1, nearly 11% of its total quarterly revenue, and has $7.2B in outstanding receivables from OpenAI (Rebecca Bellan/TechCrunch)",
+          "standfirst": "Rebecca Bellan / TechCrunch: Filing: Microsoft recorded $10B in revenue from OpenAI in Q1, nearly 11% of its total quarterly revenue, and has $7.2B in outstanding receivables from OpenAI &mdash; Microsoft generated $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments &hellip;",
+          "content": "Rebecca Bellan / TechCrunch: Filing: Microsoft recorded $10B in revenue from OpenAI in Q1, nearly 11% of its total quarterly revenue, and has $7.2B in outstanding receivables from OpenAI &mdash; Microsoft generated $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments &hellip;",
+          "feed_position": 3,
+          "image_url": "http://www.techmeme.com/261028/i53.jpg"
+        },
+        {
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+          "published_at": "Wed, 28 Oct 2026 21:34:30 +0000",
+          "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+          "standfirst": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+          "content": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+          "feed_position": 3
+        }
+      ],
+      "featured_image": "http://www.techmeme.com/261028/i53.jpg",
+      "popularity_score": 2019.2163369444445
+    },
+    {
+      "id": "cluster_20",
+      "coverage": 2,
+      "updated_at": "Wed, 28 Oct 2026 20:30:00 +0000",
+      "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
+      "neutral_headline": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
+      "items": [
+        {
+          "source": "Wired Tech",
+          "url": "https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/",
+          "published_at": "Wed, 28 Oct 2026 20:30:00 +0000",
+          "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
+          "standfirst": "The critical flaw in UEFI firmware—used by most server vendors and data centers—allows attackers to execute code early in the boot process.",
+          "content": "The critical flaw in UEFI firmware—used by most server vendors and data centers—allows attackers to execute code early in the boot process.",
+          "feed_position": 1,
+          "image_url": "https://media.wired.com/photos/6ae24abf56ee4dcb93f11815/master/pass/Untitled-5.gif"
+        },
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+          "published_at": "Tue, 27 Oct 2026 20:25:55 +0000",
+          "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+          "standfirst": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
+          "content": "Defenders across the world face the burden of responding to yet another botched code-execution vulnerability, this time in boot-time firmware used by most of the world’s server vendors and data centers. The vulnerability, with a severity rating of 9.5 out of 10, resides in the TianoCore EDK II, an open source codebase that hardware makers and cloud providers use to create the UEFI firmware that runs during the boot-up sequence. Last year, a representative of the UEFI Forum called EDK2 the \"preeminent solution / implementation of the UEFI specifications.\" Virtually all UEFI suppliers (sometimes still called IBVs or independent BIOS vendors), including AMI, Insyde, and Phoenix, use the reference code extensively. Project Mu, Microsoft's hardened EDK2 fork, used the code containing the vulnerable component as well. The vulnerability, tracked as CVE-2026-97631, is a memory-corruption flaw in an ICMP component that attackers can exploit to execute malicious code that runs before the operating system and firmware can implement defenses like Secure Boot, which establishes a chain of trust for all code, including the Trusted Platform Module (TPM), loaded during boot. While final payloads delivered by CVE-2026-97631 have no persistence—meaning they run only once—they can give attackers a wide opening to install other payloads that also run each time early in the boot process.Read full article Comments",
+          "feed_position": 17,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg"
+        }
+      ],
+      "featured_image": "https://media.wired.com/photos/6ae24abf56ee4dcb93f11815/master/pass/Untitled-5.gif",
+      "popularity_score": 2017.5482813888889
+    },
+    {
+      "id": "cluster_59",
+      "coverage": 2,
+      "updated_at": "Wed, 28 Oct 2026 17:35:24 +0000",
+      "title": "Here's how the touchscreen on the MacBook Pro with PROLED display works",
+      "neutral_headline": "Here's how the touchscreen on the MacBook Pro with PROLED display works",
+      "items": [
+        {
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2300009/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/",
+          "published_at": "Wed, 28 Oct 2026 17:35:24 +0000",
+          "title": "Here's how the touchscreen on the MacBook Pro with PROLED display works",
+          "standfirst": "The touch sensor isn't a separate layer of the screen.",
+          "content": "The touch sensor isn't a separate layer of the screen.",
+          "feed_position": 7,
+          "image_url": "https://www.engadget.com/img/gallery/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/l-intro-1793213611.jpg"
+        },
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
+          "published_at": "Wed, 28 Oct 2026 17:25:04 +0000",
+          "title": "Apple announces touchscreen MacBook Pro with OLED display",
+          "standfirst": "The OLED display is the main draw, but the price is a lot to reckon with.",
+          "content": "LOS ANGELES—Apple today announced and gave a first glimpse of its first major MacBook Pro redesign in more than five years. As rumored, it includes an OLED display and, for the first time on macOS, a touchscreen—a change Apple has long debated. (Former CEO Steve Jobs famously was opposed.) Apple's demonstration video showed users interacting with applications by reaching up to touch the screen, including file dragging and multi-touch gestures like pinch-to-zoom. It does not appear to be a 2-in-1 convertible design, though; all the footage was of people reaching up to touch the screen in a normal laptop configuration. The OLED display (which Apple is, of course, calling the PROLED XDR) seems to be the real highlight here, compared to earlier models: It can achieve 2,000 nits in terms of maximum brightness, and Apple says it has a 10,000,000:1 contrast ratio. References were made to burn-in protection, but details on which approach it's taking for that weren't yet shared. The display retains the 120 Hz variable refresh rate of its predecessors.Read full article Comments",
+          "feed_position": 8,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-MacBook-Pro-1152x648-1793208150.jpg"
+        }
+      ],
+      "featured_image": "https://www.engadget.com/img/gallery/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/l-intro-1793213611.jpg",
+      "popularity_score": 2014.6382813888888
+    },
+    {
+      "id": "cluster_87",
+      "coverage": 2,
       "updated_at": "Wed, 28 Oct 2026 14:34:25 +0000",
       "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
       "neutral_headline": "Amazon debuts the Alexa Photo Frame and Echo Time smart...",
@@ -15,17 +107,7 @@
           "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
           "standfirst": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
           "content": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
-          "feed_position": 5
-        },
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/261028/p23#a261028p23",
-          "published_at": "Wed, 28 Oct 2026 08:10:01 -0400",
-          "title": "Amazon unveils the $500 Echo Show 16, the $200 Echo Time alarm, and the $200+ Alexa Photo Frame, raises smart speaker prices, and previews Alexa Home Map (Chris Welch/Bloomberg)",
-          "standfirst": "Chris Welch / Bloomberg: Amazon unveils the $500 Echo Show 16, the $200 Echo Time alarm, and the $200+ Alexa Photo Frame, raises smart speaker prices, and previews Alexa Home Map &mdash; With its latest devices, including a smart bedside alarm clock, Amazon looks to cement Alexa's presence in every room of the home",
-          "content": "Chris Welch / Bloomberg: Amazon unveils the $500 Echo Show 16, the $200 Echo Time alarm, and the $200+ Alexa Photo Frame, raises smart speaker prices, and previews Alexa Home Map &mdash; With its latest devices, including a smart bedside alarm clock, Amazon looks to cement Alexa's presence in every room of the home",
-          "feed_position": 14,
-          "image_url": "http://www.techmeme.com/261028/i23.jpg"
+          "feed_position": 17
         },
         {
           "source": "Engadget",
@@ -34,125 +116,267 @@
           "title": "All the Amazon Echo devices announced today: Echo Time, Alexa Photo Frame and more",
           "standfirst": "Along with speaker and Echo Show upgrades, Amazon unveiled a smart alarm clock and photo frame.",
           "content": "Along with speaker and Echo Show upgrades, Amazon unveiled a smart alarm clock and photo frame.",
-          "feed_position": 7,
+          "feed_position": 18,
           "image_url": "https://www.engadget.com/img/gallery/all-amazon-echo-news-october-2026/l-intro-1793195731.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/261028/i23.jpg",
-      "popularity_score": 3017.573225
+      "featured_image": "https://www.engadget.com/img/gallery/all-amazon-echo-news-october-2026/l-intro-1793195731.jpg",
+      "popularity_score": 2011.6218925
     },
     {
-      "id": "cluster_18",
-      "coverage": 2,
-      "updated_at": "Wed, 28 Oct 2026 15:32:41 GMT",
-      "title": "‘Elonville’: US residents say Musk’s xAI offered to buy homes if they don’t sue over datacenter noise",
-      "neutral_headline": "XAI is buying out homeowners who promise not to sue over data center noise",
+      "id": "cluster_0",
+      "coverage": 1,
+      "updated_at": "Wed, 28 Oct 2026 22:51:15 +0000",
+      "title": "ULA&#039;s Vulcan rocket is set to return to flight on Friday the 13th",
+      "neutral_headline": "ULA&#039;s Vulcan rocket is set to return to flight on Friday the 13th",
       "items": [
         {
-          "source": "Guardian Tech",
-          "url": "https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi",
-          "published_at": "Wed, 28 Oct 2026 15:32:41 GMT",
-          "title": "‘Elonville’: US residents say Musk’s xAI offered to buy homes if they don’t sue over datacenter noise",
-          "standfirst": "Several Mississippi homes have been purchased near datacenters and one resident said realtor outlined target to buy more than 400People in a Mississippi neighborhood, many of whom dislike a nearby power plant central to Elon Musk’s artificial intelligence ambitions, have received a stark offer – to sell their houses to his company and make way.Real estate agents have been going door to door in Southaven, Mississippi, on behalf of xAI, touting a deal to purchase houses as long as the owners agree to not join a lawsuit against the company over the power plant’s noise. (Musk’s AI company officially became SpaceXAI in July and has lately been rebranded as SpaceXSI but to neighbors of the datacenter in Mississippi, it remains xAI.) Continue reading...",
-          "content": "Several Mississippi homes have been purchased near datacenters and one resident said realtor outlined target to buy more than 400People in a Mississippi neighborhood, many of whom dislike a nearby power plant central to Elon Musk’s artificial intelligence ambitions, have received a stark offer – to sell their houses to his company and make way.Real estate agents have been going door to door in Southaven, Mississippi, on behalf of xAI, touting a deal to purchase houses as long as the owners agree to not join a lawsuit against the company over the power plant’s noise. (Musk’s AI company officially became SpaceXAI in July and has lately been rebranded as SpaceXSI but to neighbors of the datacenter in Mississippi, it remains xAI.) Continue reading...",
-          "feed_position": 7
-        },
-        {
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
-          "published_at": "2026-10-28T10:44:00-04:00",
-          "title": "xAI is buying out homeowners who promise not to sue over data center noise",
-          "standfirst": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans [&#8230;]",
-          "content": "xAI’s Southaven, Mississippi data center. | Photo by Brandon Dill / AFP via Getty Images A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans to purchase 418 homes, adding that 18 homeowners already have plans to sell. People who rent homes in the area report they're already being forced out, with 60 days' notice after their landlords agreed to sell. A recent report from the Mississippi Free Press includes a letter received by several households rec … Read the full story at The Verge.",
-          "feed_position": 8
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+          "published_at": "Wed, 28 Oct 2026 22:51:15 +0000",
+          "title": "ULA&#039;s Vulcan rocket is set to return to flight on Friday the 13th",
+          "standfirst": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
+          "content": "United Launch Alliance announced Wednesday it plans to return its Vulcan rocket to service on November 13, nine months after a solid rocket booster anomaly threw the company's 2026 launch schedule into oblivion. The return-to-flight mission will launch 40 satellites for the Amazon Leo broadband constellation, the first of 38 Vulcan flights Amazon has booked to deploy the bulk of its network. The mission will lift off from Cape Canaveral Space Force Station, Florida, and ULA said the launch date is pending range approval. The launch is critical for ULA after its new flagship rocket suffered nozzle failures on its solid rocket boosters on two of its first four missions, most recently during a flight in February. In both cases, the rocket overcame the nozzle failure and completed its mission, but officials at the US Space Force, ULA's primary customer, lost confidence in Vulcan.Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg"
         }
       ],
-      "popularity_score": 2018.544336111111
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg",
+      "popularity_score": 352.90244805555557
     },
     {
-      "id": "cluster_30",
-      "coverage": 2,
-      "updated_at": "2026-10-28T14:41:32Z",
-      "title": "Amazon’s new Echo Dot can turn into a Wi-Fi extender – how it works",
-      "neutral_headline": "Amazon’s new Echo Dot can turn into a Wi-Fi extender – how it works",
+      "id": "cluster_45",
+      "coverage": 1,
+      "updated_at": "Wed, 28 Oct 2026 18:47:27 +0000",
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "neutral_headline": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
       "items": [
         {
-          "source": "ZDNet",
-          "url": "https://www.zdnet.com/home-and-office/amazon-new-echo-dot-wi-fi-extender-smart-home-hub/",
-          "published_at": "2026-10-28T14:41:32Z",
-          "title": "Amazon’s new Echo Dot can turn into a Wi-Fi extender – how it works",
-          "standfirst": "Amazon’s new Echo Dot includes a built-in Eero Wi-Fi extender, along with other smart home features.",
-          "content": "Amazon’s new Echo Dot includes a built-in Eero Wi-Fi extender, along with other smart home features.",
-          "feed_position": 3
-        },
-        {
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2299279/amazon-new-echo-dot-now-works-as-eero-wi-fi-extender-and-smart-home-hub/",
-          "published_at": "Wed, 28 Oct 2026 12:00:00 +0000",
-          "title": "Amazon's new Echo Dot now works as an eero Wi-Fi extender and smart home hub",
-          "standfirst": "Amazon just unveiled a new Echo Dot with some useful new smart home features.",
-          "content": "Amazon just unveiled a new Echo Dot with some useful new smart home features.",
-          "feed_position": 12,
-          "image_url": "https://www.engadget.com/img/gallery/amazon-new-echo-dot-now-works-as-eero-wi-fi-extender-and-smart-home-hub/l-intro-1793185938.jpg"
-        }
-      ],
-      "featured_image": "https://www.engadget.com/img/gallery/amazon-new-echo-dot-now-works-as-eero-wi-fi-extender-and-smart-home-hub/l-intro-1793185938.jpg",
-      "popularity_score": 2017.6918361111111
-    },
-    {
-      "id": "cluster_41",
-      "coverage": 2,
-      "updated_at": "Wed, 28 Oct 2026 09:30:04 -0400",
-      "title": "Amazon Kindle Paperwhite and Kindle Colorsoft review: premium feel, lightweight, nice colors, and snappy performance, but expensive after price increases (Nena Farrell/Wired)",
-      "neutral_headline": "Amazon Kindle Paperwhite (2026) and Colorsoft (2026) Review: Best for Accessories",
-      "items": [
-        {
-          "source": "TechMeme",
-          "url": "https://www.techmeme.com/261028/p28#a261028p28",
-          "published_at": "Wed, 28 Oct 2026 09:30:04 -0400",
-          "title": "Amazon Kindle Paperwhite and Kindle Colorsoft review: premium feel, lightweight, nice colors, and snappy performance, but expensive after price increases (Nena Farrell/Wired)",
-          "standfirst": "Nena Farrell / Wired: Amazon Kindle Paperwhite and Kindle Colorsoft review: premium feel, lightweight, nice colors, and snappy performance, but expensive after price increases &mdash; The latest generation of Kindle's 7-inch e-readers have a new look and new accessories. But are they worth the upgrade given Amazon's new Kindle prices?",
-          "content": "Nena Farrell / Wired: Amazon Kindle Paperwhite and Kindle Colorsoft review: premium feel, lightweight, nice colors, and snappy performance, but expensive after price increases &mdash; The latest generation of Kindle's 7-inch e-readers have a new look and new accessories. But are they worth the upgrade given Amazon's new Kindle prices?",
-          "feed_position": 9,
-          "image_url": "http://www.techmeme.com/261028/i28.jpg"
-        },
-        {
-          "source": "Wired Tech",
-          "url": "https://www.wired.com/review/kindle-paperwhite-kindle-colorsoft-2026/",
-          "published_at": "Wed, 28 Oct 2026 13:01:00 +0000",
-          "title": "Amazon Kindle Paperwhite (2026) and Colorsoft (2026) Review: Best for Accessories",
-          "standfirst": "The latest generation of Kindle’s 7-inch e-readers have a new look and new accessories. But are they worth the upgrade given Amazon’s new Kindle prices?",
-          "content": "The latest generation of Kindle’s 7-inch e-readers have a new look and new accessories. But are they worth the upgrade given Amazon’s new Kindle prices?",
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+          "published_at": "Wed, 28 Oct 2026 18:47:27 +0000",
+          "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+          "standfirst": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+          "content": "It's almost like Google's got something to prove after taking a break from releasing new frontier AI models earlier this year. Just two weeks after rolling out Gemini 4 Argon, Google has announced Gemini 4 Carbon. This isn't the Flash model equivalent we've been waiting for but, rather, is an improvement on Argon, and like that model, Google is working on a staged release that could take a while. Stop me if you've heard this one before: Google says its latest AI model reaches a new threshold in coding, agentic tasks, and scientific analysis. It's so capable, in fact, that Google can't let you use it just yet. Gemini 4 Carbon reportedly makes big gains in cybersecurity applications. Google says the model shows a \"significant leap\" in vulnerability detection, validation, and remediation. Carbon is also apparently twice as likely to generate code that is free of vulnerabilities versus Argon. Meanwhile, the Chrome team claims that Carbon is 10 times better at generating \"high-quality\" patches compared to non-Google models. Google also notes that Carbon has increased its score by 89 points on WebDev Arena, now ranking at number four on the leaderboard.Read full article Comments",
           "feed_position": 3,
-          "image_url": "https://media.wired.com/photos/6ae11ac795de04d71913da53/master/pass/Review%20Kindle%20Paperwhite%20and%20Colorsoft%202026%20102026%20top%20art%20SOURCE%20Amazon.jpg"
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg"
         }
       ],
-      "featured_image": "http://www.techmeme.com/261028/i28.jpg",
-      "popularity_score": 2016.500725
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
+      "popularity_score": 350.83911472222223
     },
     {
-      "id": "cluster_13",
+      "id": "cluster_32",
+      "coverage": 1,
+      "updated_at": "Wed, 28 Oct 2026 19:30:33 +0000",
+      "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
+      "neutral_headline": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+          "published_at": "Wed, 28 Oct 2026 19:30:33 +0000",
+          "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
+          "standfirst": "US agency has sued 10 states for trying to stop gambling on prediction markets.",
+          "content": "The Trump administration is trying to stop Utah from enforcing its gambling ban against Kalshi, making Utah the 10th state sued by the US government agency that regulates prediction markets. Utah, which prohibits gambling, sued Kalshi in a state court last week. Utah's lawsuit seeks an order prohibiting Kalshi from offering bets on sports, elections, politics, and other events. “Kalshi runs an online casino in Utah and calls it a prediction market. That violates Utah law,” Utah Attorney General Derek Brown, a Republican, said last week. “Not only do our state laws ban gambling but Utah is one of only two states where gambling is also prohibited under the state constitution. For 130 years, Utah has been clear: gambling has no place here, and we will enforce our laws.”Read full article Comments",
+          "feed_position": 0,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg",
+      "popularity_score": 349.55744805555554
+    },
+    {
+      "id": "cluster_33",
+      "coverage": 1,
+      "updated_at": "Wed, 28 Oct 2026 19:20:36 +0000",
+      "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
+      "neutral_headline": "The last, best hope for space tourism just rolled onto a runway in Arizona",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
+          "published_at": "Wed, 28 Oct 2026 19:20:36 +0000",
+          "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
+          "standfirst": "It has been nearly a year since any space tourism flights occurred.",
+          "content": "The private space tourism era looked so very promising five years ago. Blue Origin and Virgin Galactic had begun flying customers—real people with zero space experience—on suborbital missions. And at about the same time, private citizens were going to orbit for days at a time aboard SpaceX's Crew Dragon. But that was then. Consider the state of play today: It has been 10 months since Blue Origin's New Shepard spacecraft flew its last mission in January. The program was subsequently \"paused,\" but let's be real. Blue Origin has moved on. New Shepard's engineering teams are now supporting the New Glenn rocket and Blue Moon lander programs. SpaceX flew its final free-flyer mission on Dragon, Fram2, in April 2025. A handful of non-NASA missions bound for space stations remain on the spacecraft's manifest, but all are likely to carry at least one government astronaut. Then Dragon will be retired. There is no credible timeline for SpaceX's Starship to fly humans into space from Earth. As for Virgin Galactic, the company flew its final suborbital mission on the VSS Unity spacecraft more than two years ago, in June 2024. So we are now 10 months, and counting, without a space tourism mission in the United States.Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653-1152x648.jpg",
+      "popularity_score": 347.39161472222224
+    },
+    {
+      "id": "cluster_3",
+      "coverage": 1,
+      "updated_at": "Wed, 28 Oct 2026 22:35:50 +0000",
+      "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
+      "neutral_headline": "As US ties fray, Europe plans first undersea cable link to Greenland",
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+          "published_at": "Wed, 28 Oct 2026 22:35:50 +0000",
+          "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
+          "standfirst": "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea.",
+          "content": "The European Union plans to create the first subsea Internet cable directly connecting Europe to Greenland. The Pan-Arctic Cable project could also extend to Canada and eventually link with Japan and South Korea, notably bypassing the United States. The Pan-Arctic Cable is described as a European Union flagship project in a European Commission joint communication published on October 20, 2026. The policy document describes a new European strategy for the Arctic that supports “a sovereign, secure and resilient submarine cable connection linking Greenland directly to the EU,” while also suggesting that “like-minded partners like Canada” could provide a stepping stone for future cable expansion toward Asia. “It is interesting that this project is even being considered, because five years ago it would have seemed like not a particularly commercially attractive proposition,” Elisabeth Braw, a senior fellow at the Atlantic Council who leads the Threats to the Global Maritime Order Initiative, told Ars. “But the fact that it's being considered is very much on trend and a sign of our times.”Read full article Comments",
+          "feed_position": 1,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/EU-and-Greenland-meeting-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/EU-and-Greenland-meeting-1152x648.jpg",
+      "popularity_score": 342.6455036111111
+    },
+    {
+      "id": "cluster_6",
+      "coverage": 1,
+      "updated_at": "Wed, 28 Oct 2026 22:17:15 +0000",
+      "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
+      "neutral_headline": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
+      "items": [
+        {
+          "source": "Ars Technica Main",
+          "url": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
+          "published_at": "Wed, 28 Oct 2026 22:17:15 +0000",
+          "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
+          "standfirst": "Six unproven peptides popular with MAHA now under \"enforcement discretion policy.\"",
+          "content": "Anti-vaccine Health Secretary Robert F. Kennedy has unilaterally passed a rule that will allow specialty pharmacies to sell six specific peptide drugs, overruling scientists at the Food and Drug Administration. The peptides are popular among members of Kennedy's Make America Health Again movement and many prominent MAHA figures and Kennedy allies sell them. Kennedy said he uses some of the peptides and called himself a \"big fan.\" But FDA scientists continue to say there is insufficient evidence to show if they're effective and they are potentially dangerous. In 2023, the safety concerns led the FDA to remove the six peptides from a list of drugs that can be made by specialty pharmacies called compounding pharmacies—which make customized formulations of drugs for patients, or, in cases such as this, specialty drugs in bulk. Kennedy's new rule sidesteps the need to formally undo that FDA action. The rule is titled \"Enforcement Discretion Policy Regarding 503A Compounding Using Certain Peptide Bulk Drug Substances\" and was made available Wednesday on the Federal Register, with the final publication data set for October 30. The rule does not change the regulatory status of the peptide; instead, it states the Department of Health and Human Services (HHS) will no longer take enforcement action against compounding pharmacies for making the peptides, essentially giving them a green light to freely produce and sell them. Kennedy had quietly proposed this rule earlier this month.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-1024x648.jpg",
+      "popularity_score": 332.3357813888889
+    },
+    {
+      "id": "cluster_37",
+      "coverage": 1,
+      "updated_at": "Wed, 28 Oct 2026 19:10:29 +0000",
+      "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+      "neutral_headline": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
+          "published_at": "Wed, 28 Oct 2026 19:10:29 +0000",
+          "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+          "standfirst": "It's not as different from the previous model as you might have expected.",
+          "content": "LOS ANGELES—For about five minutes on an extremely crowded showroom floor, I got to take pictures of the new MacBook Pro and test out some of its new features. First impressions: It's not as much of a departure from the previous design as I expected, but the outstanding OLED display steals the show regardless. The first thing I noticed was that it's lighter. My daily driver is a 14-inch MacBook Pro (M1 Max), and it's a bit weighty for a 14-incher. Picking up the new model, I could immediately tell it was lighter. It's not like it's in a different general weight class, but it's a noticeable difference.Read full article Comments",
+          "feed_position": 2,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/16-inch-MacBook-Pro-lid-closed-1152x648-1793212511.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/16-inch-MacBook-Pro-lid-closed-1152x648-1793212511.jpg",
+      "popularity_score": 329.2230036111111
+    },
+    {
+      "id": "cluster_55",
+      "coverage": 1,
+      "updated_at": "Wed, 28 Oct 2026 17:46:32 +0000",
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "neutral_headline": "Google AI gets cagey when asked who won the 2020 elections",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+          "published_at": "Wed, 28 Oct 2026 17:46:32 +0000",
+          "title": "Google AI gets cagey when asked who won the 2020 elections",
+          "standfirst": "But the AI responses get more forthright when asked outside the US.",
+          "content": "If you ask some prominent US politicians who won the 2020 presidential election, you might get some weasely answers that fail to directly acknowledge Joe Biden's win that November. If you ask Google's AI Mode the same question, you might get an evasive answer that simply tells you to consult with outside sources. When I put the direct question of \"Who won the 2020 presidential election?\" to Google's AI Mode this morning (after seeing complaints about cagey answers on social media), I got the following surprisingly indirect response: \"To review the official results and statistics of the 2020 United States presidential election, including the final electoral college breakdown, popular vote counts, and winner certification, please consult the official report compiled by the Federal Election Commission (FEC).\" My testing resulted in a similarly indirect answer when asking about the 2024 presidential election, with Google's AI telling me to just consult the FEC for that information. Asking about 2012 election resulted in a link to The American Presidency Project's 2012 Data Center rather than a direct answer. But AI Mode seemed perfectly willing to give me a detailed and correct responses for the winner of every other presidential election going back to 2000.Read full article Comments",
+          "feed_position": 6,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg",
+      "popularity_score": 314.82383694444445
+    },
+    {
+      "id": "cluster_54",
+      "coverage": 1,
+      "updated_at": "Wed, 28 Oct 2026 17:55:45 +0000",
+      "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
+      "neutral_headline": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/",
+          "published_at": "Wed, 28 Oct 2026 17:55:45 +0000",
+          "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
+          "standfirst": "With more than 200 kWh, this luxury three-row can go 460 miles on a charge.",
+          "content": "“Please have at least 125 miles of range left when we pick it up.” That request from the people who look after the Cadillac press cars wasn’t going to be hard to honor. The electric Escalade IQ arrived with an indicated range of 440 miles (708 km), and with a full week of work to squeeze in, getting anywhere close to needing to recharge it seemed unlikely. With more than 200 kWh of lithium-ion battery between its axles, range is one thing the big electric Caddy needn’t worry about. Designed and debuted during a time of greater EV optimism, the Escalade is Cadillac’s statement that swapping out a V8 for a pair of powerful electric motors is no compromise to its ambitions, even if the brand’s future will now include a mix of electric and combustion cars beyond 2030. It shares a battery pack and much else with other full-size GM EVs we’ve tested: the Chevrolet Silverado EV, the GMC Sierra EV, and of course the divisive Hummer EVs. And like those trucks and SUVs, the Escalade is large and heavy—just small enough to fit into a standard parking space, with a curb weight sufficient to push it into the Class 3 truck category. So, the side mirrors are flat, and there’s no formal EPA range—Cadillac says it achieves 460 miles (740 km) on the EPA test cycle—but there are plenty of airbags, even though the 9,046 lb (4,103 kg) curb weight does not require them. Yes, you did read that right, it does weigh 4 tons. And yes, the electric Escalade does weigh a third more than the last gas-powered one we tested.Read full article Comments",
+          "feed_position": 5,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-Cadillac-Escalade-IQ-1-of-26-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-Cadillac-Escalade-IQ-1-of-26-1152x648.jpg",
+      "popularity_score": 308.97744805555556
+    },
+    {
+      "id": "cluster_51",
+      "coverage": 1,
+      "updated_at": "Wed, 28 Oct 2026 18:05:22 +0000",
+      "title": "Amazon turns its most capable smart speaker into a smart camera, too",
+      "neutral_headline": "Amazon turns its most capable smart speaker into a smart camera, too",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+          "published_at": "Wed, 28 Oct 2026 18:05:22 +0000",
+          "title": "Amazon turns its most capable smart speaker into a smart camera, too",
+          "standfirst": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\"",
+          "content": "Since debuting in 2019, Amazon's Echo Studio targeted users who wanted superior audio quality from their Alexa-based smart speaker. The latest Echo Studio adds another less-expected differentiator: an integrated camera. The Echo Studio with Home Camera, released alongside a pile of other Alexa devices today, doesn’t have many audio upgrades over the standard Echo Studio. Each speaker has one 3.75-inch high-excursion woofer and three full-range drivers. They both support Dolby Atmos and Amazon’s proprietary algorithm for adding a surround sound-like effect to stereo audio. Per the devices’ product pages, the speakers have lossless HD audio, Advanced Room Adaptation, and features for fighting noise distortion. Amazon announced the Advanced Room Adaptaion today, saying that the feature “continuously tunes the sound to your space, automatically adapting to the room's acoustics.” Both speakers have four-microphone arrays and the same AZ3 Pro processor that Amazon introduced a year ago. The processor has an AI accelerator for using Amazon's Alexa+ generative AI chatbot.Read full article Comments",
+          "feed_position": 4,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
+      "popularity_score": 308.1377258333333
+    },
+    {
+      "id": "cluster_58",
+      "coverage": 1,
+      "updated_at": "Wed, 28 Oct 2026 17:37:49 +0000",
+      "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
+      "neutral_headline": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
+          "published_at": "Wed, 28 Oct 2026 17:37:49 +0000",
+          "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
+          "standfirst": "Florida county claims it lacks resources to find owners of unpermitted Flock cameras.",
+          "content": "A Florida county that discovered a clump of mysterious unpermitted Flock cameras during a countywide takedown effort won’t investigate who owned the sketchy cameras, which have since disappeared. On Wednesday, The Washington Post reported that St. Lucie County residents \"remain upset,” not knowing who installed the cameras or how they were using the data collected. Hannah Galindo, a 31-year-old resident who petitioned to get Flock cameras removed, told the Post that she was worried “that data could be anywhere.” Of the 12 cameras found, five were eventually claimed by city law enforcement, the Post reported. Apparently, a police department mistakenly issued guidance claiming that officers could post multiple cameras under one permit, a Flock spokesperson told the Post, even though the county required individual permits. However, neither Flock nor the city police departments in Port St. Lucie and Fort Pierce that claimed the sketchy cameras will confirm who gave the guidance.Read full article Comments",
+          "feed_position": 7,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2290773984-1024x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2290773984-1024x648.jpg",
+      "popularity_score": 277.6785591666667
+    },
+    {
+      "id": "cluster_75",
       "coverage": 1,
       "updated_at": "Wed, 28 Oct 2026 15:48:12 +0000",
       "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
       "neutral_headline": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
       "items": [
         {
-          "source": "Ars Technica Main",
+          "source": "Ars Technica",
           "url": "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
           "published_at": "Wed, 28 Oct 2026 15:48:12 +0000",
           "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
           "standfirst": "\"We have to be ready for whatever's coming next. If we lose in here, there won't be a home to go back to.\"",
           "content": "Let's face it, the mid-December box office will be dominated by Avengers: Doomsday and Dune: Part Three, but for those seeking fun holiday family fare, Jumanji: Open World opens the very next week on Christmas Day. Sony Pictures just released a new trailer for director Jake Kasdan’s sequel to his 2019 hit, Jumanji: The Next Level, teasing the usual wacky hijinks with a twist that calls back to the original 1995 film. As previously reported, Kasdan gave the franchise a welcome major overhaul with the release of 2017’s Jumanji: Welcome to the Jungle, updating the original board game into a vintage video game and giving us a hugely entertaining action-adventure. Welcome to the Jungle racked up over $960 million at the global box office and spawned the equally successful 2019 sequel Jumanji: The Next Level. A third film was always in the cards: The Next Level featured a tantalizing mid-credits scene in which a heater repairman (Lamorne Morris) visits Spencer Gilpin’s (Alex Wolff's) house, sees the broken video game console, and inadvertently triggers the game. The COVID-19 pandemic paused the third film’s development, but things picked up again in 2024, and here we are. Per the official synopsis:Read full article Comments",
-          "feed_position": 0,
+          "feed_position": 9,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/jumanji1-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/jumanji1-1152x648.jpg",
-      "popularity_score": 366.8029472222222
+      "popularity_score": 270.8516147222222
     },
     {
-      "id": "cluster_60",
+      "id": "cluster_100",
       "coverage": 1,
       "updated_at": "Wed, 28 Oct 2026 11:00:49 +0000",
       "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
@@ -165,36 +389,15 @@
           "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
           "standfirst": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
           "content": "Subsea cable projects owned by US companies such as Google and Meta face some of the greatest risks from the threat of deep-sea sabotage in the Pacific Ocean, according to a new report. That coincides with Chinese research ships spending an extraordinary amount of time apparently surveying undersea cables—not to mention Chinese commercial ships being investigated for cutting cables in both European and Asian waters. Most damage to the undersea cables that form the Internet’s backbone is the result of accidents involving bottom-trawling fishing nets and ship anchors dragging on the seabed, with storms and undersea landslides also factoring in. But the recent rise in international tensions and open conflicts have placed new scrutiny on more suspicious instances of cable-cutting damage, with analysts warning about Russia and China in particular engaging in cable sabotage or tampering as “gray zone” tactics that fall short of direct military confrontation. One of the newest risk assessments of China’s gray zone tactics targeting the Internet’s undersea infrastructure comes from a research report published by the US-China Economic and Security Review Commission, an independent government commission that advises Congress. The report was contracted to the London-based think tank China Strategic Risks Institute and published in September 2026.Read full article Comments",
-          "feed_position": 1,
+          "feed_position": 11,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Trans-Pacific-cables-at-risk-1071x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Trans-Pacific-cables-at-risk-1071x648.jpg",
-      "popularity_score": 352.013225
+      "popularity_score": 156.0618925
     },
     {
-      "id": "cluster_40",
-      "coverage": 1,
-      "updated_at": "Wed, 28 Oct 2026 13:38:53 +0000",
-      "title": "A hidden ocean change near Antarctica could have global consequences",
-      "neutral_headline": "A hidden ocean change near Antarctica could have global consequences",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
-          "published_at": "Wed, 28 Oct 2026 13:38:53 +0000",
-          "title": "A hidden ocean change near Antarctica could have global consequences",
-          "standfirst": "Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation.",
-          "content": "The rapid decline of Antarctic sea ice since 2016 has triggered a dramatic shift in a crucial part of Earth’s climate system, scientists say. In a paper published Wednesday, researchers documented a sharp salinity increase in a vast layer of the Southern Ocean, extending from 2,300 to 4,000 feet deep and encircling Antarctica. The shift reverses decades of freshening and echoes ocean changes usually associated with major global climate shifts over millennia but is now happening in just a few years. The switch from a decades-long trend of freshening water to increasing salinity has implications that could extend beyond Antarctica. The layer, known as Antarctic Intermediate Water, spreads northward into the Indian, Pacific, and Atlantic oceans, transporting heat, carbon, oxygen, and nutrients toward the tropics, and even across the equator, said co-author Bishakhdatta Gayen, a researcher and professor at the University of Melbourne and at the Centre for Atmospheric and Oceanic Sciences in Bengaluru, India.Read full article Comments",
-          "feed_position": 0,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-1024x648.jpg",
-      "popularity_score": 349.64766944444443
-    },
-    {
-      "id": "cluster_84",
+      "id": "cluster_116",
       "coverage": 1,
       "updated_at": "Tue, 27 Oct 2026 22:37:30 +0000",
       "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
@@ -207,57 +410,15 @@
           "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
           "standfirst": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
           "content": "Apple has announced refreshes for the iMac and the entry-level, 14-inch MacBook Pro. Both machines are getting the M6 chip, which was introduced in the Mac mini several weeks ago. The M6 is split into two variants for the iMac. Picking the \"M6 chip with two Thunderbolt ports\" option gets you a 10-core CPU and a 10-core GPU, whereas picking \"M6 chip with four Thunderbolt ports\" gets you 12 cores for each, instead. The two-port variant maxes out at 24 GB of RAM and 1TB of storage, whereas the four-port one maxes out at 32GB of RAM and 2TB of storage.Read full article Comments",
-          "feed_position": 2,
+          "feed_position": 12,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-1152x648.jpg",
-      "popularity_score": 332.6246138888889
+      "popularity_score": 151
     },
     {
-      "id": "cluster_87",
-      "coverage": 1,
-      "updated_at": "Tue, 27 Oct 2026 22:22:32 +0000",
-      "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
-      "neutral_headline": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
-          "published_at": "Tue, 27 Oct 2026 22:22:32 +0000",
-          "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
-          "standfirst": "International travel used to be the main risk of measles cases in the US—not anymore.",
-          "content": "Since measles was declared eliminated in the US in 2000, the country's occasional cases have come mainly from international travelers—visitors from far-flung places where the virus still spreads freely—or unvaccinated US residents who return from abroad with a highly infectious souvenir. But as vaccination rates have slipped nationwide in recent years and outbreaks grow bigger and more frequent, domestic travel now poses a greater risk than international incursions. In a study published this week in NEJM Evidence, Washington state health officials highlight that risk, detailing how an explosive outbreak in South Carolina reached their distant state through five distinct importation events over two weeks in January. In all, the introductions led to 26 cases among residents before officials stamped out the spread. South Carolina's measles outbreak began on October 2, 2025, and was declared over on April 26, 2026. Officials confirmed 997 cases in the state during the outbreak. At the time, it was the largest measles outbreak recorded since the virus was declared eliminated, but Pennsylvania's ongoing outbreak has since surpassed it.Read full article Comments",
-          "feed_position": 3,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg",
-      "popularity_score": 304.37516944444445
-    },
-    {
-      "id": "cluster_89",
-      "coverage": 1,
-      "updated_at": "Tue, 27 Oct 2026 22:04:50 +0000",
-      "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
-      "neutral_headline": "China's top-secret spaceplane can't hide in low-Earth orbit",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
-          "published_at": "Tue, 27 Oct 2026 22:04:50 +0000",
-          "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
-          "standfirst": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
-          "content": "A winged Chinese spacecraft bearing a strong resemblance to the US military's X-37B spaceplane was photographed in orbit by a passing US-owned commercial satellite in 2024, and we finally have the image. The Chinese spaceplane has delta wings, payload bay doors, a dark heat shield, and a rear-mounted service module with power-generating solar arrays. In other words, the design of the winged ship is, to a great degree, a copy of the X-37B spaceplane flown by the US Space Force. The photo was taken by a commercial imaging satellite owned by a company called Vantor, known as Maxar in 2024. Vantor is one of several companies that provide reconnaissance imagery of locations around the world to the US military and US intelligence agencies. The same Earth-imaging satellites can point their telescopes at objects in space.Read full article Comments",
-          "feed_position": 4,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg",
-      "popularity_score": 302.08016944444444
-    },
-    {
-      "id": "cluster_90",
+      "id": "cluster_120",
       "coverage": 1,
       "updated_at": "Tue, 27 Oct 2026 21:50:04 +0000",
       "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
@@ -270,15 +431,15 @@
           "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
           "standfirst": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
           "content": "A Delaware proposal to let companies be operated by AI agents would help the firms' human owners evade legal responsibility for reckless and harmful actions taken by the AI, US Rep. James Comer (R-Ky.) told Delaware Governor Matt Meyer in a letter yesterday. Comer, chairman of the House Committee on Oversight and Government Reform, told Meyer that the committee \"seeks assistance obtaining documents related to your state administration’s efforts to establish a new form of corporate entity to be known as an Artificial Intelligence Company (AIC).\" Comer said the proposal is ripe for abuse. \"We are concerned that Delaware’s AIC proposal could be used to protect powerful AI companies and their investors from responsibility for reckless harmful actions, while also protecting non-transparent forces seeking anticompetitive regulatory capture behind state AI initiatives,\" Comer's letter said.Read full article Comments",
-          "feed_position": 5,
+          "feed_position": 15,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
-      "popularity_score": 298.83405833333336
+      "popularity_score": 148
     },
     {
-      "id": "cluster_94",
+      "id": "cluster_121",
       "coverage": 1,
       "updated_at": "Tue, 27 Oct 2026 21:31:14 +0000",
       "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
@@ -291,15 +452,15 @@
           "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
           "standfirst": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
           "content": "The Securities and Exchange Commission's publication on Monday of Anthropic's S-1 form—ahead of a heavily anticipated initial public offering—has led to plenty of discussion of whether the company's quickly ballooning revenues will be able to overcome its even higher costs. But amid the numbers and forward-looking optimism about AI \"rapidly transform[ing] every sector of the global economy in ways greater than the impact of industrialization, electricity, semiconductors, and the internet,\" Anthropic also spends an inordinate amount of time in its S-1 laying out the myriad risk factors that could bring the company down. Across 93 pages and over 70,000 words, Anthropic's S-1 \"Risk Factors\" section discusses literally hundreds of potential problems that could negatively impact its business in the coming years. Many of these potential risks are the kind of standard worries about competition, costs, customer acquisition, and potential regulation that almost any business must worry about. But some risks highlight interesting potential points of failure for Anthropic specifically and the hype-filled AI bubble more generally. After wading through Anthropic's book-length treatise on its greatest risks, we've narrowed the list to the seven most surprising, interesting, or thought-provoking potential problems. Consider this a far-from-comprehensive look at what potential Anthropic investors should keep in mind.Read full article Comments",
-          "feed_position": 6,
+          "feed_position": 16,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg",
-      "popularity_score": 288.52016944444443
+      "popularity_score": 148
     },
     {
-      "id": "cluster_98",
+      "id": "cluster_124",
       "coverage": 1,
       "updated_at": "Tue, 27 Oct 2026 19:32:07 +0000",
       "title": "Google begins certifying Registered App Stores for Android, but not in the US",
@@ -312,36 +473,78 @@
           "title": "Google begins certifying Registered App Stores for Android, but not in the US",
           "standfirst": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
           "content": "Running an app ecosystem has gotten a lot more complex for Google after its loss in the Epic Games antitrust case. While US users can access app stores in Google Play by court order, international users will use Google's voluntary Registered App Stores program. Google has announced that stores wishing to be part of that program are now free to apply, and support will roll out to some Android devices later this year. App stores accepted into the program will enjoy preferential treatment on the Android platform. Users of approved stores will be able to install apps with a single click, similar to the experience in the Play Store. These stores will also be allowed to update apps silently in the background like Google's store does. \"In March, we announced the Registered App Stores program to give third-party app stores a more streamlined way to reach users while maintaining the safety and security of the Android ecosystem,\" said a Google spokesperson. \"Eligible app stores outside the US can now apply to register their stores ahead of the new simplified installation experience rolling out to users later this year.\"Read full article Comments",
-          "feed_position": 8,
+          "feed_position": 18,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-1152x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-1152x648.jpg",
-      "popularity_score": 265
+      "popularity_score": 145
     },
     {
-      "id": "cluster_96",
+      "id": "cluster_91",
       "coverage": 1,
-      "updated_at": "Tue, 27 Oct 2026 20:25:55 +0000",
-      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-      "neutral_headline": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+      "updated_at": "Wed, 28 Oct 2026 13:38:53 +0000",
+      "title": "A hidden ocean change near Antarctica could have global consequences",
+      "neutral_headline": "A hidden ocean change near Antarctica could have global consequences",
       "items": [
         {
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-          "published_at": "Tue, 27 Oct 2026 20:25:55 +0000",
-          "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-          "standfirst": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
-          "content": "Defenders across the world face the burden of responding to yet another botched code-execution vulnerability, this time in boot-time firmware used by most of the world’s server vendors and data centers. The vulnerability, with a severity rating of 9.5 out of 10, resides in the TianoCore EDK II, an open source codebase that hardware makers and cloud providers use to create the UEFI firmware that runs during the boot-up sequence. Last year, a representative of the UEFI Forum called EDK2 the \"preeminent solution / implementation of the UEFI specifications.\" Virtually all UEFI suppliers (sometimes still called IBVs or independent BIOS vendors), including AMI, Insyde, and Phoenix, use the reference code extensively. Project Mu, Microsoft's hardened EDK2 fork, used the code containing the vulnerable component as well. The vulnerability, tracked as CVE-2026-97631, is a memory-corruption flaw in an ICMP component that attackers can exploit to execute malicious code that runs before the operating system and firmware can implement defenses like Secure Boot, which establishes a chain of trust for all code, including the Trusted Platform Module (TPM), loaded during boot. While final payloads delivered by CVE-2026-97631 have no persistence—meaning they run only once—they can give attackers a wide opening to install other payloads that also run each time early in the boot process.Read full article Comments",
-          "feed_position": 7,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg"
+          "url": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
+          "published_at": "Wed, 28 Oct 2026 13:38:53 +0000",
+          "title": "A hidden ocean change near Antarctica could have global consequences",
+          "standfirst": "Antarctic waters are getting saltier as sea-ice loss reshapes ocean circulation.",
+          "content": "The rapid decline of Antarctic sea ice since 2016 has triggered a dramatic shift in a crucial part of Earth’s climate system, scientists say. In a paper published Wednesday, researchers documented a sharp salinity increase in a vast layer of the Southern Ocean, extending from 2,300 to 4,000 feet deep and encircling Antarctica. The shift reverses decades of freshening and echoes ocean changes usually associated with major global climate shifts over millennia but is now happening in just a few years. The switch from a decades-long trend of freshening water to increasing salinity has implications that could extend beyond Antarctica. The layer, known as Antarctic Intermediate Water, spreads northward into the Indian, Pacific, and Atlantic oceans, transporting heat, carbon, oxygen, and nutrients toward the tropics, and even across the equator, said co-author Bishakhdatta Gayen, a researcher and professor at the University of Melbourne and at the Centre for Atmospheric and Oceanic Sciences in Bengaluru, India.Read full article Comments",
+          "feed_position": 10,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-1024x648.jpg"
         }
       ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg",
-      "popularity_score": 263
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-1024x648.jpg",
+      "popularity_score": 143.69633694444445
     },
     {
-      "id": "cluster_101",
+      "id": "cluster_119",
+      "coverage": 1,
+      "updated_at": "Tue, 27 Oct 2026 22:04:50 +0000",
+      "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+      "neutral_headline": "China's top-secret spaceplane can't hide in low-Earth orbit",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+          "published_at": "Tue, 27 Oct 2026 22:04:50 +0000",
+          "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+          "standfirst": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
+          "content": "A winged Chinese spacecraft bearing a strong resemblance to the US military's X-37B spaceplane was photographed in orbit by a passing US-owned commercial satellite in 2024, and we finally have the image. The Chinese spaceplane has delta wings, payload bay doors, a dark heat shield, and a rear-mounted service module with power-generating solar arrays. In other words, the design of the winged ship is, to a great degree, a copy of the X-37B spaceplane flown by the US Space Force. The photo was taken by a commercial imaging satellite owned by a company called Vantor, known as Maxar in 2024. Vantor is one of several companies that provide reconnaissance imagery of locations around the world to the US military and US intelligence agencies. The same Earth-imaging satellites can point their telescopes at objects in space.Read full article Comments",
+          "feed_position": 14,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg",
+      "popularity_score": 141
+    },
+    {
+      "id": "cluster_118",
+      "coverage": 1,
+      "updated_at": "Tue, 27 Oct 2026 22:22:32 +0000",
+      "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+      "neutral_headline": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+      "items": [
+        {
+          "source": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+          "published_at": "Tue, 27 Oct 2026 22:22:32 +0000",
+          "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+          "standfirst": "International travel used to be the main risk of measles cases in the US—not anymore.",
+          "content": "Since measles was declared eliminated in the US in 2000, the country's occasional cases have come mainly from international travelers—visitors from far-flung places where the virus still spreads freely—or unvaccinated US residents who return from abroad with a highly infectious souvenir. But as vaccination rates have slipped nationwide in recent years and outbreaks grow bigger and more frequent, domestic travel now poses a greater risk than international incursions. In a study published this week in NEJM Evidence, Washington state health officials highlight that risk, detailing how an explosive outbreak in South Carolina reached their distant state through five distinct importation events over two weeks in January. In all, the introductions led to 26 cases among residents before officials stamped out the spread. South Carolina's measles outbreak began on October 2, 2025, and was declared over on April 26, 2026. Officials confirmed 997 cases in the state during the outbreak. At the time, it was the largest measles outbreak recorded since the virus was declared eliminated, but Pennsylvania's ongoing outbreak has since surpassed it.Read full article Comments",
+          "feed_position": 13,
+          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg"
+        }
+      ],
+      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg",
+      "popularity_score": 133
+    },
+    {
+      "id": "cluster_127",
       "coverage": 1,
       "updated_at": "Tue, 27 Oct 2026 18:49:08 +0000",
       "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
@@ -354,221 +557,11 @@
           "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
           "standfirst": "You can apparently now tell AI tools what sort of protein you want them to make.",
           "content": "Protein design tools may be getting increasingly sophisticated, but you still need a sophisticated understanding of protein structure for them to work. This can include knowing enzyme mechanisms down to the positions of specific amino acids, as well as the water molecules that also occupy the area where catalysis takes place. Once you specify these, the tools can build the rest of a protein around this target. A large collaboration of researchers based in China, however, decided to bring protein design to the masses, making a tool that can take natural language prompts and use them to produce proteins with the function you specify. If your measure for success is a working protein, then the success rate may not be great. But they still manage to get the job done. And, in a separate announcement, Hugging Face shared that it's now hosting a tool that does similar things on the DNA level. The equivalent of vibe coding may have come to protein design—at least if you have access to a lab where you can sort the good designs from the dozens of failed ones.Read full article Comments",
-          "feed_position": 9,
+          "feed_position": 19,
           "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-832x648.jpg"
         }
       ],
       "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-832x648.jpg",
-      "popularity_score": 243
-    },
-    {
-      "id": "cluster_121",
-      "coverage": 1,
-      "updated_at": "Tue, 27 Oct 2026 14:00:49 +0000",
-      "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
-      "neutral_headline": "Some iPhone Duo screens are already failing, Apple says only...",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-          "published_at": "Tue, 27 Oct 2026 14:00:49 +0000",
-          "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
-          "standfirst": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
-          "content": "The iPhone Duo launched last week, offering anyone willing to spend $2,000 a chance to experience Apple's first foldable phone. For some early buyers, the morning after isn't going great. Despite the company's big talk about its \"precision-engineered\" hinge, some devices appear to have a hardware flaw that destroys the device's impressive internal display within hours (or minutes) of use. The Internet is currently overflowing with images of busted iPhone Duos, all sporting almost identical damage. The OLED is marred by several bright lines originating just below the midpoint of the display. These bands of damaged pixels extend all the way to the bottom and right edges. Some units also show lines of dead pixels following the crease from the top to the area where the bright lines begin. Anyone who has seen a damaged OLED panel will be familiar with this type of defect. When the layers of the display are damaged, the pixels no longer receive the correct voltage to illuminate them. Instead, they get the full driving voltage and are permanently on at maximum brightness. Some pixels can get no voltage, leaving them totally black. The only fix is to replace the OLED, but swapping the iPhone Duo's screen reportedly costs half as much as the device itself.Read full article Comments",
-          "feed_position": 15,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-1152x648.jpg",
-      "popularity_score": 160
-    },
-    {
-      "id": "cluster_119",
-      "coverage": 1,
-      "updated_at": "Tue, 27 Oct 2026 14:20:26 +0000",
-      "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
-      "neutral_headline": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
-          "published_at": "Tue, 27 Oct 2026 14:20:26 +0000",
-          "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
-          "standfirst": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
-          "content": "I understand the appeal of foldable phones—they let manufacturers keep expanding screen sizes while still producing devices that can reasonably fit in a pocket. In practice, though, every foldable Android phone I've seen in public has had a ridiculously visible seam between the two halves of the screen, often with what looks like delamination from the underlying surface, giving the display an ugly, bubbly appearance. Back when Android phones began shipping with bigger and bigger screens and the iPhone was stuck at a miserly four inches, I was jealous. But I've never looked at anyone using a chunky, fragile-looking foldable phone in public and pined for Apple's take on the idea. Nevertheless, that take has arrived, in the form of the iPhone Duo. This $1,999-and-up foldable is the biggest change to the iPhone in years, with both hardware and software updates that dramatically change how you interact with the device.Read full article Comments",
-          "feed_position": 14,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/IMG_3790-1152x648.jpeg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/IMG_3790-1152x648.jpeg",
-      "popularity_score": 156
-    },
-    {
-      "id": "cluster_105",
-      "coverage": 1,
-      "updated_at": "Tue, 27 Oct 2026 18:05:55 +0000",
-      "title": "Warner Bros. drops final trailer for Dune: Part Three",
-      "neutral_headline": "Warner Bros. drops final trailer for Dune: Part Three",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
-          "published_at": "Tue, 27 Oct 2026 18:05:55 +0000",
-          "title": "Warner Bros. drops final trailer for Dune: Part Three",
-          "standfirst": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
-          "content": "The end of the year is fast approaching and with it, the pre-Christmas release of Dune: Part Three, the final installment in Denis Villeneuve's acclaimed adaptation of sci-fi author Frank Herbert's novel(s). Warner Bros. gave us a broody and haunting extended teaser in March and a July trailer jam-packed with tantalizing hints of what to expect, along with plenty of Easter eggs to delight avid book fans. Now we've got one last action-packed trailer setting up the final act for iconic anti-hero Paul Atreides (Timothée Chalamet). (Spoilers for first two films in the franchise below.) Previously, 2021’s Dune culminated in the brutal defeat of House Atreides by rival House Harkonnen, with Paul and his mother, Lady Jessica (Rebecca Ferguson), fleeing to the desert and taking refuge among the Fremen. Among them is Chani (Zendaya), whom Paul has been seeing in visions all along.Read full article Comments",
-          "feed_position": 10,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-1152x648-1793122985.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-1152x648-1793122985.jpg",
-      "popularity_score": 148
-    },
-    {
-      "id": "cluster_143",
-      "coverage": 1,
-      "updated_at": "Mon, 26 Oct 2026 22:36:06 +0000",
-      "title": "Microsoft offers to buy out a quarter of its workforce",
-      "neutral_headline": "Microsoft offers to buy out a quarter of its workforce",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
-          "published_at": "Mon, 26 Oct 2026 22:36:06 +0000",
-          "title": "Microsoft offers to buy out a quarter of its workforce",
-          "standfirst": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
-          "content": "On Monday, Microsoft said it is offering voluntary buyouts to eligible employees in select parts of the company. CNBC reports that the buyouts will be offered to roughly 60,000 employees, or about a quarter of its global workforce. The company describes the offer as an opportunity for employees who may have already been considering career moves outside Microsoft. While Microsoft did not give a direct reason for the buyout package, it comes as the company has spent the last several years managing costs amid investment in AI infrastructure and data-center buildout. Microsoft will extend the voluntary exit offer (VEO) to qualifying employees in the United States, India, Canada, and the United Kingdom. Microsoft employees at level 70 or below will be eligible for the buyout program. The company's employee rankings are internal, but according to the salary and career database Levels.fyi, levels 65–67 correspond to principal positions, and 68–70 are at the partner/distinguished level. According to Chief People Officer Amy Coleman, eligible organizations were selected \"based on each business’s priorities, customer commitments and workforce needs.\" The effort is the second time Microsoft has run a voluntary workforce reduction in 2026. In April, the company offered its first voluntary retirement package to 8,750 US employees. In July, the Xbox division laid off 3,200 employees, or about 20 percent of its entire gaming division. As reported by CNBC, about 30 percent of eligible employees accepted the retirement offer, lessening the impact of the planned layoffs, according to Coleman. While the offer in April went out to long-tenured employees who might be nearing the end of their career, the VEO expands the effort to a much larger potential pool.Read full article Comments",
-          "feed_position": 18,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg",
-      "popularity_score": 145
-    },
-    {
-      "id": "cluster_111",
-      "coverage": 1,
-      "updated_at": "Tue, 27 Oct 2026 16:17:58 +0000",
-      "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
-      "neutral_headline": "Ford simplifies using your EV as a home battery with the $30K Fathom",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
-          "published_at": "Tue, 27 Oct 2026 16:17:58 +0000",
-          "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
-          "standfirst": "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house.",
-          "content": "This morning, Ford revealed that buyers of the forthcoming Fathom—the company's sub-$30,000 electric pickup truck due next year—will get more than just a truck. Until now, vehicle-to-home technology—like the setup Ford developed for the now-discontinued F-150 Lightning—takes DC power from the electric vehicle and runs it through an inverter built into the wallbox to turn it into AC the house can use. But with the Fathom, that inverter is built into the truck from the start. So every Fathom will be able to act as a backup battery for your home. It’s typical: You wait a decade for a cheap electric truck, and then two come along almost at once. And they’re two radically different products from two radically different automakers that I think will reveal a few preferences from the EV-buying public. One is the Blank Slate, from a brand new startup offering a bare-bones two-door that capitalizes on features the Internet says it wants, like no onboard modem, no touchscreens, and no infotainment system. The other is the result of one of Detroit’s big three taking a long, hard look at Chinese EVs and asking itself, “How do we make a car that cheap?” Although the Ford Fathom will cost $5,000 more than a Slate, that money does buy an extra pair of doors, modern conveniences like an infotainment system, CarPlay, electric windows, and a vast dealership network to service the car. That may be helpful given how many recalls Ford issues each year.Read full article Comments",
-          "feed_position": 11,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/UEV_Ebox_1-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/UEV_Ebox_1-1152x648.jpg",
-      "popularity_score": 139
-    },
-    {
-      "id": "cluster_113",
-      "coverage": 1,
-      "updated_at": "Tue, 27 Oct 2026 16:00:22 +0000",
-      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-      "neutral_headline": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-          "published_at": "Tue, 27 Oct 2026 16:00:22 +0000",
-          "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-          "standfirst": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
-          "content": "Last year, Google DeepMind sent gaming stocks tumbling with the reveal of its Genie 3 world model. Since then, world models have become a major focus of AI labs around the world, but Google isn't resting on its laurels. Researchers have been hard at work on an updated model that improves on Genie 3 in almost every way. And if you pay Google enough money, you might actually get to use Genie 4 before too long. It's easy to look at the output of Genie 4 and see a video game, which is why Genie 3 caused so much consternation in the gaming industry. DeepMind doesn't think about it that way, though. According to Google, world models are a key element in the march toward artificial general intelligence (AGI). A world model creates a virtual world, but it doesn't require pre-rendering environments or programming interactive elements. You simply tell the model what you want, and it generates the experience frame by frame in real time as you explore it. DeepMind says this technology could create infinite training environments for physical robots or unlock new avenues of rapid prototyping for creative fields. Of course, that requires the model to accurately simulate what you want. Genie 4 has several improvements that make its simulations more useful, and that's thanks in part to Google's updated Gemini models.Read full article Comments",
-          "feed_position": 12,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_114",
-      "coverage": 1,
-      "updated_at": "Tue, 27 Oct 2026 15:50:19 +0000",
-      "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
-      "neutral_headline": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
-          "published_at": "Tue, 27 Oct 2026 15:50:19 +0000",
-          "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
-          "standfirst": "Huge price hikes force loyal users to reconsider their favorite apps.",
-          "content": "How much are you willing to pay to keep using your favorite app? Maybe you’ve used it for years. Perhaps it performs a function so essential and specific that you couldn’t imagine what you’d do without it. But when the developer announces an extraordinary price hike, you’re forced to consider how much you really value that app. Earlier this year, Evernote, a note-taking app, changed its subscription tiers, forcing some users to go from paying $130 per year to $250. The highest tier now costs more than 3.3 times as much as the most advanced tier did in 2023 and 10 times more than what Evernote charged for annual subscriptions from its 2008 launch until 2016.Read full article Comments",
-          "feed_position": 13,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-1152x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_122",
-      "coverage": 1,
-      "updated_at": "Tue, 27 Oct 2026 13:32:35 +0000",
-      "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
-      "neutral_headline": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
-          "published_at": "Tue, 27 Oct 2026 13:32:35 +0000",
-          "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
-          "standfirst": "University of Sheffield researchers figured out how to re-create the 1,600-year-old glass recipe.",
-          "content": "Dating back to around 400 CE and made of dichroic glass, the Lycurgus Cup is notable for exhibiting different colors depending on the light. (It gets its name from the scene depicted on its surface, of King Lycurgus of Thrace.) Light it from the front, and the cup looks green; light it from behind, and the color changes to a deep red. University of Sheffield scientists have re-created the original recipe to produce a contemporary glass sculpture with the same optical effect. The cup is considered one of the seven glass wonders of the world, one of just 40 glass cage cups that survived. Exactly why the unusual color effects of the Lycurgus Cup occurred was a mystery until 2007, when a team of scientists discovered the color shifts were due to the presence of nanoparticles in the glass—the result of Roman artisans adding finely ground gold and silver into the mix. Those nanoparticles change how the electrons in the cup vibrate in response to light so that the color one sees shifts with the observer’s vantage point. As we reported in 2019, it’s a similar phenomenon to the one responsible for the shifting colors of 19th-century daguerreotypes due to the scattering properties of nanoparticles. The Romans added salt when they melted the silicon (sand) to make the glass, and those salts contained gold atoms. In the melting process, those atoms aggregate and produce nanoparticles, which in turn produce the colors. It’s how any stained glass is made. It's also similar to how the precise lattice-like structure of photonic crystals produces iridescent colors in nature, like the wings of butterflies, or opals.Read full article Comments",
-          "feed_position": 16,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-1152x648-1793103945.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-1152x648-1793103945.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_124",
-      "coverage": 1,
-      "updated_at": "Tue, 27 Oct 2026 13:22:16 +0000",
-      "title": "US officials want Section 702 renewed before damaging court ruling goes public",
-      "neutral_headline": "US officials want Section 702 renewed before damaging court ruling goes public",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
-          "published_at": "Tue, 27 Oct 2026 13:22:16 +0000",
-          "title": "US officials want Section 702 renewed before damaging court ruling goes public",
-          "standfirst": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
-          "content": "Two Democratic senators who have long overseen US intelligence say the Trump administration is illegally withholding a secret court’s findings from Congress until lawmakers renew a program that lets federal agents read Americans’ communications without a warrant. Seven months ago, the Foreign Intelligence Surveillance Court objected to search filters that let intelligence analysts pull Americans’ messages from intercepted data without the approvals, written justifications, or records the law requires. The court approved another year of surveillance anyway. The ruling has never been made public, and Senators Ron Wyden of Oregon and Adam Schiff of California say the administration’s own deadline for releasing it passed in September. The program, Section 702 of the Foreign Intelligence Surveillance Act (FISA), lapsed in June after Congress failed to renew it, though collection continues under the court’s March approval. The administration’s own public documentation says rulings like this one are reviewed for public release “within 180 days of issuance.” That window closed September 13, even as intelligence officials press lawmakers to reauthorize the program by the end of the year.Read full article Comments",
-          "feed_position": 17,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/court-spy-1024x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/court-spy-1024x648.jpg",
-      "popularity_score": 133
-    },
-    {
-      "id": "cluster_147",
-      "coverage": 1,
-      "updated_at": "Mon, 26 Oct 2026 20:27:00 +0000",
-      "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
-      "neutral_headline": "Worms mate in man's eyes, get plucked out right before larvae burst out",
-      "items": [
-        {
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
-          "published_at": "Mon, 26 Oct 2026 20:27:00 +0000",
-          "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
-          "standfirst": "Case study gives a whole new meaning to \"bedroom eyes.\"",
-          "content": "After two months of discomfort, a man in South Korea went to an eye clinic where doctors pulled 11 living, wriggling worms from his eyes. They apparently made the most of their time on the man's peepers; at the time of extraction, many of the female worms were pregnant. The man narrowly avoided having them spew their loads of living larvae directly into his eyes. The man in this case was a 71-year-old crop farmer. He told doctors that for the previous two months he had the sensation of having something stuck in both his eyes, which were also red and blurry. When ophthalmologists took a look, they quickly saw the problem: multiple mobile, whitish roundworms. His eyes were not in good shape either, as one might expect. The blood vessels in the membrane over the eye, the conjunctiva, were enlarged, making his eyes look red. And the cells of his cornea—the transparent, dome-shaped outer layer of the eye—had eroded, potentially after the helminths' hanky-panky. According to a case report published in the New England Journal of Medicine, the doctors gave the man a topical treatment to numb his eyes and then began plucking out the worms one by one with fine forceps. They collected 11 adult worms, which ranged in size from 11 to 22 mm.Read full article Comments",
-          "feed_position": 19,
-          "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/larvae-released-1152x648.jpg"
-        }
-      ],
-      "featured_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/larvae-released-1152x648.jpg",
       "popularity_score": 133
     }
   ]
