@@ -1,10 +1,10 @@
 {
   "clinical": {
-    "updated_at": "2026-11-14T22:52:36.726Z",
+    "updated_at": "2026-11-15T02:24:48.215Z",
     "clusters": []
   },
   "professional": {
-    "updated_at": "2026-11-14T22:52:41.696Z",
+    "updated_at": "2026-11-15T02:24:53.559Z",
     "clusters": [
       {
         "id": "cluster_0",
@@ -69,15 +69,25 @@
     ]
   },
   "patient_signals": {
-    "updated_at": "2026-11-14T22:52:41.398Z",
+    "updated_at": "2026-11-15T02:24:51.026Z",
     "clusters": [
       {
         "id": "cluster_0",
         "coverage": 1,
-        "updated_at": "Sat, 14 Nov 2026 22:15:52 GMT",
-        "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-        "neutral_headline": "SpaceX successfully catches top of huge Starship rocket for first time",
+        "updated_at": "Sat, 14 Nov 2026 23:15:10 GMT",
+        "title": "SpaceX catches part of its Starship rocket on return to Earth",
+        "neutral_headline": "SpaceX catches part of its Starship rocket on return to Earth",
         "items": [
+          {
+            "source": "BBC Science",
+            "url": "https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss",
+            "published_at": "Sat, 14 Nov 2026 23:15:10 GMT",
+            "title": "SpaceX catches part of its Starship rocket on return to Earth",
+            "standfirst": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+            "content": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+            "feed_position": 18,
+            "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad8a/live/4ee27b50-e07f-11f1-ad8f-c7361b83fb03.jpg"
+          },
           {
             "source": "BBC Science",
             "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
@@ -95,11 +105,11 @@
             "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
             "standfirst": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
             "content": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-            "feed_position": 19,
+            "feed_position": 20,
             "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg"
           }
         ],
-        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7be/live/5c1b5060-e077-11f1-9ec0-713bf094c3d1.png"
+        "featured_image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad8a/live/4ee27b50-e07f-11f1-ad8f-c7361b83fb03.jpg"
       },
       {
         "id": "cluster_1",
@@ -470,7 +480,7 @@
     ]
   },
   "month_in_research": {
-    "updated_at": "2026-11-14T22:52:41.697Z",
+    "updated_at": "2026-11-15T02:24:53.559Z",
     "clusters": []
   }
 }
